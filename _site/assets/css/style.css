@@ -1883,13 +1883,14 @@ body {
     margin-bottom: 16px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: var(--category-color);
+    color: var(--pirate-yellow);
 }
 
 .tag {
     display: inline-block;
-    background: var(--category-color);
-    color: white;
+    background: transparent;
+    color: var(--pirate-yellow);
+    border: 2px solid var(--pirate-yellow);
     padding: 6px 16px;
     margin-right: 12px;
     margin-bottom: 8px;
@@ -1897,10 +1898,12 @@ body {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    transition: transform 0.2s;
+    transition: all 0.2s;
 }
 
 .tag:hover {
+    background: var(--pirate-yellow);
+    color: var(--pirate-black);
     transform: translateY(-2px);
 }
 
@@ -1916,13 +1919,13 @@ body {
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: var(--category-color);
+    color: var(--pirate-yellow);
     margin: 0;
 }
 
 .share-btn {
-    background: var(--category-color);
-    color: white;
+    background: var(--pirate-yellow);
+    color: var(--pirate-black);
     padding: 12px 20px;
     text-decoration: none;
     font-weight: 700;
@@ -1930,12 +1933,12 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.5px;
     transition: all 0.2s;
-    border: 2px solid var(--category-color);
+    border: 2px solid var(--pirate-yellow);
 }
 
 .share-btn:hover {
     background: transparent;
-    color: var(--category-color);
+    color: var(--pirate-yellow);
     transform: translateY(-2px);
 }
 

@@ -304,29 +304,15 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (postContent) {
         const progressBar = document.createElement('div');
-        const post = document.querySelector('.post');
         
-        // Determine category-specific gradient
-        let gradient = 'linear-gradient(90deg, #FF69B4, #FFA500, #FFD700)'; // default
-        
-        if (post.classList.contains('post-category-udalosti')) {
-            gradient = 'linear-gradient(90deg, #E53E3E, #FEC900)';
-        } else if (post.classList.contains('post-category-nazory')) {
-            gradient = 'linear-gradient(90deg, #3182CE, #FEC900)';
-        } else if (post.classList.contains('post-category-analyzy')) {
-            gradient = 'linear-gradient(90deg, #38A169, #FEC900)';
-        } else if (post.classList.contains('post-category-kultura')) {
-            gradient = 'linear-gradient(90deg, #805AD5, #FEC900)';
-        }
-        
-        progressBar.className = 'reading-progress reading-progress-category';
+        progressBar.className = 'reading-progress';
         progressBar.style.cssText = `
             position: fixed;
             top: 0;
             left: 0;
             width: 0%;
             height: 4px;
-            background: ${gradient};
+            background: #FEC900;
             z-index: 1001;
             transition: width 0.2s;
         `;
