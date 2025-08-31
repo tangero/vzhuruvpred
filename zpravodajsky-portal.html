@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zprávy24 - Váš spolehlivý zpravodajský portál</title>
+    <link rel="stylesheet" href="zpravodajsky-portal.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Horní navigace -->
+    <header class="header">
+        <div class="header-top">
+            <div class="container">
+                <div class="header-top-content">
+                    <div class="weather">
+                        <span class="weather-icon">☀️</span>
+                        <span>Praha 24°C</span>
+                    </div>
+                    <div class="date-time">
+                        <span id="current-date">Čtvrtek 28. listopadu 2024</span>
+                    </div>
+                    <div class="header-links">
+                        <a href="#" class="header-link">Kontakt</a>
+                        <a href="#" class="header-link">Newsletter</a>
+                        <a href="#" class="header-link">RSS</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="header-main">
+            <div class="container">
+                <div class="header-main-content">
+                    <button class="menu-toggle" id="menu-toggle">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <div class="logo">
+                        <h1>Zprávy<span class="accent">24</span></h1>
+                    </div>
+                    <nav class="main-nav" id="main-nav">
+                        <ul>
+                            <li><a href="#" class="nav-link active">Domů</a></li>
+                            <li><a href="#" class="nav-link">Česko</a></li>
+                            <li><a href="#" class="nav-link">Svět</a></li>
+                            <li><a href="#" class="nav-link">Ekonomika</a></li>
+                            <li><a href="#" class="nav-link">Sport</a></li>
+                            <li><a href="#" class="nav-link">Kultura</a></li>
+                            <li><a href="#" class="nav-link">Technologie</a></li>
+                            <li><a href="#" class="nav-link">Zdraví</a></li>
+                            <li><a href="#" class="nav-link">Věda</a></li>
+                        </ul>
+                    </nav>
+                    <div class="header-actions">
+                        <button class="search-btn">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                <circle cx="11" cy="11" r="8"></circle>
+                                <path d="m21 21-4.35-4.35"></path>
+                            </svg>
+                        </button>
+                        <button class="theme-toggle">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                <circle cx="12" cy="12" r="5"></circle>
+                                <line x1="12" y1="1" x2="12" y2="3"></line>
+                                <line x1="12" y1="21" x2="12" y2="23"></line>
+                                <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                <line x1="1" y1="12" x2="3" y2="12"></line>
+                                <line x1="21" y1="12" x2="23" y2="12"></line>
+                                <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Breaking News Ticker -->
+    <div class="breaking-news">
+        <div class="container">
+            <div class="breaking-news-content">
+                <span class="breaking-label">MIMOŘÁDNÉ</span>
+                <div class="ticker-wrapper">
+                    <div class="ticker">
+                        <span class="ticker-item">🔴 Vláda schválila nový balíček ekonomických opatření</span>
+                        <span class="ticker-item">🔴 Praha hostí mezinárodní klimatickou konferenci</span>
+                        <span class="ticker-item">🔴 České firmy hlásí rekordní zisky za třetí čtvrtletí</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Hlavní obsah -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Hlavní sekce s velkým článkem -->
+            <section class="hero-section">
+                <div class="hero-grid">
+                    <article class="hero-main">
+                        <div class="article-image">
+                            <img src="https://picsum.photos/800/450?random=1" alt="Hlavní zpráva">
+                            <span class="category-badge">Politika</span>
+                        </div>
+                        <div class="article-content">
+                            <h2 class="article-title">
+                                <a href="#">Prezident podepsal klíčovou reformu důchodového systému</a>
+                            </h2>
+                            <p class="article-excerpt">
+                                Dlouho očekávaná reforma přináší významné změny v českém důchodovém systému. 
+                                Experti varují před možnými dopady na státní rozpočet v následujících letech.
+                            </p>
+                            <div class="article-meta">
+                                <span class="author">Jan Novák</span>
+                                <span class="date">před 2 hodinami</span>
+                                <span class="comments">💬 145</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <div class="hero-sidebar">
+                        <article class="sidebar-article">
+                            <div class="article-image">
+                                <img src="https://picsum.photos/400/225?random=2" alt="Vedlejší zpráva">
+                                <span class="category-badge">Ekonomika</span>
+                            </div>
+                            <h3 class="article-title">
+                                <a href="#">ČNB ponechala úrokové sazby beze změny</a>
+                            </h3>
+                            <span class="date">před 4 hodinami</span>
+                        </article>
+
+                        <article class="sidebar-article">
+                            <div class="article-image">
+                                <img src="https://picsum.photos/400/225?random=3" alt="Vedlejší zpráva">
+                                <span class="category-badge">Sport</span>
+                            </div>
+                            <h3 class="article-title">
+                                <a href="#">Čeští hokejisté vyhráli prestižní turnaj</a>
+                            </h3>
+                            <span class="date">před 6 hodinami</span>
+                        </article>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Rychlé zprávy -->
+            <section class="quick-news">
+                <h2 class="section-title">Rychlé zprávy</h2>
+                <div class="quick-news-grid">
+                    <article class="quick-news-item">
+                        <span class="time">14:30</span>
+                        <p>Pražský hrad otevře novou výstavu věnovanou české historii</p>
+                    </article>
+                    <article class="quick-news-item">
+                        <span class="time">13:45</span>
+                        <p>Meteorologové varují před silným větrem v západních Čechách</p>
+                    </article>
+                    <article class="quick-news-item">
+                        <span class="time">12:20</span>
+                        <p>Škoda Auto představila nový elektrický model</p>
+                    </article>
+                    <article class="quick-news-item">
+                        <span class="time">11:15</span>
+                        <p>V Brně začíná mezinárodní veletrh technologií</p>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Hlavní obsahová oblast s postranním panelem -->
+            <div class="content-layout">
+                <div class="main-column">
+                    <!-- Sekce Česko -->
+                    <section class="news-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Česko</h2>
+                            <a href="#" class="section-link">Zobrazit vše →</a>
+                        </div>
+                        
+                        <div class="articles-grid">
+                            <article class="article-card">
+                                <div class="article-image">
+                                    <img src="https://picsum.photos/400/250?random=4" alt="Zpráva">
+                                    <span class="reading-time">5 min čtení</span>
+                                </div>
+                                <div class="article-content">
+                                    <h3 class="article-title">
+                                        <a href="#">Praha připravuje rozsáhlou modernizaci dopravy</a>
+                                    </h3>
+                                    <p class="article-excerpt">
+                                        Magistrát představil plány na vybudování nových tramvajových tratí a rozšíření metra.
+                                    </p>
+                                    <div class="article-meta">
+                                        <span class="date">před 3 hodinami</span>
+                                        <span class="category">Doprava</span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="article-card">
+                                <div class="article-image">
+                                    <img src="https://picsum.photos/400/250?random=5" alt="Zpráva">
+                                    <span class="reading-time">3 min čtení</span>
+                                </div>
+                                <div class="article-content">
+                                    <h3 class="article-title">
+                                        <a href="#">Univerzita Karlova otevírá nový výzkumný institut</a>
+                                    </h3>
+                                    <p class="article-excerpt">
+                                        Nové centrum se zaměří na výzkum umělé inteligence a kvantových technologií.
+                                    </p>
+                                    <div class="article-meta">
+                                        <span class="date">před 5 hodinami</span>
+                                        <span class="category">Vzdělání</span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="article-card">
+                                <div class="article-image">
+                                    <img src="https://picsum.photos/400/250?random=6" alt="Zpráva">
+                                    <span class="reading-time">7 min čtení</span>
+                                </div>
+                                <div class="article-content">
+                                    <h3 class="article-title">
+                                        <a href="#">České nemocnice investují miliardy do modernizace</a>
+                                    </h3>
+                                    <p class="article-excerpt">
+                                        Ministerstvo zdravotnictví oznámilo největší investiční program v historii českého zdravotnictví.
+                                    </p>
+                                    <div class="article-meta">
+                                        <span class="date">před 8 hodinami</span>
+                                        <span class="category">Zdravotnictví</span>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </section>
+
+                    <!-- Sekce Svět -->
+                    <section class="news-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Svět</h2>
+                            <a href="#" class="section-link">Zobrazit vše →</a>
+                        </div>
+                        
+                        <div class="articles-list">
+                            <article class="article-horizontal">
+                                <div class="article-image">
+                                    <img src="https://picsum.photos/250/150?random=7" alt="Zpráva">
+                                </div>
+                                <div class="article-content">
+                                    <h3 class="article-title">
+                                        <a href="#">EU schválila nový klimatický balíček</a>
+                                    </h3>
+                                    <p class="article-excerpt">
+                                        Evropská unie se dohodla na ambiciózních cílech snížení emisí do roku 2035.
+                                    </p>
+                                    <div class="article-meta">
+                                        <span class="date">před 2 hodinami</span>
+                                        <span class="location">📍 Brusel</span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="article-horizontal">
+                                <div class="article-image">
+                                    <img src="https://picsum.photos/250/150?random=8" alt="Zpráva">
+                                </div>
+                                <div class="article-content">
+                                    <h3 class="article-title">
+                                        <a href="#">Čína představila nový vesmírný program</a>
+                                    </h3>
+                                    <p class="article-excerpt">
+                                        Ambiciózní plán zahrnuje vybudování stálé základny na Měsíci do roku 2030.
+                                    </p>
+                                    <div class="article-meta">
+                                        <span class="date">před 4 hodinami</span>
+                                        <span class="location">📍 Peking</span>
+                                    </div>
+                                </div>
+                            </article>
+
+                            <article class="article-horizontal">
+                                <div class="article-image">
+                                    <img src="https://picsum.photos/250/150?random=9" alt="Zpráva">
+                                </div>
+                                <div class="article-content">
+                                    <h3 class="article-title">
+                                        <a href="#">USA oznámily investice do zelené energie</a>
+                                    </h3>
+                                    <p class="article-excerpt">
+                                        Nový investiční balíček v hodnotě 500 miliard dolarů má transformovat americkou energetiku.
+                                    </p>
+                                    <div class="article-meta">
+                                        <span class="date">před 6 hodinami</span>
+                                        <span class="location">📍 Washington</span>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </section>
+
+                    <!-- Sekce Názory -->
+                    <section class="opinion-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Názory a komentáře</h2>
+                            <a href="#" class="section-link">Všechny názory →</a>
+                        </div>
+                        
+                        <div class="opinion-grid">
+                            <article class="opinion-card">
+                                <div class="author-info">
+                                    <img src="https://picsum.photos/60/60?random=10" alt="Autor" class="author-avatar">
+                                    <div>
+                                        <h4 class="author-name">Petra Svobodová</h4>
+                                        <span class="author-title">Politická analytička</span>
+                                    </div>
+                                </div>
+                                <h3 class="opinion-title">
+                                    <a href="#">Proč potřebujeme reformu vzdělávacího systému</a>
+                                </h3>
+                            </article>
+
+                            <article class="opinion-card">
+                                <div class="author-info">
+                                    <img src="https://picsum.photos/60/60?random=11" alt="Autor" class="author-avatar">
+                                    <div>
+                                        <h4 class="author-name">Martin Dvořák</h4>
+                                        <span class="author-title">Ekonom</span>
+                                    </div>
+                                </div>
+                                <h3 class="opinion-title">
+                                    <a href="#">Inflace: Co nás čeká v příštím roce</a>
+                                </h3>
+                            </article>
+
+                            <article class="opinion-card">
+                                <div class="author-info">
+                                    <img src="https://picsum.photos/60/60?random=12" alt="Autor" class="author-avatar">
+                                    <div>
+                                        <h4 class="author-name">Eva Černá</h4>
+                                        <span class="author-title">Sociolog</span>
+                                    </div>
+                                </div>
+                                <h3 class="opinion-title">
+                                    <a href="#">Digitalizace a její vliv na českou společnost</a>
+                                </h3>
+                            </article>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Postranní panel -->
+                <aside class="sidebar">
+                    <!-- Nejčtenější -->
+                    <div class="sidebar-section">
+                        <h3 class="sidebar-title">Nejčtenější</h3>
+                        <ol class="trending-list">
+                            <li class="trending-item">
+                                <span class="trending-number">1</span>
+                                <a href="#">Nová pravidla pro řidiče začnou platit od ledna</a>
+                            </li>
+                            <li class="trending-item">
+                                <span class="trending-number">2</span>
+                                <a href="#">České dráhy ruší desítky spojů kvůli nedostatku strojvedoucích</a>
+                            </li>
+                            <li class="trending-item">
+                                <span class="trending-number">3</span>
+                                <a href="#">Ceny energií porostou, varují analytici</a>
+                            </li>
+                            <li class="trending-item">
+                                <span class="trending-number">4</span>
+                                <a href="#">Praha zavede nový systém parkování</a>
+                            </li>
+                            <li class="trending-item">
+                                <span class="trending-number">5</span>
+                                <a href="#">Lékaři varují před novou vlnou respiračních onemocnění</a>
+                            </li>
+                        </ol>
+                    </div>
+
+                    <!-- Newsletter -->
+                    <div class="sidebar-section newsletter-box">
+                        <h3 class="sidebar-title">Newsletter</h3>
+                        <p class="newsletter-text">Dostávejte nejdůležitější zprávy přímo do emailu</p>
+                        <form class="newsletter-form">
+                            <input type="email" placeholder="Váš email" class="newsletter-input">
+                            <button type="submit" class="newsletter-btn">Přihlásit</button>
+                        </form>
+                    </div>
+
+                    <!-- Video sekce -->
+                    <div class="sidebar-section">
+                        <h3 class="sidebar-title">Video</h3>
+                        <div class="video-list">
+                            <article class="video-item">
+                                <div class="video-thumbnail">
+                                    <img src="https://picsum.photos/320/180?random=13" alt="Video">
+                                    <span class="video-duration">3:45</span>
+                                    <span class="play-icon">▶</span>
+                                </div>
+                                <h4 class="video-title">
+                                    <a href="#">Exkluzivní rozhovor s ministrem financí</a>
+                                </h4>
+                            </article>
+                            <article class="video-item">
+                                <div class="video-thumbnail">
+                                    <img src="https://picsum.photos/320/180?random=14" alt="Video">
+                                    <span class="video-duration">5:20</span>
+                                    <span class="play-icon">▶</span>
+                                </div>
+                                <h4 class="video-title">
+                                    <a href="#">Reportáž z otevření nové dálnice D35</a>
+                                </h4>
+                            </article>
+                        </div>
+                    </div>
+
+                    <!-- Počasí widget -->
+                    <div class="sidebar-section weather-widget">
+                        <h3 class="sidebar-title">Počasí</h3>
+                        <div class="weather-content">
+                            <div class="weather-today">
+                                <div class="weather-icon-large">☀️</div>
+                                <div class="weather-info">
+                                    <span class="temperature">24°C</span>
+                                    <span class="weather-desc">Jasno</span>
+                                </div>
+                            </div>
+                            <div class="weather-forecast">
+                                <div class="forecast-day">
+                                    <span>Pá</span>
+                                    <span>🌤</span>
+                                    <span>22°</span>
+                                </div>
+                                <div class="forecast-day">
+                                    <span>So</span>
+                                    <span>☁️</span>
+                                    <span>20°</span>
+                                </div>
+                                <div class="forecast-day">
+                                    <span>Ne</span>
+                                    <span>🌧</span>
+                                    <span>18°</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+
+            <!-- Sekce Sport -->
+            <section class="sport-section">
+                <div class="section-header">
+                    <h2 class="section-title">Sport</h2>
+                    <div class="sport-nav">
+                        <button class="sport-tab active">Fotbal</button>
+                        <button class="sport-tab">Hokej</button>
+                        <button class="sport-tab">Tenis</button>
+                        <button class="sport-tab">Ostatní</button>
+                    </div>
+                </div>
+                
+                <div class="sport-grid">
+                    <article class="sport-card">
+                        <div class="sport-image">
+                            <img src="https://picsum.photos/400/250?random=15" alt="Sport">
+                            <span class="sport-badge">Fotbal</span>
+                        </div>
+                        <div class="sport-content">
+                            <h3 class="sport-title">
+                                <a href="#">Sparta porazila Slavii v pražském derby 2:1</a>
+                            </h3>
+                            <div class="match-score">
+                                <span class="team">AC Sparta Praha</span>
+                                <span class="score">2 : 1</span>
+                                <span class="team">SK Slavia Praha</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="sport-card">
+                        <div class="sport-image">
+                            <img src="https://picsum.photos/400/250?random=16" alt="Sport">
+                            <span class="sport-badge">Hokej</span>
+                        </div>
+                        <div class="sport-content">
+                            <h3 class="sport-title">
+                                <a href="#">Čeští hokejisté zahájili přípravu na MS</a>
+                            </h3>
+                            <p class="sport-excerpt">Trenér oznámil nominaci pro nadcházející šampionát.</p>
+                        </div>
+                    </article>
+
+                    <article class="sport-card">
+                        <div class="sport-image">
+                            <img src="https://picsum.photos/400/250?random=17" alt="Sport">
+                            <span class="sport-badge">Tenis</span>
+                        </div>
+                        <div class="sport-content">
+                            <h3 class="sport-title">
+                                <a href="#">Kvitová postoupila do čtvrtfinále Wimbledonu</a>
+                            </h3>
+                            <p class="sport-excerpt">Česká tenistka porazila světovou jedničku ve třech setech.</p>
+                        </div>
+                    </article>
+
+                    <article class="sport-card">
+                        <div class="sport-image">
+                            <img src="https://picsum.photos/400/250?random=18" alt="Sport">
+                            <span class="sport-badge">Formule 1</span>
+                        </div>
+                        <div class="sport-content">
+                            <h3 class="sport-title">
+                                <a href="#">Velká cena České republiky se vrací do kalendáře F1</a>
+                            </h3>
+                            <p class="sport-excerpt">Brno bude hostit závod Formule 1 po 20 letech.</p>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Sekce Lifestyle -->
+            <section class="lifestyle-section">
+                <div class="section-header">
+                    <h2 class="section-title">Lifestyle & Kultura</h2>
+                    <a href="#" class="section-link">Více článků →</a>
+                </div>
+                
+                <div class="lifestyle-grid">
+                    <article class="lifestyle-feature">
+                        <div class="lifestyle-image">
+                            <img src="https://picsum.photos/600/400?random=19" alt="Lifestyle">
+                            <span class="category-badge">Gastronomie</span>
+                        </div>
+                        <div class="lifestyle-content">
+                            <h3 class="lifestyle-title">
+                                <a href="#">Průvodce nejlepšími restauracemi v Praze 2024</a>
+                            </h3>
+                            <p class="lifestyle-excerpt">
+                                Objevte kulinářské skvosty hlavního města. Od michelinských restaurací po skryté perly.
+                            </p>
+                            <div class="article-meta">
+                                <span class="author">Marie Kuchařová</span>
+                                <span class="date">včera</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <div class="lifestyle-small-grid">
+                        <article class="lifestyle-small">
+                            <img src="https://picsum.photos/150/150?random=20" alt="Lifestyle">
+                            <div>
+                                <span class="category-tag">Móda</span>
+                                <h4><a href="#">Trendy podzimní sezóny 2024</a></h4>
+                            </div>
+                        </article>
+                        <article class="lifestyle-small">
+                            <img src="https://picsum.photos/150/150?random=21" alt="Lifestyle">
+                            <div>
+                                <span class="category-tag">Cestování</span>
+                                <h4><a href="#">10 nejkrásnějších hradů Česka</a></h4>
+                            </div>
+                        </article>
+                        <article class="lifestyle-small">
+                            <img src="https://picsum.photos/150/150?random=22" alt="Lifestyle">
+                            <div>
+                                <span class="category-tag">Knihy</span>
+                                <h4><a href="#">Novinky české literatury</a></h4>
+                            </div>
+                        </article>
+                        <article class="lifestyle-small">
+                            <img src="https://picsum.photos/150/150?random=23" alt="Lifestyle">
+                            <div>
+                                <span class="category-tag">Film</span>
+                                <h4><a href="#">České filmy nominované na Oscara</a></h4>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Patička -->
+    <footer class="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="footer-grid">
+                    <div class="footer-column">
+                        <h4 class="footer-title">O nás</h4>
+                        <p class="footer-about">
+                            Zprávy24 je moderní zpravodajský portál přinášející aktuální informace z domova i ze světa 24 hodin denně.
+                        </p>
+                        <div class="social-links">
+                            <a href="#" class="social-link">FB</a>
+                            <a href="#" class="social-link">TW</a>
+                            <a href="#" class="social-link">IG</a>
+                            <a href="#" class="social-link">YT</a>
+                        </div>
+                    </div>
+                    
+                    <div class="footer-column">
+                        <h4 class="footer-title">Rubriky</h4>
+                        <ul class="footer-links">
+                            <li><a href="#">Česko</a></li>
+                            <li><a href="#">Svět</a></li>
+                            <li><a href="#">Ekonomika</a></li>
+                            <li><a href="#">Sport</a></li>
+                            <li><a href="#">Kultura</a></li>
+                            <li><a href="#">Technologie</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-column">
+                        <h4 class="footer-title">Služby</h4>
+                        <ul class="footer-links">
+                            <li><a href="#">Newsletter</a></li>
+                            <li><a href="#">RSS</a></li>
+                            <li><a href="#">Mobilní aplikace</a></li>
+                            <li><a href="#">Podcast</a></li>
+                            <li><a href="#">Archiv</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-column">
+                        <h4 class="footer-title">Kontakt</h4>
+                        <ul class="footer-contact">
+                            <li>Email: redakce@zpravy24.cz</li>
+                            <li>Tel: +420 123 456 789</li>
+                            <li>Adresa: Na Příkopě 123, Praha 1</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="footer-bottom-content">
+                    <p>&copy; 2024 Zprávy24. Všechna práva vyhrazena.</p>
+                    <div class="footer-bottom-links">
+                        <a href="#">Podmínky užití</a>
+                        <a href="#">Ochrana soukromí</a>
+                        <a href="#">Cookies</a>
+                        <a href="#">Reklama</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Tlačítko zpět nahoru -->
+    <button class="back-to-top" id="back-to-top">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+            <path d="M12 19V5M12 5l-7 7M12 5l7 7"/>
+        </svg>
+    </button>
+
+    <script src="zpravodajsky-portal.js"></script>
+</body>
+</html>

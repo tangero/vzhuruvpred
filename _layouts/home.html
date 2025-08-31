@@ -1,0 +1,217 @@
+---
+layout: default
+---
+
+<!-- Hero sekce s gradientním textem -->
+<section class="hero-section">
+    <div class="hero-grid">
+        {% assign featured_post = site.posts.first %}
+        {% if featured_post %}
+        <article class="hero-main">
+            <a href="{{ featured_post.url | relative_url }}" class="article-image-link">
+                <div class="article-image">
+                    <img src="{{ featured_post.image | default: 'https://picsum.photos/800/450?random=1' }}" alt="{{ featured_post.title }}">
+                    <span class="category-badge">{{ featured_post.category | default: featured_post.categories[0] | capitalize }}</span>
+                </div>
+            </a>
+            <div class="article-content">
+                <h2 class="article-title">
+                    <a href="{{ featured_post.url | relative_url }}">{{ featured_post.title }}</a>
+                </h2>
+                <p class="article-excerpt">
+                    {{ featured_post.excerpt | strip_html | truncate: 150 }}
+                </p>
+                <div class="article-meta">
+                    <span class="author">⚡ {{ featured_post.author | default: 'Redakce' }}</span>
+                    <span class="date">{{ featured_post.date | date: "%d.%m.%Y" }}</span>
+                    <span class="comments">💬 {{ featured_post.comments | default: '0' }} komentářů</span>
+                </div>
+            </div>
+        </article>
+        {% endif %}
+
+        <div class="hero-sidebar">
+            {% assign sidebar_posts = site.posts | slice: 1, 2 %}
+            {% for post in sidebar_posts %}
+            <article class="sidebar-article">
+                <a href="{{ post.url | relative_url }}" class="article-image-link">
+                    <div class="article-image">
+                        <img src="{{ post.image | default: 'https://picsum.photos/400/225?random=' | append: forloop.index | append: 1 }}" alt="{{ post.title }}">
+                        <span class="category-badge">{{ post.category | default: post.categories[0] | capitalize }}</span>
+                    </div>
+                </a>
+                <h3 class="article-title">
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+                <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+            </article>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- Rychlé zprávy v Pirátském stylu -->
+<section class="quick-news">
+    <h2 class="section-title">Rychlé zprávy</h2>
+    <div class="quick-news-grid">
+        <article class="quick-news-item">
+            <span class="time">15:30</span>
+            <p>⚡ Praha spouští pilotní projekt chytrých semaforů s AI</p>
+        </article>
+        <article class="quick-news-item">
+            <span class="time">14:15</span>
+            <p>🔓 Ministerstvo vnitra zveřejnilo data o občanských průkazech</p>
+        </article>
+        <article class="quick-news-item">
+            <span class="time">13:00</span>
+            <p>🌐 Český internet je nejrychlejší v regionu střední Evropy</p>
+        </article>
+        <article class="quick-news-item">
+            <span class="time">12:45</span>
+            <p>🚀 Brno hostí první hackathon pro veřejnou správu</p>
+        </article>
+    </div>
+</section>
+
+<!-- Hlavní obsahová oblast s postranním panelem -->
+<div class="content-layout">
+    <div class="main-column">
+        <!-- Sekce Události -->
+        <section class="news-section">
+            <div class="section-header">
+                <h2 class="section-title">Události</h2>
+                <a href="{{ '/udalosti/' | relative_url }}" class="section-link">Zobrazit vše →</a>
+            </div>
+            
+            <div class="articles-grid">
+                {% assign udalosti_posts = site.posts | where: "categories", "udalosti" | limit: 3 %}
+                {% for post in udalosti_posts %}
+                <article class="article-card">
+                    <a href="{{ post.url | relative_url }}" class="article-image-link">
+                        <div class="article-image">
+                            <img src="{{ post.image | default: 'https://picsum.photos/400/250?random=4' }}" alt="{{ post.title }}">
+                            <span class="reading-time">{{ post.read_time | default: '4 min' }}</span>
+                        </div>
+                    </a>
+                    <div class="article-content">
+                        <h3 class="article-title">
+                            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                        </h3>
+                        <p class="article-excerpt">
+                            {{ post.excerpt | strip_html | truncate: 120 }}
+                        </p>
+                        <div class="article-meta">
+                            <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+                            <span class="category">{{ post.category | default: 'Události' }}</span>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
+
+        <!-- Sekce Názory -->
+        <section class="opinion-section">
+            <div class="section-header">
+                <h2 class="section-title">Názory expertů</h2>
+                <a href="{{ '/nazory/' | relative_url }}" class="section-link">Všechny názory →</a>
+            </div>
+            
+            <div class="opinion-grid">
+                {% assign nazory_posts = site.posts | where: "categories", "nazory" | limit: 3 %}
+                {% for post in nazory_posts %}
+                <article class="opinion-card">
+                    <div class="author-info">
+                        <img src="{{ post.author_image | default: 'https://picsum.photos/60/60?random=10' }}" alt="{{ post.author }}" class="author-avatar">
+                        <div>
+                            <h4 class="author-name">{{ post.author | default: 'Autor' }}</h4>
+                            <span class="author-title">{{ post.author_title | default: 'Expert' }}</span>
+                        </div>
+                    </div>
+                    <h3 class="opinion-title">
+                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    </h3>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
+
+    <!-- Postranní panel -->
+    <aside class="sidebar">
+        <!-- Nejčtenější -->
+        <div class="sidebar-section">
+            <h3 class="sidebar-title">Nejčtenější</h3>
+            <ol class="trending-list">
+                {% assign popular_posts = site.posts | limit: 5 %}
+                {% for post in popular_posts %}
+                <li class="trending-item">
+                    <span class="trending-number">{{ forloop.index }}</span>
+                    <a href="{{ post.url | relative_url }}">{{ post.title | truncate: 60 }}</a>
+                </li>
+                {% else %}
+                <li class="trending-item">
+                    <span class="trending-number">1</span>
+                    <a href="#">Přidejte první článek</a>
+                </li>
+                {% endfor %}
+            </ol>
+        </div>
+
+        <!-- Newsletter -->
+        <div class="sidebar-section newsletter-box">
+            <h3 class="sidebar-title">Newsletter Vzhůru a vpřed</h3>
+            <p class="newsletter-text">Dostávejte nejdůležitější zprávy o digitalizaci a transparentnosti přímo do emailu</p>
+            <form class="newsletter-form">
+                <input type="email" placeholder="ahoj@example.com" class="newsletter-input">
+                <button type="submit" class="newsletter-btn">Odebírat zdarma</button>
+            </form>
+        </div>
+
+        <!-- Počasí widget -->
+        <div class="sidebar-section weather-widget">
+            <h3 class="sidebar-title">Počasí & Tech index</h3>
+            <div class="weather-content">
+                <div class="weather-today">
+                    <div class="weather-icon-large">☀️</div>
+                    <div class="weather-info">
+                        <span class="temperature">24°C</span>
+                        <span class="weather-desc">Ideální počasí pro coding</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </aside>
+</div>
+
+<!-- Technologie sekce -->
+<section class="sport-section">
+    <div class="section-header">
+        <h2 class="section-title">Technologie</h2>
+        <div class="sport-nav">
+            <button class="sport-tab active">AI & ML</button>
+            <button class="sport-tab">Blockchain</button>
+            <button class="sport-tab">Cyber Security</button>
+            <button class="sport-tab">Open Source</button>
+        </div>
+    </div>
+    
+    <div class="sport-grid">
+        <article class="sport-card">
+            <div class="sport-image">
+                <img src="https://picsum.photos/400/250?random=15" alt="Tech">
+                <span class="sport-badge">AI</span>
+            </div>
+            <div class="sport-content">
+                <h3 class="sport-title">
+                    <a href="#">ChatGPT vs. český startup: Kdo vyhrál souboj chatbotů?</a>
+                </h3>
+                <div class="match-score">
+                    <span class="team">ChatGPT 4</span>
+                    <span class="score">87 : 94</span>
+                    <span class="team">CzechBot Pro</span>
+                </div>
+            </div>
+        </article>
+    </div>
+</section>

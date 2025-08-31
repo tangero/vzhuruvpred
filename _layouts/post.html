@@ -1,0 +1,98 @@
+---
+layout: default
+---
+
+{% assign category = page.categories[0] | default: 'udalosti' %}
+<article class="post post-category-{{ category }}">
+    <div class="container">
+        <header class="post-header">
+            <div class="post-category-badge">{{ category | capitalize }}</div>
+            
+            <h1 class="post-title">{{ page.title }}</h1>
+            
+            {% if page.excerpt %}
+            <div class="post-subtitle">{{ page.excerpt }}</div>
+            {% endif %}
+            
+            <div class="post-meta-enhanced">
+                <div class="post-meta-item">
+                    <svg class="post-meta-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                    </svg>
+                    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d. %B %Y" }}</time>
+                </div>
+                
+                {% if page.read_time %}
+                <div class="post-meta-item">
+                    <svg class="post-meta-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+                        <path d="M12.5 7H11v6l5.25 3.15.75-1.23L12.5 12.25z"/>
+                    </svg>
+                    <span>{{ page.read_time }}</span>
+                </div>
+                {% endif %}
+                
+                <div class="post-meta-item">
+                    <svg class="post-meta-icon" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M7.5 6.5C7.5 8.981 9.519 11 12 11s4.5-2.019 4.5-4.5S14.481 2 12 2 7.5 4.019 7.5 6.5zM20 21h1v-1c0-3.859-3.141-7-7-7h-4c-3.859 0-7 3.141-7 7v1h1 1 14z"/>
+                    </svg>
+                    <span>{{ page.author | default: 'Redakce' }}</span>
+                </div>
+            </div>
+        </header>
+
+        {% if page.author %}
+        <div class="post-author-card">
+            <img src="{{ page.author_image | default: 'https://picsum.photos/64/64?random=1' }}" alt="{{ page.author }}" class="post-author-avatar">
+            <div class="post-author-info">
+                <h4>{{ page.author }}</h4>
+                <p>{{ page.author_title | default: 'Přispěvatel' }}</p>
+            </div>
+        </div>
+        {% endif %}
+
+        {% if page.image %}
+        <img src="{{ page.image }}" alt="{{ page.title }}" class="post-featured-image">
+        {% endif %}
+
+        <div class="post-content">
+            {{ content }}
+        </div>
+
+        <footer class="post-footer">
+            {% if page.tags %}
+            <div class="post-tags">
+                <h4>Štítky</h4>
+                {% for tag in page.tags %}
+                <span class="tag">{{ tag }}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
+            
+            <div class="post-share">
+                <h4>Sdílejte článek</h4>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" target="_blank" class="share-btn">Facebook</a>
+                <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}" target="_blank" class="share-btn">Twitter</a>
+                <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}&title={{ page.title | url_encode }}" target="_blank" class="share-btn">LinkedIn</a>
+            </div>
+        </footer>
+    </div>
+</article>
+
+<section class="related-posts">
+    <h3>Související články</h3>
+    <div class="related-posts-grid">
+        {% assign related_posts = site.related_posts | limit: 3 %}
+        {% for post in related_posts %}
+        <article class="related-post">
+            <div class="article-image">
+                <img src="{{ post.image | default: 'https://picsum.photos/300/200?random=' | append: forloop.index }}" alt="{{ post.title }}">
+            </div>
+            <div class="article-content">
+                <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+                <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+</section>
