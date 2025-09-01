@@ -24,14 +24,14 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install requests beautifulsoup4 feedparser
+        # Používáme pouze standardní knihovny Pythonu
     
     - name: Fetch trends from RSS
       run: |
         python << 'EOF'
         import json
-        import requests
-        import feedparser
+        from urllib.request import urlopen
+        from urllib.error import URLError
         from datetime import datetime
         import xml.etree.ElementTree as ET
         
@@ -41,28 +41,57 @@ jobs:
         rss_url = 'https://trends.google.cz/trending/rss?geo=CZ'
         
         try:
-            response = requests.get(rss_url, timeout=30)
-            response.raise_for_status()
+            with urlopen(rss_url, timeout=30) as response:
+                content = response.read()
+            
+            print(f"RSS odpověď: {response.status}")
             
             # Parsujeme XML
-            root = ET.fromstring(response.content)
+            root = ET.fromstring(content)
             
             trends_data = []
             
             # Najdeme všechny item elementy
             items = root.findall('.//item')
+            print(f"Nalezeno {len(items)} trendových položek")
             
-            for idx, item in enumerate(items[:8]):  # Prvních 8 trendů
+            # Nejdříve sesbíráme všechny trendy s traffic daty
+            all_trends = []
+            
+            for item in items:
                 # Základní informace
                 title = item.find('title')
                 title_text = title.text if title is not None else ''
                 
-                # Traffic information
-                traffic = item.find('.//{http://www.google.com/trends/hottrends}approx_traffic')
-                traffic_text = traffic.text if traffic is not None else 'Trending'
+                # Traffic information - zkusíme různé formáty namespace
+                traffic = None
+                for elem in item.iter():
+                    if elem.tag.endswith('approx_traffic'):
+                        traffic = elem
+                        break
                 
-                # Obrázek
-                picture = item.find('.//{http://www.google.com/trends/hottrends}picture')
+                traffic_text = traffic.text if traffic is not None else '0'
+                
+                # Převedeme traffic na číslo pro řazení
+                try:
+                    traffic_num = int(traffic_text.replace('+', '').replace(',', ''))
+                except (ValueError, AttributeError):
+                    traffic_num = 0
+                
+                all_trends.append((item, traffic_num, traffic_text, title_text))
+            
+            # Seřadíme podle počtu hledání (sestupně)
+            all_trends.sort(key=lambda x: x[1], reverse=True)
+            
+            # Vezmeme prvních 8 nejhledanějších
+            for idx, (item, traffic_num, traffic_text, title_text) in enumerate(all_trends[:8]):
+                
+                # Obrázek - hlavní obrázek trendu
+                picture = None
+                for elem in item.iter():
+                    if elem.tag.endswith('picture') and not elem.tag.endswith('news_item_picture'):
+                        picture = elem
+                        break
                 picture_url = picture.text if picture is not None else ''
                 
                 # Opravíme relativní URL
@@ -70,17 +99,43 @@ jobs:
                     picture_url = 'https:' + picture_url
                 
                 # Zdroj obrázku
-                picture_source = item.find('.//{http://www.google.com/trends/hottrends}picture_source')
+                picture_source = None
+                for elem in item.iter():
+                    if elem.tag.endswith('picture_source'):
+                        picture_source = elem
+                        break
                 source_text = picture_source.text if picture_source is not None else 'Google Trends'
                 
                 # První související článek
-                news_items = item.findall('.//{http://www.google.com/trends/hottrends}news_item')
+                news_items = []
+                for elem in item.iter():
+                    if elem.tag.endswith('news_item'):
+                        news_items.append(elem)
                 
                 if news_items:
                     first_news = news_items[0]
-                    news_title = first_news.find('.//{http://www.google.com/trends/hottrends}news_item_title')
-                    news_url = first_news.find('.//{http://www.google.com/trends/hottrends}news_item_url')
-                    news_source = first_news.find('.//{http://www.google.com/trends/hottrends}news_item_source')
+                    
+                    # Najdeme news elementy bez namespace
+                    news_title = None
+                    news_url = None  
+                    news_source = None
+                    news_picture = None
+                    
+                    for elem in first_news.iter():
+                        if elem.tag.endswith('news_item_title'):
+                            news_title = elem
+                        elif elem.tag.endswith('news_item_url'):
+                            news_url = elem
+                        elif elem.tag.endswith('news_item_source'):
+                            news_source = elem
+                        elif elem.tag.endswith('news_item_picture'):
+                            news_picture = elem
+                    
+                    # Zkusíme najít obrázek článku jako fallback
+                    if not picture_url and news_picture is not None:
+                        picture_url = news_picture.text or ''
+                        if picture_url and picture_url.startswith('//'):
+                            picture_url = 'https:' + picture_url
                     
                     news_title_text = news_title.text if news_title is not None else title_text
                     news_url_text = news_url.text if news_url is not None else f"https://www.google.com/search?q={title_text}&tbm=nws"
