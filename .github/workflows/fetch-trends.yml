@@ -24,81 +24,108 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install pytrends pandas requests beautifulsoup4
+        pip install requests beautifulsoup4 feedparser
     
-    - name: Fetch trends
+    - name: Fetch trends from RSS
       run: |
         python << 'EOF'
         import json
         import requests
-        from bs4 import BeautifulSoup
-        from pytrends.request import TrendReq
+        import feedparser
         from datetime import datetime
-        import time
+        import xml.etree.ElementTree as ET
         
-        # Inicializace pytrends pro Česko
-        pytrends = TrendReq(hl='cs-CZ', tz=60, geo='CZ', timeout=(10,25))
+        print("Načítám Google Trends RSS feed pro Česko...")
         
-        # Získání aktuálních trendů s real-time daty
+        # Načteme RSS feed
+        rss_url = 'https://trends.google.cz/trending/rss?geo=CZ'
+        
         try:
-            # Získáme trending searches s detaily
-            trending = pytrends.realtime_trending_searches(pn='CZ')
+            response = requests.get(rss_url, timeout=30)
+            response.raise_for_status()
+            
+            # Parsujeme XML
+            root = ET.fromstring(response.content)
             
             trends_data = []
             
-            if not trending.empty:
-                # Zpracování prvních 8 trendů
-                for idx, row in trending.head(8).iterrows():
-                    # Google Trends vrací přímé URL obrázků
-                    picture_url = row.get('picture', '')
-                    # Někdy Google vrací relativní URL, tak přidáme prefix
-                    if picture_url and picture_url.startswith('//'):
-                        picture_url = 'https:' + picture_url
+            # Najdeme všechny item elementy
+            items = root.findall('.//item')
+            
+            for idx, item in enumerate(items[:8]):  # Prvních 8 trendů
+                # Základní informace
+                title = item.find('title')
+                title_text = title.text if title is not None else ''
+                
+                # Traffic information
+                traffic = item.find('.//{http://www.google.com/trends/hottrends}approx_traffic')
+                traffic_text = traffic.text if traffic is not None else 'Trending'
+                
+                # Obrázek
+                picture = item.find('.//{http://www.google.com/trends/hottrends}picture')
+                picture_url = picture.text if picture is not None else ''
+                
+                # Opravíme relativní URL
+                if picture_url and picture_url.startswith('//'):
+                    picture_url = 'https:' + picture_url
+                
+                # Zdroj obrázku
+                picture_source = item.find('.//{http://www.google.com/trends/hottrends}picture_source')
+                source_text = picture_source.text if picture_source is not None else 'Google Trends'
+                
+                # První související článek
+                news_items = item.findall('.//{http://www.google.com/trends/hottrends}news_item')
+                
+                if news_items:
+                    first_news = news_items[0]
+                    news_title = first_news.find('.//{http://www.google.com/trends/hottrends}news_item_title')
+                    news_url = first_news.find('.//{http://www.google.com/trends/hottrends}news_item_url')
+                    news_source = first_news.find('.//{http://www.google.com/trends/hottrends}news_item_source')
                     
-                    trend_item = {
-                        'rank': idx + 1,
-                        'query': row.get('title', ''),
-                        'news_title': row.get('news_item_title', ''),
-                        'news_url': row.get('news_item_url', ''),
-                        'picture': picture_url,  # Použijeme původní URL z Google Trends
-                        'traffic': row.get('formattedTraffic', ''),
-                        'source': row.get('picture_source', ''),
-                        'explore_url': f"https://trends.google.cz/trends/explore?q={row.get('title', '')}&geo=CZ"
-                    }
-                    trends_data.append(trend_item)
-                    
+                    news_title_text = news_title.text if news_title is not None else title_text
+                    news_url_text = news_url.text if news_url is not None else f"https://www.google.com/search?q={title_text}&tbm=nws"
+                    news_source_text = news_source.text if news_source is not None else source_text
+                else:
+                    news_title_text = title_text
+                    news_url_text = f"https://www.google.com/search?q={title_text}&tbm=nws"
+                    news_source_text = source_text
+                
+                # Vytvoříme trend item
+                trend_item = {
+                    'rank': idx + 1,
+                    'query': title_text,
+                    'news_title': news_title_text,
+                    'news_url': news_url_text,
+                    'picture': picture_url,
+                    'traffic': f"{traffic_text}+ hledání" if traffic_text != 'Trending' else 'Trending',
+                    'source': news_source_text,
+                    'explore_url': f"https://trends.google.cz/trends/explore?q={title_text}&geo=CZ"
+                }
+                
+                trends_data.append(trend_item)
+                print(f"Trend #{idx+1}: {title_text}")
+                print(f"  - Článek: {news_title_text[:50]}...")
+                print(f"  - Obrázek: {'✓' if picture_url else '✗'}")
+                print(f"  - Traffic: {traffic_text}")
+                
         except Exception as e:
-            print(f"Realtime trends failed: {e}, trying daily trends...")
-            # Fallback na daily trending searches
-            try:
-                trending = pytrends.trending_searches(pn='czech_republic')
-                trends_data = []
-                for idx, trend in enumerate(trending[0][:8]):
-                    # Pro daily trends nemáme obrázky, použijeme placeholder
-                    trends_data.append({
-                        'rank': idx + 1,
-                        'query': trend,
-                        'news_title': trend,  # Použijeme název trendu
-                        'news_url': f"https://www.google.com/search?q={trend}&tbm=nws",
-                        'picture': f"https://picsum.photos/400/225?random={idx+100}",  # Placeholder
-                        'traffic': 'Trending',
-                        'source': 'Google Trends',
-                        'explore_url': f"https://trends.google.cz/trends/explore?q={trend}&geo=CZ"
-                    })
-            except Exception as e2:
-                print(f"Daily trends also failed: {e2}")
-                trends_data = []
+            print(f"Chyba při načítání RSS: {e}")
+            trends_data = []
         
         # Uložení do JSON
-        output = {
-            'updated': datetime.now().isoformat(),
-            'trends': trends_data
-        }
+        if trends_data:
+            output = {
+                'updated': datetime.now().isoformat(),
+                'trends': trends_data
+            }
+            
+            with open('_data/trends.json', 'w', encoding='utf-8') as f:
+                json.dump(output, f, ensure_ascii=False, indent=2)
+            
+            print(f"\n✅ Úspěšně načteno {len(trends_data)} trendů z RSS feedu")
+        else:
+            print("\n❌ Nepodařilo se načíst žádné trendy")
         
-        with open('_data/trends.json', 'w', encoding='utf-8') as f:
-            json.dump(output, f, ensure_ascii=False, indent=2)
-        
-        print(f"Fetched {len(trends_data)} trends with details")
         EOF
     
     - name: Commit trends data
