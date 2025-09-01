@@ -56,17 +56,9 @@ jobs:
                     print(f"  🤖 {'Překládám a sumarizuji' if is_english else 'Sumarizuji'}: {title[:50]}...")
                     
                     if is_english:
-                        prompt = f"""Přelož tento anglický nadpis článku do češtiny a zkrať ho na maximálně 112 znaků. Zachovej hlavní informaci a udělej z toho smysluplný český nadpis:
-
-"{title}"
-
-Odpověz pouze českým nadpisem, bez dalšího komentáře."""
+                        prompt = f"Přelož tento anglický nadpis článku do češtiny a zkrať ho na maximálně 112 znaků. Zachovej hlavní informaci a udělej z toho smysluplný český nadpis:\n\n{title}\n\nOdpověz pouze českým nadpisem, bez dalšího komentáře."
                     else:
-                        prompt = f"""Zkrať tento český nadpis článku na maximálně 112 znaků, zachovej hlavní informaci:
-
-"{title}"
-
-Odpověz pouze zkráceným českým nadpisem, bez dalšího komentáře."""
+                        prompt = f"Zkrať tento český nadpis článku na maximálně 112 znaků, zachovej hlavní informaci:\n\n{title}\n\nOdpověz pouze zkráceným českým nadpisem, bez dalšího komentáře."
                     
                     # OpenRouter.ai API volání
                     data = {
