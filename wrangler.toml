@@ -1,0 +1,7 @@
+# Cloudflare Pages configuration
+[build]
+command = "bundle exec jekyll build"
+publish = "_site"
+
+[build.environment]
+JEKYLL_ENV = "production"
