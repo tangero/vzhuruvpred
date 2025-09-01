@@ -1,28 +1,58 @@
 {
-  "updated": "2025-09-01T14:14:56.171461",
+  "updated": "2025-09-01T15:16:30.466635",
   "trends": [
     {
       "rank": 1,
       "query": "volební kalkulačka 2025",
-      "news_title": "Měsíc do voleb. Kalkulačka - koho volit, rozšířená verze",
-      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-mesic-do-voleb-kalkulacka-koho-volit-rozsirena-verze-40536645",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSal6mJBRpGz3F4nhhItqxFbGHW4hltVKjtWXgkx4A0dFxCqZhqI3GYRM9e4A",
+      "news_title": "Kalkulačka pro volby 2025: Zjistěte, jaká strana je nejblíže vašim postojům",
+      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-kalkulacka-volby-2025-koho-volit-282737",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzo2odAOveQJNWnyqOVFRsw7ZwIMCTlai2xMMpEBqHPVWrZCPnmROR9VQ5kRo",
       "traffic": "2000++ hledání",
-      "source": "Novinky",
+      "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=volební kalkulačka 2025&geo=CZ"
     },
     {
       "rank": 2,
       "query": "us open",
-      "news_title": "Česká Wonder Woman! Krejčíková prošla peklem a překonala rekord US Open",
-      "news_url": "https://www.sport.cz/clanek/tenis-us-open-ceska-wonder-woman-krejcikova-prosla-peklem-a-prekonala-rekord-us-open-5284384",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkI4QbcaodFIOjr1eGRmVQ3-1uD4-UiGfW5ppqL62aCRJOW5sbAJaSq-5Q2ug",
+      "news_title": "Česká povstání z mečbolů. Šafářová jich přežila devět, Plíšková je vymazala Sereně Williamsové",
+      "news_url": "https://www.idnes.cz/sport/tenis/cesko-tenis-odvracene-mecboly-prehled.A250901_064533_tenis_ikuc",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQw7QjFTppM3B9YZj18fXrFEtOjzLPff5BG0S9Yacy7mNFXRtx-UZI7-Dh08",
       "traffic": "1000++ hledání",
-      "source": "Sport.cz",
+      "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=us open&geo=CZ"
     },
     {
       "rank": 3,
+      "query": "love island 2025",
+      "news_title": "Tajné tipy bývalých srdíček: Tohle si musí účastníci zabalit na Love Island",
+      "news_url": "https://tv.nova.cz/porad/love-island/video-bonus/128464-tajne-tipy-byvalych-srdicek-tohle-si-musi-ucastnici-zabalit-na-love-island",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2tyyI5J4YaQ0CY8fyHODSHtzOzUvP3nkWzTva1NxunVTC4334rCXymtft3g",
+      "traffic": "500++ hledání",
+      "source": "TV Nova",
+      "explore_url": "https://trends.google.cz/trends/explore?q=love island 2025&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "zemětřesení afghánistán",
+      "news_title": "Ničivé zemětřesení v Afghánistánu. Obětí je už přes 800",
+      "news_url": "https://www.novinky.cz/clanek/zahranicni-svet-zemetreseni-v-afghanistanu-40536505",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL8tw8A6faCmK3tQjuQa1_-MdOAq2JX2Csh9KFNxa6E51HBPSdo2Y3_O2C15M",
+      "traffic": "200++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=zemětřesení afghánistán&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "tragická nehoda jižní čechy",
+      "news_title": "Jednadvacetiletá řidička škodovky zahynula na jihu Čech. Ve vraku ji našli až ráno mrtvou",
+      "news_url": "https://www.novinky.cz/clanek/krimi-jednadvacetileta-ridicka-skodovky-zahynula-na-jihu-cech-ve-vraku-ji-nasli-az-rano-mrtvou-40536459",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6EWBoQTk2WUTalgQd4GppuraGe8NNznjJn9ZI8L0ANpOIaDTnm5y8FKiDAAE",
+      "traffic": "200++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tragická nehoda jižní čechy&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "singapur",
       "news_title": "US comedian Sammy Obeid issued Singapore correction order over claims he was told to edit his script",
       "news_url": "https://www.channelnewsasia.com/singapore/sammy-obeid-issued-pofma-imda-censorship-mddi-5326591",
@@ -32,17 +62,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=singapur&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "love island 2025",
-      "news_title": "Love Island se vrátí už za pár dní. Nová série přinese větší vilu, více vášně a dramatu",
-      "news_url": "https://refresher.cz/188720-Love-Island-se-vrati-uz-za-par-dni-Nova-serie-prinese-vetsi-vilu-vice-vasne-a-dramatu",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqkKBQEoPgxLd1qnjrdv1W3jKnVC5URt7_qxz-auSjzrdanrd7PIQe6F-qyAQ",
-      "traffic": "200++ hledání",
-      "source": "REFRESHER.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=love island 2025&geo=CZ"
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "query": "seattle sounders – inter miami",
       "news_title": "Luis Suarez appears to spit at Seattle Sounders coach after Inter Miami defeat",
       "news_url": "https://www.bbc.com/sport/football/articles/cy0qx4x8178o",
@@ -52,34 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=seattle sounders – inter miami&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "us open 2025",
-      "news_title": "US Open | Zdravé a dravé. Česká tenisová síla už zase fascinuje svět",
-      "news_url": "https://www.sport.cz/clanek/tenis-us-open-zdrave-a-drave-ceska-tenisova-sila-uz-zase-fascinuje-svet-5284400",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkI4QbcaodFIOjr1eGRmVQ3-1uD4-UiGfW5ppqL62aCRJOW5sbAJaSq-5Q2ug",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=us open 2025&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "tragická nehoda jižní čechy",
-      "news_title": "Jednadvacetiletá řidička škodovky zahynula na jihu Čech. Ve vraku ji našli až ráno mrtvou",
-      "news_url": "https://www.novinky.cz/clanek/krimi-jednadvacetileta-ridicka-skodovky-zahynula-na-jihu-cech-ve-vraku-ji-nasli-az-rano-mrtvou-40536459",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6EWBoQTk2WUTalgQd4GppuraGe8NNznjJn9ZI8L0ANpOIaDTnm5y8FKiDAAE",
-      "traffic": "100++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=tragická nehoda jižní čechy&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "afghánistán",
-      "news_title": "Fotky: Ohnisko zemětřesení bylo jen 8 km hluboko, záchranu komplikuje terén",
-      "news_url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-epicentrum-bylo-jen-osm-kilometru-hluboko-zachranu-komplikuje-teren-285069",
-      "picture": "",
-      "traffic": "100++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=afghánistán&geo=CZ"
+      "query": "us open 2025",
+      "news_title": "2025 U.S. Open Round of 16: How to watch the tennis tournament today without cable, full schedule, seeds and more",
+      "news_url": "https://sports.yahoo.com/tennis/article/2025-us-open-round-of-16-how-to-watch-the-tennis-tournament-today-without-cable-full-schedule-seeds-and-more-175416102.html",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxbnHTMxvynABFDAhmkWVm5unOSfvj1cLwIPhlvtZUA65URjwS9_RsdptRgJY",
+      "traffic": "200++ hledání",
+      "source": "Yahoo Sports",
+      "explore_url": "https://trends.google.cz/trends/explore?q=us open 2025&geo=CZ"
     }
   ]
 }
