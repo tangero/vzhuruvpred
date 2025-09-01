@@ -48,10 +48,9 @@ layout: default
     </div>
 </section>
 
-<!-- Děje se - Google Trends -->
+<!-- Co právě hýbe internetem v Česku -->
 <section class="quick-news" id="trending-section">
-    <h2 class="section-title">📈 Děje se</h2>
-    <div class="trending-subtitle">Co právě hýbe internetem v Česku</div>
+    <h2 class="section-title">Co právě hýbe internetem v Česku</h2>
     <div class="quick-news-grid trends-with-images" id="trends-container">
         {% if site.data.trends %}
             {% for trend in site.data.trends.trends limit:8 %}
@@ -84,15 +83,6 @@ layout: default
                 <p>🏒 Hokej MS</p>
             </article>
         {% endif %}
-    </div>
-    <div class="trends-footer">
-        {% if site.data.trends.updated %}
-        <span class="trends-update">Aktualizováno: {{ site.data.trends.updated | date: "%d.%m. %H:%M" }}</span>
-        <span class="trends-separator">|</span>
-        {% endif %}
-        <a href="https://trends.google.cz/trends/trendingsearches/daily?geo=CZ" target="_blank" class="trends-link">
-            Zobrazit vše na Google Trends →
-        </a>
     </div>
 </section>
 
