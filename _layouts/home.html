@@ -86,6 +86,45 @@ layout: default
     </div>
 </section>
 
+<!-- Sekce Audio a Video -->
+<section class="media-section">
+    <div class="section-header">
+        <h2 class="section-title">🎵 Audio & Video</h2>
+    </div>
+    
+    <div class="media-grid">
+        {% for media in site.media %}
+            <div class="media-item">
+                {% if media.type == 'video' %}
+                    <div class="video-container">
+                        <video controls preload="metadata">
+                            <source src="{{ '/audiolm/' | append: media.file | relative_url }}" type="video/mp4">
+                            Váš prohlížeč nepodporuje video tag.
+                        </video>
+                        <div class="media-info">
+                            <h3>📹 {{ media.title }}</h3>
+                            <span class="media-duration">{{ media.duration }}</span>
+                        </div>
+                    </div>
+                {% elsif media.type == 'audio' %}
+                    <div class="audio-container">
+                        <div class="audio-player">
+                            <div class="audio-info">
+                                <h3>🎵 {{ media.title }}</h3>
+                                <span class="media-duration">{{ media.duration }}</span>
+                            </div>
+                            <audio controls preload="metadata">
+                                <source src="{{ '/audiolm/' | append: media.file | relative_url }}" type="audio/mp4">
+                                Váš prohlížeč nepodporuje audio tag.
+                            </audio>
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
 <!-- Hlavní obsahová oblast s postranním panelem -->
 <div class="content-layout">
     <div class="main-column">

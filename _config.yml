@@ -17,6 +17,8 @@ collections:
   posts:
     output: true
     permalink: /:categories/:year-:month-:day/:title/
+  media:
+    output: false
 
 # Defaults
 defaults:
