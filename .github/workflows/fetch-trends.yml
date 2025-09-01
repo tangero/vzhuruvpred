@@ -49,12 +49,18 @@ jobs:
             if not trending.empty:
                 # Zpracování prvních 8 trendů
                 for idx, row in trending.head(8).iterrows():
+                    # Google Trends vrací přímé URL obrázků
+                    picture_url = row.get('picture', '')
+                    # Někdy Google vrací relativní URL, tak přidáme prefix
+                    if picture_url and picture_url.startswith('//'):
+                        picture_url = 'https:' + picture_url
+                    
                     trend_item = {
                         'rank': idx + 1,
                         'query': row.get('title', ''),
                         'news_title': row.get('news_item_title', ''),
                         'news_url': row.get('news_item_url', ''),
-                        'picture': row.get('picture', ''),
+                        'picture': picture_url,  # Použijeme původní URL z Google Trends
                         'traffic': row.get('formattedTraffic', ''),
                         'source': row.get('picture_source', ''),
                         'explore_url': f"https://trends.google.cz/trends/explore?q={row.get('title', '')}&geo=CZ"
