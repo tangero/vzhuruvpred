@@ -31,13 +31,13 @@ def process_title_with_llm(title):
             print(f"  🤖 {'Překládám a sumarizuji' if is_english else 'Sumarizuji'}: {title[:50]}...")
             
             if is_english:
-                prompt = f"""Přelož tento anglický nadpis článku do češtiny a zkrať ho na maximálně 112 znaků. Zachovej hlavní informaci a udělej z toho smysluplný český nadpis:
+                prompt = f"""Přelož tento anglický nadpis článku do češtiny a zkrať ho na maximálně 160 znaků. Zachovej hlavní informaci a udělej z toho smysluplný český nadpis:
 
 "{title}"
 
 Odpověz pouze českým nadpisem, bez dalšího komentáře."""
             else:
-                prompt = f"""Zkrať tento český nadpis článku na maximálně 112 znaků, zachovej hlavní informaci:
+                prompt = f"""Zkrať tento český nadpis článku na maximálně 160 znaků, zachovej hlavní informaci:
 
 "{title}"
 
@@ -74,9 +74,9 @@ Odpověz pouze zkráceným českým nadpisem, bez dalšího komentáře."""
                 
             translated_title = result['choices'][0]['message']['content'].strip()
             
-            # Zajistíme maximálně 112 znaků
-            if len(translated_title) > 112:
-                translated_title = translated_title[:109] + '...'
+            # Zajistíme maximálně 160 znaků
+            if len(translated_title) > 160:
+                translated_title = translated_title[:157] + '...'
                 
             print(f"    ✅ Výsledek: {translated_title}")
             return translated_title
@@ -84,15 +84,15 @@ Odpověz pouze zkráceným českým nadpisem, bez dalšího komentáře."""
         else:
             print(f"  ⚠️  Žádný API klíč, používám fallback pro: {title[:50]}...")
             # Fallback bez API - pouze zkrácení
-            if len(title) > 112:
-                return title[:109] + '...'
+            if len(title) > 160:
+                return title[:157] + '...'
             return title
         
     except Exception as e:
         print(f"  ❌ OpenRouter API selhalo pro '{title[:50]}...': {e}")
         # Fallback - pouze zkrácení
-        if len(title) > 112:
-            return title[:109] + '...'
+        if len(title) > 160:
+            return title[:157] + '...'
         return title
 
 print("Načítám Google Trends RSS feed pro Česko...")
