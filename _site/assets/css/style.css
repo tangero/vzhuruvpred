@@ -690,6 +690,99 @@ body {
     color: rgba(255, 255, 255, 0.6);
 }
 
+/* Trends with images */
+.trends-with-images {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.trend-item-with-image {
+    display: flex;
+    flex-direction: column;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 0;
+    overflow: hidden;
+    transition: all 0.3s;
+    text-decoration: none;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.trend-item-with-image:hover {
+    background: rgba(255, 255, 255, 0.08);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+.trend-image {
+    position: relative;
+    height: 140px;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.trend-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.trend-item-with-image:hover .trend-image img {
+    transform: scale(1.1);
+}
+
+.trend-image .trend-rank {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: var(--pirate-yellow);
+    color: var(--pirate-black);
+    padding: 4px 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    font-weight: 700;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.trend-content {
+    padding: 16px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.trend-news-title {
+    color: var(--pirate-white);
+    font-size: 15px;
+    line-height: 1.3;
+    margin-bottom: 12px;
+    font-weight: 500;
+    flex-grow: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.trend-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.trend-query {
+    color: var(--pirate-yellow);
+    font-weight: 600;
+}
+
+.trend-traffic {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 11px;
+}
+
 /* Content Layout */
 .content-layout {
     display: grid;
@@ -1774,6 +1867,11 @@ body {
     .quick-news-grid {
         grid-template-columns: 1fr;
     }
+    
+    .trends-with-images {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+    }
 
     .articles-grid {
         grid-template-columns: 1fr;
@@ -1874,6 +1972,19 @@ body {
     
     .sidebar-article-title-overlay {
         font-size: 18px;
+    }
+    
+    .trends-with-images {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+    
+    .trend-image {
+        height: 120px;
+    }
+    
+    .trend-news-title {
+        font-size: 14px;
     }
     
     .category-title {

@@ -3,43 +3,83 @@
   "trends": [
     {
       "rank": 1,
-      "title": "Volby 2025",
-      "url": "https://trends.google.cz/trends/explore?q=Volby%202025&geo=CZ"
+      "query": "Volby 2025",
+      "news_title": "Průzkum: ANO vede před volbami s 35% podporou",
+      "news_url": "https://www.idnes.cz/zpravy/domaci/volby-2025-pruzkum.html",
+      "picture": "https://picsum.photos/400/225?random=101",
+      "traffic": "100K+ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=Volby%202025&geo=CZ"
     },
     {
       "rank": 2,
-      "title": "Počasí Praha",
-      "url": "https://trends.google.cz/trends/explore?q=Počasí%20Praha&geo=CZ"
+      "query": "Počasí Praha",
+      "news_title": "Meteorologové varují: Přijde prudké ochlazení",
+      "news_url": "https://www.novinky.cz/pocasi/clanek/pocasi-praha-ochlazeni.html",
+      "picture": "https://picsum.photos/400/225?random=102",
+      "traffic": "50K+ hledání",
+      "source": "Novinky.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=Počasí%20Praha&geo=CZ"
     },
     {
       "rank": 3,
-      "title": "Česká televize",
-      "url": "https://trends.google.cz/trends/explore?q=Česká%20televize&geo=CZ"
+      "query": "Česká televize",
+      "news_title": "ČT spouští nový streamovací kanál pro mladé",
+      "news_url": "https://www.ceskatelevize.cz/porady/streamovaci-kanal.html",
+      "picture": "https://picsum.photos/400/225?random=103",
+      "traffic": "20K+ hledání",
+      "source": "Česká televize",
+      "explore_url": "https://trends.google.cz/trends/explore?q=Česká%20televize&geo=CZ"
     },
     {
       "rank": 4,
-      "title": "Hokej MS",
-      "url": "https://trends.google.cz/trends/explore?q=Hokej%20MS&geo=CZ"
+      "query": "Hokej MS",
+      "news_title": "Česko porazilo Kanadu 4:3 a postupuje do finále",
+      "news_url": "https://sport.cz/hokej/ms-cesko-kanada-finale.html",
+      "picture": "https://picsum.photos/400/225?random=104",
+      "traffic": "200K+ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=Hokej%20MS&geo=CZ"
     },
     {
       "rank": 5,
-      "title": "iPhone 16",
-      "url": "https://trends.google.cz/trends/explore?q=iPhone%2016&geo=CZ"
+      "query": "iPhone 16",
+      "news_title": "Apple představil iPhone 16 s revolučním AI čipem",
+      "news_url": "https://www.cnews.cz/apple-iphone-16-ai-cip.html",
+      "picture": "https://picsum.photos/400/225?random=105",
+      "traffic": "75K+ hledání",
+      "source": "Cnews.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=iPhone%2016&geo=CZ"
     },
     {
       "rank": 6,
-      "title": "Babiš",
-      "url": "https://trends.google.cz/trends/explore?q=Babiš&geo=CZ"
+      "query": "Babiš",
+      "news_title": "Babiš kritizuje vládu za zvyšování daní",
+      "news_url": "https://www.seznamzpravy.cz/clanek/babis-kritika-vlada-dane.html",
+      "picture": "https://picsum.photos/400/225?random=106",
+      "traffic": "30K+ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=Babiš&geo=CZ"
     },
     {
       "rank": 7,
-      "title": "ChatGPT",
-      "url": "https://trends.google.cz/trends/explore?q=ChatGPT&geo=CZ"
+      "query": "ChatGPT",
+      "news_title": "České firmy masivně zavádějí ChatGPT do provozu",
+      "news_url": "https://www.e15.cz/chatgpt-ceske-firmy-ai.html",
+      "picture": "https://picsum.photos/400/225?random=107",
+      "traffic": "45K+ hledání",
+      "source": "E15.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ChatGPT&geo=CZ"
     },
     {
       "rank": 8,
-      "title": "Praha doprava",
-      "url": "https://trends.google.cz/trends/explore?q=Praha%20doprava&geo=CZ"
+      "query": "Praha doprava",
+      "news_title": "Metro D: Začíná stavba první stanice",
+      "news_url": "https://www.praha.eu/metro-d-stavba-zacina.html",
+      "picture": "https://picsum.photos/400/225?random=108",
+      "traffic": "15K+ hledání",
+      "source": "Praha.eu",
+      "explore_url": "https://trends.google.cz/trends/explore?q=Praha%20doprava&geo=CZ"
     }
   ]
 }

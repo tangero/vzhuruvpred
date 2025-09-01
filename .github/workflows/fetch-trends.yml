@@ -24,29 +24,64 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install pytrends pandas
+        pip install pytrends pandas requests beautifulsoup4
     
     - name: Fetch trends
       run: |
         python << 'EOF'
         import json
+        import requests
+        from bs4 import BeautifulSoup
         from pytrends.request import TrendReq
         from datetime import datetime
+        import time
         
         # Inicializace pytrends pro Česko
-        pytrends = TrendReq(hl='cs-CZ', tz=60, geo='CZ')
+        pytrends = TrendReq(hl='cs-CZ', tz=60, geo='CZ', timeout=(10,25))
         
-        # Získání aktuálních trendů
-        trending = pytrends.trending_searches(pn='czech_republic')
-        
-        # Příprava dat pro Jekyll
-        trends_data = []
-        for idx, trend in enumerate(trending[0][:8]):  # Top 8 trendů
-            trends_data.append({
-                'rank': idx + 1,
-                'title': trend,
-                'url': f"https://trends.google.cz/trends/explore?q={trend}&geo=CZ"
-            })
+        # Získání aktuálních trendů s real-time daty
+        try:
+            # Získáme trending searches s detaily
+            trending = pytrends.realtime_trending_searches(pn='CZ')
+            
+            trends_data = []
+            
+            if not trending.empty:
+                # Zpracování prvních 8 trendů
+                for idx, row in trending.head(8).iterrows():
+                    trend_item = {
+                        'rank': idx + 1,
+                        'query': row.get('title', ''),
+                        'news_title': row.get('news_item_title', ''),
+                        'news_url': row.get('news_item_url', ''),
+                        'picture': row.get('picture', ''),
+                        'traffic': row.get('formattedTraffic', ''),
+                        'source': row.get('picture_source', ''),
+                        'explore_url': f"https://trends.google.cz/trends/explore?q={row.get('title', '')}&geo=CZ"
+                    }
+                    trends_data.append(trend_item)
+                    
+        except Exception as e:
+            print(f"Realtime trends failed: {e}, trying daily trends...")
+            # Fallback na daily trending searches
+            try:
+                trending = pytrends.trending_searches(pn='czech_republic')
+                trends_data = []
+                for idx, trend in enumerate(trending[0][:8]):
+                    # Pro daily trends nemáme obrázky, použijeme placeholder
+                    trends_data.append({
+                        'rank': idx + 1,
+                        'query': trend,
+                        'news_title': trend,  # Použijeme název trendu
+                        'news_url': f"https://www.google.com/search?q={trend}&tbm=nws",
+                        'picture': f"https://picsum.photos/400/225?random={idx+100}",  # Placeholder
+                        'traffic': 'Trending',
+                        'source': 'Google Trends',
+                        'explore_url': f"https://trends.google.cz/trends/explore?q={trend}&geo=CZ"
+                    })
+            except Exception as e2:
+                print(f"Daily trends also failed: {e2}")
+                trends_data = []
         
         # Uložení do JSON
         output = {
@@ -57,7 +92,7 @@ jobs:
         with open('_data/trends.json', 'w', encoding='utf-8') as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
         
-        print(f"Fetched {len(trends_data)} trends")
+        print(f"Fetched {len(trends_data)} trends with details")
         EOF
     
     - name: Commit trends data
