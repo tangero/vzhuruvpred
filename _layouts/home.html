@@ -54,18 +54,14 @@ layout: default
     <div class="trending-subtitle">Co právě hýbe internetem v Česku</div>
     <div class="quick-news-grid trends-with-images" id="trends-container">
         {% if site.data.trends %}
-            {% for trend in site.data.trends.trends limit:4 %}
+            {% for trend in site.data.trends.trends limit:8 %}
             <a href="{{ trend.news_url }}" target="_blank" class="trend-item-with-image">
                 <div class="trend-image">
                     <img src="{{ trend.picture }}" alt="{{ trend.query }}">
-                    <span class="trend-rank">#{{ trend.rank }}</span>
+                    <span class="trend-badge">{{ trend.query }}</span>
                 </div>
                 <div class="trend-content">
                     <h3 class="trend-news-title">{{ trend.news_title }}</h3>
-                    <div class="trend-meta">
-                        <span class="trend-query">{{ trend.query }}</span>
-                        <span class="trend-traffic">{{ trend.traffic }}</span>
-                    </div>
                 </div>
             </a>
             {% endfor %}
