@@ -448,6 +448,59 @@ body {
     padding: 24px 0;
 }
 
+/* Hero Sidebar Articles Styles */
+.hero-sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.sidebar-article {
+    position: relative;
+}
+
+.sidebar-article .article-image {
+    position: relative;
+    height: 225px;
+    overflow: hidden;
+}
+
+.sidebar-article-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.5), transparent);
+}
+
+.sidebar-article-title-overlay {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 0;
+}
+
+.sidebar-article-content {
+    padding: 12px 0;
+}
+
+.sidebar-article-excerpt {
+    font-size: 14px;
+    line-height: 1.4;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+}
+
+.sidebar-article-content .date {
+    font-size: 12px;
+    color: var(--text-light);
+    font-weight: 500;
+}
+
 .article-title {
     margin-bottom: 16px;
 }
@@ -1653,6 +1706,23 @@ body {
     .hero-main .article-image {
         height: 350px;
     }
+    
+    .hero-sidebar {
+        flex-direction: row;
+        gap: 16px;
+    }
+    
+    .sidebar-article {
+        flex: 1;
+    }
+    
+    .sidebar-article-title-overlay {
+        font-size: 20px;
+    }
+    
+    .sidebar-article .article-image {
+        height: 180px;
+    }
 
     .footer-grid {
         grid-template-columns: 1fr;
@@ -1701,6 +1771,18 @@ body {
         height: 48px;
     }
 
+    .hero-sidebar {
+        flex-direction: column;
+    }
+    
+    .sidebar-article .article-image {
+        height: 200px;
+    }
+    
+    .sidebar-article-title-overlay {
+        font-size: 18px;
+    }
+    
     .category-title {
         font-size: 36px;
     }
