@@ -13,7 +13,7 @@ import re
 
 def process_title_with_llm(title):
     """
-    Zpracuje nadpis pomocí LLM - přeloží z angličtiny a sumarizuje na max 112 znaků
+    Zpracuje nadpis pomocí OpenRouter.ai + Mistral - přeloží z angličtiny a sumarizuje na max 112 znaků
     """
     if not title or len(title.strip()) == 0:
         return title
@@ -24,42 +24,72 @@ def process_title_with_llm(title):
     is_english = any(f' {word} ' in f' {title_lower} ' for word in english_indicators)
     
     try:
-        if is_english:
-            print(f"  🔤 Překládám anglický text: {title[:50]}...")
-            # Základní překlad častých slov a frází
-            translations = {
-                'says': 'říká',
-                'after': 'po',
-                'from': 'z',
-                'appears to': 'zjevně',
-                'objects to': 'protestuje proti',
-                'plans for': 'plány na',
-                'president': 'prezident',
-                'US comedian': 'americký komik',
-                'told to remove': 'dostal rozkaz odstranit',
-                'mentions of': 'zmínky o',
-                'UEFA president': 'prezident UEFA',
-                'European football': 'evropský fotbal',
-                'matches in': 'zápasy v',
-                'foreign countries': 'cizích zemích'
+        import os
+        api_key = os.environ.get('OPENROUTER_API_KEY')
+        
+        if api_key:
+            print(f"  🤖 {'Překládám a sumarizuji' if is_english else 'Sumarizuji'}: {title[:50]}...")
+            
+            if is_english:
+                prompt = f"""Přelož tento anglický nadpis článku do češtiny a zkrať ho na maximálně 112 znaků. Zachovej hlavní informaci a udělej z toho smysluplný český nadpis:
+
+"{title}"
+
+Odpověz pouze českým nadpisem, bez dalšího komentáře."""
+            else:
+                prompt = f"""Zkrať tento český nadpis článku na maximálně 112 znaků, zachovej hlavní informaci:
+
+"{title}"
+
+Odpověz pouze zkráceným českým nadpisem, bez dalšího komentáře."""
+            
+            # OpenRouter.ai API volání
+            data = {
+                "model": "mistralai/mistral-medium-2506",
+                "messages": [
+                    {"role": "user", "content": prompt}
+                ],
+                "max_tokens": 100,
+                "temperature": 0.3
             }
             
-            for eng, cz in translations.items():
-                title = title.replace(eng, cz)
+            headers = {
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://github.com/tangero/vzhuruvpred",
+                "X-Title": "VzhúruVpřed News Trends"
+            }
             
-            # Odstranění článků
-            title = re.sub(r'\bThe\b', '', title)
-            title = re.sub(r'\bthe\b', '', title) 
-            title = title.strip()
+            # HTTP request pomocí urllib
+            import urllib.request
             
-        # Zkrátíme na 112 znaků
-        if len(title) > 112:
-            title = title[:109] + '...'
+            req = urllib.request.Request(
+                "https://openrouter.ai/api/v1/chat/completions",
+                data=json.dumps(data).encode('utf-8'),
+                headers=headers
+            )
             
-        return title.strip()
+            with urllib.request.urlopen(req, timeout=30) as response:
+                result = json.loads(response.read().decode('utf-8'))
+                
+            translated_title = result['choices'][0]['message']['content'].strip()
+            
+            # Zajistíme maximálně 112 znaků
+            if len(translated_title) > 112:
+                translated_title = translated_title[:109] + '...'
+                
+            print(f"    ✅ Výsledek: {translated_title}")
+            return translated_title
+            
+        else:
+            print(f"  ⚠️  Žádný API klíč, používám fallback pro: {title[:50]}...")
+            # Fallback bez API - pouze zkrácení
+            if len(title) > 112:
+                return title[:109] + '...'
+            return title
         
     except Exception as e:
-        print(f"LLM zpracování selhalo pro '{title}': {e}")
+        print(f"  ❌ OpenRouter API selhalo pro '{title[:50]}...': {e}")
         # Fallback - pouze zkrácení
         if len(title) > 112:
             return title[:109] + '...'
