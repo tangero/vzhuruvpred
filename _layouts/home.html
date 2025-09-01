@@ -12,21 +12,16 @@ layout: default
                 <div class="article-image">
                     <img src="{{ featured_post.image | default: 'https://picsum.photos/800/450?random=1' }}" alt="{{ featured_post.title }}">
                     <span class="category-badge">{{ featured_post.category | default: featured_post.categories[0] | capitalize }}</span>
+                    <div class="article-overlay">
+                        <h2 class="article-title-overlay">{{ featured_post.title }}</h2>
+                        <p class="article-excerpt-overlay">{{ featured_post.excerpt | strip_html | truncate: 150 }}</p>
+                        <div class="article-meta-overlay">
+                            <span class="author">⚡ {{ featured_post.author | default: 'Redakce' }}</span>
+                            <span class="date">{{ featured_post.date | date: "%d.%m.%Y" }}</span>
+                        </div>
+                    </div>
                 </div>
             </a>
-            <div class="article-content">
-                <h2 class="article-title">
-                    <a href="{{ featured_post.url | relative_url }}">{{ featured_post.title }}</a>
-                </h2>
-                <p class="article-excerpt">
-                    {{ featured_post.excerpt | strip_html | truncate: 150 }}
-                </p>
-                <div class="article-meta">
-                    <span class="author">⚡ {{ featured_post.author | default: 'Redakce' }}</span>
-                    <span class="date">{{ featured_post.date | date: "%d.%m.%Y" }}</span>
-                    <span class="comments">💬 {{ featured_post.comments | default: '0' }} komentářů</span>
-                </div>
-            </div>
         </article>
         {% endif %}
 

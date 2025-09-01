@@ -395,6 +395,55 @@ body {
     letter-spacing: 1px;
 }
 
+.hero-main .article-image {
+    position: relative;
+    height: 450px;
+}
+
+.hero-main .article-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 40px 30px 30px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7), transparent);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.hero-main .article-title-overlay {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    line-height: 1.1;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.hero-main .article-excerpt-overlay {
+    font-size: 18px;
+    line-height: 1.4;
+    margin-bottom: 16px;
+    color: rgba(255, 255, 255, 0.95);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    max-width: 80%;
+}
+
+.hero-main .article-meta-overlay {
+    display: flex;
+    gap: 20px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.hero-main .article-meta-overlay span {
+    display: flex;
+    align-items: center;
+}
+
 .hero-main .article-content {
     padding: 24px 0;
 }
@@ -1586,6 +1635,23 @@ body {
 
     .sport-grid {
         grid-template-columns: 1fr;
+    }
+    
+    .hero-main .article-overlay {
+        padding: 30px 20px 20px;
+    }
+    
+    .hero-main .article-title-overlay {
+        font-size: 32px;
+    }
+    
+    .hero-main .article-excerpt-overlay {
+        font-size: 16px;
+        max-width: 100%;
+    }
+    
+    .hero-main .article-image {
+        height: 350px;
     }
 
     .footer-grid {
