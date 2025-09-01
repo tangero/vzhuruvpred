@@ -1,0 +1,74 @@
+name: Fetch Google Trends
+
+on:
+  schedule:
+    # Běží každé 3 hodiny
+    - cron: '0 */3 * * *'
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  fetch-trends:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install pytrends pandas
+    
+    - name: Fetch trends
+      run: |
+        python << 'EOF'
+        import json
+        from pytrends.request import TrendReq
+        from datetime import datetime
+        
+        # Inicializace pytrends pro Česko
+        pytrends = TrendReq(hl='cs-CZ', tz=60, geo='CZ')
+        
+        # Získání aktuálních trendů
+        trending = pytrends.trending_searches(pn='czech_republic')
+        
+        # Příprava dat pro Jekyll
+        trends_data = []
+        for idx, trend in enumerate(trending[0][:8]):  # Top 8 trendů
+            trends_data.append({
+                'rank': idx + 1,
+                'title': trend,
+                'url': f"https://trends.google.cz/trends/explore?q={trend}&geo=CZ"
+            })
+        
+        # Uložení do JSON
+        output = {
+            'updated': datetime.now().isoformat(),
+            'trends': trends_data
+        }
+        
+        with open('_data/trends.json', 'w', encoding='utf-8') as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+        
+        print(f"Fetched {len(trends_data)} trends")
+        EOF
+    
+    - name: Commit trends data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add _data/trends.json
+        git diff --staged --quiet || git commit -m "Update Google Trends data"
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
