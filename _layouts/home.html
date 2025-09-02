@@ -123,13 +123,13 @@ layout: default
                             {% endif %}
                         </div>
                         <div class="article-content-small">
+                            <span class="category">{{ post.category | default: post.categories[0] | capitalize }}</span>
                             <h3 class="article-title-small">{{ post.title }}</h3>
                             <p class="article-excerpt-small">
                                 {{ post.excerpt | strip_html | truncate: 150 }}
                             </p>
                             <div class="article-meta-small">
                                 <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
-                                <span class="category">{{ post.category | default: post.categories[0] | capitalize }}</span>
                                 <span class="read-time">{{ post.read_time | default: '5 min' }}</span>
                             </div>
                         </div>
