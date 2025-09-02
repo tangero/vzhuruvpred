@@ -69,7 +69,7 @@ def translate_text_with_openrouter(text):
 
 def main():
     # Načíst zprávy
-    with open('/Users/patrickzandl/GitHub/vzhuruvpred/_data/world_news.json', 'r', encoding='utf-8') as f:
+    with open('_data/world_news.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
     print(f"Překládám {len(data['articles'])} zpráv pomocí OpenRouter.ai...")
@@ -94,7 +94,7 @@ def main():
         time.sleep(0.5)  # Delší pauza pro API
     
     # Uložit přeložené zprávy
-    with open('/Users/patrickzandl/GitHub/vzhuruvpred/_data/world_news.json', 'w', encoding='utf-8') as f:
+    with open('_data/world_news.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     print("Překlad dokončen!")
