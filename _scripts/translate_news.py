@@ -37,7 +37,7 @@ def translate_text_with_openrouter(text):
                 "Authorization": f"Bearer {api_key}",
                 "Content-Type": "application/json",
                 "HTTP-Referer": "https://github.com/tangero/vzhuruvpred",
-                "X-Title": "VzhúruVpřed News Translation"
+                "X-Title": "VzhuruVpred News Translation"
             }
             
             req = urllib.request.Request(
