@@ -6,3 +6,5 @@ _site/
 .bundle/
 vendor/
 _data/trends.json
+_site/feed.xml
+_site/index.html

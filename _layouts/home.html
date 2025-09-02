@@ -58,48 +58,6 @@ layout: default
     </div>
 </section>
 
-<!-- Světové zprávy ticker -->
-<section class="world-news-ticker">
-    <div class="ticker-container">
-        <div class="ticker-label">
-            <span>🌍 SVĚTOVÉ ZPRÁVY</span>
-        </div>
-        <div class="ticker-content">
-            <div class="ticker-items">
-                {% if site.data.world_news %}
-                    {% for article in site.data.world_news.articles %}
-                    <a href="{{ article.url }}" target="_blank" class="ticker-item">
-                        <span class="ticker-flag">{{ article.flag }}</span>
-                        <span class="ticker-text">{{ article.title }}</span>
-                        <span class="ticker-source">({{ article.source }})</span>
-                    </a>
-                    {% endfor %}
-                    <!-- Duplikujeme pro plynulé scrollování -->
-                    {% for article in site.data.world_news.articles %}
-                    <a href="{{ article.url }}" target="_blank" class="ticker-item">
-                        <span class="ticker-flag">{{ article.flag }}</span>
-                        <span class="ticker-text">{{ article.title }}</span>
-                        <span class="ticker-source">({{ article.source }})</span>
-                    </a>
-                    {% endfor %}
-                {% else %}
-                    <span class="ticker-item">
-                        <span class="ticker-flag">🇺🇸</span>
-                        <span class="ticker-text">Načítání světových zpráv...</span>
-                    </span>
-                    <span class="ticker-item">
-                        <span class="ticker-flag">🇬🇧</span>
-                        <span class="ticker-text">Pro zobrazení zpráv spusťte skript fetch_world_news.py</span>
-                    </span>
-                    <span class="ticker-item">
-                        <span class="ticker-flag">🇩🇪</span>
-                        <span class="ticker-text">Zprávy se aktualizují každou hodinu</span>
-                    </span>
-                {% endif %}
-            </div>
-        </div>
-    </div>
-</section>
 
 <!-- Co právě hýbe internetem v Česku -->
 <section class="quick-news" id="trending-section">

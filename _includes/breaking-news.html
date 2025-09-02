@@ -2,12 +2,30 @@
 <div class="breaking-news">
     <div class="container">
         <div class="breaking-news-content">
-            <span class="breaking-label">AKTUÁLNĚ</span>
+            <span class="breaking-label">🌍 SVĚTOVÉ ZPRÁVY</span>
             <div class="ticker-wrapper">
                 <div class="ticker">
-                    <span class="ticker-item">⚡ Piráti navrhují digitalizaci státní správy do roku 2030</span>
-                    <span class="ticker-item">⚡ Nová transparentní pravidla pro veřejné zakázky schválena</span>
-                    <span class="ticker-item">⚡ Otevřená data: Czechitas spouští největší open-source projekt</span>
+                    {% if site.data.world_news %}
+                        {% for article in site.data.world_news.articles limit:10 %}
+                            <a href="{{ article.url }}" target="_blank" class="ticker-item">
+                                <span class="ticker-flag">{{ article.flag }}</span>
+                                {{ article.title | truncate: 100 }}
+                                <span class="ticker-source">({{ article.source }})</span>
+                            </a>
+                        {% endfor %}
+                        <!-- Duplikujeme pro plynulé scrollování -->
+                        {% for article in site.data.world_news.articles limit:10 %}
+                            <a href="{{ article.url }}" target="_blank" class="ticker-item">
+                                <span class="ticker-flag">{{ article.flag }}</span>
+                                {{ article.title | truncate: 100 }}
+                                <span class="ticker-source">({{ article.source }})</span>
+                            </a>
+                        {% endfor %}
+                    {% else %}
+                        <span class="ticker-item">⚡ Piráti navrhují digitalizaci státní správy do roku 2030</span>
+                        <span class="ticker-item">⚡ Nová transparentní pravidla pro veřejné zakázky schválena</span>
+                        <span class="ticker-item">⚡ Otevřená data: Czechitas spouští největší open-source projekt</span>
+                    {% endif %}
                 </div>
             </div>
         </div>
