@@ -37,7 +37,11 @@ layout: default
             <article class="sidebar-article">
                 <a href="{{ post.url | relative_url }}" class="article-image-link">
                     <div class="article-image">
-                        <img src="{{ post.image | default: 'https://picsum.photos/400/225?random=' | append: forloop.index | append: 1 }}" alt="{{ post.title }}">
+                        {% if post.image %}
+                            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                        {% else %}
+                            <img src="https://picsum.photos/400/225?random={{ forloop.index }}1" alt="{{ post.title }}">
+                        {% endif %}
                         <span class="category-badge">{{ post.category | default: post.categories[0] | capitalize }}</span>
                         <div class="sidebar-article-overlay">
                             <h3 class="sidebar-article-title-overlay">{{ post.title }}</h3>
