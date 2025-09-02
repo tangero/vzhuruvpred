@@ -11,6 +11,7 @@ excerpt: "Názory na nařízení Chat Control cloumají Českem. Jak toto naří
 tags: [digitalizace, e-government, technologie]
 category: "EU"
 read_time: "14 min"
+topclanek: true
 ---
 
 

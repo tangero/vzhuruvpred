@@ -5,7 +5,12 @@ layout: default
 <!-- Hero sekce s gradientním textem -->
 <section class="hero-section">
     <div class="hero-grid">
-        {% assign featured_post = site.posts.first %}
+        {% assign top_articles = site.posts | where: "topclanek", true %}
+        {% if top_articles.size > 0 %}
+            {% assign featured_post = top_articles.first %}
+        {% else %}
+            {% assign featured_post = site.posts.first %}
+        {% endif %}
         {% if featured_post %}
         <article class="hero-main">
             <a href="{{ featured_post.url | relative_url }}" class="article-image-link">
@@ -26,7 +31,8 @@ layout: default
         {% endif %}
 
         <div class="hero-sidebar">
-            {% assign sidebar_posts = site.posts | slice: 1, 2 %}
+            {% assign non_top_posts = site.posts | where_exp: "post", "post.topclanek != true" %}
+            {% assign sidebar_posts = non_top_posts | slice: 0, 2 %}
             {% for post in sidebar_posts %}
             <article class="sidebar-article">
                 <a href="{{ post.url | relative_url }}" class="article-image-link">
@@ -198,7 +204,9 @@ layout: default
         <div class="sidebar-section">
             <h3 class="sidebar-title">Nejčtenější</h3>
             <ol class="trending-list">
-                {% assign popular_posts = site.posts | limit: 5 %}
+                {% assign top_articles = site.posts | where: "topclanek", true | limit: 1 %}
+                {% assign other_posts = site.posts | where_exp: "post", "post.topclanek != true" | limit: 4 %}
+                {% assign popular_posts = top_articles | concat: other_posts %}
                 {% for post in popular_posts %}
                 <li class="trending-item">
                     <span class="trending-number">{{ forloop.index }}</span>

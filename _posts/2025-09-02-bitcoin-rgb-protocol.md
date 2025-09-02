@@ -6,7 +6,7 @@ categories: [technologie]
 author: "Patrick Zandl"
 author_title: "Reportérka pro digitalizaci"
 author_image: "https://picsum.photos/60/60?random=1"
-image: "/assets/obrazky/ivan_bartos.jpg"
+image: "/assets/obrazky/rgb-bitcoin.jpg"
 excerpt: "RGB protokol přináší na Bitcoin pokročilé chytré kontrakty s klientskou validací a soukromím, umožňuje nativní stablecoiny a konkuruje řešením jako Taproot Assets."
 tags: [bitcoin, kryptoměny]
 category: "Bitcoin"
