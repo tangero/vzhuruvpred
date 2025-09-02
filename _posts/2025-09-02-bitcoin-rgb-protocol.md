@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin"
-date: 2025-09-02 8:00:00 +0100
+date: 2025-09-02 6:00:00 +0200
 categories: [technologie]
 author: "Patrick Zandl"
 author_title: "Reportérka pro digitalizaci"

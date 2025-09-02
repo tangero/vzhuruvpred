@@ -48,6 +48,7 @@ exclude:
 # Site settings
 lang: cs
 timezone: Europe/Prague
+future: true
 
 # Navigation
 navigation:
