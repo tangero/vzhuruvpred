@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-02T15:51:58.544951",
+  "updated": "2025-09-02T16:14:39.429754",
   "trends": [
     {
       "rank": 1,
@@ -13,6 +13,16 @@
     },
     {
       "rank": 2,
+      "query": "metro c",
+      "news_title": "Závada na výhybce na Kačerově zastavila metro, cestující vozily autobusy",
+      "news_url": "https://www.idnes.cz/praha/zpravy/metro-c-stanice-kacerov-technicka-zavada.A250902_150713_praha-zpravy_pari",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrSrtUwLEsiOMcANd61SzUeWeW0WCrHj5yxMCPRapg01nGrrchr4BEZU3ESa8",
+      "traffic": "1000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=metro c&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "lewis pullman",
       "news_title": "Kaia Gerber, 23, wows in sexy plunging top as she joins boyfriend Lewis Pullman, 32, in leading stars at Venice Film Festival event - after PDA-packed red ca...",
       "news_url": "https://www.dailymail.co.uk/tvshowbiz/article-15057475/Kaia-Gerber-plunging-crop-boyfriend-Lewis-Pullman-Venice-Film-Festival.html",
@@ -20,16 +30,6 @@
       "traffic": "1000++ hledání",
       "source": "Daily Mail",
       "explore_url": "https://trends.google.cz/trends/explore?q=lewis pullman&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "metro c",
-      "news_title": "Závada na výhybce na Kačerově zastavila metro, cestující vozily autobusy",
-      "news_url": "https://www.idnes.cz/praha/zpravy/metro-c-stanice-kacerov-technicka-zavada.A250902_150713_praha-zpravy_pari",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrSrtUwLEsiOMcANd61SzUeWeW0WCrHj5yxMCPRapg01nGrrchr4BEZU3ESa8",
-      "traffic": "500++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=metro c&geo=CZ"
     },
     {
       "rank": 4,
@@ -53,16 +53,6 @@
     },
     {
       "rank": 6,
-      "query": "metro",
-      "news_title": "Testování bezpečnostní stěny pro pražské metro bez řidiče trvá na Zličíně už dva roky",
-      "news_url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-testovani-bezpecnostni-steny-pro-prazske-metro-bez-ridice-trva-na-zlicine-uz-dva-roky-40534195",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2-AknPW-pOBJTDK3XNTMtqehoUU4amrfdtMppzinRoC_YH6dG8JbDzYcH59Q",
-      "traffic": "100++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=metro&geo=CZ"
-    },
-    {
-      "rank": 7,
       "query": "denik sport",
       "news_title": "Stanovisko redakce k prohlášení Slavie, Viktorie Plzeň a Baníku Ostrava",
       "news_url": "https://isport.blesk.cz/clanek/fotbal/465809/stanovisko-redakce-k-prohlaseni-slavie-viktorie-plzen-a-baniku-ostrava.html",
@@ -72,7 +62,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=denik sport&geo=CZ"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "query": "sarah haváčová",
       "news_title": "Sloužíme vlasti! Herečka Sarah Haváčová absolvovala vojenský výcvik",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/sarah-havacova-vojacka-vycvik-armada-sestra.A250902_124730_lidicky_zar",
@@ -80,6 +70,16 @@
       "traffic": "100++ hledání",
       "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=sarah haváčová&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "velké dářko",
+      "news_title": "Fuj, co je to za sliz? Rybník na Vysočině zaplavily invazní bochnatky americké",
+      "news_url": "https://www.idnes.cz/jihlava/zpravy/bochnatky-americke-velke-darko-rybnik-zdarsko.A250901_868333_jihlava-zpravy_evs",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaUdJ3atxDt2rIvIV67aNLvbxCwm5q_SkGT2ytkp5W-GmQvSnoCq0n5eALcJo",
+      "traffic": "100++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=velké dářko&geo=CZ"
     }
   ]
 }
