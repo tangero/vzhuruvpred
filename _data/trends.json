@@ -1,38 +1,48 @@
 {
-  "updated": "2025-09-02T07:58:16.581541",
+  "updated": "2025-09-02T09:18:33.424997",
   "trends": [
     {
       "rank": 1,
-      "query": "us open",
-      "news_title": "Muchová je také ve čtvrtfinále US Open. Přemohla Ukrajinku i problémy se zády",
-      "news_url": "https://www.sport.cz/clanek/tenis-muchova-se-muze-stat-ctvrtym-ceskym-ctvrtfinalistou-dvouhry-na-us-open-5284397",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYZ5YNfTn1IQlfuYU74hWJLsKOXRZh9p75GrEX3ZEUQB-OgS_6eAA82GqUJ50",
-      "traffic": "2000++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=us open&geo=CZ"
-    },
-    {
-      "rank": 2,
       "query": "graham greene",
       "news_title": "Dances With Wolves star Graham Greene dies aged 73",
       "news_url": "https://www.bbc.com/news/articles/c8606pdx23go",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOffJmXQSMihsvfKH_vfYRPTXwnptFVyXemE18hjo_A6DFKdZR_xUQMQn_DO4",
-      "traffic": "1000++ hledání",
+      "traffic": "2000++ hledání",
       "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=graham greene&geo=CZ"
     },
     {
+      "rank": 2,
+      "query": "us open",
+      "news_title": "Ztuhly mi záda a zadek, přiblížila Muchová potíže. Chytá druhý, možná i třetí dech",
+      "news_url": "https://www.idnes.cz/sport/tenis/ztuhly-mi-zada-a-zadek-priblizila-muchova-potize-chyta-druhy-mozna-i-treti-dech.A250902_084519_tenis_ikuc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbghepdcjNGp3C1tGRymncYcnhXvC4yBMFOPqQhfDc-VEhjGmuzIjDqrC9fJA",
+      "traffic": "2000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=us open&geo=CZ"
+    },
+    {
       "rank": 3,
       "query": "weather",
-      "news_title": "CWG Live updates: Cool again tonight. Sun and comfort into midweek — then shower chances.",
-      "news_url": "https://www.washingtonpost.com/weather/2025/08/31/dc-weather-live-updates-sunny-labor-day/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTP3mqi1EVETOjcmgoBd4KVF0BpJTM70bnmNzmPIlL3fF0Iqb50eBVbeRLIDk",
+      "news_title": "Daily briefing: More Autumnal signs",
+      "news_url": "https://www.weatherandradar.com/weather-news/daily-briefing-more-autumnal-signs--5814e6b6-ae96-4977-9e9d-a0015ea99df8",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLSyP3h3sbAezoZYK1uVOOj-gHhN0dsFHbYZT91DfEuTq0K7VsXhwkG46--F0",
       "traffic": "1000++ hledání",
-      "source": "The Washington Post",
+      "source": "Weather & Radar USA",
       "explore_url": "https://trends.google.cz/trends/explore?q=weather&geo=CZ"
     },
     {
       "rank": 4,
+      "query": "classroom",
+      "news_title": "San Antonio teacher arrested, charged with indecency with a child, affidavit says",
+      "news_url": "https://www.ksat.com/news/local/2025/08/30/san-antonio-teacher-arrested-charged-with-indecency-with-a-child-affidavit-says/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZpS29YIyve0vdwzedegSd92lwdDS7v8NbmRuZvgefXft0QCRP2F8UJvD1Knw",
+      "traffic": "500++ hledání",
+      "source": "KSAT",
+      "explore_url": "https://trends.google.cz/trends/explore?q=classroom&geo=CZ"
+    },
+    {
+      "rank": 5,
       "query": "tipsport",
       "news_title": "Svobodná země stojí na vzdělanosti, vysvětluje spolumajitel Tipsportu, proč postavil školku, školu a gymnázium za 1,5 miliardy",
       "news_url": "https://archiv.hn.cz/c1-67781180-svobodna-zeme-stoji-na-vzdelanosti-vysvetluje-spolumajitel-tipsportu-proc-postavil-skolku-skolu-a-gymnazium-za-1-5-miliardy",
@@ -42,17 +52,17 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=tipsport&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "classroom",
-      "news_title": "San Antonio teacher arrested, charged with indecency with a child, affidavit says",
-      "news_url": "https://www.ksat.com/news/local/2025/08/30/san-antonio-teacher-arrested-charged-with-indecency-with-a-child-affidavit-says/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZpS29YIyve0vdwzedegSd92lwdDS7v8NbmRuZvgefXft0QCRP2F8UJvD1Knw",
+      "rank": 6,
+      "query": "počasí dnes",
+      "news_title": "Babí léto dorazí v plné síle. Září by mělo být teplé a suché",
+      "news_url": "https://www.novinky.cz/clanek/pocasi-babi-leto-dorazi-v-plne-sile-zari-by-melo-byt-teple-a-suche-40536679",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7IlvOOrJVjku3JCCYai6b21n8OPdWg0i4LkAltJdLOoq7t0xt03F-l7DQu8",
       "traffic": "200++ hledání",
-      "source": "KSAT",
-      "explore_url": "https://trends.google.cz/trends/explore?q=classroom&geo=CZ"
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=počasí dnes&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "chance",
       "news_title": "Hodnocení vybraných situací v 7. kole Chance Ligy",
       "news_url": "https://www.fotbal.cz/rozhodci/hodnoceni-vybranych-situaci-v-7-kole-chance-ligy/a22817",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=chance&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "naomi osaka",
-      "news_title": "'The moments I play tennis for' - Osaka beats Gauff at US Open",
-      "news_url": "https://www.bbc.com/sport/tennis/articles/ce838191m9vo",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToPhGGyLH9Sd9t9hfUTQz6hczm5G98UbDXmdwuSmHBtPY7TtpwFmzz7TyUyI0",
-      "traffic": "200++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=naomi osaka&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "predpoved pocasi",
-      "news_title": "Babí léto dorazí v plné síle. Září by mělo být teplé a suché",
-      "news_url": "https://www.novinky.cz/clanek/pocasi-babi-leto-dorazi-v-plne-sile-zari-by-melo-byt-teple-a-suche-40536679",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7IlvOOrJVjku3JCCYai6b21n8OPdWg0i4LkAltJdLOoq7t0xt03F-l7DQu8",
+      "query": "velké dářko",
+      "news_title": "Fuj, co je to za sliz? Rybník na Vysočině zaplavily invazní bochnatky americké",
+      "news_url": "https://www.idnes.cz/jihlava/zpravy/bochnatky-americke-velke-darko-rybnik-zdarsko.A250901_868333_jihlava-zpravy_evs",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQerU6eO6sqD-b6hKT5Ktb5g9t-jkIgNgI-Eq6Vx-j5GbOJYtZCak2hH5V-gI",
       "traffic": "100++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=predpoved pocasi&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=velké dářko&geo=CZ"
     }
   ]
 }
