@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<div class="world-news-page">
+    <div class="container">
+        <div class="page-header">
+            <h1 class="page-title">🌍 {{ page.title }}</h1>
+            <p class="page-description">{{ page.description }}</p>
+            {% if site.data.world_news.updated %}
+            <p class="last-updated">
+                Poslední aktualizace: {{ site.data.world_news.updated | date: "%d.%m.%Y v %H:%M" }}
+            </p>
+            {% endif %}
+        </div>
+        
+        <div class="world-news-grid">
+            {% if site.data.world_news.articles %}
+                {% for article in site.data.world_news.articles limit:20 %}
+                <article class="world-news-item">
+                    {% if article.urlToImage %}
+                    <div class="news-image">
+                        <img src="{{ article.urlToImage }}" alt="{{ article.title }}" loading="lazy">
+                    </div>
+                    {% endif %}
+                    
+                    <div class="news-content">
+                        <div class="news-meta">
+                            <span class="news-flag">{{ article.flag | default: "🌍" }}</span>
+                            <span class="news-source">{{ article.source }}</span>
+                            {% if article.publishedAt %}
+                            <time class="news-time">{{ article.publishedAt | date: "%H:%M" }}</time>
+                            {% endif %}
+                        </div>
+                        
+                        <h2 class="news-title">
+                            <a href="{{ article.url }}" target="_blank" rel="noopener">
+                                {{ article.title }}
+                            </a>
+                        </h2>
+                        
+                        {% if article.original_title and article.original_title != article.title %}
+                        <p class="original-title">
+                            <small><em>Původně:</em> {{ article.original_title }}</small>
+                        </p>
+                        {% endif %}
+                        
+                        {% if article.description %}
+                        <p class="news-description">{{ article.description }}</p>
+                        {% endif %}
+                        
+                        <div class="news-actions">
+                            <a href="{{ article.url }}" target="_blank" class="read-more-btn" rel="noopener">
+                                Číst celý článek <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            {% else %}
+                <div class="no-news">
+                    <p>Zprávy se právě načítají... Zkuste to za chvíli.</p>
+                </div>
+            {% endif %}
+        </div>
+        
+        <div class="news-footer">
+            <p><small>
+                Zprávy jsou automaticky přeloženy do češtiny pomocí AI. 
+                Zdroj: <a href="https://newsapi.org" target="_blank">NewsAPI.org</a>
+            </small></p>
+        </div>
+    </div>
+</div>

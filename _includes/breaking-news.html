@@ -2,12 +2,14 @@
 <div class="breaking-news">
     <div class="container">
         <div class="breaking-news-content">
-            <span class="breaking-label">🌍 SVĚTOVÉ ZPRÁVY</span>
+            <a href="/svetove-zpravy/" class="breaking-label-link">
+                <span class="breaking-label">🌍 SVĚTOVÉ ZPRÁVY</span>
+            </a>
             <div class="ticker-wrapper">
                 <div class="ticker">
                     {% if site.data.world_news %}
                         {% for article in site.data.world_news.articles limit:10 %}
-                            <a href="{{ article.url }}" target="_blank" class="ticker-item">
+                            <a href="/svetove-zpravy/" class="ticker-item">
                                 <span class="ticker-flag">{{ article.flag }}</span>
                                 {{ article.title | truncate: 100 }}
                                 <span class="ticker-source">({{ article.source }})</span>
@@ -15,7 +17,7 @@
                         {% endfor %}
                         <!-- Duplikujeme pro plynulé scrollování -->
                         {% for article in site.data.world_news.articles limit:10 %}
-                            <a href="{{ article.url }}" target="_blank" class="ticker-item">
+                            <a href="/svetove-zpravy/" class="ticker-item">
                                 <span class="ticker-flag">{{ article.flag }}</span>
                                 {{ article.title | truncate: 100 }}
                                 <span class="ticker-source">({{ article.source }})</span>
