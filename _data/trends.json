@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-02T16:37:13.555088",
+  "updated": "2025-09-02T16:41:53.633697",
   "trends": [
     {
       "rank": 1,
@@ -53,6 +53,16 @@
     },
     {
       "rank": 6,
+      "query": "viktor janukovyč",
+      "news_title": "viktor janukovyč",
+      "news_url": "https://www.google.com/search?q=viktor janukovyč&tbm=nws",
+      "picture": null,
+      "traffic": "100++ hledání",
+      "source": null,
+      "explore_url": "https://trends.google.cz/trends/explore?q=viktor janukovyč&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "metro",
       "news_title": "Testování bezpečnostní stěny pro pražské metro bez řidiče trvá na Zličíně už dva roky",
       "news_url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-testovani-bezpecnostni-steny-pro-prazske-metro-bez-ridice-trva-na-zlicine-uz-dva-roky-40534195",
@@ -62,7 +72,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=metro&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "query": "denik sport",
       "news_title": "Slavia, Plzeň a Baník odebraly akreditace Sportu. ‚Krok k polototalitnímu vidění světa,‘ reaguje deník",
       "news_url": "https://www.irozhlas.cz/sport/fotbal/sk-slavia-praha-fc-viktoria-plzen-fc-banik-ostrava-akreditace-novinari_2509021751_mim",
@@ -70,16 +80,6 @@
       "traffic": "100++ hledání",
       "source": "iROZHLAS",
       "explore_url": "https://trends.google.cz/trends/explore?q=denik sport&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "sarah haváčová",
-      "news_title": "Sloužíme vlasti! Herečka Sarah Haváčová absolvovala vojenský výcvik",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/sarah-havacova-vojacka-vycvik-armada-sestra.A250902_124730_lidicky_zar",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8qvEjXZ1xdtdru6kVK93jbpK3NjX6uOQ4DNjkpMTky-KFxRG1AJZGyA1kSOE",
-      "traffic": "100++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=sarah haváčová&geo=CZ"
     }
   ]
 }
