@@ -59,6 +59,8 @@ navigation:
     link: "/nazory/"
   - name: "Analýzy"
     link: "/analyzy/"
+  - name: "Technologie"
+    link: "/technologie/"
   - name: "Kultura"
     link: "/kultura/"
 

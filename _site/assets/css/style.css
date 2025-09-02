@@ -631,6 +631,25 @@ body {
     border-top: 3px solid var(--pirate-yellow);
     display: block !important;
     visibility: visible !important;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.media-section .section-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+
+.media-section .section-title {
+    color: var(--pirate-yellow);
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
 }
 
 .media-grid {
