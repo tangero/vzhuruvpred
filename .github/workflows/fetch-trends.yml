@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: read
     
     steps:
     - uses: actions/checkout@v3
@@ -78,7 +79,7 @@ jobs:
                         "Authorization": f"Bearer {api_key}",
                         "Content-Type": "application/json",
                         "HTTP-Referer": "https://github.com/tangero/vzhuruvpred",
-                        "X-Title": "VzhúruVpřed News Trends"
+                        "X-Title": "VzhuruVpred News Trends"
                     }
                     
                     # HTTP request pomocí urllib
