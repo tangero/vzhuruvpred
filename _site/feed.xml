@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cs"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="cs" /><updated>2025-09-02T09:32:21+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Vzhůru a vpřed</title><subtitle>Nezávislý zpravodajský portál zaměřený na digitalizaci, transparentnost a technologické inovace</subtitle><entry><title type="html">RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin</title><link href="http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/" rel="alternate" type="text/html" title="RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin" /><published>2025-09-02T06:00:00+02:00</published><updated>2025-09-02T06:00:00+02:00</updated><id>http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol</id><content type="html" xml:base="http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/"><![CDATA[<p>Bitcoinová komunita se dočkala významného milníku. RGB protokol dosáhláhl verze 0.11.1, což otevírá cestu pro nativní stablecoiny a pokročilé chytré kontrakty přímo na Bitcoinu. Tether, největší společnost v oblasti digitálních aktiv, oznámila 28. srpna 2025 plány na spuštění USD₮ na RGB. Vsází tím na životaschopnost této technologie.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cs"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="cs" /><updated>2025-09-02T09:49:59+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Vzhůru a vpřed</title><subtitle>Nezávislý zpravodajský portál zaměřený na digitalizaci, transparentnost a technologické inovace</subtitle><entry><title type="html">RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin</title><link href="http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/" rel="alternate" type="text/html" title="RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin" /><published>2025-09-02T06:00:00+02:00</published><updated>2025-09-02T06:00:00+02:00</updated><id>http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol</id><content type="html" xml:base="http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/"><![CDATA[<p>Bitcoinová komunita se dočkala významného milníku. RGB protokol dosáhláhl verze 0.11.1, což otevírá cestu pro nativní stablecoiny a pokročilé chytré kontrakty přímo na Bitcoinu. Tether, největší společnost v oblasti digitálních aktiv, oznámila 28. srpna 2025 plány na spuštění USD₮ na RGB. Vsází tím na životaschopnost této technologie.</p>
 
 <h2 id="technická-architektura-rgb">Technická architektura RGB</h2>
 
@@ -60,7 +60,121 @@
 
 <p>S podporou významných hráčů jako Tether a rostoucím ekosystémem vývojářů má RGB potenciál stát se standardem pro tokenizaci a chytré kontrakty na Bitcoinu. Protokol dokazuje, že Bitcoin může konkurovat moderním blockchainům v oblasti programovatelnosti, aniž by obětoval své základní hodnoty - decentralizaci, bezpečnost a soukromí.</p>
 
-<p>Pro uživatele to znamená možnost využívat pokročilé finanční nástroje přímo na nejbezpečnější kryptoměnové síti světa. Pro vývojáře otevírá RGB nové možnosti vytváření aplikací, které kombinují to nejlepší z obou světů - robustnost Bitcoinu a flexibilitu chytrých kontraktů.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Bitcoin" /><category term="bitcoin" /><category term="kryptoměny" /><summary type="html"><![CDATA[RGB protokol přináší na Bitcoin pokročilé chytré kontrakty s klientskou validací a soukromím, umožňuje nativní stablecoiny a konkuruje řešením jako Taproot Assets.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/obrazky/bitcoin-rgb-protocol.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/assets/obrazky/bitcoin-rgb-protocol.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pozadí a historie EU Chat Control</title><link href="http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control/" rel="alternate" type="text/html" title="Pozadí a historie EU Chat Control" /><published>2024-08-30T11:00:00+02:00</published><updated>2024-08-30T11:00:00+02:00</updated><id>http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control</id><content type="html" xml:base="http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control/"><![CDATA[<p>Kolem nařízení EU nazývané Chat Control se v poslední době rozproudila větší debata, než na jaké jsme u nařízení EU v Česku zvyklí. Pro lepší přehled a pochopení vám Institut Pi přináší základní přehled toho, proč a kdy a jakým způsobem toto nařízen vznikalo a jaké je jeho technologické pozadí.</p>
+<p>Pro uživatele to znamená možnost využívat pokročilé finanční nástroje přímo na nejbezpečnější kryptoměnové síti světa. Pro vývojáře otevírá RGB nové možnosti vytváření aplikací, které kombinují to nejlepší z obou světů - robustnost Bitcoinu a flexibilitu chytrých kontraktů.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Bitcoin" /><category term="bitcoin" /><category term="kryptoměny" /><summary type="html"><![CDATA[RGB protokol přináší na Bitcoin pokročilé chytré kontrakty s klientskou validací a soukromím, umožňuje nativní stablecoiny a konkuruje řešením jako Taproot Assets.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/obrazky/bitcoin-rgb-protocol.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/assets/obrazky/bitcoin-rgb-protocol.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jaké vedlejší účinky mají léky na hubnutí typu GLP-1</title><link href="http://0.0.0.0:4000/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie/" rel="alternate" type="text/html" title="Jaké vedlejší účinky mají léky na hubnutí typu GLP-1" /><published>2025-09-02T06:00:00+02:00</published><updated>2025-09-02T06:00:00+02:00</updated><id>http://0.0.0.0:4000/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie</id><content type="html" xml:base="http://0.0.0.0:4000/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie/"><![CDATA[<p>Americká studie organizace RAND Corporation přinesla aktuální údaje o používání léků na hubnutí typu GLP-1 v USA. Podle výzkumu z roku 2025 použilo tyto léky 11,8 procenta amerických dospělých, přičemž nejčastěji je využívají ženy středního věku. Studie současně poskytuje první populační odhady vedlejších účinků těchto léků.</p>
+
+<p>Léky typu GLP-1 představují třídu léků původně určených pro regulaci hladiny cukru v krvi u pacientů s diabetem 2. typu. Jejich mechanismus působení spočívá v napodobování hormonu GLP-1, který stimuluje uvolňování inzulínu, snižuje hladinu cukru v krvi, zpomaluje průchod potravy trávicím traktem a ovlivňuje mozkové oblasti řídící hlad a pocit sytosti.</p>
+
+<p>Nejznámějším zástupcem této skupiny je semaglutid, který americký Úřad pro kontrolu potravin a léčiv schválil pro léčbu diabetu v roce 2017 pod obchodním názvem Ozempic. V roce 2021 získal povolení pro léčbu obezity pod názvem Wegovy a v roce 2024 byl schválen také pro snížení rizika kardiovaskulárních onemocnění. Od roku 2020 se počet předpisů těchto léků více než ztrojnásobil.</p>
+
+<h2 id="stabilní-míra-používání-napříč-populací">Stabilní míra používání napříč populací</h2>
+
+<p>Výzkum provedený na reprezentativním vzorku 8 793 amerických dospělých v dubnu a květnu 2025 ukázal, že 11,8 procenta respondentů uvedlo používání léků typu GLP-1. Toto číslo zůstává prakticky stejné jako v předchozí studii organizace KFF z roku 2023, která zaznamenala 12 procent uživatelů. Stabilita těchto hodnot naznačuje, že celková míra používání v populaci se za poslední dva roky výrazně nezměnila.</p>
+
+<p>Dodatečných 14 procent dotázaných vyjádřilo zájem o vyzkoušení těchto léků, zatímco 74,2 procenta uvedlo, že je nehodlá používat.</p>
+
+<h2 id="ženy-středního-věku-jako-hlavní-uživatelky">Ženy středního věku jako hlavní uživatelky</h2>
+
+<p>Demografická analýza odhalila významné rozdíly v používání léků typu GLP-1 podle věku a pohlaví. Nejvyšší míru používání vykazuje skupina žen ve věku 50 až 64 let, kde každá pětá žena (20 procent) uvedla, že tyto léky někdy použila. Obecně ženy používají tyto léky častěji než muži ve většině věkových kategorií, s výjimkou skupiny nad 65 let, kde je situace opačná.</p>
+
+<p>Ve věkové skupině 30 až 49 let mají ženy více než dvojnásobnou pravděpodobnost použití těchto léků ve srovnání s muži. Celkově je nejvyšší míra používání zaznamenána u osob ve věku 50 až 64 let bez ohledu na pohlaví.</p>
+
+<p><strong>Rozložení používání léků typu GLP-1 podle věku a pohlaví:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Věková skupina</th>
+      <th>Muži</th>
+      <th>Ženy</th>
+      <th>Celkem</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18-29 let</td>
+      <td>7,2%</td>
+      <td>15,1%</td>
+      <td>11,2%</td>
+    </tr>
+    <tr>
+      <td>30-49 let</td>
+      <td>3,3%</td>
+      <td>16,8%</td>
+      <td>10,1%</td>
+    </tr>
+    <tr>
+      <td>50-64 let</td>
+      <td>13,5%</td>
+      <td>20,0%</td>
+      <td>16,8%</td>
+    </tr>
+    <tr>
+      <td>65+ let</td>
+      <td>13,1%</td>
+      <td>12,8%</td>
+      <td>13,0%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="vedlejší-účinky-postihují-většinu-uživatelů">Vedlejší účinky postihují většinu uživatelů</h2>
+
+<p>Studie poskytla první populační odhady vedlejších účinků léků typu GLP-1 na základě zkušeností 1 262 uživatelů. Nejčastějším vedlejším účinkem je nauzea - pocit nevolnosti -  kterou hlásí přibližně polovina všech uživatelů (43,2 procenta mírnou, celkem kolem 50 procent). Druhým nejčastějším problémem je průjem, který postihuje zhruba třetinu uživatelů (26,8 procenta mírný, celkem kolem 33 procent).</p>
+
+<p>Zvracení hlásí přibližně pětina uživatelů (14,4 procenta mírné). Méně častým, ale kosmeticky významným vedlejším účinkem je zapadlý obličej, který uvádí 7,4 procenta uživatelů. Většina respondentů popisuje své vedlejší účinky jako mírné a neváže.</p>
+
+<p><strong>Přehled vedlejších účinků u uživatelů léků typu GLP-1:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Vedlejší účinek</th>
+      <th>Mírný</th>
+      <th>Vážný</th>
+      <th>Celkem (odhadovaně)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nevolnost</td>
+      <td>43,2%</td>
+      <td>~7%</td>
+      <td>~50%</td>
+    </tr>
+    <tr>
+      <td>Průjem</td>
+      <td>26,8%</td>
+      <td>~6%</td>
+      <td>~33%</td>
+    </tr>
+    <tr>
+      <td>Zvracení</td>
+      <td>14,4%</td>
+      <td>~6%</td>
+      <td>~20%</td>
+    </tr>
+    <tr>
+      <td>Zapadlý obličej</td>
+      <td>7,4%</td>
+      <td>~1%</td>
+      <td>~8%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="metodologie-a-omezení-studie">Metodologie a omezení studie</h2>
+
+<p>Výzkum byl proveden prostřednictvím Amerického panelu života organizace RAND, který představuje pravděpodobnostní vzorek přibližně 11 000 aktivních respondentů ve věku od 12 let. Data byla vážena tak, aby reprezentovala anglicky mluvící dospělou populaci USA podle věku, pohlaví, rasy, etnicity, příjmu, vzdělání a velikosti domácnosti.</p>
+
+<p>Ze 16 029 oslovených panellistů ve věku 18 a více let odpovědělo 8 793, což představuje míru odpovědí 54,9 procenta. Dotazování probíhalo mezi 19. květnem a 13. červnem 2025. Všechna prezentovaná data jsou založena na vlastních výpovědích respondentů, mohou se proto lišit od odhadů založených na lékařských diagnózách nebo údajích o předpisech.</p>
+
+<p>Studie potvrzuje, že používání léků typu GLP-1 zůstává stabilní na úrovni zhruba 12 procent americké populace, přičemž největší nárůst zájmu vykazují ženy středního věku. Vedlejší účinky, ačkoliv časté, jsou většinou mírné a nebrání pacientům v pokračování léčby.</p>
+
+<p>Výsledky naznačují potřebu dalšího výzkumu dlouhodobých účinků těchto léků, zejména s ohledem na jejich rostoucí popularitu a rozšiřující se indikace použití. Lékaři by měli pacienty informovat o pravděpodobnosti vedlejších účinků, zejména gastrointestinálních problémů, které postihují většinu uživatelů.</p>
+
+<hr />
+
+<p><strong>Zdroj:</strong> Bozick, Robert, Shannon D. Donofry, and Katherine M. Rancaño. “New Weight Loss Drugs: GLP-1 Agonist Use and Side Effects in the United States.” RAND Corporation, 2025. <a href="https://www.rand.org/pubs/research_reports/RRA4153-1.html">https://www.rand.org/pubs/research_reports/RRA4153-1.html</a></p>]]></content><author><name>Patrick Zandl</name></author><category term="léky na hubnutí" /><category term="zdravotnictví" /><category term="GLP-1" /><category term="léky na hubnutí" /><summary type="html"><![CDATA[Léky na hubnutí jsou stále populárnější. Jenže jaké mají vedlejší účinky? Objevují se první studie. Co zjistily?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/obrazky/leky-na-hubnuti.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/assets/obrazky/leky-na-hubnuti.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pozadí a historie EU Chat Control</title><link href="http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control/" rel="alternate" type="text/html" title="Pozadí a historie EU Chat Control" /><published>2024-08-30T11:00:00+02:00</published><updated>2024-08-30T11:00:00+02:00</updated><id>http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control</id><content type="html" xml:base="http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control/"><![CDATA[<p>Kolem nařízení EU nazývané Chat Control se v poslední době rozproudila větší debata, než na jaké jsme u nařízení EU v Česku zvyklí. Pro lepší přehled a pochopení vám Institut Pi přináší základní přehled toho, proč a kdy a jakým způsobem toto nařízen vznikalo a jaké je jeho technologické pozadí.</p>
 
 <p>Nejdříve si ve stručnosti vysvětleme, o co v případě EU Chat Control jde. Toto nařízení jde po krku šiřitelům dětské pornografie, takže “jestli to není vaše hobby/živnost, nemusíte se teoreticky bát”. To je nejčastější politická obhajoba podobných ustanovení: kdo nedělá nic špatného, nemusí se bát. Bohužel v tomto případě musí.</p>
 
