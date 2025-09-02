@@ -33,30 +33,39 @@ get_flag() {
 # Stáhnout zprávy z NewsAPI
 echo "Stahuji světové zprávy..."
 
-# Stáhnout top headlines
-RESPONSE=$(curl -s "https://newsapi.org/v2/top-headlines?sources=bbc-news,cnn,reuters,associated-press&pageSize=20&apiKey=${API_KEY}")
+# Stáhnout top headlines z category general
+RESPONSE=$(curl -s "https://newsapi.org/v2/top-headlines?category=general&language=en&pageSize=20&apiKey=${API_KEY}")
 
 # Uložit do JSON souboru
 echo "$RESPONSE" | jq '{
     last_updated: (now | strftime("%Y-%m-%dT%H:%M:%S")),
     articles: [.articles[] | {
         flag: (
-            if .source.id == "bbc-news" then "🇬🇧"
-            elif .source.id == "cnn" then "🇺🇸"
-            elif .source.id == "reuters" then "🌍"
-            elif .source.id == "associated-press" then "🌍"
+            if (.source.name | test("BBC"; "i")) then "🇬🇧"
+            elif (.source.name | test("CNN"; "i")) then "🇺🇸"
+            elif (.source.name | test("Reuters"; "i")) then "🌍"
+            elif (.source.name | test("Associated Press|AP"; "i")) then "🌍"
+            elif (.source.name | test("Fox"; "i")) then "🇺🇸"
+            elif (.source.name | test("Guardian"; "i")) then "🇬🇧"
+            elif (.source.name | test("Times"; "i")) then "🇺🇸"
+            elif (.source.name | test("Post"; "i")) then "🇺🇸"
+            elif (.source.name | test("France|Le"; "i")) then "🇫🇷"
+            elif (.source.name | test("Deutsche|Spiegel"; "i")) then "🇩🇪"
             else "🌍"
             end
         ),
         country: (
-            if .source.id == "bbc-news" then "gb"
-            elif .source.id == "cnn" then "us"
+            if (.source.name | test("BBC|Guardian"; "i")) then "gb"
+            elif (.source.name | test("CNN|Fox|Times|Post"; "i")) then "us"
+            elif (.source.name | test("France|Le"; "i")) then "fr"
+            elif (.source.name | test("Deutsche|Spiegel"; "i")) then "de"
             else "global"
             end
         ),
         title: .title,
         original_title: .title,
         url: .url,
+        urlToImage: .urlToImage,
         source: .source.name,
         publishedAt: .publishedAt,
         description: (.description // "")
