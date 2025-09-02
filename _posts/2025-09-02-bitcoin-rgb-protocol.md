@@ -13,19 +13,19 @@ category: "Bitcoin"
 read_time: "8 min"
 ---
 
-Bitcoinová komunita dočkala významného milníku. RGB protokol dosáhl 17. července 2025 své hlavní sítě ve verzi 0.11.1, což otevírá cestu pro nativní stablecoiny a pokročilé chytré kontrakty přímo na Bitcoinu. Tether, největší společnost v oblasti digitálních aktiv, oznámila 28. srpna 2025 plány na spuštění USD₮ na RGB, čímž potvrdila životaschopnost této technologie.
+Bitcoinová komunita se dočkala významného milníku. RGB protokol dosáhláhl verze 0.11.1, což otevírá cestu pro nativní stablecoiny a pokročilé chytré kontrakty přímo na Bitcoinu. Tether, největší společnost v oblasti digitálních aktiv, oznámila 28. srpna 2025 plány na spuštění USD₮ na RGB. Vsází tím na životaschopnost této technologie.
 
 ## Technická architektura RGB
 
 RGB představuje zásadní odklon od tradičního přístupu k chytrým kontraktům. Protokol funguje s paradigmatem klientské validace, což znamená, že všechna data jsou uchovávána mimo bitcoinové transakce. Tento přístup přináší několik klíčových výhod oproti řešením typu Ethereum.
 
-RGB využívá jednorázové pečetě (single-use seals) definované nad výstupy bitcoinových transakcí, což poskytuje schopnost jakékoli straně s historií stavu chytré smlouvy ověřit její jedinečnost. Data kontraktů zůstávají mimo řetězec, zatímco Bitcoin slouží pouze jako vrstva závazků pro prevenci dvojího utrácení.
+RGB využívá jednorázové pečetě _(single-use seals)_ definované nad výstupy bitcoinových transakcí, což poskytuje schopnost jakékoli straně s historií stavu chytré smlouvy ověřit její jedinečnost. Data kontraktů zůstávají mimo řetězec, zatímco Bitcoin slouží pouze jako vrstva závazků pro prevenci dvojího utrácení.
 
 Architektura RGB pracuje s konceptem fragmentace (sharding), kde každý kontrakt má samostatnou historii stavu a data; různé chytré kontrakty se nikdy přímo neprotínají ve svých historiích. To umožňuje dosáhnout škálovatelnosti, kterou plánoval, ale nedosáhl Ethereum se svými shardy.
 
 ## Srovnání s konkurenčními protokoly
 
-Hlavním konkurentem RGB je Taproot Assets (dříve známý jako Taro) od Lightning Labs. Taproot Assets byl spuštěn Lightning Labs v roce 2022 během Bitcoin Conference v Miami a při spuštění projektu se Lightning Labs podařilo získat 70 milionů dolarů na jeho vývoj.
+Hlavním konkurentem RGB je **Taproot Assets** (dříve známý jako Taro) od Lightning Labs. Taproot Assets byl spuštěn Lightning Labs v roce 2022 během Bitcoin Conference v Miami a při spuštění projektu se Lightning Labs podařilo získat 70 milionů dolarů na jeho vývoj.
 
 Oba protokoly sdílejí podobný přístup - využívají model klientské validace pro výměnu důkazů vlastnictví tokenů. Klíčové rozdíly spočívají v implementaci a filozofii:
 
@@ -71,7 +71,7 @@ Konkurence mezi RGB a Taproot Assets pravděpodobně povede k rychlejší inovac
 
 ## Závěr
 
-RGB protokol představuje technologický průlom, který rozšiřuje možnosti Bitcoinu daleko za původní vizi digitální měny. Kombinace bezpečnosti Bitcoinu, rychlosti Lightning Network a flexibility chytrých kontraktů vytváří unikátní platformu pro finanční inovace.
+RGB protokol představuje technologický posun, který rozšiřuje možnosti Bitcoinu daleko za původní vizi digitální měny. Kombinace bezpečnosti Bitcoinu, rychlosti Lightning Network a flexibility chytrých kontraktů vytváří unikátní platformu pro finanční inovace.
 
 S podporou významných hráčů jako Tether a rostoucím ekosystémem vývojářů má RGB potenciál stát se standardem pro tokenizaci a chytré kontrakty na Bitcoinu. Protokol dokazuje, že Bitcoin může konkurovat moderním blockchainům v oblasti programovatelnosti, aniž by obětoval své základní hodnoty - decentralizaci, bezpečnost a soukromí.
 
