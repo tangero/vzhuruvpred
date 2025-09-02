@@ -629,6 +629,8 @@ body {
     background: var(--pirate-black);
     padding: 40px 0;
     border-top: 3px solid var(--pirate-yellow);
+    display: block !important;
+    visibility: visible !important;
 }
 
 .media-grid {

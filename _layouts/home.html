@@ -93,6 +93,9 @@ layout: default
     </div>
     
     <div class="media-grid">
+        {% if site.media.size == 0 %}
+            <p style="color: var(--pirate-yellow); text-align: center; grid-column: 1 / -1;">Žádná média k dispozici</p>
+        {% endif %}
         {% for media in site.media %}
             <div class="media-item">
                 {% if media.type == 'video' %}
