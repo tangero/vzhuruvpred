@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-02T05:59:21.507000",
+  "updated": "2025-09-02T06:11:46.969838",
   "trends": [
     {
       "rank": 1,
@@ -23,6 +23,16 @@
     },
     {
       "rank": 3,
+      "query": "graham greene",
+      "news_title": "Dances With Wolves star Graham Greene dies aged 73",
+      "news_url": "https://www.bbc.com/news/articles/c8606pdx23go",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOffJmXQSMihsvfKH_vfYRPTXwnptFVyXemE18hjo_A6DFKdZR_xUQMQn_DO4",
+      "traffic": "500++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=graham greene&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "tipsport",
       "news_title": "Svobodná země stojí na vzdělanosti, vysvětluje spolumajitel Tipsportu, proč postavil školku, školu a gymnázium za 1,5 miliardy",
       "news_url": "https://archiv.hn.cz/c1-67781180-svobodna-zeme-stoji-na-vzdelanosti-vysvetluje-spolumajitel-tipsportu-proc-postavil-skolku-skolu-a-gymnazium-za-1-5-miliardy",
@@ -30,16 +40,6 @@
       "traffic": "500++ hledání",
       "source": "Hospodářské noviny",
       "explore_url": "https://trends.google.cz/trends/explore?q=tipsport&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "graham greene",
-      "news_title": "Dances With Wolves star Graham Greene dies aged 73",
-      "news_url": "https://www.bbc.com/news/articles/c8606pdx23go",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOffJmXQSMihsvfKH_vfYRPTXwnptFVyXemE18hjo_A6DFKdZR_xUQMQn_DO4",
-      "traffic": "200++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=graham greene&geo=CZ"
     },
     {
       "rank": 5,
@@ -54,19 +54,19 @@
     {
       "rank": 6,
       "query": "naomi osaka",
-      "news_title": "Naomi Osaka blitzes past Coco Gauff into 2025 US Open quarterfinal",
-      "news_url": "https://www.usopen.org/en_US/news/articles/2025-09-01/naomi_osaka_blitzes_past_coco_gauff_into_2025_us_open_quarterfinal.html",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvSA4PRadpfrdSR4yaVYD7PHHeqKTK9bykGwfF4IAj7utjmxxJQciHITdt9ME",
+      "news_title": "'The moments I play tennis for' - Osaka beats Gauff at US Open",
+      "news_url": "https://www.bbc.com/sport/tennis/articles/ce838191m9vo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToPhGGyLH9Sd9t9hfUTQz6hczm5G98UbDXmdwuSmHBtPY7TtpwFmzz7TyUyI0",
       "traffic": "200++ hledání",
-      "source": "US Open Tennis",
+      "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=naomi osaka&geo=CZ"
     },
     {
       "rank": 7,
       "query": "zprávy",
-      "news_title": "Ostrá fáze předvolební kampaně začala. Víc než antibabiš táhne antifiala",
-      "news_url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-ostra-faze-predvolebni-kampane-zacala-vic-nez-antibabis-tahne-antifiala-285052",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5GuQ_zgKlGcI1hklUb23aHHNoyhUlVc4MyBO9zO_rmsutovd9EQlclx_qvPc",
+      "news_title": "Diplomatická výhra Pekingu. Konec války přijíždějí slavit těžké váhy",
+      "news_url": "https://www.seznamzpravy.cz/clanek/zahranicni-diplomaticka-vyhra-pekingu-konec-valky-prijizdeji-slavit-tezke-vahy-285091",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGEIzU7NcbJ_3EznzayZNz1brNYTbQmCHmGG_nysDt_VSipAzr9DyGDBX6ovY",
       "traffic": "100++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=zprávy&geo=CZ"
