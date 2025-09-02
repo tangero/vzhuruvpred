@@ -6,11 +6,12 @@ categories: [technologie]
 author: "Patrick Zandl"
 author_title: "Reportérka pro digitalizaci"
 author_image: "https://picsum.photos/60/60?random=1"
-image: "/assets/obrazky/rgb-bitcoin.jpg"
+image: "/assets/obrazky/bitcoin-rgb-protocol.jpg"
 excerpt: "RGB protokol přináší na Bitcoin pokročilé chytré kontrakty s klientskou validací a soukromím, umožňuje nativní stablecoiny a konkuruje řešením jako Taproot Assets."
 tags: [bitcoin, kryptoměny]
 category: "Bitcoin"
 read_time: "8 min"
+topclanek: true
 ---
 
 Bitcoinová komunita se dočkala významného milníku. RGB protokol dosáhláhl verze 0.11.1, což otevírá cestu pro nativní stablecoiny a pokročilé chytré kontrakty přímo na Bitcoinu. Tether, největší společnost v oblasti digitálních aktiv, oznámila 28. srpna 2025 plány na spuštění USD₮ na RGB. Vsází tím na životaschopnost této technologie.
