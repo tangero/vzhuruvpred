@@ -11,7 +11,6 @@ excerpt: "RGB protokol přináší na Bitcoin pokročilé chytré kontrakty s kl
 tags: [bitcoin, kryptoměny]
 category: "Bitcoin"
 read_time: "8 min"
-topclanek: true
 ---
 
 Bitcoinová komunita se dočkala významného milníku. RGB protokol dosáhláhl verze 0.11.1, což otevírá cestu pro nativní stablecoiny a pokročilé chytré kontrakty přímo na Bitcoinu. Tether, největší společnost v oblasti digitálních aktiv, oznámila 28. srpna 2025 plány na spuštění USD₮ na RGB. Vsází tím na životaschopnost této technologie.
