@@ -17,24 +17,20 @@ def translate_text_with_openrouter(text):
         if api_key:
             print(f"  🤖 Překládám: {text[:50]}...")
             
-            prompt = f"""Jsi profesionální překladatel zpráv. Přelož tento anglický nadpis zprávy do češtiny tak, aby:
-- Zněl přirozeně v češtině
-- Zachoval všechny důležité informace
-- Byl srozumitelný pro české čtenáře
-- Používal běžná česká slova, ne anglicismy
+            prompt = f"""Přelož tento anglický nadpis zprávy do přirozeně znějící češtiny. Nepoužívej anglicismy.
 
-Anglický nadpis: "{text}"
+"{text}"
 
-Odpověz pouze českým překladem nadpisu:"""
+Český překlad:"""
             
             # OpenRouter.ai API volání
             data = {
-                "model": "anthropic/claude-3.5-sonnet",
+                "model": "openai/gpt-4o",
                 "messages": [
                     {"role": "user", "content": prompt}
                 ],
-                "max_tokens": 150,
-                "temperature": 0.5
+                "max_tokens": 100,
+                "temperature": 0.7
             }
             
             headers = {
@@ -63,12 +59,13 @@ Odpověz pouze českým překladem nadpisu:"""
             return translated_title
             
         else:
-            print(f"  ⚠️  Žádný OPENROUTER_API_KEY, používám fallback")
-            return text
+            raise ValueError("OPENROUTER_API_KEY není nastavený! Nelze překládat.")
         
     except Exception as e:
         print(f"  ❌ OpenRouter API selhalo: {e}")
-        return text
+        import traceback
+        traceback.print_exc()
+        raise
 
 def main():
     # Načíst zprávy
