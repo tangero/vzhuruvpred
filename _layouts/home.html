@@ -92,47 +92,173 @@ layout: default
     </div>
 </section>
 
-<!-- Sekce Audio a Video -->
-<section class="media-section">
+<!-- Sekce Video Player -->
+<section class="video-player-section">
     <div class="section-header">
-        <h2 class="section-title">🎵 Audio & Video</h2>
+        <h2 class="section-title">📹 Video přehrávač</h2>
     </div>
     
-    <div class="media-grid">
-        {% if site.media.size == 0 %}
-            <p style="color: var(--pirate-yellow); text-align: center; grid-column: 1 / -1;">Žádná média k dispozici</p>
-        {% endif %}
-        {% for media in site.media %}
-            <div class="media-item">
-                {% if media.type == 'video' %}
-                    <div class="video-container">
-                        <video controls preload="metadata">
-                            <source src="{{ '/audiolm/' | append: media.file | relative_url }}" type="video/mp4">
-                            Váš prohlížeč nepodporuje video tag.
-                        </video>
-                        <div class="media-info">
-                            <h3>📹 {{ media.title }}</h3>
-                            <span class="media-duration">{{ media.duration }}</span>
-                        </div>
-                    </div>
-                {% elsif media.type == 'audio' %}
-                    <div class="audio-container">
-                        <div class="audio-player">
-                            <div class="audio-info">
-                                <h3>🎵 {{ media.title }}</h3>
-                                <span class="media-duration">{{ media.duration }}</span>
-                            </div>
-                            <audio controls preload="metadata">
-                                <source src="{{ '/audiolm/' | append: media.file | relative_url }}" type="audio/mp4">
-                                Váš prohlížeč nepodporuje audio tag.
-                            </audio>
-                        </div>
-                    </div>
-                {% endif %}
+    {% assign videos = site.media | where: "type", "video" | sort: "date" | reverse | limit: 5 %}
+    
+    {% if videos.size > 0 %}
+    <div class="video-player-container">
+        <!-- Hlavní video player -->
+        <div class="main-video-player">
+            <video id="main-video" controls preload="metadata" poster="">
+                <source src="{{ '/audiolm/' | append: videos.first.file | relative_url }}" type="video/mp4">
+                Váš prohlížeč nepodporuje video tag.
+            </video>
+            
+            <!-- Video controls -->
+            <div class="video-controls">
+                <div class="video-info">
+                    <h3 id="current-video-title">{{ videos.first.title }}</h3>
+                    <p id="current-video-description">{{ videos.first.content | strip_html | truncate: 100 }}</p>
+                </div>
+                
+                <div class="video-actions">
+                    <button id="prev-video" class="video-btn" title="Předchozí video">⏮️</button>
+                    <button id="fullscreen-btn" class="video-btn" title="Celá obrazovka">⛶</button>
+                    <button id="next-video" class="video-btn" title="Další video">⏭️</button>
+                </div>
             </div>
-        {% endfor %}
+        </div>
+        
+        <!-- Seznam videí -->
+        <div class="video-playlist">
+            <h4>Seznam videí</h4>
+            <div class="playlist-items">
+                {% for video in videos %}
+                <div class="playlist-item" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 100 }}">
+                    <div class="playlist-thumbnail">
+                        <div class="play-icon">▶️</div>
+                        <span class="video-duration">{{ video.duration }}</span>
+                    </div>
+                    <div class="playlist-info">
+                        <h5>{{ video.title }}</h5>
+                        <p>{{ video.content | strip_html | truncate: 80 }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
+    
+    <!-- Audio sekce (zachováno) -->
+    {% assign audio_files = site.media | where: "type", "audio" %}
+    {% if audio_files.size > 0 %}
+    <div class="audio-section">
+        <h3>🎵 Audio nahrávky</h3>
+        <div class="audio-grid">
+            {% for audio in audio_files %}
+            <div class="audio-item">
+                <div class="audio-player">
+                    <div class="audio-info">
+                        <h4>{{ audio.title }}</h4>
+                        <span class="audio-duration">{{ audio.duration }}</span>
+                    </div>
+                    <audio controls preload="metadata">
+                        <source src="{{ '/audiolm/' | append: audio.file | relative_url }}" type="audio/mp4">
+                        Váš prohlížeč nepodporuje audio tag.
+                    </audio>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+    
+    {% else %}
+        <p style="color: var(--pirate-yellow); text-align: center;">Žádná videa k dispozici</p>
+    {% endif %}
 </section>
+
+<script>
+// Video player functionality
+document.addEventListener('DOMContentLoaded', function() {
+    const mainVideo = document.getElementById('main-video');
+    const currentTitle = document.getElementById('current-video-title');
+    const currentDescription = document.getElementById('current-video-description');
+    const playlistItems = document.querySelectorAll('.playlist-item');
+    const prevBtn = document.getElementById('prev-video');
+    const nextBtn = document.getElementById('next-video');
+    const fullscreenBtn = document.getElementById('fullscreen-btn');
+    
+    let currentVideoIndex = 0;
+    const videos = Array.from(playlistItems);
+    
+    // Aktivní video v playlistu
+    function setActiveVideo(index) {
+        videos.forEach((item, i) => {
+            item.classList.toggle('active', i === index);
+        });
+    }
+    
+    // Načtení videa
+    function loadVideo(index) {
+        if (index >= 0 && index < videos.length) {
+            const videoData = videos[index];
+            const videoSrc = videoData.dataset.videoSrc;
+            const videoTitle = videoData.dataset.videoTitle;
+            const videoDescription = videoData.dataset.videoDescription;
+            
+            mainVideo.src = videoSrc;
+            currentTitle.textContent = videoTitle;
+            currentDescription.textContent = videoDescription;
+            currentVideoIndex = index;
+            setActiveVideo(index);
+            
+            // Načtení metadat
+            mainVideo.load();
+        }
+    }
+    
+    // Klik na video v playlistu
+    playlistItems.forEach((item, index) => {
+        item.addEventListener('click', function() {
+            loadVideo(index);
+            mainVideo.play();
+        });
+    });
+    
+    // Předchozí video
+    prevBtn.addEventListener('click', function() {
+        const newIndex = currentVideoIndex > 0 ? currentVideoIndex - 1 : videos.length - 1;
+        loadVideo(newIndex);
+    });
+    
+    // Další video
+    nextBtn.addEventListener('click', function() {
+        const newIndex = currentVideoIndex < videos.length - 1 ? currentVideoIndex + 1 : 0;
+        loadVideo(newIndex);
+    });
+    
+    // Celá obrazovka
+    fullscreenBtn.addEventListener('click', function() {
+        if (mainVideo.requestFullscreen) {
+            mainVideo.requestFullscreen();
+        } else if (mainVideo.webkitRequestFullscreen) {
+            mainVideo.webkitRequestFullscreen();
+        } else if (mainVideo.mozRequestFullScreen) {
+            mainVideo.mozRequestFullScreen();
+        } else if (mainVideo.msRequestFullscreen) {
+            mainVideo.msRequestFullscreen();
+        }
+    });
+    
+    // Auto-play dalšího videa po skončení
+    mainVideo.addEventListener('ended', function() {
+        const nextIndex = currentVideoIndex < videos.length - 1 ? currentVideoIndex + 1 : 0;
+        loadVideo(nextIndex);
+        mainVideo.play();
+    });
+    
+    // Nastavit první video jako aktivní
+    if (videos.length > 0) {
+        setActiveVideo(0);
+    }
+});
+</script>
 
 <!-- Hlavní obsahová oblast s postranním panelem -->
 <div class="content-layout">

@@ -158,9 +158,25 @@
             
             
             <article class="sidebar-article">
+                <a href="/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/" class="article-image-link">
+                    <div class="article-image">
+                        <img src="/assets/obrazky/bitcoin-rgb-protocol.jpg11" alt="RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin">
+                        <span class="category-badge">Bitcoin</span>
+                        <div class="sidebar-article-overlay">
+                            <h3 class="sidebar-article-title-overlay">RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin</h3>
+                        </div>
+                    </div>
+                </a>
+                <div class="sidebar-article-content">
+                    <p class="sidebar-article-excerpt">RGB protokol přináší na Bitcoin pokročilé chytré kontrakty s klientskou validací a soukromím, umo...</p>
+                    <span class="date">02.09.2025</span>
+                </div>
+            </article>
+            
+            <article class="sidebar-article">
                 <a href="/nazory/transparentnost/2024-01-14/transparentnost-verejne-zakazky/" class="article-image-link">
                     <div class="article-image">
-                        <img src="https://picsum.photos/800/450?random=211" alt="Nový systém odhalí korupci ve veřejných zakázkách">
+                        <img src="https://picsum.photos/800/450?random=221" alt="Nový systém odhalí korupci ve veřejných zakázkách">
                         <span class="category-badge">Transparentnost</span>
                         <div class="sidebar-article-overlay">
                             <h3 class="sidebar-article-title-overlay">Nový systém odhalí korupci ve veřejných zakázkách</h3>
@@ -170,22 +186,6 @@
                 <div class="sidebar-article-content">
                     <p class="sidebar-article-excerpt">Revoluční AI systém dokáže identifikovat podezřelé vzorce v zadávání veřejných zakázek a upozorni...</p>
                     <span class="date">14.01.2024</span>
-                </div>
-            </article>
-            
-            <article class="sidebar-article">
-                <a href="/analyzy/open%20source/2024-01-13/open-source-vlada/" class="article-image-link">
-                    <div class="article-image">
-                        <img src="https://picsum.photos/800/450?random=321" alt="GitHub Česká republika: Vláda otevírá zdrojové kódy">
-                        <span class="category-badge">Open source</span>
-                        <div class="sidebar-article-overlay">
-                            <h3 class="sidebar-article-title-overlay">GitHub Česká republika: Vláda otevírá zdrojové kódy</h3>
-                        </div>
-                    </div>
-                </a>
-                <div class="sidebar-article-content">
-                    <p class="sidebar-article-excerpt">Česká vláda spouští největší open source projekt v Evropě. Všechny státní aplikace a systémy budo...</p>
-                    <span class="date">13.01.2024</span>
                 </div>
             </article>
             
@@ -283,64 +283,187 @@
     </div>
 </section>
 
-<!-- Sekce Audio a Video -->
-<section class="media-section">
+<!-- Sekce Video Player -->
+<section class="video-player-section">
     <div class="section-header">
-        <h2 class="section-title">🎵 Audio & Video</h2>
+        <h2 class="section-title">📹 Video přehrávač</h2>
     </div>
     
-    <div class="media-grid">
-        
-        
-            <div class="media-item">
+    
+    
+    
+    <div class="video-player-container">
+        <!-- Hlavní video player -->
+        <div class="main-video-player">
+            <video id="main-video" controls preload="metadata" poster="">
+                <source src="/audiolm/qanon_ekosystem_konspiraci.mp4" type="video/mp4">
+                Váš prohlížeč nepodporuje video tag.
+            </video>
+            
+            <!-- Video controls -->
+            <div class="video-controls">
+                <div class="video-info">
+                    <h3 id="current-video-title">QAnon a ekosystém konspirací</h3>
+                    <p id="current-video-description">Jak vznikají, kde se berou konspirační teorie?
+</p>
+                </div>
                 
-                    <div class="audio-container">
-                        <div class="audio-player">
-                            <div class="audio-info">
-                                <h3>🎵 Audio nahrávka</h3>
-                                <span class="media-duration">Neznámá</span>
-                            </div>
-                            <audio controls preload="metadata">
-                                <source src="/audiolm/TIATM6LMTMX34.m4a" type="audio/mp4">
-                                Váš prohlížeč nepodporuje audio tag.
-                            </audio>
-                        </div>
+                <div class="video-actions">
+                    <button id="prev-video" class="video-btn" title="Předchozí video">⏮️</button>
+                    <button id="fullscreen-btn" class="video-btn" title="Celá obrazovka">⛶</button>
+                    <button id="next-video" class="video-btn" title="Další video">⏭️</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Seznam videí -->
+        <div class="video-playlist">
+            <h4>Seznam videí</h4>
+            <div class="playlist-items">
+                
+                <div class="playlist-item" data-video-src="/audiolm/qanon_ekosystem_konspiraci.mp4" data-video-title="QAnon a ekosystém konspirací" data-video-description="Jak vznikají, kde se berou konspirační teorie?
+">
+                    <div class="playlist-thumbnail">
+                        <div class="play-icon">▶️</div>
+                        <span class="video-duration">Neznámá</span>
                     </div>
+                    <div class="playlist-info">
+                        <h5>QAnon a ekosystém konspirací</h5>
+                        <p>Jak vznikají, kde se berou konspirační teorie?
+</p>
+                    </div>
+                </div>
+                
+                <div class="playlist-item" data-video-src="/audiolm/Dilema_Airbnb__Pohodli_vs.mp4" data-video-title="Dilema Airbnb: Pohodlí vs. Náklady" data-video-description="Video o dilematu týkající se Airbnb služeb, pohodlí a nákladů.
+">
+                    <div class="playlist-thumbnail">
+                        <div class="play-icon">▶️</div>
+                        <span class="video-duration">Neznámá</span>
+                    </div>
+                    <div class="playlist-info">
+                        <h5>Dilema Airbnb: Pohodlí vs. Náklady</h5>
+                        <p>Video o dilematu týkající se Airbnb služeb, pohodlí a nákladů.
+</p>
+                    </div>
+                </div>
                 
             </div>
-        
-            <div class="media-item">
-                
-                    <div class="video-container">
-                        <video controls preload="metadata">
-                            <source src="/audiolm/Dilema_Airbnb__Pohodli_vs.mp4" type="video/mp4">
-                            Váš prohlížeč nepodporuje video tag.
-                        </video>
-                        <div class="media-info">
-                            <h3>📹 Dilema Airbnb: Pohodlí vs. Náklady</h3>
-                            <span class="media-duration">Neznámá</span>
-                        </div>
-                    </div>
-                
-            </div>
-        
-            <div class="media-item">
-                
-                    <div class="video-container">
-                        <video controls preload="metadata">
-                            <source src="/audiolm/qanon_ekosystem_konspiraci.mp4" type="video/mp4">
-                            Váš prohlížeč nepodporuje video tag.
-                        </video>
-                        <div class="media-info">
-                            <h3>📹 QAnon a ekosystém konspirací</h3>
-                            <span class="media-duration">Neznámá</span>
-                        </div>
-                    </div>
-                
-            </div>
-        
+        </div>
     </div>
+    
+    <!-- Audio sekce (zachováno) -->
+    
+    
+    <div class="audio-section">
+        <h3>🎵 Audio nahrávky</h3>
+        <div class="audio-grid">
+            
+            <div class="audio-item">
+                <div class="audio-player">
+                    <div class="audio-info">
+                        <h4>Audio nahrávka</h4>
+                        <span class="audio-duration">Neznámá</span>
+                    </div>
+                    <audio controls preload="metadata">
+                        <source src="/audiolm/TIATM6LMTMX34.m4a" type="audio/mp4">
+                        Váš prohlížeč nepodporuje audio tag.
+                    </audio>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    
+    
+    
 </section>
+
+<script>
+// Video player functionality
+document.addEventListener('DOMContentLoaded', function() {
+    const mainVideo = document.getElementById('main-video');
+    const currentTitle = document.getElementById('current-video-title');
+    const currentDescription = document.getElementById('current-video-description');
+    const playlistItems = document.querySelectorAll('.playlist-item');
+    const prevBtn = document.getElementById('prev-video');
+    const nextBtn = document.getElementById('next-video');
+    const fullscreenBtn = document.getElementById('fullscreen-btn');
+    
+    let currentVideoIndex = 0;
+    const videos = Array.from(playlistItems);
+    
+    // Aktivní video v playlistu
+    function setActiveVideo(index) {
+        videos.forEach((item, i) => {
+            item.classList.toggle('active', i === index);
+        });
+    }
+    
+    // Načtení videa
+    function loadVideo(index) {
+        if (index >= 0 && index < videos.length) {
+            const videoData = videos[index];
+            const videoSrc = videoData.dataset.videoSrc;
+            const videoTitle = videoData.dataset.videoTitle;
+            const videoDescription = videoData.dataset.videoDescription;
+            
+            mainVideo.src = videoSrc;
+            currentTitle.textContent = videoTitle;
+            currentDescription.textContent = videoDescription;
+            currentVideoIndex = index;
+            setActiveVideo(index);
+            
+            // Načtení metadat
+            mainVideo.load();
+        }
+    }
+    
+    // Klik na video v playlistu
+    playlistItems.forEach((item, index) => {
+        item.addEventListener('click', function() {
+            loadVideo(index);
+            mainVideo.play();
+        });
+    });
+    
+    // Předchozí video
+    prevBtn.addEventListener('click', function() {
+        const newIndex = currentVideoIndex > 0 ? currentVideoIndex - 1 : videos.length - 1;
+        loadVideo(newIndex);
+    });
+    
+    // Další video
+    nextBtn.addEventListener('click', function() {
+        const newIndex = currentVideoIndex < videos.length - 1 ? currentVideoIndex + 1 : 0;
+        loadVideo(newIndex);
+    });
+    
+    // Celá obrazovka
+    fullscreenBtn.addEventListener('click', function() {
+        if (mainVideo.requestFullscreen) {
+            mainVideo.requestFullscreen();
+        } else if (mainVideo.webkitRequestFullscreen) {
+            mainVideo.webkitRequestFullscreen();
+        } else if (mainVideo.mozRequestFullScreen) {
+            mainVideo.mozRequestFullScreen();
+        } else if (mainVideo.msRequestFullscreen) {
+            mainVideo.msRequestFullscreen();
+        }
+    });
+    
+    // Auto-play dalšího videa po skončení
+    mainVideo.addEventListener('ended', function() {
+        const nextIndex = currentVideoIndex < videos.length - 1 ? currentVideoIndex + 1 : 0;
+        loadVideo(nextIndex);
+        mainVideo.play();
+    });
+    
+    // Nastavit první video jako aktivní
+    if (videos.length > 0) {
+        setActiveVideo(0);
+    }
+});
+</script>
 
 <!-- Hlavní obsahová oblast s postranním panelem -->
 <div class="content-layout">
@@ -418,12 +541,12 @@
                 
                 <li class="trending-item">
                     <span class="trending-number">1</span>
-                    <a href="/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/">RGB protokol přináší chytré kontrakty a stablecoiny přímo...</a>
+                    <a href="/udalosti/eu/2024-08-30/eu-chat-control/">Pozadí a historie EU Chat Control</a>
                 </li>
                 
                 <li class="trending-item">
                     <span class="trending-number">2</span>
-                    <a href="/udalosti/eu/2024-08-30/eu-chat-control/">Pozadí a historie EU Chat Control</a>
+                    <a href="/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/">RGB protokol přináší chytré kontrakty a stablecoiny přímo...</a>
                 </li>
                 
                 <li class="trending-item">
