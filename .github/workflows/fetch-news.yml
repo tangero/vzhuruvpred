@@ -33,6 +33,8 @@ jobs:
         ./fetch_news.sh
         
     - name: Translate news to Czech
+      env:
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       run: |
         python3 _scripts/translate_news.py
         
