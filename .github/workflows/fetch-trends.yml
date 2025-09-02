@@ -274,10 +274,15 @@ jobs:
     
     - name: Commit trends data
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add _data/trends.json
-        git diff --staged --quiet || git commit -m "Update Google Trends data"
+        # Check if file is ignored
+        if ! git check-ignore _data/trends.json >/dev/null 2>&1; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add _data/trends.json
+          git diff --staged --quiet || git commit -m "Update Google Trends data"
+        else
+          echo "trends.json is in .gitignore - skipping commit"
+        fi
     
     - name: Push changes
       uses: ad-m/github-push-action@master
