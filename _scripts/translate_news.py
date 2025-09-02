@@ -17,20 +17,24 @@ def translate_text_with_openrouter(text):
         if api_key:
             print(f"  🤖 Překládám: {text[:50]}...")
             
-            prompt = f"""Přelož tento anglický nadpis zprávy do češtiny. Zachovej hlavní informaci a udělej z toho smysluplný český nadpis. Odpověz pouze českým nadpisem, bez dalšího komentáře:
+            prompt = f"""Jsi profesionální překladatel zpráv. Přelož tento anglický nadpis zprávy do češtiny tak, aby:
+- Zněl přirozeně v češtině
+- Zachoval všechny důležité informace
+- Byl srozumitelný pro české čtenáře
+- Používal běžná česká slova, ne anglicismy
 
-"{text}"
+Anglický nadpis: "{text}"
 
-Český překlad:"""
+Odpověz pouze českým překladem nadpisu:"""
             
             # OpenRouter.ai API volání
             data = {
-                "model": "mistralai/mistral-medium-2506",
+                "model": "anthropic/claude-3.5-sonnet",
                 "messages": [
                     {"role": "user", "content": prompt}
                 ],
                 "max_tokens": 150,
-                "temperature": 0.3
+                "temperature": 0.5
             }
             
             headers = {

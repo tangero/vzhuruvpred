@@ -115,15 +115,17 @@ layout: default
                 {% for post in recent_posts %}
                 <article class="article-list-item">
                     <a href="{{ post.url | relative_url }}" class="article-link">
-                        <div class="article-image-small">
-                            {% if post.image %}
-                                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-                            {% else %}
-                                <img src="https://picsum.photos/120/80?random={{ forloop.index }}" alt="{{ post.title }}">
-                            {% endif %}
+                        <div class="article-left-column">
+                            <div class="article-image-small">
+                                {% if post.image %}
+                                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                                {% else %}
+                                    <img src="https://picsum.photos/120/80?random={{ forloop.index }}" alt="{{ post.title }}">
+                                {% endif %}
+                            </div>
+                            <span class="category">{{ post.category | default: post.categories[0] | capitalize }}</span>
                         </div>
                         <div class="article-content-small">
-                            <span class="category">{{ post.category | default: post.categories[0] | capitalize }}</span>
                             <h3 class="article-title-small">{{ post.title }}</h3>
                             <p class="article-excerpt-small">
                                 {{ post.excerpt | strip_html | truncate: 150 }}
