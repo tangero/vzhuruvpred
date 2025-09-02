@@ -96,232 +96,43 @@ layout: default
     </div>
 </section>
 
-<!-- Sekce Video Player -->
-<section class="video-player-section">
-    <div class="section-header">
-        <h2 class="section-title">📹 Video přehrávač</h2>
-    </div>
-    
-    {% assign videos = site.media | where: "type", "video" | sort: "date" | reverse | limit: 5 %}
-    
-    {% if videos.size > 0 %}
-    <div class="video-player-container">
-        <!-- Hlavní video player -->
-        <div class="main-video-player">
-            <video id="main-video" controls preload="metadata" poster="">
-                <source src="{{ '/audiolm/' | append: videos.first.file | relative_url }}" type="video/mp4">
-                Váš prohlížeč nepodporuje video tag.
-            </video>
-            
-            <!-- Video controls -->
-            <div class="video-controls">
-                <div class="video-info">
-                    <h3 id="current-video-title">{{ videos.first.title }}</h3>
-                    <p id="current-video-description">{{ videos.first.content | strip_html | truncate: 100 }}</p>
-                </div>
-                
-                <div class="video-actions">
-                    <button id="prev-video" class="video-btn" title="Předchozí video">⏮️</button>
-                    <button id="fullscreen-btn" class="video-btn" title="Celá obrazovka">⛶</button>
-                    <button id="next-video" class="video-btn" title="Další video">⏭️</button>
-                </div>
-            </div>
-        </div>
-        
-        <!-- Seznam videí -->
-        <div class="video-playlist">
-            <h4>Seznam videí</h4>
-            <div class="playlist-items">
-                {% for video in videos %}
-                <div class="playlist-item" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 100 }}">
-                    <div class="playlist-thumbnail">
-                        <div class="play-icon">▶️</div>
-                        <span class="video-duration">{{ video.duration }}</span>
-                    </div>
-                    <div class="playlist-info">
-                        <h5>{{ video.title }}</h5>
-                        <p>{{ video.content | strip_html | truncate: 80 }}</p>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-    
-    <!-- Audio sekce (zachováno) -->
-    {% assign audio_files = site.media | where: "type", "audio" %}
-    {% if audio_files.size > 0 %}
-    <div class="audio-section">
-        <h3>🎵 Audio nahrávky</h3>
-        <div class="audio-grid">
-            {% for audio in audio_files %}
-            <div class="audio-item">
-                <div class="audio-player">
-                    <div class="audio-info">
-                        <h4>{{ audio.title }}</h4>
-                        <span class="audio-duration">{{ audio.duration }}</span>
-                    </div>
-                    <audio controls preload="metadata">
-                        <source src="{{ '/audiolm/' | append: audio.file | relative_url }}" type="audio/mp4">
-                        Váš prohlížeč nepodporuje audio tag.
-                    </audio>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-    {% endif %}
-    
-    {% else %}
-        <p style="color: var(--pirate-yellow); text-align: center;">Žádná videa k dispozici</p>
-    {% endif %}
-</section>
-
-<script>
-// Video player functionality
-document.addEventListener('DOMContentLoaded', function() {
-    const mainVideo = document.getElementById('main-video');
-    const currentTitle = document.getElementById('current-video-title');
-    const currentDescription = document.getElementById('current-video-description');
-    const playlistItems = document.querySelectorAll('.playlist-item');
-    const prevBtn = document.getElementById('prev-video');
-    const nextBtn = document.getElementById('next-video');
-    const fullscreenBtn = document.getElementById('fullscreen-btn');
-    
-    let currentVideoIndex = 0;
-    const videos = Array.from(playlistItems);
-    
-    // Aktivní video v playlistu
-    function setActiveVideo(index) {
-        videos.forEach((item, i) => {
-            item.classList.toggle('active', i === index);
-        });
-    }
-    
-    // Načtení videa
-    function loadVideo(index) {
-        if (index >= 0 && index < videos.length) {
-            const videoData = videos[index];
-            const videoSrc = videoData.dataset.videoSrc;
-            const videoTitle = videoData.dataset.videoTitle;
-            const videoDescription = videoData.dataset.videoDescription;
-            
-            mainVideo.src = videoSrc;
-            currentTitle.textContent = videoTitle;
-            currentDescription.textContent = videoDescription;
-            currentVideoIndex = index;
-            setActiveVideo(index);
-            
-            // Načtení metadat
-            mainVideo.load();
-        }
-    }
-    
-    // Klik na video v playlistu
-    playlistItems.forEach((item, index) => {
-        item.addEventListener('click', function() {
-            loadVideo(index);
-            mainVideo.play();
-        });
-    });
-    
-    // Předchozí video
-    prevBtn.addEventListener('click', function() {
-        const newIndex = currentVideoIndex > 0 ? currentVideoIndex - 1 : videos.length - 1;
-        loadVideo(newIndex);
-    });
-    
-    // Další video
-    nextBtn.addEventListener('click', function() {
-        const newIndex = currentVideoIndex < videos.length - 1 ? currentVideoIndex + 1 : 0;
-        loadVideo(newIndex);
-    });
-    
-    // Celá obrazovka
-    fullscreenBtn.addEventListener('click', function() {
-        if (mainVideo.requestFullscreen) {
-            mainVideo.requestFullscreen();
-        } else if (mainVideo.webkitRequestFullscreen) {
-            mainVideo.webkitRequestFullscreen();
-        } else if (mainVideo.mozRequestFullScreen) {
-            mainVideo.mozRequestFullScreen();
-        } else if (mainVideo.msRequestFullscreen) {
-            mainVideo.msRequestFullscreen();
-        }
-    });
-    
-    // Auto-play dalšího videa po skončení
-    mainVideo.addEventListener('ended', function() {
-        const nextIndex = currentVideoIndex < videos.length - 1 ? currentVideoIndex + 1 : 0;
-        loadVideo(nextIndex);
-        mainVideo.play();
-    });
-    
-    // Nastavit první video jako aktivní
-    if (videos.length > 0) {
-        setActiveVideo(0);
-    }
-});
-</script>
 
 <!-- Hlavní obsahová oblast s postranním panelem -->
 <div class="content-layout">
     <div class="main-column">
-        <!-- Sekce Události -->
-        <section class="news-section">
+        <!-- Sekce Nejnovější články -->
+        <section class="recent-articles-section">
             <div class="section-header">
-                <h2 class="section-title">Události</h2>
-                <a href="{{ '/udalosti/' | relative_url }}" class="section-link">Zobrazit vše →</a>
+                <h2 class="section-title">Nejnovější články</h2>
             </div>
             
-            <div class="articles-grid">
-                {% assign udalosti_posts = site.posts | where: "categories", "udalosti" | limit: 3 %}
-                {% for post in udalosti_posts %}
-                <article class="article-card">
-                    <a href="{{ post.url | relative_url }}" class="article-image-link">
-                        <div class="article-image">
-                            <img src="{{ post.image | default: 'https://picsum.photos/400/250?random=4' }}" alt="{{ post.title }}">
-                            <span class="reading-time">{{ post.read_time | default: '4 min' }}</span>
+            <div class="articles-list">
+                {% comment %}
+                Zobrazujeme 10 nejnovějších článků kromě prvních 3 (které jsou zobrazeny nahoře)
+                {% endcomment %}
+                {% assign recent_posts = site.posts | offset: 3 | limit: 10 %}
+                {% for post in recent_posts %}
+                <article class="article-list-item">
+                    <a href="{{ post.url | relative_url }}" class="article-link">
+                        <div class="article-image-small">
+                            {% if post.image %}
+                                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                            {% else %}
+                                <img src="https://picsum.photos/120/80?random={{ forloop.index }}" alt="{{ post.title }}">
+                            {% endif %}
+                        </div>
+                        <div class="article-content-small">
+                            <h3 class="article-title-small">{{ post.title }}</h3>
+                            <p class="article-excerpt-small">
+                                {{ post.excerpt | strip_html | truncate: 150 }}
+                            </p>
+                            <div class="article-meta-small">
+                                <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+                                <span class="category">{{ post.category | default: post.categories[0] | capitalize }}</span>
+                                <span class="read-time">{{ post.read_time | default: '5 min' }}</span>
+                            </div>
                         </div>
                     </a>
-                    <div class="article-content">
-                        <h3 class="article-title">
-                            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                        </h3>
-                        <p class="article-excerpt">
-                            {{ post.excerpt | strip_html | truncate: 120 }}
-                        </p>
-                        <div class="article-meta">
-                            <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
-                            <span class="category">{{ post.category | default: 'Události' }}</span>
-                        </div>
-                    </div>
-                </article>
-                {% endfor %}
-            </div>
-        </section>
-
-        <!-- Sekce Názory -->
-        <section class="opinion-section">
-            <div class="section-header">
-                <h2 class="section-title">Názory expertů</h2>
-                <a href="{{ '/nazory/' | relative_url }}" class="section-link">Všechny názory →</a>
-            </div>
-            
-            <div class="opinion-grid">
-                {% assign nazory_posts = site.posts | where: "categories", "nazory" | limit: 3 %}
-                {% for post in nazory_posts %}
-                <article class="opinion-card">
-                    <div class="author-info">
-                        <img src="{{ post.author_image | default: 'https://picsum.photos/60/60?random=10' }}" alt="{{ post.author }}" class="author-avatar">
-                        <div>
-                            <h4 class="author-name">{{ post.author | default: 'Autor' }}</h4>
-                            <span class="author-title">{{ post.author_title | default: 'Expert' }}</span>
-                        </div>
-                    </div>
-                    <h3 class="opinion-title">
-                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                    </h3>
                 </article>
                 {% endfor %}
             </div>
@@ -330,6 +141,41 @@ document.addEventListener('DOMContentLoaded', function() {
 
     <!-- Postranní panel -->
     <aside class="sidebar">
+        <!-- Kompaktní video přehrávač -->
+        {% assign videos = site.media | where: "type", "video" | sort: "date" | reverse | limit: 5 %}
+        {% if videos.size > 0 %}
+        <div class="sidebar-section video-player-sidebar">
+            <h3 class="sidebar-title">📹 Video přehrávač</h3>
+            <div class="compact-video-player">
+                <video id="sidebar-video" controls preload="metadata" poster="">
+                    <source src="{{ '/audiolm/' | append: videos.first.file | relative_url }}" type="video/mp4">
+                    Váš prohlížeč nepodporuje video tag.
+                </video>
+                
+                <div class="video-info-compact">
+                    <h4 id="sidebar-video-title">{{ videos.first.title }}</h4>
+                    <p id="sidebar-video-description">{{ videos.first.content | strip_html | truncate: 80 }}</p>
+                </div>
+                
+                <div class="video-controls-compact">
+                    <button id="sidebar-prev-video" class="video-btn-compact" title="Předchozí">⏮️</button>
+                    <button id="sidebar-fullscreen-btn" class="video-btn-compact" title="Celá obrazovka">⛶</button>
+                    <button id="sidebar-next-video" class="video-btn-compact" title="Další">⏭️</button>
+                    <button id="sidebar-playlist-toggle" class="video-btn-compact" title="Seznam videí">📋</button>
+                </div>
+                
+                <div id="sidebar-playlist" class="sidebar-playlist" style="display: none;">
+                    {% for video in videos %}
+                    <div class="sidebar-playlist-item" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 80 }}">
+                        <span class="playlist-play-icon">▶️</span>
+                        <span class="playlist-title">{{ video.title | truncate: 35 }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        
         <!-- Nejčtenější -->
         <div class="sidebar-section">
             <h3 class="sidebar-title">Nejčtenější</h3>
@@ -408,3 +254,77 @@ document.addEventListener('DOMContentLoaded', function() {
         </article>
     </div>
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const videoPlayer = document.getElementById('sidebar-video');
+    const videoTitle = document.getElementById('sidebar-video-title');
+    const videoDescription = document.getElementById('sidebar-video-description');
+    const playlist = document.getElementById('sidebar-playlist');
+    const playlistToggle = document.getElementById('sidebar-playlist-toggle');
+    const prevButton = document.getElementById('sidebar-prev-video');
+    const nextButton = document.getElementById('sidebar-next-video');
+    const fullscreenButton = document.getElementById('sidebar-fullscreen-btn');
+    
+    let currentVideoIndex = 0;
+    const playlistItems = Array.from(document.querySelectorAll('.sidebar-playlist-item'));
+    
+    // Toggle playlist visibility
+    playlistToggle.addEventListener('click', function() {
+        playlist.style.display = playlist.style.display === 'none' ? 'block' : 'none';
+    });
+    
+    // Play video from playlist
+    playlistItems.forEach((item, index) => {
+        item.addEventListener('click', function() {
+            currentVideoIndex = index;
+            loadVideo(index);
+            playlist.style.display = 'none';
+        });
+    });
+    
+    // Previous video
+    prevButton.addEventListener('click', function() {
+        currentVideoIndex = currentVideoIndex > 0 ? currentVideoIndex - 1 : playlistItems.length - 1;
+        loadVideo(currentVideoIndex);
+    });
+    
+    // Next video
+    nextButton.addEventListener('click', function() {
+        currentVideoIndex = currentVideoIndex < playlistItems.length - 1 ? currentVideoIndex + 1 : 0;
+        loadVideo(currentVideoIndex);
+    });
+    
+    // Fullscreen toggle
+    fullscreenButton.addEventListener('click', function() {
+        if (videoPlayer.requestFullscreen) {
+            videoPlayer.requestFullscreen();
+        } else if (videoPlayer.webkitRequestFullscreen) {
+            videoPlayer.webkitRequestFullscreen();
+        } else if (videoPlayer.mozRequestFullScreen) {
+            videoPlayer.mozRequestFullScreen();
+        }
+    });
+    
+    // Load video function
+    function loadVideo(index) {
+        const item = playlistItems[index];
+        const videoSrc = item.dataset.videoSrc;
+        const videoTitleText = item.dataset.videoTitle;
+        const videoDescText = item.dataset.videoDescription;
+        
+        videoPlayer.src = videoSrc;
+        videoTitle.textContent = videoTitleText;
+        videoDescription.textContent = videoDescText;
+        
+        // Update active state in playlist
+        playlistItems.forEach(item => item.classList.remove('active'));
+        item.classList.add('active');
+    }
+    
+    // Auto-play next video when current ends
+    videoPlayer.addEventListener('ended', function() {
+        nextButton.click();
+    });
+});
+</script>

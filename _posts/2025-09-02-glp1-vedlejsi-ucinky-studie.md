@@ -45,7 +45,7 @@ Ve věkové skupině 30 až 49 let mají ženy více než dvojnásobnou pravděp
 
 Studie poskytla první populační odhady vedlejších účinků léků typu GLP-1 na základě zkušeností 1 262 uživatelů. Nejčastějším vedlejším účinkem je nauzea - pocit nevolnosti -  kterou hlásí přibližně polovina všech uživatelů (43,2 procenta mírnou, celkem kolem 50 procent). Druhým nejčastějším problémem je průjem, který postihuje zhruba třetinu uživatelů (26,8 procenta mírný, celkem kolem 33 procent).
 
-Zvracení hlásí přibližně pětina uživatelů (14,4 procenta mírné). Méně častým, ale kosmeticky významným vedlejším účinkem je zapadlý obličej, který uvádí 7,4 procenta uživatelů. Většina respondentů popisuje své vedlejší účinky jako mírné a neváže.
+Zvracení hlásí přibližně pětina uživatelů (14,4 procenta mírné). Méně častým, ale kosmeticky významným vedlejším účinkem je zapadlý obličej, který uvádí 7,4 procenta uživatelů. Většina respondentů popisuje své vedlejší účinky jako mírné a nevážné.
 
 **Přehled vedlejších účinků u uživatelů léků typu GLP-1:**
 
