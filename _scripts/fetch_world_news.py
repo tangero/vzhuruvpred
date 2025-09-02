@@ -7,7 +7,13 @@ import os
 from datetime import datetime
 
 # NewsAPI konfigurace
-NEWS_API_KEY = os.environ.get('NEWS_API_KEY', 'YOUR_API_KEY_HERE')
+NEWS_API_KEY = os.environ.get('NEWS_API_KEY')
+
+# Kontrola API klíče
+if not NEWS_API_KEY:
+    print("CHYBA: NEWS_API_KEY není nastaven!")
+    print("Nastavte ho pomocí: export NEWS_API_KEY='váš_klíč'")
+    exit(1)
 NEWS_API_URL = 'https://newsapi.org/v2/top-headlines'
 
 # Mapování zemí na emoji vlaječky

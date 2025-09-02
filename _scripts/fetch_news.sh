@@ -1,7 +1,14 @@
 #!/bin/bash
 
-# NewsAPI klíč
-API_KEY="d88278f08f084a4681ce07d967da3421"
+# NewsAPI klíč z environment variable
+API_KEY="${NEWS_API_KEY}"
+
+# Kontrola, jestli je API klíč nastaven
+if [ -z "$API_KEY" ]; then
+    echo "CHYBA: NEWS_API_KEY není nastaven!"
+    echo "Nastavte ho pomocí: export NEWS_API_KEY='váš_klíč'"
+    exit 1
+fi
 
 # Výstupní soubor
 OUTPUT_FILE="../_data/world_news.json"

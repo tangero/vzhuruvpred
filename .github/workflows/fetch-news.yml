@@ -1,0 +1,47 @@
+name: Fetch World News
+
+on:
+  schedule:
+    # Spustit každou hodinu
+    - cron: '0 * * * *'
+  workflow_dispatch: # Umožní manuální spuštění
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y jq curl
+        
+    - name: Fetch news from API
+      env:
+        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+      run: |
+        chmod +x _scripts/fetch_news.sh
+        cd _scripts
+        ./fetch_news.sh
+        
+    - name: Translate news to Czech
+      run: |
+        python3 _scripts/translate_news.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add _data/world_news.json
+        git diff --staged --quiet || git commit -m "Update world news $(date +'%Y-%m-%d %H:%M')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
