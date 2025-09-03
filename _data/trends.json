@@ -1,20 +1,10 @@
 {
-  "updated": "2025-09-03T15:27:12.115069",
+  "updated": "2025-09-03T18:34:26.097865",
   "trends": [
     {
       "rank": 1,
-      "query": "chatgpt",
-      "news_title": "ChatGPT zavede rodičovské kontroly pro teenagery do měsíce",
-      "news_url": "https://www.nbcnews.com/tech/innovation/chatgpt-adds-parental-controls-teen-users-openai-rcna228506",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl-2tlN9tzfw8MPcbxHm0mEVE8CeQ9LFO4epJnmM56MpSdu85tivxro9zFC10",
-      "traffic": "5000++ hledání",
-      "source": "NBC News",
-      "explore_url": "https://trends.google.cz/trends/explore?q=chatgpt&geo=CZ"
-    },
-    {
-      "rank": 2,
       "query": "wednesday",
-      "news_title": "Kdy vyjde 2. část 2. řady Wednesday na Netflixu?",
+      "news_title": "Kdy vyjde 2. řada seriálu Wednesday na Netflixu?",
       "news_url": "https://www.forbes.com/sites/erikkain/2025/09/02/when-does-wednesday-season-2-part-2-release-on-netflix/",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFA3p9HmBJ9YNRwQ4U2nD2re6KtwaSLe_X8dpiqyaevYIZRzgc52JSvLXq7oc",
       "traffic": "2000++ hledání",
@@ -22,39 +12,59 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=wednesday&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "teams",
-      "news_title": "Barnwell předpovídá: Kterých 14 týmů postoupí do play-off NFL a kdo vyhraje Super Bowl",
-      "news_url": "https://www.espn.com/nfl/story/_/id/45934298/2025-nfl-season-14-playoff-teams-chances-return-super-bowl",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx8ANaqJSwSfBpQLFNe-U2fxw73dvvDJH9huOR8g7nUOfaO68P2fG4vw77u-U",
-      "traffic": "2000++ hledání",
-      "source": "ESPN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "průměrná mzda",
-      "news_title": "Průměrná mzda roste mnohem rychleji, než se čekalo",
-      "news_url": "https://www.novinky.cz/clanek/ekonomika-prumerna-mzda-stoupla-na-49-402-kc-40536890",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcPH_eQJCD1O3nkR0rwdWaE3bbLcaHPZ96kOst03ytYNxBFraPnXWuc9exXL8",
-      "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=průměrná mzda&geo=CZ"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "query": "wednesday 2",
-      "news_title": "Společný klip: Jožin z bažin a Wednesday od Ivana Mládka",
-      "news_url": "https://www.idnes.cz/kultura/film-televize/wednesday-netflix-ivan-mladek-jozin-z-bazin.A250903_124158_filmvideo_jgo",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT868sHC0zzVl_DTTVDP3l3VavH18fSlXeqmga4pgzsaxxrfEbiGkL0ujaWzdw",
-      "traffic": "200++ hledání",
+      "news_title": "Finále Wednesday 2 je venku. Netflix přidal čtyři díly.",
+      "news_url": "https://www.idnes.cz/kultura/film-televize/wednesday-serial-druha-rada-netflix.A250903_125837_filmvideo_skr",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNHf4vY2IqDxd82HMY1MqgxNMZ9rnF_01DKyDslYDnaszT2BBjLafsxuaYZs0",
+      "traffic": "1000++ hledání",
       "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=wednesday 2&geo=CZ"
     },
     {
+      "rank": 3,
+      "query": "kratom",
+      "news_title": "Kratom je nově na seznamu psychomodulačních látek",
+      "news_url": "https://www.novinky.cz/clanek/domaci-vlada-zaradila-kratom-na-seznam-psychomodulacnich-latek-40537004",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPBsjgOYtPh528KYy3vitHng6oP3v76x4Dce8p4467TueBR7_0q_vjeVLXQeY",
+      "traffic": "500++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=kratom&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "tenis us open",
+      "news_title": "Muchová ve čtvrtfinále US Open proti Osakaové",
+      "news_url": "https://www.sport.cz/clanek/tenis-us-open-2025-ctvrtfinale-muchova-osakaova-online-5285264",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rtCJmkhSN7tzJRs0ZaxchnBhQuoLl8Rl5m07PuYYgC1p4ev-QuNoTE21Cf0",
+      "traffic": "500++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tenis us open&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "průměrná mzda",
+      "news_title": "Průměrná mzda roste mnohem rychleji, než se čekalo.",
+      "news_url": "https://www.novinky.cz/clanek/ekonomika-prumerna-mzda-stoupla-na-49-402-kc-40536890",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcPH_eQJCD1O3nkR0rwdWaE3bbLcaHPZ96kOst03ytYNxBFraPnXWuc9exXL8",
+      "traffic": "500++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=průměrná mzda&geo=CZ"
+    },
+    {
       "rank": 6,
+      "query": "zdeněk troška",
+      "news_title": "Zdeněk Troška zrušil plány kvůli zdravotním komplikacím.",
+      "news_url": "https://tn.nova.cz/zpravodajstvi/clanek/628148-zdenek-troska-priznal-zdravotni-komplikace-musel-zrusit-vsechny-plany",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8dxaMod6xQMYLxT9etfZpM6oY47ED0yVs_9VgCkufZRKT1FpGU1qamZMplJQ",
+      "traffic": "200++ hledání",
+      "source": "TN.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk troška&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "bookmaker",
-      "news_title": "William Hill bude provozovat sázkovou službu v Las Vegas",
+      "news_title": "William Hill provozuje sázkovou službu v Las Vegas Virgin Hotels",
       "news_url": "https://www.gamingintelligence.com/sectors/betting/219017-william-hill-selected-as-sportsbook-operator-for-virgin-hotels-las-vegas/",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWl-9x-tkXhBJaWumBOtNqSs-H-KHRsnBCi-CSeyX96sqPJRrZqn2cS5-pG4g",
       "traffic": "200++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=bookmaker&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "ai",
-      "news_title": "O2 trolí podvodníky pomocí umělé inteligence",
-      "news_url": "https://www.idnes.cz/mobil/mobilni-operatori/nevyzadany-hovor-kybersmejd-obrana-umela-inteligence-o2-alenka.A250827_114122_mobilni-operatori_LHR",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRKhKSQmQU7IrqDAW3AkhvMJYvuoFQzI6h33a32x-3GMmTv6uCRqX_2Q9nx5A",
-      "traffic": "200++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ai&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "scratch",
-      "news_title": "V Parkersburgu prodali škrábací los za 50 000 dolarů",
-      "news_url": "https://www.wboy.com/news/west-virginia/50000-scratch-off-lottery-ticket-sold-in-parkersburg-wv/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlh9kFrwgsO8GUbNDrJQ1IPhgucW5hAlK_m0rH5x-WKM7XdbA7NHwwW9ctd5I",
+      "query": "ai",
+      "news_title": "KapitalIntelligenz posílá AI NovaMind 5.0 do finálních testů s Thomasem Bernhardem",
+      "news_url": "https://www.morningstar.com/news/globe-newswire/9522561/kapitalintelligenz-akademie-advances-novamind-ai-50-to-final-testing-with-thomas-bernhard",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxtOkV1v6ky97fK5nZfkMhQ_BcCNNd_p9czV9LSbT2OFPSfL6c0-Gmes2iJOM",
       "traffic": "200++ hledání",
-      "source": "WBOY.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=scratch&geo=CZ"
+      "source": "Morningstar",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ai&geo=CZ"
     }
   ]
 }
