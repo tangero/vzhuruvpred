@@ -39,11 +39,6 @@ layout: default
                             </a>
                         </h2>
                         
-                        {% if article.original_title and article.original_title != article.title %}
-                        <p class="original-title">
-                            <small><em>Původně:</em> {{ article.original_title }}</small>
-                        </p>
-                        {% endif %}
                         
                         {% if article.description %}
                         <p class="news-description">{{ article.description }}</p>
