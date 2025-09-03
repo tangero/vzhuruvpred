@@ -156,29 +156,43 @@ layout: default
         <div class="sidebar-section video-player-sidebar">
             <h3 class="sidebar-title">📹 Video přehrávač</h3>
             <div class="compact-video-player">
-                <video id="sidebar-video" controls preload="metadata" poster="">
-                    <source src="{{ '/audiolm/' | append: videos.first.file | relative_url }}" type="video/mp4">
-                    Váš prohlížeč nepodporuje video tag.
-                </video>
+                <div class="video-container">
+                    <video id="sidebar-video" preload="metadata" poster="" muted>
+                        <source src="{{ '/audiolm/' | append: videos.first.file | relative_url }}" type="video/mp4">
+                        Váš prohlížeč nepodporuje video tag.
+                    </video>
+                    
+                    <!-- Overlay s ovládáním -->
+                    <div class="video-overlay" id="video-overlay">
+                        <!-- Play tlačítko pro aktuální video -->
+                        <button class="play-button" id="play-current-video">
+                            <svg width="60" height="60" viewBox="0 0 60 60" fill="white">
+                                <circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.7)"/>
+                                <path d="M 22,18 36,30 22,42 Z" fill="white"/>
+                            </svg>
+                        </button>
+                        
+                        <!-- Seznam dalších videí -->
+                        <div class="video-playlist-overlay">
+                            {% assign remaining_videos = videos | offset: 1 | limit: 3 %}
+                            {% for video in remaining_videos %}
+                            <div class="video-playlist-item" data-video-index="{{ forloop.index }}" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 80 }}">
+                                <span class="video-playlist-title">{{ video.title }}</span>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
                 
                 <div class="video-info-compact">
                     <h4 id="sidebar-video-title">{{ videos.first.title }}</h4>
                     <p id="sidebar-video-description">{{ videos.first.content | strip_html | truncate: 80 }}</p>
                 </div>
                 
-                <div class="video-controls-compact">
-                    <button id="sidebar-prev-video" class="video-btn-compact" title="Předchozí">⏮️</button>
-                    <button id="sidebar-fullscreen-btn" class="video-btn-compact" title="Celá obrazovka">⛶</button>
-                    <button id="sidebar-next-video" class="video-btn-compact" title="Další">⏭️</button>
-                    <button id="sidebar-playlist-toggle" class="video-btn-compact" title="Seznam videí">📋</button>
-                </div>
-                
-                <div id="sidebar-playlist" class="sidebar-playlist" style="display: none;">
+                <!-- Skrytý seznam všech videí pro JavaScript -->
+                <div id="sidebar-all-videos" style="display: none;">
                     {% for video in videos %}
-                    <div class="sidebar-playlist-item" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 80 }}">
-                        <span class="playlist-play-icon">▶️</span>
-                        <span class="playlist-title">{{ video.title | truncate: 35 }}</span>
-                    </div>
+                    <div class="sidebar-playlist-item" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 80 }}"></div>
                     {% endfor %}
                 </div>
             </div>
@@ -379,55 +393,52 @@ document.addEventListener('DOMContentLoaded', function() {
     const videoPlayer = document.getElementById('sidebar-video');
     const videoTitle = document.getElementById('sidebar-video-title');
     const videoDescription = document.getElementById('sidebar-video-description');
-    const playlist = document.getElementById('sidebar-playlist');
-    const playlistToggle = document.getElementById('sidebar-playlist-toggle');
-    const prevButton = document.getElementById('sidebar-prev-video');
-    const nextButton = document.getElementById('sidebar-next-video');
-    const fullscreenButton = document.getElementById('sidebar-fullscreen-btn');
+    const videoOverlay = document.getElementById('video-overlay');
+    const playButton = document.getElementById('play-current-video');
     
     let currentVideoIndex = 0;
-    const playlistItems = Array.from(document.querySelectorAll('.sidebar-playlist-item'));
+    const allVideos = Array.from(document.querySelectorAll('#sidebar-all-videos .sidebar-playlist-item'));
+    const playlistItems = Array.from(document.querySelectorAll('.video-playlist-item'));
     
-    // Toggle playlist visibility
-    playlistToggle.addEventListener('click', function() {
-        playlist.style.display = playlist.style.display === 'none' ? 'block' : 'none';
+    // Play current video
+    playButton.addEventListener('click', function() {
+        videoPlayer.play();
+        videoOverlay.style.display = 'none';
     });
     
-    // Play video from playlist
+    // Show overlay when video is paused
+    videoPlayer.addEventListener('pause', function() {
+        videoOverlay.style.display = 'flex';
+    });
+    
+    // Hide overlay when video is playing
+    videoPlayer.addEventListener('play', function() {
+        videoOverlay.style.display = 'none';
+    });
+    
+    // Click on video to play/pause
+    videoPlayer.addEventListener('click', function() {
+        if (videoPlayer.paused) {
+            videoPlayer.play();
+        } else {
+            videoPlayer.pause();
+        }
+    });
+    
+    // Play video from playlist overlay
     playlistItems.forEach((item, index) => {
         item.addEventListener('click', function() {
-            currentVideoIndex = index;
-            loadVideo(index);
-            playlist.style.display = 'none';
+            // Přepočítat index pro celý seznam videí (první video + index z overlay)
+            const videoIndex = index + 1;
+            currentVideoIndex = videoIndex;
+            loadVideo(videoIndex);
+            videoPlayer.play();
         });
-    });
-    
-    // Previous video
-    prevButton.addEventListener('click', function() {
-        currentVideoIndex = currentVideoIndex > 0 ? currentVideoIndex - 1 : playlistItems.length - 1;
-        loadVideo(currentVideoIndex);
-    });
-    
-    // Next video
-    nextButton.addEventListener('click', function() {
-        currentVideoIndex = currentVideoIndex < playlistItems.length - 1 ? currentVideoIndex + 1 : 0;
-        loadVideo(currentVideoIndex);
-    });
-    
-    // Fullscreen toggle
-    fullscreenButton.addEventListener('click', function() {
-        if (videoPlayer.requestFullscreen) {
-            videoPlayer.requestFullscreen();
-        } else if (videoPlayer.webkitRequestFullscreen) {
-            videoPlayer.webkitRequestFullscreen();
-        } else if (videoPlayer.mozRequestFullScreen) {
-            videoPlayer.mozRequestFullScreen();
-        }
     });
     
     // Load video function
     function loadVideo(index) {
-        const item = playlistItems[index];
+        const item = allVideos[index];
         const videoSrc = item.dataset.videoSrc;
         const videoTitleText = item.dataset.videoTitle;
         const videoDescText = item.dataset.videoDescription;
@@ -436,14 +447,18 @@ document.addEventListener('DOMContentLoaded', function() {
         videoTitle.textContent = videoTitleText;
         videoDescription.textContent = videoDescText;
         
-        // Update active state in playlist
-        playlistItems.forEach(item => item.classList.remove('active'));
-        item.classList.add('active');
+        // Show overlay initially
+        videoOverlay.style.display = 'flex';
     }
     
     // Auto-play next video when current ends
     videoPlayer.addEventListener('ended', function() {
-        nextButton.click();
+        currentVideoIndex = currentVideoIndex < allVideos.length - 1 ? currentVideoIndex + 1 : 0;
+        loadVideo(currentVideoIndex);
+        videoPlayer.play();
     });
+    
+    // Show overlay initially
+    videoOverlay.style.display = 'flex';
 });
 </script>

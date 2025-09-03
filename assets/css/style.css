@@ -3167,12 +3167,83 @@ video::-webkit-media-controls-panel {
     position: relative;
 }
 
+.video-container {
+    position: relative;
+    width: 100%;
+}
+
 .compact-video-player video {
     width: 100%;
     height: auto;
     max-height: 200px;
     display: block;
     border-radius: var(--radius-md) var(--radius-md) 0 0;
+    cursor: pointer;
+}
+
+/* Video overlay s ovládacími prvky */
+.video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+    z-index: 10;
+}
+
+/* Play tlačítko */
+.play-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    margin-bottom: 20px;
+}
+
+.play-button:hover {
+    transform: scale(1.1);
+}
+
+.play-button svg {
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+/* Seznam videí v overlay */
+.video-playlist-overlay {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 90%;
+    max-width: 280px;
+}
+
+.video-playlist-item {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+}
+
+.video-playlist-item:hover {
+    background: rgba(255, 255, 255, 1);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.video-playlist-title {
+    font-size: 13px;
+    font-weight: 500;
+    color: #333;
+    line-height: 1.3;
+    display: block;
 }
 
 .video-info-compact {
