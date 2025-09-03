@@ -285,6 +285,6 @@ jobs:
           echo "trends.json is in .gitignore - skipping commit"
         fi
     
-     - name: Push changes
-        run: |
-          git push
+    - name: Push changes
+      run: |
+        git push
