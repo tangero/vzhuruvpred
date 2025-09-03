@@ -64,6 +64,8 @@ navigation:
     link: "/technologie/"
   - name: "Kultura"
     link: "/kultura/"
+  - name: "Přednášky"
+    link: "/prednasky/"
 
 # Social links
 social:

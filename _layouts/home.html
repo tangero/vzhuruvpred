@@ -226,35 +226,52 @@ layout: default
     </aside>
 </div>
 
-<!-- Technologie sekce -->
-<section class="sport-section">
+<!-- Přednášky sekce -->
+<section class="lectures-section">
     <div class="section-header">
-        <h2 class="section-title">Technologie</h2>
-        <div class="sport-nav">
-            <button class="sport-tab active">AI & ML</button>
-            <button class="sport-tab">Blockchain</button>
-            <button class="sport-tab">Cyber Security</button>
-            <button class="sport-tab">Open Source</button>
-        </div>
+        <h2 class="section-title">🎓 Přednášky</h2>
+        <a href="/prednasky/" class="section-link">Zobrazit všechny →</a>
     </div>
     
-    <div class="sport-grid">
-        <article class="sport-card">
-            <div class="sport-image">
-                <img src="https://picsum.photos/400/250?random=15" alt="Tech">
-                <span class="sport-badge">AI</span>
-            </div>
-            <div class="sport-content">
-                <h3 class="sport-title">
-                    <a href="#">ChatGPT vs. český startup: Kdo vyhrál souboj chatbotů?</a>
-                </h3>
-                <div class="match-score">
-                    <span class="team">ChatGPT 4</span>
-                    <span class="score">87 : 94</span>
-                    <span class="team">CzechBot Pro</span>
+    <div class="lectures-grid">
+        {% assign lectures = site.posts | where: "categories", "videa" | limit: 3 %}
+        {% for lecture in lectures %}
+        <article class="lecture-card">
+            <a href="{{ lecture.url | relative_url }}" class="lecture-link">
+                <div class="lecture-thumbnail">
+                    {% if lecture.youtube_id %}
+                        <img src="https://img.youtube.com/vi/{{ lecture.youtube_id }}/maxresdefault.jpg" 
+                             alt="{{ lecture.title }}"
+                             onerror="this.src='https://img.youtube.com/vi/{{ lecture.youtube_id }}/hqdefault.jpg'">
+                        <div class="lecture-play-overlay">
+                            <svg class="play-icon" viewBox="0 0 68 48" version="1.1" style="width: 68px; height: 48px;">
+                                <path class="play-icon-bg" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#f00"></path>
+                                <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                            </svg>
+                        </div>
+                    {% elsif lecture.thumbnail %}
+                        <img src="{{ lecture.thumbnail | relative_url }}" alt="{{ lecture.title }}">
+                    {% else %}
+                        <img src="https://picsum.photos/400/225?random={{ forloop.index }}50" alt="{{ lecture.title }}">
+                    {% endif %}
+                    <span class="lecture-duration">{% if lecture.duration %}{{ lecture.duration }}{% else %}15:00{% endif %}</span>
                 </div>
-            </div>
+                <div class="lecture-content">
+                    <h3 class="lecture-title">{{ lecture.title | truncate: 60 }}</h3>
+                    <p class="lecture-excerpt">{{ lecture.excerpt | strip_html | truncate: 100 }}</p>
+                    <div class="lecture-meta">
+                        <span class="lecture-author">{{ lecture.author | default: "Redakce" }}</span>
+                        <span class="lecture-date">{{ lecture.date | date: "%d.%m.%Y" }}</span>
+                    </div>
+                    <div class="lecture-tags">
+                        {% for tag in lecture.tags limit:3 %}
+                            <span class="lecture-tag">#{{ tag }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+            </a>
         </article>
+        {% endfor %}
     </div>
 </section>
 

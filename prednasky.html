@@ -1,0 +1,119 @@
+---
+layout: default
+title: "Přednášky"
+description: "Inspirativní přednášky o technologiích, umělé inteligenci a digitální transformaci"
+---
+
+<div class="container">
+    <div class="page-header">
+        <h1 class="page-title">🎓 Přednášky</h1>
+        <p class="page-description">Objevte inspirativní přednášky o nejnovějších technologiích, umělé inteligenci a digitální transformaci</p>
+    </div>
+
+    <div class="lectures-archive">
+        {% assign lectures = site.posts | where: "categories", "videa" %}
+        {% if lectures.size > 0 %}
+            <div class="lectures-grid">
+                {% for lecture in lectures %}
+                <article class="lecture-card">
+                    <a href="{{ lecture.url | relative_url }}" class="lecture-link">
+                        <div class="lecture-thumbnail">
+                            {% if lecture.youtube_id %}
+                                <img src="https://img.youtube.com/vi/{{ lecture.youtube_id }}/maxresdefault.jpg" 
+                                     alt="{{ lecture.title }}"
+                                     onerror="this.src='https://img.youtube.com/vi/{{ lecture.youtube_id }}/hqdefault.jpg'">
+                                <div class="lecture-play-overlay">
+                                    <svg class="play-icon" viewBox="0 0 68 48" version="1.1" style="width: 68px; height: 48px;">
+                                        <path class="play-icon-bg" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#f00"></path>
+                                        <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                    </svg>
+                                </div>
+                            {% elsif lecture.thumbnail %}
+                                <img src="{{ lecture.thumbnail | relative_url }}" alt="{{ lecture.title }}">
+                            {% else %}
+                                <img src="https://picsum.photos/400/225?random={{ forloop.index }}50" alt="{{ lecture.title }}">
+                            {% endif %}
+                            <span class="lecture-duration">{% if lecture.duration %}{{ lecture.duration }}{% else %}15:00{% endif %}</span>
+                        </div>
+                        <div class="lecture-content">
+                            <h3 class="lecture-title">{{ lecture.title }}</h3>
+                            <p class="lecture-excerpt">{{ lecture.excerpt | strip_html | truncate: 150 }}</p>
+                            <div class="lecture-meta">
+                                <span class="lecture-author">{{ lecture.author | default: "Redakce" }}</span>
+                                <span class="lecture-date">{{ lecture.date | date: "%d.%m.%Y" }}</span>
+                            </div>
+                            <div class="lecture-tags">
+                                {% for tag in lecture.tags limit:4 %}
+                                    <span class="lecture-tag">#{{ tag }}</span>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="no-content">
+                <p>Zatím nemáme žádné přednášky. Brzy přidáme nový obsah!</p>
+            </div>
+        {% endif %}
+    </div>
+</div>
+
+<style>
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.page-title {
+    font-size: 42px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0 0 15px 0;
+}
+
+.page-description {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.lectures-archive {
+    margin-top: 40px;
+}
+
+.no-content {
+    text-align: center;
+    padding: 60px 20px;
+    background: #f9f9f9;
+    border-radius: 12px;
+}
+
+.no-content p {
+    font-size: 18px;
+    color: #666;
+}
+
+@media (max-width: 768px) {
+    .page-title {
+        font-size: 32px;
+    }
+    
+    .page-description {
+        font-size: 16px;
+    }
+    
+    .container {
+        padding: 20px 15px;
+    }
+}
+</style>
