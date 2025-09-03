@@ -68,27 +68,25 @@ layout: default
             <div class="trends-carousel" id="trends-carousel">
                 {% if site.data.trends %}
                     {% for trend in site.data.trends.trends %}
-                    <a href="{{ trend.news_url }}" target="_blank" class="trend-card">
-                        <div class="trend-card-image">
+                    <a href="{{ trend.news_url }}" target="_blank" class="trend-item">
+                        <div class="trend-image">
                             {% if trend.picture %}
                                 <img src="{{ trend.picture }}" alt="{{ trend.query }}" loading="lazy">
                             {% else %}
-                                <div class="trend-placeholder"></div>
+                                <div class="trend-placeholder">🔥</div>
                             {% endif %}
-                            <span class="trend-rank">#{{ forloop.index }}</span>
-                            <span class="trend-traffic">{{ trend.traffic }}</span>
                         </div>
-                        <div class="trend-card-content">
+                        <div class="trend-content">
                             <span class="trend-query">{{ trend.query | upcase }}</span>
-                            <h3 class="trend-title">{{ trend.news_title | truncate: 80 }}</h3>
+                            <h3 class="trend-title">{{ trend.news_title | truncate: 200 }}</h3>
                         </div>
                     </a>
                     {% endfor %}
                 {% else %}
                     <!-- Fallback data -->
-                    <div class="trend-card">
-                        <div class="trend-placeholder"></div>
-                        <div class="trend-card-content">
+                    <div class="trend-item">
+                        <div class="trend-placeholder">⏳</div>
+                        <div class="trend-content">
                             <span class="trend-query">NAČÍTÁNÍ</span>
                             <h3 class="trend-title">Trendy se načítají...</h3>
                         </div>
@@ -279,6 +277,99 @@ layout: default
 </section>
 
 <script>
+// Trends Carousel functionality
+document.addEventListener('DOMContentLoaded', function() {
+    const carousel = document.getElementById('trends-carousel');
+    const prevBtn = document.getElementById('trends-prev');
+    const nextBtn = document.getElementById('trends-next');
+    
+    if (carousel && prevBtn && nextBtn) {
+        let scrollPosition = 0;
+        const cardWidth = 370; // width of each card + gap
+        
+        // Calculate visible cards
+        function getVisibleCards() {
+            const containerWidth = carousel.parentElement.offsetWidth;
+            return Math.floor(containerWidth / cardWidth);
+        }
+        
+        // Update scroll position
+        function updateScroll() {
+            carousel.style.transform = `translateX(-${scrollPosition}px)`;
+        }
+        
+        // Next button
+        nextBtn.addEventListener('click', function() {
+            const maxScroll = carousel.scrollWidth - carousel.parentElement.offsetWidth;
+            const scrollAmount = cardWidth * getVisibleCards();
+            
+            if (scrollPosition < maxScroll) {
+                scrollPosition = Math.min(scrollPosition + scrollAmount, maxScroll);
+                updateScroll();
+            } else {
+                // Loop back to start
+                scrollPosition = 0;
+                updateScroll();
+            }
+        });
+        
+        // Previous button  
+        prevBtn.addEventListener('click', function() {
+            const scrollAmount = cardWidth * getVisibleCards();
+            
+            if (scrollPosition > 0) {
+                scrollPosition = Math.max(scrollPosition - scrollAmount, 0);
+                updateScroll();
+            } else {
+                // Loop to end
+                scrollPosition = carousel.scrollWidth - carousel.parentElement.offsetWidth;
+                updateScroll();
+            }
+        });
+        
+        // Auto-scroll every 5 seconds
+        setInterval(function() {
+            const maxScroll = carousel.scrollWidth - carousel.parentElement.offsetWidth;
+            if (scrollPosition < maxScroll) {
+                scrollPosition += cardWidth;
+                if (scrollPosition > maxScroll) scrollPosition = maxScroll;
+            } else {
+                scrollPosition = 0;
+            }
+            updateScroll();
+        }, 5000);
+        
+        // Touch/swipe support for mobile
+        let startX = 0;
+        let isDragging = false;
+        
+        carousel.addEventListener('touchstart', function(e) {
+            startX = e.touches[0].clientX;
+            isDragging = true;
+        });
+        
+        carousel.addEventListener('touchmove', function(e) {
+            if (!isDragging) return;
+            e.preventDefault();
+            const x = e.touches[0].clientX;
+            const diff = startX - x;
+            
+            if (Math.abs(diff) > 50) {
+                if (diff > 0) {
+                    nextBtn.click();
+                } else {
+                    prevBtn.click();
+                }
+                isDragging = false;
+            }
+        });
+        
+        carousel.addEventListener('touchend', function() {
+            isDragging = false;
+        });
+    }
+});
+
 document.addEventListener('DOMContentLoaded', function() {
     const videoPlayer = document.getElementById('sidebar-video');
     const videoTitle = document.getElementById('sidebar-video-title');
