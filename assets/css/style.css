@@ -1196,7 +1196,7 @@ video::-webkit-media-controls-panel {
     text-decoration: underline;
 }
 
-.trend-item {
+.trend-list-item {
     display: flex;
     flex-direction: column;
     gap: 8px;
@@ -1208,7 +1208,7 @@ video::-webkit-media-controls-panel {
     text-decoration: none;
 }
 
-.trend-item:hover {
+.trend-list-item:hover {
     background: rgba(255, 255, 255, 0.1);
     transform: translateY(-2px);
 }
@@ -1220,7 +1220,7 @@ video::-webkit-media-controls-panel {
     font-family: 'Bebas Neue', cursive;
 }
 
-.trend-title {
+.trend-list-item .trend-title {
     font-size: 14px;
     line-height: 1.3;
     color: var(--pirate-white);

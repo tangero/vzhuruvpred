@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cs"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="cs" /><updated>2025-09-02T19:28:14+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Vzhůru a vpřed</title><subtitle>Nezávislý zpravodajský portál zaměřený na digitalizaci, transparentnost a technologické inovace</subtitle><entry><title type="html">Osobní ponaučení z digitalizace stavebního řízení</title><link href="http://0.0.0.0:4000/nazory/n%C3%A1zory/2025-09-02/ivan-bartos-dsr-dopis/" rel="alternate" type="text/html" title="Osobní ponaučení z digitalizace stavebního řízení" /><published>2025-09-02T11:00:00+02:00</published><updated>2025-09-02T11:00:00+02:00</updated><id>http://0.0.0.0:4000/nazory/n%C3%A1zory/2025-09-02/ivan-bartos-dsr-dopis</id><content type="html" xml:base="http://0.0.0.0:4000/nazory/n%C3%A1zory/2025-09-02/ivan-bartos-dsr-dopis/"><![CDATA[<p>Milí občané, mám tu něco osobního, co mě poslední rok provází.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cs"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://0.0.0.0:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4001/" rel="alternate" type="text/html" hreflang="cs" /><updated>2025-09-03T09:24:18+02:00</updated><id>http://0.0.0.0:4001/feed.xml</id><title type="html">Vzhůru a vpřed</title><subtitle>Nezávislý zpravodajský portál zaměřený na digitalizaci, transparentnost a technologické inovace</subtitle><entry><title type="html">Osobní ponaučení z digitalizace stavebního řízení</title><link href="http://0.0.0.0:4001/nazory/n%C3%A1zory/2025-09-02/ivan-bartos-dsr-dopis/" rel="alternate" type="text/html" title="Osobní ponaučení z digitalizace stavebního řízení" /><published>2025-09-02T11:00:00+02:00</published><updated>2025-09-02T11:00:00+02:00</updated><id>http://0.0.0.0:4001/nazory/n%C3%A1zory/2025-09-02/ivan-bartos-dsr-dopis</id><content type="html" xml:base="http://0.0.0.0:4001/nazory/n%C3%A1zory/2025-09-02/ivan-bartos-dsr-dopis/"><![CDATA[<p>Milí občané, mám tu něco osobního, co mě poslední rok provází.</p>
 
 <p>Piráty jsem spoluzaložil před 16 lety, 14 z toho byl předsedou a dovedl jsem naši stranu do vlády.
 Z ní mě Petr Fiala vyhodil kvůli projektu digitalizace stavebního řízení a já rezignoval na post
@@ -78,69 +78,7 @@ proti prorůstání byznysu do politiky. Věřím, že Pirátům můžete dát s
 A slibuji, že vždycky budeme poctiví, i když půjde o ta nejtěžší témata.</p>
 
 <p>Díky,
-Ivan Bartoš</p>]]></content><author><name>Ivan Bartoš</name></author><category term="Názory" /><category term="názory" /><summary type="html"><![CDATA[Otevřený dopis k digitalizaci stavebního řízení, který občanům napsal Ivan Bartoš. Jaká jsou jeho ponaučení a závěry z této nejrozsáhlejší digitalizační akce?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/obrazky/ivan_bartos.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/assets/obrazky/ivan_bartos.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin</title><link href="http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/" rel="alternate" type="text/html" title="RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin" /><published>2025-09-02T06:00:00+02:00</published><updated>2025-09-02T06:00:00+02:00</updated><id>http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol</id><content type="html" xml:base="http://0.0.0.0:4000/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/"><![CDATA[<p>Bitcoinová komunita se dočkala významného milníku. RGB protokol dosáhláhl verze 0.11.1, což otevírá cestu pro nativní stablecoiny a pokročilé chytré kontrakty přímo na Bitcoinu. Tether, největší společnost v oblasti digitálních aktiv, oznámila 28. srpna 2025 plány na spuštění USD₮ na RGB. Vsází tím na životaschopnost této technologie.</p>
-
-<h2 id="technická-architektura-rgb">Technická architektura RGB</h2>
-
-<p>RGB představuje zásadní odklon od tradičního přístupu k chytrým kontraktům. Protokol funguje s paradigmatem klientské validace, což znamená, že všechna data jsou uchovávána mimo bitcoinové transakce. Tento přístup přináší několik klíčových výhod oproti řešením typu Ethereum.</p>
-
-<p>RGB využívá jednorázové pečetě <em>(single-use seals)</em> definované nad výstupy bitcoinových transakcí, což poskytuje schopnost jakékoli straně s historií stavu chytré smlouvy ověřit její jedinečnost. Data kontraktů zůstávají mimo řetězec, zatímco Bitcoin slouží pouze jako vrstva závazků pro prevenci dvojího utrácení.</p>
-
-<p>Architektura RGB pracuje s konceptem fragmentace (sharding), kde každý kontrakt má samostatnou historii stavu a data; různé chytré kontrakty se nikdy přímo neprotínají ve svých historiích. To umožňuje dosáhnout škálovatelnosti, kterou plánoval, ale nedosáhl Ethereum se svými shardy.</p>
-
-<h2 id="srovnání-s-konkurenčními-protokoly">Srovnání s konkurenčními protokoly</h2>
-
-<p>Hlavním konkurentem RGB je <strong>Taproot Assets</strong> (dříve známý jako Taro) od Lightning Labs. Taproot Assets byl spuštěn Lightning Labs v roce 2022 během Bitcoin Conference v Miami a při spuštění projektu se Lightning Labs podařilo získat 70 milionů dolarů na jeho vývoj.</p>
-
-<p>Oba protokoly sdílejí podobný přístup - využívají model klientské validace pro výměnu důkazů vlastnictví tokenů. Klíčové rozdíly spočívají v implementaci a filozofii:</p>
-
-<p><strong>RGB protokol</strong> vznikl již v roce 2016 z výzkumu Petera Todda a Giacoma Zucca. Od roku 2019 Dr. Maxim Orlovsky působí jako hlavní návrhář a přispěvatel RGB protokolu, navrhující a implementující více než 95% jeho současného kódu. RGB klade důraz na maximální decentralizaci a soukromí.</p>
-
-<p><strong>Taproot Assets</strong> těží z finanční síly Lightning Labs a jejich ekosystému. S Taproot Assets může Lightning Network zpracovávat kanály s jakýmkoli aktivem, ale s možností najít trasy napříč různými aktivy. Protokol je více zaměřen na praktickou integraci s existující infrastrukturou.</p>
-
-<p>Zajímavostí je, že Tether potvrdil integrační cestu USDT jak s Taproot Assets, tak s RGB, což naznačuje, že oba protokoly mohou koexistovat a vzájemně se doplňovat.</p>
-
-<h2 id="praktické-využití-a-implementace">Praktické využití a implementace</h2>
-
-<p>RGB umožňuje širokou škálu aplikací, které dosud na Bitcoinu nebyly možné. S RGB můžete vytvářet stablecoiny a korporátní akcie, cenné papíry a aplikačně specifické tokeny, vydávat digitální média a sběratelské předměty, provozovat likviditní pool, AMM-based DEX nebo kolaterálně založený algoritmický stablecoin.</p>
-
-<p>Integrace s Lightning Network je klíčová pro praktickou použitelnost. RGB umožňuje využívat soukromí Lightning Network, klientskou validaci a okamžité vypořádání prostřednictvím vestavěného transportního rozšíření RGB. To znamená, že uživatelé mohou posílat RGB aktiva stejně rychle a levně jako bitcoinové platby přes Lightning.</p>
-
-<h2 id="dostupné-peněženky-a-infrastruktura">Dostupné peněženky a infrastruktura</h2>
-
-<p>Ekosystém RGB již disponuje funkčními peněženkami:</p>
-
-<p><strong>Iris Wallet</strong> - spravuje všechna RGB aktiva a bitcoiny z pohodlí telefonu v prostředí vlastní správy. Jedná se o první plnohodnotnou peněženku s grafickým rozhraním pro RGB protokol.</p>
-
-<p><strong>Bitlight Wallet</strong> - první Bitcoin peněženka podporující RGB-20 aktiva, vyvinutá společností Bitlight Labs specificky pro práci s RGB tokeny.</p>
-
-<p><strong>MyCitadel</strong> - sada softwaru, hardwaru a internetových služeb zaměřených na digitální individuální suverenitu a soukromí, primárně peněženka pro bitcoin, digitální aktiva a bitcoin finance chytré kontrakty.</p>
-
-<p>Hardwarové peněženky zatím přímou podporu RGB tokenů nenabízejí, ale lze je využít k bezpečnému podepisování souvisejících Bitcoin transakcí.</p>
-
-<h2 id="technické-výzvy-a-omezení">Technické výzvy a omezení</h2>
-
-<p>RGB přináší revoluci, ale také určité výzvy. Transakce jsou stále limitovány rychlostí Bitcoin bloku (přibližně 10 minut pro potvrzení na řetězci), i když integrace s Lightning Network tento problém řeší pro běžné platby.</p>
-
-<p>Motivace za RGB je kvůli omezené schopnosti Bitcoinu podporovat prostředí pro vykonávání chytrých kontraktů. Přenesení vykonávání a validace mimo řetězec umožňuje účastníkům těžit z bezpečnosti konsenzuální vrstvy Bitcoinu při zlepšení flexibility a škálovatelnosti.</p>
-
-<p>Složitost protokolu představuje bariéru pro vývojáře zvyklé na jednodušší systémy. RGB chytré kontrakty zahrnují stav, vlastníky a operace, které účastníci mohou provádět k aktualizaci stavu, což vyžaduje hlubší pochopení než tradiční tokenové protokoly.</p>
-
-<h2 id="budoucnost-rgb-a-význam-pro-bitcoin">Budoucnost RGB a význam pro Bitcoin</h2>
-
-<p>RGB představuje fundamentální posun v tom, jak vnímáme možnosti Bitcoinu. RGB přináší pokročilé chytré kontrakty na Bitcoin a Lightning Network, zajišťující škálovatelnost a soukromí. Protokol dokazuje, že Bitcoin může sloužit nejen jako uchovatel hodnoty, ale také jako platforma pro komplexní finanční aplikace.</p>
-
-<p>Integrace USDT na RGB otevírá nové možnosti pro stabilní, dolarově denominované platby zabezpečené sítí Bitcoin. To může být klíčové pro adopci v rozvojových zemích, kde je přístup k stabilním měnám omezený.</p>
-
-<p>Konkurence mezi RGB a Taproot Assets pravděpodobně povede k rychlejší inovaci v celém ekosystému. Lnfi je první platforma integrující oba standardy vedle sebe, umožňující emitentům spouštět aktiva pomocí kteréhokoli protokolu podle jejich specifických potřeb.</p>
-
-<h2 id="závěr">Závěr</h2>
-
-<p>RGB protokol představuje technologický posun, který rozšiřuje možnosti Bitcoinu daleko za původní vizi digitální měny. Kombinace bezpečnosti Bitcoinu, rychlosti Lightning Network a flexibility chytrých kontraktů vytváří unikátní platformu pro finanční inovace.</p>
-
-<p>S podporou významných hráčů jako Tether a rostoucím ekosystémem vývojářů má RGB potenciál stát se standardem pro tokenizaci a chytré kontrakty na Bitcoinu. Protokol dokazuje, že Bitcoin může konkurovat moderním blockchainům v oblasti programovatelnosti, aniž by obětoval své základní hodnoty - decentralizaci, bezpečnost a soukromí.</p>
-
-<p>Pro uživatele to znamená možnost využívat pokročilé finanční nástroje přímo na nejbezpečnější kryptoměnové síti světa. Pro vývojáře otevírá RGB nové možnosti vytváření aplikací, které kombinují to nejlepší z obou světů - robustnost Bitcoinu a flexibilitu chytrých kontraktů.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Bitcoin" /><category term="bitcoin" /><category term="kryptoměny" /><summary type="html"><![CDATA[RGB protokol přináší na Bitcoin pokročilé chytré kontrakty s klientskou validací a soukromím, umožňuje nativní stablecoiny a konkuruje řešením jako Taproot Assets.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/obrazky/bitcoin-rgb-protocol.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/assets/obrazky/bitcoin-rgb-protocol.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jaké vedlejší účinky mají léky na hubnutí typu GLP-1</title><link href="http://0.0.0.0:4000/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie/" rel="alternate" type="text/html" title="Jaké vedlejší účinky mají léky na hubnutí typu GLP-1" /><published>2025-09-02T06:00:00+02:00</published><updated>2025-09-02T06:00:00+02:00</updated><id>http://0.0.0.0:4000/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie</id><content type="html" xml:base="http://0.0.0.0:4000/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie/"><![CDATA[<p>Americká studie organizace RAND Corporation přinesla aktuální údaje o používání léků na hubnutí typu GLP-1 v USA. Podle výzkumu z roku 2025 použilo tyto léky 11,8 procenta amerických dospělých, přičemž nejčastěji je využívají ženy středního věku. Studie současně poskytuje první populační odhady vedlejších účinků těchto léků.</p>
+Ivan Bartoš</p>]]></content><author><name>Ivan Bartoš</name></author><category term="Názory" /><category term="názory" /><summary type="html"><![CDATA[Otevřený dopis k digitalizaci stavebního řízení, který občanům napsal Ivan Bartoš. Jaká jsou jeho ponaučení a závěry z této nejrozsáhlejší digitalizační akce?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4001/assets/obrazky/ivan_bartos.jpg" /><media:content medium="image" url="http://0.0.0.0:4001/assets/obrazky/ivan_bartos.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jaké vedlejší účinky mají léky na hubnutí typu GLP-1</title><link href="http://0.0.0.0:4001/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie/" rel="alternate" type="text/html" title="Jaké vedlejší účinky mají léky na hubnutí typu GLP-1" /><published>2025-09-02T06:00:00+02:00</published><updated>2025-09-02T06:00:00+02:00</updated><id>http://0.0.0.0:4001/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie</id><content type="html" xml:base="http://0.0.0.0:4001/analyzy/l%C3%A9ky%20na%20hubnut%C3%AD/2025-09-02/glp1-vedlejsi-ucinky-studie/"><![CDATA[<p>Americká studie organizace RAND Corporation přinesla aktuální údaje o používání léků na hubnutí typu GLP-1 v USA. Podle výzkumu z roku 2025 použilo tyto léky 11,8 procenta amerických dospělých, přičemž nejčastěji je využívají ženy středního věku. Studie současně poskytuje první populační odhady vedlejších účinků těchto léků.</p>
 
 <p>Léky typu GLP-1 představují třídu léků původně určených pro regulaci hladiny cukru v krvi u pacientů s diabetem 2. typu. Jejich mechanismus působení spočívá v napodobování hormonu GLP-1, který stimuluje uvolňování inzulínu, snižuje hladinu cukru v krvi, zpomaluje průchod potravy trávicím traktem a ovlivňuje mozkové oblasti řídící hlad a pocit sytosti.</p>
 
@@ -254,7 +192,400 @@ Ivan Bartoš</p>]]></content><author><name>Ivan Bartoš</name></author><category
 
 <hr />
 
-<p><strong>Zdroj:</strong> Bozick, Robert, Shannon D. Donofry, and Katherine M. Rancaño. “New Weight Loss Drugs: GLP-1 Agonist Use and Side Effects in the United States.” RAND Corporation, 2025. <a href="https://www.rand.org/pubs/research_reports/RRA4153-1.html">https://www.rand.org/pubs/research_reports/RRA4153-1.html</a></p>]]></content><author><name>Patrick Zandl</name></author><category term="léky na hubnutí" /><category term="zdravotnictví" /><category term="GLP-1" /><category term="léky na hubnutí" /><summary type="html"><![CDATA[Léky na hubnutí jsou stále populárnější. Jenže jaké mají vedlejší účinky? Objevují se první studie. Co zjistily?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/obrazky/leky-na-hubnuti.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/assets/obrazky/leky-na-hubnuti.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pozadí a historie EU Chat Control</title><link href="http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control/" rel="alternate" type="text/html" title="Pozadí a historie EU Chat Control" /><published>2024-08-30T11:00:00+02:00</published><updated>2024-08-30T11:00:00+02:00</updated><id>http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control</id><content type="html" xml:base="http://0.0.0.0:4000/udalosti/eu/2024-08-30/eu-chat-control/"><![CDATA[<p>Kolem nařízení EU nazývané Chat Control se v poslední době rozproudila větší debata, než na jaké jsme u nařízení EU v Česku zvyklí. Pro lepší přehled a pochopení vám Institut Pi přináší základní přehled toho, proč a kdy a jakým způsobem toto nařízen vznikalo a jaké je jeho technologické pozadí.</p>
+<p><strong>Zdroj:</strong> Bozick, Robert, Shannon D. Donofry, and Katherine M. Rancaño. “New Weight Loss Drugs: GLP-1 Agonist Use and Side Effects in the United States.” RAND Corporation, 2025. <a href="https://www.rand.org/pubs/research_reports/RRA4153-1.html">https://www.rand.org/pubs/research_reports/RRA4153-1.html</a></p>]]></content><author><name>Patrick Zandl</name></author><category term="léky na hubnutí" /><category term="zdravotnictví" /><category term="GLP-1" /><category term="léky na hubnutí" /><summary type="html"><![CDATA[Léky na hubnutí jsou stále populárnější. Jenže jaké mají vedlejší účinky? Objevují se první studie. Co zjistily?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4001/assets/obrazky/leky-na-hubnuti.jpg" /><media:content medium="image" url="http://0.0.0.0:4001/assets/obrazky/leky-na-hubnuti.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin</title><link href="http://0.0.0.0:4001/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/" rel="alternate" type="text/html" title="RGB protokol přináší chytré kontrakty a stablecoiny přímo na Bitcoin" /><published>2025-09-02T06:00:00+02:00</published><updated>2025-09-02T06:00:00+02:00</updated><id>http://0.0.0.0:4001/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol</id><content type="html" xml:base="http://0.0.0.0:4001/technologie/bitcoin/2025-09-02/bitcoin-rgb-protocol/"><![CDATA[<p>Bitcoinová komunita se dočkala významného milníku. RGB protokol dosáhláhl verze 0.11.1, což otevírá cestu pro nativní stablecoiny a pokročilé chytré kontrakty přímo na Bitcoinu. Tether, největší společnost v oblasti digitálních aktiv, oznámila 28. srpna 2025 plány na spuštění USD₮ na RGB. Vsází tím na životaschopnost této technologie.</p>
+
+<h2 id="technická-architektura-rgb">Technická architektura RGB</h2>
+
+<p>RGB představuje zásadní odklon od tradičního přístupu k chytrým kontraktům. Protokol funguje s paradigmatem klientské validace, což znamená, že všechna data jsou uchovávána mimo bitcoinové transakce. Tento přístup přináší několik klíčových výhod oproti řešením typu Ethereum.</p>
+
+<p>RGB využívá jednorázové pečetě <em>(single-use seals)</em> definované nad výstupy bitcoinových transakcí, což poskytuje schopnost jakékoli straně s historií stavu chytré smlouvy ověřit její jedinečnost. Data kontraktů zůstávají mimo řetězec, zatímco Bitcoin slouží pouze jako vrstva závazků pro prevenci dvojího utrácení.</p>
+
+<p>Architektura RGB pracuje s konceptem fragmentace (sharding), kde každý kontrakt má samostatnou historii stavu a data; různé chytré kontrakty se nikdy přímo neprotínají ve svých historiích. To umožňuje dosáhnout škálovatelnosti, kterou plánoval, ale nedosáhl Ethereum se svými shardy.</p>
+
+<h2 id="srovnání-s-konkurenčními-protokoly">Srovnání s konkurenčními protokoly</h2>
+
+<p>Hlavním konkurentem RGB je <strong>Taproot Assets</strong> (dříve známý jako Taro) od Lightning Labs. Taproot Assets byl spuštěn Lightning Labs v roce 2022 během Bitcoin Conference v Miami a při spuštění projektu se Lightning Labs podařilo získat 70 milionů dolarů na jeho vývoj.</p>
+
+<p>Oba protokoly sdílejí podobný přístup - využívají model klientské validace pro výměnu důkazů vlastnictví tokenů. Klíčové rozdíly spočívají v implementaci a filozofii:</p>
+
+<p><strong>RGB protokol</strong> vznikl již v roce 2016 z výzkumu Petera Todda a Giacoma Zucca. Od roku 2019 Dr. Maxim Orlovsky působí jako hlavní návrhář a přispěvatel RGB protokolu, navrhující a implementující více než 95% jeho současného kódu. RGB klade důraz na maximální decentralizaci a soukromí.</p>
+
+<p><strong>Taproot Assets</strong> těží z finanční síly Lightning Labs a jejich ekosystému. S Taproot Assets může Lightning Network zpracovávat kanály s jakýmkoli aktivem, ale s možností najít trasy napříč různými aktivy. Protokol je více zaměřen na praktickou integraci s existující infrastrukturou.</p>
+
+<p>Zajímavostí je, že Tether potvrdil integrační cestu USDT jak s Taproot Assets, tak s RGB, což naznačuje, že oba protokoly mohou koexistovat a vzájemně se doplňovat.</p>
+
+<h2 id="praktické-využití-a-implementace">Praktické využití a implementace</h2>
+
+<p>RGB umožňuje širokou škálu aplikací, které dosud na Bitcoinu nebyly možné. S RGB můžete vytvářet stablecoiny a korporátní akcie, cenné papíry a aplikačně specifické tokeny, vydávat digitální média a sběratelské předměty, provozovat likviditní pool, AMM-based DEX nebo kolaterálně založený algoritmický stablecoin.</p>
+
+<p>Integrace s Lightning Network je klíčová pro praktickou použitelnost. RGB umožňuje využívat soukromí Lightning Network, klientskou validaci a okamžité vypořádání prostřednictvím vestavěného transportního rozšíření RGB. To znamená, že uživatelé mohou posílat RGB aktiva stejně rychle a levně jako bitcoinové platby přes Lightning.</p>
+
+<h2 id="dostupné-peněženky-a-infrastruktura">Dostupné peněženky a infrastruktura</h2>
+
+<p>Ekosystém RGB již disponuje funkčními peněženkami:</p>
+
+<p><strong>Iris Wallet</strong> - spravuje všechna RGB aktiva a bitcoiny z pohodlí telefonu v prostředí vlastní správy. Jedná se o první plnohodnotnou peněženku s grafickým rozhraním pro RGB protokol.</p>
+
+<p><strong>Bitlight Wallet</strong> - první Bitcoin peněženka podporující RGB-20 aktiva, vyvinutá společností Bitlight Labs specificky pro práci s RGB tokeny.</p>
+
+<p><strong>MyCitadel</strong> - sada softwaru, hardwaru a internetových služeb zaměřených na digitální individuální suverenitu a soukromí, primárně peněženka pro bitcoin, digitální aktiva a bitcoin finance chytré kontrakty.</p>
+
+<p>Hardwarové peněženky zatím přímou podporu RGB tokenů nenabízejí, ale lze je využít k bezpečnému podepisování souvisejících Bitcoin transakcí.</p>
+
+<h2 id="technické-výzvy-a-omezení">Technické výzvy a omezení</h2>
+
+<p>RGB přináší revoluci, ale také určité výzvy. Transakce jsou stále limitovány rychlostí Bitcoin bloku (přibližně 10 minut pro potvrzení na řetězci), i když integrace s Lightning Network tento problém řeší pro běžné platby.</p>
+
+<p>Motivace za RGB je kvůli omezené schopnosti Bitcoinu podporovat prostředí pro vykonávání chytrých kontraktů. Přenesení vykonávání a validace mimo řetězec umožňuje účastníkům těžit z bezpečnosti konsenzuální vrstvy Bitcoinu při zlepšení flexibility a škálovatelnosti.</p>
+
+<p>Složitost protokolu představuje bariéru pro vývojáře zvyklé na jednodušší systémy. RGB chytré kontrakty zahrnují stav, vlastníky a operace, které účastníci mohou provádět k aktualizaci stavu, což vyžaduje hlubší pochopení než tradiční tokenové protokoly.</p>
+
+<h2 id="budoucnost-rgb-a-význam-pro-bitcoin">Budoucnost RGB a význam pro Bitcoin</h2>
+
+<p>RGB představuje fundamentální posun v tom, jak vnímáme možnosti Bitcoinu. RGB přináší pokročilé chytré kontrakty na Bitcoin a Lightning Network, zajišťující škálovatelnost a soukromí. Protokol dokazuje, že Bitcoin může sloužit nejen jako uchovatel hodnoty, ale také jako platforma pro komplexní finanční aplikace.</p>
+
+<p>Integrace USDT na RGB otevírá nové možnosti pro stabilní, dolarově denominované platby zabezpečené sítí Bitcoin. To může být klíčové pro adopci v rozvojových zemích, kde je přístup k stabilním měnám omezený.</p>
+
+<p>Konkurence mezi RGB a Taproot Assets pravděpodobně povede k rychlejší inovaci v celém ekosystému. Lnfi je první platforma integrující oba standardy vedle sebe, umožňující emitentům spouštět aktiva pomocí kteréhokoli protokolu podle jejich specifických potřeb.</p>
+
+<h2 id="závěr">Závěr</h2>
+
+<p>RGB protokol představuje technologický posun, který rozšiřuje možnosti Bitcoinu daleko za původní vizi digitální měny. Kombinace bezpečnosti Bitcoinu, rychlosti Lightning Network a flexibility chytrých kontraktů vytváří unikátní platformu pro finanční inovace.</p>
+
+<p>S podporou významných hráčů jako Tether a rostoucím ekosystémem vývojářů má RGB potenciál stát se standardem pro tokenizaci a chytré kontrakty na Bitcoinu. Protokol dokazuje, že Bitcoin může konkurovat moderním blockchainům v oblasti programovatelnosti, aniž by obětoval své základní hodnoty - decentralizaci, bezpečnost a soukromí.</p>
+
+<p>Pro uživatele to znamená možnost využívat pokročilé finanční nástroje přímo na nejbezpečnější kryptoměnové síti světa. Pro vývojáře otevírá RGB nové možnosti vytváření aplikací, které kombinují to nejlepší z obou světů - robustnost Bitcoinu a flexibilitu chytrých kontraktů.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Bitcoin" /><category term="bitcoin" /><category term="kryptoměny" /><summary type="html"><![CDATA[RGB protokol přináší na Bitcoin pokročilé chytré kontrakty s klientskou validací a soukromím, umožňuje nativní stablecoiny a konkuruje řešením jako Taproot Assets.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4001/assets/obrazky/bitcoin-rgb-protocol.jpg" /><media:content medium="image" url="http://0.0.0.0:4001/assets/obrazky/bitcoin-rgb-protocol.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Digitální věk politického vlivu</title><link href="http://0.0.0.0:4001/videa/2025-08-31/digitalni-vek-politickeho-vlivu/" rel="alternate" type="text/html" title="Digitální věk politického vlivu" /><published>2025-08-31T00:00:00+02:00</published><updated>2025-08-31T00:00:00+02:00</updated><id>http://0.0.0.0:4001/videa/2025-08-31/digitalni-vek-politickeho-vlivu</id><content type="html" xml:base="http://0.0.0.0:4001/videa/2025-08-31/digitalni-vek-politickeho-vlivu/"><![CDATA[<h2 id="-souhrn">📊 Souhrn</h2>
+
+<p>Přednáška “Digitální věk politického vlivu” se zabývá tím, jak sociální média urychlují politické rozdělení a jaké to má důsledky pro společnost. Autorky zdůrazňují, že algoritmy sociálních médií upřednostňují angažovanost uživatelů, často na úkor pravdy. Extrémní a senzační příspěvky získávají větší pozornost, což vede k šíření dezinformací a posilování existujících názorů v tzv. “echo chambers”. Konkrétní příklady, jako útok na Kapitol 6. ledna 2021 a manipulace s veřejným míněním v mezinárodních konfliktech, ilustrují nebezpečí tohoto fenoménu.</p>
+
+<p>V druhé části přednášky se autorky zaměřují na řešení tohoto problému. Zdůrazňují význam mediální gramotnosti a kritického myšlení. Jako příklad uvádějí Finsko, kde jsou studenti učeni analyzovat zdroje zpráv a rozpoznávat zkreslení již v raném věku. Doporučují také ověřovat informace z více důvěryhodných zdrojů a aktivně vyhledávat různé perspektivy. Klíčem k obraně demokracie je podle autorek informovaná společnost, která dokáže kriticky hodnotit informace a nenechat se manipulovat.</p>
+
+<div class="youtube-wrapper">
+  <iframe src="https://www.youtube.com/embed/4hcZgOLoNTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+  </iframe>
+</div>
+
+<style>
+.youtube-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+</style>
+
+<h2 id="-přepis">📝 Přepis</h2>
+
+<p>Ahoj, Heleno. Pamatuješ si, když Trump během COVID-19 udělal to divné prohlášení, že by injekční aplikace dezinfekce mohla být lékem na pandemii?</p>
+
+<p>Jo, Luno. Živě si pamatuji, jak mu lidé skutečně věřili. Když se na tu absurditu díváme zpětně, je snadné se smát, ale v tu chvíli to mělo reálné následky. Mám na mysli veřejný zmatek, mediální šílenství a dokonce i případy otravy.</p>
+
+<p>Všichni se můžeme shodnout, že pandemie COVID-19 byla dobou hysterie, dobou zmatku a zejména dobou narůstajících dezinformací. Nejzáludnější je, jak sociální média promění nekvalifikovaný, nekontrolovaný zdroj v zdroj, který se zdá být spolehlivý. Mám na mysli, lidé skutečně věřili tomu, co řekl Donald Trump, i když řekl, že není lékař.</p>
+
+<p>Tento okamžik však ilustruje větší problém. Jak se politický diskurz změnil v digitální éře, kde se dezinformace šíří rychleji než fakta. Informace, které jsou radikální, poutavé, a dokonce algoritmicky zesílené, stírají rozdíl mezi realitou a fikcí. Sociální média, ačkoli spojují miliardy, nás proto také více rozdělují, podněcují politickou polarizaci, protože stejné zprávy mohou být zobrazovány odlišně na každé webové stránce nebo zdroji a také neověřenými zdroji.</p>
+
+<p>Dnes prozkoumáme, jak politická komunikace na sociálních sítích urychluje rozdělení, proč na tom záleží pro naši společnost a co můžeme udělat, abychom potlačili její účinky. Pojďme si to rozebrat.</p>
+
+<p><strong>Algoritmy a angažovanost</strong></p>
+
+<p>Sociální média upřednostňují zapojení, často na úkor pravdy. Čím pobuřující je příspěvek, tím více se na něm angažujete. Studie Binghamton University ukázala, že excentrické nebo extrémní příspěvky mají tendenci sbírat více lajků nebo zhlédnutí. Je to proto, že algoritmy nás odměňují za to, co nás udrží v posouvání, ne za to, co nás informuje.</p>
+
+<p>Fakt, že Europol předpovídá, že do roku 2026 může být 90 % online obsahu synteticky generováno pomocí umělé inteligence. Není to šílené? To je obrovské číslo. To znamená, že se dezinformace a senzace mohou rychle šířit a formovat veřejné mínění na základě zapojení, nikoli přesnosti.</p>
+
+<p><strong>Efekt ozvěny</strong></p>
+
+<p>Výsledkem je, že algoritmy posílí jejich stávající přesvědčení tím, že nás budou neustále krmit stejným obsahem. Tomu se říká <strong>efekt ozvěny</strong>.</p>
+
+<p>Přesně tak, Luno. Mám na mysli, představte si, že jste v místnosti obklopené zrcadly, které vám odrážejí pouze váš vlastní názor. To dělají sociální média. Spravuje obsah na základě toho, čemu už věříte a co už podporujete. To způsobuje, že vnímáte jinou realitu. A když se to setká s politickými názory, může to být obzvláště nebezpečné, protože lidé jsou pak vyprovokováni k tomu, aby podle toho jednali.</p>
+
+<p><strong>Útok na Kapitol</strong></p>
+
+<p>Výstižně řečeno, Haley. Nedávný příklad toho se odehrál 6. ledna 2021 v USA, kdy rozzlobený republikánský dav, podnícený hlasitými prohlášeními Donalda Trumpa o volebních podvodech, zaútočil na Kapitol v naději, že získá zpět Trumpovo prezidentství. Útok však nebyl ani tak spontánní incident, jako spíše útok na demokracii a právní stát, poháněný falešnými tvrzeními o podvodech s volbami, živený konspiračními teoriemi a dezinformacemi online a šířený lidmi u moci.</p>
+
+<p>Výsledkem bylo masové násilí a emocionálně podpořené konflikty. Digitální propast není jen ideologická, je to skutečný problém reálného světa, který plodí agresi a fragmentuje naši společnost a představuje skutečnou hrozbu pro naši demokracii.</p>
+
+<p><strong>Vládní manipulace</strong></p>
+
+<p>Přesně tak, a plně rozkvétající příklad vlád využívajících sociální média k překroucení příběhu ve svůj prospěch lze pozorovat ve zdánlivě demokratických zemích, kde zacházejí tak daleko, že sociální média úplně zakazují. Takové incidenty podtrhují snahy vlády kontrolovat disidentské hlasy při zachování iluze demokratické správy. To by však mohlo znamenat úplný kolaps demokracie v těchto zemích.</p>
+
+<p>Prolínání státem kontrolovaných médií a platforem sociálních médií vytváří prostředí, kde vládnoucí strana může kontrolovat veřejný diskurz. Tato dynamika nejen potlačuje opozici, ale také prohlubuje rozpory ve společnosti.</p>
+
+<p>V mezinárodním měřítku podobné taktiky použily i jiné vlády, které se snaží kontrolovat vnímání a potlačovat nesouhlas. 7. října 2023, po útoku Hamásu na Izrael, izraelské ministerstvo zahraničních věcí prosadilo desítky online reklam, včetně grafických videí, milionům Evropanů v naději, že shromáždí podporu a také ospravedlní nebo utvoří názor na válku.</p>
+
+<p>Ospravedlnitelné nebo ne, toto je příklad toho, jak vládní moc využívá a také manipuluje sociálními médii ve svůj prospěch. Tím, že poskytuje pouze svou vlastní perspektivu, Izrael buduje svůj vlastní příběh a zanedbává jiné pohledy, což v konečném důsledku vede k polarizaci názorů a dezinformacím. A to je obzvláště důležité vzhledem k současnému stavu Německa.</p>
+
+<p><strong>Nárůst popularity AfD v Německu</strong></p>
+
+<p>Mám na mysli, že jsme svědky úpadku demokracie z první ruky. Prostřednictvím výsledků německých voleb jsme všichni viděli, jak německá krajně pravicová strana <strong>AfD</strong> nadále získává podporu, protože se počet jejích voličů od voleb v roce 2021 téměř zdvojnásobil. Jak je vidět za mnou, což má za následek, že jsou druhou nejsilnější stranou v parlamentu.</p>
+
+<p>Jedním z pravděpodobně hlavních důvodů je klíčová role, kterou hrají sociální média v marketingu jejich ideologie. Prostřednictvím hashtagů, botů, videoobsahu a sloganů, jako je “Seischlau Wilblau”, šíří svou ideologii online, takže se zdá, že jejich názory jsou široce podporovány. To ukazuje, jak jsou sociální média využívána jako politický nástroj ke změně názorů a manipulaci s publikem v jejich prospěch.</p>
+
+<p><strong>Jak bojovat proti dezinformacím</strong></p>
+
+<p>Ale nejsme bezmocní. Existují konkrétní kroky, které můžeme podniknout, abychom zajistili sjednocenější a informovanější společnost. Země by měly přijmout programy mediální gramotnosti, jako je tomu ve Finsku, kde jsou studenti učeni kriticky analyzovat zdroje zpráv, rozpoznávat zkreslení a také identifikovat dezinformace ve velmi mladém věku.</p>
+
+<p>Přesně tak. A můžete to začít dělat sami tím, že převezmete odpovědnost za ověřování informací. Webové stránky jako například <strong>All Sides</strong> nabízejí řadu perspektiv mezi porovnáváním levicových pohledů, centrálních pohledů a pravicových pohledů, takže se můžete sami rozhodnout, co je správné. Laterální čtení, kontrola více renomovaných zdrojů by se měla stát vaším zvykem v digitální spotřebě.</p>
+
+<p>Síla v boji proti dezinformacím a politické polarizaci je ve vašich rukou. Požadováním odpovědnosti, upřednostňováním vzdělávání a podporou kritického myšlení můžeme obnovit veřejný diskurz založený na pravdě spíše než na senzacechtivosti. Nyní je čas jednat. Držte spolu. Buďte kritičtí. Protože demokracie závisí na informované společnosti. Záleží na nás všech. Děkuji.</p>
+
+<h2 id="-kritické-zhodnocení">🔍 Kritické zhodnocení</h2>
+
+<p>Přednáška “Digitální věk politického vlivu” nabízí relevantní pohled na to, jak sociální média ovlivňují politický diskurz a společnost. Autorky správně poukazují na klíčové problémy, jako je šíření dezinformací, efekt ozvěny a manipulace s veřejným míněním ze strany vlád a politických stran. Zvláště důležitý je důraz na mediální gramotnost a kritické myšlení jako nástroje pro boj proti těmto negativním vlivům.</p>
+
+<p>Nicméně, přednáška by mohla jít více do hloubky v analýze konkrétních algoritmů a mechanismů, které vedou k šíření dezinformací. Studie od Allcott a Gentzkow (2017) ukázala, že i když falešné zprávy mohou mít vliv, jejich celkový dopad na volby je pravděpodobně menší, než se často tvrdí. [Allcott, H., &amp; Gentzkow, M. (2017). Social media and fake news in the 2016 election. <em>Journal of Economic Perspectives</em>, <em>31</em>(2), 211-236.] Je také důležité zdůraznit, že uživatelé mají tendenci sdílet zprávy, které potvrzují jejich stávající názory, což přispívá k polarizaci. Další výzkum od Vosoughi, Roy a Aral (2018) ukazuje, že falešné zprávy se na Twitteru šíří rychleji a dosahují většího publika než pravdivé zprávy. [Vosoughi, S., Roy, D., &amp; Aral, S. (2018). The spread of true and false news online. <em>Science</em>, <em>359</em>(6380), 1146-1151.]</p>
+
+<p>Autorky správně poukazují na Finsko jako na příklad země, která investuje do mediální gramotnosti. Je však důležité zmínit, že i v zemích s vysokou úrovní mediální gramotnosti existují lidé, kteří podléhají dezinformacím. Klíčové je proto neustálé vzdělávání a podpora kritického myšlení. Vzhledem k nárůstu umělé inteligence a synteticky generovaného obsahu je nutné vyvíjet nástroje a strategie pro rozpoznávání a boj proti deepfakes a jiným formám sofistikovaných dezinformací.</p>
+
+<p><a href="https://www.youtube.com/watch?v=4hcZgOLoNTU">Odkaz na originální video</a></p>]]></content><author><name>Luna Fast &amp; Helin Turhan</name></author><category term="videa" /><category term="manipulace" /><category term="dezinformace" /><category term="politika" /><category term="média" /><category term="socialmedia" /><category term="demokracie" /><summary type="html"><![CDATA[Jak sociální média ovlivňují politické diskuze a polarizují společnost? Přednáška zkoumá, jak algoritmy a dezinformace formují veřejné mínění a ohrožují demokracii. Klíčem k obraně je mediální gramotnost a kritické myšlení.]]></summary></entry><entry><title type="html">Blížíme se k “Kubánské raketové krizi” v kyberprostoru?</title><link href="http://0.0.0.0:4001/videa/2025-08-27/blizime-se-k-kubanske-raketove-krizi-v-kyberprostoru/" rel="alternate" type="text/html" title="Blížíme se k “Kubánské raketové krizi” v kyberprostoru?" /><published>2025-08-27T00:00:00+02:00</published><updated>2025-08-27T00:00:00+02:00</updated><id>http://0.0.0.0:4001/videa/2025-08-27/blizime-se-k-kubanske-raketove-krizi-v-kyberprostoru</id><content type="html" xml:base="http://0.0.0.0:4001/videa/2025-08-27/blizime-se-k-kubanske-raketove-krizi-v-kyberprostoru/"><![CDATA[<h2 id="-souhrn">📊 Souhrn</h2>
+
+<p>Kathleen Kennedy Townsend ve své přednášce zdůrazňuje dvě hlavní hrozby moderní doby: negativní dopad sociálních médií na mladou generaci a rostoucí sofistikovanost kybernetických útoků. Upozorňuje na alarmující statistiky, jako je nárůst případů sebepoškozování a depresí u dívek v souvislosti s používáním sociálních médií, a na obrovské finanční ztráty způsobené kybernetickými útoky, které přesahují HDP velkých ekonomik. Townsend argumentuje, že sociální média se stávají návykovými a škodlivými pro duševní zdraví dětí, podobně jako kdysi tabákové společnosti.</p>
+
+<p>Řešení vidí v legislativních změnách, které by omezily přístup dětí k sociálním médiím, a v posílení kybernetické bezpečnosti státu i soukromých firem. Navrhuje jmenování “kybernetického cara”, který by koordinoval úsilí o ochranu před kybernetickými hrozbami a prosazoval standardy bezpečnosti pro software a digitální produkty. Townsend zdůrazňuje, že je nutné přesunout odpovědnost za bezpečnost od jednotlivců k systémovým opatřením, podobně jako v případě automobilové bezpečnosti, kde se změny v designu a legislativě výrazně snížily počet obětí dopravních nehod. Apeluje na sjednocení a spolupráci při řešení těchto globálních výzev.</p>
+
+<div class="youtube-wrapper">
+  <iframe src="https://www.youtube.com/embed/Ogg_6SSl_pQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+  </iframe>
+</div>
+
+<style>
+.youtube-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+</style>
+
+<h2 id="-přepis">📝 Přepis</h2>
+
+<p>Nechávám nevěřícím rozložit, že olivový těžký těříc nám vytvěději, kde je tím, že se říce cestíli trpické, které cestí se nekonek chodně a tím asi. Fr Jahre Minister per země i dessy. A sangra dělá v tom osoi se s tebe mětě se říkou pro našloho země a dessy.</p>
+
+<p>Když ostatní děti chodily s matkami na hřiště, aby se houpaly a hrály si v písku, moje matka mě brala na slyšení senátního výboru pro potírání zločinu. Můj otec, Robert Kennedy, totiž vyšetřoval mafii. Myslím, že ve čtyřech letech jsem tam seděla a poslouchala mafiány. Neodpovídala jsem otcovým otázkám, místo toho jsem prohlásila, což je myslím moje první celá věta: „Odmítám odpovědět na tuto otázku z důvodu, že by mě mohla usvědčit.“</p>
+
+<p>A nelíbilo se jim, co můj otec dělá. A když jsem byla ve třetí třídě na naší Lady of Victory v Proquial School, kde bylo 45 dětí v jedné třídě se sestrou, mafie vyhrožovala, že mi hodí kyselinu do očí, stejně jako mým bratrům Bobbymu a Joemu. Čtyři měsíce jsme nemohli opustit školu ani náš dům, protože mafie byla venku a snažila se nám vyhrožovat a zastrašovat mého otce.</p>
+
+<p>Ale mého otce nebylo možné zastrašit a dál šel po mafii. Takže jsme se brzy naučili, že pokud se pokusíte udělat něco dobrého a potlačit zlo, budou z toho následky, ale musíte pokračovat v boji. A to jsem se naučila o vnitřním nepříteli, ale byli jsme ohroženi i zvenčí.</p>
+
+<p><strong>Kubánská raketová krize</strong></p>
+
+<p>Jak někteří z vás možná vědí ze studia historie, Sovětský svaz umístil rakety, jaderné rakety na Kubu, což způsobilo Kubánskou raketovou krizi, během které se mnoho Američanů, včetně mého strýce a otce, velmi obávalo, co ty rakety udělají a zda budou vystřeleny na Spojené státy.</p>
+
+<p>Většinu času byl můj otec v Bílém domě a snažil se vyjednávat a zjistit, co dělat. V jednu chvíli přišel domů a v naší rodině jsme se každý večer modlili a odříkávali růženec kolem postele. Přišel do pokoje poté, co jsme se pomodlili růženec, a každému z nás jednotlivě řekl: “Sověti mohou bombardovat Washington DC a my všichni tady můžeme být zničeni. Chce někdo z vás odejít z DC?” Zeptal se každého z nás a všichni jsme řekli ne. Zůstaneme tady s tebou, tati. Věříme, že nám zajistíš mír. A jak víte, to se mu povedlo.</p>
+
+<p><strong>Rodinné hodnoty</strong></p>
+
+<p>Moji rodiče vždy chtěli, abychom byli silní, znali naši historii, znali aktuální události a byli fyzicky zdatní. Takže každý večer u večeře, když jsme seděli kolem jídelního stolu, jsme byli zkoušeni z aktuálních událostí. A moji rodiče si mysleli, že je to tak dobrý nápad, že zkoušeli i řidiče. A můžete vidět, kdykoli moje matka řídila auto, říkali: “Ach ne, paní Kennedyová řídí, co se dnes stalo?” Měli jsme také vědět, co se děje v historii.</p>
+
+<p>Otec nás zkoušel. Na kterém kopci se odehrála bitva u Bunker Hill? Breeds Hill pro ty, kteří to nevěděli. Měli jsme být také fyzicky zdatní. Také jsme hráli touch football, jak jste možná slyšeli. A tady říkám svému otci: “Deset kroků a jdi doprava.”</p>
+
+<p>Věřili jsme a já věřím, že je důležité předávat tyto hodnoty svým dětem a vnoučatům. Takže každé úterý večer říkám “Taco Tuesday” a dělám tacos pro svá vnoučata. Snažím se jim předávat tytéž hodnoty. Jednou večer přišla moje vnučka Gabriella domů s grafem s názvem “Sociální média, nebo sociální krize?”.</p>
+
+<p><strong>Sociální média vs. sociální krize</strong></p>
+
+<p>Můžete vidět, jak ukázala všechny způsoby, jak média zasahují do mozku. Pravděpodobně poznáte tyto ikony, je tam Facebook a všechny ty další způsoby. A co mi opravdu chtěla sdělit, je, že dívky nyní chodí do nemocnice dvakrát častěji než dříve kvůli sebepoškozování. Protože se cítí tak špatně. Popsala, jak se zvýšil počet sebevražd, zvýšila se deprese. Množství poruch příjmu potravy se zvýšilo s tímto množstvím sociálních médií.</p>
+
+<p>A na obrázku můžete vidět malou holčičku, kterou nakreslila, polovina obličeje se dívá na sociální média a usmívá se. A druhá polovina není na sociálních médiích a je smutná. A moje vnučka nakreslila své nápady, co by měla nechat na sociálních médiích, jít ven, hrát si, dělat jiné aktivity. To potřebujeme. A můžete vidět z grafu, že má pravdu a vy všichni to víte.</p>
+
+<p>Co je ale zajímavé, tak jsem to vlastně věděla ještě předtím, než se narodila. Protože jsem četla knihu, výzkumnou knihu profesorky Sherry Turkle z MIT před více než 12 lety. A ona předpověděla, že se to stane. Řekla, že společnosti provozující sociální média si naše děti závislé, stejně jako si tabákové společnosti zvykly naše děti. Způsobí nám to nemoci, poškodí to naše duševní a fyzické zdraví.</p>
+
+<p>Když jsem si tu recenzi přečetla, zavolala jsem svému příteli, který žaloval tabákové společnosti. Řekla jsem: “Měli byste žalovat společnosti provozující sociální média.” A on se mi vysmál. A řekl: “Kathleen, já už jsem se žalováním skončil.” A říkal, že nebude žalovat. A uvědomila jsem si, že žalovat a přijímat zákony můžete jen tehdy, když problém vidí spousta lidí. A před 12 lety spousta lidí neviděla problém se sociálními médii. Ale nyní Jonathan Haidt napsal bestseller a poukázal na to, co se děje. A přišel s některými řešeními ohledně věku, ve kterém někdo může získat sociální média a sledovat je. A někteří lidé s tím nesouhlasí. Jak bychom mohli něco takového udělat? Ale máme věková omezení pro pití, věková omezení pro tabák, věková omezení pro řízení. Všechna tato věková omezení jsou určena k ochraně našich dětí. A myslím si, že bychom měli udělat totéž pro sociální média.</p>
+
+<p><strong>Kybernetické útoky</strong></p>
+
+<p>Nebudu tím ale končit, protože počítačový věk přinesl i jiné druhy útoků. A tyto útoky, vy všichni je znáte. Osobní útoky na vaši identitu, vaše kreditní karty, jak provádíte phishing. To všechno znáte. Ale děje se něco mnohem horšího. A útočí na mnohem větší objekty. A dělají to, protože je to snazší, protože existují velké konglomeráty zločinecké činnosti. A existují velké státní subjekty, které útočí na instituce a naši armádu. A s tím musíme něco udělat, o čemž budu teď mluvit.</p>
+
+<p>Možná jste o tom neslyšeli, a zajímalo by mě, jestli ano. 20 bilionů dolarů je ukradeno všude prostřednictvím kybernetických útoků. 20 bilionů dolarů. A pokud to srovnáte s HDP Číny, HDP Číny je 18 bilionů dolarů. Takže každý rok ztrácíme 20 bilionů dolarů a HDP Číny je 18 bilionů dolarů. A každý podnik, který je napaden kybernetickým útokem, ztrácí přibližně 5 milionů dolarů. Pojďme dál.</p>
+
+<p>Co to znamená pro Spojené státy? Před dvěma lety bylo devět telekomunikačních společností ve Spojených státech pod kybernetickým útokem. Čtyři měsíce nikdo ani nevěděl, že jsou napadeni. To je děsivé. A dostali každou osobu, která byla odposlouchávána ve Spojených státech, a také si uvědomili, kdo odposloucháván nebyl. Většina našich diplomatů byla napadena a zjistila jejich telefonní čísla, jejich internetové adresy. Diplomati a naši vládní úředníci, získali telefonní čísla Donalda Trumpa, JD Vance a Kamaly Harrisové. Tak chytří a inteligentní jsou. A nikdo čtyři měsíce ani nevěděl, že se to děje. A pokud si promluvíte s lidmi ve vládě, stále nevědí, jestli jsou v telekomunikačních systémech chyby.</p>
+
+<p>Jeden příklad. Dostali se do našich námořních systémů v Jihočínském moři, takže jsme nemohli komunikovat s našimi spojenci, když jsme prováděli námořní práce v Jihočínském moři. A 91 % našich nemocnic bylo napadeno. Jedna moje přítelkyně popsala, jak její matka ležela na operačním stole v nemocnici. Odvezli ji pryč, nemocnice byla uzavřena a nevěděli, jaký lék jí mají dát. A nikdo vám to neřekne, protože žádná nemocnice vám nechce říct, že byla napadena, stejně jako žádná společnost. Žádná z těchto telekomunikačních společností vám nechce říct, že byla napadena.</p>
+
+<p>Nyní si o tom můžete přečíst, pokud se do toho opravdu chcete ponořit. Ale většinu času to nikdo z vás neví, protože není v jejich zájmu vám to říkat. A proto nemůžete vyvolat veřejný protest. Musíme změnit naše zákony, musíme změnit to, co se děje, protože o tom nevíte.</p>
+
+<p><strong>Ralph Nader a automobilová bezpečnost</strong></p>
+
+<p>Dovolte mi ale říct, že v naší historii máme způsoby, jak věci změnit. Podívejme se na něco, co bývalo jiné. To je naše rodinné auto. Vidí někdo na tom autě něco špatného? Pravděpodobně nemělo dítě sedící na předním sedadle s takovou autosedačkou, že? A abych řekla pravdu, seděly dříve čtyři děti na předním sedadle. A jak jsem zdůraznila, my jsme byli vždycky v naší rodině opravdu dobří a hodně jsme se hádali na předním sedadle toho auta.</p>
+
+<p>Takže auta se změnila z téhle fotografie dál. A kdo to změnil? Ralph Nader. A Ralph Nader šel dopředu a řekl: “Nebezpečné v jakékoli rychlosti,” a tím změnil celou kulturu. Řekl: “Není to chyba řidiče, je to chyba výrobce.” A když to udělal, GM šla po něm. Poslali ženy, aby ho pokoušely, poslali peníze, drogy, kontrolovali jeho bankovní účty, pokud mohli. A proč nebyli úspěšní? Protože Ralph Nader byl v podstatě mnich.</p>
+
+<p>A Ralph Nader a většina lidí znala někoho, kdo zemřel při autonehodě, a chtěli, aby se auta změnila. A auta se změnila, auta se stala mnohem bezpečnějšími. A přestali jsme obviňovat řidiče za všechno a začali jsme chápat, že se musí změnit systém. Auta se změnila, dálnice se změnily a během následujících dvou desetiletí došlo k 20% poklesu počtu lidí, kteří zemřeli na dálnicích. Takže pokud přestanete obviňovat jednotlivce, to je moje chyba, a začnete obviňovat systém, můžete věci změnit a můžete je učinit bezpečnějšími. A to musíme udělat.</p>
+
+<p><strong>Iniciativa “Secure at the start”</strong></p>
+
+<p>Takže v Evropě loni schválili zákon o tom, aby se něco nazývalo <strong>“secure at the start” (zabezpečení od začátku)</strong>. Když si poprvé koupíte software, měl by být od začátku bezpečný a měl by být bezpečný po dobu následujících pěti let. Pamatujte si, že jsme dříve měli ochranu spotřebitele na auta a na všechno ostatní, co kupujeme. Nemáme stejné myšlení pro software, ale měli bychom ho mít. Můžete říct, že je to také správné. Je to pět let a kde získáváme náš software, měli bychom mít bezpečné dodavatelské řetězce. Měli bychom hlásit narušení, abychom věděli, oh, říkáte, že je to bezpečné? No, proč se to pokazilo? Proč jsem byl dva dny po koupi znovu napaden? Jinými slovy, musíme změnit naše myšlení z “je to moje chyba” na “je to jejich odpovědnost.”</p>
+
+<p>A aby se to stalo, budeme muset, věřím, nejen změnit zákony, myslím si, že bychom měli jmenovat <strong>kybernetického cara</strong>. Nyní byste to mohli nazvat členem vlády, mohli byste vytvořit novou vládu, mohli byste vytvořit část FBI, mohli byste vytvořit, že by každý stát mohl něco udělat. Neříkám, že je to přesná odpověď, ale mohli bychom vést diskuse o tom, co bychom měli udělat, abychom získali nejlepší vědce a technologie, abychom řekli, že musíme vytvářet bezpečnější položky, bezpečnější produkty. Musíme sdílet informace. Musíme, když přijímáme zákony, mít způsob, jak tyto zákony implementovat. Musíme získat lidi, kterým záleží na soukromí, aby spolupracovali s lidmi, kterým záleží na ochraně. To všechno musí fungovat dohromady.</p>
+
+<p><strong>Analogie s domem</strong></p>
+
+<p>Část z toho má co do činění s námi. Protože se nám všem líbí krásné věci. Velké překvapení. Takže se nám líbí domy, které vypadají takto. Velmi krásné, stejně jako naše produkty jsou velmi krásné. Stejně jako my se rádi cítíme krásní. Ale v tomto domě je spousta děr. Stejně jako je spousta děr v produktech, které kupujeme. To znamená, že se do těch děr dostáváme my, stejně jako všichni ostatní. Mladí hackeři, mladí je 12, 13, opravdu špatní herci a opravdu naši nepřátelé v zahraničí.</p>
+
+<p>Takže vám říkám, že je venku spousta lidí, kteří chtějí používat naše krásné, otevřené, skvělé počítače, iPhony a všechno ostatní, aby se dostali do těch nemocničních systémů, do našich námořních systémů, do našich telekomunikačních systémů a zničili nás a ublížili nám. Mohla bych pokračovat a vyprávět vám spoustu nejhorších příběhů, ale naštěstí nebudu.</p>
+
+<p><strong>Závěrečný příběh</strong></p>
+
+<p>Skončím ale jedním příběhem. Když můj strýc Jack zemřel a bylo mi 12 let, můj otec mi napsal tento dopis.</p>
+
+<p>“Milá Kathleen, zdá se, že chápeš, že Jack zemřel a byl dnes pohřben. Jako nejstarší vnučka Kennedyových máš zvláštní odpovědnost. Zvláštní odpovědnost vůči Jackovi a Joemu,” který byl mým strýcem, který zemřel za druhé světové války.</p>
+
+<p>“Buď laskavá, pracuj pro svou zemi, miluj tátu.”</p>
+
+<p>Zamyslete se nad tím, co by se stalo, kdyby se to stalo dnes. Reakce dnes je pomsta, hněv, dostat někoho. Ale on řekl rodina, země a láska. A myslím na tuto skupinu, která si chce navzájem pomáhat a chce spolupracovat a chápe, že se musíme navzájem milovat a naši zemi, abychom se ochránili, nejen já, ale každý z nás proti hrozbám, kterým čelíme. Hodně štěstí.</p>
+
+<h2 id="-kritické-zhodnocení">🔍 Kritické zhodnocení</h2>
+
+<p>Přednáška Kathleen Kennedy Townsendová upozorňuje na dvě klíčové oblasti ohrožení v digitálním věku: dopad sociálních médií na duševní zdraví mládeže a rostoucí hrozbu kybernetických útoků. Její varování rezonuje s narůstajícím počtem studií a zpráv, které potvrzují negativní dopady sociálních médií, zejména na mladé dívky. Například studie publikovaná v časopise “Journal of Abnormal Psychology” zjistila, že nadměrné používání sociálních sítí je spojeno s vyšší mírou deprese a úzkosti u dospívajících (Twenge, J. M., et al. (2018). <em>Journal of Abnormal Psychology, 127</em>(7), 867–882.). Stejně tak zpráva Světové zdravotnické organizace (WHO) z roku 2021 zdůrazňuje, že kyberšikana a online obtěžování významně přispívají k problémům s duševním zdravím u mladých lidí (WHO. (2021). <em>Adolescent mental health</em>).</p>
+
+<p>Co se týče kybernetických útoků, Townsendová správně poukazuje na jejich rostoucí frekvenci a závažnost. Zpráva společnosti Cybersecurity Ventures odhaduje, že celosvětové náklady spojené s kyberkriminalitou dosáhnou do roku 2025 výše 10,5 bilionu dolarů ročně (Morgan, S. (2020). <em>Cybercrime Magazine</em>). Její návrh na jmenování “kybernetického cara” a zavedení standardů bezpečnosti pro software se zdá být rozumným krokem k posílení obrany proti těmto hrozbám. Podobné iniciativy byly zavedeny i v jiných zemích, například ve Velké Británii, kde Národní centrum pro kybernetickou bezpečnost (NCSC) hraje klíčovou roli v koordinaci kybernetické bezpečnosti na národní úrovni (NCSC. <em>About us</em>).</p>
+
+<p>Nicméně, je důležité poznamenat, že řešení těchto komplexních problémů vyžaduje multidisciplinární přístup a zapojení všech zúčastněných stran, včetně vlád, firem, škol a rodičů. Townsendová správně zdůrazňuje potřebu přesunout odpovědnost za bezpečnost od jednotlivců k systémovým opatřením, ale je také důležité podporovat digitální gramotnost a informovanost mezi uživateli internetu, aby se mohli lépe chránit před online hrozbami.</p>
+
+<p><strong>Zdroje:</strong></p>
+<ul>
+  <li>Morgan, S. (2020). <em>Cybercrime Magazine</em>. Cybersecurity Ventures.</li>
+  <li>NCSC. <em>About us</em>. National Cyber Security Centre. <a href="https://www.ncsc.gov.uk/section/about-us/what-we-do">https://www.ncsc.gov.uk/section/about-us/what-we-do</a></li>
+  <li>Twenge, J. M., et al. (2018). <em>Increases in depression, self-harm, and suicide among U.S. adolescents after 2010 and links to increased new media screen time</em>. <em>Journal of Abnormal Psychology, 127</em>(7), 867–882.</li>
+  <li>WHO. (2021). <em>Adolescent mental health</em>. World Health Organization.</li>
+</ul>
+
+<p><a href="https://www.youtube.com/watch?v=Ogg_6SSl_pQ">Odkaz na originální video</a></p>]]></content><author><name>Kathleen Kennedy Townsend</name></author><category term="videa" /><category term="kyberbezpečnost" /><category term="bezpečnost" /><category term="technologie" /><category term="sociálnímédia" /><category term="ohrožení" /><category term="prevence" /><category term="závislost" /><summary type="html"><![CDATA[Kathleen Kennedy Townsend varuje před rostoucími kybernetickými útoky a dopady sociálních médií na duševní zdraví dětí. Navrhuje legislativní změny a jmenování "kybernetického cara" pro posílení ochrany v digitálním věku.]]></summary></entry><entry><title type="html">NEUSTÁLÉ UČENÍ SE S POMOCÍ STROJOVÉHO UČENÍ</title><link href="http://0.0.0.0:4001/videa/2025-08-26/neustale-uceni-se-s-pomoci-strojoveho-uceni/" rel="alternate" type="text/html" title="NEUSTÁLÉ UČENÍ SE S POMOCÍ STROJOVÉHO UČENÍ" /><published>2025-08-26T00:00:00+02:00</published><updated>2025-08-26T00:00:00+02:00</updated><id>http://0.0.0.0:4001/videa/2025-08-26/neustale-uceni-se-s-pomoci-strojoveho-uceni</id><content type="html" xml:base="http://0.0.0.0:4001/videa/2025-08-26/neustale-uceni-se-s-pomoci-strojoveho-uceni/"><![CDATA[<h2 id="-souhrn">📊 Souhrn</h2>
+
+<p>Jaash Mathi ve své přednášce zdůrazňuje důležitost neustálého učení se, zejména v kontextu strojového učení (ML) jako odvětví umělé inteligence (AI). Definuje AI jako technologii, která se snaží napodobit lidskou inteligenci pomocí počítačů, a ML jako klíčovou součást AI, která učí počítače vykonávat specifické úkoly na základě dat bez explicitního programování. Uvádí příklady každodenního využití ML, jako jsou hlasoví asistenti (Alexa, Siri), rozpoznávání hlasu (Google Voice Type) a doporučovací systémy (Netflix), a také pokročilejší aplikace, jako jsou autonomní vozidla.</p>
+
+<p>Mathi dále představuje svou vizi budoucnosti strojového učení, kde vidí jeho potenciál v oblastech jako včasná detekce přírodních katastrof, prevence kriminality (včetně kybernetické kriminality) a optimalizace řízení dopravy. Vysvětluje, jak ML může analyzovat vzorce a predikovat události s větší přesností než současné systémy. Zmiňuje také webovou stránku “Machine Learning for Kids”, která umožňuje dětem a začátečníkům experimentovat s ML a vytvářet vlastní aplikace. Zdůrazňuje, že lidé by se nikdy neměli přestat učit a že investice do ML jsou klíčové pro konkurenceschopnost v digitálním věku.</p>
+
+<div class="youtube-wrapper">
+  <iframe src="https://www.youtube.com/embed/ooyDwaH-E7s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+  </iframe>
+</div>
+
+<style>
+.youtube-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+</style>
+
+<h2 id="-přepis">📝 Přepis</h2>
+
+<p>Dobrý den. Dnes bych chtěl mluvit o tématu Neustálé učení se s pomocí strojového učení, což je odvětví AI. Rád bych zahájil svou prezentaci speciálním citátem od Nicka Bostroma: <strong>“Strojové učení je poslední vynález, který lidé budou muset udělat.”</strong> V této prezentaci budu diskutovat o tom, jak se lidé učí, co je to umělá inteligence, co je to strojové učení a co to není. Dále uvedu několik příkladů z každodenního života, svůj pohled na to, jak by se strojové učení mělo používat v budoucnosti, a představím důležitou a snadno použitelnou webovou stránku pro strojové učení, kde si můžete vytvořit zábavné aplikace. Začněme.</p>
+
+<p><strong>Lidská Realita</strong></p>
+
+<p>Na prvním snímku bych chtěl hovořit o lidské realitě. Naše schopnosti plnit úkoly díky rokům zkušeností jsou součástí toho, že jsme lidé. Jak můžete vidět, starý profesor učí důležité lekce pomocí zkušeností, které získal, když byl studentem se svými učiteli. Když se narodíme, nevíme téměř nic a nemůžeme dělat téměř nic bez vedení jiné osoby. Jak můžete vidět, dítě nemá tušení, co dělat s těmito abecedními kostkami. Ale brzy se učíme a stáváme se každý den schopnějšími plnit úkoly. Jak můžete vidět, ze stejného dítěte se stal dospělý, který úspěšně vypustil celou raketu pomocí raketové vědy. Takto se my lidé učíme.</p>
+
+<p><strong>Co je Umělá Inteligence?</strong></p>
+
+<p>Co je tedy umělá inteligence? <strong>Umělá inteligence je jednoduše technologie, která se snaží simulovat, samozřejmě pomocí počítačů, lidskou inteligenci nebo ji dokonce překonat.</strong></p>
+
+<p><strong>Co je Strojové Učení?</strong></p>
+
+<p>Na druhou stranu, co je strojové učení? Strojové učení je důležitá vnitřní větev stromu AI, jak je znázorněno níže. <strong>Strojové učení si klade za cíl naučit počítač, jak provádět specifické úkoly a poskytovat autentické výsledky identifikací různých vzorců, které provádí na základě dříve kompetentních dat bez nutnosti lidského programování.</strong></p>
+
+<p><strong>Co Není Strojové Učení?</strong></p>
+
+<p>Co není strojové učení? <strong>Strojové učení nezahrnuje jednoduché stroje, robotiku nebo těžké stroje.</strong> Pamatujte, strojové učení má důležitou část: <strong>více dat rovná se větší jistota, rovná se přesné odpovědi.</strong></p>
+
+<p><strong>Příklady z Každodenního Života</strong></p>
+
+<p>Zde jsou některé příklady z každodenního života, jak se strojové učení používá v reálném světě.</p>
+
+<ul>
+  <li><strong>Alexa a Siri:</strong> Myslím, že jste o těchto technologiích slyšeli a používali je ve svém životě. Ano, je pravda, že Alexa a Siri používají strojové učení hlavně k identifikaci vzorců ve vašem hlase, snaží se předvídat, na co se snažíte zeptat, a poskytnout vám přesné odpovědi.</li>
+  <li><strong>Google Voice Type:</strong> Google Voice Type používá strojové učení velmi podobným způsobem jako Alexa a Siri. Google Voice Type se zaměřuje hlavně na vzorce ve vašem hlase a snaží se předvídat, na co se snažíte zeptat, a poskytnout vám přesné výsledky. Vím, že to není vždy 100% přesné, ale věřte mi, učí se to na místě.</li>
+  <li><strong>Netflix Doporučení:</strong> Netflix používá strojové učení tak, že když se díváte na film, uvidíte obrovský svislý pruh s názvem Netflix doporučení. Strojové učení se snaží předvídat, na co byste se mohli chtít podívat dál, pomocí příkladů a vzorců toho, pokud jste sledovali film, televizní pořad, seriál nebo žánr (thriller, horor, drama, komedie, akční, cokoliv). Můžete se tak dostat ke sledování během několika sekund, místo abyste zkoušeli hledat, na co byste se mohli chtít podívat dál.</li>
+  <li><strong>Autonomní Vozidla:</strong> Samořídící auta mohou používat strojové učení k navigaci v provozu a rozpoznávání dopravních signálů. Identifikací těchto vzorců mohou autonomní auta jezdit sama, aniž byste museli sami řídit. To může v konečném důsledku učinit náš život pohodlnějším (např. Tesla nebo BYD).</li>
+</ul>
+
+<p><strong>Jak by se mělo Strojové Učení Používat v Budoucnosti?</strong></p>
+
+<p>Zde je můj pohled na to, jak by se mělo strojové učení používat v budoucnosti:</p>
+
+<ul>
+  <li><strong>Včasná a Přesná Detekce Přírodních Katastrof:</strong> Náš současný systém se skládá ze satelitu, který nám říká, kdy a kde má udeřit přírodní katastrofa. Ale je tu problém, není to přesné a pravděpodobně už je příliš pozdě. Zde lze použít strojové učení. Strojové učení dokáže identifikovat vzorce v těchto přírodních katastrofách a říci nám, kdy, kde, proč, koho a jak nás zasáhnou. Poté mohou být lidé v blízkosti evakuováni a můžeme snížit počet obětí, které se stávají každých pár let.</li>
+  <li><strong>Prevence Kriminality v Kyberprostoru, Loupeže a Vloupání:</strong> Pokud někdo zveřejní urážlivý komentář proti jiné osobě, můžete předvídat, že se stane něco špatného. Strojové učení může dotyčné osobě říct, že se něco špatného stane a varovat ji.</li>
+  <li><strong>Vloupání:</strong> Řekněme, že si myslíte, že je vaše čtvrť bezpečná, ale to je jen váš pohled na věc. Ve skutečnosti dochází pomalu ke krádežím a vloupáním a krádežím aut a jednoho dne vaše auto zmizí. Jak tomu zabráníme? Pomocí strojového učení – strojové učení dokáže přesně identifikovat vzorce v těchto krádežích aut a předvídat, koho to postihne, strojové učení může jít za touto osobou, upozornit ji, a pak si může být vědoma a v bezpečí. To může snížit kriminalitu, ke které dochází každý den.</li>
+  <li><strong>Zlepšení Řízení Dopravních Světel:</strong> Znáte ten pocit, když čekáte v autě na zelenou a kolem projede pár aut, ale pak je silnice prázdná? Musíte jít na důležitou schůzku, ale máte zpoždění a jste naštvaní. Zde lze použít strojové učení. Strojové učení dokáže identifikovat vzorce v těchto autech, přesně říct, kdy a kde budou v danou dobu a den, a pak nastavit správné světlo pro správný čas. V tomto scénáři hraje strojové učení zásadní roli. Může snížit emise plynů a doby volnoběhu těchto aut, které by potenciálně poškodily naši planetu.</li>
+</ul>
+
+<p><strong>Jak Funguje Strojové Učení?</strong></p>
+
+<p>Jak funguje strojové učení? Mé vysvětlení se skládá ze čtyř hlavních komponent:</p>
+
+<ol>
+  <li>Lidský supervizor</li>
+  <li>Builder bot, který staví</li>
+  <li>Teacher bot, který učí</li>
+  <li>Learning bot</li>
+</ol>
+
+<p>Nejprve builder bot sestaví teacher bota pomocí programování lidského supervizora a poté sestaví learning boty pomocí zkušeností, které měl s učením builder bota. Tyto malé skupiny learning botů mohou chodit do školy a nechat se učit od teacher bota a pokusit se absolvovat test. Projdou otázkou číslo jedna, ale ne otázkou číslo dvě. Jsou posláni zpět domů. Builder bot sestaví nového bota, který dokáže projít otázkou číslo jedna a dvě pomocí zkušeností, které měl od teacher bota. Poté tito noví, bezpeční a zajištění learning boty mohou jít do školy, projít otázkou číslo jedna a dvě, ale ne otázkou číslo tři. Cyklus pokračuje dál a dál, dokud není sestaven dokonalý learning bot. Nikdo, ani lidský supervizor, ani builder bot, ani teacher bot, ani dokonce ostatní learning boty, neví, jak je dokonalý robot sestaven. V tom spočívá skutečná krása strojového učení.</p>
+
+<p><strong>Webové Stránky pro Strojové Učení</strong></p>
+
+<p>Důležitým faktorem v mé prezentaci jsou webové stránky pro strojové učení. Tato webová stránka se jmenuje <strong>Machine Learning for Kids</strong>. Můžete na ni jít, vyzkoušet si ji zdarma, můžete ji pojmenovat, můžete zjistit, zda rozpoznává text, obrázky, tvary, barvy atd. Můžete ji uložit do svého webového prohlížeče a je to. Tada! Máte hotový vlastní projekt. Nejprve ji musíte naučit pomocí košů, také známých jako filtry. Můžete je pojmenovat, vložit příklad do každého z nich (minimum pět). Poté přejdete k výzvě číslo dvě, kterou je otestování vašeho projektu. Chcete-li otestovat svůj projekt, můžete vložit kus textu. Řekne vám, zda se jedná o recyklaci, kompost nebo odpadky, a poté vám poskytne míru přesnosti. Jakmile je tato míra asi 90 až 100 %, můžete přejít k další fázi, kterou je sestavení zábavných aplikací. K sestavení své aplikace jsem použil Scratch 3, ale můžete použít Python, Databricks nebo dokonce Scratch. Je to vaše volba. Vložil jsem kód a vytvořil jsem si vlastní bloky, které mi poskytly webové stránky pro strojové učení. Nyní jsem dokončil své kódování a můj projekt je připraven. Nyní vám mohu vysvětlit svůj projekt. Můj projekt se jmenuje Litterless Luncher a funguje tak, že ho zapnete, zeptá se vás, jaký typ materiálu máte v ruce, a poté, co ho zadáte, vám řekne, zda se jedná o recyklaci, odpadky nebo kompost, a poté se vás zeptá, zda to bylo správně nebo špatně. Můžete mu říct odpověď a on se učí na místě. Takže po několika měsících se na něj můžete spolehnout.</p>
+
+<p>Strojové učení mi nejen pomohlo vytvořit ekologicky šetrné webové stránky, ale také mi a mým přátelům pomohlo získat ceny a medaile za naši školu, St. Emily, zpět v Kanadě.</p>
+
+<p>Jak se moje prezentace chýlí ke konci, chtěl bych důrazně shrnout, že by se lidé nikdy neměli přestat učit, stejně jako ti learning boti. Důležitost strojového učení nelze přeceňovat. Přijetí a investice do strojového učení jsou zásadní pro každou organizaci nebo jednotlivce, kteří chtějí zůstat konkurenceschopní a prosperovat v digitálním věku. Stejně jako jsem začal, chtěl bych zakončit svou prezentaci speciálním citátem, který řekla Ginni Rometty, bývalá generální ředitelka IBM: <strong>“AI nenahradí lidi, ale ti, kteří používají AI, nahradí ty, kteří ji nepoužívají.”</strong> Děkuji vám a přeji krásný den.</p>
+
+<h2 id="-kritické-zhodnocení">🔍 Kritické zhodnocení</h2>
+
+<p>Přednáška Jaashe Mathiho poskytuje srozumitelný úvod do strojového učení a jeho potenciálních aplikací. Jeho argumentace o důležitosti neustálého učení a investic do AI je podpořena reálnými příklady a vizí budoucnosti, kde ML hraje klíčovou roli v prevenci katastrof a kriminality. Zmínka o “Machine Learning for Kids” je cenná pro podporu vzdělávání v oblasti AI u mladší generace.</p>
+
+<p>Nicméně, některé z jeho vizí, jako například predikce kriminality pomocí ML, mohou vyvolávat etické otázky týkající se soukromí a diskriminace. Důležité je si uvědomit, že implementace ML v těchto oblastech vyžaduje pečlivé zvážení a regulaci.</p>
+
+<p>Studie z MIT (Massachusetts Institute of Technology) zdůrazňuje, že i když má ML obrovský potenciál, jeho efektivita a spolehlivost závisí na kvalitě a reprezentativnosti dat, na kterých je trénován (Dhar, 2020). Jiné výzkumy poukazují na to, že ML modely mohou být náchylné k biasům a neúmyslným diskriminačním praktikám, pokud nejsou data pečlivě vybrána a zpracována (O’Neil, 2016).</p>
+
+<p><strong>Zdroje:</strong></p>
+
+<ul>
+  <li>Dhar, V. (2020). Artificial Intelligence in Society: Challenges and Opportunities. <em>MIT Sloan Management Review</em>, <em>61</em>(4), 1-10.</li>
+  <li>O’Neil, C. (2016). <em>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</em>. Crown.</li>
+</ul>
+
+<p><a href="https://www.youtube.com/watch?v=ooyDwaH-E7s">Odkaz na originální video</a></p>]]></content><author><name>Jaash Mathi</name></author><category term="videa" /><category term="strojovéučení" /><category term="ai" /><category term="technologie" /><category term="vzdělávání" /><category term="budoucnost" /><category term="inovace" /><summary type="html"><![CDATA[Jaash Mathi zkoumá budoucnost strojového učení a jeho potenciál v oblastech, jako je prevence katastrof a kriminality. Představuje praktické využití a inspiruje k neustálému učení a investicím do AI.]]></summary></entry><entry><title type="html">Pozadí a historie EU Chat Control</title><link href="http://0.0.0.0:4001/udalosti/eu/2024-08-30/eu-chat-control/" rel="alternate" type="text/html" title="Pozadí a historie EU Chat Control" /><published>2024-08-30T11:00:00+02:00</published><updated>2024-08-30T11:00:00+02:00</updated><id>http://0.0.0.0:4001/udalosti/eu/2024-08-30/eu-chat-control</id><content type="html" xml:base="http://0.0.0.0:4001/udalosti/eu/2024-08-30/eu-chat-control/"><![CDATA[<p>Kolem nařízení EU nazývané Chat Control se v poslední době rozproudila větší debata, než na jaké jsme u nařízení EU v Česku zvyklí. Pro lepší přehled a pochopení vám Institut Pi přináší základní přehled toho, proč a kdy a jakým způsobem toto nařízen vznikalo a jaké je jeho technologické pozadí.</p>
 
 <p>Nejdříve si ve stručnosti vysvětleme, o co v případě EU Chat Control jde. Toto nařízení jde po krku šiřitelům dětské pornografie, takže “jestli to není vaše hobby/živnost, nemusíte se teoreticky bát”. To je nejčastější politická obhajoba podobných ustanovení: kdo nedělá nic špatného, nemusí se bát. Bohužel v tomto případě musí.</p>
 
@@ -420,7 +751,7 @@ Pokud se nepodaří dohodnout Chat Control 2.0, může nastat  <strong>další p
   <li><strong>ID:</strong>  1 Pro, 1 Proti (SPD)</li>
   <li><strong>The Left:</strong>  1 Proti (KSČM)</li>
   <li><strong>Greens/EFA:</strong>  3 Proti (Piráti)</li>
-</ul>]]></content><author><name>Patrick Zandl</name></author><category term="EU" /><category term="digitalizace" /><category term="e-government" /><category term="technologie" /><summary type="html"><![CDATA[Názory na nařízení Chat Control cloumají Českem. Jak toto nařízení vzniklo, kdo za ním stál a především, proč vzniklo a co způsobí?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/assets/obrazky/ivan_bartos.jpg" /><media:content medium="image" url="http://0.0.0.0:4000/assets/obrazky/ivan_bartos.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Nový systém odhalí korupci ve veřejných zakázkách</title><link href="http://0.0.0.0:4000/nazory/transparentnost/2024-01-14/transparentnost-verejne-zakazky/" rel="alternate" type="text/html" title="Nový systém odhalí korupci ve veřejných zakázkách" /><published>2024-01-14T14:30:00+01:00</published><updated>2024-01-14T14:30:00+01:00</updated><id>http://0.0.0.0:4000/nazory/transparentnost/2024-01-14/transparentnost-verejne-zakazky</id><content type="html" xml:base="http://0.0.0.0:4000/nazory/transparentnost/2024-01-14/transparentnost-verejne-zakazky/"><![CDATA[<p>Ministerstvo pro místní rozvoj představilo inovativní systém založený na umělé inteligenci, který má pomoci v boji proti korupci při zadávání veřejných zakázek. Tento převratný nástroj dokáže analyzovat tisíce zakázek současně a identifikovat podezřelé vzorce.</p>
+</ul>]]></content><author><name>Patrick Zandl</name></author><category term="EU" /><category term="digitalizace" /><category term="e-government" /><category term="technologie" /><summary type="html"><![CDATA[Názory na nařízení Chat Control cloumají Českem. Jak toto nařízení vzniklo, kdo za ním stál a především, proč vzniklo a co způsobí?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4001/assets/obrazky/eu-chat-control.jpg" /><media:content medium="image" url="http://0.0.0.0:4001/assets/obrazky/eu-chat-control.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Nový systém odhalí korupci ve veřejných zakázkách</title><link href="http://0.0.0.0:4001/nazory/transparentnost/2024-01-14/transparentnost-verejne-zakazky/" rel="alternate" type="text/html" title="Nový systém odhalí korupci ve veřejných zakázkách" /><published>2024-01-14T14:30:00+01:00</published><updated>2024-01-14T14:30:00+01:00</updated><id>http://0.0.0.0:4001/nazory/transparentnost/2024-01-14/transparentnost-verejne-zakazky</id><content type="html" xml:base="http://0.0.0.0:4001/nazory/transparentnost/2024-01-14/transparentnost-verejne-zakazky/"><![CDATA[<p>Ministerstvo pro místní rozvoj představilo inovativní systém založený na umělé inteligenci, který má pomoci v boji proti korupci při zadávání veřejných zakázek. Tento převratný nástroj dokáže analyzovat tisíce zakázek současně a identifikovat podezřelé vzorce.</p>
 
 <h2 id="jak-systém-funguje">Jak systém funguje</h2>
 
@@ -474,7 +805,7 @@ Pokud se nepodaří dohodnout Chat Control 2.0, může nastat  <strong>další p
   <li><strong>Falešné poplachy</strong>: méně než 3%</li>
 </ul>
 
-<p>Implementace podobných systémů je plánována také na Slovensku a v Polsku v rámci regionální spolupráce V4.</p>]]></content><author><name>Pavel Novák</name></author><category term="Transparentnost" /><category term="transparentnost" /><category term="AI" /><category term="korupce" /><category term="veřejné-zakázky" /><summary type="html"><![CDATA[Revoluční AI systém dokáže identifikovat podezřelé vzorce v zadávání veřejných zakázek a upozornit na možnou korupci.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/800/450?random=2" /><media:content medium="image" url="https://picsum.photos/800/450?random=2" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GitHub Česká republika: Vláda otevírá zdrojové kódy</title><link href="http://0.0.0.0:4000/analyzy/open%20source/2024-01-13/open-source-vlada/" rel="alternate" type="text/html" title="GitHub Česká republika: Vláda otevírá zdrojové kódy" /><published>2024-01-13T16:45:00+01:00</published><updated>2024-01-13T16:45:00+01:00</updated><id>http://0.0.0.0:4000/analyzy/open%20source/2024-01-13/open-source-vlada</id><content type="html" xml:base="http://0.0.0.0:4000/analyzy/open%20source/2024-01-13/open-source-vlada/"><![CDATA[<p>V historicky bezprecedentním kroku se česká vláda rozhodla zpřístupnit zdrojové kódy všech svých digitálních systémů veřejnosti. Projekt s názvem “Open Government Code” startuje již tento měsíc a představuje největší open source iniciativu ve veřejném sektoru v Evropě.</p>
+<p>Implementace podobných systémů je plánována také na Slovensku a v Polsku v rámci regionální spolupráce V4.</p>]]></content><author><name>Pavel Novák</name></author><category term="Transparentnost" /><category term="transparentnost" /><category term="AI" /><category term="korupce" /><category term="veřejné-zakázky" /><summary type="html"><![CDATA[Revoluční AI systém dokáže identifikovat podezřelé vzorce v zadávání veřejných zakázek a upozornit na možnou korupci.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/800/450?random=2" /><media:content medium="image" url="https://picsum.photos/800/450?random=2" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GitHub Česká republika: Vláda otevírá zdrojové kódy</title><link href="http://0.0.0.0:4001/analyzy/open%20source/2024-01-13/open-source-vlada/" rel="alternate" type="text/html" title="GitHub Česká republika: Vláda otevírá zdrojové kódy" /><published>2024-01-13T16:45:00+01:00</published><updated>2024-01-13T16:45:00+01:00</updated><id>http://0.0.0.0:4001/analyzy/open%20source/2024-01-13/open-source-vlada</id><content type="html" xml:base="http://0.0.0.0:4001/analyzy/open%20source/2024-01-13/open-source-vlada/"><![CDATA[<p>V historicky bezprecedentním kroku se česká vláda rozhodla zpřístupnit zdrojové kódy všech svých digitálních systémů veřejnosti. Projekt s názvem “Open Government Code” startuje již tento měsíc a představuje největší open source iniciativu ve veřejném sektoru v Evropě.</p>
 
 <h2 id="motivace-za-rozhodnutím">Motivace za rozhodnutím</h2>
 
@@ -637,7 +968,7 @@ Pokud se nepodaří dohodnout Chat Control 2.0, může nastat  <strong>další p
   <li>Diskutuj s maintainery</li>
 </ol>
 
-<p><em>Tento článek bude průběžně aktualizován podle vývoje projektu.</em></p>]]></content><author><name>Mgr. Anna Svobodová</name></author><category term="Open Source" /><category term="open-source" /><category term="github" /><category term="transparentnost" /><category term="vývojář" /><summary type="html"><![CDATA[Česká vláda spouští největší open source projekt v Evropě. Všechny státní aplikace a systémy budou mít otevřený zdrojový kód.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/800/450?random=3" /><media:content medium="image" url="https://picsum.photos/800/450?random=3" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Průvodce českým indie gaming světem 2024</title><link href="http://0.0.0.0:4000/kultura/gaming/2024-01-12/digitalni-kultura-cesko/" rel="alternate" type="text/html" title="Průvodce českým indie gaming světem 2024" /><published>2024-01-12T12:00:00+01:00</published><updated>2024-01-12T12:00:00+01:00</updated><id>http://0.0.0.0:4000/kultura/gaming/2024-01-12/digitalni-kultura-cesko</id><content type="html" xml:base="http://0.0.0.0:4000/kultura/gaming/2024-01-12/digitalni-kultura-cesko/"><![CDATA[<p>Český gaming průmysl zažívá zlatou éru nezávislého vývoje. V roce 2024 se na světovou scénu dostaly desítky českých indie her, které zaujaly hráče po celém světě svou originalitou, technickou kvalitou a jedinečným přístupem k hernímu designu.</p>
+<p><em>Tento článek bude průběžně aktualizován podle vývoje projektu.</em></p>]]></content><author><name>Mgr. Anna Svobodová</name></author><category term="Open Source" /><category term="open-source" /><category term="github" /><category term="transparentnost" /><category term="vývojář" /><summary type="html"><![CDATA[Česká vláda spouští největší open source projekt v Evropě. Všechny státní aplikace a systémy budou mít otevřený zdrojový kód.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/800/450?random=3" /><media:content medium="image" url="https://picsum.photos/800/450?random=3" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Průvodce českým indie gaming světem 2024</title><link href="http://0.0.0.0:4001/kultura/gaming/2024-01-12/digitalni-kultura-cesko/" rel="alternate" type="text/html" title="Průvodce českým indie gaming světem 2024" /><published>2024-01-12T12:00:00+01:00</published><updated>2024-01-12T12:00:00+01:00</updated><id>http://0.0.0.0:4001/kultura/gaming/2024-01-12/digitalni-kultura-cesko</id><content type="html" xml:base="http://0.0.0.0:4001/kultura/gaming/2024-01-12/digitalni-kultura-cesko/"><![CDATA[<p>Český gaming průmysl zažívá zlatou éru nezávislého vývoje. V roce 2024 se na světovou scénu dostaly desítky českých indie her, které zaujaly hráče po celém světě svou originalitou, technickou kvalitou a jedinečným přístupem k hernímu designu.</p>
 
 <h2 id="nejúspěšnější-české-indie-hry-roku-2024">Nejúspěšnější české indie hry roku 2024</h2>
 
