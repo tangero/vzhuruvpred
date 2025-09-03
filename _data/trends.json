@@ -1,18 +1,28 @@
 {
-  "updated": "2025-09-03T01:13:53.417300",
+  "updated": "2025-09-03T03:25:21.912126",
   "trends": [
     {
       "rank": 1,
-      "query": "alcaraz",
-      "news_title": "Alcaraz vs Lehecka: horario y dónde ver por TV el partido de cuartos de final del US Open",
-      "news_url": "https://www.elconfidencial.com/deportes/tenis/2025-09-02/alcaraz-lehecka-horario-donde-ver-tv-cuartos-final-us-open-2025_4200135/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1BXCGTuU_QgQ8ugenq1JwK9BIqj_RBNR0PzQxRa9O_WRIZJurNifs9v7GT0s",
+      "query": "jiří havelka",
+      "news_title": "Režisér Havelka prozradil: Jak to bylo s Terezou Ramba?",
+      "news_url": "https://www.ahaonline.cz/clanek/zhave-drby/227302/reziser-havelka-prozradil-jak-to-bylo-s-terezou-ramba.html",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIrdLRxHq231fOE7nHHP1RLy6rAUKA9dO2otshx45wi1gNp1LzeTbFdgz4Lv4",
       "traffic": "500++ hledání",
-      "source": "El Confidencial",
-      "explore_url": "https://trends.google.cz/trends/explore?q=alcaraz&geo=CZ"
+      "source": "Ahaonline",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jiří havelka&geo=CZ"
     },
     {
       "rank": 2,
+      "query": "alcaraz",
+      "news_title": "Alcaraz, tras los pasos de Borg y Nadal: tercer tenista más joven en alcanzar su novena semifinal de Grand Slam",
+      "news_url": "https://www.puntodebreak.com/2025/09/02/alcaraz-pasos-borg-nadal-tercer-tenista-mas-joven-alcanzar-novena-semifinal-grand-slam",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRtNac1kM0RojjgFnHk3EiBpu72xnn3v35mThaGAZoPLYj_lPhYcyjezgdQ4",
+      "traffic": "500++ hledání",
+      "source": "Punto de Break",
+      "explore_url": "https://trends.google.cz/trends/explore?q=alcaraz&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "viktor janukovyč",
       "news_title": "viktor janukovyč",
       "news_url": "https://www.google.com/search?q=viktor janukovyč&tbm=nws",
@@ -22,7 +32,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=viktor janukovyč&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "query": "erik prekop",
       "news_title": "Slavia přivedla vytouženou posilu do útoku. Získala oporu Baníku",
       "news_url": "https://www.sport.cz/clanek/fotbal-ceska-1-liga-slavia-by-mela-privest-vytouzenou-posilu-do-utoku-5285133",
@@ -32,7 +42,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=erik prekop&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "query": "lehecka",
       "news_title": "2025 U.S. Open quarterfinals: How to watch the tennis tournament today without cable, full schedule, seeds and more",
       "news_url": "https://sports.yahoo.com/tennis/article/2025-us-open-quarterfinals-how-to-watch-the-tennis-tournament-today-without-cable-full-schedule-seeds-and-more-175416690.html",
@@ -42,7 +52,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=lehecka&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "lehečka",
       "news_title": "TENIS ONLINE: Lehečka s Alcarazem ve čtvrtfinále US Open",
       "news_url": "https://www.sport.cz/clanek/tenis-us-open-2025-ctvrtfinale-lehecka-alcaraz-online-5284835",
@@ -52,24 +62,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=lehečka&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "pegula",
-      "news_title": "'Never thought I'd be good at this' - Pegula reaches semis",
-      "news_url": "https://www.bbc.com/sport/tennis/articles/cm2k24x124vo",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOAxtOS0RDF_sy58AxhqVHfZjUV2Q8wE2qz6dfsafxGBv1xuhL_rLPJgQxXE",
-      "traffic": "200++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=pegula&geo=CZ"
-    },
-    {
       "rank": 7,
-      "query": "charlotte arnould",
-      "news_title": "Affaire Gérard Depardieu : l'acteur est renvoyé devant la cour criminelle de Paris pour viols sur la comédienne Charlotte Arnould",
-      "news_url": "https://www.franceinfo.fr/culture/cinema/depardieu/info-franceinfo-affaire-gerard-depardieu-l-acteur-est-renvoye-devant-la-cour-criminelle-de-paris-pour-viols-sur-la-comedienne-charlotte-arnould_7468672.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCzIn3q5NFJ4yqouzzk9Q1a-pyJh9Oe5_bzIvNG-JeybzaPtKnyDly7uTB7Q0",
+      "query": "pegula",
+      "news_title": "Jessica Pegula’s long-awaited shot at US Open ‘revenge’ is here",
+      "news_url": "https://nypost.com/2025/09/02/sports/jessica-pegulas-long-awaited-shot-at-us-open-revenge-is-here/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFRH8nZA-Znq5npPfbn72-C3MCFk4GZWZ_UJSaQCb7PsQDTIMdxHdojSBkCYg",
       "traffic": "200++ hledání",
-      "source": "France Info",
-      "explore_url": "https://trends.google.cz/trends/explore?q=charlotte arnould&geo=CZ"
+      "source": "New York Post",
+      "explore_url": "https://trends.google.cz/trends/explore?q=pegula&geo=CZ"
     },
     {
       "rank": 8,
