@@ -1,32 +1,98 @@
 {
-  "last_updated": "2025-09-03T14:18:09",
+  "last_updated": "2025-09-03T15:19:07",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dow Jones klesá o 250 bodů kvůli celním obavám a rostoucím výnosům dluhopisů: Živé aktualizace",
+      "title": "Murkowská kritizuje návrh Bílého domu na zrušení rozpočtových prostředků",
+      "original_title": "Murkowski slams White House pocket rescission proposal - Politico",
+      "url": "https://www.politico.com/live-updates/2025/09/02/congress/murkowski-slams-white-house-pocket-rescission-proposal-00539956",
+      "urlToImage": "https://www.politico.com/dims4/default/cbfc759/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F05%2Fbd%2Fd4bfe39642cba7da654c6261933f%2Fu-s-congress-76153.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-02T16:18:09Z",
+      "description": "Aljašský republikán sám změnil původní žádost Bílého domu o vrácení peněz."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Mapy ukazují, jak může změna hranic volebních obvodů v Texasu a Kalifornii ovlivnit křesla v Kongresu",
+      "original_title": "Maps show how Texas and California's redistricting could affect congressional seats - CBS News",
+      "url": "https://www.cbsnews.com/news/texas-californias-redistricting-maps/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/31/5c48b38a-70ab-40e2-aaee-15ac7e6bbc55/thumbnail/1200x630/96cda73af9fa342f631b1212b0e4da4c/newsom-abbot.png",
+      "source": "CBS News",
+      "publishedAt": "2025-09-02T14:38:19Z",
+      "description": "Podívejte se na mapy, jak by se mohl prosadit tlak Texasu a Kalifornie na základě výsledků voleb v roce 2024."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Muž obviněný z vraždy po střelbě v Houstonu při vtípku se zaklepáním na dveře, při které zemřel 11letý chlapec",
+      "original_title": "Man charged with murder in Houston door-knock prank shooting of 11-year-old boy - ABC News",
+      "url": "https://abcnews.go.com/US/man-charged-murder-houston-ding-dong-ditch-shooting/story?id\\\\u003d125177715",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-02T14:26:15Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Chloë Grace Moretz a Kate Harrison se vdaly",
+      "original_title": "Chloë Grace Moretz and Kate Harrison are married - The Seattle Times",
+      "url": "https://www.seattletimes.com/entertainment/chloe-grace-moretz-and-kate-harrison-are-married/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/urnpublicidap.orgcb861fe9c5b14fb3621bf950b9bd9f9cPeople-Chloe_Grace_Moretz_Wedding_81011.jpg?d=1200x630",
+      "source": "The Seattle Times",
+      "publishedAt": "2025-09-02T14:20:39Z",
+      "description": "Herečka Chloë Grace Moretz a modelka Kate Harrison se vdaly. Dvojice si řekla ano během soukromého obřadu o svátku práce na neznámém místě."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dow Jones klesá o 250 bodů kvůli obavám z cel a rostoucím výnosům dluhopisů: Živě",
       "original_title": "Dow falls 250 points to kick off September on tariff worries, rising bond yields: Live updates - CNBC",
       "url": "https://www.cnbc.com/2025/09/01/stock-market-today-live-updates.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108131509-1744642943126-gettyimages-2209682815-ag_nyse_02.jpeg?v=1756819988&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-09-02T14:03:00Z",
-      "description": "Wall Street zvažuje rozhodnutí odvolacího soudu, který v pátek určil většinu celosvětových cel Donalda Trumpa za nezákonná"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Soudce: Nasazení armády v Los Angeles za Trumpa bylo nezákonné",
-      "original_title": "Judge says Trump administration’s use of US military in Los Angeles violated federal law - CNN",
-      "url": "https://www.cnn.com/2025/09/02/politics/national-guard-california-trump-posse-comitatus-act-breyer",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap25220770215156.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-02T13:22:00Z",
-      "description": "Federální soudce v úterý rozhodl, že prezident Donald Trump a ministr obrany Pete Hegseth porušili federální zákon tím, že letos v létě použili americkou armádu k provádění donucovacích činností v ..."
+      "description": "Wall Street zvažuje rozhodnutí odvolacího soudu, který v pátek označil většinu celních tarifů Donalda Trumpa za nelegální"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vědci objevili Alzheimer ve svých genech. A tohle podnikli dál: Zdravotní zprávy",
+      "title": "Soudce rozhodl, že Trump nezákonně nasadil Národní gardu v Los Angeles",
+      "original_title": "Judge rules Trump illegally deployed National Guard to L.A. - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/judge-rules-trump-illegally-deployed-national-guard-l-rcna224779",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250813-california-national-guard-ch-1232-52aa67.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-02T13:52:00Z",
+      "description": "Kalifornský federální soudce v úterý rozhodl, že Trumpova administrativa porušila zákon z 19. století, když v červnu vyslala do Los Angeles 4000 příslušníků Národní gardy a 700 mariňáků."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump po dnech spekulací o zdraví naznačuje „oznámení“",
+      "original_title": "Trump Teases ‘Announcement’ After Days of Health Speculation - The Daily Beast",
+      "url": "https://www.thedailybeast.com/trump-trails-announcement-after-days-of-health-speculation/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/H2JQJJNIVJBRPKSJYH63QIUKXY.jpg?smart=true&auth=d741f1ca039ae4b7a2bea2d1ddc412e3322985194212b3e58669f21ea40722e3&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2025-09-02T13:36:00Z",
+      "description": "Online komentáře jsou plné záhadného mediálního hovoru."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Hvězda 'House of Cards' Robin Wright odhaluje 'sračkový' důvod, proč opouští USA",
+      "original_title": "'House Of Cards' Star Robin Wright Reveals 'S**tshow' Reason She's Leaving The U.S. - HuffPost",
+      "url": "https://www.huffpost.com/entry/robin-wright-leaving-us-england_n_68b6be4de4b081a4d93bbf3e",
+      "urlToImage": "https://img.huffingtonpost.com/asset/68b6e704180000a51e8c6f10.jpeg?cache=BJg5OZAeDQ&ops=500_281%2Cscalefit_1200_630",
+      "source": "HuffPost",
+      "publishedAt": "2025-09-02T13:29:02Z",
+      "description": "Oceněná herečka řekla, že v jejím novém domově je \"svoboda být sám sebou\", kde lidé skutečně \"žijí\"."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tyto vědce našli Alzheimerovu chorobu ve svých genech. A tohle udělali dál: Shots - Health News",
       "original_title": "These scientists found Alzheimer’s in their genes. Here’s what they did next : Shots - Health News - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/02/nx-s1-5522371/alzheimers-risk-apoe4-genes-scientists-treatment-advocacy",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5557x3126+0+290/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F0f%2F2fbb4cdd4a9e92c51da2785ec4a7%2Fgettyimages-2183022841.jpg",
@@ -48,18 +114,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Herec z filmu Tanec s vlky Graham Greene zemřel ve věku 73 let",
-      "original_title": "'Dances with Wolves' actor Graham Greene dies at 73 - NBC News",
-      "url": "https://www.nbcnews.com/pop-culture/celebrity/dances-wolves-actor-graham-greene-dies-73-rcna228489",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250902-graham-greene-dances-with-wolves-mb-1224-2c1593.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-02T11:59:44Z",
-      "description": "Graham Greene, herec nominovaný na Oscara za film Tanec s vlky, zemřel v pondělí"
+      "title": "Dolby Vision 2 jde za HDR díky většímu využití AI a vyhlazování „autentického pohybu“",
+      "original_title": "Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing - The Verge",
+      "url": "https://www.theverge.com/news/768842/dolby-vision-2-launch-content-intelligence-tone-mapping",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/dolby-vision-2.png?quality=90&strip=all&crop=11.95454479703%2C10.241010398487%2C85.432527797395%2C79.517979203025&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-02T12:30:00Z",
+      "description": "Společnost Dolby oznámila Dolby Vision 2, který nabízí novou funkci „Content Intelligence“ pro optimalizaci televize na základě toho, co sledujete a kde to sledujete."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Průzkum tvrdí, že mnoho majitelů iPhonu letos kvůli skládacímu telefonu přejde na Android",
+      "title": "Průzkum tvrdí, že mnoho majitelů iPhonů letos přejde na Android kvůli skládacímu telefonu",
       "original_title": "Survey claims many iPhone owners will switch to Android for a foldable this year - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/02/survey-claims-many-iphone-owners-will-switch-to-android-for-a-foldable-this-year/",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/2025-folding-phones.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -76,7 +142,7 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4860x2734+0+265/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F3a%2F67dba5a344e0b7708210fc3eaacc%2Fap19050561576530.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-02T11:26:42Z",
-      "description": "Jeden z největších potravinářských brandů světa se rozpadá deset let po problematické megafúzi zinscenované Warrenem Buffettem."
+      "description": "Jeden z největších světových potravinářských gigantů se rozpadá deset let po chaotické megafúzi zinscenované Warrenem Buffettem."
     },
     {
       "flag": "🌍",
@@ -92,57 +158,13 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "USA se proměňují v autokracii ve stylu 30. let, říká miliardář Ray Dalio",
-      "original_title": "The US is transforming into a 1930s-style autocracy, says billionaire Ray Dalio - CNN",
-      "url": "https://www.cnn.com/2025/09/02/business/trump-us-autocracy-ray-dalio-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2211650156.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-02T10:59:00Z",
-      "description": "Spojené státy sklouzávají k autokratické politice ve stylu 30. let, varoval miliardář Ray Dalio."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Živé zpravodajství z Trumpovy administrativy: Podle Bílého domu Trump pronese prohlášení v Oválné pracovně",
-      "original_title": "Trump admin live updates: Trump to make Oval Office announcement, White House says - ABC News",
-      "url": "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id\\\\u003d125150863",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-02T10:33:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nahlášeno trestní oznámení po smrti dítěte v Houstonu při hře na schovávanou se zvoněním",
-      "original_title": "Charges filed after Houston child killed playing ding dong ditch - KHOU",
-      "url": "https://www.khou.com/article/news/crime/ding-dong-ditch-shooting-houston-texas-murder-charge/285-f3d7b4ea-0d55-4e95-9904-94fa9a852fe1",
-      "urlToImage": "https://media.khou.com/assets/KHOU/images/625e4850-9b40-4e39-9626-57677e107043/20250902T103115/625e4850-9b40-4e39-9626-57677e107043_1140x641.jpg",
-      "source": "KHOU.com",
-      "publishedAt": "2025-09-02T10:33:00Z",
-      "description": "Veselice v sousedství skončila tragédií. Nyní byly podány obvinění."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Sloupek | Co se Sanjay Gupta naučil po letech zkoumání chronické bolesti a mozku",
+      "title": "Komentář | Co se Sanjay Gupta za roky studia chronické bolesti a mozku naučil",
       "original_title": "Column | What Sanjay Gupta learned after years studying chronic pain and the brain - The Washington Post",
       "url": "https://www.washingtonpost.com/wellness/2025/09/02/sanjay-gupta-pain-relief/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HBSHBVI65FE3G3QHSV2PDNPCM.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-02T10:01:58Z",
-      "description": "V knize Sanjaye Gupty „Nemusí to bolet“ neurochirurg a medicínský reportér zkoumá nejnovější vědecké poznatky o úlevě od chronické bolesti."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kongres se vrací z přestávky, hrozí uzavření vlády, Epsteinovy dokumenty dominují Sněmovně",
-      "original_title": "Congress returns from recess as government shutdown deadline looms, Epstein files dominate the House - ABC News",
-      "url": "https://abcnews.go.com/Politics/congress-returns-recess-government-shutdown-deadline-looms-epstein/story?id\\\\u003d125159018",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-02T09:22:30Z",
-      "description": ""
+      "description": "V knize Sanjaye Gupty „Nemusí to bolet“ neurochirurg a medicínský žurnalista zkoumá nejnovější vědecké poznatky o zmírňování chronické bolesti."
     },
     {
       "flag": "🌍",
@@ -153,106 +175,73 @@
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/Samsung-Exynos-SoC-with-AMD-GPU.jpg",
       "source": "Wccftech",
       "publishedAt": "2025-09-02T09:12:00Z",
-      "description": "Největší překážkou masové výroby Exynosu 2600 byly nízké výtěžky Samsungu u 2nm procesu, nejnovější zprávy však naznačují, že společnost tyto problémy možná vyřešila"
+      "description": "Největší překážkou masové výroby Exynosu 2600 byla nízká výtěžnost Samsungova 2nm procesu, nejnovější zpráva však naznačuje, že společnost tyto problémy možná vyřešila"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nový katalyzátor by mohl umožnit recyklaci směsného plastu",
-      "original_title": "New catalyst could make mixed plastic recycling a reality - Phys.org",
-      "url": "https://phys.org/news/2025-09-catalyst-plastic-recycling-reality.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/plastic.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-02T09:00:04Z",
-      "description": "Budoucnost recyklace plastů se možná brzy výrazně zjednoduší. Chemici představili nový proces, který může drasticky omezit či zcela obejít pracné třídění."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Dlouholetý demokratický kongresman Jerry Nadler odchází do důchodu",
-      "original_title": "Longtime Democratic Rep. Jerry Nadler to retire from Congress - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/01/jerry-nadler-retire-congress/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5YVHUVK35AZFNSBVRTLVC6KZU.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-02T08:15:21Z",
-      "description": "Nadler, který New York zastupuje více než tři desetiletí, se podle informací zdroje obeznámeného s touto záležitostí nebude ucházet o znovuzvolení v příštích poločasných volbách."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Obrovský písečný ‚slimák‘ se plazí kazašskou nivou, ale brzy může ztuhnout na místě. Pohled na Zemi z vesmíru",
+      "title": "Obrovský písečný ‚slimák‘ se plazí kazašskou nivou, ale brzy může ztuhnout na místě — pohled na Zemi z vesmíru",
       "original_title": "Giant sandy 'slug' crawls through floodplains in Kazakhstan, but it could soon be frozen in place — Earth from space - Live Science",
       "url": "https://www.livescience.com/planet-earth/geology/giant-sandy-slug-crawls-through-floodplains-in-kazakhstan-but-it-could-soon-be-frozen-in-place-earth-from-space",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bh6CJAnh9t4EFKdeoqE5Yn.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-02T07:00:00Z",
-      "description": "Snímek astronauta z roku 2022 ukazuje zvláštní dunové pole ve tvaru hlemýždě v srdci Kazašské stepi. Známky vegetace mezi pískem naznačují, že tyto duny jsou procesem fixovány na místě."
+      "description": "Snímek astronauta z roku 2022 ukazuje zvláštní, hlemýždě tvarované písečné pole v srdci Kazašské stepi. Známky vegetace mezi pískem naznačují, že se tyto duny fixují na místě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jackpot Powerball dosáhl 1,3 miliardy dolarů po losování bez výherce",
-      "original_title": "Powerball jackpot reaches $1.3 billion after Labor Day drawing sees no winner - ABC News",
-      "url": "https://abcnews.go.com/US/powerball-jackpot-reaches-11-billion-labor-day-drawing/story?id\\\\u003d125155756",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-02T05:15:00Z",
-      "description": ""
+      "title": "Sledujte online, jak se 3. září v blízkosti Země v úrovni vzdálenosti Měsíce přehnal asteroid velký jako dopravní letadlo (video)",
+      "original_title": "Watch live online as an asteroid the size of a commercial jet passes within Earth-moon distance on Sept. 3 (video) - Space",
+      "url": "https://www.space.com/stargazing/watch-live-online-as-an-asteroid-the-size-of-a-commercial-jet-passes-within-earth-moon-distance-on-sept-3-video",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6VjPtVbzAwjhdnDcymKuL.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-01T22:00:00Z",
+      "description": "Asteroid 2025 QDB se přiblíží na vzdálenost jen něco málo přes polovinu cesty mezi Zemi a Měsíc a jeho průlet můžete sledovat živě online."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Experti varují před smrtící nemocí, která se vrací s nárůstem případů: ‚1 z 5 lidí zemře, někdy během jednoho nebo dvou dnů od nástupu nemoci‘",
-      "original_title": "Experts warn deadly disease returns with spike in number of cases: '1 in 5 people … die, sometimes within a day or two of becoming ill' - yahoo.com",
-      "url": "https://www.yahoo.com/news/articles/experts-warn-deadly-disease-returns-235000471.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VI2BJHv1FlLyIGaYjfSwHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/c9b9054c6820d6e3b394f22da94bfa57",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-01T23:50:00Z",
-      "description": "K nákaze obvykle dochází jedním ze dvou způsobů."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nick Saban reaguje na úvodní porážku Alabamy od Florida State",
-      "original_title": "Nick Saban reacts to Alabama's season-opening loss to Florida State - 247Sports",
-      "url": "https://247sports.com/college/alabama/article/nick-saban-reacts-to-alabamas-season-opening-loss-to-florida-state-253345137/",
-      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/248/696/12696248.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
-      "source": "247Sports",
-      "publishedAt": "2025-09-01T23:20:03Z",
-      "description": "Nick Saban se vyjádřil k porážce Alabamy v 1. týdnu proti Florida State"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Měsíční slepá rande Marsu s kometou 3I/ATLAS - Avi Loeb",
+      "title": "Slepá rande Marsu s kometou 3I/ATLAS za měsíc - Avi Loeb",
       "original_title": "The Blind Date of Mars with 3I/ATLAS in a Month - Avi Loeb – Medium",
       "url": "https://avi-loeb.medium.com/the-blind-date-of-mars-with-3i-atlas-in-a-month-476c7288a576",
       "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*KCkI57V7uITpyrxFjzr03g.jpeg",
       "source": "Medium",
       "publishedAt": "2025-09-01T21:00:11Z",
-      "description": "Slepé rande je vzrušující, protože skýtá potenciál překvapení, zvláště když se jedná o mezihvězdného partnera…"
+      "description": "Slepé rande je vzrušující, protože skýtá potenciál překvapení, zvláště když máte mezihvězdného partnera…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX s ohromujícím a nezastavitelným raketovým nosičem Falcon 9 dosáhla 9 startů za 10 dní a ohromujícího rekordu 30 misí!",
+      "title": "Bývalí ředitelé CDC tvrdí, že RFK Jr. ohrožuje zdraví Američanů",
+      "original_title": "Former CDC directors say RFK Jr. is endangering Americans' health - ABC News",
+      "url": "https://abcnews.go.com/Health/former-cdc-directors-rfk-jr-endangering-americans-health/story?id\\\\u003d125152952",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-01T17:48:45Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Chagasova choroba, dlouho považovaná pouze za hrozbu v zahraničí, je rozšířená v Kalifornii a na jihu USA.",
+      "original_title": "Chagas disease, long considered only a threat abroad, is established in California and the Southern U.S. - yahoo.com",
+      "url": "https://www.yahoo.com/news/articles/chagas-disease-long-considered-only-100000024.html",
+      "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/eecf4c15b39f74605c625592823cd505",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-01T10:00:00Z",
+      "description": "Chagasova choroba je smrtelná, rozšířená a ve Spojených státech je mnohem častější, než si myslíte. Nedováží ji sem jen lidé ze zemí, kde se nemoc..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "SpaceX s ohromujícím a nezastavitelným raketovým nosičem Falcon 9 dosáhla 9 startů za 10 dní a dechberoucího rekordu 30 misí!",
       "original_title": "SpaceX’s Stunning & Unstoppable Falcon 9 Rocket Leads To 9 Rocket Launches In 10 Days & An Eye-Popping Record 30 Missions! - Wccftech",
       "url": "https://wccftech.com/spacexs-stunning-unstoppable-falcon-9-rocket-leads-to-9-rocket-launches-in-10-days-an-eye-popping-record-30-missions/",
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/SPACEX-FALCON-9-AUGUST-LAUNCH-scaled.jpeg",
       "source": "Wccftech",
       "publishedAt": "2025-09-01T09:18:00Z",
-      "description": "SpaceX za 10 dní vypustila 9 raket, včetně nosiče Falcon 9 s rekordními 30 lety a 132 novými satelity Starlink."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Lék na srdce užívaný miliony je zbytečný a možná i riskantní",
-      "original_title": "Common heart drug taken by millions found useless, possibly risky - ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/08/250831010539.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/cardiology-heart-attack-disease-prevention.webp",
-      "source": "Science Daily",
-      "publishedAt": "2025-08-31T15:34:33Z",
-      "description": "Betablokátory po infarktu bez benefitů pro pacienty se zachovalou funkcí srdce, zjistila studie REBOOT. Rozsáhlý výzkum také odhalil vyšší rizika pro ženy."
+      "description": "SpaceX během 10 dní vypustila 9 raket, včetně nosiče Falcon 9 s rekordními 30 lety a 132 novými satelity Starlink."
     }
   ]
 }
