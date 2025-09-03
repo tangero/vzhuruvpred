@@ -37,7 +37,7 @@ description: "Inspirativní přednášky o technologiích, umělé inteligenci a
                         </div>
                         <div class="lecture-content">
                             <h3 class="lecture-title">{{ lecture.title }}</h3>
-                            <p class="lecture-excerpt">{{ lecture.excerpt | strip_html | truncate: 150 }}</p>
+                            <p class="lecture-excerpt">{{ lecture.excerpt | strip_html | truncate: 300 }}</p>
                             <div class="lecture-meta">
                                 <span class="lecture-author">{{ lecture.author | default: "Redakce" }}</span>
                                 <span class="lecture-date">{{ lecture.date | date: "%d.%m.%Y" }}</span>

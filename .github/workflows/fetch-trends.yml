@@ -31,6 +31,8 @@ jobs:
         # Používáme pouze standardní knihovny Pythonu
     
     - name: Fetch trends from RSS
+      env:
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       run: |
         python << 'EOF'
         import json

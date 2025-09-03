@@ -258,7 +258,7 @@ layout: default
                 </div>
                 <div class="lecture-content">
                     <h3 class="lecture-title">{{ lecture.title | truncate: 60 }}</h3>
-                    <p class="lecture-excerpt">{{ lecture.excerpt | strip_html | truncate: 100 }}</p>
+                    <p class="lecture-excerpt">{{ lecture.excerpt | strip_html | truncate: 200 }}</p>
                     <div class="lecture-meta">
                         <span class="lecture-author">{{ lecture.author | default: "Redakce" }}</span>
                         <span class="lecture-date">{{ lecture.date | date: "%d.%m.%Y" }}</span>
