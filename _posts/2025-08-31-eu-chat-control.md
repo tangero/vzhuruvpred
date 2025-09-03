@@ -4,9 +4,9 @@ title: "Pozadí a historie EU Chat Control"
 date: 2024-08-30 10:00:00 +0100
 categories: [udalosti]
 author: "Patrick Zandl"
-author_title: "Reportérka pro digitalizaci"
+author_title: "technologický odborník a publicista"
 author_image: "https://picsum.photos/60/60?random=1"
-image: "/assets/obrazky/ivan_bartos.jpg"
+image: "/assets/obrazky/eu-chat-control.jpg"
 excerpt: "Názory na nařízení Chat Control cloumají Českem. Jak toto nařízení vzniklo, kdo za ním stál a především, proč vzniklo a co způsobí?"
 tags: [digitalizace, e-government, technologie]
 category: "EU"

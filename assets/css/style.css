@@ -1077,12 +1077,18 @@ video::-webkit-media-controls-panel {
     font-weight: 600;
     color: #1a1a1a;
     line-height: 1.4;
-    margin: 0;
-    flex: 1;
+    margin: 0 0 8px 0;
     display: -webkit-box;
-    -webkit-line-clamp: 5;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+}
+
+.trend-excerpt {
+    font-size: 12px;
+    color: #666;
+    margin: 0;
+    font-weight: 500;
 }
 
 /* Carousel navigation buttons */

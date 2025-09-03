@@ -232,10 +232,32 @@ jobs:
                     
                     # Sumarizace a překlad pomocí LLM
                     news_title_text = process_title_with_llm(news_title_text)
+                    
+                    # Zkusíme získat perex z článku
+                    news_excerpt = ""
+                    try:
+                        import urllib.parse
+                        if news_url_text and news_url_text.startswith('http'):
+                            with urlopen(news_url_text, timeout=10) as article_response:
+                                article_content = article_response.read().decode('utf-8', errors='ignore')
+                                # Hledáme meta description
+                                import re
+                                desc_match = re.search(r'<meta[^>]*name=["\']description["\'][^>]*content=["\']([^"\']{50,200})["\']', article_content, re.IGNORECASE)
+                                if not desc_match:
+                                    desc_match = re.search(r'<meta[^>]*content=["\']([^"\']{50,200})["\'][^>]*name=["\']description["\']', article_content, re.IGNORECASE)
+                                if desc_match:
+                                    news_excerpt = desc_match.group(1).strip()
+                                    # Přeložit perex
+                                    if news_excerpt:
+                                        news_excerpt = process_title_with_llm(news_excerpt)[:150]
+                    except Exception as e:
+                        print(f"    ⚠️ Nepodařilo se načíst perex: {e}")
+                        news_excerpt = ""
                 else:
                     news_title_text = process_title_with_llm(title_text)
                     news_url_text = f"https://www.google.com/search?q={title_text}&tbm=nws"
                     news_source_text = source_text
+                    news_excerpt = ""
                 
                 # Vytvoříme trend item
                 trend_item = {
