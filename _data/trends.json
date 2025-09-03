@@ -1,10 +1,30 @@
 {
-  "updated": "2025-09-03T07:30:30.734035",
+  "updated": "2025-09-03T07:43:27.089930",
   "trends": [
     {
       "rank": 1,
+      "query": "chatgpt",
+      "news_title": "Sebevražedný mladík našel v ChatGPT důvěrníka",
+      "news_url": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwcc3DFLJK2BjwLrMUYxRl-EPDbUYJZcpbkfVvyvCyMT-R6ExcslrZWs-igyU",
+      "traffic": "2000++ hledání",
+      "source": "The New York Times",
+      "explore_url": "https://trends.google.cz/trends/explore?q=chatgpt&geo=CZ"
+    },
+    {
+      "rank": 2,
+      "query": "teams",
+      "news_title": "Reakce na žebříček AP: Co čeká týmy z Top 25?",
+      "news_url": "https://www.espn.com/college-football/story/_/id/46087424/ap-college-football-week-1-poll-reaction",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7vTtYvkFr7YkhK5ld3Y0AcL83pfPH3Ohh_PFxqsn-9mnq5N0O7XCOEZccOUQ",
+      "traffic": "500++ hledání",
+      "source": "ESPN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "us open",
-      "news_title": "Krejčíková: Servis mi odjel na dovolenou. Po vyřazení z US Open",
+      "news_title": "Krejčíková si po vyřazení z US Open stěžovala na odjezd servisu na dovolenou",
       "news_url": "https://www.sport.cz/clanek/tenis-us-open-skoda-ze-mi-servis-odjel-na-dovolenou-postezovala-si-krejcikova-po-vyrazeni-z-us-open-5285219",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAPr4mCNPWurmZTBnPy6XeQ1VnZkNyGW-F0lfQLM2pH13rL5rB47NQQ54APb0",
       "traffic": "500++ hledání",
@@ -12,17 +32,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=us open&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "teams",
-      "news_title": "Reakce na AP žebříček: Kam směřuje elitní 25?",
-      "news_url": "https://www.espn.com/college-football/story/_/id/46087424/ap-college-football-week-1-poll-reaction",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7vTtYvkFr7YkhK5ld3Y0AcL83pfPH3Ohh_PFxqsn-9mnq5N0O7XCOEZccOUQ",
-      "traffic": "200++ hledání",
-      "source": "ESPN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "query": "iphone 15",
       "news_title": "iPhone 16e vs 16: Koupit levnější model, nebo počkat na slevu vlajkové lodi?",
       "news_url": "https://www.hindustantimes.com/technology/iphone-16e-vs-iphone-16-should-you-buy-the-budget-model-or-wait-for-flagship-price-drop-101756879999152.html",
@@ -32,9 +42,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=iphone 15&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "query": "gemini",
-      "news_title": "Gemini s podporou Winklevossových míří na IPO s oceněním 2,2 mld. USD",
+      "news_title": "Gemini plánuje vstup na burzu s hodnotou 2,2 miliardy dolarů",
       "news_url": "https://www.reuters.com/business/winklevoss-twins-backed-gemini-targets-22-billion-valuation-us-ipo-2025-09-02/",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZG16P7UINfM2e3e-cpvTzaCyLG0AMvsFMXDiQN9UyZ4VuD19-yesYND6I2ZE",
       "traffic": "200++ hledání",
@@ -42,9 +52,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=gemini&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "us open 2025",
-      "news_title": "Sabalenka čeká na Pegulu, Vondrousová odstoupila",
+      "news_title": "Sabalenka čeká na Pegula, Vondrousová odstoupila",
       "news_url": "https://www.bbc.com/sport/tennis/articles/cm2k24x124vo",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdKNd8FXDyQV4KgffYFYM7vGIxqltDBdS_e3qX7kzSAna3jGelrfoZ72ZmLw",
       "traffic": "200++ hledání",
@@ -52,19 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=us open 2025&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "erik prekop",
-      "news_title": "Slavia přivedla vytouženou posilu do útoku z Baníku",
-      "news_url": "https://www.sport.cz/clanek/fotbal-ceska-1-liga-slavia-by-mela-privest-vytouzenou-posilu-do-utoku-5285133",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi_0Z2KS3OYrRSxy7Im_6xz6OTdv2zLJO9pvvWfPJWsracYcUrHo8RiIaOumo",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=erik prekop&geo=CZ"
-    },
-    {
       "rank": 7,
       "query": "wednesday season 2 part 2",
-      "news_title": "Kdy se na Netflixu objeví 2. řada seriálu Wednesday?",
+      "news_title": "Kdy vyjde 2. řada seriálu Wednesday na Netflixu?",
       "news_url": "https://www.forbes.com/sites/erikkain/2025/09/02/when-does-wednesday-season-2-part-2-release-on-netflix/",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFA3p9HmBJ9YNRwQ4U2nD2re6KtwaSLe_X8dpiqyaevYIZRzgc52JSvLXq7oc",
       "traffic": "100++ hledání",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "query": "predpoved pocasi",
-      "news_title": "Babí léto dorazí v plné síle. Září by mělo být teplé a suché",
+      "news_title": "Babí léto dorazí v plné síle: září bude teplé a suché",
       "news_url": "https://www.novinky.cz/clanek/pocasi-babi-leto-dorazi-v-plne-sile-zari-by-melo-byt-teple-a-suche-40536679",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7IlvOOrJVjku3JCCYai6b21n8OPdWg0i4LkAltJdLOoq7t0xt03F-l7DQu8",
       "traffic": "100++ hledání",
