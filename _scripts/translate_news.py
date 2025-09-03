@@ -6,8 +6,60 @@ import urllib.request
 import os
 import time
 
+def clean_title(text):
+    """Vyčistí nadpis od uvozovek a zdrojů"""
+    if not text:
+        return text
+    
+    # Odstranit uvozovky z začátku a konce
+    text = text.strip('"').strip("'")
+    
+    # Odstranit zdroj za pomlčkou na konci (např. "- CNN", "- BBC News")
+    # Hledáme pomlčku následovanou 1-3 slovy na konci
+    import re
+    text = re.sub(r'\s*[-–—]\s*[A-Z][A-Za-z\s&\.]{1,25}$', '', text)
+    
+    return text.strip()
+
+def is_sports_news(title, description):
+    """Zkontroluje, jestli je zpráva sportovní a netýká se českých týmů/hráčů"""
+    # Klíčová slova pro sport
+    sports_keywords = [
+        'NFL', 'NBA', 'MLB', 'NHL', 'Premier League', 'Champions League',
+        'Super Bowl', 'touchdown', 'quarterback', 'basketball', 'baseball',
+        'hockey', 'tennis', 'golf', 'soccer', 'football', 'match', 'game',
+        'victory', 'defeat', 'score', 'championship', 'tournament',
+        'US Open', 'Grand Prix', 'Formula', 'ATP', 'WTA', 'FIFA',
+        'playoff', 'finals', 'medal', 'Olympics', 'World Cup',
+        'pitcher', 'striker', 'goalkeeper', 'coach', 'manager',
+        'transfer', 'signing', 'injury', 'suspension'
+    ]
+    
+    # Česká klíčová slova (tyto zprávy CHCEME zachovat)
+    czech_keywords = [
+        'Czech', 'Česk', 'Praha', 'Prague', 'Plzeň', 'Slavia', 'Sparta',
+        'Liberec', 'Ostrava', 'Brno', 'Olomouc', 'Pardubice',
+        'Lehečka', 'Kvitová', 'Plíšková', 'Macháč', 'Siniaková',
+        'Veselý', 'Berdych', 'Šafářová', 'Strýcová', 'Krejčíková',
+        'Vondroušová', 'Muchová', 'Nosková', 'Menšík'
+    ]
+    
+    text_to_check = (title + ' ' + (description or '')).lower()
+    
+    # Pokud obsahuje české reference, ponechat
+    for keyword in czech_keywords:
+        if keyword.lower() in text_to_check:
+            return False
+    
+    # Jinak zkontrolovat, jestli je to sport
+    for keyword in sports_keywords:
+        if keyword.lower() in text_to_check:
+            return True
+    
+    return False
+
 def translate_text_with_openrouter(text):
-    """Přeloží text pomocí OpenRouter.ai + Mistral"""
+    """Přeloží text pomocí OpenRouter.ai"""
     if not text or len(text.strip()) == 0:
         return text
     
@@ -72,15 +124,33 @@ def main():
     with open('_data/world_news.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    print(f"Překládám {len(data['articles'])} zpráv pomocí OpenRouter.ai...")
+    print(f"Načteno {len(data['articles'])} zpráv...")
+    
+    # Filtrovat sportovní zprávy (kromě českých)
+    filtered_articles = []
+    for article in data['articles']:
+        title = clean_title(article.get('title', ''))
+        article['title'] = title  # Uložit vyčištěný nadpis
+        article['original_title'] = article.get('original_title', title)
+        
+        if not is_sports_news(title, article.get('description', '')):
+            filtered_articles.append(article)
+        else:
+            print(f"  ⚽ Odstraňuji sportovní zprávu: {title[:60]}...")
+    
+    # Omezit na 40 zpráv
+    filtered_articles = filtered_articles[:40]
+    data['articles'] = filtered_articles
+    
+    print(f"Po filtrování: {len(filtered_articles)} zpráv")
+    print(f"Překládám zprávy pomocí OpenRouter.ai...")
     
     # Přeložit každou zprávu
     for i, article in enumerate(data['articles']):
         # Přeložit titulek
         if article.get('title'):
-            original = article['title']
-            translated = translate_text_with_openrouter(original)
-            article['original_title'] = original
+            # Nadpis už je vyčištěný z clean_title(), jen ho přeložit
+            translated = translate_text_with_openrouter(article['title'])
             article['title'] = translated
             print(f"{i+1}. {translated[:60]}...")
             

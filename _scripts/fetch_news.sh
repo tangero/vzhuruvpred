@@ -33,8 +33,8 @@ get_flag() {
 # Stáhnout zprávy z NewsAPI
 echo "Stahuji světové zprávy..."
 
-# Stáhnout top headlines z category general
-RESPONSE=$(curl -s "https://newsapi.org/v2/top-headlines?category=general&language=en&pageSize=20&apiKey=${API_KEY}")
+# Stáhnout top headlines z category general - 50 zpráv (40 + rezerva pro filtrování)
+RESPONSE=$(curl -s "https://newsapi.org/v2/top-headlines?category=general&language=en&pageSize=50&apiKey=${API_KEY}")
 
 # Uložit do JSON souboru
 echo "$RESPONSE" | jq '{

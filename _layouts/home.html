@@ -60,40 +60,43 @@ layout: default
 
 
 <!-- Co právě hýbe internetem v Česku -->
-<section class="quick-news" id="trending-section">
-    <h2 class="section-title">Co právě hýbe internetem v Česku</h2>
-    <div class="quick-news-grid trends-with-images" id="trends-container">
-        {% if site.data.trends %}
-            {% for trend in site.data.trends.trends limit:8 %}
-            <a href="{{ trend.news_url }}" target="_blank" class="trend-item-with-image">
-                <div class="trend-image">
-                    <img src="{{ trend.picture }}" alt="{{ trend.query }}">
-                    <span class="trend-badge">{{ trend.query }}</span>
-                </div>
-                <div class="trend-content">
-                    <h3 class="trend-news-title">{{ trend.news_title }}</h3>
-                </div>
-            </a>
-            {% endfor %}
-        {% else %}
-            <!-- Fallback data -->
-            <article class="quick-news-item">
-                <span class="time">Aktuálně</span>
-                <p>📊 Volby 2025</p>
-            </article>
-            <article class="quick-news-item">
-                <span class="time">Trending</span>
-                <p>🌡️ Počasí Praha</p>
-            </article>
-            <article class="quick-news-item">
-                <span class="time">Populární</span>
-                <p>📺 Česká televize</p>
-            </article>
-            <article class="quick-news-item">
-                <span class="time">Vyhledáváno</span>
-                <p>🏒 Hokej MS</p>
-            </article>
-        {% endif %}
+<section class="trends-carousel-section" id="trending-section">
+    <h2 class="section-title">🔥 Co právě hýbe internetem v Česku</h2>
+    <div class="trends-carousel-container">
+        <button class="carousel-btn carousel-prev" id="trends-prev" aria-label="Předchozí">‹</button>
+        <div class="trends-carousel-wrapper">
+            <div class="trends-carousel" id="trends-carousel">
+                {% if site.data.trends %}
+                    {% for trend in site.data.trends.trends %}
+                    <a href="{{ trend.news_url }}" target="_blank" class="trend-card">
+                        <div class="trend-card-image">
+                            {% if trend.picture %}
+                                <img src="{{ trend.picture }}" alt="{{ trend.query }}" loading="lazy">
+                            {% else %}
+                                <div class="trend-placeholder"></div>
+                            {% endif %}
+                            <span class="trend-rank">#{{ forloop.index }}</span>
+                            <span class="trend-traffic">{{ trend.traffic }}</span>
+                        </div>
+                        <div class="trend-card-content">
+                            <span class="trend-query">{{ trend.query | upcase }}</span>
+                            <h3 class="trend-title">{{ trend.news_title | truncate: 80 }}</h3>
+                        </div>
+                    </a>
+                    {% endfor %}
+                {% else %}
+                    <!-- Fallback data -->
+                    <div class="trend-card">
+                        <div class="trend-placeholder"></div>
+                        <div class="trend-card-content">
+                            <span class="trend-query">NAČÍTÁNÍ</span>
+                            <h3 class="trend-title">Trendy se načítají...</h3>
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+        <button class="carousel-btn carousel-next" id="trends-next" aria-label="Další">›</button>
     </div>
 </section>
 
