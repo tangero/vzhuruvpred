@@ -1,12 +1,12 @@
 {
-  "updated": "2025-09-03T09:26:41.179700",
+  "updated": "2025-09-03T12:51:53.022728",
   "trends": [
     {
       "rank": 1,
       "query": "chatgpt",
-      "news_title": "OpenAI řeší problémy ChatGPT, uživatelé hlásí chybějící odpovědi",
+      "news_title": "OpenAI vyřešilo problémy s odpověďmi ChatGPT",
       "news_url": "https://www.newsweek.com/chatgpt-down-openai-status-answers-not-showing-2123606",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQm_ebv8iS1prOpHV784B_SLjSKVKmuz5iIuBXAHi98DVwg258TdwlrC-ji78Q",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQG29srwL1183iW4XThIRBYIneWEFBnpVIBEyqRRIvuW7Dbh92_D75FnU1GaY",
       "traffic": "5000++ hledání",
       "source": "Newsweek",
       "explore_url": "https://trends.google.cz/trends/explore?q=chatgpt&geo=CZ"
@@ -14,35 +14,45 @@
     {
       "rank": 2,
       "query": "teams",
-      "news_title": "Reakce na AP žebříček: Co čeká 25 nejlepších týmů",
-      "news_url": "https://www.espn.com/college-football/story/_/id/46087424/ap-college-football-week-1-poll-reaction",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7vTtYvkFr7YkhK5ld3Y0AcL83pfPH3Ohh_PFxqsn-9mnq5N0O7XCOEZccOUQ",
-      "traffic": "1000++ hledání",
+      "news_title": "Barnwell předpovídá: 14 týmů v NFL playoff i vítěze Super Bowlu",
+      "news_url": "https://www.espn.com/nfl/story/_/id/45934298/2025-nfl-season-14-playoff-teams-chances-return-super-bowl",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx8ANaqJSwSfBpQLFNe-U2fxw73dvvDJH9huOR8g7nUOfaO68P2fG4vw77u-U",
+      "traffic": "2000++ hledání",
       "source": "ESPN",
       "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
     },
     {
       "rank": 3,
-      "query": "gemini",
-      "news_title": "Gemini s podporou Winklevossových míří na IPO s oceněním 2,2 mld. USD",
-      "news_url": "https://www.reuters.com/business/winklevoss-twins-backed-gemini-targets-22-billion-valuation-us-ipo-2025-09-02/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZG16P7UINfM2e3e-cpvTzaCyLG0AMvsFMXDiQN9UyZ4VuD19-yesYND6I2ZE",
+      "query": "wednesday",
+      "news_title": "Kdy se na Netflixu objeví 2. část 2. řady Wednesday?",
+      "news_url": "https://www.forbes.com/sites/erikkain/2025/09/02/when-does-wednesday-season-2-part-2-release-on-netflix/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFA3p9HmBJ9YNRwQ4U2nD2re6KtwaSLe_X8dpiqyaevYIZRzgc52JSvLXq7oc",
       "traffic": "1000++ hledání",
-      "source": "Reuters",
-      "explore_url": "https://trends.google.cz/trends/explore?q=gemini&geo=CZ"
+      "source": "Forbes",
+      "explore_url": "https://trends.google.cz/trends/explore?q=wednesday&geo=CZ"
     },
     {
       "rank": 4,
       "query": "ai",
-      "news_title": "Umělá inteligence nahradí stovky milionů zaměstnanců",
-      "news_url": "https://www.novinky.cz/clanek/internet-a-pc-ai-umela-inteligence-nahradi-ve-svete-stovky-milionu-zamestnancu-40528728",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HYBnWdER1lTgi3GORl5Pv1mmjgAzPWFM9ffp1FcrUYDio3rRzU2WQpCPb9Y",
+      "news_title": "AI najímá lidi na trénování dalších AI",
+      "news_url": "https://www.forbes.com/sites/richardnieva/2025/09/03/ais-next-job-recruiting-people-to-train-more-ai/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvXCgV-jR2rcn8wPtq5zRFjEWN3LeT9YSoOzk6sgBUIIvL1nAY5JetXImyYUY",
       "traffic": "200++ hledání",
-      "source": "Novinky",
+      "source": "Forbes",
       "explore_url": "https://trends.google.cz/trends/explore?q=ai&geo=CZ"
     },
     {
       "rank": 5,
+      "query": "gemini ai",
+      "news_title": "Google unikl chytrý reproduktor Nest s umělou inteligencí Gemini.",
+      "news_url": "https://routenote.com/blog/google-leaked-their-upcoming-speaker/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_yIuOlsrPB3J7-UuqKfV89QBRWneqhtU6ZhZAPo5eTxjXrWSB0kRAamlEEIQ",
+      "traffic": "200++ hledání",
+      "source": "RouteNote",
+      "explore_url": "https://trends.google.cz/trends/explore?q=gemini ai&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "iphone 15",
       "news_title": "iPhone 16e vs 16: Koupit levnější model, nebo počkat na slevu vlajkové lodi?",
       "news_url": "https://www.hindustantimes.com/technology/iphone-16e-vs-iphone-16-should-you-buy-the-budget-model-or-wait-for-flagship-price-drop-101756879999152.html",
@@ -52,34 +62,24 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=iphone 15&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "query": "evropa 2",
+      "news_title": "Leoš Mareš děsí fanoušky. Je za tím nemoc?",
+      "news_url": "https://medium.seznam.cz/clanek/ajulinka-leos-mares-vydesil-sledujici-je-za-tim-nemoc-184447",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkd7r5Cs-TT7RwYB4s8F37qiUaZ3zUWjMC8xcRLn745GsFM0Q1FyvKG8F9Ewo",
+      "traffic": "200++ hledání",
+      "source": "Seznam",
+      "explore_url": "https://trends.google.cz/trends/explore?q=evropa 2&geo=CZ"
+    },
+    {
+      "rank": 8,
       "query": "us open",
-      "news_title": "Djokovič postoupil do semifinále US Open",
-      "news_url": "https://www.sport.cz/clanek/tenis-us-open-djokovic-na-us-open-postoupil-do-semifinale-5285224",
+      "news_title": "Poslední Američan na US Open zažil krutý konec po trapasu s čelenkou",
+      "news_url": "https://www.sport.cz/clanek/tenis-us-open-trapas-s-celenkou-a-ostry-kartac-behem-zapasu-posledni-american-na-us-open-zazil-kruty-konec-5285251",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmyKfUPRfQGTXR4zOn09vFNkXSO5CldAo5WqZJLMalw2wifPDIX2fRXERRTzc",
       "traffic": "200++ hledání",
       "source": "Sport.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=us open&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "vondroušová",
-      "news_title": "Sabalenková lituje zdrcené Vondroušové: Vím, jak to bolí",
-      "news_url": "https://www.sport.cz/clanek/tenis-us-open-sabalenkova-lituje-vondrousovou-vim-jak-moc-ji-to-musi-bolet-5285221",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmyKfUPRfQGTXR4zOn09vFNkXSO5CldAo5WqZJLMalw2wifPDIX2fRXERRTzc",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=vondroušová&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "wednesday season 2 part 2",
-      "news_title": "Kdy se na Netflixu objeví 2. část 2. řady seriálu Wednesday?",
-      "news_url": "https://www.forbes.com/sites/erikkain/2025/09/02/when-does-wednesday-season-2-part-2-release-on-netflix/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFA3p9HmBJ9YNRwQ4U2nD2re6KtwaSLe_X8dpiqyaevYIZRzgc52JSvLXq7oc",
-      "traffic": "100++ hledání",
-      "source": "Forbes",
-      "explore_url": "https://trends.google.cz/trends/explore?q=wednesday season 2 part 2&geo=CZ"
     }
   ]
 }
