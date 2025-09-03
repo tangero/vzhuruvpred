@@ -1,0 +1,78 @@
+# Centrální databáze autorů
+# Klíč = slugified jméno autora (lowercase, pomlčky místo mezer)
+
+patrick-zandl:
+  name: "Patrick Zandl"
+  title: "technologický odborník a publicista"
+  bio: "Zakladatel LTE.cz, expert na telekomunikace a digitální technologie. Dlouhodobě se zabývá dopadem nových technologií na společnost."
+  email: "patrick@lupa.cz"
+  avatar: "/assets/obrazky/patrick-zandl.jpg"
+  social:
+    twitter: "@tangero"
+    linkedin: "patrick-zandl"
+    website: "https://www.zandl.cz"
+
+kathleen-kennedy-townsend:
+  name: "Kathleen Kennedy Townsend"
+  title: "bývalá viceguvernérka Marylandu"
+  bio: "Expertka na kybernetickou bezpečnost a veřejnou politiku. Členka slavné politické dynastie Kennedyových."
+  avatar: "/assets/obrazky/kathleen-townsend.jpg"
+  social:
+    linkedin: "kathleen-townsend"
+
+luna-fast:
+  name: "Luna Fast"
+  title: "digitální analytička"
+  bio: "Specializuje se na analýzu vlivu sociálních médií na politiku a společnost."
+  avatar: "/assets/obrazky/luna-fast.jpg"
+  social:
+    twitter: "@lunafast"
+
+helin-turhan:
+  name: "Helin Turhan"
+  title: "výzkumnice médií"
+  bio: "Zkoumá dopad dezinformací a digitální manipulace na demokratické procesy."
+  avatar: "/assets/obrazky/helin-turhan.jpg"
+  social:
+    linkedin: "helin-turhan"
+
+ivan-bartos:
+  name: "Ivan Bartoš"
+  title: "bývalý ministr pro místní rozvoj a někdejší předseda Pirátů"
+  bio: "Spoluzakladatel Pirátské strany, dlouhodobě se věnuje digitalizaci státní správy a otevřenému státu."
+  avatar: "/assets/obrazky/ivan_bartos.jpg"
+  social:
+    website: "https://www.ivanbartos.cz"
+
+jakub-gaming:
+  name: "Jakub Gaming"
+  title: "technologický nadšenec"
+  bio: "Zaměřuje se na herní průmysl a nové technologie."
+  avatar: "/assets/obrazky/default-avatar.jpg"
+
+anna-svobodova:
+  name: "Mgr. Anna Svobodová"
+  title: "právnička a analytička"
+  bio: "Specializuje se na transparentnost veřejných zakázek a právní aspekty digitalizace."
+  avatar: "/assets/obrazky/default-avatar.jpg"
+
+pavel-novak:
+  name: "Pavel Novák"
+  title: "novinář a komentátor"
+  bio: "Dlouhodobě se věnuje politické žurnalistice a analýze společenských trendů."
+  avatar: "/assets/obrazky/default-avatar.jpg"
+
+jaash-mathi:
+  name: "Jaash Mathi"
+  title: "technologický analytik"
+  bio: "Expert na kryptoměny a blockchain technologie."
+  avatar: "/assets/obrazky/default-avatar.jpg"
+
+# Fallback pro články bez specifikovaného autora
+default:
+  name: "Redakce"
+  title: "tým Vzhůru a vpřed"
+  bio: "Kolektivní tvorba redakčního týmu portálu Vzhůru a vpřed."
+  avatar: "/assets/obrazky/default-avatar.jpg"
+  social:
+    website: "https://vzhuruvpred.cz"

@@ -2184,6 +2184,205 @@ video::-webkit-media-controls-panel {
     background: var(--pirate-yellow-dark);
 }
 
+/* Modern Post Footer */
+.post-footer-modern {
+    margin: 48px 0 32px;
+    padding: 32px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-radius: var(--radius-lg);
+    border-left: 4px solid var(--pirate-yellow);
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+/* Author Section */
+.author-section {
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+    padding: 24px 0;
+    margin: 24px 0;
+}
+
+.author-avatar {
+    flex-shrink: 0;
+}
+
+.author-avatar img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.author-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.author-name {
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--pirate-black);
+    margin: 0 0 6px 0;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    line-height: 1.1;
+}
+
+.author-title {
+    font-size: 15px;
+    color: #666;
+    margin: 0 0 16px 0;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 1.3;
+}
+
+.author-bio {
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+    margin: 0 0 20px 0;
+}
+
+.author-profile-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--pirate-black);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 4px;
+    transition: all 0.2s ease;
+    border-bottom: 1px solid transparent;
+}
+
+.author-profile-link:hover {
+    color: var(--pirate-yellow-dark);
+    border-bottom: 1px solid var(--pirate-yellow-dark);
+}
+
+.author-social {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 0;
+    align-items: center;
+}
+
+.social-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--pirate-black);
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 20px;
+    border-radius: 20px;
+    background: var(--pirate-yellow);
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    min-width: 80px;
+    justify-content: center;
+}
+
+.social-link:hover {
+    background: var(--pirate-yellow-dark);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.tags-section,
+.share-section {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    margin: 16px 0;
+}
+
+.section-label {
+    font-weight: 700;
+    color: var(--pirate-black);
+    font-size: 14px;
+    white-space: nowrap;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tag-pill {
+    background: var(--pirate-yellow);
+    color: var(--pirate-black);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tag-pill:hover {
+    background: var(--pirate-yellow-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.share-buttons {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.share-btn-modern {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13px;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    background: var(--pirate-yellow);
+    color: var(--pirate-black);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.share-btn-modern:hover {
+    background: var(--pirate-yellow-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+
+.btn-icon {
+    font-size: 16px;
+}
+
 /* Related Posts */
 .related-posts {
     margin-bottom: 48px;
@@ -2541,9 +2740,15 @@ video::-webkit-media-controls-panel {
 .post-header {
     position: relative;
     background: var(--pirate-black);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: var(--pirate-white);
-    padding: 64px 0 48px;
-    margin-bottom: 48px;
+    padding: 32px 40px 24px 40px;
+    margin-bottom: 32px;
+    min-height: 300px;
+    display: flex;
+    align-items: flex-end;
 }
 
 .post-header::before {
@@ -2554,53 +2759,97 @@ video::-webkit-media-controls-panel {
     right: 0;
     height: 4px;
     background: var(--pirate-yellow);
+    z-index: 3;
+}
+
+.post-header-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, 
+        rgba(0, 0, 0, 0.3) 0%,
+        rgba(0, 0, 0, 0.5) 30%,
+        rgba(0, 0, 0, 0.8) 100%);
+    z-index: 1;
+}
+
+.post-header-content {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+
+/* Fallback pro články bez obrázku */
+.post-header:not([style*="background-image"]) .post-header-overlay {
+    background: linear-gradient(to bottom, 
+        rgba(0, 0, 0, 0.1) 0%,
+        rgba(0, 0, 0, 0.3) 30%,
+        rgba(0, 0, 0, 0.6) 100%);
+}
+
+.post-header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    gap: 16px;
 }
 
 .post-category-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
     background: var(--pirate-yellow);
     color: var(--pirate-black);
-    padding: 8px 24px;
+    padding: 6px 16px;
     font-family: 'Bebas Neue', cursive;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-bottom: 24px;
-    position: relative;
-    z-index: 2;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    white-space: nowrap;
 }
 
-/* Simple text-based category distinction */
-.post-category-badge::after {
-    content: '';
-    display: inline-block;
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 0 0 30px 30px;
-    border-color: transparent transparent var(--pirate-yellow) transparent;
-    position: absolute;
-    right: -30px;
-    top: 0;
+.post-meta-compact {
+    display: flex;
+    gap: 20px;
+    font-size: 13px;
+    color: #ccc;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    flex-wrap: wrap;
+}
+
+.post-meta-compact time,
+.post-meta-compact .reading-time,
+.post-meta-compact .post-author {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+}
+
+.meta-icon {
+    font-size: 12px;
+    opacity: 0.8;
 }
 
 .post-title {
     font-family: 'Bebas Neue', cursive;
-    font-size: 54px;
+    font-size: 42px;
     line-height: 1.1;
-    margin-bottom: 24px;
+    margin-bottom: 12px;
     letter-spacing: 1px;
     color: var(--pirate-white);
     max-width: 900px;
 }
 
 .post-subtitle {
-    font-size: 24px;
+    font-size: 18px;
     color: rgba(255, 255, 255, 0.8);
-    margin-bottom: 32px;
+    margin-bottom: 0;
     font-weight: 300;
     line-height: 1.4;
     max-width: 800px;
@@ -2838,21 +3087,27 @@ video::-webkit-media-controls-panel {
 /* Responsive adjustments for posts */
 @media (max-width: 768px) {
     .post-title {
-        font-size: 42px;
+        font-size: 36px;
     }
     
     .post-subtitle {
-        font-size: 20px;
+        font-size: 16px;
     }
     
     .post-header {
-        padding: 32px 0 24px;
+        padding: 24px 20px 20px 20px;
+        min-height: 250px;
     }
     
-    .post-meta-enhanced {
+    .post-header-top {
         flex-direction: column;
         align-items: flex-start;
-        gap: 16px;
+        gap: 12px;
+    }
+    
+    .post-meta-compact {
+        gap: 15px;
+        font-size: 12px;
     }
     
     .post-content {
@@ -2863,20 +3118,142 @@ video::-webkit-media-controls-panel {
         font-size: 28px;
         margin: 32px 0 16px;
     }
+    
+    .post-footer-modern {
+        padding: 20px;
+        margin: 32px 0 24px;
+    }
+    
+    .tags-section,
+    .share-section {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    
+    .section-label {
+        font-size: 14px;
+    }
+    
+    .author-section {
+        flex-direction: column;
+        text-align: center;
+        gap: 24px;
+        padding: 20px 0;
+        margin: 20px 0;
+    }
+    
+    .author-avatar {
+        align-self: center;
+    }
+    
+    .author-avatar img {
+        width: 64px;
+        height: 64px;
+    }
+    
+    .author-info {
+        text-align: center;
+    }
+    
+    .author-name {
+        font-size: 22px;
+    }
+    
+    .author-title {
+        font-size: 14px;
+    }
+    
+    .author-bio {
+        font-size: 14px;
+        text-align: center;
+    }
+    
+    .author-social {
+        justify-content: center;
+        gap: 16px;
+        margin-top: 12px;
+    }
+    
+    .tags-container,
+    .share-buttons {
+        justify-content: center;
+    }
 }
 
 @media (max-width: 480px) {
     .post-title {
-        font-size: 32px;
+        font-size: 28px;
     }
     
     .post-subtitle {
-        font-size: 18px;
+        font-size: 14px;
+    }
+    
+    .post-header {
+        padding: 20px 15px 16px 15px;
+        min-height: 200px;
+    }
+    
+    .post-meta-compact {
+        flex-direction: column;
+        gap: 8px;
+        align-items: flex-start;
+    }
+    
+    .post-category-badge {
+        font-size: 12px;
+        padding: 4px 12px;
     }
     
     .post-author-card {
         flex-direction: column;
         text-align: center;
+    }
+    
+    .post-footer-modern {
+        padding: 16px;
+        margin: 24px 0 16px;
+    }
+    
+    .share-buttons {
+        flex-direction: column;
+        gap: 8px;
+    }
+    
+    .share-btn-modern {
+        padding: 10px 14px;
+        font-size: 13px;
+        justify-content: center;
+    }
+    
+    .author-section {
+        padding: 16px;
+        gap: 16px;
+    }
+    
+    .author-avatar img {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .author-name {
+        font-size: 16px;
+    }
+    
+    .author-title,
+    .author-bio {
+        font-size: 13px;
+    }
+    
+    .author-social {
+        gap: 8px;
+        margin: 8px 0;
+    }
+    
+    .social-link {
+        font-size: 12px;
+        padding: 3px 6px;
     }
 }
 

@@ -5,75 +5,115 @@ layout: default
 {% assign category = page.categories[0] | default: 'udalosti' %}
 <article class="post post-category-{{ category }}">
     <div class="container">
-        <header class="post-header">
-            <div class="post-category-badge">{{ category | capitalize }}</div>
+        <header class="post-header"{% if page.image %} style="background-image: url('{{ page.image }}')"{% elsif page.thumbnail %}{% if page.thumbnail contains 'http' %} style="background-image: url('{{ page.thumbnail }}')"{% else %} style="background-image: url('https://www.zajimaveprednasky.cz{{ page.thumbnail }}')"{% endif %}{% endif %}>
+            <!-- Background overlay for text readability -->
+            <div class="post-header-overlay"></div>
             
-            <h1 class="post-title">{{ page.title }}</h1>
-            
-            {% if page.excerpt %}
-            <div class="post-subtitle">{{ page.excerpt }}</div>
-            {% endif %}
-            
-            <div class="post-meta-enhanced">
-                <div class="post-meta-item">
-                    <svg class="post-meta-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
-                    </svg>
-                    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d. %B %Y" }}</time>
+            <!-- Content container -->
+            <div class="post-header-content">
+                <div class="post-header-top">
+                <div class="post-category-badge">{{ category | capitalize }}</div>
+                <div class="post-meta-compact">
+                    <time datetime="{{ page.date | date_to_xmlschema }}">
+                        <i class="meta-icon">📅</i> {{ page.date | date: "%d. %m. %Y" }}
+                    </time>
+                    <span class="post-author">
+                        <i class="meta-icon">✍️</i> {% if author_data.name %}{{ author_data.name }}{% else %}{{ page.author | default: 'PATRICK ZANDL' }}{% endif %}{% if page.read_time %} • čtení na {{ page.read_time }}{% endif %}
+                    </span>
+                </div>
                 </div>
                 
-                {% if page.read_time %}
-                <div class="post-meta-item">
-                    <svg class="post-meta-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
-                        <path d="M12.5 7H11v6l5.25 3.15.75-1.23L12.5 12.25z"/>
-                    </svg>
-                    <span>{{ page.read_time }}</span>
-                </div>
+                <h1 class="post-title">{{ page.title }}</h1>
+            
+                {% if page.excerpt %}
+                <div class="post-subtitle">{{ page.excerpt }}</div>
                 {% endif %}
-                
-                <div class="post-meta-item">
-                    <svg class="post-meta-icon" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M7.5 6.5C7.5 8.981 9.519 11 12 11s4.5-2.019 4.5-4.5S14.481 2 12 2 7.5 4.019 7.5 6.5zM20 21h1v-1c0-3.859-3.141-7-7-7h-4c-3.859 0-7 3.141-7 7v1h1 1 14z"/>
-                    </svg>
-                    <span>{{ page.author | default: 'Redakce' }}</span>
-                </div>
             </div>
         </header>
 
-        {% if page.author %}
-        <div class="post-author-card">
-            <img src="{{ page.author_image | default: 'https://picsum.photos/64/64?random=1' }}" alt="{{ page.author }}" class="post-author-avatar">
-            <div class="post-author-info">
-                <h4>{{ page.author }}</h4>
-                <p>{{ page.author_title | default: 'Přispěvatel' }}</p>
-            </div>
-        </div>
-        {% endif %}
 
-        {% if page.image %}
-        <img src="{{ page.image }}" alt="{{ page.title }}" class="post-featured-image">
-        {% endif %}
 
         <div class="post-content">
             {{ content }}
         </div>
 
-        <footer class="post-footer">
-            {% if page.tags %}
-            <div class="post-tags">
-                <h4>Štítky</h4>
-                {% for tag in page.tags %}
-                <span class="tag">{{ tag }}</span>
-                {% endfor %}
-            </div>
-            {% endif %}
-            
-            <div class="post-share">
-                <h4>Sdílejte článek</h4>
-                <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" target="_blank" class="share-btn">Facebook</a>
-                <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}" target="_blank" class="share-btn">Twitter</a>
-                <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}&title={{ page.title | url_encode }}" target="_blank" class="share-btn">LinkedIn</a>
+        <footer class="post-footer-modern">
+            <div class="footer-content">
+                <!-- Author Section - using centralized database with fallback -->
+                {% assign author_slug = page.author | default: 'patrick-zandl' | slugify %}
+                {% assign author_data = site.data.authors[author_slug] %}
+                {% unless author_data %}
+                    <!-- Try to find author by matching name in database -->
+                    {% for author in site.data.authors %}
+                        {% if author[1].name == page.author %}
+                            {% assign author_data = author[1] %}
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+                {% endunless %}
+                {% unless author_data %}
+                    {% assign author_data = site.data.authors['default'] %}
+                {% endunless %}
+                
+                <div class="author-section">
+                    <div class="author-avatar">
+                        <img src="{% if page.author_image %}{{ page.author_image }}{% elsif author_data.avatar %}{{ author_data.avatar }}{% else %}/assets/obrazky/default-avatar.jpg{% endif %}" alt="{% if author_data.name %}{{ author_data.name }}{% else %}{{ page.author | default: 'PATRICK ZANDL' }}{% endif %}">
+                    </div>
+                    <div class="author-info">
+                        <h4 class="author-name">{% if author_data.name %}{{ author_data.name }}{% else %}{{ page.author | default: 'PATRICK ZANDL' }}{% endif %}</h4>
+                        <p class="author-title">{% if author_data.title %}{{ author_data.title }}{% else %}{{ page.author_title | default: 'technologický odborník a publicista' }}{% endif %}</p>
+                        {% if author_data.bio %}
+                        <p class="author-bio">{{ author_data.bio }}</p>
+                        {% elsif page.author_bio %}
+                        <p class="author-bio">{{ page.author_bio }}</p>
+                        {% endif %}
+                        
+                        <!-- Social links if available -->
+                        {% if author_data.social %}
+                        <div class="author-social">
+                            {% if author_data.social.website %}
+                            <a href="{{ author_data.social.website }}" target="_blank" class="social-link">🌐 Web</a>
+                            {% endif %}
+                            {% if author_data.social.twitter %}
+                            <a href="https://twitter.com/{{ author_data.social.twitter | remove: '@' }}" target="_blank" class="social-link">✖️ Twitter</a>
+                            {% endif %}
+                            {% if author_data.social.linkedin %}
+                            <a href="https://linkedin.com/in/{{ author_data.social.linkedin }}" target="_blank" class="social-link">💼 LinkedIn</a>
+                            {% endif %}
+                        </div>
+                        {% endif %}
+                        
+                        <a href="{{ page.author_profile | default: '/autor/' | append: author_slug }}" class="author-profile-link">
+                            📝 Všechny články autora
+                        </a>
+                    </div>
+                </div>
+                
+                {% if page.tags %}
+                <div class="tags-section">
+                    <span class="section-label">📌 Štítky:</span>
+                    <div class="tags-container">
+                        {% for tag in page.tags %}
+                        <span class="tag-pill">#{{ tag }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+                
+                <div class="share-section">
+                    <span class="section-label">🔗 Sdílejte:</span>
+                    <div class="share-buttons">
+                        <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" target="_blank" class="share-btn-modern">
+                            <span class="btn-icon">📘</span> Facebook
+                        </a>
+                        <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}" target="_blank" class="share-btn-modern">
+                            <span class="btn-icon">✖️</span> X/Twitter
+                        </a>
+                        <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}&title={{ page.title | url_encode }}" target="_blank" class="share-btn-modern">
+                            <span class="btn-icon">💼</span> LinkedIn
+                        </a>
+                    </div>
+                </div>
             </div>
         </footer>
     </div>
