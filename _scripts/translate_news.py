@@ -69,11 +69,11 @@ def translate_text_with_openrouter(text):
         if api_key:
             print(f"  🤖 Překládám: {text[:50]}...")
             
-            prompt = f"""Přelož tento anglický nadpis zprávy do přirozeně znějící češtiny. Nepoužívej anglicismy.
+            prompt = f"""Přelož tento anglický nadpis zprávy do češtiny. Odpověz pouze přeloženým nadpisem, nic jiného. Bez komentářů, bez variant, bez vysvětlení.
 
 "{text}"
 
-Český překlad:"""
+Překlad:"""
             
             # OpenRouter.ai API volání
             data = {
@@ -82,7 +82,7 @@ def translate_text_with_openrouter(text):
                     {"role": "user", "content": prompt}
                 ],
                 "max_tokens": 100,
-                "temperature": 0.7
+                "temperature": 0.2
             }
             
             headers = {
@@ -102,6 +102,22 @@ def translate_text_with_openrouter(text):
                 result = json.loads(response.read().decode('utf-8'))
                 
             translated_title = result['choices'][0]['message']['content'].strip()
+            
+            # Očistíme odpověď od případných komentářů
+            # Pokud obsahuje číslované seznam nebo "Nejvýstižnější", vezmeme jen první řádek
+            lines = translated_title.split('\n')
+            if len(lines) > 1:
+                # Najdeme první řádek, který obsahuje skutečný překlad
+                for line in lines:
+                    line = line.strip()
+                    if line and not line.startswith('**') and not line.startswith('1.') and not line.startswith('2.') and not 'Nejvýstižnější' in line and not 'variant' in line.lower():
+                        translated_title = line
+                        break
+                else:
+                    translated_title = lines[0].strip()
+            
+            # Odstraníme případné uvozovky a jiné formátování
+            translated_title = translated_title.strip('"\'*:')
             
             # Zajistíme rozumnou délku
             if len(translated_title) > 200:
