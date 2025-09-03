@@ -5,6 +5,8 @@ import json
 import urllib.request
 import os
 import time
+import random
+from urllib.error import HTTPError
 
 def clean_title(text):
     """Vyčistí nadpis od uvozovek a zdrojů"""
@@ -58,15 +60,21 @@ def is_sports_news(title, description):
     
     return False
 
-def translate_text_with_openrouter(text):
-    """Přeloží text pomocí OpenRouter.ai"""
+def translate_text_with_openrouter(text, max_retries=3):
+    """Přeloží text pomocí OpenRouter.ai s rate limiting"""
     if not text or len(text.strip()) == 0:
         return text
     
-    try:
-        api_key = os.environ.get('OPENROUTER_API_KEY')
-        
-        if api_key:
+    # Rate limiting - čekat mezi požadavky
+    time.sleep(random.uniform(1.0, 2.0))
+    
+    api_key = os.environ.get('OPENROUTER_API_KEY')
+    if not api_key:
+        print(f"    ⚠️  OPENROUTER_API_KEY nenalezen, ponechávám: {text[:50]}...")
+        return text
+    
+    for attempt in range(max_retries):
+        try:
             print(f"  🤖 Překládám: {text[:50]}...")
             
             prompt = f"""Přelož tento anglický nadpis zprávy do češtiny. Odpověz pouze přeloženým nadpisem, nic jiného. Bez komentářů, bez variant, bez vysvětlení.
@@ -126,14 +134,29 @@ Překlad:"""
             print(f"    ✅ Výsledek: {translated_title}")
             return translated_title
             
-        else:
-            raise ValueError("OPENROUTER_API_KEY není nastavený! Nelze překládat.")
-        
-    except Exception as e:
-        print(f"  ❌ OpenRouter API selhalo: {e}")
-        import traceback
-        traceback.print_exc()
-        raise
+        except HTTPError as e:
+            if e.code == 429:  # Too Many Requests
+                wait_time = (2 ** attempt) + random.uniform(1, 3)  # Exponential backoff
+                print(f"    ⏳ Rate limit dosažen, čekám {wait_time:.1f}s... (pokus {attempt + 1}/{max_retries})")
+                time.sleep(wait_time)
+                continue
+            else:
+                print(f"    ❌ HTTP chyba {e.code}: {e}")
+                return text
+        except Exception as e:
+            print(f"    ❌ Chyba při překladu: {e}")
+            if attempt < max_retries - 1:
+                wait_time = random.uniform(2, 4)
+                print(f"    ⏳ Čekám {wait_time:.1f}s před dalším pokusem...")
+                time.sleep(wait_time)
+                continue
+            else:
+                # Poslední pokus selhal, vrátíme původní text
+                break
+    
+    # Pokud všechny pokusy selhaly
+    print(f"    ❌ OpenRouter API selhalo po {max_retries} pokusech: {text[:50]}...")
+    return text
 
 def main():
     # Načíst zprávy

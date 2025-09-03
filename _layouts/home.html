@@ -162,37 +162,51 @@ layout: default
                         Váš prohlížeč nepodporuje video tag.
                     </video>
                     
-                    <!-- Overlay s ovládáním -->
+                    <!-- Overlay s obrázkem, nadpisem a play tlačítkem -->
                     <div class="video-overlay" id="video-overlay">
-                        <!-- Play tlačítko pro aktuální video -->
-                        <button class="play-button" id="play-current-video">
-                            <svg width="60" height="60" viewBox="0 0 60 60" fill="white">
-                                <circle cx="30" cy="30" r="30" fill="rgba(0,0,0,0.7)"/>
-                                <path d="M 22,18 36,30 22,42 Z" fill="white"/>
-                            </svg>
-                        </button>
-                        
-                        <!-- Seznam dalších videí -->
-                        <div class="video-playlist-overlay">
-                            {% assign remaining_videos = videos | offset: 1 | limit: 3 %}
-                            {% for video in remaining_videos %}
-                            <div class="video-playlist-item" data-video-index="{{ forloop.index }}" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 80 }}">
-                                <span class="video-playlist-title">{{ video.title }}</span>
-                            </div>
-                            {% endfor %}
+                        <div class="video-thumbnail" id="video-thumbnail">
+                            {% assign first_video_file = videos.first.file | replace: '.mp4', '' | replace: '.m4a', '' | downcase | replace: '_', '-' | replace: ' ', '-' %}
+                            {% case first_video_file %}
+                                {% when 'veslejsi-ucinky-leku-glp-1' %}
+                                    <img src="/assets/obrazky/leky-na-hubnuti.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
+                                {% when 'dilema-airbnb--pohodli-vs' %}
+                                    <img src="/assets/obrazky/dilema-airbnb.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
+                                {% when 'qanon-ekosystem-konspiraci' %}
+                                    <img src="/assets/obrazky/qanon-puvod-konspiraci.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
+                                {% when 'tiatm6lmtmx34' %}
+                                    <img src="/assets/obrazky/audio-track.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
+                                {% else %}
+                                    <img src="/assets/obrazky/video-placeholder.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
+                            {% endcase %}
+                        </div>
+                        <div class="video-overlay-content">
+                            <h4 class="video-overlay-title" id="video-overlay-title">{{ videos.first.title }}</h4>
+                            <button class="play-button" id="play-current-video">
+                                <svg width="50" height="50" viewBox="0 0 50 50">
+                                    <circle cx="25" cy="25" r="25" fill="rgba(255,255,255,0.9)"/>
+                                    <path d="M 20,15 35,25 20,35 Z" fill="#333"/>
+                                </svg>
+                            </button>
                         </div>
                     </div>
                 </div>
                 
-                <div class="video-info-compact">
-                    <h4 id="sidebar-video-title">{{ videos.first.title }}</h4>
-                    <p id="sidebar-video-description">{{ videos.first.content | strip_html | truncate: 80 }}</p>
+                <!-- Seznam dalších videí pod přehrávačem -->
+                <div class="video-playlist-below">
+                    <div class="video-playlist-items" id="video-playlist-items">
+                        {% assign remaining_videos = videos | offset: 1 | limit: 3 %}
+                        {% for video in remaining_videos %}
+                        <a href="#" class="video-playlist-link" data-video-index="{{ forloop.index }}" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 80 }}">
+                            {{ video.title }}
+                        </a>
+                        {% endfor %}
+                    </div>
                 </div>
                 
                 <!-- Skrytý seznam všech videí pro JavaScript -->
                 <div id="sidebar-all-videos" style="display: none;">
                     {% for video in videos %}
-                    <div class="sidebar-playlist-item" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-description="{{ video.content | strip_html | truncate: 80 }}"></div>
+                    <div class="sidebar-playlist-item" data-video-src="{{ '/audiolm/' | append: video.file | relative_url }}" data-video-title="{{ video.title }}" data-video-file="{{ video.file }}" data-video-description="{{ video.content | strip_html | truncate: 80 }}"></div>
                     {% endfor %}
                 </div>
             </div>
@@ -391,14 +405,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
 document.addEventListener('DOMContentLoaded', function() {
     const videoPlayer = document.getElementById('sidebar-video');
-    const videoTitle = document.getElementById('sidebar-video-title');
-    const videoDescription = document.getElementById('sidebar-video-description');
     const videoOverlay = document.getElementById('video-overlay');
+    const videoOverlayTitle = document.getElementById('video-overlay-title');
     const playButton = document.getElementById('play-current-video');
     
     let currentVideoIndex = 0;
     const allVideos = Array.from(document.querySelectorAll('#sidebar-all-videos .sidebar-playlist-item'));
-    const playlistItems = Array.from(document.querySelectorAll('.video-playlist-item'));
+    const playlistLinks = Array.from(document.querySelectorAll('.video-playlist-link'));
+    
+    if (!videoPlayer || !videoOverlay) return;
     
     // Play current video
     playButton.addEventListener('click', function() {
@@ -425,40 +440,91 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
     
-    // Play video from playlist overlay
-    playlistItems.forEach((item, index) => {
-        item.addEventListener('click', function() {
-            // Přepočítat index pro celý seznam videí (první video + index z overlay)
+    // Play video from playlist links below
+    playlistLinks.forEach((link, index) => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            // Přepočítat index pro celý seznam videí (první video + index z linku)
             const videoIndex = index + 1;
             currentVideoIndex = videoIndex;
             loadVideo(videoIndex);
+            updatePlaylistLinks();
             videoPlayer.play();
         });
     });
     
+    // Video thumbnail mapping
+    const videoThumbnails = {
+        'veslejsi-ucinky-leku-glp-1': '/assets/obrazky/leky-na-hubnuti.jpg',
+        'dilema-airbnb--pohodli-vs': '/assets/obrazky/dilema-airbnb.jpg',
+        'qanon-ekosystem-konspiraci': '/assets/obrazky/qanon-puvod-konspiraci.jpg',
+        'tiatm6lmtmx34': '/assets/obrazky/audio-track.jpg'
+    };
+
     // Load video function
     function loadVideo(index) {
         const item = allVideos[index];
         const videoSrc = item.dataset.videoSrc;
         const videoTitleText = item.dataset.videoTitle;
-        const videoDescText = item.dataset.videoDescription;
+        const videoFile = item.dataset.videoFile;
         
         videoPlayer.src = videoSrc;
-        videoTitle.textContent = videoTitleText;
-        videoDescription.textContent = videoDescText;
+        videoOverlayTitle.textContent = videoTitleText;
+        
+        // Aktualizovat thumbnail podle video souboru
+        const thumbnailImg = document.getElementById('video-thumbnail-img');
+        if (thumbnailImg && videoFile) {
+            const videoKey = videoFile.replace(/\.(mp4|m4a)$/, '').toLowerCase().replace(/[^a-z0-9]/g, '-');
+            const thumbnailPath = videoThumbnails[videoKey] || '/assets/obrazky/video-placeholder.jpg';
+            thumbnailImg.src = thumbnailPath;
+            thumbnailImg.alt = videoTitleText;
+        }
         
         // Show overlay initially
         videoOverlay.style.display = 'flex';
+    }
+    
+    // Update playlist links to exclude current video
+    function updatePlaylistLinks() {
+        const playlistContainer = document.getElementById('video-playlist-items');
+        if (!playlistContainer) return;
+        
+        playlistContainer.innerHTML = '';
+        
+        let addedCount = 0;
+        allVideos.forEach((video, index) => {
+            if (index !== currentVideoIndex && addedCount < 3) {
+                const link = document.createElement('a');
+                link.href = '#';
+                link.className = 'video-playlist-link';
+                link.textContent = video.dataset.videoTitle;
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    currentVideoIndex = index;
+                    loadVideo(index);
+                    updatePlaylistLinks();
+                    videoPlayer.play();
+                });
+                playlistContainer.appendChild(link);
+                addedCount++;
+            }
+        });
     }
     
     // Auto-play next video when current ends
     videoPlayer.addEventListener('ended', function() {
         currentVideoIndex = currentVideoIndex < allVideos.length - 1 ? currentVideoIndex + 1 : 0;
         loadVideo(currentVideoIndex);
+        updatePlaylistLinks();
         videoPlayer.play();
     });
     
+    // Initialize first load
+    loadVideo(currentVideoIndex);
+    updatePlaylistLinks();
+    
     // Show overlay initially
     videoOverlay.style.display = 'flex';
+    console.log('Video player initialized');
 });
 </script>
