@@ -67,7 +67,7 @@ jobs:
                     
                     # OpenRouter.ai API volání
                     data = {
-                        "model": "mistralai/mistral-medium-2506",
+                        "model": "deepseek/deepseek-chat-v3.1:free",
                         "messages": [
                             {"role": "user", "content": prompt}
                         ],

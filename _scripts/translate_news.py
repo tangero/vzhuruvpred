@@ -25,7 +25,7 @@ def translate_text_with_openrouter(text):
             
             # OpenRouter.ai API volání
             data = {
-                "model": "openai/gpt-4o",
+                "model": "deepseek/deepseek-chat-v3.1:free",
                 "messages": [
                     {"role": "user", "content": prompt}
                 ],
