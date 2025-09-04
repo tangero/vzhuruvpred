@@ -1,60 +1,50 @@
 {
-  "updated": "2025-09-04T06:36:19.497425",
+  "updated": "2025-09-04T09:26:34.477197",
   "trends": [
     {
       "rank": 1,
-      "query": "lisabon lanovka",
-      "news_title": "V Lisabonu se zřítila oblíbená lanovka, zemřelo 15 lidí",
-      "news_url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-lisabonu-se-zritila-oblibena-lanovka-nekolik-lidi-je-zraneno-285286",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeQ1mF0Zd3_oveY1qN3Y6y1wtWqqkJwvtXpUD31FgkEKB9myYGZf41AuNrQyo",
-      "traffic": "5000++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=lisabon lanovka&geo=CZ"
-    },
-    {
-      "rank": 2,
-      "query": "kamu",
-      "news_title": "Skotsko zastavilo dotace firmám vyvážejícím zbraně do Izraele",
-      "news_url": "https://www.urfadabugun.com/haber/180175/iskocya-israile-silah-satan-sirketlere-verilen-subvansiyonlari-durdurdu.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9zusRHfyb6dTGdZ9WatrahccjQIi0JcO5V9Ii0P_u870rM7bx8u2ZX_KyH84",
-      "traffic": "500++ hledání",
-      "source": "Şanlıurfa Haberleri",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kamu&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "miroslav etzler",
-      "news_title": "Miroslav Etzler přiznal partnerce, že točil s exmanželkou",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/show-jana-krause-miroslav-etzler-vilma-cibulkova-polabi.A250829_130045_lidicky_nh",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvjsPr-nLIlhN8DPE3G7RsAiHOC-x5y5YG4qo7neRGd2jl4TDFVJMg04ewbA",
-      "traffic": "500++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=miroslav etzler&geo=CZ"
-    },
-    {
-      "rank": 4,
       "query": "teams",
-      "news_title": "NFL 2025: Předpovědi, silné stránky a rizika všech 32 týmů",
-      "news_url": "https://www.espn.com/nfl/story/_/id/45944636/nfl-team-previews-2025-predictions-fantasy-sleepers-rankings-depth-charts",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeJGIHLTpXy4L0rq33FlopO8irNxKwG1m04nGrSvHFV7Pn66v7jXz77bibedc",
-      "traffic": "200++ hledání",
+      "news_title": "Barnwell předpovídá playoff NFL: 14 týmů včetně vítěze Super Bowlu",
+      "news_url": "https://www.espn.com/nfl/story/_/id/45934298/2025-nfl-season-14-playoff-teams-chances-return-super-bowl",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx8ANaqJSwSfBpQLFNe-U2fxw73dvvDJH9huOR8g7nUOfaO68P2fG4vw77u-U",
+      "traffic": "1000++ hledání",
       "source": "ESPN",
       "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "us open 2025",
-      "news_title": "Muchová ve čtvrtfinále US Open proti Osakaové",
-      "news_url": "https://www.sport.cz/clanek/tenis-us-open-2025-ctvrtfinale-muchova-osakaova-online-5285264",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvAS4esPUgQQl4ILg3gEg-Fw1S9eDfkq-VJqWyKA5amgecB5tkRAOsdRjyM3E",
+      "rank": 2,
+      "query": "mickey rourke",
+      "news_title": "Mickey Rourke šokuje proměnou po měsících v ústraní, je k nepoznání",
+      "news_url": "https://www.expres.cz/celebrity/mickey-rourke-hollywoodsky-zly-hoch-sokuje-promenou-po-mesicich-v-ustrani-americky-herec-je-k-nepozn.A250829_185557_dx-celebrity_pkor",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNCxVRi36_UEH3YyC5fC9lxdmIu6dLbustelQbGNjrC37sL7ZXof1p-Sr8bhI",
+      "traffic": "500++ hledání",
+      "source": "Expres.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=mickey rourke&geo=CZ"
+    },
+    {
+      "rank": 3,
+      "query": "singapur",
+      "news_title": "Singapur nařídil Metě zavést protipodvodní opatření, jinak hrozí pokuta",
+      "news_url": "https://www.reuters.com/business/media-telecom/singapore-orders-meta-implement-anti-scam-measures-or-face-possible-fine-2025-09-03/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRNydtb1Vq2jjb4v_SyRbEl5dPlCnNvLUDoBgGGRY-JKH8qR2tfThvocdQWek",
       "traffic": "200++ hledání",
-      "source": "Sport.cz",
+      "source": "Reuters",
+      "explore_url": "https://trends.google.cz/trends/explore?q=singapur&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "us open 2025",
+      "news_title": "US Open 2025: Jak sledovat zápas Osaka vs. Muchová",
+      "news_url": "https://sports.yahoo.com/tennis/article/2025-us-open-how-to-watch-naomi-osaka-vs-karolina-muchova-in-the-tennis-tournament-tonight-150525728.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezEdXPyOlPA-4v8alXKM3Rr6gCyGiVhLWSR6FlNc2f-OrvxuTksKI2OTzf-s",
+      "traffic": "200++ hledání",
+      "source": "Yahoo Sports",
       "explore_url": "https://trends.google.cz/trends/explore?q=us open 2025&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "query": "us open",
-      "news_title": "Siniaková dostala od deblové partnerky náušnice a naučila ji češtinu.",
+      "news_title": "US Open: Siniaková dostala překvapivý dárek",
       "news_url": "https://www.sport.cz/clanek/tenis-us-open-siniakova-dostala-od-partacky-z-deblu-nausnice-sama-ji-naucila-nekolik-ceskych-slov-5285792",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQejKpyH6gpIS9V23yNwnNL4t0WcdNDm_StPfrfqDcjftrQHh9E4jt_OiVlBs",
       "traffic": "200++ hledání",
@@ -62,9 +52,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=us open&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "query": "tipsport",
-      "news_title": "VIA Beroun otevírá vzdělávací kampus",
+      "news_title": "VIA Beroun otevírá nový vzdělávací kampus",
       "news_url": "https://sdeleni.idnes.cz/zpravy/via-beroun-otevira-rozsahly-vzdelavaci-kampus.A250902_104411_zpr_sdeleni_hradr",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBKy1UNUvZqmrjesAtWXNZBNqYnFU1JLo9TLWEcQ7h4OKU3v42jFcGRTYhH7U",
       "traffic": "200++ hledání",
@@ -72,14 +62,24 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=tipsport&geo=CZ"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "query": "chance",
-      "news_title": "Zorvan v Jablonci: Jak má složený plat a proč zůstal v Česku?",
+      "news_title": "Zorvan v Jablonci: Udržely ho ambice, změna poměrů a složený plat",
       "news_url": "https://isport.blesk.cz/clanek/fotbal-chance-liga/465845/zorvan-v-jablonci-v-cesku-ho-udrzely-ambice-i-zmena-pomeru-jak-ma-slozeny-plat.html",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqTwdnvCxYFUxaYGjQyELKpJofgj8GzrDfVuybW7kTubvtgeuGFQOEmkYe_So",
       "traffic": "200++ hledání",
       "source": "iSport.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=chance&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "anisimova",
+      "news_title": "Anisimova vyřadila Swiatekovou a postupuje do finále Wimbledonu",
+      "news_url": "https://www.bbc.com/sport/tennis/articles/cwy94dl11exo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxhJ1-rqNWyIq6kWQoxh6K1yPFd0lFJcOrmFBJeHiPmDCX4Qx_X7hR1EIt2mg",
+      "traffic": "200++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=anisimova&geo=CZ"
     }
   ]
 }
