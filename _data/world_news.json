@@ -1,27 +1,137 @@
 {
-  "last_updated": "2025-09-04T12:35:26",
+  "last_updated": "2025-09-04T13:26:50",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nový digitální zápisník Remarkable je menší než paperback",
-      "original_title": "Remarkable’s new digital notepad is smaller than a paperback - The Verge",
-      "url": "https://www.theverge.com/news/769005/remarkable-paper-pro-move-e-note-notebook-stylus-tablet-e-ink",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/remarkable_paperpromove1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-03T12:00:00Z",
-      "description": "The Move je cenově dostupná verze tabletu Remarkable Paper Pro s pokročilým barevným displejem a bezdrátově dobíjeným perem."
+      "title": "Putin a Si Ťin-pching přemýšlejí, jak se dožít 150 let pomocí moderní transplantace orgánů",
+      "original_title": "Putin and Xi brainstorm living to 150 with modern organ transplants - politico.eu",
+      "url": "https://www.politico.eu/article/vladimir-putin-xi-jiping-caught-discussing-living-150-years-old-bio-technology-longevity/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/03/GettyImages-2232549482-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-03T14:11:00Z",
+      "description": "Ruský vůdce byl nahrán, jak se s čínským prezidentem přemítá o „nesmrtelnosti“"
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Oběti Jeffreyho Epsteina pořádají tiskovou konferenci",
+      "original_title": "Victims of Jeffrey Epstein giving news conference - BBC",
+      "url": "https://www.bbc.com/news/live/cpwywe5ee84t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/50ba/live/c92f9800-88d0-11f0-8621-9dbb53d1b02b.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-03T14:03:45Z",
+      "description": "Na mediální akci, kterou pořádají dva američtí politici, vystoupí nejméně deset žen."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Pro americké pracovníky je stále méně pracovních míst",
+      "original_title": "There are fewer and fewer jobs available for US workers - CNN",
+      "url": "https://www.cnn.com/2025/09/03/economy/us-jolts-job-openings-layoffs-july",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2231677154.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-03T14:02:00Z",
+      "description": "Růst pracovních míst byl v červenci tak slabý, že prezident Donald Trump odvolal šéfa úřadu pověřeného sběrem údajů o zaměstnanosti, a to bezdůvodně s tvrzením, že data byla zmanipulovaná."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie Macy's posilují o 10 % po překonání odhadů zisku a zvýšení výhledu",
+      "title": "Mimo technologii? Jak Bentley reaguje na 21. století.",
+      "original_title": "Beyond technology? How Bentley is reacting to the 21st century. - Ars Technica",
+      "url": "https://arstechnica.com/features/2025/09/beyond-technology-how-bentley-is-reacting-to-the-21st-century/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/15-EXP-15-Detail-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-03T13:36:40Z",
+      "description": "S dominancí Číny, kam se poděje značka jako Bentley?"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jaké zbraně Čína předvedla na vojenské přehlídce za přítomnosti Si Ťin-pchinga, Vladimira Putina a Kim Čong-una",
+      "original_title": "What weapons China showed off in its military parade as Xi Jinping, Vladimir Putin and Kim Jong Un watched - CBS News",
+      "url": "https://www.cbsnews.com/news/china-military-parade-new-weapons-pictures-laser-icbm-ai-drones-missiles-xi-jinping/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/03/1edb7ef6-f736-48ad-8ed5-8e8212a802d5/thumbnail/1200x630/cdc75a0cc4b3ee190ebfa19fc0e29f9b/china-ly-1-laser-2233511537.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-03T13:20:00Z",
+      "description": "Si Ťin-pching pozval své ruské a severokorejské protějšky, aby byli svědky přehlídky vojenské síly. Zde jsou některé zbraně předvedené na přehlídce."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zvěsti: iPhone 17 Pro bude mít lepší tepelný management pro delší výdrž baterie, vyšší jas displeje a další vylepšení",
+      "original_title": "Rumor: iPhone 17 Pro to feature better thermals for improved battery life, display brightness, more - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/03/rumor-iphone-17-pro-to-feature-better-thermals-for-improved-battery-life-display-brightness-more/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/iphone-17-pro-concept-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-03T12:47:00Z",
+      "description": "Do startu prodeje řady iPhone 17 zbývá méně než týden a nová zpráva naznačuje…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Mystická\" cesta Hilarie Baldwinové na \"StarDance\" s Jordan Chilesovou a Corey Feldmanem",
+      "original_title": "Hilaria Baldwin's 'mystical' journey to 'DWTS' with Jordan Chiles, Corey Feldman - USA Today",
+      "url": "https://www.usatoday.com/story/entertainment/tv/2025/09/03/dwts-cast-hilaria-baldwin-dylan-efron-jordan-chiles/85944489007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/03/USAT/85948547007-178793-6208-v-1.jpg?crop=1853,1043,x0,y269&width=1853&height=1043&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2025-09-03T12:41:22Z",
+      "description": "Hilaria Baldwinová bere Aleca Baldwina a rodinu na cestu \"StarDance\", přidávají se k nim nové hvězdy Corey Feldman, Dylan Efron, Baron Davis a Jordan Chiles."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Více než tisíc zaměstnanců ministerstva zdravotnictví požaduje v novém dopise rezignaci RFK Jr.",
+      "original_title": "More than 1,000 HHS workers demand RFK Jr.'s resignation in new letter - Axios",
+      "url": "https://www.axios.com/2025/09/03/rfk-jr-resign-hhs-employees-letter-trump-cdc",
+      "urlToImage": "https://images.axios.com/9eX5hnMtxzQkEM1lu2jyBt2JUrY=/0x205:6906x4090/1366x768/2025/09/03/1756900846418.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-03T12:41:06Z",
+      "description": "„Kennedyho kroky ohrožují zdraví národa,“ píše se v dopise ze středy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Míra rakoviny prostaty v USA v posledním desetiletí každoročně stoupala, uvádí nová zpráva",
+      "original_title": "US prostate cancer rates rose annually over the past decade, new report finds - ABC News",
+      "url": "https://abcnews.go.com/Health/us-prostate-cancer-rates-rose-annually-past-decade/story?id\\\\u003d125176270",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-03T12:21:45Z",
+      "description": ""
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Lék na srdce, který užívají miliony lidí, může být často k ničemu – nebo dokonce riskantní",
+      "original_title": "A Common Heart Drug Taken by Millions May Often Be Useless – or Even Risky - ScienceAlert",
+      "url": "https://www.sciencealert.com/a-common-heart-drug-taken-by-millions-may-often-be-useless-or-even-risky",
+      "urlToImage": "https://www.sciencealert.com/images/2025/09/BetaBlockers.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-09-03T12:01:23Z",
+      "description": "Miliony lidí po celém světě užívají betablokátory, aby snížily riziko kardiovaskulárních problémů, zejména po infarktu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zákonodárci tlačí na zveřejnění dalších Epsteinových dokumentů. A rodina Trumpů spouští kryptoměnu.",
+      "original_title": "Lawmakers push for release of more Epstein files. And, Trump family launches crypto - NPR",
+      "url": "https://www.npr.org/2025/09/03/g-s1-86751/up-first-newsletter-jeffrey-epstein-trump-cryptocurrency-china-military-parade",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5242x2949+0+273/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F6e%2F1fa440a64845b932a0c947329ea8%2Fgettyimages-2225859689.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-03T11:19:30Z",
+      "description": "Někteří členové Kongresu se snaží prosadit hlasování, které by donutilo Trumpovu administrativu zveřejnit více souborů o Jeffreym Epsteinovi. A Trumpův rodinný kryptoměnový projekt tento týden zača..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie Macy’s poskočily o 10 % po překonání odhadů zisku a zvýšení výhledu",
       "original_title": "Macy's shares pop 10% as retailer tops earnings estimates, raises outlook - CNBC",
       "url": "https://www.cnbc.com/2025/09/03/macys-q2-earnings-2025.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/104278584-GettyImages-84590372.jpg?v=1582215176&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-09-03T10:57:45Z",
-      "description": "Macy's výrazně překonala odhady zisku Wall Street a zvýšila výhled, restaurované prodejny zaznamenaly lepší prodejní trendy."
+      "description": "Macy's snadno překonala odhady zisku Wall Street a zvýšila svůj výhled, protože přestavěné prodejny zaznamenaly lepší prodejní trendy."
     },
     {
       "flag": "🇺🇸",
@@ -32,18 +142,18 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCQ2LOOC4F4Q4SUJHWFLRFYK4U_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-03T10:31:14Z",
-      "description": "Federální panel rozhodl, že Trump nezákonně použil zákon o nepřátelských cizincích k deportaci venezuelských migrantů, protože neshledal, že došlo k invazi nebo „predátorskému vpádu“."
+      "description": "Federální panel rozhodl, že Trump nezákonně použil Zákon o nepřátelských cizincích k deportaci venezuelských migrantů, protože neshledal, že došlo k invazi nebo „predátorskému vpádu“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kanárek v uhelném dole zpívá, protože globální výprodej dluhopisů vyvolává obavy o státní dluh",
-      "original_title": "The canary in the coal mine is singing as global bond selloff raises national debt concerns - Fortune",
-      "url": "https://fortune.com/2025/09/03/global-bond-selloff-national-debt-america-uk-france/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2154883261-e1756893966439.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-03T10:25:37Z",
-      "description": "Globální výnosy dluhopisů letí k mnohaletým maximům kvůli obavám z dluhu USA, Británie a Francie, zatímco zlato atakuje rekordních 3537 dolarů."
+      "title": "Zpráva: Michael Longfellow z SNL vysvětluje, proč byl vyhozen",
+      "original_title": "Report: SNL’s Michael Longfellow Explains Why He Was Fired - yahoo.com",
+      "url": "https://www.comingsoon.net/pop-culture/news/2023134-snl-michael-longfellow-fired-why",
+      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/09/snll.jpg?resize=1200,630",
+      "source": "ComingSoon.net",
+      "publishedAt": "2025-09-03T10:26:44Z",
+      "description": "Herečka Michaela Longfellow z Saturday Night Live údajně prozradila podrobnosti svého propuštění. Čtěte dál a dozvíte se více!"
     },
     {
       "flag": "🌍",
@@ -54,7 +164,7 @@
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/03/da9e0ff2-f893-42ab-a418-049529733329/thumbnail/1200x630/87918c20afc894e60eb9d669d426e3bc/gettyimages-2225834388.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-03T10:00:19Z",
-      "description": "Bývalý federální prokurátor o zamítnutí obžaloby grand jury v D.C. prohlásil, že „o něčem takovém nikdy neslyšel“."
+      "description": "Bývalý federální žalobce o zamítnutí obžaloby velkou porotou v D.C. prohlásil, že „o něčem takovém nikdy neslyšel“."
     },
     {
       "flag": "🌍",
@@ -65,100 +175,34 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/a4c90b7/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F4d%2Ffc3a5849fc736bd81ed66a229fa1%2Fbeb7940f8524459a895f6ac162713f87",
       "source": "Associated Press",
       "publishedAt": "2025-09-03T10:00:00Z",
-      "description": "Více než 100 přeživších a příbuzných obětí nejkrvavější střelby v Maine žaluje federální vládu"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Graham Greene, průkopnický herec původních obyvatel známý z filmu Tanec s vlky, zemřel ve věku 73 let",
-      "original_title": "Graham Greene, a trailblazing Indigenous actor best known for ‘Dances with Wolves’, dies at 73 - CNN",
-      "url": "https://www.cnn.com/2025/09/03/entertainment/graham-greene-dances-with-wolves-actor-dies-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-12553588f.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-03T09:59:00Z",
-      "description": "Graham Greene, průkopnický herec původních obyvatel, jehož dlouhá a úspěšná kariéra na velkém i malém plátně zahrnovala nominaci na Oscara za ztvárnění Kicking Birda ve filmu „Tanec s vlky“, zemřel."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Trump tvrdí, že americký úder na venezuelský loď s drogami zabil 11 lidí",
-      "original_title": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela - BBC",
-      "url": "https://www.bbc.com/news/articles/cpwywjgynyxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/031c/live/5c166c90-8875-11f0-9cf6-cbf3e73ce2b9.png",
-      "source": "BBC News",
-      "publishedAt": "2025-09-03T09:10:59Z",
-      "description": "Trumpova administrativa naznačila ochotu použít vojenskou sílu proti drogových kartelům."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Johnsonovi roste tlak, Sněmovna republikánů se chystá na hlasování o Epsteinovi",
-      "original_title": "Johnson faces escalating pressure as House GOP prepares for Epstein vote - CNN",
-      "url": "https://www.cnn.com/2025/09/03/politics/epstein-congress-republicans",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2225599595.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-03T09:00:00Z",
-      "description": "Předseda sněmovny Johnson se vrací do Washingtonu a vyslechne si oběti Epsteina"
+      "description": "Více než 100 přeživších a příbuzných obětí nejtragičtější střelby v Maine žaluje federální vládu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kolik obchodují Indie, Rusko a Čína a jaké zboží nakupují?",
-      "original_title": "How much do India, Russia, China trade and what goods do they buy? - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/3/how-much-do-india-russia-china-trade-and-what-goods-do-they-buy",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/INTERACTIVE-TRADE-SCO-COVER-sep3-2025-copy-4-1756879413.png?resize=1200%2C630",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-03T08:37:30Z",
-      "description": "Obchod mezi Indií, Čínou a Ruskem má hodnotu 452 miliard dolarů. Al Jazeera rozebírá čísla."
+      "title": "Meziplanetární kometa 3I/ATLAS proletí kolem Marsu za měsíc — a evropské orbitery u Rudé planety budou připraveny",
+      "original_title": "Interstellar comet 3I/ATLAS will fly by Mars 1 month from now — and Europe's Red Planet orbiters will be ready - Space",
+      "url": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-will-fly-by-mars-1-month-from-now-and-europes-red-planet-orbiters-will-be-ready",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Sye7gV5yuME9CoKuHsW8ge.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-03T10:00:00Z",
+      "description": "Mezihvězdný návštěvník proletí 3. října jen 30 milionů kilometrů od Marsu – mnohem blíž, než se přiblíží k Zemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jeden mrtvý a tři zranění při havárii letadla ve Wyomingských horách",
-      "original_title": "1 killed, 3 injured in Wyoming mountains plane crash - ABC News",
-      "url": "https://abcnews.go.com/US/1-killed-3-injured-wyoming-mountains-plane-crash/story?id\\\\u003d125206257",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-03T06:45:00Z",
-      "description": ""
+      "title": "Ceny ropy zůstávají stabilní po amerických sankcích proti íránskému ropnému schématu - Ceny ropy dnes | OilPrice.com",
+      "original_title": "Oil Prices Hold Steady After U.S. Sanctions on Iranian Crude Scheme - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Hold-Steady-After-US-Sanctions-on-Iranian-Crude-Scheme.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2025-09-03_olhh1jtzie.jpg",
+      "source": "OilPrice.com",
+      "publishedAt": "2025-09-03T05:55:19Z",
+      "description": "Ceny ropy se stabilizovaly, když trhy zvažovaly nové americké sankce za skrytý íránský vývoz, potenciální pokles amerických zásob a nadcházející zasedání OPEC."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pohled na světové lídry, kteří se připojili k čínské vojenské přehlídce na znamení solidarity s Pekingem",
-      "original_title": "A look at the world leaders joining China’s military parade in a show of solidarity with Beijing - AP News",
-      "url": "https://apnews.com/article/china-parade-guests-world-leaders-531525ac9f59036fe44e0495920a1798",
-      "urlToImage": "https://dims.apnews.com/dims4/default/68526d3/2147483647/strip/true/crop/5893x3315+0+307/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2F4e%2F503ab3e6daaff84ef78a9bc6c881%2Fa3bc251bd54d4e94884a312fdfe52e41",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-03T06:38:00Z",
-      "description": "Čínský prezident Si Ťin-pching uspořádal vojenskou přehlídku v Pekingu u příležitosti 80. výročí konce druhé světové války. Zúčastnili se jí představitelé z asi dvou desítek zemí, včetně ruského pr..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Počet obětí zemětřesení v Afghánistánu podle úředníků stoupl na více než 1400",
-      "original_title": "Death toll climbs to over 1,400 after Afghanistan earthquake, official says - ABC News",
-      "url": "https://abcnews.go.com/International/afghanistan-earthquake-death-toll-rises/story?id\\\\u003d125172025",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-03T05:26:15Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Akciové futures mírně rostou poté, co Google unikl přísnému antimonopolnímu trestu: Živé aktualizace",
-      "original_title": "Stock futures edge higher after Google avoids harsh antitrust penalty: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/09/02/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192472-1756479438071-Traders-Photo-20250828-KK-006.jpg?v=1756497315&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-03T05:00:00Z",
-      "description": "Investoři ve středu bohatě sklízeli zisky, přestože tři hlavní americké indexy uzavřely v červených číslech."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "SpaceX vypustila na oběžnou dráhu z Kalifornie 24 satelitů Starlink pomocí zbrusu nové rakety Falcon 9",
+      "title": "SpaceX vyslala na orbitu 24 satelitů Starlink z Kalifornie pomocí zbrusu nové rakety Falcon 9",
       "original_title": "SpaceX launches 24 Starlink satellites to orbit from California on brand-new Falcon 9 rocket - Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-new-falcon-9-rocket-starlink-launch-group-17-8",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/q4eyLb3D66DAmiZ2GfoPBo.jpg",
@@ -167,92 +211,59 @@
       "description": "Šlo o 109. misi Falconu 9 v tomto roce."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Dwayne ‘The Rock’ Johnson v Benátkách překvapil novou postavou. Fanoušci nevěří",
-      "original_title": "Dwayne ‘The Rock’ Johnson’s slimmer look at Venice Film Festival has fans doing double takes - yahoo.com",
-      "url": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnsons-slimmer-look-venice-film-festival-has-fans-doing-double-takes",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/dwayne-johnson-transformation.jpg",
-      "source": "Fox News",
-      "publishedAt": "2025-09-03T01:00:00Z",
-      "description": "Dwayne Johnson šokoval fanoušky svou proměnou na Benátském filmovém festivalu, kde předvedl výrazně štíhlejší postavu, což vyvolalo virové reakce."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Google údajně dodává v USA reklamační jednotky Pixelu 10 s podporou fyzické SIM karty",
-      "original_title": "Google reportedly shipping Pixel 10 RMA units with physical SIM support in US - 9to5Google",
-      "url": "http://9to5google.com/2025/09/02/google-pixel-10-replacements-physical-sim-support-rma/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-Pro-XL-SIM-tray-with-SIM-card-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-03T00:19:00Z",
-      "description": "Někteří kupující telefonu Google Pixel 10 v USA, kteří požádali o výměnu nového kusu, byli překvapeni..."
+      "flag": "🌍",
+      "country": "global",
+      "title": "První letošní případ nákazy virem západního Nilu v zemi byl hlášen v Middlesex County",
+      "original_title": "State’s first human case of West Nile virus this year reported in Middlesex County - Boston.com",
+      "url": "https://www.boston.com/news/local-news/2025/09/02/states-first-human-case-of-west-nile-virus-this-year-reported-in-middlesex-county/",
+      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/07/5SNDF5XQDJFOVH7EAMJHOAKXWU-68727399c3b76-768x432.jpg",
+      "source": "Boston.com",
+      "publishedAt": "2025-09-03T00:39:16Z",
+      "description": "Sedmdesátiletá žena byla první v Massachusetts, u které byl letos potvrzen virus západního Nilu, oznámilo v úterý ministerstvo."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vědci objevili na Marsu desítky záhadných útvarů, které mohou být pozůstatky zaniklých planet",
+      "title": "Desítky záhadných útvarů objevených na Marsu mohou být pozůstatky \"ztracených planet",
       "original_title": "Dozens of mysterious blobs discovered inside Mars may be the remnants of 'failed planets' - Live Science",
       "url": "https://www.livescience.com/space/mars/dozens-of-mysterious-blobs-discovered-inside-mars-may-be-the-remnants-of-failed-planets",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/EHoV9n5pnrr7kZHQWmStCB.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-02T21:22:53Z",
-      "description": "Data z marsotřesení nasbíraná přistávacím modulem NASA InSight odhalila desítky záhadných skvrn v plášti Rudé planety. Struktury možná zanechaly silné dopady před až 4,5 miliardami let."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ceny iPhonu 17 a iPhone 17 Pro jsou odhadovány před nadcházejícím Apple Eventem",
-      "original_title": "iPhone 17 and iPhone 17 Pro Prices Estimated Ahead of Apple Event Next Week - MacRumors",
-      "url": "https://www.macrumors.com/2025/09/02/iphone-17-price-estimates/",
-      "urlToImage": "https://images.macrumors.com/t/8t-XlHqFHgoUaJnB-MX3yoQnjLc=/2500x/article-new/2025/07/iPhone-17-Pro-Iridescent-Feature-2.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-02T20:50:25Z",
-      "description": "Jen týden před očekávaným představením iPhonu 17 analytik zveřejnil odhadované ceny zařízení. Zde jsou J.P...."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Novou šéfkou redakce amerického Vogue je Chloe Malle, „hrdá nepo dítě“",
-      "original_title": "New Vogue U.S. Head of Editorial Chloe Malle Is a “Proud Nepo Baby” - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/new-vogue-editor-chloe-malle-proud-nepo-baby-1236359327/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-1078349068-e1756841713919.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-02T19:49:38Z",
-      "description": "Rodiče Malleové, herečka Candice Bergenová a režisér/scenárista Louis Malle, jsou oba nominovaní na Oscara."
+      "description": "Data z marsotřesení nasbíraná sondou NASA InSight odhalila desítky záhadných skvrn v plášti Rudé planety. Struktury možná zanechaly silné impakty před až 4,5 miliardami let."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Sloupek | Co se Sanjay Gupta naučil po letech zkoumání chronické bolesti a mozku",
+      "title": "Komentář | Co se Sanjay Gupta naučil po letech zkoumání chronické bolesti a mozku",
       "original_title": "Column | What Sanjay Gupta learned after years studying chronic pain and the brain - The Washington Post",
       "url": "https://www.washingtonpost.com/wellness/2025/09/02/sanjay-gupta-pain-relief/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HBSHBVI65FE3G3QHSV2PDNPCM.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-02T17:00:55Z",
-      "description": "V knize Sanjaye Gupty „Nemusí to bolet“ neurochirurg a medicínský žurnalista zkoumá nejnovější vědecké poznatky o úlevě od chronické bolesti."
+      "description": "V knize Sanjaye Gupty „Nemusí to bolet“ neurochirurg a lékařský reportér zkoumá nejnovější vědecké poznatky o úlevě od chronické bolesti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mamutí bolesti zubů: v tlamě pradávného savce objevili bakteriální společenství",
-      "original_title": "A mammoth toothache: bacterial community discovered in mouth of ancient mammal - Nature",
-      "url": "https://www.nature.com/articles/d41586-025-02799-x",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02799-x/d41586-025-02799-x_51412842.jpg",
-      "source": "Nature.com",
-      "publishedAt": "2025-09-02T15:33:45Z",
-      "description": "Genetické sekvenční techniky odhalily nejstarší hostitelskou mikrobiální DNA v historii – uvnitř vzorků zubů a kostí mamutů srstnatých a stepních."
+      "title": "Poslední dva dny na získání kreditu 200 USD do Google Store k nákupu Pixelu 10 Pro zdarma",
+      "original_title": "Two Days Left to Get Free $200 Google Store Credit When You Buy Pixel 10 Pro - Droid Life",
+      "url": "https://www.droid-life.com/2025/09/02/pixel-10-pro-google-store-credit-promo/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2025/08/Pixel-10-Pro-Camera-2-1200x628-cropped.jpg",
+      "source": "Droid Life",
+      "publishedAt": "2025-09-02T16:43:40Z",
+      "description": "Nabídka 200 dolarů zdarma do Google Store při koupi Pixelu 10 Pro vyprší 4. září"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Noční obloha v září 2025: Dvě zatmění, polární záře na Den práce a Saturn",
-      "original_title": "The Night Sky In September 2025: Two Eclipses, Labor Day Aurora And Saturn - Forbes",
-      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/08/31/the-night-sky-in-september-2025-northern-lights-eclipses-and-saturn/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689ee896ee08de164c52d549/0x0.jpg?format=jpg&crop=1201,675,x432,y393,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-09-01T21:39:04Z",
-      "description": "Každý měsíc vybírám nejzajímavější astronomické úkazy v Severní Americe pro nadcházející týdny (platí i pro střední severní šířky na severní polokouli)."
+      "title": "Technika satelitního laserového dálkoměru odhalila 90mm nárůst hladiny moře za posledních 30 let",
+      "original_title": "Satellite laser ranging technique reveals 90 mm sea-level surge over past 30 years - Phys.org",
+      "url": "https://phys.org/news/2025-09-satellite-laser-ranging-technique-reveals.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/satellite-laser-rangin.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-09-01T17:00:10Z",
+      "description": "Vzestup globální průměrné hladiny moře (GMSL) je klíčovým ukazatelem změny klimatu. Výzkumníci z Hongkongské polytechnické univerzity (PolyU) využili pokročilé vesmírné geodetické technologie, aby ..."
     }
   ]
 }
