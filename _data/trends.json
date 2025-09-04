@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-03T21:22:35.445708",
+  "updated": "2025-09-04T01:53:31.361240",
   "trends": [
     {
       "rank": 1,
@@ -13,8 +13,28 @@
     },
     {
       "rank": 2,
+      "query": "us open",
+      "news_title": "Ósakaová N.",
+      "news_url": "https://www.sport.cz/clanek/online-tenis-us-open-zeny-muchova-karolina-osakaova-naomi-04-09-2025-5285228",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5jug_Sf3rpnbTTQJcx7ww-CYNrIeM6YjEbWsAkjoyiXyef5NlIvX--WD5LhU",
+      "traffic": "500++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=us open&geo=CZ"
+    },
+    {
+      "rank": 3,
+      "query": "kamu",
+      "news_title": "Skotsko zastaví financování firem zásobujících Izrael zbraněmi",
+      "news_url": "https://www.aa.com.tr/tr/dunya/iskocya-israili-silahlandiran-sirketlere-kamu-fonu-aktarimini-durduracak/3677743",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflmbtrHhev0sMzvO4qAJ6v6nX-65xrohs1dqaLgYU6UOlS7PZaPxzXNzzlzc",
+      "traffic": "500++ hledání",
+      "source": "Anadolu Ajansı",
+      "explore_url": "https://trends.google.cz/trends/explore?q=kamu&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "miroslav etzler",
-      "news_title": "Miroslav Etzler přiznal partnerce, že točil s exmanželkou.",
+      "news_title": "Miroslav Etzler přiznal partnerce, že točil s exmanželkou",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/show-jana-krause-miroslav-etzler-vilma-cibulkova-polabi.A250829_130045_lidicky_nh",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvjsPr-nLIlhN8DPE3G7RsAiHOC-x5y5YG4qo7neRGd2jl4TDFVJMg04ewbA",
       "traffic": "500++ hledání",
@@ -22,64 +42,44 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=miroslav etzler&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "kratom",
-      "news_title": "Kratom je nově na seznamu psychomodulačních látek",
-      "news_url": "https://www.novinky.cz/clanek/domaci-vlada-zaradila-kratom-na-seznam-psychomodulacnich-latek-40537004",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPBsjgOYtPh528KYy3vitHng6oP3v76x4Dce8p4467TueBR7_0q_vjeVLXQeY",
-      "traffic": "500++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kratom&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "kamu",
-      "news_title": "Skotsko zastaví financování firem zásobujících Izrael zbraněmi",
-      "news_url": "https://www.aa.com.tr/tr/dunya/iskocya-israili-silahlandiran-sirketlere-kamu-fonu-aktarimini-durduracak/3677743",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQflmbtrHhev0sMzvO4qAJ6v6nX-65xrohs1dqaLgYU6UOlS7PZaPxzXNzzlzc",
-      "traffic": "200++ hledání",
-      "source": "Anadolu Ajansı",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kamu&geo=CZ"
-    },
-    {
       "rank": 5,
+      "query": "tipsport",
+      "news_title": "Extraliga: Kdo nejvíc posílil a kdo zaostal? Výprodeje, trefy i otazníky.",
+      "news_url": "https://www.idnes.cz/hokej/extraliga/prestupy-14-tymu-prehled-prichody-odchody.A250902_093423_hokej_ivt/9",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSADHWrUNCIX4K8E_qVqTADx5ZRqnthanFyZCKOSWsbStoGFI4FiolKZu0Q2pg",
+      "traffic": "200++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tipsport&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "chance",
+      "news_title": "Zorvan do Jablonce. Severočeši reagují na odchod Berana",
+      "news_url": "https://www.sport.cz/clanek/fotbal-ceska-1-liga-zorvan-do-jablonce-severocesi-bleskove-zareagovali-na-odchodu-berana-5285225",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxA0UzOaHp8oeGvHOEJh322CkO24QRLmdoOKQxnAMgBIboS6j1FZMls3k0cQg",
+      "traffic": "200++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=chance&geo=CZ"
+    },
+    {
+      "rank": 7,
+      "query": "anisimova",
+      "news_title": "US Open 2025: Anisimovová vyřadila Swiatekovou, Auger-Aliassime porazil De Minaura",
+      "news_url": "https://www.theguardian.com/sport/live/2025/sep/03/us-open-tennis-2025-auger-aliassime-v-de-minaur-anisimova-v-swiatek-on-day-11-live",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcBt7A-4dJWEtObiuTNVOYeOlwln2vm8uYkFgp-egv_UbuVIchee-_pk7KkPg",
+      "traffic": "200++ hledání",
+      "source": "The Guardian",
+      "explore_url": "https://trends.google.cz/trends/explore?q=anisimova&geo=CZ"
+    },
+    {
+      "rank": 8,
       "query": "radiohead",
-      "news_title": "Radiohead oznámili turné po šesti letech, čelí bojkotu kvůli postoji k Palestině",
+      "news_title": "Radiohead ohlásili koncerty po šesti letech, čelí bojkotu kvůli Palestině",
       "news_url": "https://www.theguardian.com/music/2025/sep/03/radiohead-announce-first-tour-dates-since-2018-and-face-boycott-from-pro-palestine-campaigners",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-i6FC_iBuNH1IaEbDktD5a6Deo9O01hNB3prmwV0HOXJGLWQlN0lrC9j1Kk",
       "traffic": "200++ hledání",
       "source": "The Guardian",
       "explore_url": "https://trends.google.cz/trends/explore?q=radiohead&geo=CZ"
-    },
-    {
-      "rank": 6,
-      "query": "yellowstone",
-      "news_title": "Vzniká spin-off Yellowstone s Reilly, Hauserem a Beningovou",
-      "news_url": "https://people.com/yellowstone-spinoff-kelly-reilly-cole-hauser-happening-annette-bening-joins-cast-8762460",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoOAzKFBA6uyneHh3y15UNrPtWS1zl39tBjwy6Mz_wJQClWhNQumnyEO8uqcY",
-      "traffic": "200++ hledání",
-      "source": "People.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=yellowstone&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "lady gaga wednesday",
-      "news_title": "Kdy vyjde 2. řada seriálu Wednesday na Netflixu?",
-      "news_url": "https://www.forbes.com/sites/erikkain/2025/09/02/when-does-wednesday-season-2-part-2-release-on-netflix/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFA3p9HmBJ9YNRwQ4U2nD2re6KtwaSLe_X8dpiqyaevYIZRzgc52JSvLXq7oc",
-      "traffic": "200++ hledání",
-      "source": "Forbes",
-      "explore_url": "https://trends.google.cz/trends/explore?q=lady gaga wednesday&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "cirque du soleil",
-      "news_title": "Bývalá tanečnice Spurs září v Cirque du Soleil",
-      "news_url": "https://sanantonio.culturemap.com/news/entertainment/spurs-dancer-cirque-soleil-cast/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8c08fwtK0-ve6TuFRxwLTSH-75stGCY-dSe_VokEfV4uS_jCR2P0rbh0moA",
-      "traffic": "100++ hledání",
-      "source": "CultureMap San Antonio",
-      "explore_url": "https://trends.google.cz/trends/explore?q=cirque du soleil&geo=CZ"
     }
   ]
 }
