@@ -1,40 +1,60 @@
 {
-  "updated": "2025-09-04T12:50:27.564222",
+  "updated": "2025-09-04T15:26:35.839783",
   "trends": [
     {
       "rank": 1,
-      "query": "teams",
-      "news_title": "Solak předpovídá letošní lídry NFL v pěti statistikách",
-      "news_url": "https://www.espn.com/nfl/story/_/id/46147762/2025-nfl-season-stat-leader-predictions-passing-rushing-receiving-sacks-interceptions",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2mfaIz0CiOvdWopqKZFhDF444htp_Jdq2nAKPkwAbfj5Wed1pERH4X0-vGs",
+      "query": "giorgio armani",
+      "news_title": "Zemřel Giorgio Armani, módní ikona a tvůrce power obleku. Bylo mu 91 let.",
+      "news_url": "https://www.nytimes.com/2025/09/04/fashion/giorgio-armani-dead.html",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROAgOeQE00ixrKYfb1gEFn4yY9ahj0fCITIOpOKh6gvhMYl421PKnfXli0Ios",
       "traffic": "2000++ hledání",
-      "source": "ESPN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
+      "source": "The New York Times",
+      "explore_url": "https://trends.google.cz/trends/explore?q=giorgio armani&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "mickey rourke",
-      "news_title": "Mickey Rourke je k nepoznání. Hollywoodský „zlý hoch“ šokuje proměnou",
-      "news_url": "https://www.expres.cz/celebrity/mickey-rourke-hollywoodsky-zly-hoch-sokuje-promenou-po-mesicich-v-ustrani-americky-herec-je-k-nepozn.A250829_185557_dx-celebrity_pkor",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNCxVRi36_UEH3YyC5fC9lxdmIu6dLbustelQbGNjrC37sL7ZXof1p-Sr8bhI",
+      "query": "armani",
+      "news_title": "Zemřel módní návrhář Giorgio Armani",
+      "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-zemrel-giorgio-armani-40537239",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL_S2y0JeZyCh8NCJPGDbm9Sw5d-c65t0tLdEbMwHWJH-fOyw0crCj6ak26ms",
       "traffic": "1000++ hledání",
-      "source": "Expres.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=mickey rourke&geo=CZ"
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=armani&geo=CZ"
     },
     {
       "rank": 3,
-      "query": "karel komárek",
-      "news_title": "Zemřel český diplomat Karel Komárek",
-      "news_url": "https://www.novinky.cz/clanek/zahranicni-svet-zemrel-cesky-diplomat-v-kinshase-komarek-40537191",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvDdhui2cZWxV7pXck-5pC4TzRxCd47IDGh5rRkEesNa0TYBL-1dkV1KpuFrg",
-      "traffic": "500++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=karel komárek&geo=CZ"
+      "query": "silksong",
+      "news_title": "Hollow Knight: Silksong je venku, popularita láme Steam",
+      "news_url": "https://www.ign.com/articles/hollow-knight-silksong-is-out-now-but-its-so-popular-its-crashing-storefronts-including-steam",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_8DzR9QrFI652zhIDms0QFcV7eufQdxRn2SS-zbhq5rAE1DhZCk6eHD_hvbs",
+      "traffic": "1000++ hledání",
+      "source": "IGN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=silksong&geo=CZ"
     },
     {
       "rank": 4,
+      "query": "mickey rourke",
+      "news_title": "Šokující snímky Mickeyho Rourka bez paruky a v špatné kondici. Veřejnost se bouří!",
+      "news_url": "https://www.super.cz/clanek/celebrity-sokujici-snimky-mickeyho-rourka-paparazzi-ho-zachytili-bez-paruky-a-ve-velmi-spatne-kondici-verejnost-se-bouri-1517723",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQ7Z0ePeVpwiPJixaE9-LlZiHtysqL9pHzkTx81foDGTJw54AR65Wx7SFCkU",
+      "traffic": "1000++ hledání",
+      "source": "Super.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=mickey rourke&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "karel komárek",
+      "news_title": "Český chargé d’affaires zemřel v Konžské demokratické republice",
+      "news_url": "https://mzv.gov.cz/jnp/cz/udalosti_a_media/tiskove_zpravy/umrti_charge_d_affaires_v_konzske.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipgDHiRh7uxroHMTge4nwGdRXqKMHvUmcYPvd6GgDRsnUSKokjDSemuUcdvk",
+      "traffic": "500++ hledání",
+      "source": "Ministerstvo zahraničních věcí České republiky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=karel komárek&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "valorizace důchodů 2026",
-      "news_title": "Starobní důchod vzroste od ledna o 668 korun",
+      "news_title": "Průměrný starobní důchod vzroste od ledna o 668 korun.",
       "news_url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-prumerny-starobni-duchod-vzroste-od-ledna-o-668-korun-285301",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI7XGAGmITsAE9_5p5V9regaoTfnh1Y6u7_LF3PtRAd11igPS6kSqgQQxazAs",
       "traffic": "200++ hledání",
@@ -42,44 +62,24 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=valorizace důchodů 2026&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "query": "singapur",
-      "news_title": "Indie a Singapur posilují spolupráci v AI a čipech",
-      "news_url": "https://www.bloomberg.com/news/articles/2025-09-04/india-singapore-deepen-ai-chips-ties-as-us-tariff-risks-grow",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRqQUdTRmsPxUmqdHNGDI3KGB1kUxDTXQQbMuQ4iBAWpJ7cW8vMGOfBljSXK4",
+      "news_title": "Singapur nařídil Metě zavést protipodvodní opatření, hrozí jí pokuta",
+      "news_url": "https://www.reuters.com/business/media-telecom/singapore-orders-meta-implement-anti-scam-measures-or-face-possible-fine-2025-09-03/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRNydtb1Vq2jjb4v_SyRbEl5dPlCnNvLUDoBgGGRY-JKH8qR2tfThvocdQWek",
       "traffic": "200++ hledání",
-      "source": "Bloomberg.com",
+      "source": "Reuters",
       "explore_url": "https://trends.google.cz/trends/explore?q=singapur&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "labubu",
-      "news_title": "Trump a Satan mají dítě: South Park chystá chaos",
-      "news_url": "https://www.theguardian.com/tv-and-radio/2025/sep/04/donald-trump-is-having-a-lovechild-with-satan-south-park-sets-up-future-chaos",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIwYzxfsKveHzhANREUX-M_K0wlnoc4QkR8piYe-9yArBvP0tw3ZlDkV8RVtw",
-      "traffic": "200++ hledání",
-      "source": "The Guardian",
-      "explore_url": "https://trends.google.cz/trends/explore?q=labubu&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "us open 2025",
-      "news_title": "Anisimovová se po odvetě za krutou wimbledonskou porážku snažila blokovat vše kolem",
-      "news_url": "https://www.tenisportal.cz/zpravy/snazila-jsem-se-blokovat-vse-kolem-rekla-anisimovova-po-odvete-za-krutou-wimbledonskou-porazku-51099/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfHKMEerSpIxlWLb1ySaebpssHohe_uXTZ53L5nRsh6B926D2ZOAgZtee6PE",
-      "traffic": "200++ hledání",
-      "source": "TenisPortal",
-      "explore_url": "https://trends.google.cz/trends/explore?q=us open 2025&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "us open",
-      "news_title": "Muchová popsala bolestivé vyřazení z US Open",
-      "news_url": "https://www.sport.cz/clanek/tenis-us-open-strhujici-bitvy-i-bolestive-limity-po-12-hodinach-na-kurtu-ceka-muchovou-dalsi-tezka-obhajoba-5285794",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_TlxxISVdA76hOfnCJhIx6m_cdQ9Q6V-EVaEslvUBDaT_gRsJ8_EXU4JDwJU",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=us open&geo=CZ"
+      "query": "sophie turner",
+      "news_title": "Sophie Turner se stane novou Lárou Croft v sérii Tomb Raider",
+      "news_url": "https://www.bbc.com/news/articles/c7845vwg0zno",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRIsZmCUJwnb-P4dklb3XN5IMMdNhYPJwjiUDzJ3KYznpyewXJh5xjvvDX1-s",
+      "traffic": "100++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=sophie turner&geo=CZ"
     }
   ]
 }
