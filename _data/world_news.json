@@ -1,76 +1,120 @@
 {
-  "last_updated": "2025-09-04T08:23:11",
+  "last_updated": "2025-09-04T09:18:38",
   "articles": [
     {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Rodina mrtvého teenagera tvrdí, že nové rodičovské kontroly ChatGPT nestačí",
+      "original_title": "Family of dead teen say ChatGPT's new parental controls not enough - BBC",
+      "url": "https://www.bbc.com/news/articles/cg505mn84ydo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e8f3/live/a48b2520-88a1-11f0-8b3f-67b2e7d47fb0.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-03T08:41:18Z",
+      "description": "OpenAI zavádí nová pravidla poté, co rodina obvinila ChatGPT, že nabádal jejich dítě k sebevraždě."
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Futures na akcie mírně rostou poté, co Google unikl přísnému antimonopolnímu trestu: Živé aktualizace",
-      "original_title": "Stock futures edge higher after Google avoids harsh antitrust penalty: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/09/02/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192472-1756479438071-Traders-Photo-20250828-KK-006.jpg?v=1756497315&w=1920&h=1080",
+      "title": "NATO vysílá stíhačky, Rusko na Ukrajinu vypálilo přes 500 dronů a raket",
+      "original_title": "NATO scrambles jets as Russia launches more than 500 drones, missiles at Ukraine - ABC News",
+      "url": "https://abcnews.go.com/International/nato-scrambles-jets-russia-launches-500-drones-missiles/story?id\\\\u003d125206573",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-03T08:30:34Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Čínský tábor: Rychle se šířící požár zničil historické kalifornské zlatokopecké městečko, shořelo několik domů",
+      "original_title": "Chinese Camp: Quick-moving wildfire scorches historic California gold mining town, burning multiple homes - CNN",
+      "url": "https://www.cnn.com/2025/09/03/weather/california-wildfire-chinese-camp-mining-town-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25246125886351.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-03T08:30:00Z",
+      "description": "Rychle se šířící požár spálil tisíce akrů a zničil domy v kalifornském městečku z doby zlaté horečky, které kolem roku 1850 založili čínští horníci vyhnaní z nedalekého tábora."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie Alphabetu v předobchodním obchodování posílily o 6 % poté, co se Google v antimonopolním řízení vyhnul rozdělení",
+      "original_title": "Alphabet stock pops 6% in premarket trading after Google avoids break-up in antitrust case - CNBC",
+      "url": "https://www.cnbc.com/2025/09/03/alphabet-pops-after-google-avoids-breakup-in-antitrust-case.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193545-1756887741526-gettyimages-2197069571-AFP_36X46Y4.jpeg?v=1756887904&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-09-03T05:00:00Z",
-      "description": "Investoři ve středu inkasovali zisky, přestože tři hlavní americké indexy uzavřely v červených číslech."
+      "publishedAt": "2025-09-03T08:29:51Z",
+      "description": "Akcie Alphabetu vzrostly o 6 % v předburzovním obchodování poté, co investoři vyhodnotili výsledek antimonopolního řízení jako příznivý"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Co víme o snaze Bílého domu nasadit do Chicaga federální jednotky a o odporu místních politiků",
+      "original_title": "What we know about the White House push for federal troops in Chicago – and the pushback from local politicians - CNN",
+      "url": "https://www.cnn.com/2025/09/03/us/national-guard-chicago-trump-push-wwk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2231375763.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-03T07:00:00Z",
+      "description": "Potenciál pro střet ohledně kriminality v Chicagu – nejen mezi donucovacími orgány a zločinci, ale také mezi federální vládou a městskými představiteli – roste."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump nemůže použít zákon o nepřátelských cizincích k deportaci členů venezuelského gangu, rozhodl odvolací soud",
-      "original_title": "Trump cannot use Alien Enemies Act to deport members of Venezuelan gang, appeals court rules - AP News",
-      "url": "https://apnews.com/article/trump-alien-enemies-act-venezuela-9aa913b03c09662aeecdde42901f7706",
-      "urlToImage": "https://dims.apnews.com/dims4/default/896abcd/2147483647/strip/true/crop/7670x4314+0+399/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2Ff9%2F9f890c0bbbc38c9da7012e4d78a6%2F2b74efe510d1475bba3293b90691dfcd",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-03T04:30:00Z",
-      "description": "Federální odvolací soud rozhodl, že Trump nemůže urychlit deportace údajných členů venezuelského gangu"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Generace Z před nákupní sezónou drasticky seškrtává rozpočty na dovolené",
-      "original_title": "Gen Z slashes holiday budgets ahead of shopping season - NBC News",
-      "url": "https://www.nbcnews.com/business/consumer/gen-z-slashes-holiday-shopping-budgets-rcna228027",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250127-holiday-shopping-mn-1445-25f915.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-03T04:01:00Z",
-      "description": "Podle PwC Outlooku na svátky 2025 plánuje zvýšit rozpočet na vánoční nákupy jen generace baby boomu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Prabowo pokračuje v cestě do Číny, zatímco protesty polevují",
-      "original_title": "Prabowo Pushes Through With China Trip as Protests Cool Down - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-02/indonesia-protests-prabowo-travels-to-china-to-attend-military-parade",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8H7QQYExwLQ/v0/1200x800.jpg",
+      "title": "Zlato drží zisky po dosažení rekordu kvůli sázkám na snížení sazeb a obavám z dluhu",
+      "original_title": "Gold Holds After Surging to Record on Rate-Cut Bets, Debt Fears - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-02/gold-xauusd-holds-after-surging-to-record-on-rate-cut-bets-debt-fears",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDC9lVLImGDM/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-09-03T02:48:00Z",
-      "description": "Indonéský prezident Prabowo Subianto přes noc letěl do Číny, aby se připojil k desítkám světových lídrů na vojenské přehlídce Si Ťin-pchinga, což signalizuje důvěru, že zneškodnil nejhorší protestn..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump přesune velitelství americké vesmírné síly z Colorada do Alabamy",
-      "original_title": "Trump to move U.S. Space Command headquarters from Colorado to Alabama - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/02/trump-space-command-alabama/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KC7O6AKVLBVDUISFJXV7EZ64R4.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-03T02:40:45Z",
-      "description": "Oznámení prezidenta v Oválné pracovně je dalším zvratem v několikaletém stranickém boji o sídlo úřadu."
+      "publishedAt": "2025-09-03T06:56:00Z",
+      "description": "Zlato vytvořilo nový historický rekord, vyhlídka na snížení úrokových sazeb v USA zvýšila atraktivitu kovu a obchodníci hledali bezpečí po výprodeji na akciových a dluhopisových trzích."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tvůrce seriálu ‚Alien: Země‘ Noah Hawley o nejnovější epizodě a jejím propojení s filmem z roku 1979 se Sigourney Weaver",
-      "original_title": "‘Alien: Earth’ Creator Noah Hawley On Latest Episode & Its Ties To 1979 Movie Starring Sigourney Weaver - Deadline",
-      "url": "http://deadline.com/2025/09/alien-earth-creator-noah-hawley-episode-5-ties-to-alien-1236503995/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/AE_105_PBR-2204-0290r.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-03T01:26:00Z",
-      "description": "Tvůrce seriálu 'Alien: Země' Noah Hawley o nejnovější epizodě a jejím propojení s filmem z roku 1979 se Sigourney Weaver"
+      "title": "Jeden mrtvý a tři zranění při pádu letadla ve Wyomingských horách",
+      "original_title": "1 killed, 3 injured in Wyoming mountains plane crash - ABC News",
+      "url": "https://abcnews.go.com/US/1-killed-3-injured-wyoming-mountains-plane-crash/story?id\\\\u003d125206257",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-03T06:45:00Z",
+      "description": ""
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Zmenšený Dwayne ‘The Rock’ Johnson na benátském filmovém festivalu fanoušky zaskočil",
+      "title": "USA zabily 11 lidí při zásahu proti údajnému drogovému plavidlu z Venezuely, tvrdí Trump",
+      "original_title": "U.S. kills 11 in strike on alleged drug vessel from Venezuela, Trump says - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/09/02/trump-drug-strike-venezuela/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D46J2HXON3XTXQTVLSGJ2WSBGE.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-03T03:49:00Z",
+      "description": "Útok je dramatickou eskalací, která se kryje s rostoucím zaměřením administrativy na protidrogový boj a jejími zostřujícími se spory s venezuelským lídrem Nicolasem Madurem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Alien: Země se podvolí a stane se filmem z Alienu",
+      "original_title": "Alien: Earth gives in and becomes an Alien movie - AV Club",
+      "url": "https://www.avclub.com/alien-earth-recap-season-1-episode-5-in-space-no-one",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2025/08/28192146/AE105-recap-header.jpg",
+      "source": "The A.V. Club",
+      "publishedAt": "2025-09-03T02:32:00Z",
+      "description": "Alien: Země se podvolí a stane se z ní film z řady Alien"
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Americký sněmovní výbor zveřejnil více než 33 000 stránek Epsteinových dokumentů",
+      "original_title": "US House committee releases more than 33,000 pages of Epstein files - BBC",
+      "url": "https://www.bbc.com/news/live/cpwywe5ee84t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2b6/live/c674f0d0-884c-11f0-b391-6936825093bd.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-03T01:07:30Z",
+      "description": "Zákonodárci z Demokratické i Republikánské strany však uvádějí, že většina souborů byla již veřejně dostupná."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Zhubnutý Dwayne Johnson na festivalu v Benátkách bere fanouškům dech",
       "original_title": "Dwayne ‘The Rock’ Johnson’s slimmer look at Venice Film Festival has fans doing double takes - yahoo.com",
       "url": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnsons-slimmer-look-venice-film-festival-has-fans-doing-double-takes",
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/dwayne-johnson-transformation.jpg",
@@ -87,62 +131,29 @@
       "urlToImage": "https://images.axios.com/fPQn8crw7VjHeZXi1UpDFVe32Vg=/0x198:8256x4842/1366x768/2025/09/02/1756851233088.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-03T00:06:18Z",
-      "description": "„Jak jste se o víkendu dozvěděl, že jste mrtvý?“ zeptal se reportér Trumpa."
+      "description": "Jak jste se o víkendu dozvěděl, že jste zemřel?\" zeptal se reportér Trumpa."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Někteří majitelé Pixelu 10 dostávají zářijovou aktualizaci 2025 – 9to5Google",
+      "original_title": "Some Pixel 10 owners get September 2025 update - 9to5Google",
+      "url": "http://9to5google.com/2025/09/02/pixel-10-september-ota-update/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-and-10-Pro-cameras-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-02T23:01:00Z",
+      "description": "Série Pixel 10 byla uvedena s Androidem 16 QPR1 a někteří majitelé nyní dostávají aktualizaci se záplatou zabezpečení ze září 2025."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nový standard HDR Dolby Vision 2 bude pravděpodobně kontroverzní",
-      "original_title": "The new Dolby Vision 2 HDR standard is probably going to be controversial - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/09/the-new-dolby-vision-2-hdr-standard-is-probably-going-to-be-controversial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/40b76700-879a-11f0-bdfd-4721c5ffeede-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-02T22:52:31Z",
-      "description": "Řeší dvě pohromy moderního televizního vysílání – ale možná ne tak, jak bychom chtěli."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Volně prodejný nosní sprej snížil v menší studii výskyt COVID-19 o 67 %",
-      "original_title": "OTC nasal spray seemed to cut COVID infections by 67% in mid-sized trial - Ars Technica",
-      "url": "https://arstechnica.com/health/2025/09/otc-nasal-spray-seemed-to-cut-covid-infections-by-67-in-mid-sized-trial/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1456826064-2560x1440.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-02T22:36:26Z",
-      "description": "Fáze 2 studie není definitivní, přichází však v době, kdy je přístup k vakcínám silně omezen."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple Vision Air by se mohl představit v roce 2027 s tenčím designem, čipem řady A z iPhonu a cenou od 42 500 Kč",
+      "title": "Apple Vision Air by se měl představit v roce 2027 s tenčím designem, čipem řady A z iPhonu a cenou od 1750 dolarů",
       "original_title": "Apple’s Vision Air Tipped For 2027 Launch With Thinner Design, iPhone A-Series Chip, And A Starting Price Around $1,750 - Wccftech",
       "url": "https://wccftech.com/apple-vision-air-2027-lighter-affordable-mixed-reality/",
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/Vision-Air-Black-e1756850815775.jpeg",
       "source": "Wccftech",
       "publishedAt": "2025-09-02T22:08:00Z",
-      "description": "Apple Vision Air má vyjít v roce 2027: lehčí design, čip z iPhonu a nižší cena pro rozšíření prostorových počítačů"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump plánuje poslat do Chicaga Národní gardu z Texasu a ‚ozbrojený vojenský personál‘, říká Pritzker",
-      "original_title": "Trump Plans to Send Texas National Guard, ‘Armed Military Personnel’ to Chicago: Pritzker - WTTW",
-      "url": "https://news.wttw.com/2025/09/02/trump-plans-send-texas-national-guard-armed-military-personnel-chicago-pritzker",
-      "urlToImage": "https://news.wttw.com/sites/default/files/field/image/JBPritzkerPresser_090225_C2N.jpg",
-      "source": "Wttw.com",
-      "publishedAt": "2025-09-02T21:51:06Z",
-      "description": "Guvernér Pritzker: Trump se chystá poslat do Chicaga členy Národní gardy z Texasu i ozbrojený vojenský personál"
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Muž z Houstonu obviněn z vraždy poté, co chlapec zemřel při hře na schovávanou se zvoněním",
-      "original_title": "Houston man charged with murder after boy killed playing ding dong ditch - Houston Chronicle",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/crime/article/man-charged-murder-doorbell-prank-21026293.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/34/10/28426757/7/rawImage.jpg",
-      "source": "Houston Chronicle",
-      "publishedAt": "2025-09-02T21:33:45Z",
-      "description": "Gonzalo Leon Jr., obviněný ze střelby na 11letého Juliana Guzmana, který mu zvonil u dveří jako součást žertu, byl nyní obviněn z vraždy."
+      "description": "Apple Vision Air se podle spekulací představí v roce 2027 s lehčím designem, čipem z iPhonu a nižší cenou pro rozšíření prostorových počítačů."
     },
     {
       "flag": "🌍",
@@ -153,29 +164,40 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/EHoV9n5pnrr7kZHQWmStCB.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-02T21:22:53Z",
-      "description": "Data z marsotřesení odhalila v plášti Rudé planety desítky záhadných útvarů"
+      "description": "Data z marsotřesení odhalila v plášti planety desítky záhadných „blobů“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ceny iPhonu 17 a iPhone 17 Pro byly odhadnuty před podzimní akcí Applu",
+      "title": "Ceny iPhonu 17 a iPhone 17 Pro odhadnuty před akcí Applu příští týden",
       "original_title": "iPhone 17 and iPhone 17 Pro Prices Estimated Ahead of Apple Event Next Week - MacRumors",
       "url": "https://www.macrumors.com/2025/09/02/iphone-17-price-estimates/",
       "urlToImage": "https://images.macrumors.com/t/8t-XlHqFHgoUaJnB-MX3yoQnjLc=/2500x/article-new/2025/07/iPhone-17-Pro-Iridescent-Feature-2.jpg",
       "source": "MacRumors",
       "publishedAt": "2025-09-02T20:50:25Z",
-      "description": "Jen týden před očekávaným představením iPhonu 17 od Applu sdílel analytik nové odhady cen zařízení. Zde jsou J.P...."
+      "description": "Jen týden před očekávaným představením iPhonu 17 sdílel analytik nové odhady cen. Zde jsou J.P...."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Úniky: Galaxy S25 FE na reálných fotkách se všemi funkcemi Galaxy AI",
+      "original_title": "Galaxy S25 FE leaks in real-life images with every Galaxy AI feature - 9to5Google",
+      "url": "http://9to5google.com/2025/09/02/galaxy-s25-fe-leaked-hands-on-images-every-galaxy-ai-feature/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Galaxy-S25-FE-leak-hands-on.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-02T20:47:00Z",
+      "description": "Není zrovna překvapením, že se další zařízení Samsungu objevuje online v únicích jen dva dny před představením, ale…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Air Lease bude prodána skupině vedené společností Sumitomo za 7,4 miliardy dolarů",
-      "original_title": "Air Lease to Be Sold to Sumitomo-Led Group for $7.4 Billion - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-02/air-lease-to-be-acquired-by-sumitomo-led-group-for-7-4-billion",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqkTgfsLT0ek/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-02T18:51:12Z",
-      "description": "Společnost Air Lease Corp. souhlasila s prodejem za 7,4 miliardy dolarů skupině vedené společností Sumitomo Corp."
+      "title": "Vojenské právníky povolali, aby zaplnili nedostatek soudců pro imigrační právo",
+      "original_title": "Military lawyers called up to relieve a shortfall in immigration judges - NPR",
+      "url": "https://www.npr.org/2025/09/02/g-s1-86691/military-lawyers-immigration-judges-jag",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3744x2106+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2Fdb%2F64b791f943358efac74924c03629%2Fgettyimages-2233407152.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-02T20:33:37Z",
+      "description": "Tento krok následuje poté, co ministerstvo spravedlnosti minulý týden změnilo podmínky pro dočasné imigrační soudce – snížilo požadavky a zrušilo nutnost předchozí zkušenosti s imigračním právem."
     },
     {
       "flag": "🌍",
@@ -186,51 +208,18 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2025/08/GettyImages-2200272312-e1756419764840.jpg?crop=0px%2C43px%2C1852px%2C1042px&resize=1000%2C563",
       "source": "Variety",
       "publishedAt": "2025-09-02T18:24:00Z",
-      "description": "Členové Please Don't Destroy se rozcházejí: John Higgins odchází z SNL, Martin Herlihy zůstává ve scénáristickém týmu a Ben Marshall posiluje herecké obsazení."
+      "description": "Člen Please Don't Destroy John Higgins opouští ‚SNL‘, Martin Herlihy zůstává ve scénáristickém týmu a Ben Marshall se připojuje k hereckému obsazení."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Počet obětí zemětřesení v Afghánistánu přesáhl 1400, uvedl úředník",
-      "original_title": "Death toll climbs to over 1,400 after Afghanistan earthquake, official says - ABC News",
-      "url": "https://abcnews.go.com/International/afghanistan-earthquake-death-toll-rises/story?id\\\\u003d125172025",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-02T18:16:40Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "První letošní případ nákazy virem západního Nilu u člověka hlásí úřady v hrabství Middlesex, nakažena je žena",
-      "original_title": "State’s first human case of West Nile virus in 2025 reported in woman in Middlesex County, officials say - The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/09/02/metro/massachusetts-west-nile-virus-first-2025-case/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/QNG2Q7DASAI6LLLJ2HZ2CJFQI4.jpg?auth=182561a33ece3a8294628fa807922f90264722706d6e5315936e5bc840af729d&width=1440",
-      "source": "The Boston Globe",
-      "publishedAt": "2025-09-02T16:48:00Z",
-      "description": "Podle úředníků bylo oznámení vydáno v době, kdy v řadě komunit v Massachusetts přetrvává zvýšené riziko nákazy virem západního Nilu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump porušil zákon vysláním Národní gardy do L.A., rozhodl federální soudce",
-      "original_title": "Trump broke the law by sending National Guard to L.A., federal judge rules - CalMatters",
-      "url": "https://calmatters.org/justice/2025/09/trump-national-guard-posse-comitatus/",
-      "urlToImage": "https://calmatters.org/wp-content/uploads/2025/06/060825-Natl-Guard-MDC-DTLA-TS-03.jpg",
-      "source": "CALmatters",
-      "publishedAt": "2025-09-02T15:36:01Z",
-      "description": "Soudce v Kalifornii rozhodl, že Trump porušil zákon nasazením Národní gardy v L.A., zatímco prezident uvažuje o vyslání armády do dalších amerických měst"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Více než 85 vědců tvrdí, že klimatická zpráva ministerstva energetiky postrádá vědeckou hodnotu",
-      "original_title": "Over 85 scientists say Energy Dept. climate report lacks merit - NBC News",
-      "url": "https://www.nbcnews.com/science/science-news/85-scientists-say-energy-dept-climate-report-lacks-merit-rcna228555",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250902-coal-nuclear-pennsylvania-mb-1616-e73c12.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-02T15:28:29Z",
-      "description": "Podle více než 85 předních klimatologů hodnocení klimatu energetického resortu za Trumpa, které mělo ospravedlnit zrušení federálních pravidel pro skleníkové plyny, nesplňuje standardy vědecké inte..."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Sloupek | Co se Sanjay Gupta naučil po letech zkoumání chronické bolesti a mozku",
+      "original_title": "Column | What Sanjay Gupta learned after years studying chronic pain and the brain - The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2025/09/02/sanjay-gupta-pain-relief/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HBSHBVI65FE3G3QHSV2PDNPCM.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-02T17:00:55Z",
+      "description": "V knize Sanjaye Gupty „Nemusí to bolet“ neurochirurg a medicínský žurnalista zkoumá nejnovější vědecké poznatky o zmírňování chronické bolesti."
     },
     {
       "flag": "🌍",
@@ -241,7 +230,7 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689ee896ee08de164c52d549/0x0.jpg?format=jpg&crop=1201,675,x432,y393,safe&height=900&width=1600&fit=bounds",
       "source": "Forbes",
       "publishedAt": "2025-09-01T21:39:04Z",
-      "description": "Každý měsíc vybírám ty nejlepší astronomické úkazy v Severní Americe pro nadcházející týdny (platí také pro střední severní šířky na severní polokouli)."
+      "description": "Každý měsíc vybírám nejzajímavější astronomické úkazy v Severní Americe pro nadcházející týdny (platí také pro střední severní šířky na severní polokouli)."
     },
     {
       "flag": "🌍",
@@ -253,17 +242,6 @@
       "source": "Space.com",
       "publishedAt": "2025-09-01T12:00:00Z",
       "description": "Díky sondě Solar Orbiter poznáváme naši hvězdu lépe než kdy dřív."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Únik informací o Helldivers 2 odhaluje přes deset nových smrtících nepřátel, zón a cílů, které budou hráči muset přežít",
-      "original_title": "Helldivers 2 leak uncovers over a dozen deadly new enemies, zones and objectives players will need to survive - VideoGamer",
-      "url": "https://www.videogamer.com/news/helldivers-2-leak-deadly-new-enemies-zones-objectives/",
-      "urlToImage": "https://www.videogamer.com/wp-content/uploads/Untitled-design-2025-09-01T122620.585.jpg",
-      "source": "Videogamer.com",
-      "publishedAt": "2025-09-01T11:39:16Z",
-      "description": "Únik informací o Helldivers 2 uvádí přes deset nových smrtících nepřátel, zón a cílů, které budou hráči muset přežít, až dorazí."
     }
   ]
 }
