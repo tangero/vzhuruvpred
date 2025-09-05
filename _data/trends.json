@@ -1,60 +1,70 @@
 {
-  "updated": "2025-09-05T09:26:40.222166",
+  "updated": "2025-09-05T12:51:28.676581",
   "trends": [
     {
       "rank": 1,
-      "query": "kratom",
-      "news_title": "Kratom na školách se vymyká kontrole, varuje adiktoložka",
-      "news_url": "https://zpravy.aktualne.cz/domaci/berou-to-jako-kdyby-pili-dzus-teenageri-konzumuji-nebezpecno/r~45b0475c87ce11f0a26cac1f6b220ee8/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz5kMCD5fHG8-4XSfoZodDaF_lwpHTFUoIpWxK1HRqFvJSoefbdnL-AnntEQY",
-      "traffic": "1000++ hledání",
-      "source": "Aktuálně",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kratom&geo=CZ"
-    },
-    {
-      "rank": 2,
       "query": "teams",
-      "news_title": "Barnwell předpovídá NFL playoff: 14 týmů a vítěze Super Bowlu",
+      "news_title": "Barnwellova předpověď playoff NFL: 14 týmů i vítěz Super Bowlu",
       "news_url": "https://www.espn.com/nfl/story/_/id/45934298/2025-nfl-season-14-playoff-teams-chances-return-super-bowl",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx8ANaqJSwSfBpQLFNe-U2fxw73dvvDJH9huOR8g7nUOfaO68P2fG4vw77u-U",
-      "traffic": "500++ hledání",
+      "traffic": "1000++ hledání",
       "source": "ESPN",
       "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "argentina – venezuela",
-      "news_title": "Messi se loučí v Argentině, o MS zatím neví",
-      "news_url": "https://www.espn.com/soccer/story/_/id/46160774/lionel-messi-goodbye-argentina-world-cup",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkQQIt6BUmaanZp83rjDPpSWRbFPif4Ga7Bbpd3RESNZcDNvlhIpuxOA5hutY",
+      "rank": 2,
+      "query": "duchess of kent",
+      "news_title": "Zemřela vévodkyně z Kentu, oznámil Buckinghamský palác",
+      "news_url": "https://www.yahoo.com/news/articles/britains-duchess-kent-died-buckingham-110848995.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQS0SXXqjpRDEuJFcXSsI8kr8SmnjMZs_5OzZW6-rPmCAEFgOjmIxF2jBHWDk",
       "traffic": "200++ hledání",
-      "source": "ESPN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=argentina – venezuela&geo=CZ"
+      "source": "Yahoo Eurosport UK",
+      "explore_url": "https://trends.google.cz/trends/explore?q=duchess of kent&geo=CZ"
+    },
+    {
+      "rank": 3,
+      "query": "petr kellner junior",
+      "news_title": "Neviditelný Kellner junior: Kdo je nový český miliardář a kam míří",
+      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-nejbohatsi-lide-neviditelny-kellner-junior-kdo-je-novy-cesky-miliardar-a-kam-muze-mirit-285339",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDt0RqieLgBOFLFOWPms0oJXsSiBIAfFZbIHL4LgKUCRHUpUbyQ_s0YswRN6k",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=petr kellner junior&geo=CZ"
     },
     {
       "rank": 4,
-      "query": "ed gein",
-      "news_title": "Monster: Příběh Eda Geina ukazuje Hunnamovu drsnou proměnu",
-      "news_url": "https://www.netflix.com/tudum/articles/monster-the-ed-gein-story-teaser-charlie-hunnam-ryan-murphy-interview",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdivYmBMyKu8u8F-fwXGD-f9z37Z5t-P9HByUx-M7FDMpKFkASZcyzob52sqk",
+      "query": "brazílie – chile",
+      "news_title": "Brazílie - Chile 3:0. Paquetá, Estevão a Guimarães rozhodli.",
+      "news_url": "https://www.bbc.com/sport/football/live/c206x4834z4t",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcaHIvcadjbadRX9_i2JdmSYR6ux9MoJLH3xVNjB4enVoppQAiOPgwru0Um9g",
       "traffic": "200++ hledání",
-      "source": "Netflix",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ed gein&geo=CZ"
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=brazílie – chile&geo=CZ"
     },
     {
       "rank": 5,
-      "query": "fortuna",
-      "news_title": "Fortuna Poker: Elite Series XL rozdá přes 10 milionů eur",
-      "news_url": "https://www.pokerarena.cz/rubriky/online-poker/fortuna/elite-series-xl-na-fortuna-pokeru-rozda-pres-10-milionu-eur_21937.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZB1k7Ylj8gYbvVYsP1xdS8iQr9za9p4TZe6D0KbPIxIChBsop3nBaNY62wi8",
-      "traffic": "200++ hledání",
-      "source": "PokerArena.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=fortuna&geo=CZ"
+      "query": "jana černochová",
+      "news_title": "Ministryně Černochová podstoupila operaci nádoru na tváři, apeluje na prevenci.",
+      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-ministryne-cernochova-si-nechala-vyriznout-nador-na-tvari-apeluje-na-prevenci-285407",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXt_pyL-z5qJx9l9PdTxhnCj404X_sGAJXPIjpNUoa3cTfZLFy3_JWgQidG0E",
+      "traffic": "100++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jana černochová&geo=CZ"
     },
     {
       "rank": 6,
+      "query": "keita",
+      "news_title": "Oktagon po odchodu Vémoly netruchlí. Získá tituly i miliony, říká vedení",
+      "news_url": "https://www.sport.cz/clanek/bojove-sporty-mma-oktagon-po-ztrate-nejvetsi-hvezdy-netruchli-muze-ziskat-tituly-i-miliony-rika-vedeni-5285233",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQralaj6-OdCQTYaZgBS_btet-m4tGXEG2hEyKxIsJ5BemignOd_rhDi_05Igo",
+      "traffic": "100++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=keita&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "ticketmaster",
-      "news_title": "Live Nation před soudem, hrozí ztráta exkluzivních smluv",
+      "news_title": "Live Nation čelí soudu, hrozí mu ztráta exkluzivních smluv",
       "news_url": "https://www.hollywoodreporter.com/business/business-news/live-nation-prepares-doj-trial-loss-exclusive-contracts-1236360107/",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCAU-gRCfhvRiwOHOHGj9ISo7E-ImgQqJ5CXR-wvlmvsev2eGFufwl-MNEQyI",
       "traffic": "100++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=ticketmaster&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "sabrina carpenter",
-      "news_title": "Kdo je skutečná Sabrina Carpenter?",
-      "news_url": "https://www.nytimes.com/2025/09/02/arts/music/sabrina-carpenter-mans-best-friend-review.html",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSILRrbKcHqJOHJU24BXjMXM_m4h-_HXII2k1cllUQcsbb1skg-C6rpLjlXu3s",
-      "traffic": "100++ hledání",
-      "source": "The New York Times",
-      "explore_url": "https://trends.google.cz/trends/explore?q=sabrina carpenter&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "iphone 16",
-      "news_title": "iPhone 17 míří na trh, ale čelí řadě překážek",
-      "news_url": "https://finance.yahoo.com/news/apples-iphone-17-is-coming-but-headwinds-abound-181349140.html",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqgEmaqvi81JUxZrmLBNnAlXkySdRYQeRpx9FSJKiD8HISv9z2EFO61Rb_1AM",
+      "query": "sabrina carpenter",
+      "news_title": "Sabrina Carpenter: Nebojte se sexu a neberte se vážně",
+      "news_url": "https://www.seznamzpravy.cz/clanek/kultura-chlebicek-nebojte-se-sexu-a-neberte-se-vazne-vzkazuje-sabrina-carpenter-285371",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSa1Pj-9mSW89dzL9irkEm0vquK32I0IkTrV0mWRumxvwwA3M6NhBmwUEI9UwI",
       "traffic": "100++ hledání",
-      "source": "Yahoo Finance",
-      "explore_url": "https://trends.google.cz/trends/explore?q=iphone 16&geo=CZ"
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=sabrina carpenter&geo=CZ"
     }
   ]
 }
