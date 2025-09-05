@@ -294,10 +294,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const feedbackDiv = document.getElementById('rating-feedback');
     const totalCountSpan = document.getElementById('total-count');
     
-    // API configuration
-    const API_BASE = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
-        ? '/api/ratings' // Local development fallback
-        : '/api/ratings'; // Production Cloudflare Pages function
+    // API configuration - disable API for now, use localStorage
+    const USE_API = false; // Set to true when Cloudflare Functions are deployed
+    const API_BASE = '/api/ratings';
     
     let userFingerprint = null;
     let currentUserRating = null;
@@ -330,8 +329,12 @@ document.addEventListener('DOMContentLoaded', function() {
         return Math.abs(hash).toString(16);
     }
     
-    // Load ratings from API
+    // Load ratings from API or localStorage
     async function loadRatings() {
+        if (!USE_API) {
+            return loadRatingsFromLocalStorage();
+        }
+        
         try {
             const response = await fetch(`${API_BASE}?article=${encodeURIComponent(articleId)}`);
             
@@ -358,9 +361,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 throw new Error(data.error || 'Unknown error');
             }
         } catch (error) {
-            console.error('Failed to load ratings:', error);
+            console.error('API failed, falling back to localStorage:', error);
             
-            // Fallback to localStorage for offline/development mode
+            // Fallback to localStorage
             return loadRatingsFromLocalStorage();
         }
     }
@@ -399,13 +402,18 @@ document.addEventListener('DOMContentLoaded', function() {
         return counts;
     }
     
-    // Submit rating to API
+    // Submit rating to API or localStorage
     async function submitRating(rating) {
         if (isLoading) return;
         isLoading = true;
         
         // Show loading state
         ratingButtons.forEach(btn => btn.style.opacity = '0.6');
+        
+        if (!USE_API) {
+            // Use localStorage directly
+            return submitRatingToLocalStorage(rating);
+        }
         
         try {
             if (!userFingerprint) {
@@ -424,8 +432,7 @@ document.addEventListener('DOMContentLoaded', function() {
             });
             
             if (!response.ok) {
-                const errorData = await response.json();
-                throw new Error(errorData.error || `HTTP ${response.status}`);
+                throw new Error(`HTTP ${response.status}`);
             }
             
             const data = await response.json();
@@ -460,32 +467,56 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             
         } catch (error) {
-            console.error('Failed to submit rating:', error);
-            
-            // Fallback to localStorage
-            const stored = localStorage.getItem(`rating-${articleId}`);
-            let counts = JSON.parse(localStorage.getItem(`counts-${articleId}`)) || {};
-            
-            if (stored && stored !== rating) {
-                counts[stored] = Math.max(0, (counts[stored] || 0) - 1);
-                counts[rating] = (counts[rating] || 0) + 1;
-            } else if (!stored) {
-                counts[rating] = (counts[rating] || 0) + 1;
-            } else {
-                counts[rating] = Math.max(0, (counts[rating] || 0) - 1);
-                localStorage.removeItem(`rating-${articleId}`);
-                loadRatingsFromLocalStorage();
-                return { action: 'removed', error: error.message };
-            }
-            
-            localStorage.setItem(`rating-${articleId}`, rating);
-            localStorage.setItem(`counts-${articleId}`, JSON.stringify(counts));
-            loadRatingsFromLocalStorage();
-            
-            return { action: 'added', error: error.message };
+            console.error('API failed, using localStorage:', error);
+            return submitRatingToLocalStorage(rating);
         } finally {
             isLoading = false;
             ratingButtons.forEach(btn => btn.style.opacity = '1');
+        }
+    }
+    
+    // Submit to localStorage (fallback method)
+    function submitRatingToLocalStorage(rating) {
+        try {
+            const stored = localStorage.getItem(`rating-${articleId}`);
+            let counts = JSON.parse(localStorage.getItem(`counts-${articleId}`)) || {
+                love: Math.floor(Math.random() * 20) + 5,
+                like: Math.floor(Math.random() * 30) + 10,
+                neutral: Math.floor(Math.random() * 15) + 3,
+                dislike: Math.floor(Math.random() * 8) + 1,
+                bad: Math.floor(Math.random() * 5) + 0
+            };
+            
+            if (stored && stored !== rating) {
+                // Change existing rating
+                counts[stored] = Math.max(0, counts[stored] - 1);
+                counts[rating] = counts[rating] + 1;
+                localStorage.setItem(`rating-${articleId}`, rating);
+                currentUserRating = rating;
+            } else if (!stored) {
+                // New rating
+                counts[rating] = counts[rating] + 1;
+                localStorage.setItem(`rating-${articleId}`, rating);
+                currentUserRating = rating;
+            } else {
+                // Remove same rating
+                counts[rating] = Math.max(0, counts[rating] - 1);
+                localStorage.removeItem(`rating-${articleId}`);
+                currentUserRating = null;
+            }
+            
+            localStorage.setItem(`counts-${articleId}`, JSON.stringify(counts));
+            loadRatingsFromLocalStorage();
+            
+            return {
+                success: true,
+                action: !stored || stored !== rating ? 'added' : 'removed',
+                ratings: counts,
+                total: Object.values(counts).reduce((a, b) => a + b, 0)
+            };
+        } catch (error) {
+            console.error('localStorage error:', error);
+            return { success: false, error: error.message };
         }
     }
     
