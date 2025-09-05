@@ -5,11 +5,11 @@ layout: default
 <!-- Hero sekce s gradientním textem -->
 <section class="hero-section">
     <div class="hero-grid">
-        {% assign top_articles = site.posts | where: "topclanek", true %}
+        {% assign top_articles = site.posts | where: "topclanek", true | where_exp: "post", "post.categories contains 'videa' == false" %}
         {% if top_articles.size > 0 %}
             {% assign featured_post = top_articles.first %}
         {% else %}
-            {% assign featured_post = site.posts.first %}
+            {% assign featured_post = site.posts | where_exp: "post", "post.categories contains 'videa' == false" | first %}
         {% endif %}
         {% if featured_post %}
         <article class="hero-main">
@@ -35,7 +35,7 @@ layout: default
         {% endif %}
 
         <div class="hero-sidebar">
-            {% assign non_top_posts = site.posts | where_exp: "post", "post.topclanek != true" %}
+            {% assign non_top_posts = site.posts | where_exp: "post", "post.topclanek != true" | where_exp: "post", "post.categories contains 'videa' == false" %}
             {% assign sidebar_posts = non_top_posts | slice: 0, 2 %}
             {% for post in sidebar_posts %}
             <article class="sidebar-article">
@@ -162,23 +162,8 @@ layout: default
                         Váš prohlížeč nepodporuje video tag.
                     </video>
                     
-                    <!-- Overlay s obrázkem, nadpisem a play tlačítkem -->
+                    <!-- Overlay s nadpisem a play tlačítkem -->
                     <div class="video-overlay" id="video-overlay">
-                        <div class="video-thumbnail" id="video-thumbnail">
-                            {% assign first_video_file = videos.first.file | replace: '.mp4', '' | replace: '.m4a', '' | downcase | replace: '_', '-' | replace: ' ', '-' %}
-                            {% case first_video_file %}
-                                {% when 'veslejsi-ucinky-leku-glp-1' %}
-                                    <img src="/assets/obrazky/leky-na-hubnuti.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
-                                {% when 'dilema-airbnb--pohodli-vs' %}
-                                    <img src="/assets/obrazky/dilema-airbnb.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
-                                {% when 'qanon-ekosystem-konspiraci' %}
-                                    <img src="/assets/obrazky/qanon-puvod-konspiraci.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
-                                {% when 'tiatm6lmtmx34' %}
-                                    <img src="/assets/obrazky/audio-track.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
-                                {% else %}
-                                    <img src="/assets/obrazky/video-placeholder.jpg" alt="{{ videos.first.title }}" id="video-thumbnail-img">
-                            {% endcase %}
-                        </div>
                         <div class="video-overlay-content">
                             <h4 class="video-overlay-title" id="video-overlay-title">{{ videos.first.title }}</h4>
                             <button class="play-button" id="play-current-video">
