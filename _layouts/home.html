@@ -5,11 +5,21 @@ layout: default
 <!-- Hero sekce s gradientním textem -->
 <section class="hero-section">
     <div class="hero-grid">
-        {% assign top_articles = site.posts | where: "topclanek", true | where_exp: "post", "post.categories contains 'videa' == false" %}
-        {% if top_articles.size > 0 %}
-            {% assign featured_post = top_articles.first %}
-        {% else %}
-            {% assign featured_post = site.posts | where_exp: "post", "post.categories contains 'videa' == false" | first %}
+        {% assign top_articles = site.posts | where: "topclanek", true %}
+        {% assign featured_post = "" %}
+        {% for post in top_articles %}
+            {% unless post.categories contains 'videa' %}
+                {% assign featured_post = post %}
+                {% break %}
+            {% endunless %}
+        {% endfor %}
+        {% if featured_post == "" %}
+            {% for post in site.posts %}
+                {% unless post.categories contains 'videa' %}
+                    {% assign featured_post = post %}
+                    {% break %}
+                {% endunless %}
+            {% endfor %}
         {% endif %}
         {% if featured_post %}
         <article class="hero-main">
@@ -35,8 +45,13 @@ layout: default
         {% endif %}
 
         <div class="hero-sidebar">
-            {% assign non_top_posts = site.posts | where_exp: "post", "post.topclanek != true" | where_exp: "post", "post.categories contains 'videa' == false" %}
-            {% assign sidebar_posts = non_top_posts | slice: 0, 2 %}
+            {% assign sidebar_posts = "" | split: "," %}
+            {% for post in site.posts %}
+                {% unless post.categories contains 'videa' or post.topclanek == true %}
+                    {% assign sidebar_posts = sidebar_posts | push: post %}
+                    {% if sidebar_posts.size >= 2 %}{% break %}{% endif %}
+                {% endunless %}
+            {% endfor %}
             {% for post in sidebar_posts %}
             <article class="sidebar-article">
                 <a href="{{ post.url | relative_url }}" class="article-image-link">
