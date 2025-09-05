@@ -1,38 +1,49 @@
 {
-  "last_updated": "2025-09-05T02:57:57",
+  "last_updated": "2025-09-05T04:21:15",
   "articles": [
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Slavná tramvaj v Lisabonu vykolejila a havarovala, zemřelo 15 lidí",
-      "original_title": "Famed streetcar in Lisbon, Portugal, derails and crashes, killing 15 people - AP News",
-      "url": "https://apnews.com/article/streetcar-derails-lisbon-d63600ff5092969b088507bbccf44aab",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d126b90/2147483647/strip/true/crop/3450x1941+0+180/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2F8d%2F5c01367a5cad0ca5391c7b0f14b4%2F019839e1885b4792b07107e26d07cc03",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-04T01:46:00Z",
-      "description": "Portugalské záchranné služby: Tramvaj v Lisabonu vykolejila, 15 mrtvých a 18 zraněných"
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Mark Cuban jasně vyjádřil svůj postoj k Clippers v souvislosti se skandálem s Kawhim Leonardem",
+      "original_title": "Mark Cuban makes his Clippers stance clear amid Kawhi Leonard endorsement scandal - New York Post",
+      "url": "https://nypost.com/2025/09/03/sports/mark-cuban-defends-clippers-amid-kawhi-leonard-endorsement-scandal/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-ipq4wpviv-1756950584821.jpg?quality=75&strip=all&1756936211&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-09-04T02:13:00Z",
+      "description": "Bývalý zaměstnanec Aspirationu řekl Torremu, že Leonardova dohoda s firmou měla „obejít strop na platy“."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Umělá inteligence, lasery a čipy: věda a technologie na vojenské přehlídce v Číně",
+      "original_title": "AI, lasers and chips: the science and tech of China’s military parade - South China Morning Post",
+      "url": "https://www.scmp.com/news/china/science/article/3324226/ai-lasers-and-chips-science-and-tech-chinas-military-parade",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/09/04/5c9cd60b-8628-4504-8131-28c3d184d50b_711cd304.jpg?itok=RgwBUrN4&v=1756954157",
+      "source": "Post Magazine",
+      "publishedAt": "2025-09-04T02:00:11Z",
+      "description": "Průvod se zbraněmi nabízí vzácný pohled na to, jak Čína přetváří moderní válčení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump žádá Nejvyšší soud, aby urychleně projednal odvolání na záchranu jeho cel",
-      "original_title": "Trump asks Supreme Court to quickly hear appeal to save his tariffs - CNBC",
-      "url": "https://www.cnbc.com/2025/09/03/trump-tariffs-trade-supreme-court.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190968-17562344792025-08-26t182537z_68056004_rc25fgay84tv_rtrmadp_0_usa-trump-cook-bonds.jpeg?v=1756234503&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-04T01:12:00Z",
-      "description": "Osud většiny cel prezidenta Trumpa je v odvolání v sázce, které se snaží zvrátit rozhodnutí nižších soudů o tom, že uzurpoval pravomoci Kongresu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mamdani označuje zprávy o vměšování Bílého domu do newyorské volební kampaně za „útok na naši demokracii“",
+      "title": "Mamdani označil zprávy o vměšování Bílého domu do newyorské volební kampaně za „útok na naši demokracii“",
       "original_title": "Mamdani calls reports of White House meddling in NYC mayor's race an 'affront to our democracy' - ABC News",
       "url": "https://abcnews.go.com/Politics/mamdani-calls-reports-white-house-meddling-nyc-mayors/story?id\\\\u003d125232546",
       "urlToImage": null,
       "source": "ABC News",
       "publishedAt": "2025-09-04T00:56:15Z",
       "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpova administrativa otevře nové zařízení ICE ve věznici v Louisianě s pochybnou pověstí",
+      "original_title": "Trump administration to open new ICE facility at notorious Louisiana prison - CNN",
+      "url": "https://www.cnn.com/2025/09/03/politics/new-ice-facility-angola-louisiana-prison",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2018-05-31t112047z-826861202-rc1ca5f4dfd0-rtrmadp-3-usa-jails-louisiana.JPG?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-04T00:45:00Z",
+      "description": "Trumpova administrativa otevírá nový detenční tábor v notoricky známé státní věznici v Louisianě pro nelegální migranty obviněné z trestných činů, oznámili ve středu úředníci."
     },
     {
       "flag": "🇬🇧",
@@ -43,34 +54,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b729/live/d4fc4a90-8923-11f0-b925-b728614782d0.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-04T00:20:21Z",
-      "description": "Americká herečka byla součástí kontroverzní kampaně značky „Great Jeans“, která vyvolala vlnu kritiky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sledování slosování Powerball: Jak ve středu sledovat losování o jackpot ve výši 1,4 miliardy dolarů",
-      "original_title": "Powerball live drawing: How to watch drawing for $1.4 billion jackpot Wednesday - Axios",
-      "url": "https://www.axios.com/2025/09/03/powerball-lottery-drawing-time-billion-dollar-jackpot",
-      "urlToImage": "https://images.axios.com/yVRBj_elXMKcuTDFgnjeJ3ykvYM=/0x441:4032x2709/1366x768/2025/09/03/1756939832042.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-03T23:49:17Z",
-      "description": "Čtvrtá nejvyšší jackpotová výhra v Powerballu bude 3. září k dispozici, jde o šestou nejvyšší loterijní cenu v historii USA."
+      "description": "Americká herečka se podílela na kontroverzní kampani značky s názvem „Skvělé džíny“, která vyvolala vlnu kritiky."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Troy Aikman bije na poplach nad smutnou realitou Cowboys Jerryho Jonese",
-      "original_title": "Troy Aikman sounds alarm on Jerry Jones’ sad Cowboys reality - New York Post",
-      "url": "https://nypost.com/2025/09/03/sports/troy-aikman-sounds-alarm-on-jerry-jones-sad-cowboys-reality/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-dw1bcc8zm-1756939302389.jpg?quality=75&strip=all&1756924927&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-09-03T23:42:00Z",
-      "description": "Troy Aikman si není tak jistý, že v Dallasu je vítězství prioritou."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Florida zruší povinné očkování ve školách, jako první stát v USA",
+      "title": "Florida ruší veškeré povinné očkování ve školách, první stát v USA",
       "original_title": "Florida moves to end all school vaccine mandates, first in nation to do so - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/09/03/florida-vaccine-mandates-ended/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJVBPFD64MI6ZDGIW2LFMS5HSY.jpg&w=1440",
@@ -87,7 +76,7 @@
       "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbebee606-b406-44e1-89bd-786c182a38f6.jpg?source=next-barrier-page",
       "source": "Financial Times",
       "publishedAt": "2025-09-03T23:18:18Z",
-      "description": "Přísné vymáhání pokračuje, i když šéfové technologických firem dvořili prezidentovi"
+      "description": "Přísné vymáhání práva pokračuje i poté, co se šéfové technologických firem dvořili prezidentovi"
     },
     {
       "flag": "🌍",
@@ -98,62 +87,84 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/240217-cdc-mb-1426-e0828c.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-03T23:16:18Z",
-      "description": "Zmatky v CDC a větší kontrola států nad očkováním ohrožují celonárodní konsenzus a mohou vést k reorganizaci systému"
+      "description": "Zmatky v CDC a větší kontrola států nad očkováním ohrožují celonárodní konsenzus a mohou vést k reorganizaci systému vakcinace."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V Kalifornii potvrdili ‚nebezpečnou‘ Chagasovu chorobu, což vyvolává obavy v oblasti Bay Area",
+      "title": "V Kalifornii potvrdili nebezpečnou Chagasovu chorobu, což vyvolává obavy v oblasti Bay Area",
       "original_title": "'Dangerous' Chagas disease confirmed in California, raising concerns for Bay Area - SFGATE",
       "url": "https://www.sfgate.com/bayarea/article/chagas-disease-spread-california-21029499.php",
       "urlToImage": "https://s.hdnux.com/photos/01/54/34/76/28430247/3/rawImage.jpg",
       "source": "SFGate",
       "publishedAt": "2025-09-03T23:11:54Z",
-      "description": "Odborníci se obávají, že se Chagasova choroba, parazitární onemocnění endemické v Latinské Americe, dostane do oblasti Sanfranciského zálivu poté, co byly potvrzeny případy v jižní Kalifornii."
+      "description": "Odborníci se obávají, že se Chagasova choroba, parazitární onemocnění endemické v Latinské Americe, dostane do oblasti Sanfranciského zálivu poté, co byly případy potvrzeny v jižní Kalifornii."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump říká, že americký úder na venezuelský gang donutí drogovými kartely dvakrát přemýšlet",
-      "original_title": "Trump says US strike targeting Venezuelan gang will cause cartels to think twice - AP News",
-      "url": "https://apnews.com/article/trump-venezuela-military-strike-drug-cartels-maduro-eae4f38deb40cb8ce70521c22282e469",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1c7b67f/2147483647/strip/true/crop/5245x2950+0+273/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2Ffa%2F1f5137f8bbc712445fae8642c596%2F5c8aceaa9cc24a8e86c227a3b9bd357a",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-03T22:48:00Z",
-      "description": "Prezident Donald Trump ospravedlňuje smrtící vojenský úder, který podle jeho administrativy provedly Spojené státy o den dříve proti venezuelskému gangu, jako nezbytný krok k vyslání jasného vzkazu..."
+      "title": "Zpravodajská síť Newsmax podala antimonopolní žalobu na Fox News",
+      "original_title": "News network Newsmax files antitrust suit vs. Fox News - Politico",
+      "url": "https://www.politico.com/news/2025/09/03/news-network-newsmax-antitrust-lawsuit-fox-news-00543044",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa8%2F16%2F15fb74414bb7b79634691255dda8%2Fdominion-newsmax-defamation-case-17501.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-03T23:01:49Z",
+      "description": "„Chování Foxu představuje učebnicové zneužití monopolního postavení,“ uvedl právník Newsmax Michael J. Guzman."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpovo impérium čelí turbulencím u své digitální mince v hodnotě 5,4 miliardy dolarů",
+      "title": "Trumpovo digitální token za 5,4 miliardy dolarů zasáhly turbulence",
       "original_title": "Trump Inc.’s $5.4 Billion Digital Coin Hit by Turbulence - Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2025-09-03/trump-inc-s-5-4-billion-digital-coin-hit-by-market-turbulence",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYRvkWcCERoI/v1/1200x800.jpg",
       "source": "Bloomberg",
       "publishedAt": "2025-09-03T22:34:12Z",
-      "description": "Trumpova společnost WLFI spustila vlastní kryptoměnu. Měla být základem nového digitálního ekosystému, místo toho se okamžitě propadla"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nový model AI mění fotografie na prozkoumatelné 3D světy, ale s výhradami",
-      "original_title": "New AI model turns photos into explorable 3D worlds, with caveats - Ars Technica",
-      "url": "https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/voyager_screenshot-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-03T21:56:07Z",
-      "description": "Otevřeně dostupný nástroj umělé inteligence vytváří ovladatelná 3D videa, ale vyžaduje pořádný výkon GPU."
+      "description": "Trumpova společnost vtrhla s fanfárami na kryptoscénu. Její token WLFI měl být páteří nového digitálního ekosystému, místo toho se hned po spuštění propadl"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Zásahové granáty a ranní razie: Jak Trump plánuje zaútočit na Chicago - Chicago Sun",
+      "title": "Trhací granáty a ranní razie: Jak Trump plánuje zacílit na Chicago - Chicago Sun",
       "original_title": "Flash-bang grenades and early morning raids: How Trump is planning to target Chicago - Chicago Sun-Times",
       "url": "https://chicago.suntimes.com/the-watchdogs/2025/09/03/chicago-illinois-crime-immigration-ice-national-guard-donald-trump-jb-pritzker",
       "urlToImage": "https://cst.brightspotcdn.com/dims4/default/37c7fd3/2147483647/strip/true/crop/3000x1713+0+142/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2Fb8%2F91942ca44ba2939f2af734ac5d2e%2Fcbp-08xx25-4.jpg",
       "source": "Suntimes.com",
       "publishedAt": "2025-09-03T21:32:00Z",
-      "description": "Stovky federálních agentů míří z Los Angeles na předměstou námořní základnu, kde imigrační zátah vyvolal protesty, jež přiměly Trumpa povolat Národní gardu. Trump od té doby hrozil nasazením gardy ..."
+      "description": "Stovky federálních agentů míří z Los Angeles na předměstskou námořní základnu. Imigrační razie tam vyvolala protesty, které přiměly Trumpa povolat Národní gardu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Teleskop Jamese Webba objevil ‚mimořádně vzácnou‘ srážku pěti galaxií z raného vesmíru",
+      "original_title": "James Webb telescope discovers 'exceptionally rare' 5-galaxy crash in the early universe - Live Science",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-exceptionally-rare-5-galaxy-crash-in-the-early-universe",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9aCinDUgXx7zWPz37KwF8H.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-09-03T20:56:49Z",
+      "description": "Snímky z infračerveného teleskopu Jamese Webba odhalily pět galaxií raného vesmíru splývajících v rozsáhlém halu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Upgrade Siri od Applu by údajně mohl být poháněn Google Gemini",
+      "original_title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-03T20:50:38Z",
+      "description": "Siri s umělou inteligencí je ve vývoji a možná bude využívat technologii Gemini"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nehoda lanovky v Lisabonu zabila nejméně 15 lidí po vykolejení populární tramvaje",
+      "original_title": "Lisbon funicular crash kills at least 15 people when popular streetcar derails - CBS News",
+      "url": "https://www.cbsnews.com/news/lisbon-funicular-rail-car-derails-crashes-portugal/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/03/a12ec170-3693-47e1-9674-03a6e94f4d59/thumbnail/1200x630/a2df616f6ca9dead602c0b43db4793fe/ap25246677363276.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-03T20:49:00Z",
+      "description": "Příčina smrtelné nehody zůstává nejasná po vykolejení elektrické tramvaje v Lisabonu"
     },
     {
       "flag": "🌍",
@@ -169,35 +180,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova válka o změnu hranic volebních obvodů se šíří do Missouri a Marylandu",
-      "original_title": "Trump’s redistricting war spreads to Missouri and Maryland - Politico",
-      "url": "https://www.politico.com/news/2025/09/03/missouri-maryland-redistricting-cleaver-00542141",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F31%2F49%2F3c0b2c70424187b05aa38e523324%2Fu-s-congress-61538.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-03T20:15:24Z",
-      "description": "Republikánský plán na změnu hranic volebních obvodů je podle kongresmana Cleavera „nejodpornější plán, jaký si lze představit“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mrazivý objev: Tento dinosaurus měl ostnatou brnění",
+      "title": "Mrazivý objev: Tento dinosaurus měl ostnitý pancíř",
       "original_title": "A spine-tingling discovery: This dinosaur had spiked body armor - NPR",
       "url": "https://www.npr.org/2025/09/03/g-s1-86846/spiked-dinosaur-discovered-spicomellus",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+358/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F87%2Fb6614f1640108eecaf76c1424f67%2Fspicomellus-master-shot-4k-credit-matt-dempsey.png",
       "source": "NPR",
       "publishedAt": "2025-09-03T20:05:07Z",
-      "description": "V nové studii vědci popisují bizarního dinosaura s trnitými ostny na krku a zádech, který žil v Africe před více než 165 miliony let."
+      "description": "Vědci popsali bizarního dinosaura s trnitými hřbety, který žil v Africe před více než 165 miliony let."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Apple Event 2025: 5 nových produktů Apple, které příští týden pravděpodobně neuvidíte",
+      "title": "Událost Applu 2025: 5 nových produktů, které příští týden pravděpodobně neuvidíte",
       "original_title": "Apple Event 2025: 5 new Apple products you likely won’t see next week - Mashable",
       "url": "https://mashable.com/article/products-you-wont-see-apple-event-2025",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/07n3eZPQQ3j9RTksGMbeUfX/hero-image.fill.size_1200x675.v1756925079.webp",
       "source": "Mashable",
       "publishedAt": "2025-09-03T18:44:40Z",
-      "description": "Jsou připraveni, ale ještě ne zcela na výkon."
+      "description": "Jsou na řadě, ale ještě nejsou připraveni na velkou show."
     },
     {
       "flag": "🇺🇸",
@@ -208,29 +208,40 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-696325638-20250903190238674.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-03T18:00:00Z",
-      "description": "Lidé, kteří si s sebou berou telefon na toaletu, mají vyšší pravděpodobnost vzniku hemoroidů, zjistil nový výzkum. Řešení je jednoduché."
+      "description": "Lidé, kteří si berou mobil na toaletu, mají vyšší riziko vzniku hemoroidů, zjistil nový výzkum. Řešení je jednoduché."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Královna ketaminu se přiznala, že poskytla drogy, které zabily hvězdu Přátel Matthew Perryho",
-      "original_title": "'Ketamine Queen' pleads guilty to providing drugs that killed 'Friends' star Matthew Perry - ABC News",
-      "url": "https://abcnews.go.com/US/ketamine-queen-matthew-perry-guilty/story?id\\\\u003d125196573",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-03T17:37:30Z",
-      "description": ""
+      "title": "Dealerka ketaminu Matthewa Perryho se přiznala k vině: „Je jí hrozně“",
+      "original_title": "Matthew Perry’s Ketamine Dealer Pleads Guilty: ‘She Feels Horrible’ - Rolling Stone",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/matthew-perry-ketamine-dealer-jasveen-sangha-pleads-guilty-1235420569/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/matthew-perry-court-update.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-03T17:47:03Z",
+      "description": "Dealer Matthewa Perryho, přezdívaná žalobci „Ketaminová královna“, se ve středu přiznala. Její právník označil Perryho smrt za tragédii."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Putin řekl Si Ťin-pchingovi, že transplantace orgánů mohou zajistit nesmrtelnost",
+      "original_title": "Putin tells Xi organ transplants could offer immortality - Financial Times",
+      "url": "https://www.ft.com/content/eea056a5-7dba-4fca-96c4-55dbf05359d9",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff60398b4-2c14-4063-a318-1adc589ea80a.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-03T17:10:26Z",
+      "description": "Čínský lídr zmínil předpovědi, že by se lidé v tomto století mohli dožít 150 let"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‚Hlas Hind Rajab‘ ohromil Benátky nejdelšími 22minutovými ovacemi za pláče a skandování ‚Svobodné Palestině‘",
+      "title": "‚Hlas Hind Rajab‘ ohromil Benátky nejdelší dvaadvacetiminutovou standing ovací uprostřed slz a skandování ‚Svobodné Palestině‘",
       "original_title": "‘The Voice of Hind Rajab’ Stuns Venice With Its Longest Standing Ovation of 22 Minutes Amid Tears and ‘Free Palestine’ Chants - Variety",
       "url": "https://variety.com/2025/film/festivals/voice-of-hind-rajab-venice-premiere-standing-ovation-1236505878/",
       "urlToImage": "https://variety.com/wp-content/uploads/2025/09/hind-rajab.jpg?w=1000&h=563&crop=1",
       "source": "Variety",
       "publishedAt": "2025-09-03T16:44:00Z",
-      "description": "Hlas Hind Rajab\", jeden z nejsilnějších a nejpolitičtějších filmů v benátské soutěži, sklidil dvaadvacetiminutovou dojemnou standing ovation."
+      "description": "‚Hlas Hind Radžáb‘, jeden z nejsilnějších a nejpolitičtějších filmů v benátské soutěži, sklidil dvaadvacetiminutovou dojemnou standing ovation."
     },
     {
       "flag": "🇺🇸",
@@ -241,62 +252,51 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHHA53RUWII6XFUZADJRD4J5FU.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-03T15:51:56Z",
-      "description": "Vinay Prasad, nejvyšší představitel agentury pro vakcíny a klíčový spojenec RFK Jr., říká, že FDA je nyní „nejistá“, zda je běžná praxe bezpečná a účinná."
+      "description": "Vinay Prasad, špičkový vakcinolog úřadu a klíčový spojenec RFK Jr., říká, že FDA je nyní „nejistá“, zda je běžná praxe bezpečná a účinná."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "GPU AMD RDNA 5 s kódovými jmény po Transformers: Alpha Trion, Ultra Magnus a Orion Pax",
+      "title": "GPU AMD RDNA 5 s kódovými jmény Transformerů: Alpha Trion, Ultra Magnus a Orion Pax",
       "original_title": "AMD RDNA 5 “Radeon” GPUs Are Codenamed After Transformers: Alpha Trion, Ultra Magnus & Orion Pax - Wccftech",
       "url": "https://wccftech.com/amd-rdna-5-radeon-gpus-codenamed-after-transformers-alpha-trion-ultra-magnus-orion-pax/",
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/AMD-RDNA-5-Radeon-GPUs-Transformers-scaled.jpg",
       "source": "Wccftech",
       "publishedAt": "2025-09-03T15:30:00Z",
-      "description": "AMD zřejmě pojmenovává své nové GPU Radeon s architekturou RDNA 5 po Transformers."
+      "description": "AMD zřejmě pojmenovává své nové GPU Radeon s architekturou RDNA 5 podle Transformers."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Řízené učení v DNA neuronových sítích",
+      "title": "Učení s učitelem v DNA neuronových sítích",
       "original_title": "Supervised learning in DNA neural networks - Nature",
       "url": "https://www.nature.com/articles/s41586-025-09479-w",
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09479-w/MediaObjects/41586_2025_9479_Fig1_HTML.png",
       "source": "Nature.com",
       "publishedAt": "2025-09-03T15:15:16Z",
-      "description": "Molekuly DNA lze naprogramovat tak, aby samostatně prováděly supervizované učení in vitro, přičemž systém se učí provádět klasifikaci vzorů z molekulárních příkladů vstupů a požadovaných reakcí."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Sonda InSight od NASA odhaluje překvapení v samotném jádru Marsu",
-      "original_title": "NASA's Insight Lander Reveals a Surprise at The Very Core of Mars - ScienceAlert",
-      "url": "https://www.sciencealert.com/nasas-insight-lander-reveals-a-surprise-at-the-very-core-of-mars",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/mars-core.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-03T15:01:50Z",
-      "description": "Vědci nahlédli do samotného srdce planety Mars a objevili nečekanou strukturu."
+      "description": "Molekuly DNA lze naprogramovat tak, aby samostatně prováděly učení s učitelem in vitro, přičemž systém se naučí provádět klasifikaci vzorů z molekulárních příkladů vstupů a požadovaných odpovědí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX vypustila z Floridy na orbitu 28 satelitů Starlink krátce po startu z Kalifornie (video)",
+      "title": "SpaceX vypustila z Floridy na oběžnou dráhu 28 satelitů Starlink krátce po startu z Kalifornie (video)",
       "original_title": "SpaceX launches 28 Starlink satellites into orbit from Florida on heels of California liftoff (video) - Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-22-b1083-ccsfs-asog",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/KeqnhMgduXXTPfptfbL5FC.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-03T14:16:33Z",
-      "description": "Start po zlaté hodině stoupal jasně modrým ranním nebem 8 hodin po kalifornském vypuštění Starlinku."
+      "description": "Vzlet po zlaté hodině stoupal jasně modrým ranním nebem 8 hodin po kalifornském startu Starlinku."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‘The Conjuring: Poslední pomazání’ se dočká celosvětové premiéry za 80 milionů dolarů",
+      "title": "‘The Conjuring: Poslední pomazání’ se dočká požehnání v podobě 80milionového globálního startu – Tržby",
       "original_title": "‘The Conjuring: Last Rites’ To Be Blessed With $80M Global Opening – Box Office - Deadline",
       "url": "http://deadline.com/2025/09/the-conjuring-last-rites-box-office-1236504914/",
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/MCDCOLA_WB015-1.jpg?w=1024",
       "source": "Deadline",
       "publishedAt": "2025-09-03T13:46:00Z",
-      "description": "‚The Conjuring: Poslední pomazání‘ má v domácí premiéře vydělat přes 40 milionů dolarů, celosvětově 80 milionů"
+      "description": "‚The Conjuring: Poslední pomazání‘ má v domácí premiéře tržby přes 40 milionů dolarů, celosvětově 80 milionů"
     },
     {
       "flag": "🌍",
@@ -307,7 +307,7 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/03/USAT/85948547007-178793-6208-v-1.jpg?crop=1853,1043,x0,y269&width=1853&height=1043&format=pjpg&auto=webp",
       "source": "USA Today",
       "publishedAt": "2025-09-03T12:41:22Z",
-      "description": "Hilaria Baldwinová bere Aleca Baldwina a rodinu na cestu za \"StarDance\", přidávají se k nim nové hvězdy Corey Feldman, Dylan Efron, Baron Davis a Jordan Chiles."
+      "description": "Hilaria Baldwinová bere Aleca Baldwina a rodinu na cestu \"DWTS\", přidávají se k novým hvězdám Corey Feldmanovi, Dylanu Efronovi, Baronu Davisovi a Jordan Chiles."
     }
   ]
 }
