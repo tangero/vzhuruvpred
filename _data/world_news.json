@@ -1,27 +1,93 @@
 {
-  "last_updated": "2025-09-05T14:16:33",
+  "last_updated": "2025-09-05T15:18:16",
   "articles": [
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trumpova administrativa žádá Nejvyšší soud, aby neprodleně povolil rozsáhlá cla",
-      "original_title": "Trump officials ask Supreme Court to quickly allow sweeping tariffs - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/04/tariffs-trump-supreme-court-appeal/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VPE5HCS35PSNPS4I2SCGAXBUXY_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-04T11:12:11Z",
-      "description": "Petice může odstartovat přelomový spor o klíčový bod prezidentova programu s obrovskými důsledky pro americkou ekonomiku, globální obchod a spotřebitele."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie dnes: Dow Jones kolísá, Trumpův nominant do Fedu čelí Senátu — online zpravodajství",
+      "original_title": "Stock Market Today: Dow Wavers; Trump's Fed Nominee to Face Senate — Live Updates - The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-04-2025",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-04T14:07:00Z",
+      "description": ""
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Povzbuzeni Trumpem plánují Evropané poslat vojáky pro zabezpečení poválečné Ukrajiny.",
+      "title": "Italský módní návrhář Giorgio Armani zemřel ve věku 91 let",
+      "original_title": "Italian fashion designer Giorgio Armani dies aged 91 - CNN",
+      "url": "https://www.cnn.com/2025/09/04/style/giorgio-armani-death-obituary-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2023-07-04t184631z-605920382-rc2iw1awodv1-rtrmadp-3-fashion-paris-hautecouture-armani.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-04T13:24:00Z",
+      "description": "Italský módní návrhář Giorgio Armani zemřel ve věku 91 let, oznámila ve čtvrtek skupina Armani Group."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bruce Springsteen překvapí boxsetem ‘Electric Nebraska’ a dalšími nahrávkami",
+      "original_title": "Bruce Springsteen to Release ‘Electric Nebraska’ — and More — in Surprise Box Set - Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-news/bruce-springsteen-electric-nebraska-box-set-1235421364/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/bruce-springsteen-live-nebraska.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-04T13:16:10Z",
+      "description": "Box set vychází ke stejnojmennému filmu a obsahuje verze alba Nebraska s E Street Band, živé vystoupení a nevydané nahrávky."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zpráva: Eagles se letos v létě pokusili vyměnit za Micaha Parsonse",
+      "original_title": "Report: Eagles tried to trade for Micah Parsons this summer - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-eagles-tried-to-trade-for-micah-parsons-this-summer",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c1ce882/2147483647/strip/true/crop/3408x1917+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff5%2Ff80cb50d4822b5681b380f818ce5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2184063367",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-09-04T12:59:30Z",
+      "description": "Cowboys se rozhodli nevyměnit Parsonse k rivalovi z NFC East."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Dana Carvey odhaluje „šokující“ pravdu o odchodu Heidi Gardnerové ze „SNL“",
+      "original_title": "Dana Carvey reveals ‘shocking’ truth about Heidi Gardner’s ‘SNL’ exit - New York Post",
+      "url": "https://nypost.com/2025/09/04/entertainment/dana-carvey-reveals-shocking-truth-about-heidi-gardners-snl-exit/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/110665543.jpg?quality=75&strip=all&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-09-04T12:27:00Z",
+      "description": "Dana Carvey má informace o šokujících změnách v obsazení „SNL“"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Strategové z Wall Street předpokládají větší obavy o nezávislost Fedu",
+      "original_title": "Wall Street Strategists See More Unease on Fed Independence - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/wall-street-strategists-see-investor-090008262.html",
+      "urlToImage": "https://media.zenfs.com/en/bloomberg_holding_pen_162/122c22f081c45fa4d7ffb05e8fd138cf",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-04T11:47:20Z",
+      "description": "Rally na zlatě a rotace k hodnotovým akciím, stejně jako rostoucí spread mezi výnosy pětiletých a třicetiletých státních dluhopisů, ukazují, že obchodníci vsází…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Putin a Si Ťin-pching byli naživo slyšet, jak si povídají o prodlužujících život transplantacích orgánů a nesmrtelnosti",
+      "original_title": "Putin and China's Xi heard on hot mic discussing life-prolonging organ transplants and immortality - CBS News",
+      "url": "https://www.cbsnews.com/news/xi-putin-discuss-immortality-life-prolonging-organ-transplants-beijing-parade-china/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/04/ef81545c-9468-4489-9235-4848b2950263/thumbnail/1200x630g2/bcb0735cf88247f39dd7247610c77518/gettyimages-2233452085.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-04T11:01:00Z",
+      "description": "„Je možné, že v tomto století bude možné dožít se 150 let,“ uvažoval Si Ťin-pching před Putinem před historickou vojenskou přehlídkou v Pekingu."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Povzbuzeni Trumpem plánují Evropané vyslat do poválečné Ukrajiny vojáky",
       "original_title": "Encouraged by Trump, Europeans plan to send troops to secure postwar Ukraine - The Washington Post",
       "url": "https://www.washingtonpost.com/world/2025/09/04/europe-us-ukraine-security-guarantees-air-support/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AJQF2RESSAJNQQU4U2JILC4J6E_size-normalized.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-04T10:23:51Z",
-      "description": "Evropští lídři se ve čtvrtek v Paříži setkají s ukrajinským prezidentem Zelenským a telefonicky se spojí s Trumpem o americké protivzdušné obraně a zpravodajských informacích."
+      "description": "Evropští lídři se ve čtvrtek v Paříži setkají s ukrajinským prezidentem Zelenským a budou telefonovat s Trumpem o americké protivzdušné obraně a zpravodajských informacích."
     },
     {
       "flag": "🌍",
@@ -32,18 +98,18 @@
       "urlToImage": "https://media.khou.com/assets/KHOU/images/ce2fe659-1315-421a-b8cd-02a776793b2b/ce2fe659-1315-421a-b8cd-02a776793b2b_1140x641.jpg",
       "source": "KHOU.com",
       "publishedAt": "2025-09-04T10:23:00Z",
-      "description": "Jeden šťastný lístek z Houstonu se po středečním obřím Powerball slosování proměnil ve 2 miliony dolarů."
+      "description": "Jeden šťastný lístek z Houstonu se po středečním obřím Powerball losování proměnil ve 2 miliony dolarů."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "5 Android telefonů, které byste si měli koupit místo Google Pixel 10 Pro",
-      "original_title": "5 Android phones you should buy instead of the Google Pixel 10 Pro - Android Authority",
-      "url": "https://www.androidauthority.com/google-pixel-10-pro-alternatives-3593549/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-jade-back-hero-scaled.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-09-04T10:16:53Z",
-      "description": "Google Pixel 10 Pro je opravdu skvělý telefon. Ale předtím, než si ho koupíte, je tu pět dalších Android telefonů, které by pro vás mohly být lepší volbou."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Si Ťin-pching se setkal s Kimem den po bezprecedentní ukázce jednoty s Putinem na čínské vojenské přehlídce",
+      "original_title": "Xi meets Kim a day after unprecedented show of unity with Putin at Chinese military parade - CNN",
+      "url": "https://www.cnn.com/2025/09/04/china/china-xi-kim-meeting-military-parade-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232847692.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-04T10:15:00Z",
+      "description": "Čínský vůdce Si Ťin-pching a severokorejský Kim Čong-un usedli k formálním rozhovorům v Pekingu"
     },
     {
       "flag": "🇺🇸",
@@ -54,128 +120,84 @@
       "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F79179e69-7e57-4682-bd39-fb89211d5685.jpg?source=next-barrier-page",
       "source": "Financial Times",
       "publishedAt": "2025-09-04T10:00:15Z",
-      "description": "Útok prezidenta na centrální banku USA podlomí status rezervní měny dolaru a prodlouží rally drahých kovů, tvrdí analytici"
+      "description": "Prezidentův útok na americkou centrální banku podle analytiků podlomí status dolaru jako rezervní měny a prodlouží růst cen drahých kovů"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Představujeme řadu Samsung Galaxy Tab S11: přináší vše, co od prémiového tabletu očekáváte",
-      "original_title": "Meet Samsung Galaxy Tab S11 Series: Packing Everything You Expect From a Premium Tablet - Samsung Newsroom",
-      "url": "https://news.samsung.com/global/meet-samsung-galaxy-tab-s11-series-packing-everything-you-expect-from-a-premium-tablet",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/09/Samsung-Mobile-Galaxy-Tab-S11-series-Premium-Tablet-Galaxy-AI-DeX-One-UI-8_thumb728.jpg",
-      "source": "Samsung.com",
-      "publishedAt": "2025-09-04T09:34:19Z",
-      "description": "Řada Galaxy Tab S11 přináší nejnovější funkce Galaxy AI a výkonnější prostředí Samsung DeX – tenké a lehké tablety navržené pro snadnou produktivitu"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "RFK Jr. bude čelit dotazům ohledně chaosu v CDC",
-      "original_title": "RFK Jr. to face questions about chaos at the CDC - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/04/nx-s1-5525885/rfk-cdc-hhs-senate-finance",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2Fed%2F31f90a894fb6a61209bfd0a4461b%2Fgettyimages-2227195069.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-04T09:01:00Z",
-      "description": "Demokratičtí zákonodárci a více než tisíc současných i bývalých zaměstnanců ministerstva zdravotnictví tvrdí, že Kennedyho kroky ohrožují zdraví Američanů. Kennedy říká, že přišel uklidit a že to d..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "10 federálních soudců v ojedinělých rozhovorech kritizuje postup Nejvyššího soudu v kauzách Donalda Trumpa",
-      "original_title": "10 federal judges criticize Supreme Court's handling of Trump cases in rare interviews - NBC News",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-cases-federal-judges-criticize-rcna221775",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250815SCOTUSvJudgesBernis-jg-ef3ad9.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-04T09:00:42Z",
-      "description": "Federální soudci jsou frustrováni, že Nejvyšší soud stále častěji bez vysvětlení ruší rozhodnutí nižších soudů ve věcech týkajících se Trumpovy administrativy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Politické přežití Billa Cassidyho může záviset na Trumpově mlčení",
-      "original_title": "Bill Cassidy’s political survival might hinge on Trump's silence - Politico",
-      "url": "https://www.politico.com/news/2025/09/04/bill-cassidy-trump-rfk-jr-louisiana-endorsement-00543192",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa1%2F01%2Fb25ffe8d41c2ad32fd3b655a5cb0%2Fu-s-congress-24924.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-04T08:45:00Z",
-      "description": "Louisianský republikán spoléhá po hlasování pro impeachment Trumpa na jeho mlčení."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Uvnitř plánů Philips Hue: jak proměnit všechna vaše světla v pohybové senzory",
-      "original_title": "Inside Philips Hue’s plans to make all your lights motion sensors - The Verge",
-      "url": "https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_6100.jpeg?quality=90&strip=all&crop=0%2C27.214320999332%2C100%2C69.808027923211&w=1200",
+      "title": "Roborock už nejen luxuje, ale i seče trávník",
+      "original_title": "Roborock graduates from vacuuming your house to mowing your lawn - The Verge",
+      "url": "https://www.theverge.com/news/770725/roborock-robot-lawnmowers-launch-rockmow-z1",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/RockMowZ1_6256037.jpg?quality=90&strip=all&crop=0%2C12.26434963923%2C100%2C75.471300721541&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-09-04T07:30:00Z",
-      "description": "Aktualizace firmwaru a nový Bridge Pro přináší vašemu systému Hue „kouzelnou“ novinku."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Je možné... dožít se 150 let\": Otevřený mikrofon zachytil upřímný rozhovor Si Ťin-pchinga a Putina; okamžik zachycen",
-      "original_title": "'It may be… possible to live to 150 years old’: Open mic captures Xi, Putin's candid chat; moment caught - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/china/it-may-be-possible-to-live-to-150-years-old-open-mic-captures-xi-putins-candid-chat-moment-caught-on-cam/articleshow/123691316.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-123691787,width-1070,height-580,imgsize-1008678,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "source": "The Times of India",
-      "publishedAt": "2025-09-04T07:20:00Z",
-      "description": "Zprávy z Číny: Během návštěvy Pekingu jednali prezidenti Si Ťin-pching a Vladimir Putin o biotechnologiích a možnostech prodloužení lidského života, dokonce spekulovali"
+      "publishedAt": "2025-09-04T10:00:00Z",
+      "description": "Roborock vstupuje na trh robotických sekaček. Firma představila tři nové modely, přičemž RockMow Z1 má pohon všech kol pro práci na strmých svazích."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Záhada obestírá Kimovu mladší dceru, která v Číně zjemňuje jeho image",
-      "original_title": "Shrouded in Mystery, Kim’s Young Daughter Softens His Image in China - The Wall Street Journal",
-      "url": "https://www.wsj.com/world/asia/north-korea-kim-jong-un-daughter-china-parade-3a5f2d4b",
+      "title": "USA jsou v reálném nebezpečí, že prohrají závod o Měsíc s Čínou, varovali experti senát",
+      "original_title": "US in real danger of losing the moon race to China, experts tell Senate - Space",
+      "url": "https://www.space.com/astronomy/moon/us-in-real-danger-of-losing-the-moon-race-to-china-experts-tell-senate",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tsFKBZEPBJpXZ6NfeRtzJM.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-04T10:00:00Z",
+      "description": "Pokud se něco nezmění, je velmi nepravděpodobné, že Spojené státy porazí Čínu v jejím plánovaném časovém harmonogramu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Představujeme Samsung Galaxy S25 FE: Vstupní brána do Galaxy AI a základních vlajkových funkcí",
+      "original_title": "Meet Samsung Galaxy S25 FE: The Gateway to the Galaxy AI and Flagship Essentials - Samsung Newsroom",
+      "url": "https://news.samsung.com/global/meet-samsung-galaxy-s25-fe-the-gateway-to-the-galaxy-ai-and-flagship-essentials",
+      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/09/Samsung-Mobile-Galaxy-S25-FE-Galaxy-AI-One-UI-8-Knox-Enhanced-Encrypted-Protecction_thumb728.jpg",
+      "source": "Samsung.com",
+      "publishedAt": "2025-09-04T09:34:17Z",
+      "description": "S nejnovějším Galaxy AI a špičkovým fotoaparátem přináší Galaxy S25 FE vlajkové funkce, které skutečně stojí za to"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "RFK Jr. má svědčit před senátním výborem pro finance uprostřed rozporů v CDC a změn ve vakcinaci",
+      "original_title": "RFK Jr. set to testify before Senate Finance Committee amid CDC turmoil, vaccine changes - ABC News",
+      "url": "https://abcnews.go.com/Politics/rfk-jr-set-testify-senate-finance-committee-amid/story?id\\\\u003d125222389",
       "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-04T06:50:00Z",
+      "source": "ABC News",
+      "publishedAt": "2025-09-04T09:22:30Z",
       "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump tvrdí, že americký úder proti venezuelskému gangu donutí drogovými kartely dvakrát přemýšlet",
-      "original_title": "Trump says US strike targeting Venezuelan gang will cause cartels to think twice - AP News",
-      "url": "https://apnews.com/article/trump-venezuela-military-strike-drug-cartels-maduro-eae4f38deb40cb8ce70521c22282e469",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1c7b67f/2147483647/strip/true/crop/5245x2950+0+273/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2Ffa%2F1f5137f8bbc712445fae8642c596%2F5c8aceaa9cc24a8e86c227a3b9bd357a",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-04T05:46:00Z",
-      "description": "Prezident Donald Trump ospravedlňuje smrtící vojenský úder, který jeho administrativa uvedla, že byl o den dříve proveden proti venezuelskému gangu, jako nezbytnou snahu Spojených států vyslat jasn..."
+      "title": "Deset federálních soudců v ojedinělých rozhovorech kritizuje přístup Nejvyššího soudu ke kauzám Donalda Trumpa",
+      "original_title": "10 federal judges criticize Supreme Court's handling of Trump cases in rare interviews - NBC News",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-cases-federal-judges-criticize-rcna221775",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250815SCOTUSvJudgesBernis-jg-ef3ad9.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-04T09:00:42Z",
+      "description": "Federální soudci jsou frustrováni z Nejvyššího soudu, který stále častěji bez řádného vysvětlení ruší rozhodnutí nižších soudů ve věcech týkajících se Trumpovy administrativy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Budoucnost Angel Reese v Sky je nejistá poté, co kritizovala spoluhráčky",
-      "original_title": "Angel Reese's Sky Future Uncertain After Torching Teammates - Front Office Sports",
-      "url": "http://frontofficesports.com/angel-reese-faces-uncertain-future-in-chicago-after-publicly-torching-teammates/",
-      "urlToImage": "https://frontofficesports.com/wp-content/uploads/2024/11/USATSI_23734567_168392832_lowres-1-e1730658471373.jpg?quality=100",
-      "source": "Frontofficesports.com",
-      "publishedAt": "2025-09-04T05:15:00Z",
-      "description": "Podle některých zdrojů je Reeseová budoucnost v Chicahu po jejím posledním vyjádření nenapravitelná."
+      "title": "Ministerstvo vnitřní bezpečnosti otevírá nové zařízení pro zadržování imigrantů ve věznici Angola v Louisianě",
+      "original_title": "DHS opens new immigration detention facility inside Louisiana's Angola prison - CBS News",
+      "url": "https://www.cbsnews.com/news/dhs-new-immigration-detention-facility-inside-louisiana-state-penitentiary-angola-prison/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/04/11cf1918-827a-442a-93af-4fc2bf7a66a6/thumbnail/1200x630/8f621dd24184d4401cde42e64b2fabfe/ap25247021987056.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-04T03:41:44Z",
+      "description": "Nové zařízení, které se nachází ve věznici Louisiana State Penitentiary známé pod přezdívkou Angola, je určeno pro více než 400 vězňů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nízkonákladová aerolinka končí s provozem na letišti v Alabamě po znovupodání žádosti o bankrot",
-      "original_title": "Budget airline ending service to Alabama airport after again filing for bankruptcy - AL.com",
-      "url": "https://www.al.com/news/2025/09/budget-airline-ending-service-to-alabama-airport-after-again-filing-for-bankruptcy.html",
-      "urlToImage": "https://www.al.com/resizer/v2/RZYN2D7BMVE23M4E4WOFFKYDBM.jpg?auth=1fd66d87056f19d9bb219fc5249def5d794a0d6ed3b7a702796cefb64a3567f5&width=1280&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-09-04T02:51:00Z",
-      "description": "Konkurzové řízení bylo podáno v srpnu, několik měsíců poté, co aerolinka vyšla z reorganizace podle kapitoly 11."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "S rozpadajícím se národním konsenzem o vakcínách si Massachusetts a další státy razí odlišné cesty",
+      "title": "Jak se národní shoda na vakcínách rozpadá, Massachusetts a další státy volí odlišné cesty",
       "original_title": "As national consensus on vaccines unravels, Mass. and other states chart disparate paths - The Boston Globe",
       "url": "https://www.bostonglobe.com/2025/09/03/metro/healey-covid-booster-massachusetts-trump-kennedy-vaccine-2/",
       "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/U6VXINTCDUKH7YFK5M4DLOPDGQ.jpg?auth=de0f36fb2f95d82c5c5ea7359d7e8641459053e2c1c8ebe2e9b5bc5a0cfc97d2&width=1440",
       "source": "The Boston Globe",
       "publishedAt": "2025-09-04T01:07:30Z",
-      "description": "Guvernérka Maura Healeyová v podstatě předepsala posilovací dávky proti covidu každému obyvateli státu nad 5 let, zatímco Florida zrušila všechny vakcinační povinnosti."
+      "description": "Guvernérka Maura Healeyová v podstatě předepsala posilující dávky proti covidu pro každého obyvatele státu staršího 5 let, zatímco Florida zrušila všechna nařízení k očkování."
     },
     {
       "flag": "🇺🇸",
@@ -186,89 +208,45 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MA6I22MZGXZ5F25F6QTEZNIK4_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-04T01:00:00Z",
-      "description": "Výzkum naznačuje, že používání chytrých telefonů na toaletě může zvýšit riziko hemoroidů kvůli dlouhému sezení."
+      "description": "Podle výzkumu může používání chytrého telefonu na toaletě zvýšit riziko hemoroidů kvůli dlouhému sezení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak sledovat online spin-off seriálu The Office s názvem The Paper",
-      "original_title": "How to Watch ‘The Office’ Spinoff Series ‘The Paper’ Online - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/watch-stream-the-paper-office-spinoff-tv-series-online-1236360609/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/the-paper-domhnall-gleeson_sabrina-impacciatore_PUBLICITY-MAIN-2025.jpg?w=1000&h=563&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-03T23:37:52Z",
-      "description": "Nový mockumentární pořad již získal druhou řadu."
+      "title": "Obyvatelé nejnásilnějšího bloku v Chicagu nechtějí, aby Trump poslal Národní gardu.",
+      "original_title": "Residents of Chicago’s most violent block don’t want Trump to send the National Guard - WBEZ Chicago",
+      "url": "https://www.wbez.org/public-safety/2025/09/03/chicago-crime-violence-o-block-oblock-parkway-gardens-donald-trump-national-guard",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/501ddf3/2147483647/strip/true/crop/7145x4079+0+344/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2F29%2F4e37868d46ad81d1e78c5215a61f%2Foblock-083125-024.jpg",
+      "source": "WBEZ",
+      "publishedAt": "2025-09-03T21:31:00Z",
+      "description": "O Block, který proslavili rapperi jako Chief Keef, zažil od roku 2010 více střeleb než jakákoli jiná čtvrť. S poklesem kriminality se v ní ale obyvatelé cítí bezpečněji a vojenskou intervenci považ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump označuje Epsteinovy dokumenty za ‚irelevantní‘, zatímco petice Massieho získává na síle",
-      "original_title": "Trump calls Epstein files 'irrelevant' as Massie petition picks up steam - ABC News",
-      "url": "https://abcnews.go.com/Politics/trump-calls-epstein-files-irrelevant-push-release-gains/story?id\\\\u003d125225706",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-03T23:35:24Z",
-      "description": ""
+      "title": "Údajný nástroj Applu pro AI vyhledávání v Siri by mohl spoléhat na Google",
+      "original_title": "Apple’s rumored AI search tool for Siri could rely on Google - The Verge",
+      "url": "https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-03T20:47:46Z",
+      "description": "Apple plánuje do Siri zabudovat nové vyhledávání na webu poháněné umělou inteligencí, uvádí Bloomberg"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Soudce: Zmrazení 2,2 miliardy dolarů od Trumpa pro Harvard bylo nezákonné",
-      "original_title": "Judge Says Trump’s $2.2 Billion Harvard Funding Freeze Was Illegal - Forbes",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/09/03/trump-administrations-22-billion-harvard-funding-freeze-ruled-unconstitutional/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b8b984128d36bb7855ea02/0x0.jpg?format=jpg&crop=1101,734,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-09-03T21:57:12Z",
-      "description": "Harvard je jediná prestižní univerzita, která se soudila kvůli obviněním z antisemitismu vzneseným Trumpovou administrativou po propalestinských protestech v roce 2024."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Aktualizace Siri od Applu by údajně mohla být poháněna Google Gemini",
-      "original_title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?resize=1200,800",
+      "title": "SpaceX získává zelenou pro více než dvojnásobný počet startů na Floridě",
+      "original_title": "SpaceX gets a green light to more than double its Florida launches - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/03/spacex-gets-the-green-light-to-more-than-double-its-florida-launches/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2174640153.jpg?resize=1200,738",
       "source": "TechCrunch",
-      "publishedAt": "2025-09-03T20:50:38Z",
-      "description": "Umělá inteligence Siri je ve vývoji a možná bude využívat technologii Gemini."
+      "publishedAt": "2025-09-03T18:36:59Z",
+      "description": "SpaceX je o krok blíže téměř ztrojnásobení počtu startů Falconu 9 z Floridy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Google News: Akcie Alphabetu atakují rekordní maximum, obavy z antitrustu opadají - Barron's",
-      "original_title": "Google News: Alphabet Stock Hits All-Time High as Antitrust Fears Fade - Barron's",
-      "url": "https://www.barrons.com/articles/google-alphabet-stock-price-ruling-alphabet-stock-apple-e82117fa",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-09-03T20:30:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Sonda NASA InSight odhalila překvapení v samotném jádru Marsu",
-      "original_title": "NASA's Insight Lander Reveals a Surprise at The Very Core of Mars - ScienceAlert",
-      "url": "https://www.sciencealert.com/nasas-insight-lander-reveals-a-surprise-at-the-very-core-of-mars",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/mars-core.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-03T15:01:50Z",
-      "description": "Vědci nahlédli do samotného srdce planety Mars a objevili nečekanou strukturu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "SpaceX vypustila z Floridy na orbitu 28 satelitů Starlink krátce po startu z Kalifornie (video)",
-      "original_title": "SpaceX launches 28 Starlink satellites into orbit from Florida on heels of California liftoff (video) - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-22-b1083-ccsfs-asog",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KeqnhMgduXXTPfptfbL5FC.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-03T14:16:33Z",
-      "description": "Start po zlaté hodině vystoupal jasně modrým ranním nebem 8 hodin po kalifornském vypuštění Starlinku."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vědci naučili ‚robotického psa‘ poháněného umělou inteligencí hrát badminton proti lidem. A je opravdu dobrý.",
+      "title": "Vědci naučili robotického psa s umělou inteligencí hrát badminton proti lidem — a je v tom opravdu dobrý",
       "original_title": "Scientists taught an AI-powered 'robot dog' how to play badminton against humans — and it's actually really good - Live Science",
       "url": "https://www.livescience.com/technology/robotics/scientists-taught-an-ai-powered-robot-dog-how-to-play-badminton-against-humans-and-its-actually-really-good",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/kWHdnrU6aQqcMoKcJfJtpC.jpg",
@@ -285,7 +263,7 @@
       "urlToImage": "https://neurosciencenews.com/files/2025/09/alzheimers-test-brain-waves-neuroscience.jpg",
       "source": "Neurosciencenews.com",
       "publishedAt": "2025-09-02T20:49:31Z",
-      "description": "Tým výzkumníků vyvinul jednoduchý tříminutový test mozkových vln zvaný Fastball EEG, který dokáže odhalit časné příznaky poruchy paměti spojené s Alzheimerovou chorobou."
+      "description": "Vědci vyvinuli jednoduchý tříminutový test mozkových vln Fastball EEG, který dokáže odhalit časné příznaky poruchy paměti spojené s Alzheimerovou chorobou."
     },
     {
       "flag": "🌍",
@@ -301,7 +279,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Míra rakoviny prostaty v USA v posledním desetiletí každoročně rostla, uvádí nová zpráva",
+      "title": "Počet případů rakoviny prostaty v USA v posledním desetiletí každoročně rostl, uvádí nová zpráva",
       "original_title": "US prostate cancer rates rose annually over the past decade, new report finds - ABC News",
       "url": "https://abcnews.go.com/Health/us-prostate-cancer-rates-rose-annually-past-decade/story?id\\\\u003d125176270",
       "urlToImage": null,
