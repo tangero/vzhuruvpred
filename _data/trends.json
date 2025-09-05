@@ -1,10 +1,20 @@
 {
-  "updated": "2025-09-05T14:55:32.566540",
+  "updated": "2025-09-05T15:16:09.050312",
   "trends": [
     {
       "rank": 1,
+      "query": "duchess of kent",
+      "news_title": "Britská vévodkyně z Kentu zemřela ve věku 92 let. Proslula lidským přístupem.",
+      "news_url": "https://www.cnn.com/2025/09/05/uk/duchess-of-kent-dies-aged-92-intl-scli-gbr",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOHDhm0OiKkadc7FOYZVumnmS-83F_5Dvh482CiHSL13hLmzDt5p1MtCdJhE",
+      "traffic": "500++ hledání",
+      "source": "CNN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=duchess of kent&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "classroom",
-      "news_title": "Učitel střední školy v NEISD zemřel po kolapsu ve škole",
+      "news_title": "Učitel střední školy v NEISD zemřel po kolapsu na pracovišti",
       "news_url": "https://www.ksat.com/news/local/2025/09/05/north-east-isd-high-school-teacher-dies-on-campus-after-medical-emergency/",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9Do7WGpUPFZhRNWQvZiCcU-thjRHLfzd65mJMiJd1b6NfC4iyqY3a1D8DHAU",
       "traffic": "500++ hledání",
@@ -12,17 +22,17 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=classroom&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "bouřky",
-      "news_title": "Do Česka dorazí bouřky",
-      "news_url": "https://www.novinky.cz/clanek/pocasi-do-ceska-dorazi-bourky-40537126",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0zTKdHhCx_SLCYAGiWEEnplJpcamT8hKonBb41qkn3a9dQGkOP73fe4xIaAo",
+      "rank": 3,
+      "query": "havirovske slavnosti",
+      "news_title": "Kam o víkendu na Karvinsku? Havířovské slavnosti, divadlo i hokej",
+      "news_url": "https://karvinsky.denik.cz/volny-cas/tipy-vikend-karvina-havirov-slavnosti-dul-barbora-scena-bez-hranic-detmarovice.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98o8Bhn09JCGbbAeowfG2dGH72S2yWmoZgauQjmFrcddYlnpj6KpHqgdaVFc",
       "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=bouřky&geo=CZ"
+      "source": "Karvinský a havířovský deník",
+      "explore_url": "https://trends.google.cz/trends/explore?q=havirovske slavnosti&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "query": "vévodkyně z kentu",
       "news_title": "Zemřela vévodkyně z Kentu",
       "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-zemrela-vevodkyne-z-kentu-40537403",
@@ -32,19 +42,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=vévodkyně z kentu&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "duchess of kent",
-      "news_title": "Britská vévodkyně z Kentu zemřela ve věku 92 let",
-      "news_url": "https://www.cnn.com/2025/09/05/uk/duchess-of-kent-dies-aged-92-intl-scli-gbr",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOHDhm0OiKkadc7FOYZVumnmS-83F_5Dvh482CiHSL13hLmzDt5p1MtCdJhE",
-      "traffic": "200++ hledání",
-      "source": "CNN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=duchess of kent&geo=CZ"
-    },
-    {
       "rank": 5,
       "query": "keita",
-      "news_title": "Oktagon po odchodu Kincla netruchlí. Může získat tituly i miliony, říká vedení",
+      "news_title": "Oktagon po odchodu Vémoly netruchlí, láká nové hvězdy na tituly a miliony",
       "news_url": "https://www.sport.cz/clanek/bojove-sporty-mma-oktagon-po-ztrate-nejvetsi-hvezdy-netruchli-muze-ziskat-tituly-i-miliony-rika-vedeni-5285233",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQralaj6-OdCQTYaZgBS_btet-m4tGXEG2hEyKxIsJ5BemignOd_rhDi_05Igo",
       "traffic": "200++ hledání",
@@ -63,23 +63,23 @@
     },
     {
       "rank": 7,
+      "query": "bouřky",
+      "news_title": "Do Česka dorazí bouřky, přinesou přívalové deště a kroupy",
+      "news_url": "https://www.novinky.cz/clanek/pocasi-do-ceska-dorazi-bourky-40537126",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0zTKdHhCx_SLCYAGiWEEnplJpcamT8hKonBb41qkn3a9dQGkOP73fe4xIaAo",
+      "traffic": "100++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=bouřky&geo=CZ"
+    },
+    {
+      "rank": 8,
       "query": "tmbk",
-      "news_title": "Fico se vrátil z Číny a čekalo ho doma překvapení",
+      "news_title": "Fico se vrátil z Číny a čekalo ho překvapení",
       "news_url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-fico-se-vratil-od-kamaradu-z-ciny-a-doma-ho-cekalo-prekvapeni-285318",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHInnex4TeKXtdAAZT1VP489jvLgrR9BPOf3IA8yoVD_hXX-yXt-pvcoXwMFg",
       "traffic": "100++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=tmbk&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "havirovske slavnosti",
-      "news_title": "Kam o víkendu na Karvinsku? Havířovské slavnosti, divadlo i hokej",
-      "news_url": "https://karvinsky.denik.cz/volny-cas/tipy-vikend-karvina-havirov-slavnosti-dul-barbora-scena-bez-hranic-detmarovice.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98o8Bhn09JCGbbAeowfG2dGH72S2yWmoZgauQjmFrcddYlnpj6KpHqgdaVFc",
-      "traffic": "100++ hledání",
-      "source": "Karvinský a havířovský deník",
-      "explore_url": "https://trends.google.cz/trends/explore?q=havirovske slavnosti&geo=CZ"
     }
   ]
 }
