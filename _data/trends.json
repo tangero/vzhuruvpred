@@ -1,28 +1,18 @@
 {
-  "updated": "2025-09-05T15:16:09.050312",
+  "updated": "2025-09-05T15:26:07.207349",
   "trends": [
     {
       "rank": 1,
       "query": "duchess of kent",
-      "news_title": "Britská vévodkyně z Kentu zemřela ve věku 92 let. Proslula lidským přístupem.",
-      "news_url": "https://www.cnn.com/2025/09/05/uk/duchess-of-kent-dies-aged-92-intl-scli-gbr",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOHDhm0OiKkadc7FOYZVumnmS-83F_5Dvh482CiHSL13hLmzDt5p1MtCdJhE",
+      "news_title": "Vévodkyně z Kentu: Královská, která se stala učitelkou",
+      "news_url": "https://www.bbc.com/news/articles/c3gjyl7xvymo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2BzpKKwZ6HFDJ19RWtZ5wh54opH688jmvjPELH-9Vv3m-sbnUSGbqP0x9oHU",
       "traffic": "500++ hledání",
-      "source": "CNN",
+      "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=duchess of kent&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "classroom",
-      "news_title": "Učitel střední školy v NEISD zemřel po kolapsu na pracovišti",
-      "news_url": "https://www.ksat.com/news/local/2025/09/05/north-east-isd-high-school-teacher-dies-on-campus-after-medical-emergency/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9Do7WGpUPFZhRNWQvZiCcU-thjRHLfzd65mJMiJd1b6NfC4iyqY3a1D8DHAU",
-      "traffic": "500++ hledání",
-      "source": "KSAT",
-      "explore_url": "https://trends.google.cz/trends/explore?q=classroom&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "havirovske slavnosti",
       "news_title": "Kam o víkendu na Karvinsku? Havířovské slavnosti, divadlo i hokej",
       "news_url": "https://karvinsky.denik.cz/volny-cas/tipy-vikend-karvina-havirov-slavnosti-dul-barbora-scena-bez-hranic-detmarovice.html",
@@ -32,9 +22,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=havirovske slavnosti&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "query": "vévodkyně z kentu",
-      "news_title": "Zemřela vévodkyně z Kentu",
+      "news_title": "Zemřela vévodkyně z Kentu, princezna Alexandra.",
       "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-zemrela-vevodkyne-z-kentu-40537403",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNtgKcYvTAoERcmmBJwoF11bXWsui5WA1pCeI63hAQp1MSjnkw62EEcrXQbmQ",
       "traffic": "200++ hledání",
@@ -42,9 +32,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=vévodkyně z kentu&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "query": "keita",
-      "news_title": "Oktagon po odchodu Vémoly netruchlí, láká nové hvězdy na tituly a miliony",
+      "news_title": "Oktagon po odchodu hvězdy netruchlí. Může získat tituly i miliony, říká vedení",
       "news_url": "https://www.sport.cz/clanek/bojove-sporty-mma-oktagon-po-ztrate-nejvetsi-hvezdy-netruchli-muze-ziskat-tituly-i-miliony-rika-vedeni-5285233",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQralaj6-OdCQTYaZgBS_btet-m4tGXEG2hEyKxIsJ5BemignOd_rhDi_05Igo",
       "traffic": "200++ hledání",
@@ -52,9 +42,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=keita&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "query": "petr kellner junior",
-      "news_title": "Neviditelný Kellner junior: Kdo je nový český miliardář a kam míří",
+      "news_title": "Neviditelný Kellner junior. Kdo je nový český miliardář a jeho plány",
       "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-nejbohatsi-lide-neviditelny-kellner-junior-kdo-je-novy-cesky-miliardar-a-kam-muze-mirit-285339",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDt0RqieLgBOFLFOWPms0oJXsSiBIAfFZbIHL4LgKUCRHUpUbyQ_s0YswRN6k",
       "traffic": "200++ hledání",
@@ -62,9 +52,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=petr kellner junior&geo=CZ"
     },
     {
+      "rank": 6,
+      "query": "аглая тарасова",
+      "news_title": "Here are a few options, all under 160 characters:\n\n**Option 1 (Most direct):**\nRuskou herečku Tarasovu zadrželi na letišti kvůli drogám, píše ruský tisk.\n\n**...",
+      "news_url": "https://meduza.io/news/2025/09/05/tass-baza-i-mash-aktrisu-aglayu-tarasovu-zaderzhali-v-aeroportu-domodedovo-po-delu-o-narkotikah",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQt3wT5Z-bAn92wgnUJc4aeHr4qR29d8jX0nN1q4ElsaBGvW4HjxjIUEVbnR8U",
+      "traffic": "100++ hledání",
+      "source": "Meduza",
+      "explore_url": "https://trends.google.cz/trends/explore?q=аглая тарасова&geo=CZ"
+    },
+    {
       "rank": 7,
       "query": "bouřky",
-      "news_title": "Do Česka dorazí bouřky, přinesou přívalové deště a kroupy",
+      "news_title": "Do Česka dorazí bouřky",
       "news_url": "https://www.novinky.cz/clanek/pocasi-do-ceska-dorazi-bourky-40537126",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0zTKdHhCx_SLCYAGiWEEnplJpcamT8hKonBb41qkn3a9dQGkOP73fe4xIaAo",
       "traffic": "100++ hledání",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "query": "tmbk",
-      "news_title": "Fico se vrátil z Číny a čekalo ho překvapení",
+      "news_title": "Fico se vrátil z Číny a čekalo ho doma překvapení",
       "news_url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-fico-se-vratil-od-kamaradu-z-ciny-a-doma-ho-cekalo-prekvapeni-285318",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHInnex4TeKXtdAAZT1VP489jvLgrR9BPOf3IA8yoVD_hXX-yXt-pvcoXwMFg",
       "traffic": "100++ hledání",
