@@ -1,28 +1,38 @@
 {
-  "updated": "2025-09-04T21:22:46.835772",
+  "updated": "2025-09-05T01:56:05.804615",
   "trends": [
     {
       "rank": 1,
       "query": "slovensko – německo",
-      "news_title": "Slováci porazili Němce poprvé v historii, gól dal i Hancko",
-      "news_url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-kvalifikace-ms-fotbal-2026/465898/slovaci-zaskocili-nemce-favorita-porazili-poprve-v-historii-trefil-se-i-hancko.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpz7B5aGPLDeMS_Enj0JoOUYS3w1cPwYjl8hPTYY9rf193yOIppH5OwtG4wqk",
+      "news_title": "Slováci šokovali Německo a slaví historický úspěch na MS",
+      "news_url": "https://www.sport.cz/clanek/fotbal-ms-wales-triumfoval-v-kazachstanu-a-posunul-se-do-cela-skupiny-5285841",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM2n1jIxKGtP4RGcylMH4rLk948PV_6_k11LPZE4aQxAhHqZiNaQmqB9oshmE",
       "traffic": "1000++ hledání",
-      "source": "iSport.cz",
+      "source": "Sport.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=slovensko – německo&geo=CZ"
     },
     {
       "rank": 2,
       "query": "wednesday 2",
-      "news_title": "Mládek pro seriál Wednesday oživil Jožina z bažin pro vnučky",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/ivan-mladek-jozin-z-bazin-serial-wednesday-netflix.A250903_151130_lidicky_zar",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJmZb3kqlZzvf77vSqQcJYNci2IfdD8GVbUlzpsphvzADug24EHxiK6TSg69U",
+      "news_title": "Finále Wednesday 2 je venku. Netflix přidal další 4 díly.",
+      "news_url": "https://www.idnes.cz/kultura/film-televize/wednesday-serial-druha-rada-netflix.A250903_125837_filmvideo_skr",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNHf4vY2IqDxd82HMY1MqgxNMZ9rnF_01DKyDslYDnaszT2BBjLafsxuaYZs0",
       "traffic": "1000++ hledání",
       "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=wednesday 2&geo=CZ"
     },
     {
       "rank": 3,
+      "query": "cirque du soleil praha",
+      "news_title": "Gondíková soucítí s cirkusovými artisty, Janda zavírá oči",
+      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/cirque-du-soleil-praha-premiera-gondikova-andrlova-janda.A250904_214433_lidicky_zar",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUU_LTkmDr48fThvRHradG-X45FPyWZgEwRIsE5VLr9DeccS3Xb-o_2aynjik",
+      "traffic": "500++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=cirque du soleil praha&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "cirque du soleil",
       "news_title": "Calgarian du Soleil",
       "news_url": "https://thescenecalgary.com/theatre/calgarian-du-soleil/",
@@ -32,37 +42,37 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=cirque du soleil&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "query": "fortuna",
+      "news_title": "Elite Series XL na Fortuna Pokeru rozdá přes 10 milionů eur",
+      "news_url": "https://www.pokerarena.cz/rubriky/online-poker/fortuna/elite-series-xl-na-fortuna-pokeru-rozda-pres-10-milionu-eur_21937.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZB1k7Ylj8gYbvVYsP1xdS8iQr9za9p4TZe6D0KbPIxIChBsop3nBaNY62wi8",
+      "traffic": "200++ hledání",
+      "source": "PokerArena.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=fortuna&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "slovensko nemecko",
+      "news_title": "VIDEO: Hancko gólom poslal Slovensko do vedenia",
+      "news_url": "https://sportky.zoznam.sk/c/426375/video-slovensko-korunovalo-famozny-polcas-golom-david-hancko-poslal-sokolov-do-vedenia",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQA7RJ2hxVes9D36G5dZ5Y-EJX-8BWJsS5Rq9bSlSqhIrrwHaI5Smge829u9c",
+      "traffic": "200++ hledání",
+      "source": "Športky.sk",
+      "explore_url": "https://trends.google.cz/trends/explore?q=slovensko nemecko&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "saša rašilov",
-      "news_title": "Dovolená v Českém ráji ve filmu. Je to pocta přírodě, říká režisér",
+      "news_title": "Filmová dovolená v Českém ráji. Je to pocta přírodě, říká režisér",
       "news_url": "https://liberec.rozhlas.cz/dovolena-v-ceskem-raji-ve-filmu-je-pocta-prirode-rika-o-snimku-reziser-9547297",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAnkdCAopgzX5z2En9x9Ot-f208Ztmx74GNSGRKSb8KPoc7Ki62futaMf_gDM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvNNS2OtYSlpKR2Sqfj0NSEZaZ4ObznRxdZHbrRhXuBXvFIn5ok3pDQsWYRvg",
       "traffic": "200++ hledání",
       "source": "Český rozhlas Liberec",
       "explore_url": "https://trends.google.cz/trends/explore?q=saša rašilov&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "cirque du soleil praha",
-      "news_title": "Gondíková soucítí s Cirque du Soleil, Janda zavírá oči",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/cirque-du-soleil-praha-premiera-gondikova-andrlova-janda.A250904_214433_lidicky_zar",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUU_LTkmDr48fThvRHradG-X45FPyWZgEwRIsE5VLr9DeccS3Xb-o_2aynjik",
-      "traffic": "200++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=cirque du soleil praha&geo=CZ"
-    },
-    {
-      "rank": 6,
-      "query": "slovensko nemecko",
-      "news_title": "Slovensko umlčelo Německo fantastickým výkonem",
-      "news_url": "https://sport.aktuality.sk/futbal/clanok/kvalifikacia-ms-2026-dnes-slovensko-nemecko-20-2025090420220426080",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK1yuFIgjcBkfN5QqZzYIopRYqQHrDcRhJpNlXQ1_H1pd7vrbbDByZyjwc-UQ",
-      "traffic": "100++ hledání",
-      "source": "Šport.sk",
-      "explore_url": "https://trends.google.cz/trends/explore?q=slovensko nemecko&geo=CZ"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "query": "sarka krausova",
       "news_title": "Šárka Krausová prozradila hlavní důvod odchodu z Ulice",
       "news_url": "https://www.stream.cz/extra-v-terenu/sarka-krausova-o-konci-v-serialu-ulice-prozradila-hlavni-duvod-odchodu-65340859",
@@ -70,16 +80,6 @@
       "traffic": "100++ hledání",
       "source": "Stream.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=sarka krausova&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "prostřeno",
-      "news_title": "Jiří Koběrský kritizuje nedodržování stolního bontonu",
-      "news_url": "https://fresh.iprima.cz/magazin/jiri-kobersky-nema-rad-kdyz-se-s-stolu-nedodrzuje-bonton-484102",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOiKDvWs7ZQJaUYdbb8CmWi0NqcjEfLGQ4jJrDEt-RbcIMfiB-V4wHOnkdfRA",
-      "traffic": "100++ hledání",
-      "source": "Prima Fresh",
-      "explore_url": "https://trends.google.cz/trends/explore?q=prostřeno&geo=CZ"
     }
   ]
 }
