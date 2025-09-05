@@ -350,5 +350,33 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+    // News ticker fade effect
+    const tickerFade = document.getElementById('ticker-fade');
+    
+    if (tickerFade) {
+        const tickerItems = tickerFade.querySelectorAll('.ticker-item-fade');
+        let currentIndex = 0;
+        
+        if (tickerItems.length > 0) {
+            // Show first item initially
+            tickerItems[0].classList.add('active');
+            
+            // Set interval for switching items
+            setInterval(() => {
+                // Hide current item
+                tickerItems[currentIndex].classList.remove('active');
+                
+                // Move to next item
+                currentIndex = (currentIndex + 1) % tickerItems.length;
+                
+                // Show next item after a brief delay for smooth transition
+                setTimeout(() => {
+                    tickerItems[currentIndex].classList.add('active');
+                }, 100);
+                
+            }, 4000); // Change every 4 seconds
+        }
+    }
+
     console.log('Vzhůru a vpřed portál successfully initialized!');
 });
