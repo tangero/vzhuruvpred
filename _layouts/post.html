@@ -119,24 +119,8 @@ layout: default
     </div>
 </article>
 
-<!-- Hyvor Talk Comments - dočasně deaktivováno, pro aktivaci odkomentujte
-<section class="comments-section">
-    <div class="container">
-        <h3>💬 Diskuse</h3>
-        <div id="hyvor-talk-view"></div>
-        <script type="text/javascript">
-            var HYVOR_TALK_WEBSITE = 14054;
-            var HYVOR_TALK_CONFIG = {
-                url: '{{ page.url | absolute_url }}',
-                id: '{{ page.url | slugify }}',
-                title: '{{ page.title | escape }}',
-                language: 'cs'
-            };
-        </script>
-        <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
-    </div>
-</section>
--->
+<!-- Giscus Comments Section -->
+{% include comments.html %}
 
 <section class="related-posts">
     <h3>Související články</h3>

@@ -1,0 +1,168 @@
+<!-- Giscus Comments Component -->
+<section class="comments-section">
+    <div class="container">
+        <div class="comments-header">
+            <h3 class="comments-title">
+                💬 Diskuse
+            </h3>
+            <p class="comments-subtitle">
+                Přihlašte se pomocí GitHub účtu a zapojte se do diskuze
+            </p>
+        </div>
+
+        <div class="comments-container">
+            <script 
+                src="https://giscus.app/client.js"
+                data-repo="tangero/vzhuruvpred"
+                data-repo-id="R_kgDOPnWu0Q"
+                data-category="Announcements"
+                data-category-id="DIC_kwDOPnWu0c4CvAe4"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="top"
+                data-theme="preferred_color_scheme"
+                data-lang="cs"
+                data-loading="lazy"
+                crossorigin="anonymous"
+                async>
+            </script>
+        </div>
+
+        <div class="comments-info">
+            <p class="comments-notice">
+                ℹ️ Komentáře jsou poháněny technologií 
+                <a href="https://giscus.app" target="_blank" rel="noopener">Giscus</a>
+                a ukládají se jako GitHub Discussions.
+            </p>
+        </div>
+    </div>
+</section>
+
+<style>
+.comments-section {
+    margin-top: 3rem;
+    padding: 2rem 0;
+    background: var(--background-color, #ffffff);
+    border-top: 3px solid var(--pirate-yellow, #fec900);
+}
+
+.comments-header {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.comments-title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2rem;
+    color: var(--text-color, #1a1a1a);
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.comments-subtitle {
+    color: var(--text-color-secondary, #666);
+    font-size: 0.95rem;
+    margin: 0;
+    font-style: italic;
+}
+
+.comments-container {
+    background: var(--card-background, #ffffff);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+    border: 1px solid var(--border-color, #e0e0e0);
+}
+
+.comments-info {
+    text-align: center;
+}
+
+.comments-notice {
+    font-size: 0.85rem;
+    color: var(--text-color-secondary, #666);
+    margin: 0;
+    padding: 1rem;
+    background: var(--background-secondary, #f8f9fa);
+    border-radius: 8px;
+    border-left: 4px solid var(--pirate-yellow, #fec900);
+}
+
+.comments-notice a {
+    color: var(--link-color, #007bff);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.comments-notice a:hover {
+    text-decoration: underline;
+}
+
+/* Dark theme support */
+[data-theme="dark"] .comments-section {
+    background: var(--dark-background, #1a1a1a);
+    border-top-color: var(--pirate-yellow, #fec900);
+}
+
+[data-theme="dark"] .comments-title {
+    color: var(--dark-text, #ffffff);
+}
+
+[data-theme="dark"] .comments-subtitle {
+    color: var(--dark-text-secondary, #cccccc);
+}
+
+[data-theme="dark"] .comments-container {
+    background: var(--dark-card-background, #2a2a2a);
+    border-color: var(--dark-border, #404040);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="dark"] .comments-notice {
+    background: var(--dark-background-secondary, #333333);
+    color: var(--dark-text-secondary, #cccccc);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .comments-section {
+        margin-top: 2rem;
+        padding: 1.5rem 0;
+    }
+    
+    .comments-title {
+        font-size: 1.5rem;
+    }
+    
+    .comments-container {
+        padding: 1rem;
+        border-radius: 8px;
+    }
+    
+    .comments-notice {
+        padding: 0.75rem;
+        font-size: 0.8rem;
+    }
+}
+
+/* Integration with modern site design */
+.comments-section .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* Match the site's modern button style */
+.giscus-frame {
+    border-radius: 12px !important;
+}
+
+/* Ensure proper spacing with related articles */
+.comments-section + .related-posts {
+    margin-top: 2rem;
+}
+</style>
