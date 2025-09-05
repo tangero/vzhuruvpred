@@ -2383,6 +2383,32 @@ video::-webkit-media-controls-panel {
     font-size: 16px;
 }
 
+/* Comments section styling */
+.comments-section {
+    margin: 60px 0;
+    padding: 40px 0;
+    border-top: 1px solid var(--border-color);
+    background: var(--bg-secondary);
+}
+
+.comments-section h3 {
+    color: var(--text-primary);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.comments-section .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+#hyvor-talk-view {
+    margin-top: 20px;
+}
+
 /* Related Posts */
 .related-posts {
     margin-bottom: 48px;
