@@ -1,38 +1,93 @@
 {
-  "last_updated": "2025-09-05T23:15:54",
+  "last_updated": "2025-09-06T01:18:02",
   "articles": [
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Voliči v Missouri jsou proti změně hranic volebních obvodů, zjistil průzkum demokratů",
-      "original_title": "Missouri voters against redistricting effort, Democratic poll finds - Politico",
-      "url": "https://www.politico.com/live-updates/2025/09/04/congress/poll-missouri-voters-on-redistricting-00545376",
-      "urlToImage": "https://www.politico.com/dims4/default/b0577af/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F12%2F90%2F6f9cc2e84a49a776795da827af94%2Felection-2026-redistricting-24274.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-04T21:30:00Z",
-      "description": "Pokud navrhovaná mapa Missouri projde, stát získá jeden nový republikánsky nakloněný volební obvod."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpův kandidát do Fedu plánuje podržet si místo v Bílém domě i po nástupu do Fedu",
+      "original_title": "Trump’s pick for Federal Reserve plans to keep his White House job while on Fed - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/04/stephen-miran-white-house-federal-reserve/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DDEXI3QOECY63J7B2W7MEK7QLA_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-04T23:36:47Z",
+      "description": "Stephen Miran, vysoce postavený ekonomický poradce Bílého domu, si bere neplacené volno, zatímco bude působit ve Fedu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump žádá Nejvyšší soud, aby mohl propustit komisařku FTC Rebeccu Slaughterovou",
+      "title": "USA ruší pravidla o náhradách za zpožděné lety",
+      "original_title": "US Moves to Eliminate Rules Requiring Flight Delay Compensation - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-04/us-moves-to-eliminate-rules-requiring-flight-delay-compensation",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iETmgirBrQ68/v2/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-04T23:34:15Z",
+      "description": "Administrace prezidenta Donalda Trumpa ruší pravidla, která vyžadují, aby aerolinky kompenzovaly cestujícím a poskytly bezplatné přebookování za zpoždění a zrušení letů způsobené problémy nesouvise..."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Trump přejmenuje Pentagon na ministerstvo války",
+      "original_title": "Trump to rebrand Pentagon as Department of War - BBC",
+      "url": "https://www.bbc.com/news/articles/cgr9r4qr0ppo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8495/live/2902a9e0-89e2-11f0-9169-2d5f04c84218.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-04T22:58:13Z",
+      "description": "Americký prezident chce, aby se ministerstvo obrany soustředilo na „boj“ a „bojového ducha“"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "4 poznatky po bouřlivém slyšení RFK Jr. v Senátu ohledně chaosu v CDC a vakcín",
+      "original_title": "4 takeaways after RFK Jr.'s fiery Senate hearing over CDC turmoil, vaccines - ABC News",
+      "url": "https://abcnews.go.com/Politics/4-takeaways-after-rfk-jrs-fiery-senate-hearing/story?id\\\\u003d125266167",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-04T22:07:30Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Warner Bros. se připojuje k žalobě studií proti Midjourney za porušování autorských práv pomocí AI",
+      "original_title": "Warner Bros. Joins Studios’ AI Copyright Battle Against Midjourney - Variety",
+      "url": "https://variety.com/2025/film/news/warner-bros-midjourney-lawsuit-ai-copyright-1236508618/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Screen-Shot-2025-09-04-at-1.13.03-PM.png?w=647&h=317&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-04T20:57:00Z",
+      "description": "Warner Bros. je třetím studiem, které žaluje Midjourney za drzé porušování autorských práv na své postavy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump žádá Nejvyšší soud, aby mohl odvolat komisařku FTC Rebeccu Slaughterovou",
       "original_title": "Trump asks Supreme Court to let him fire FTC Commissioner Rebecca Slaughter - CNBC",
       "url": "https://www.cnbc.com/2025/09/04/trump-supreme-court-federal-trade-commission-slaughter.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106871004-1618936255419-2018-11-27T220814Z_457214368_RC1B00B05A40_RTRMADP_3_USA-FTC.jpg?v=1757018292&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-09-04T20:27:33Z",
-      "description": "Prezident Donald Trump v březnu odvolal dva demokratické komisaře z Federální obchodní komise."
+      "description": "Prezident Donald Trump v březnu odvolal dva demokratické komisaře z Federálního obchodního úřadu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump říká, že americká armáda zničila u Venezuely loď operovanou gangem Tren de Aragua. Co o něm víme.",
+      "title": "Akcie Lululemon prudce klesly kvůli výdělkové vyhlídce výrazně zaostávající za odhady",
+      "original_title": "Lululemon shares plunge as earnings guidance falls well short of estimates - CNBC",
+      "url": "https://www.cnbc.com/2025/09/04/lululemon-lulu-q2-2025-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166299-1751375030676-gettyimages-2209999086-McGregor250415NYCbusinesses09.jpeg?v=1751375053&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-04T20:22:57Z",
+      "description": "Lululemon ve čtvrtek oznámil výsledky za druhé čtvrtletí, překonal odhady zisku i tržeb, ale vydal slabý výhled na rok 2025."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump tvrdí, že americká armáda zničila u Venezuely loď operovanou gangem Tren de Aragua. Co o něm víme.",
       "original_title": "Trump says the U.S. military destroyed a boat operated by Tren de Aragua off Venezuela. Here's what to know about the gang. - CBS News",
       "url": "https://www.cbsnews.com/news/trump-boat-tren-de-aragua-gang-venezuela/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/04/87e5fc52-9731-4b72-8002-420e8ef60804/thumbnail/1200x630/5edee60e18ab817a8d35f84bbec19515/gettyimages-2232913055.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-04T20:07:08Z",
-      "description": "Smrtící úder americké armády proti lodi s údajnými drogami z Venezuely je nejnovějším opatřením prezidenta Trumpa proti hrozbě gangu Tren de Aragua."
+      "description": "Smrtící úder americké armády proti lodi s údajnými drogami z Venezuely je nejnovějším opatřením Trumpa proti gangu Tren de Aragua."
     },
     {
       "flag": "🌍",
@@ -43,7 +98,18 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/SF6_-_Outfit_2_Ryu_2_png_jpgcopy.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-04T20:04:04Z",
-      "description": "Nový film Street Fighter od Capcomu a Legendary vstoupí do kin 16. října 2026, s obsazením včetně Jasona Momoy a 50 Centa."
+      "description": "Nový film Street Fighter od Capcomu a Legendary debutuje v kinech 16. října 2026 s obsazením včetně Jasona Momoy a 50 Centa."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump hostí šéfy firem v nově zrekonstruované Růžové zahradě. Elon Musk tam nebude.",
+      "original_title": "Trump is hosting CEOs at the newly renovated Rose Garden. Elon Musk won't be there. - Business Insider",
+      "url": "https://www.businessinsider.com/elon-musk-not-invited-trump-rose-garden-ceo-event-2025-9",
+      "urlToImage": "https://i.insider.com/68b9d4ac57d362d375e7886b?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-04T20:03:00Z",
+      "description": "Trump pořádá první akci v nově zrekonstruované Růžové zahradě. Jeden významný tech lídr tam nebude."
     },
     {
       "flag": "🌍",
@@ -54,7 +120,7 @@
       "urlToImage": "https://i.insider.com/67694f12a3e82c791203f1fa?width=1200&format=jpeg",
       "source": "Business Insider",
       "publishedAt": "2025-09-04T20:01:00Z",
-      "description": "Generální ředitel Palantiru naznačil, že společnost by se mohla stát štíhlejší."
+      "description": "Šéf Palantiru naznačil, že společnost by se mohla stát štíhlejší."
     },
     {
       "flag": "🌍",
@@ -65,84 +131,62 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/12345x6937+346+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F15%2F9c0286e045d9b16730b4412c3143%2Fgettyimages-1321931669.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-04T19:49:06Z",
-      "description": "Guptaova nová kniha zkoumá svět bolesti – proč ji cítíme a jak ji můžeme léčit. Říká, že rozptýlení a meditace mohou být užitečnými nástroji pro zvládání určitých typů bolesti."
+      "description": "Guptaova nová kniha zkoumá svět bolesti – proč ji cítíme a jak ji můžeme léčit. Tvrdí, že rozptýlení a meditace mohou být užitečnými nástroji pro zvládání určitých typů bolesti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Senátoři z obou stran ostře vyslýchali RFK Jr. ohledně vakcín a dalších témat",
-      "original_title": "Senators from both parties grilled RFK Jr. on vaccines and more - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/04/nx-s1-5528966/rfk-kennedy-hearing-covid-vaccines-cdc",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2Fb6%2Fdf7e43a744b68495a051b1338385%2Fgettyimages-2233682446.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-04T19:38:13Z",
-      "description": "V ostrém slyšení senátoři z obou stran vyzvali ministra zdravotnictví, aby obhájil své kroky, včetně přístupu k vakcínám a vedení CDC."
+      "title": "Papírová premiéra začíná poctou Scrantonské pobočce Dunder Mifflin — A ohodnoťte ji!",
+      "original_title": "The Paper Premiere Opens With a Nod to Dunder Mifflin’s Scranton Branch — Plus, Grade It! - TVLine",
+      "url": "https://tvline.com/recaps/the-paper-recap-premiere-the-office-spinoff-bob-vance-1235501891/",
+      "urlToImage": "https://tvline.com/wp-content/uploads/2025/09/the-paper-premiere-ned.png?w=650",
+      "source": "TVLine",
+      "publishedAt": "2025-09-04T19:30:00Z",
+      "description": "The Paper odhalil svou debutovou edici, ale nejdříve se musel poradit se starým přítelem – přečtěte si naši premiérovou rekapitulaci a ohodnoťte ji v naší anketě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Greg Daniels se zpočátku zdráhal točit další část seriálu ‚The Office‘. Pak ale dostal nápad na ‚The Paper‘ — jen tomu neříkejte ‚reboot‘",
-      "original_title": "Greg Daniels Was Hesitant to Revisit ‘The Office.’ But Then Came the Idea for ‘The Paper’ — Just Don’t Call It a ‘Reboot’ - Variety",
-      "url": "https://variety.com/2025/tv/news/the-office-sequel-the-paper-dont-call-it-reboot-1236507796/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/NUP_205602_00156.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-04T18:00:00Z",
-      "description": "„The Office“ konečně dostává pokračování v seriálu „The Paper“. Ale neříkejte tomu reboot, Greg Daniels vytvořil něco nového."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Prezident Severozápadní univerzity rezignoval po zmrazení federálních dotací",
-      "original_title": "Northwestern University president steps down following federal funding freeze - CNN",
-      "url": "https://www.cnn.com/2025/09/04/us/northwestern-university-president-steps-down",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153695261.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-04T17:44:00Z",
-      "description": "Prezident Northwestern University Michael Schill oznámil ve čtvrtek rezignaci, univerzita čelí zmrazení financí od Trumpovy administrativy"
+      "title": "Portugalsko truchlí za oběti nehody lanovky v Lisabonu",
+      "original_title": "Portugal mourns Lisbon funicular crash victims - DW",
+      "url": "https://www.dw.com/en/portugal-mourns-lisbon-funicular-crash-victims/a-73874221",
+      "urlToImage": "https://static.dw.com/image/73874055_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-09-04T18:14:10Z",
+      "description": "Portugalsko drží den národního smutku za oběti tragédie na lanovce Glória v hlavním městě. Počet mrtvých stoupl na 16, vyšetřování pokračuje."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump varuje, že bude muset „zrušit“ obchodní dohody, pokud Nejvyšší soud nepotvrdí jeho cla",
-      "original_title": "Trump warns he would 'have to unwind' trade deals if Supreme Court doesn't uphold his tariffs - Fortune",
-      "url": "https://fortune.com/2025/09/04/donald-trump-unwind-trade-deals-supreme-court-tariffs/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2232255618_a40df0-e1757005023932.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-04T17:27:00Z",
-      "description": "„Pokud tento případ nevyhrajeme, naše země bude tak strašně trpět, tak strašně,“ řekl ve středu prezident."
+      "title": "RFK Jr. obviňuje odvolaného ředitele CDC ze lži o nátlaku na předběžné schválení doporučení vakcín",
+      "original_title": "RFK Jr. accuses ousted CDC director of lying about pressure to preapprove vaccine recommendations - CBS News",
+      "url": "https://www.cbsnews.com/news/rfk-cdc-director-vaccine-recommendations/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/04/cef0ac3a-c67e-4972-b94a-c0ae9d53c3c9/thumbnail/1200x630/f47d99e76ad4ea4d4ff351cae99ddfcb/gettyimages-2233690132.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-04T17:47:00Z",
+      "description": "Ministr zdravotnictví a sociálních služeb Robert F. Kennedy popřel, že by naléhal na odvolaného ředitele CDC, aby předem schvaloval doporučení týkající se vakcín."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Žaloba ve Washingtonu zpochybňuje nasazení Národní gardy Trumpem jako vynucenou „vojenskou okupaci“",
-      "original_title": "DC lawsuit challenges Trump’s National Guard deployment as a forced ‘military occupation’ - AP News",
-      "url": "https://apnews.com/article/washington-dc-trump-federal-takeover-national-guard-lawsuit-f2f76ef685676ee0d3bbd81496c74f2e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/aab3187/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2Fc7%2F549946cb44cb44e97624e4e493f0%2F4174ca58e89f4802b6c412a837413fa3",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-04T17:19:00Z",
-      "description": "District of Columbia napadá nasazení Národní gardy ve Washingtonu, které nařídil prezident Trump. Město se obrací na federální soud, i když Trump plánuje vysílat gardu do dalších měst v rámci boje ..."
+      "title": "Seznam hitů TIFF 2025: filmy se Sydney Sweeney, Angelinou Jolie a Vincem Vaughnem",
+      "original_title": "TIFF 2025 Hot List: Sydney Sweeney, Angelina Jolie & Vince Vaughn Movies - Deadline",
+      "url": "http://deadline.com/2025/09/tiff-2025-hot-list-movies-1236506063/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Christy-Sacrifice-Poetic-License-The-Christophers-and-Easys-Waltz.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-04T17:12:00Z",
+      "description": "Filmový festival v Torontu 2025 začíná filmy s Chrisem Evansem, Vincem Vaughnem, Amandou Seyfried, Angelinou Jolie a Sydney Sweeney."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Technologická antimonopolní renesance možná již skončila",
-      "original_title": "The tech antitrust renaissance may already be over - The Verge",
-      "url": "https://www.theverge.com/policy/771409/break-up-big-tech-movement-google-search-remedies-ruling",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-04T17:01:19Z",
-      "description": "Rozsudek soudce Amita Mehty v antimonopolním případě vyhledávače Google zklamal zastánce přísnějšího vymáhání práva a signalizuje překážku pro populistické hnutí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mezihvězdná kometa 3I/ATLAS je zahalena v mlze oxidu uhličitého, odhaluje vesmírný teleskop NASA",
+      "title": "Mezihvězdná kometa 3I/ATLAS je zahalena v mlze z oxidu uhličitého, odhalil vesmírný teleskop NASA",
       "original_title": "The interstellar comet 3I/ATLAS is wrapped in carbon dioxide fog, NASA space telescope reveals - Space",
       "url": "https://www.space.com/astronomy/comets/spherex-spots-carbon-dioxide-coma-around-comet-3i-atlas",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Sye7gV5yuME9CoKuHsW8ge.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-04T17:00:00Z",
-      "description": "Mezihvězdný návštěvník má zřejmě mnoho společného se svými souputníky ze sluneční soustavy."
+      "description": "Mezihvězdný návštěvník má zřejmě mnoho společného se svými sourozenci ze sluneční soustavy."
     },
     {
       "flag": "🌍",
@@ -158,68 +202,68 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "V Powerballu se jackpot zvýšil na 1,7 miliardy dolarů, tiket ze South Carolina vyhrál ve středu - WIS News 10",
+      "original_title": "Powerball jackpot increases to $1.7B, SC tickets win from Wednesday drawing - WIS News 10",
+      "url": "https://www.wistv.com/2025/09/04/powerball-jackpot-increases-17b-sc-tickets-win-wednesday-drawing/",
+      "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/XVA7GIQTVZFSVD5PA2J4Y3GA7M.jpg?auth=3b70d0cd43fe5cd754b6967dd4e6aba9187d4be67caba3c63335b15c2f26a49d&width=1200&height=600&smart=true",
+      "source": "WIS10",
+      "publishedAt": "2025-09-04T14:41:00Z",
+      "description": "V Powerball se blíží nový rekord, třetí nejvyšší jackpot bude v sobotním losování v ohrožení."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "IFA 2025: největší oznámení z oblasti technologií a gadgetů",
       "original_title": "IFA 2025: the biggest tech and gadget announcements - The Verge",
       "url": "https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/IFA-hero-image-2025.jpg?quality=90&strip=all&crop=0,12.313959644685,100,75.37208071063",
       "source": "The Verge",
       "publishedAt": "2025-09-04T14:00:00Z",
-      "description": "Veletrh IFA probíhá od 5. do 9. září a The Verge bude v Berlíně, aby vám přinesl všechny nejnovější informace o tech produktech a novinkách."
+      "description": "IFA probíhá od 5. do 9. září a The Verge bude v Berlíně, aby vám přinesl všechny nejnovější zprávy o technologických produktech a funkcích."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Soudce z Harvardu tvrdě kritizuje „nepřínosné“ výhrady soudce Gorsucha",
-      "original_title": "Harvard Judge Blasts Justice Gorsuch’s ‘Unhelpful’ Criticism - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-04/harvard-judge-blasts-justice-gorsuch-s-unhelpful-criticism",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLcMJr13HQqI/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-04T11:00:00Z",
-      "description": "Americký soudce v Bostonu, který zablokoval snahu Trumpovy administrativy odebrat Harvardu miliardy na federálním výzkumu, vzkázal soudci Nejvyššího soudu Neilu Gorsuchovi: Stáhněte se."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kde tento víkend uvidíte úplné zatmění ‚krvavého‘ Měsíce",
+      "title": "Kde vidět úplné zatmění ‚krvavého‘ Měsíce tento víkend",
       "original_title": "Where To See A ‘Blood Moon’ Total Lunar Eclipse This Weekend - Forbes",
       "url": "https://www.forbes.com/sites/jamiecartereurope/2025/09/04/where-to-see-a-blood-moon-total-lunar-eclipse-this-weekend/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/608bd1d4ea1b4214686050b2/0x0.jpg?format=jpg&crop=5520,3103,x0,y353,safe&height=900&width=1600&fit=bounds",
       "source": "Forbes",
       "publishedAt": "2025-09-04T06:00:00Z",
-      "description": "Úplněk kukuřice v září vystoupí v Severní Americe 7. září 2025, hodiny po úplném zatmění Měsíce v Indii, Číně, Austrálii a Tichomoří."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Broušení na mobilu na toaletě zvyšuje riziko hemoroidů, varují vědci",
-      "original_title": "Scrolling while on the toilet linked to higher risk of hemorrhoids - EurekAlert!",
-      "url": "https://www.eurekalert.org/news-releases/1096101",
-      "urlToImage": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/c39dc582-4c2d-4102-8500-af333a7bac48/Rendition/thumbnail/Content/Public",
-      "source": "EurekAlert",
-      "publishedAt": "2025-09-03T18:11:15Z",
-      "description": "Účastníci průzkumu, kteří používali chytrý telefon na toaletě, měli vyšší riziko hemoroidů než ti, kteří jej nepoužívali."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Sonda InSight odhalila překvapení v samotném jádru Marsu",
-      "original_title": "NASA's Insight Lander Reveals a Surprise at The Very Core of Mars - ScienceAlert",
-      "url": "https://www.sciencealert.com/nasas-insight-lander-reveals-a-surprise-at-the-very-core-of-mars",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/mars-core.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-03T15:01:50Z",
-      "description": "Vědci nahlédli do samotného srdce planety Mars a objevili nečekanou strukturu."
+      "description": "Záříjový úplněk vystoupá nad Severní Amerikou 7. září 2025, hodiny po úplném zatmění Měsíce v Indii, Číně, Austrálii a Tichomoří."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX vypustila z Floridy na orbitu 28 satelitů Starlink, krátce po startu z Kalifornie (video)",
+      "title": "Dětské tábory v Texasu musí odstranit chaty z záplavových území a zavést varovné systémy podle nových zákonů",
+      "original_title": "Texas kids’ camps must remove cabins from floodplains, operate warning systems under new laws - The Texas Tribune",
+      "url": "https://www.texastribune.org/2025/09/03/texas-camp-safety-legislation/",
+      "urlToImage": "https://thumbnails.texastribune.org/GaO0dW65zdZs0H7NE6Vyu2Fcnug=/1200x630/filters:quality(95):focal(0x0:1600x1067)/static.texastribune.org/media/files/a99f64a2f60b9d5cc846043809fde9bd/0707%20Kerr%20County%20Flooding%20BB%2003.jpg",
+      "source": "The Texas Tribune",
+      "publishedAt": "2025-09-04T03:49:46Z",
+      "description": "Rodiče dětí, které zemřely v táboře Mystic, prosadili nový zákon, který nyní míří k podpisu guvernéra Grega Abbotta."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "SpaceX vypustila z Floridy na oběžnou dráhu 28 satelitů Starlink krátce po startu z Kalifornie (video)",
       "original_title": "SpaceX launches 28 Starlink satellites into orbit from Florida on heels of California liftoff (video) - Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-22-b1083-ccsfs-asog",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/KeqnhMgduXXTPfptfbL5FC.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-03T14:16:33Z",
-      "description": "Start po zlaté hodině stoupal jasně modrou ranní oblohou 8 hodin po kalifornském vypuštění Starlinku."
+      "description": "Vzlet po zlaté hodině stoupal jasně modrým ranním nebem 8 hodin po kalifornském startu Starlinku."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Lék na srdce, který užívají miliony lidí, může být často k ničemu – nebo dokonce riskantní",
+      "original_title": "A Common Heart Drug Taken by Millions May Often Be Useless – or Even Risky - ScienceAlert",
+      "url": "https://www.sciencealert.com/a-common-heart-drug-taken-by-millions-may-often-be-useless-or-even-risky",
+      "urlToImage": "https://www.sciencealert.com/images/2025/09/BetaBlockers.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-09-03T12:01:23Z",
+      "description": "Miliony lidí po celém světě užívají betablokátory, aby snížily riziko kardiovaskulárních problémů, zejména po infarktu."
     }
   ]
 }
