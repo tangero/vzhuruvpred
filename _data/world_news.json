@@ -1,219 +1,230 @@
 {
-  "last_updated": "2025-09-06T06:23:44",
+  "last_updated": "2025-09-06T07:15:00",
   "articles": [
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Ministerstvo spravedlnosti vysílá subpoeny na členku Fedu, kterou se Trump snaží odvolat",
+      "title": "Ministerstvo spravedlnosti vyslalo subpoeny na členku Fedu, kterou se Trump snaží sesadit",
       "original_title": "Justice Department issues subpoenas targeting Fed governor Trump is trying to oust - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/09/04/cook-trump-fed-fight-lisa-cook/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQLQI7T2LD4U3U64TR2VOREQYQ.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-05T03:52:00Z",
-      "description": "Pokud soudce dočasně umožní, aby zůstala ve správní radě Fedu, bude Lisa Cooková čelit nevyřešeným obviněním a politickému tlaku, které by mohly zkomplikovat její práci."
+      "description": "Pokud soudce dočasně umožní, aby zůstala ve správní radě Fedu, čelí Lisa Cook nevyřešeným obviněním a politickému tlaku, který by mohl zkomplikovat její práci."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zuckerberg, Gates a Altman se na večeři předháněli v chvále na Trumpa",
-      "original_title": "Zuckerberg, Gates and Altman lavish praise on Trump at dinner - Axios",
-      "url": "https://www.axios.com/2025/09/05/trump-tech-dinner-ceo-zuckerberg-musk",
-      "urlToImage": "https://images.axios.com/CwiQQCVRItMinmg9U3rVdILBOvw=/970x157:3744x1718/1366x768/2025/09/05/1757037915034.jpeg",
-      "source": "Axios",
+      "title": "Sam Altman, Tim Cook a další technologičtí lídři chválili Trumpa na večeři o AI v Bílém domě",
+      "original_title": "Sam Altman, Tim Cook, and Other Tech Leaders Lauded Trump at a White House AI Dinner - Business Insider",
+      "url": "https://www.businessinsider.com/whos-who-tech-leaders-attended-dinner-white-house-altman-pichai-2025-9",
+      "urlToImage": "https://i.insider.com/68ba3a4e57d362d375e79144?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-05T03:27:00Z",
+      "description": "Vedoucí představitelé Googlu a OpenAI se sešli v Bílém domě na akci o vzdělávání v oblasti AI a během večeře chválili prezidenta Donalda Trumpa."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dva venezuelské vojenské letouny přelétly v blízkosti americké námořní lodě v ‚vysoce provokativním manévru‘, uvádí Pentagon",
+      "original_title": "2 Venezuelan military aircraft flew near US Navy vessel in 'highly provocative move,' Pentagon says - ABC News",
+      "url": "https://abcnews.go.com/International/2-venezuelan-military-aircraft-flew-us-navy-vessel/story?id\\\\u003d125278868",
+      "urlToImage": null,
+      "source": "ABC News",
       "publishedAt": "2025-09-05T03:22:30Z",
-      "description": "Bývalý Trumpův poradce Elon Musk na večeři chyběl."
+      "description": ""
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Pentagon schválil využití námořní základny pro operace chicagského imigračního úřadu",
-      "original_title": "Pentagon approves use of Navy base for Chicago ICE operations - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/04/chicago-navy-base-great-lakes-pritzker-trump-ice/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2WFRJERFEM5LBGVHA4NQ4LIJ3U_size-normalized.jpg&w=1440",
+      "title": "Trump přejmenuje ministerstvo obrany na ministerstvo války",
+      "original_title": "Trump to rebrand Defense Department as War Department - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/09/04/trump-war-department/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C2AHDFT7Q6PKPJMTQH5YWNVWZQ_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-09-05T01:45:14Z",
-      "description": "Pentagon schválil využití námořní základny v oblasti Chicaga pro operace ICE. Podle představitelů ministerstva obrany by zařízení mohly využívat vojenské síly povolané k asist"
+      "publishedAt": "2025-09-05T03:21:14Z",
+      "description": "Trump by měl v pátek podepsat exekutivní nařízení, není však jasné, zda může trvale změnit název agentury bez schválení zákona Kongresem."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Vzácný a smrtící 'líbací brouk' se šíří po USA; Vše o Chagasově chorobě, která může způsobit smrtelné srdeční selhání",
+      "title": "Generální prokurátor D.C. žaluje Trumpa a žádá zastavení nasazení Národní gardy",
+      "original_title": "D.C. attorney general sues Trump seeking to halt to National Guard deployment - The Washington Post",
+      "url": "https://www.washingtonpost.com/dc-md-va/2025/09/04/dc-national-guard-troops-lawsuit/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/67A7IJHQU2VT7VDOHFJCFLPEBE.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-05T03:13:55Z",
+      "description": "Žaloba je druhou, kterou generální prokurátor Brian Schwalb podal od té doby, co prezident Trump 11. srpna vyhlásil v D.C. „nouzový stav kvůli kriminalitě“."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Mike Tyson ohlásil překvapivý boxerský zápas s Floydem Mayweatherem",
+      "original_title": "Mike Tyson to set fight Floyd Mayweather in boxing bombshell - New York Post",
+      "url": "https://nypost.com/2025/09/04/sports/mike-tyson-to-set-fight-floyd-mayweather-in-boxing-bombshell/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-qd9wv35x4-1757033214365.jpg?quality=75&strip=all&1757018829&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-09-05T02:15:00Z",
+      "description": "Dva z největších boxerských soupeřů se střetnou v ringu."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Vzácný a smrtící 'líbací brouk' se šíří po USA; Vše o Chagasově chorobě, která může způsobit smrtelné srdeční problémy",
       "original_title": "Rare and deadly 'kissing bug' spreading across US; All about the Chagas disease that can cause fatal hear - Times of India",
       "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/rare-and-deadly-kissing-bug-spreading-across-us-all-about-the-chagas-disease-that-can-cause-fatal-heart-attacks-and-strokes/articleshow/123709329.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-123709325,width-1070,height-580,imgsize-56838,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "source": "The Times of India",
       "publishedAt": "2025-09-05T01:31:00Z",
-      "description": "Chagasova choroba přenášená zákeřnicemi se tiše šíří po USA, potvrzena již ve více než 30 státech. Včasná detekce je klíčová, pro"
+      "description": "Chagasova choroba přenášená brouky zákeřnicemi se tiše šíří po USA, potvrzena již ve více než 30 státech. Včasná detekce je klíčová, protože"
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Stav Erin Batesové se zhoršuje: Manžel uvádí, že hvězda pořadu „Bringing Up Bates“ prodělala „těžký záchvat“ po septickém šoku při porodu sedmého dítěte",
+      "original_title": "Erin Bates’ Condition Worsens: Husband Says ‘Bringing Up Bates’ Star Suffered “Severe Seizure” After Going Into Septic Shock from Birth of Seventh Child - The Ashley's Reality Roundup",
+      "url": "https://www.theashleysrealityroundup.com/2025/09/04/erin-bates-condition-worsens-husband-says-bringing-up-bates-star-suffered-severe-seizure-after-going-into-septic-shock-from-birth-of-seventh-child/",
+      "urlToImage": "https://s17077.pcdn.co/wp-content/uploads/2025/09/erin-bates-health-2025.jpg",
+      "source": "Theashleysrealityroundup.com",
+      "publishedAt": "2025-09-05T00:42:37Z",
+      "description": "Chad Paine zveřejnil dlouho očekávanou aktualizaci o zdravotním stavu své manželky Erin Bates Paine poté, co se herečka ze seriálu „Bringing Up Bates“ dostala po porodu do septického šoku."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "4 klíčové momenty z kontroverzního slyšení RFK Jr. se senátory",
+      "title": "4 klíčové momenty z napjatého slyšení RFK Jr. se senátory",
       "original_title": "4 major moments from RFK Jr.’s contentious hearing with senators - PBS",
       "url": "https://www.pbs.org/newshour/politics/4-major-moments-from-rfk-jr-s-contentious-hearing-with-senators",
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2233024519-1024x683.jpg",
       "source": "PBS",
       "publishedAt": "2025-09-05T00:30:46Z",
-      "description": "Ministr zdravotnictví Robert F. Kennedy Jr. byl ve čtvrtek v centru bouře, když senátoři včetně těch, kteří hlasovali pro jeho potvrzení, kladli naléhavé otázky ohledně jeho agendy v oblasti veřejn..."
+      "description": "Ministr zdravotnictví Robert F. Kennedy Jr. byl ve čtvrtek v centru bouře, když senátoři včetně těch, kteří hlasovali pro jeho potvrzení, kladli naléhavé otázky ohledně jeho programu veřejného zdraví."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Venezuelské stíhačky přelétly nad lodí amerického námořnictva v „demonstraci síly“",
-      "original_title": "Venezuelan fighter jets flew over U.S. Navy ship in \"show of force\" - CBS News",
-      "url": "https://www.cbsnews.com/news/venezuela-fighter-jets-navy-ship-trump-maduro/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/05/fc702137-96be-4d26-82b5-a4fc94455623/thumbnail/1200x630/4ae7e25a939ea4ae748eefbeef4476fe/ap18242704703262.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-05T00:13:00Z",
-      "description": "Dva ozbrojené venezuelské stíhačky F-16 přeletěly nad USS Jason Dunham, oznámili CBS News četní představitelé ministerstva obrany. Událost se stala ve čtvrtek v době rostoucího napětí mezi USA a Ve..."
+      "title": "Podpora ze strany Republikánů pro petici k zveřejnění Epsteinových dokumentů slábne",
+      "original_title": "GOP support erodes for Epstein files petition - Axios",
+      "url": "https://www.axios.com/2025/09/04/massies-epstein-discharge-petition-trump",
+      "urlToImage": "https://images.axios.com/NbbyRj7U9gx-f6co2hj8ySMtjsA=/0x422:5209x3352/1366x768/2025/09/04/1757021796172.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-05T00:17:59Z",
+      "description": "Massie zůstává neústupný a slibuje, že získá 218 podpisů potřebných k vynucení hlasování."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "USA ruší pravidla o kompenzacích za zpožděné lety",
-      "original_title": "US Moves to Eliminate Rules Requiring Flight Delay Compensation - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-04/us-moves-to-eliminate-rules-requiring-flight-delay-compensation",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iETmgirBrQ68/v2/1200x800.jpg",
+      "title": "Obchodníci s dluhopisy čekají na zprávu o mzdách, která může ovlivnit odhady ohledně Fedu",
+      "original_title": "Treasury Traders Await Payrolls Report That Could Sway Fed Bets - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-05/treasury-traders-await-payrolls-report-that-could-sway-fed-bets",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjfr2y74Ga4/v0/1200x800.jpg",
       "source": "Bloomberg",
-      "publishedAt": "2025-09-04T23:34:15Z",
-      "description": "Administrace prezidenta Donalda Trumpa ruší pravidla vyžadující od aerolinek kompenzaci a bezplatné přebookování pro zpožděné a zrušené lety zaviněné jinak než počasím."
+      "publishedAt": "2025-09-05T00:07:00Z",
+      "description": "Obchodníci s dluhopisy a měnami se chystají na páteční zprávu o zaměstnanosti v USA, která utvrdí pohledy na politiku Fedu a určí krátkodobý vývoj úrokových sazeb."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dcera Pink Willow je na první den na střední škole už velká holka",
-      "original_title": "Pink's Daughter Willow Is All Grown Up on First Day of High School - yahoo.com",
-      "url": "https://www.eonline.com/news/1422063/pink-carey-harts-daughter-willows-first-day-of-high-school-photo?cmpid=sn-syndicate-aolfeed-us-",
-      "urlToImage": "https://media.zenfs.com/en/e__181/49f4a6781b67a40576892569e3687273",
-      "source": "Eonline.com",
-      "publishedAt": "2025-09-04T23:31:11Z",
-      "description": "Willow, 14letá dcera Pink a jejího manžela Careyho Harta, vypadala na fotce z prvního dne na střední škole dospěleji než kdy dřív."
+      "title": "Zavřela se Dunder Mifflin? Jak „The Paper“ vysvětluje osud firmy z „The Office“",
+      "original_title": "Did Dunder Mifflin Shut Down? How ‘The Paper’ Explains the Fate of ‘The Office’ Business - Variety",
+      "url": "https://variety.com/2025/tv/news/did-dunder-mifflin-shut-down-the-office-fate-the-paper-1236508428/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/TCDOFFI_EC059-e1757011016199.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-04T23:00:00Z",
+      "description": "Nový seriál Peacock „The Paper“ vysvětluje, co se stalo s „The Office“, včetně toho, jestli Dunder Mifflin skončil."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Trump přejmenuje Pentagon na ministerstvo války",
-      "original_title": "Trump to rebrand Pentagon as Department of War - BBC",
-      "url": "https://www.bbc.com/news/articles/cgr9r4qr0ppo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8495/live/2902a9e0-89e2-11f0-9169-2d5f04c84218.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-04T22:58:13Z",
-      "description": "Americký prezident chce, aby se ministerstvo obrany soustředilo na „bojovou připravenost“ a „bojového ducha“"
+      "flag": "🌍",
+      "country": "global",
+      "title": "Republikáni v Senátu čelí nečekanému novému dilematu Fedu",
+      "original_title": "Senate Republicans face a surprise new Fed dilemma - Politico",
+      "url": "https://www.politico.com/news/2025/09/04/senate-republicans-fed-miran-00544979",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7e%2Fa5%2Fd06b4f824ac289aab63b644603af%2Fsenate-federal-reserve-61555.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-04T22:42:29Z",
+      "description": "Zastánci republikánů v Kongresu i nadále dávají Bílému domu příležitost se ospravedlnit."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Co nám zvířecí palce prozrazují o jejich (evoluční) světové nadvládě",
+      "title": "Co nám prozrazují palce hlodavců o jejich (evoluční) světové nadvládě",
       "original_title": "What rodent thumbnails tell us about their (evolutionary) world domination - The Washington Post",
       "url": "https://www.washingtonpost.com/science/2025/09/04/rodents-thumbs-rats-squirrels-evolution/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MFKYQG3E6SRIMRHIXP4GCBRLC4_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-04T22:32:06Z",
-      "description": "Hlodavci tvoří téměř polovinu všech savců. Studie zkoumá, jak evoluce drobného nehtu mohla pohánět jejich šíření po celém světě."
+      "description": "Hlodavci tvoří téměř polovinu všech savců. Studie zkoumá, jak evoluce drobného nehtu mohla pohánět jejich šíření po světě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Facebook se znovu pokouší oživit ‚píchnutí‘",
+      "title": "Facebook se znovu snaží oživit ‚pokes‘",
       "original_title": "Facebook is trying to make ‘pokes’ happen again - TechCrunch",
       "url": "https://techcrunch.com/2025/09/04/facebook-is-trying-to-make-pokes-happen-again/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/12/facebook-poke-icon.jpg?resize=1200,675",
       "source": "TechCrunch",
       "publishedAt": "2025-09-04T21:32:52Z",
-      "description": "Funkce sledování poke je z velké části navržena tak, aby oslovila mladší uživatele, kteří vyrostli na prvcích gamifikace v jejich sociálních aplikacích, jako jsou Snapchat a TikTok Streaks."
+      "description": "Funkce sledování poťukání je z velké části navržena tak, aby oslovila mladší uživatele, kteří vyrostli s prvky gamifikace vestavěnými do svých sociálních aplikací, jako jsou Snapchat a TikTok Streaks."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Voliči v Missouri jsou proti změně hranic volebních obvodů, zjistil průzkum demokratů",
-      "original_title": "Missouri voters against redistricting effort, Democratic poll finds - Politico",
-      "url": "https://www.politico.com/live-updates/2025/09/04/congress/poll-missouri-voters-on-redistricting-00545376",
-      "urlToImage": "https://www.politico.com/dims4/default/b0577af/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F12%2F90%2F6f9cc2e84a49a776795da827af94%2Felection-2026-redistricting-24274.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-04T21:30:00Z",
-      "description": "Pokud navrhovaná mapa Missouri projde, stát získá jeden nový republikánsky nakloněný mandát."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "16. epidemie viru Ebola v oblasti zdravotnictví Bulape, Kasai, Demokratická republika Kongo: Nový přenos z neznámého hostitele rezervoáru",
+      "title": "16. epidemie viru Ebola v oblasti zdravotní péče Bulape, Kasai, Demokratická republika Kongo: Nový přenos z neznámého hostitele rezervoáru",
       "original_title": "The 16th Ebola Virus Disease Outbreak in Bulape Health Zone, Kasai, Democratic Republic of the Congo: A new spillover event from an unknown reservoir host - Virological",
       "url": "https://virological.org/t/the-16th-ebola-virus-disease-outbreak-in-bulape-health-zone-kasai-democratic-republic-of-the-congo-a-new-spillover-event-from-an-unknown-reservoir-host/1003",
       "urlToImage": "https://virological.org/uploads/default/optimized/2X/b/b1fba62640c8677812faaf0ecef644cc32e459e5_2_1024x553.png",
       "source": "Virological.org",
       "publishedAt": "2025-09-04T20:28:13Z",
-      "description": "Pozadí Demokratická republika Kongo (DRK) v současné době čelí současným vypuknutím nákaz včetně opičích neštovic, cholery a malárie (1-4). Ministerstvo veřejného zdraví DRK vyhlásilo 4. září 2025 ..."
+      "description": "Pozadí Demokratická republika Kongo (DRK) v současné době čelí současným vypuknutím nemocí, včetně opičích neštovic, cholery a malárie (1-4). Ministerstvo veřejného zdraví DRK vyhlásilo 4. září 202..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bolest vás nemusí trápit. Sanjay Gupta vysvětluje proč",
+      "title": "Nový film Street Fighter vtrhne do kin v říjnu 2026",
+      "original_title": "The new Street Fighter movie Hadokens into theaters in October 2026 - The Verge",
+      "url": "https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/SF6_-_Outfit_2_Ryu_2_png_jpgcopy.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-04T20:04:04Z",
+      "description": "Nový film Street Fighter od studia Capcom a Legendary vstoupí do kin 16. října 2026 s obsazením včetně Jasona Momoy a 50 Centa."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bolest nemusí bolet. Sanjay Gupta vysvětluje proč",
       "original_title": "Experiencing pain? Sanjay Gupta explains why 'It Doesn't Have to Hurt' - NPR",
       "url": "https://www.npr.org/2025/09/04/nx-s1-5527017/sanjay-gupta-pain",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/12345x6937+346+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F15%2F9c0286e045d9b16730b4412c3143%2Fgettyimages-1321931669.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-04T19:49:06Z",
-      "description": "Guptaova nová kniha zkoumá svět bolesti – proč ji cítíme a jak ji můžeme léčit. Říká, že rozptýlení a meditace mohou být užitečnými nástroji pro zvládání určitých typů bolesti."
+      "description": "Guptaova nová kniha zkoumá svět bolesti – proč ji cítíme a jak ji můžeme léčit. Říká, že rozptýlení a meditace mohou být užitečnými nástroji pro zvládání některých typů bolesti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpův nominant do Fedu říká, že by si ponechal práci v Bílém domě, i kdyby jej Senát potvrdil",
-      "original_title": "Trump’s Fed nominee says he’d keep his White House job even if confirmed by the Senate - AP News",
-      "url": "https://apnews.com/article/federal-reserve-trump-miran-independence-powell-4b1e7a52e6f943de392a32b1ae10a5d7",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a313664/2147483647/strip/true/crop/2215x1246+0+116/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2Fff%2F8d215a1cbf08efd0409b8478396e%2F1d3e90a2a5344af0a3b6d07804eef735",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-04T19:32:00Z",
-      "description": "Stephen Miran, Trumpův kandidát do Rady Federálního rezervního systému, zůstane zaměstnancem Bílého domu i po případném schválení Senátem"
+      "title": "Izrael popírá hladomor a hrozí dalšími omezeními pomoci pro Gazu",
+      "original_title": "Denying famine, Israel threatens more curbs on Gaza aid - NPR",
+      "url": "https://www.npr.org/2025/09/04/g-s1-86841/gaza-aid-famine-hunger-israel",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7405x4165+0+386/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F4e%2Fe4590424484eabc827ad0d4e2f0b%2Fgettyimages-2232989457.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-04T17:17:55Z",
+      "description": "Navzdory tvrzení expertů, že v Gaze začal hladomor, Izrael hrozí dalšími omezeními dodávek pomoci. Podle humanitárních organizací zpřísnění restrikcí prohloubí hladovou krizi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Čínská ponorka zkoumá na dně Pacifiku dosud neznámé obří krátery – a jsou plné života",
-      "original_title": "Chinese submersible explores previously unknown giant craters at the bottom of the Pacific — and they're teeming with life - Live Science",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/chinese-submersible-explores-previously-unknown-giant-craters-at-the-bottom-of-the-pacific-and-theyre-teeming-with-life",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hcQTHQX8tZkqbdxFWMgLyN.gif",
-      "source": "Live Science",
-      "publishedAt": "2025-09-04T18:51:10Z",
-      "description": "Vědci objevili a prozkoumali obří hydrotermální systém na dně Pacifiku, který by mohl poskytnout okno do počátků života na Zemi."
+      "title": "Renesance antimonopolních řízení v tech sektoru možná již skončila",
+      "original_title": "The tech antitrust renaissance may already be over - The Verge",
+      "url": "https://www.theverge.com/policy/771409/break-up-big-tech-movement-google-search-remedies-ruling",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-04T17:01:19Z",
+      "description": "Rozhodnutí soudce Amita Mehty o nápravných opatřeních v antimonopolním případě vyhledávače Google zklamalo zastánce přísného vymáhání práva a signalizuje překážku pro populistické hnutí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "K odvrácení zářijového snížení sazeb bude potřeba opravdu mimořádná zpráva o zaměstnanosti",
-      "original_title": "It will take a doozy of a jobs report to derail investor expectations for a September rate cut - MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-will-take-a-doozy-of-a-jobs-report-to-derail-investor-expectations-for-a-september-rate-cut-49100c49",
-      "urlToImage": "https://images.mktw.net/im-350973/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-04T18:18:00Z",
-      "description": "Trhy jsou připraveny na slabší data z trhu práce, ale na kladné překvapení nikoliv, tvrdí stratégové"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Greg Daniels se zdráhal vracet k ‚The Office‘. Pak ale přišel nápad na ‚The Paper‘ — jen tomu neříkejte ‚reboot‘",
-      "original_title": "Greg Daniels Was Hesitant to Revisit ‘The Office.’ But Then Came the Idea for ‘The Paper’ — Just Don’t Call It a ‘Reboot’ - Variety",
-      "url": "https://variety.com/2025/tv/news/the-office-sequel-the-paper-dont-call-it-reboot-1236507796/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/NUP_205602_00156.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-04T18:00:00Z",
-      "description": "Po seriálu ‚The Office‘ konečně vzniká pokračování s názvem ‚The Paper‘. Tvůrce Greg Daniels ale zdůrazňuje, že se nejedná o reboot, nýbrž o zcela nový příběh."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Seznam nejžhavějších titulů na TIFF 2025: filmy se Sydney Sweeney, Angelinou Jolie a Vencem Vaughnem",
-      "original_title": "TIFF 2025 Hot List: Sydney Sweeney, Angelina Jolie & Vince Vaughn Movies - Deadline",
-      "url": "http://deadline.com/2025/09/tiff-2025-hot-list-movies-1236506063/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Christy-Sacrifice-Poetic-License-The-Christophers-and-Easys-Waltz.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-04T17:12:00Z",
-      "description": "Filmový festival v Torontu 2025 odstartuje s filmy s Chrisem Evansem, Vincem Vaughnem, Amandou Seyfried, Angelinou Jolie a Sydney Sweeney."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mezihvězdná kometa 3I/ATLAS je zahalena v mlze oxidu uhličitého, odhalil vesmírný teleskop NASA",
+      "title": "Mezihvězdná kometa 3I/ATLAS je zahalena v oxidu uhličitém, odhalil vesmírný teleskop NASA",
       "original_title": "The interstellar comet 3I/ATLAS is wrapped in carbon dioxide fog, NASA space telescope reveals - Space",
       "url": "https://www.space.com/astronomy/comets/spherex-spots-carbon-dioxide-coma-around-comet-3i-atlas",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Sye7gV5yuME9CoKuHsW8ge.jpg",
@@ -224,7 +235,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Čínská vojenská přehlídka představuje nové námořní rakety a drony",
+      "title": "Čínská vojenská přehlídka představuje nové námořní rakety a drony - navalnews.com",
       "original_title": "Chinese Military Parade Details New Naval Missiles, Drones - navalnews.com",
       "url": "https://www.navalnews.com/naval-news/2025/09/chinese-military-parade-highlights-naval-drones-and-missiles/",
       "urlToImage": "https://www.navalnews.com/wp-content/uploads/2025/09/16407463_077c3f586de18fbeabc14b9a7f7a0e3a.png",
@@ -233,26 +244,26 @@
       "description": "Čínská vojenská přehlídka v Pekingu v roce 2025 představila řadu nových raket a dronů, což zdůrazňuje zrychlující se modernizaci námořních sil."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Petice za propuštění Jeffreyho Epsteina neuspěje, předpovídá Mike Johnson",
-      "original_title": "Jeffrey Epstein discharge petition will fail, Mike Johnson predicts - Politico",
-      "url": "https://www.politico.com/live-updates/2025/09/04/congress/johnson-predicts-doom-for-epstein-discharge-00543849",
-      "urlToImage": "https://www.politico.com/dims4/default/6f64374/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F19%2Fa9%2Fa6007a334c9a8f6526ca7c8dff53%2Fu-s-congress-93244.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-04T14:50:08Z",
-      "description": "Řečník označil snahu kongresmana Thomase Massieho za „zbytečnou“."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Co vědět o smrtelné nehodě lanovky v Lisabonu",
+      "original_title": "What to know about the deadly Lisbon funicular crash - CNN",
+      "url": "https://www.cnn.com/2025/09/04/europe/lisbon-funicular-crash-portugal-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15470788c.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-04T14:42:00Z",
+      "description": "V Lisabonu se od kolejnic odtrhl vagón lanovky, zemřelo nejméně 16 lidí"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "IFA 2025: největší oznámení z oblasti technologií a gadgetů",
+      "title": "IFA 2025: největší oznámení ze světa technologií a gadgetů",
       "original_title": "IFA 2025: the biggest tech and gadget announcements - The Verge",
       "url": "https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/IFA-hero-image-2025.jpg?quality=90&strip=all&crop=0,12.313959644685,100,75.37208071063",
       "source": "The Verge",
       "publishedAt": "2025-09-04T14:00:00Z",
-      "description": "Veletrh IFA probíhá od 5. do 9. září a The Verge bude v Berlíně, aby vám přinesl všechny nejnovější informace o tech produktech a nových funkcích."
+      "description": "Veletrh IFA probíhá od 5. do 9. září a my vás budeme z Berlína průběžně informovat o všech novinkách v oblasti technologií."
     },
     {
       "flag": "🌍",
@@ -263,7 +274,18 @@
       "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt_240718_splenda_sugar_substitute_800x450.jpg",
       "source": "Medscape",
       "publishedAt": "2025-09-04T10:30:00Z",
-      "description": "Umělá sladidla nemusí být tak neškodnou alternativou cukru, jak se mnozí domnívají, zejména pokud jde o zdraví mozku, naznačuje přelomová studie."
+      "description": "Umělá sladidla nemusí být neškodnou alternativou cukru, jak se mnozí domnívají, zejména pokud jde o zdraví mozku, naznačuje přelomová studie."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "SpaceX vypustila z Floridy na oběžnou dráhu 28 satelitů Starlink krátce po startu z Kalifornie (video)",
+      "original_title": "SpaceX launches 28 Starlink satellites into orbit from Florida on heels of California liftoff (video) - Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-22-b1083-ccsfs-asog",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KeqnhMgduXXTPfptfbL5FC.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-03T14:16:33Z",
+      "description": "Start po zlaté hodině vystoupal jasně modrým ranním nebem 8 hodin po kalifornském vypuštění Starlinku."
     }
   ]
 }
