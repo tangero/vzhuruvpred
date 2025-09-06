@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-05T21:21:38.981957",
+  "updated": "2025-09-06T01:53:05.602917",
   "trends": [
     {
       "rank": 1,
       "query": "táňa bystroňová",
-      "news_title": "Táňa Bystroňová odhaluje trik na fotbalisty. Švancara by se nechal chytit",
+      "news_title": "Táňa Bystroňová odhalila trik na fotbalisty. Švancara by se nechal chytit",
       "news_url": "https://zeny.iprima.cz/tana-bystronova-odhalila-trik-na-fotbalisty-484541",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7Gjb6V1qotLXbjZP-NdrGXJNuLlMiORqv21msxQqUlmCvoLcQOzfecZh9zF8",
       "traffic": "1000++ hledání",
@@ -14,45 +14,55 @@
     {
       "rank": 2,
       "query": "alcaraz",
-      "news_title": "Alcaraz - Djokovic: Přímý přenos semifinále US Open",
-      "news_url": "https://www.marca.com/tenis/us-open/novak-djokovic-carlos-alcaraz/2025/09/05/04_0404_20250905_126-directo.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRroZV-h2vZXGok2axdGjfxuGbR31ZFHTBbkNuRtX09Inkr_ZjKlAMzVlmb180",
+      "news_title": "Alcaraz - Djokovic: výsledek semifinále US Open",
+      "news_url": "https://as.com/tenis/us_open/alcaraz-djokovic-en-directo-semifinal-del-us-open-hoy-en-vivo-n/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF6aVsBdck8kMxoyBWBSAdL6Oj2ipmwgMsT-o81fsKPhNk6uzq5nS-gNzWXTA",
       "traffic": "500++ hledání",
-      "source": "MARCA",
+      "source": "Diario AS",
       "explore_url": "https://trends.google.cz/trends/explore?q=alcaraz&geo=CZ"
     },
     {
       "rank": 3,
-      "query": "déšť",
-      "news_title": "Česko bičují silné deště, to nejhorší teprve přijde",
-      "news_url": "https://tn.nova.cz/zpravodajstvi/clanek/628275-na-cesko-miri-intenzivni-dest-a-bourky-meteorologove-rekli-kde-uderi-jako-prvni",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2aIZQKEavuHwQ44ogaZ_e-ot75-4SSnzPFTQgdQROty-7YYvvCwFgbC1xqo",
-      "traffic": "500++ hledání",
-      "source": "TN.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=déšť&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "wednesday season 3",
-      "news_title": "Lady Gaga překvapila na akci Wednesday 2 a oznámila novinku „The Dead Dance“",
-      "news_url": "https://www.netflix.com/tudum/articles/lady-gaga-dead-dance-event",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjE-QwRmp6PTKrInEqGTM9y-ljX7lBg3bKQiA2URSNUVhSt4UgsqxTqVj2PX4",
-      "traffic": "200++ hledání",
-      "source": "Netflix",
-      "explore_url": "https://trends.google.cz/trends/explore?q=wednesday season 3&geo=CZ"
-    },
-    {
-      "rank": 5,
       "query": "djokovic",
-      "news_title": "Tenis ONLINE: Djokovič vs. Alcaraz živě",
-      "news_url": "https://www.idnes.cz/sport/tenis/us-open-grandslam-semifinale-djokovic-alcaraz-sinner-auger-aliassime.A250905_175248_tenis_jrv",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDt7tOdKgsqgXAfFi8CxxAkCsky5PTTcxTeNj4C7VThXUzJkUdNTbFkYX7-E8",
-      "traffic": "200++ hledání",
-      "source": "iDNES.cz",
+      "news_title": "Alcaraz porazil Djokovice a postoupil do finále US Open",
+      "news_url": "https://www.bbc.com/sport/tennis/articles/ce84d4xpe4xo",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wwnuAIullnKQ7usQTEDk45cV5sGS_K43PPB_FSjq0ilP9j2GpP4r-2LWHCg",
+      "traffic": "500++ hledání",
+      "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=djokovic&geo=CZ"
     },
     {
+      "rank": 4,
+      "query": "déšť",
+      "news_title": "Do Česka dorazí bouřky",
+      "news_url": "https://www.novinky.cz/clanek/pocasi-do-ceska-dorazi-bourky-40537126",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0zTKdHhCx_SLCYAGiWEEnplJpcamT8hKonBb41qkn3a9dQGkOP73fe4xIaAo",
+      "traffic": "500++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=déšť&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "украина франция",
+      "news_title": "Ukrajina nezačala kvalifikaci o MS ideálně, prohrála s Francií.",
+      "news_url": "https://champion.com.ua/rus/football/ukraina-franciya-sbornaya-rebrova-proigrala-vo-vroclave-v-otbore-k-chm-2026-1049016/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7OoL8snbjhIpPOAZlde_fe1ROaQuwPW6soBvAI6N1zTWju0T0izZxGrjD6s4",
+      "traffic": "500++ hledání",
+      "source": "Champion.com.ua",
+      "explore_url": "https://trends.google.cz/trends/explore?q=украина франция&geo=CZ"
+    },
+    {
       "rank": 6,
+      "query": "wednesday season 3",
+      "news_title": "Kdy se Lady Gaga objeví ve 2. sérii seriálu Wednesday",
+      "news_url": "https://www.usatoday.com/story/entertainment/tv/2025/09/03/lady-gaga-wednesday-season-2-cameo/85938335007/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2w2Wo5aXD3bEhW_ZoAVJUTH-EUCrVTecybBPFq87ft0y82B6NOnUjc3zx4M8",
+      "traffic": "200++ hledání",
+      "source": "USA Today",
+      "explore_url": "https://trends.google.cz/trends/explore?q=wednesday season 3&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "máme rádi česko",
       "news_title": "Syn Petra Švancary málem prozradil rodinné tajemství, otec ho rychle umlčel.",
       "news_url": "https://zeny.iprima.cz/syn-malem-prozradil-rodinne-tajemstvi-petr-svancara-ho-umlcel-484651",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=máme rádi česko&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "denisa nesvačilová",
-      "news_title": "Zamilovaná Denisa Nesvačilová cukrovala s právníkem Michalem",
-      "news_url": "https://www.prahanadlani.cz/clanek-zprava/1445192-zamilovana-denisa-nesvacilova-zari-s-pravnikem-michalem-cukrovali-na-verejnosti.html",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIgMSxeWO31Zh5SZRw7yCx-l8Mu8z3T0OSJJCYZ4ZCzCTgX5LtLvAJl7NRrQU",
-      "traffic": "200++ hledání",
-      "source": "Prahanadlani.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=denisa nesvačilová&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "live tv",
-      "news_title": "YouTube TV a Hulu budou vysílat C-SPAN",
-      "news_url": "https://www.tvtechnology.com/news/youtube-tv-hulu-to-carry-c-span",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNICo6o27vv7Tx-mRzFdvCJ1vFmOjiNi6FnK8TmJHk8smNYjeyENxq5cmrkzo",
+      "query": "denisa nesvačilová",
+      "news_title": "Denisa Nesvačilová září s právníkem Michalem, cukrovali na veřejnosti",
+      "news_url": "https://www.extra.cz/zamilovana-denisa-nesvacilova-zari-s-pravnikem-michalem-cukrovali-na-verejnosti-32ab3",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUDS2xyhuSW5pgF2r9eoGtLZC7IQqJLKDQROg0UGCRcpTp0KJAb4kIkBdXYCg",
       "traffic": "200++ hledání",
-      "source": "TVTechnology",
-      "explore_url": "https://trends.google.cz/trends/explore?q=live tv&geo=CZ"
+      "source": "eXtra.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=denisa nesvačilová&geo=CZ"
     }
   ]
 }
