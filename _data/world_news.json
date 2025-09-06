@@ -1,49 +1,137 @@
 {
-  "last_updated": "2025-09-06T16:19:03",
+  "last_updated": "2025-09-06T17:12:55",
   "articles": [
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Britský vicepremiér rezignoval kvůli daňové chybě",
-      "original_title": "UK deputy prime minister resigns over tax error - AP News",
-      "url": "https://apnews.com/article/uk-politics-rayner-tax-330c39c53c4d6710c19855f45598c400",
-      "urlToImage": "https://dims.apnews.com/dims4/default/59d5b6b/2147483647/strip/true/crop/4876x2743+0+254/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2Fbe%2Fda7f30779c07da25fc97dc20a52b%2Fd063d85f5f544f69ba094b4c69535a81",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-05T14:01:00Z",
-      "description": "Britská vicepremiérka Angela Raynerová rezignovala kvůli zjištěním o porušení etických standardů při koupi nemovitosti"
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Americká ekonomika v srpnu přidala méně pracovních míst, než se očekávalo, což potvrzuje zpomalení",
-      "original_title": "US economy adds fewer jobs than expected in August, confirming slowdown - BBC",
-      "url": "https://www.bbc.com/news/live/c5yk8n869g1t",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/405f/live/9adfe520-89d1-11f0-84c8-99de564f0440.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-05T12:56:15Z",
-      "description": "Po loňském propuštění Trump propustil tehdejší šéfku Úřadu pro statistiku práce Eriku McEntarferovou."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Ministerstvo obrany varuje Venezuelu po ‚provokativním‘ přeletu stíhaček u námořní lodi",
+      "original_title": "Defense Dept. warns Venezuela after ‘provocative’ jets fly near Navy ship - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/05/venezuela-military-jets-us-warship/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMAMJU2BFBAWJNLZKGO2RX6KWM.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-05T15:03:39Z",
+      "description": "Ministerstvo obvinilo Venezuelu z pokusu o narušení protidrogových operací několik dní poté, co USA oznámily smrtící úder na údajnou narkoloď"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Záhadu designu zadní strany iPhonu 17 Pro a Pro Max se možná podařilo rozluštit ještě před akcí Applu - 9to5Mac",
+      "title": "Trump podepíše dekret o přejmenování Pentagonu na ‚ministerstvo války‘, tvrdí zdroje",
+      "original_title": "Trump to sign order renaming Pentagon 'Department of War': Sources - ABC News",
+      "url": "https://abcnews.go.com/Politics/trump-sign-order-renaming-pentagon-department-war/story?id\\\\u003d125275019",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-05T15:00:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Prezident Trump a lídři technologického průmyslu spojili síly k posílení americké dominance v oblasti umělé inteligence – Bílý dům (.gov)",
+      "original_title": "President Trump, Tech Leaders Unite to Power American AI Dominance - The White House (.gov)",
+      "url": "https://www.whitehouse.gov/articles/2025/09/president-trump-tech-leaders-unite-american-ai-dominance/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/09/opt-P20250904DT-0415.jpg",
+      "source": "Whitehouse.gov",
+      "publishedAt": "2025-09-05T14:55:45Z",
+      "description": "Minulou noc hostili prezident Donald J. Trump s první dámou v Bílém domě mimořádné setkání s představiteli technologického průmyslu"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpův trh práce bojuje, což posiluje argumenty pro hlubší snížení sazeb Fedem",
+      "original_title": "Trump's job market is struggling, building the case for steeper Fed rate cuts - Politico",
+      "url": "https://www.politico.com/news/2025/09/05/trumps-job-market-struggling-fed-rate-cut-00546137",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fda%2Fc5%2F70e3fc1147a196563020559162a2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2168336361",
+      "source": "Politico",
+      "publishedAt": "2025-09-05T14:35:22Z",
+      "description": "Zpráva přichází v době, kdy jak vysoké úrokové sazby, tak Trumpovy rozsáhlé cla zatěžují ekonomiku závislou na spotřebitelských výdajích."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Republikáni rychle podpořili kandidaturu Ashley Hinsonové do Senátu",
+      "original_title": "Republicans move quickly to support Ashley Hinson’s Senate bid - Politico",
+      "url": "https://www.politico.com/news/2025/09/05/ashley-hinson-endorsements-00546138",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F15%2F1d%2F035de25843f4baa250b6f4872a27%2Fashley-hinson-72181.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-05T14:11:06Z",
+      "description": "Vyhnutí se konkurenční republikánské primárce by mohlo zabránit šanci demokratů na zisk v Iowě."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Izrael před masivní ofenzívou bombarduje výškové budovy v Gaze",
+      "original_title": "Israel bombs high-rise buildings in Gaza City ahead of massive offensive - Axios",
+      "url": "https://www.axios.com/2025/09/05/israel-gaza-city-bombing-high-rise-hamas",
+      "urlToImage": "https://images.axios.com/b4SAUJzXuwf7TJmScccRHbMYYQI=/0x358:4815x3067/1366x768/2025/09/05/1757078601921.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-05T13:51:04Z",
+      "description": "„Závora je nyní zvedána z brány pekel v Gaze,“ prohlásil izraelský ministr obrany."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Na filmovém festivalu TIFF se o 15 žhavých novinek s Chrisem Evansem, Angelinou Jolie, Michaelou Coel a dalšími zajímají kupci",
+      "original_title": "TIFF: 15 Buzzy Films From Chris Evans, Angelina Jolie, Michaela Coel and More That Have Buyers Circling - Variety",
+      "url": "https://variety.com/2025/film/news/tiff-buzzy-films-chris-evans-angelina-jolie-michaela-coel-1236508617/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Sacrafice-Christophers-TIFF.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-05T13:30:00Z",
+      "description": "Od ‚Závěti Anny Leeové‘ po ‚Oběť‘: 15 filmů z Toronta, o které je mezi kupci velký zájem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "WHO aktualizuje seznam základních léků, nově obsahuje klíčové léky na rakovinu a cukrovku",
+      "original_title": "WHO updates list of essential medicines to include key cancer, diabetes treatments - World Health Organization (WHO)",
+      "url": "https://www.who.int/news/item/05-09-2025-who-updates-list-of-essential-medicines-to-include-key-cancer--diabetes-treatments",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/medicines/primary-health-care-setting.tmb-1200v.jpg?sfvrsn=2141e9e3_6",
+      "source": "World Health Organization",
+      "publishedAt": "2025-09-05T13:30:00Z",
+      "description": "Dnes Světová zdravotnická organizace (WHO) zveřejnila aktualizované verze svých modelových seznamů základních léků (EML) a základních léků pro děti (EMLc), které přidávají nové léčebné postupy pro ..."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Renderování Galaxy S26 Edge ukazují design podobný iPhonu 17 a potvrzují magnety pro Qi2 [Galerie]",
+      "original_title": "Galaxy S26 Edge renders show the iPhone 17-like design, corroborate Qi2 magnets [Gallery] - 9to5Google",
+      "url": "http://9to5google.com/2025/09/05/samsung-galaxy-s26-edge-design-renders-qi2-report/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-s26-edge-cad-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-05T13:10:00Z",
+      "description": "Podle nového úniku bude Galaxy S26 Edge nejen tenčí s designem podobným iPhonu 17, ale přijme také standard Qi2."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Námořní základna bude sloužit jako centrum pro až 250 federálních agentů při zásahu proti imigraci v Chicagu, uvádí memorandum",
+      "original_title": "Navy base to serve as hub for up to 250 federal agents for Chicago immigration crackdown, memo indicates - CBS News",
+      "url": "https://www.cbsnews.com/news/navy-base-hub-federal-agents-chicago-immigration-crackdown/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/05/4ea019a1-d1cb-4b00-8e16-b3f6f4d753ed/thumbnail/1200x630/38988652a98e320d00eb85c69e092bb3/gettyimages-2231981401-1.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-05T13:02:00Z",
+      "description": "Personál a vybavení ministerstva vnitřní bezpečnosti začaly na námořní základně Great Lakes dorážet již na začátku tohoto týdne, sdělil stanici CBS News americký činitel obeznámený s operací."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Záhadu designu zadní strany iPhonů 17 Pro a Pro Max se možná podařilo rozluštit ještě před akcí Applu - 9to5Mac",
       "original_title": "iPhone 17 Pro and Pro Max back design mystery may be solved ahead of Apple event - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/05/iphone-17-pro-back-design/",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/bu-iphone-17-pro-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-09-05T12:34:00Z",
-      "description": "Minulý týden jsme upozornili, že přestože toho o iPhonu 17 Pro a Pro Max víme strašně moc, tam..."
+      "description": "Dříve tento týden jsme upozornili, že přestože toho víme strašně moc o iPhonu 17 Pro a Pro Max..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Teleskop odhalil rostoucí ohon komety, která k nám přiletěla z jiné hvězdy",
+      "title": "Teleskop odhalil rostoucí ohon komety, která k nám zavítala z jiné hvězdy",
       "original_title": "Telescope reveals a growing tail on the comet that’s visiting from another star - NBC News",
       "url": "https://www.nbcnews.com/science/space/telescope-reveals-growing-tail-comet-s-visiting-another-star-rcna229284",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-comet-mb-1303-9ac3c9.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-05T12:06:28Z",
-      "description": "CAPE CANAVERAL, Fla. — Pozorování teleskopem odhalila rostoucí ohon komety, která k nám přiletěla z jiné hvězdné soustavy"
+      "description": "Na kometě z jiné hvězdné soustavy roste ohon, ukázala pozorování"
     },
     {
       "flag": "🇬🇧",
@@ -54,62 +142,40 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cb3e/live/fd3be4b0-8a46-11f0-9cf6-cbf3e73ce2b9.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-05T12:02:38Z",
-      "description": "Raid vyvolal v Jižní Koreji rozhořčenou reakci, která jej označila za nespravedlivé porušení práv občanů."
+      "description": "Raid vyvolal rozhořčenou reakci Jižní Koreje, která jej označila za nespravedlivé porušení práv lidí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Floridská babička obviněná z řízení vraždy na objednávku v rodině byla shledána vinnou",
-      "original_title": "Florida grandma accused of masterminding family murder-for-hire plot found guilty - The Independent",
-      "url": "https://www.the-independent.com/news/world/americas/crime/donna-adelson-florida-murder-plot-verdict-b2820463.html",
-      "urlToImage": "https://static.the-independent.com/2025/09/04/23/00/Screenshot-2025-09-04-at-7-48-35-PM.png?trim=0,192,0,204&width=1200&height=800&crop=1200:800",
-      "source": "The-independent.com",
+      "title": "V kolik hodin bude 7. až 8. září úplné zatmění měsíce – krvavý měsíc?",
+      "original_title": "What time is the blood moon total lunar eclipse on Sept. 7-8? - Space",
+      "url": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-blood-moon-total-lunar-eclipse-on-sept-7-8-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/isSTwK6qrF6FQoLf6SgHJL.jpg",
+      "source": "Space.com",
       "publishedAt": "2025-09-05T12:00:00Z",
-      "description": "Pětasedmdesátiletá Donna Adelson se rozhodla nevypovídat ve svůj prospěch"
+      "description": "Úplné zatmění Měsíce zbarví v noci z 7. na 8. září měsíc do krvavě červené barvy pro miliony lidí v Asii a Evropě. Zde jsou nejlepší časy pro sledování této podívané."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Travis Kelce vtipkuje o největší změně v životě po zasnoubení s Taylor Swift: ‚Mám na to ještě jeden prstýnek‘",
+      "title": "Travis Kelce vtipkuje o největší změně v životě od zásnub s Taylor Swift: ‚Mám za to ještě jeden prsten‘",
       "original_title": "Travis Kelce Jokes About the Biggest Change in His Life Since Taylor Swift Engagement: ‘I Got One More Ring For It’ - yahoo.com",
       "url": "http://www.billboard.com/music/music-news/travis-kelce-biggest-change-taylor-swift-engagement-ring-1236059702/",
       "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/taylor-swift-travis-kelce-super-bowl-2024-billboard-1800.jpg?w=1024",
       "source": "Billboard",
       "publishedAt": "2025-09-05T11:55:29Z",
-      "description": "Travis Kelce žertoval před brazilskými novináři, že největší změnou od zásnub s Taylor Swift je to, že má 'o jeden prsten víc'."
+      "description": "Travis Kelce žertoval před brazilskými novináři, že největší změnou od zásnub s Taylor Swift je to, že má o jeden prsten víc."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Stížnosti whistleblowerů uvádějí, že v NIH existuje odpor vůči vakcínám.",
+      "title": "Stížnosti whistleblowerů uvádějí, že v NIH je odpor vůči vakcínám",
       "original_title": "Whistleblower complaints allege resistance to vaccines within NIH - The Washington Post",
       "url": "https://www.washingtonpost.com/science/2025/09/05/whistleblower-complaints-nih-vaccines/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7PUSH4GH5CNJ4N4NUP6OISIA4I_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-05T11:31:02Z",
-      "description": "Dokumenty nabízejí pohled do probíhajícího převratu v Národních ústavech zdraví, v němž je do vědeckého procesu vloženo politické hodnocení."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Justin Bieber vydává nové album Swag II: Poslechněte si ho",
-      "original_title": "Justin Bieber Releases New Album Swag II : Listen - Pitchfork",
-      "url": "https://pitchfork.com/news/justin-bieber-releases-new-album-swag-ii-listen/",
-      "urlToImage": "https://media.pitchfork.com/photos/68badae54966860ac3e3fb57/16:9/w_1280,c_limit/Justin-Bieber.jpeg",
-      "source": "Pitchfork",
-      "publishedAt": "2025-09-05T11:28:50Z",
-      "description": "Dijon, Lil B, Tems, Mk.gee a další se podílejí na pokračování červencového alba"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Starbucks chce, aby jeho kavárny byly vstřícnější a přístupnější. Podívejte se na nedávnou rekonstrukci",
-      "original_title": "Starbucks wants its cafes to be more welcoming — and accessible. Take a look at a recent renovation - CNBC",
-      "url": "https://www.cnbc.com/2025/09/05/starbucks-cafe-renovations-accessible.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194304-1756996401660-DSC_1570.JPG?v=1756997678&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-05T11:00:01Z",
-      "description": "Starbucks do konce roku 2026 modernizuje tisíc svých kaváren."
+      "description": "Dokumenty poskytují pohled do probíhajícího převratu v Národních ústavech zdraví, kde byl do vědeckého procesu vložen politický dohled."
     },
     {
       "flag": "🌍",
@@ -120,23 +186,34 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4096x2304+0+896/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6c%2F8e9d5a0647359974679e937e0178%2Fgsfc-20171208-archive-e000829-orig.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-05T11:00:00Z",
-      "description": "Nejžhavější části Slunce jsou jeho erupce a nová studie naznačuje, že mohou být více než šestkrát teplejší, než vědci dosud předpokládali."
+      "description": "Nejžhavějšími částmi Slunce jsou jeho erupce, které mohou být více než šestkrát teplejší, než se dosud myslelo, tvrdí nová studie."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Oběti nehody lanovky v Lisabonu: Po neštěstí portugalské tramvaje, které zabilo 16 lidí, se pomalu odhaluje jejich národnost",
+      "title": "Národnosti obětí neštěstí lanovky v Lisabonu se postupně odhalují, při nehodě tramvaje v Portugalsku zemřelo 16 lidí",
       "original_title": "Lisbon funicular crash victims' nationalities slowly emerge after Portugal streetcar disaster that killed 16 - CBS News",
       "url": "https://www.cbsnews.com/news/lisbon-funicular-crash-victims-nationalities-emerge-portugal-streetcar-disaster/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/05/6eda239d-f83b-470a-a7bb-af72e888db1d/thumbnail/1200x630/2a47f39decfc57d4b0ea12f55e94a0e5/lisbon-funicular-crash-aftermath.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-05T10:40:00Z",
-      "description": "Mezi šestnácti oběťmi ničivé nehody tramvaje v portugalském hlavním městě byl alespoň jeden Američan a řada dalších cizinců."
+      "description": "Mezi šestnácti oběťmi ničivé nehody tramvaje v portugalském hlavním městě byl i nejméně jeden Američan a řada dalších cizinců."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jedna dávka LSD může dlouhodobě potlačovat úzkost",
+      "title": "Mírný růst indexu S&P 500 se mění před zprávou o zaměstnanosti za srpen: Živé aktualizace",
+      "original_title": "S&P 500 rise slightly changed ahead of August jobs report: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/09/04/stock-market-today-live-updates-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108157940-17496587762025-06-11t161821z_955827365_rc2e0fak4lbo_rtrmadp_0_usa-stocks.jpeg?v=1749658836&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-05T10:11:00Z",
+      "description": "Akciové futures byly v pátek smíšené, investoři čekají na klíčovou zprávu o mzdách mimo zemědělství."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jedna dávka LSD zbaví úzkosti na dlouhou dobu",
       "original_title": "'One and done' dose of LSD keeps anxiety at bay : Shots - Health News - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/05/nx-s1-5529325/one-dose-lsd-generalized-anxiety-disorder-psychedelics",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2Fa3%2Fd02daab94e12b4a55ba23afaeeef%2Fgettyimages-2180062660.jpg",
@@ -147,29 +224,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Thajský politik Anutin Charnvirakul zvítězil v parlamentní volbě a stane se příštím premiérem",
-      "original_title": "Veteran Thai politician Anutin Charnvirakul wins vote in Parliament to become next prime minister - AP News",
-      "url": "https://apnews.com/article/thailand-parliament-prime-minister-vote-23b2afb9bf815d918e11a47a33973ce3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/de18877/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9f%2Fca%2F7d8abb45192a37733428b4488a12%2Ff05e18279b894b4a88371fd2f5bd62b1",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-05T09:52:00Z",
-      "description": "Thajský veterán Anutin Charnvirakul byl zvolen premiérem v parlamentní volbě. Lídrovi strany Bhumjaithai stačilo 311 hlasů k dosažení většiny. On a jeho vláda by měli nastoupit do úřadu po formální..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trumpovo převzetí Washingtonu vedlo k více zatčením. NPR se podívala na případy zatčených.",
-      "original_title": "Trump's D.C. takeover has led to more arrests. NPR looks at cases of those swept up - NPR",
-      "url": "https://www.npr.org/2025/09/05/g-s1-86991/trump-dc-national-guard-police-federal-crime-stats",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5788x3256+0+302/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2F3d%2F88837a364a70bf1df2b40bdbdc69%2Fgettyimages-2233253061.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-05T09:00:00Z",
-      "description": "NPR prozkoumalo soudní záznamy a další údaje o Trumpově převzetí policie D.C., aby lépe pochopilo, kdo se ocitl v celostátní vlně zatýkání a jaká obvinění mu hrozí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Plány na druhý megazákoník GOP čelí rostoucí skepsi",
+      "title": "Plány na druhou megazákoník GOP čelí rostoucí skepsi",
       "original_title": "Plans for second GOP megabill face growing skepticism - Politico",
       "url": "https://www.politico.com/news/2025/09/05/second-megabill-doubts-republicans-00545855",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fcc%2F01%2F263db09f4d9e9d0f455db13f3216%2Fu-s-congress-95841.jpg",
@@ -180,57 +235,46 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Nové vypuknutí eboly v DR Kongo má na svědomí patnáct obětí",
+      "title": "Nový výskyt eboly v DR Kongo má patrně na svědomí 15 obětí",
       "original_title": "New Ebola outbreak in DR Congo suspected of causing 15 deaths - CNN",
       "url": "https://www.cnn.com/2025/09/05/africa/ebola-outbreak-dr-congo-intl",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-961014192.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-05T08:42:00Z",
-      "description": "V Kongu podezřelí z nového výskytu eboly z nákazy 28 lidí, 15 zemřelo"
+      "description": "Nový výskyt eboly v Kongu má podle úřadů patrně na svědomí 15 obětí"
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Galaxy S26 Ultra by se mohl vrátit ke kořenům Galaxy S21 Ultra",
-      "original_title": "Galaxy S26 Ultra could revisit Samsung's Galaxy S21 Ultra roots - SamMobile",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-revisit-s21-ultra-roots/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-Ultra-review-display-3-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2025-09-05T06:56:00Z",
-      "description": "Samsung od příštího roku mění svou řadu Galaxy S. Podle zvěstí Galaxy S25 nahradí Galaxy S26 Pro a Galaxy S25+ vystřídá Galaxy S26 Edge. Změny čekají i Galaxy S26 Ultra, včetně…"
+      "title": "Nové herní zařízení Lenovo Legion, tablety s umělou inteligencí a software využívající AI ukazují, jak se Lenovo zavázalo nabízet to nejlepší z možností pro zákazníky",
+      "original_title": "New Lenovo Legion Gaming Devices, AI Tablets, and AI-Powered Software Showcase Lenovo’s Commitment to Offering the Best in Customer Choice - Lenovo StoryHub",
+      "url": "https://news.lenovo.com/pressroom/press-releases/legion-gaming-devices-ai-tablets-software-best-in-customer-choice/",
+      "urlToImage": "https://news.lenovo.com/wp-content/uploads/2025/09/18_Legion_Ecosystem_Legion-Go-FPS-Mode-scaled.jpg",
+      "source": "Lenovo.com",
+      "publishedAt": "2025-09-05T06:08:24Z",
+      "description": "Na akci Lenovo Innovation World 2025 představil Lenovo nejnovější herní zařízení, spotřebitelské tablety a software včetně řady nových zařízení, monitorů a softwaru Legion a LOQ s procesory AMD."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Legion Go 2 je oficiální: Nový vlajkový handheld od Lenova stojí 1099 dolarů a více",
-      "original_title": "Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up - The Verge",
-      "url": "https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257842_Lenovo_Legion_Go_2_IFA2025_ADiBenedetto_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Lenovo aktualizuje své nejvýkonnější a nejmasivnější notebooky",
+      "original_title": "Lenovo updates its beefiest and bulkiest laptops - The Verge",
+      "url": "https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257935_Lenovo_IFA__CVirginia.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-05T06:00:00Z",
-      "description": "Nový Lenovo Legion Go 2 je vlajkovou lodí společnosti mezi handheldy s vylepšeným displejem a baterií — ale také o něco větší, těžší a dražší."
+      "description": "Lenovo aktualizovalo své robustní pracovní stanice ThinkPad P16 a P1 nejnovějšími procesory Arrow Lake."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nový koncept notebooku od Lenova má výklopný displej ideální pro doomscrolling",
-      "original_title": "Lenovo’s new concept laptop has a rotating screen that’s perfect for doomscrolling - The Verge",
-      "url": "https://www.theverge.com/news/771907/lenovo-thinkbook-vertiflex-concept-laptop-vertical-screen-specs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257842_Lenovo_ThinkBook_VertiFlex_Concept_IFA2025_ADiBenedetto_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-05T06:00:00Z",
-      "description": "Praktické seznámení s konceptem Lenovo ThinkBook VertiFlex – notebookem s 14palcovou obrazovkou, kterou lze otočit do svislé orientace"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump chce přejmenovat ministerstvo obrany na ministerstvo války",
-      "original_title": "Trump to rebrand Defense Department as War Department - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/04/trump-war-department/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C2AHDFT7Q6PKPJMTQH5YWNVWZQ_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-05T03:21:14Z",
-      "description": "Trump by měl v pátek podepsat exekutivní příkaz, není však jasné, zda může trvale změnit název agentury bez schválení Kongresem."
+      "title": "PBS po snížení federálního financování propouští 15 % pracovníků",
+      "original_title": "PBS cuts 15% of jobs in wake of federal funding cut - NPR",
+      "url": "https://www.npr.org/2025/09/04/nx-s1-5529431/pbs-cuts-15-of-jobs-in-wake-of-federal-funding-cut",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6503x3658+0+340/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F80%2Fd7eb3a8f4ca583842cb4f2bcfb28%2Fpbs-getty.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-05T03:40:27Z",
+      "description": "Po snížení financování veřejnoprávních médií Kongresem propustí PBS 15 % zaměstnanců, tedy přes 100 lidí."
     },
     {
       "flag": "🌍",
@@ -241,62 +285,29 @@
       "urlToImage": "https://wwd.com/wp-content/uploads/2025/09/081613-WW-Armani.jpg?crop=0px%2C417px%2C1498px%2C839px&resize=1000%2C563",
       "source": "WWD",
       "publishedAt": "2025-09-05T01:07:30Z",
-      "description": "Designéři, obchodníci z celého světového módního průmyslu a hollywoodské hvězdy oceňovali návrhářův odkaz, vizi a průkopnický styl."
+      "description": "Designéři, obchodníci z celého světového módního průmyslu a hvězdy Hollywoodu oceňovali odkaz, vizi a průkopnický styl tohoto návrháře."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Neoficiální žebříček tržních trháků na TIFFu zahrnuje Angelinu Jolie, Sydney Sweeneyovou a Chrise Evanse",
-      "original_title": "TIFF’s (Unofficial) Market Hot List Features Angelina Jolie, Sydney Sweeney, and Chris Evans - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-features/toronto-2025-hot-list-buyers-1236358623/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/24fea_toronto_hotlist-SPLASH-2025.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-05T01:07:30Z",
-      "description": "Před oficiálním trhem na TIFF v příštím roce letos nabízí žhavé projekty prestižní thrillery, dramata s hvězdným obsazením a mrtvolu či dvě."
+      "title": "‘The Conjuring: Poslední pomazání’ míří k posvátným 7 milionům dolarů z předpremiérových čtvrtečních projekcí – tržby kin",
+      "original_title": "‘The Conjuring: Last Rites’ Heading To Holy $7M+ In Thursday Night Previews – Box Office - Deadline",
+      "url": "http://deadline.com/2025/09/box-office-conjuring-the-last-rites-1236508461/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/MCDCOLA_WB002.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-05T00:01:00Z",
+      "description": "Svatých 7 až 8 milionů dolarů. Takový je čtvrteční tržba filmu Poslední exorcismus od New Line, který o víkendu může vydělat až 40 milionů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "4 klíčové momenty z kontroverzního slyšení RFK Jr. s senátory",
-      "original_title": "4 major moments from RFK Jr.’s contentious hearing with senators - PBS",
-      "url": "https://www.pbs.org/newshour/politics/4-major-moments-from-rfk-jr-s-contentious-hearing-with-senators",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2233024519-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-05T00:30:46Z",
-      "description": "Ministr zdravotnictví Robert F. Kennedy Jr. byl ve čtvrtek v centru bouře, když senátoři včetně těch, kteří hlasovali pro jeho jmenování, vznesli naléhavé otázky k jeho agendě v oblasti veřejného z..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Republikáni v Senátu čelí nečekanému novému dilematu Fedu",
-      "original_title": "Senate Republicans face a surprise new Fed dilemma - Politico",
-      "url": "https://www.politico.com/news/2025/09/04/senate-republicans-fed-miran-00544979",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7e%2Fa5%2Fd06b4f824ac289aab63b644603af%2Fsenate-federal-reserve-61555.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-04T22:42:29Z",
-      "description": "Zákonodárci Republikánské strany nadále dávají Bílému domu důvěru."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Bolest vás trápí? Sanjay Gupta vysvětluje, proč „nemusí bolet“",
-      "original_title": "Experiencing pain? Sanjay Gupta explains why 'It Doesn't Have to Hurt' - NPR",
-      "url": "https://www.npr.org/2025/09/04/nx-s1-5527017/sanjay-gupta-pain",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/12345x6937+346+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F15%2F9c0286e045d9b16730b4412c3143%2Fgettyimages-1321931669.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-04T19:49:06Z",
-      "description": "Guptaova nová kniha zkoumá svět bolesti – proč ji cítíme a jak ji můžeme léčit. Říká, že rozptýlení a meditace mohou být užitečnými nástroji pro zvládání určitých typů bolesti."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kde pozorovat zatmění měsíce 7. až 8. září",
-      "original_title": "Where to see the blood moon lunar eclipse Sept. 7–8 - Space",
-      "url": "https://www.space.com/stargazing/lunar-eclipses/where-to-see-the-blood-moon-lunar-eclipse-sept-7-8",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2GELKRRYQeUeXgkfdyjT86.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-04T12:00:00Z",
-      "description": "Září 2025 přinese úplné zatmění Měsíce a krvavý úplněk do Asie, Austrálie, Afriky a Evropy"
+      "title": "Mapa 600 000 mozkových buněk přepisuje učebnice o tom, jak mozek rozhoduje",
+      "original_title": "Map of 600,000 brain cells rewrites the textbook on how the brain makes decisions - Live Science",
+      "url": "https://www.livescience.com/health/neuroscience/map-of-600-000-brain-cells-rewrites-the-textbook-on-how-the-brain-makes-decisions",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YoDmPuscjctvCjjTYybBje.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-09-04T16:34:53Z",
+      "description": "Nový výzkum ukazuje, že mozková aktivita při rozhodování je mnohem rozšířenější, než se původně myslelo."
     }
   ]
 }
