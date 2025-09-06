@@ -1,82 +1,71 @@
 {
-  "last_updated": "2025-09-06T10:16:05",
+  "last_updated": "2025-09-06T11:12:32",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Co potřebujete vědět o vykolejení tramvaje v Lisabonu",
-      "original_title": "What to know about the streetcar derailment in Lisbon - AP News",
-      "url": "https://apnews.com/article/lisbon-streetcar-deadly-derailment-what-to-know-c3637a52a4df5e3dd3563e845a342278",
-      "urlToImage": "https://dims.apnews.com/dims4/default/bf21207/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2Ffb%2Fe5159a953fe13eaed3e6c6c467ea%2Fd281514a0f0d438796448a24eb4c0ebb",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-05T08:34:00Z",
-      "description": "Vyjetí tramvaje v portugalském hlavním městě si vyžádalo 16 obětí a 21 zraněných. Jde o jednu z nejhorších lisabonských tragédií v nové historii."
+      "title": "Trumpovo manévrování v newyorské volební kampani podněcuje snahu demokratů sjednotit se za Mamdanim",
+      "original_title": "Trump’s maneuvering in NYC mayor’s race fuels push for Democrats to unite behind Mamdani - Politico",
+      "url": "https://www.politico.com/news/2025/09/05/trumps-maneuvering-in-nyc-mayors-race-fuels-push-for-democrats-to-unite-behind-mamdani-00545543",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffb%2Fca%2F49474393414d841ee2ca0e4516d2%2Fgettyimages-2228950425.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-05T09:00:00Z",
+      "description": "Demokratičtí lídři dosud nepřijali demokratického socialistu za kandidáta strany na post starosty."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Legion Go 2 oficiálně: Nový vlajkový handheld od Lenova stojí 1099 dolarů — a více",
+      "title": "Jihokorejští občané zadrženi při razii ICE v továrně Hyundai v Georgii",
+      "original_title": "South Korean nationals detained in ICE raid on Hyundai facility in Georgia - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/ice-hyundai-plant-georgia-enforcement-action-rcna229148",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-Hyundai-Ellabell-rs-6ae458.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-05T08:46:00Z",
+      "description": "Společnost z žebříčku Fortune 500 potvrdila přítomnost strážníků na stavení společného podniku LG Energy Solution a Hyundai na výrobu baterií v Ellabell."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Legion Go 2 je oficiální: nový vlajkový handheld od Lenova stojí 1099 dolarů a více",
       "original_title": "Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up - The Verge",
       "url": "https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257842_Lenovo_Legion_Go_2_IFA2025_ADiBenedetto_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-05T06:00:00Z",
-      "description": "Nový Lenovo Legion Go 2 je vlajkovou lodí společnosti mezi handheldy s vylepšeným displejem a baterií — ale také o něco větší, těžší a dražší."
+      "description": "Nový Lenovo Legion Go 2 je vlajkovou lodí společnosti mezi handheldy s vylepšeným displejem a baterií — ale také trochu větší, těžší a dražší."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie v Asii rostou s pozorností na americká data o mzdách; Japonsko posiluje díky obchodnímu optimismu",
+      "title": "Akcie v Asii rostou s pozorností na americká data o zaměstnanosti; Japonsko posiluje díky obchodnímu optimismu",
       "original_title": "Asia stocks rise with US payrolls in focus; Japan up on trade optimism - Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-with-us-payrolls-in-focus-japan-up-on-trade-optimism-4225919",
       "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BG_L.jpg",
       "source": "Investing.com",
       "publishedAt": "2025-09-05T05:15:00Z",
-      "description": "Akciové trhy v Asii rostou s očekáváním zpráv o zaměstnanosti v USA, Japonsko posiluje díky obchodnímu optimismu"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Prezident Northwesternu rezignoval kvůli škrtům ve financování a jednáním s Bílým domem",
-      "original_title": "Northwestern president resigns amid funding cuts, White House negotiations - The Washington Post",
-      "url": "https://www.washingtonpost.com/education/2025/09/04/northwestern-university-president-resigns-trump/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NIC6OIDDI3UOV2TE7Y7VYDP5GY_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-05T05:14:39Z",
-      "description": "Vláda zmrazila téměř 800 milionů dolarů financování školy. Její prezident Michael Schill odchod oznámil s odkazem na „obtížné problémy“ na federální úrovni."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Ministerstvo spravedlnosti vyslalo předvolání zaměřené na členku Fedu, kterou se Trump snaží odvolat",
-      "original_title": "Justice Department issues subpoenas targeting Fed governor Trump is trying to oust - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/04/cook-trump-fed-fight-lisa-cook/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQLQI7T2LD4U3U64TR2VOREQYQ.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-05T03:52:00Z",
-      "description": "Pokud soudce dočasně umožní, aby zůstala v radě Fedu, čelí Lisa Cook nevyřešeným obviněním a politickému tlaku, který by mohl zkomplikovat její práci."
+      "description": "Asijské akcie rostou s pozorností na americká data o zaměstnanosti; Japonsko posiluje díky obchodnímu optimismu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sam Altman, Tim Cook a další technologičtí lídři ocenili Trumpa na večeři Bílého domu o umělé inteligenci",
+      "title": "Váš denní horoskop: 5. září 2025",
+      "original_title": "Your daily horoscope: September 5, 2025 - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-5-2025/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/U5TPCH7TMBG2FAF6463KGMHHGY.png?auth=ef792eb9bee4c8107e033dc830aa01f6cdd55811c51a559726bc2d115d014d2d&width=1200&height=800&quality=80&smart=true",
+      "source": "The Globe And Mail",
+      "publishedAt": "2025-09-05T04:01:00Z",
+      "description": "Váš denní horoskop na pátek 5. září 2025"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Sam Altman, Tim Cook a další technologičtí lídři chválili Trumpa na večeři o AI v Bílém domě",
       "original_title": "Sam Altman, Tim Cook, and Other Tech Leaders Lauded Trump at a White House AI Dinner - Business Insider",
       "url": "https://www.businessinsider.com/whos-who-tech-leaders-attended-dinner-white-house-altman-pichai-2025-9",
       "urlToImage": "https://i.insider.com/68ba3a4e57d362d375e79144?width=1200&format=jpeg",
       "source": "Business Insider",
       "publishedAt": "2025-09-05T03:27:00Z",
-      "description": "Vedoucí představitelé Googlu a OpenAI se sešli v Bílém domě na akci o vzdělávání v oblasti AI a během večeře chválili prezidenta Donalda Trumpa."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Thajský ‚král konopí‘ se blíží k postu premiéra",
-      "original_title": "Thailand’s ‘cannabis king’ poised to be next prime minister - Financial Times",
-      "url": "https://www.ft.com/content/b90ee7c4-b655-486b-827a-c1f5175d63b8",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99a6c140-ddd2-4a69-915e-171c6ada9939.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-05T03:22:30Z",
-      "description": "Bývalý ministr zdravotnictví Anutin Charnvirakul je favoritem na nahrazení sesazených Šinávarů, slíbil však nové volby"
+      "description": "Vedoucí představitelé Googlu a OpenAI se sjeli do Bílého domu na akci o umělé inteligenci a při večeři chválili prezidenta Donalda Trumpa."
     },
     {
       "flag": "🇺🇸",
@@ -87,40 +76,29 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C2AHDFT7Q6PKPJMTQH5YWNVWZQ_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-05T03:21:14Z",
-      "description": "Trump by měl v pátek podepsat exekutivní nařízení, není však jasné, zda může trvale změnit název úřadu bez zákona od Kongresu."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Vzácný a smrtící 'kissing bug' se šíří po USA; Vše o Chagasově chorobě, která může způsobit fatální selhání srdce",
-      "original_title": "Rare and deadly 'kissing bug' spreading across US; All about the Chagas disease that can cause fatal hear - Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/rare-and-deadly-kissing-bug-spreading-across-us-all-about-the-chagas-disease-that-can-cause-fatal-heart-attacks-and-strokes/articleshow/123709329.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-123709325,width-1070,height-580,imgsize-56838,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "source": "The Times of India",
-      "publishedAt": "2025-09-05T01:31:00Z",
-      "description": "Chagasova choroba přenášená zákeřnicí se tiše šíří po USA, potvrzena již ve více než 30 státech. Včasná detekce je klíčová, protože pa"
+      "description": "Trump by měl v pátek podepsat exekutivní příkaz, není však jisté, zda může trvale změnit název agentury bez schválení zákona Kongresem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zvýšili jsme cílovou cenu akcií Broadcom po růstu, který způsobila konferenční hovor",
-      "original_title": "We raised our Broadcom price target after a stock pop that was all about the conference call - CNBC",
-      "url": "https://www.cnbc.com/2025/09/04/we-raised-our-broadcom-price-target-after-a-stock-pop-that-was-all-about-the-conference-call.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108075459-1734045037227-gettyimages-2189656779-075a6757_wegh5q6p.jpeg?v=1757032977&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-05T00:53:00Z",
-      "description": "Přestože výsledky a výhled byly skvělé, nejdůležitější byl komentář během konferenčního hovoru"
+      "title": "Svět reaguje na smrt Giorgia Armaniho",
+      "original_title": "The World Reacts to the Death of Giorgio Armani - WWD",
+      "url": "http://wwd.com/fashion-news/designer-luxury/world-reacts-to-the-death-of-giorgio-armani-1238110015/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2025/09/081613-WW-Armani.jpg?crop=0px%2C417px%2C1498px%2C839px&resize=1000%2C563",
+      "source": "WWD",
+      "publishedAt": "2025-09-05T01:07:30Z",
+      "description": "Designéři, obchodníci z celosvětového módního průmyslu a hollywoodské hvězdy oceňovali odkaz, vizi a průkopnický styl návrháře."
     },
     {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Stav Erin Bates se zhoršuje: Manžel tvrdí, že hvězda seriálu „Bringing Up Bates“ prodělala „těžký záchvat“ po septickém šoku při porodu sedmého dítěte - The Ashley's Reality Roundup",
-      "original_title": "Erin Bates’ Condition Worsens: Husband Says ‘Bringing Up Bates’ Star Suffered “Severe Seizure” After Going Into Septic Shock from Birth of Seventh Child - The Ashley's Reality Roundup",
-      "url": "https://www.theashleysrealityroundup.com/2025/09/04/erin-bates-condition-worsens-husband-says-bringing-up-bates-star-suffered-severe-seizure-after-going-into-septic-shock-from-birth-of-seventh-child/",
-      "urlToImage": "https://s17077.pcdn.co/wp-content/uploads/2025/09/erin-bates-health-2025.jpg",
-      "source": "Theashleysrealityroundup.com",
-      "publishedAt": "2025-09-05T00:42:37Z",
-      "description": "Chad Paine zveřejnil dlouho očekávanou aktualizaci o zdravotním stavu své ženy Eriny Batesové Paineové poté, co se objevily zprávy, že hvězda show „Bringing Up Bates“ upadla po porodu do septického..."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Na (neoficiálním) seznamu tržních trháků festivalu TIFF jsou Angelina Jolie, Sydney Sweeney a Chris Evans",
+      "original_title": "TIFF’s (Unofficial) Market Hot List Features Angelina Jolie, Sydney Sweeney, and Chris Evans - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-features/toronto-2025-hot-list-buyers-1236358623/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/24fea_toronto_hotlist-SPLASH-2025.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-05T01:07:30Z",
+      "description": "Před oficiálním trhem na TIFF v příštím roce letos nabízíme žhavé projekty včetně prestižních thrillerů, dramat s hvězdným obsazením a mrtvolu či dvě."
     },
     {
       "flag": "🌍",
@@ -131,7 +109,7 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/673341f/2147483647/strip/true/crop/1280x720+0+67/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F25%2F30%2F6c819e6b540b9b88bfbf6fd79e23%2F787e85f5694148158e0b219867fefdb1",
       "source": "Associated Press",
       "publishedAt": "2025-09-05T00:36:00Z",
-      "description": "Pozorování teleskopu odhalují rostoucí ohon komety, která k nám zavítala z jiné hvězdy"
+      "description": "Pozorování teleskopu odhalilo rostoucí ohon komety, která k nám přiletěla z jiné hvězdy"
     },
     {
       "flag": "🌍",
@@ -142,34 +120,23 @@
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2233024519-1024x683.jpg",
       "source": "PBS",
       "publishedAt": "2025-09-05T00:30:46Z",
-      "description": "Ministr zdravotnictví Robert F. Kennedy Jr. byl ve čtvrtek v centru bouřlivé kritiky, když senátoři včetně těch, kteří hlasovali pro jeho schválení, kladli naléhavé otázky ohledně jeho agendy v obl..."
+      "description": "Ministr zdravotnictví Robert F. Kennedy Jr. byl ve čtvrtek v centru bouře, když senátoři včetně těch, kteří hlasovali pro jeho jmenování, kladli naléhavé otázky ohledně jeho agendy v oblasti veřejn..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "4 nejlepší gadgety, které jsem viděl na veletrhu IFA 2025 (včetně těch, které si můžete skutečně koupit)",
-      "original_title": "The 4 coolest gadgets I've seen at IFA 2025 (including ones you can actually buy) - ZDNET",
-      "url": "https://www.zdnet.com/article/the-4-coolest-gadgets-ive-seen-at-ifa-2025-including-ones-you-can-actually-buy/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/dd7785372b76a7a78aa3729d68f92400e2ddbed3/2025/09/04/0d17ce45-726d-4a43-801d-8ef1fae38ef9/img-5876.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-09-04T23:38:00Z",
-      "description": "Veletrh IFA představuje nové technologické inovace a tyto mě opravdu nadchly (a nejsou to jen samé AI žvásty.)"
+      "title": "Čínský Si a severokorejský Kim se během setkání v Pekingu zavázali k prohloubení vztahů",
+      "original_title": "China’s Xi and North Korea’s Kim pledge deeper ties during meeting in Beijing - AP News",
+      "url": "https://apnews.com/article/china-north-korea-kim-xi-meeting-a7c380c34f3d13d6670edfc07b3ed2be",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7d77baa/2147483647/strip/true/crop/5000x2813+0+253/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2Fae%2Ffe6290d1db15f46573c9ec4092db%2Fb057bf0985fb415f89c82f26eac9db63",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-04T23:12:00Z",
+      "description": "Čínský prezident Si Ťin-pching a severokorejský vůdce Kim Čong-un se při jednáních v Pekingu zavázali k vzájemné podpoře a posílení spolupráce. Setkání se uskutečnilo ve čtvrtek po přehlídce k ukon..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zanikla Dunder Mifflin? Jak „Papír“ vysvětluje osud firmy z „The Office“",
-      "original_title": "Did Dunder Mifflin Shut Down? How ‘The Paper’ Explains the Fate of ‘The Office’ Business - Variety",
-      "url": "https://variety.com/2025/tv/news/did-dunder-mifflin-shut-down-the-office-fate-the-paper-1236508428/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/TCDOFFI_EC059-e1757011016199.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-04T23:00:00Z",
-      "description": "Nový seriál Peacock „The Paper“ vysvětluje, co se stalo s „The Office“, včetně toho, zda Dunder Mifflin zkrachoval."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ministerstvo spravedlnosti zvažuje pravidlo, které by mohlo omezit transgender osoby v držení zbraní, uvádějí zdroje",
+      "title": "Ministerstvo spravedlnosti zvažuje pravidlo, které by mohlo omezit transgender osoby v držení zbraní, tvrdí zdroje",
       "original_title": "DOJ mulling rule that could restrict transgender individuals from owning guns: Sources - ABC News",
       "url": "https://abcnews.go.com/US/doj-mulling-rule-restrict-transgender-individuals-owning-guns/story?id\\\\u003d125268875",
       "urlToImage": null,
@@ -180,7 +147,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Facebook se znovu snaží ožibit ‚pokes‘",
+      "title": "Facebook se znovu pokouší oživit funkci ‚píchnutí‘",
       "original_title": "Facebook is trying to make ‘pokes’ happen again - TechCrunch",
       "url": "https://techcrunch.com/2025/09/04/facebook-is-trying-to-make-pokes-happen-again/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/12/facebook-poke-icon.jpg?resize=1200,675",
@@ -191,18 +158,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "16. epidemie viru Ebola v oblasti zdravotnictví Bulape, Kasai, Demokratická republika Kongo: Nový přenos z neznámého hostitele rezervoáru",
+      "title": "16. epidemie onemocnění virem Ebola v oblasti zdravotnictví Bulape, Kasai, Demokratická republika Kongo: Nový přenos z neznámého hostitele rezervoáru",
       "original_title": "The 16th Ebola Virus Disease Outbreak in Bulape Health Zone, Kasai, Democratic Republic of the Congo: A new spillover event from an unknown reservoir host - Virological",
       "url": "https://virological.org/t/the-16th-ebola-virus-disease-outbreak-in-bulape-health-zone-kasai-democratic-republic-of-the-congo-a-new-spillover-event-from-an-unknown-reservoir-host/1003",
       "urlToImage": "https://virological.org/uploads/default/optimized/2X/b/b1fba62640c8677812faaf0ecef644cc32e459e5_2_1024x553.png",
       "source": "Virological.org",
       "publishedAt": "2025-09-04T20:28:13Z",
-      "description": "Pozadí Demokratická republika Kongo (DRK) v současné době čelí současným vypuknutím nemocí, včetně opičích neštovic, cholery a malárie (1-4). Ministerstvo veřejného zdraví DRK vyhlásilo 4. září 202..."
+      "description": "Pozadí Demokratická republika Kongo (DRK) v současné době čelí současným vypuknutím nákaz včetně opičích neštovic, cholery a malárie (1-4). Ministerstvo veřejného zdraví DRK vyhlásilo 16. vypuknutí..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Rusko varuje, když evropští lídři a Zelenskyj mluví z Paříže s Trumpem",
+      "title": "Rusko varuje, zatímco evropští lídři a Zelenskyj mluví s Trumpem z Paříže",
       "original_title": "Russia issues warning as European leaders, Zelenskyy speak to Trump from Paris - ABC News",
       "url": "https://abcnews.go.com/International/russia-issues-warning-european-leaders-zelenskyy-gather-paris/story?id\\\\u003d125244319",
       "urlToImage": null,
@@ -213,35 +180,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bolest vás trápí? Sanjay Gupta vysvětluje, proč „nemusí to bolet“",
+      "title": "Bolest vás sužuje? Sanjay Gupta vysvětluje, proč „nemusíte trpět“.",
       "original_title": "Experiencing pain? Sanjay Gupta explains why 'It Doesn't Have to Hurt' - NPR",
       "url": "https://www.npr.org/2025/09/04/nx-s1-5527017/sanjay-gupta-pain",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/12345x6937+346+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F15%2F9c0286e045d9b16730b4412c3143%2Fgettyimages-1321931669.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-04T19:49:06Z",
-      "description": "Guptaova nová kniha zkoumá svět bolesti – proč ji cítíme a jak ji můžeme léčit. Říká, že rozptýlení a meditace mohou být užitečnými nástroji pro zvládání určitých typů bolesti."
+      "description": "Guptova nová kniha zkoumá svět bolesti – proč ji cítíme a jak ji můžeme léčit. Říká, že rozptýlení a meditace mohou být užitečnými nástroji pro zvládání některých typů bolesti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Black Bear oznamuje film ‘Christy’ se Sydney Sweeney jako svůj první kinodistribuční titul v USA na začátek listopadu – TIFF",
-      "original_title": "Black Bear Sets Sydney Sweeney ‘Christy’ As Its First U.S. Theatrical Release For Early November – TIFF - Deadline",
-      "url": "http://deadline.com/2025/09/sydney-sweeney-christy-black-bear-release-date-1236507837/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Christy.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-04T19:06:00Z",
-      "description": "Black Bear financoval snímek ‚Christy‘ a v listopdu uvede film se Sydney Sweeney."
+      "title": "Trumpův nominant do Fedu by si podržel svou práci v Bílém domě, i kdyby ho Senát potvrdil",
+      "original_title": "Trump’s Fed nominee says he’d keep his White House job even if confirmed by the Senate - AP News",
+      "url": "https://apnews.com/article/federal-reserve-trump-miran-independence-powell-4b1e7a52e6f943de392a32b1ae10a5d7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a313664/2147483647/strip/true/crop/2215x1246+0+116/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2Fff%2F8d215a1cbf08efd0409b8478396e%2F1d3e90a2a5344af0a3b6d07804eef735",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-04T19:32:00Z",
+      "description": "Stephen Miran, Trumpův kandidát do Rady Federálního rezervního systému, zůstane zaměstnancem Bílého domu i po případném schválení Senátem"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Izrael popírá hladomor a hrozí dalšími omezeními pomoci pro Gazu",
+      "title": "LSD vykazuje potenciál pro snížení úzkosti v pokročilé studii výrobce léčiv",
+      "original_title": "LSD shows promise for reducing anxiety in drugmaker’s midstage study - AP News",
+      "url": "https://apnews.com/article/lsd-psychedelics-study-anxiety-fda-drugs-trump-8821f7f3683051506d47864db5e5edcf",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9f7fe64/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2F7e%2Fc4d7b120361a5064134d912f04f0%2F67499211016f4b809f89bca0adcc59ed",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-04T18:40:00Z",
+      "description": "Studie halucinogenu LSD prokázala pozitivní výsledky při zmírnění úzkostné poruchy"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Izrael popírá hladomor a hrozí dalšími omezeními pomoci Gaze",
       "original_title": "Denying famine, Israel threatens more curbs on Gaza aid - NPR",
       "url": "https://www.npr.org/2025/09/04/g-s1-86841/gaza-aid-famine-hunger-israel",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7405x4165+0+386/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F4e%2Fe4590424484eabc827ad0d4e2f0b%2Fgettyimages-2232989457.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-04T17:17:55Z",
-      "description": "Navzdory tvrzení expertů, že v Gaze začal hladomor, Izrael hrozí dalšími omezeními dodávek pomoci. Podle humanitárních skupin zpřísnění restrikcí krizi hladu ještě prohloubí."
+      "description": "Navzdory tvrzení expertů, že v Gaze začal hladomor, Izrael hrozí dalšími omezeními dodávek pomoci. Podle humanitárních organizací zpřísnění restrikcí prohloubí hladovou krizi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Justin Bieber odhalil, že album ‚Swag II‘ přijde ještě dříve, než čekáte",
+      "original_title": "Justin Bieber Reveals ‘Swag II’ Album Coming Even Sooner Than You Think - Billboard",
+      "url": "http://www.billboard.com/music/music-news/justin-bieber-swag-2-album-reveal-release-1236057940/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/07/Justin-Bieber-Renell-Medrano-2025-press-billboard-1800.jpg?w=1024",
+      "source": "Billboard",
+      "publishedAt": "2025-09-04T17:15:00Z",
+      "description": "Justin Bieber oznámil, že jeho album 'Swag 2' vychází už za několik hodin."
     },
     {
       "flag": "🌍",
@@ -252,40 +241,29 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/the-cosmic-giant-chall.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-04T16:10:05Z",
-      "description": "Vědci objevili obří černou díru, která podle nich mohla vzniknout v prvních mikrosekundách po Velkém třesku"
+      "description": "Vědci objevili obří černou díru, která mohla vzniknout v prvních mikrosekundách po Velkém třesku"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Čínská vojenská přehlídka představila nové námořní rakety a drony - navalnews.com",
-      "original_title": "Chinese Military Parade Details New Naval Missiles, Drones - navalnews.com",
-      "url": "https://www.navalnews.com/naval-news/2025/09/chinese-military-parade-highlights-naval-drones-and-missiles/",
-      "urlToImage": "https://www.navalnews.com/wp-content/uploads/2025/09/16407463_077c3f586de18fbeabc14b9a7f7a0e3a.png",
-      "source": "Navalnews.com",
-      "publishedAt": "2025-09-04T15:23:08Z",
-      "description": "Čínská vojenská přehlídka v Pekingu v roce 2025 představila řadu nových raket a dronů, což zdůrazňuje zrychlující se modernizaci námořnictva."
+      "title": "Hands-on: Nový X40 Turbo od Kuxiu přináší rychlé 25W nabíjení Qi2.2 pro váš iPhone – 9to5Mac",
+      "original_title": "Hands-on: Kuxiu’s new X40 Turbo brings Qi2.2 fast 25W charging to your iPhone - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/04/hands-on-kuxius-new-x40-turbo-brings-qi2-2-fast-25w-charging-to-your-iphone/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/fernando-qi2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-04T14:55:00Z",
+      "description": "První nabíječka na světě s Qi2.2 a výkonem 25W – Kuxiu X40 Turbo nabízí bleskově rychlé bezdrátové nabíjení pro iPhone 16, Watch i AirPods."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V Powerball se jackpot zvýšil na 1,7 miliardy dolarů, losy ze SC vyhrály ve středu - WIS News 10",
-      "original_title": "Powerball jackpot increases to $1.7B, SC tickets win from Wednesday drawing - WIS News 10",
-      "url": "https://www.wistv.com/2025/09/04/powerball-jackpot-increases-17b-sc-tickets-win-wednesday-drawing/",
-      "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/XVA7GIQTVZFSVD5PA2J4Y3GA7M.jpg?auth=3b70d0cd43fe5cd754b6967dd4e6aba9187d4be67caba3c63335b15c2f26a49d&width=1200&height=600&smart=true",
-      "source": "WIS10",
-      "publishedAt": "2025-09-04T14:41:00Z",
-      "description": "Jackpot Powerball se blíží k novému rekordu, třetí nejvyšší výhra bude v sázce v sobotním slosování."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kde pozorovat zatmění krvavého Měsíce 7. a 8. září",
+      "title": "Kde pozorovat zatmění krvavého Měsíce 7. až 8. září",
       "original_title": "Where to see the blood moon lunar eclipse Sept. 7–8 - Space",
       "url": "https://www.space.com/stargazing/lunar-eclipses/where-to-see-the-blood-moon-lunar-eclipse-sept-7-8",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/2GELKRRYQeUeXgkfdyjT86.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-04T12:00:00Z",
-      "description": "Úplné zatmění Měsíce v září 2025 přinese krvavě rudý měsíc na oblohu nad Asií, Austrálií, Afrikou a Evropou — pokud budete vědět, kam se dívat."
+      "description": "Úplné zatmění Měsíce v září 2025 přinese krvavý úplněk na oblohu nad Asií, Austrálií, Afrikou a Evropou — pokud budete vědět, kam se dívat."
     },
     {
       "flag": "🌍",
@@ -296,7 +274,7 @@
       "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt_240718_splenda_sugar_substitute_800x450.jpg",
       "source": "Medscape",
       "publishedAt": "2025-09-04T10:30:00Z",
-      "description": "Umělá sladidla nemusí být tak neškodnou alternativou k cukru, jak se mnozí domnívají, zejména pokud jde o zdraví mozku, naznačuje přelomová studie."
+      "description": "Umělá sladidla nemusí být neškodnou alternativou k cukru, jak se mnozí domnívají, zejména pokud jde o zdraví mozku, naznačuje přelomová studie."
     }
   ]
 }
