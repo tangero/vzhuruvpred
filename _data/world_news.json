@@ -1,6 +1,160 @@
 {
-  "last_updated": "2025-09-06T20:17:06",
+  "last_updated": "2025-09-06T21:13:57",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Posílení snah o ochranu amerických občanů před neoprávněným zadržením v zahraničí - Bílý dům (.gov)",
+      "original_title": "STRENGTHENING EFFORTS TO PROTECT U.S. NATIONALS FROM WRONGFUL DETENTION ABROAD - The White House (.gov)",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/09/strengthening-efforts-to-protect-u-s-nationals-from-wrongful-detention-abroad/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
+      "source": "Whitehouse.gov",
+      "publishedAt": "2025-09-05T21:57:43Z",
+      "description": "Na základě pravomocí svěřených mi Ústavou a zákony Spojených států amerických, včetně zákona Roberta Levinsona o rukojmích,"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Starosta New Yorku Adams trvá na kandidatuře, útočí na „dvě rozmazlené spratky, kteří se ucházejí o post starosty“",
+      "original_title": "NYC Mayor Adams insists he's staying in the race, blasts \"two spoiled brats running for mayor\" - CBS News",
+      "url": "https://www.cbsnews.com/newyork/news/nyc-mayor-eric-adams-may-leave-election/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/05/c3edb835-4478-49c3-8a16-fadfd03fe207/thumbnail/1200x630/ae28e35ce44ae35fb04c96f878fece71/mayor-adams-presser-0905-mk-hi-res-still.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-05T21:46:47Z",
+      "description": "Starosta New Yorku Eric Adams v pátek odpoledne ostře vystoupil na tiskové konferenci a trval na tom, že zůstává v boji, přestože spekulace naznačovaly, že odstoupí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rusko varuje, zatímco evropští lídři a Zelenskyj mluví z Paříže s Trumpem",
+      "original_title": "Russia issues warning as European leaders, Zelenskyy speak to Trump from Paris - ABC News",
+      "url": "https://abcnews.go.com/International/russia-issues-warning-european-leaders-zelenskyy-gather-paris/story?id\\\\u003d125244319",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-05T21:35:05Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "15 mrtvých po novém vypuknutí eboly v Demokratické republice Kongo",
+      "original_title": "15 dead after new Ebola outbreak in the Democratic Republic of Congo - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/05/ebola-congo-drc/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YZ7IEIT2EO3ZC6PTJXYQKYV3NM.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-05T19:59:22Z",
+      "description": "Zdravotníci zaznamenali nejméně 28 podezřelých případů během šestnáctého výskytu smrtelné nemoci v této středoafrické zemi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pro některé zatím pojišťovna aktualizovanou vakcínu proti covidu nehradí",
+      "original_title": "For some, Medicare isn't covering the updated Covid vaccine yet - NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/-medicare-isnt-covering-updated-covid-shots-yet-rcna229338",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-covid-vaccine-ch-1224-0debd3.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-05T19:56:20Z",
+      "description": "Někteří starší Američané na Medicare se potýkají s nečekaným problémem: aktualizované vakcíny proti covidu – schválené minulý měsíc FDA pro všechny dospělé od 65 let – nejsou hrazeny, a musejí se t..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Co čekat (a co nečekat) od další zářijové akce Applu",
+      "original_title": "What to expect (and not expect) from yet another September Apple event - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/09/what-to-expect-and-not-expect-from-yet-another-september-apple-event/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-1.20.05-PM-1152x648-1756230133.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-05T19:54:46Z",
+      "description": "Zcela nová varianta iPhonu a dlouhý seznam užitečných (i když předvídatelných) vylepšení."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Představenstvo Tesly navrhlo Muskův balíček odměn v hodnotě až bilionu dolarů za desetiletí",
+      "original_title": "Tesla Board Proposes Musk Pay Package Worth as Much as $1 Trillion Over Decade - The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/tesla-board-proposes-musk-pay-package-worth-as-much-as-1-trillion-over-decade-6bc5e449",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-05T19:54:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "5 věcí, na které se zaměřit při zápase Chiefs proti Chargers v 1. týdnu",
+      "original_title": "5 things to watch as the Chiefs play the Chargers in Week 1 - Arrowhead Pride",
+      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/180692/chiefs-chargers-5-things-to-watch-in-week-1",
+      "urlToImage": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2025/09/gettyimages-2170676608.jpg?quality=90&strip=all&crop=0%2C1.799730051477%2C92.4%2C72.554562284673&w=1200",
+      "source": "Arrowhead Pride",
+      "publishedAt": "2025-09-05T19:52:30Z",
+      "description": "Na co se dívat, když Kansas City Chiefs čelí Los Angeles Chargers v úvodním zápase sezóny 2025?"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Poslanec James Talarico vstoupí do volebního klání o senátní křeslo v Texasu",
+      "original_title": "State Rep. James Talarico to jump in Texas Senate race - Politico",
+      "url": "https://www.politico.com/news/2025/09/05/talarico-texas-senate-campaign-00546945",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F22%2Fed%2F53ed6f7a47f89babc4e810ebf4d0%2Felection-2026-texas-senate-redistricting-73855.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-05T19:06:07Z",
+      "description": "Rostoucí hvězda koketuje s kandidaturou, zatímco demokraté usilují o převrácení Texasu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Lenovo představilo notebook s obrazovkou, kterou lze otočit do režimu na výšku",
+      "original_title": "Lenovo demos laptop with a screen you can swivel into portrait mode - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/09/lenovo-demos-laptop-with-a-screen-you-can-swivel-into-portrait-mode/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/5-scaled-e1757003477896-1024x558-1.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-05T19:04:59Z",
+      "description": "Bez OLED není třeba."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Společnost Anthropic oznámila americkému soudci, že zaplatí 1,5 miliardy dolarů za vyrovnání v žalobě autorů",
+      "original_title": "Anthropic tells US judge it will pay $1.5 billion to settle author class action - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/anthropic-tells-us-judge-pay-190437711.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/7577a4c25c640ca2c12ac3b902eb7670",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-05T19:04:37Z",
+      "description": "Anthropic se dohodlo na zaplacení 1,5 miliardy dolarů při vyrovnání žaloby"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Donald Trump pozval šéfy velkých technologických firem na večeři do Bílého domu. Rozhodli jsme se podívat na uspořádání míst u stolu.",
+      "original_title": "Donald Trump summoned Big Tech CEOs to a White House dinner. We decided to zoom in on the seating chart. - Business Insider",
+      "url": "https://www.businessinsider.com/donald-trump-big-tech-ceo-dinner-mark-zuckerberg-seating-chart-2025-9",
+      "urlToImage": "https://i.insider.com/68bb3a4732af4d666ef7601c?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-05T19:04:00Z",
+      "description": "Večeře Donalda Trumpa s technologickými šéfy: Zuckerberg, Gates, Cook a Altman. Prozkoumejme uspořádání u stolu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Fotky z premiéry na červeném koberci na TIFF: Sydney Sweeney, Ben Foster, Katy O'Brian, Christy Martinová a další",
+      "original_title": "‘Christy’ TIFF Red Carpet Premiere Photos: Sydney Sweeney, Ben Foster, Katy O’Brian, Christy Martin & More - Deadline",
+      "url": "https://deadline.com/gallery/christy-tiff-film-festival-premiere-red-carpet-photos/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Christy_6a5bd3.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-05T17:54:00Z",
+      "description": "Na Torontském filmovém festivalu 2025 měl světovou premiéru film Davida Michôda 'Christy' se Sydney Sweeney a Benem Fosterem v hlavních rolích"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ocas komety z jiné hvězdy se prodlužuje, ukazuje nový snímek z teleskopu",
+      "original_title": "Tail of comet that's visiting from another star is growing, new telescope image shows - CBS News",
+      "url": "https://www.cbsnews.com/news/comet-3i-atlas-telescope-space-image/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/05/5c34d236-d690-4834-9acc-cb0239825df4/thumbnail/1200x630/b8faf3bdf4580a1819638d27e48e101b/screenshot-2025-09-05-at-12-10-48-pm.png",
+      "source": "CBS News",
+      "publishedAt": "2025-09-05T17:08:11Z",
+      "description": "Astronomové v Chile zachytili nový snímek komety 3I/ATLAS na její cestě vnitřní sluneční soustavou."
+    },
     {
       "flag": "🌍",
       "country": "global",
@@ -10,51 +164,40 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257842_Lenovo_Legion_Go_2_IFA2025_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-05T16:54:30Z",
-      "description": "První přenosné zařízení mimo Asus, které potvrdilo jeho získání."
+      "description": "První přenosné zařízení od Asusu, které ji potvrdilo."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zastaveni dva mladiství, třetí podezřelý je na útěku za vraždu kongresové stážistky v DC",
-      "original_title": "2 teens arrested, 3rd suspect at large in DC murder of congressional intern - ABC News",
-      "url": "https://abcnews.go.com/US/2-teens-arrested-3rd-suspect-large-dc-murder/story?id\\\\u003d125296417",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-05T16:37:35Z",
-      "description": ""
+      "title": "Sakra! Alarmující studie spojuje nadměrné používání telefonu na toaletě s bolestivým zdravotním problémem",
+      "original_title": "Crap! Alarming new study links excessive phone use on toilet to painful health problem - MLive.com",
+      "url": "https://www.mlive.com/news/2025/09/crap-alarming-new-study-links-excessive-phone-use-on-toilet-to-painful-health-problem.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/5SQ7EA4JHNEHNNGHKFFJPVPBHM.JPG?auth=127661e0ed82c9d2f34afac87d31c2d3862ee0aabeddd829cf8421fc154e1d35&width=1280&quality=90",
+      "source": "mlive.com",
+      "publishedAt": "2025-09-05T16:54:00Z",
+      "description": "Je to také prostě nechutné, říkají odborníci."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jak Stephen Miller řídí Trumpovo úsilí o převzetí moci ve Washingtonu",
-      "original_title": "How Stephen Miller is running Trump’s effort to take over D.C. - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/05/trump-dc-takeover-stephen-miller-white-house/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5WAFIJ6RL6FHXR2BYGVRN6ELVY_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-05T16:32:09Z",
-      "description": "Zástupce šéfa Bílého domu se stal klíčovým hybatelem washingtonské operace poté, co Trump federalizoval tamní policejní oddělení."
+      "title": "Ryan Reynolds chtěl, aby se Bill Murray objevil v dokumentu o Johnu Candym. Pak se přidalo jeho batole.",
+      "original_title": "Ryan Reynolds wanted Bill Murray to appear in a John Candy documentary. Then Reynolds’ toddler stepped in - CNN",
+      "url": "https://www.cnn.com/2025/09/05/entertainment/ryan-reynolds-bill-murray-john-candy-documentary",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250905-ryan.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-05T15:41:00Z",
+      "description": "Bill Murray je známý tím, že ho je těžké zastihnout. Ryan Reynolds se o tom přesvědčil na vlastní kůži."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Orlando Bloom promluvil o rozchodu s Katy Perry: ‚Je to jen a pouze láska‘",
-      "original_title": "Orlando Bloom speaks out on Katy Perry breakup: ‘It’s nothing but love’ - yahoo.com",
-      "url": "https://www.yahoo.com/entertainment/celebrity/article/orlando-bloom-speaks-out-on-katy-perry-breakup-its-nothing-but-love-161021497.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zLV1BKjmWALqoRljNHVKqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/40ff5190-8a70-11f0-97df-bff0055ed474",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-05T16:10:31Z",
-      "description": "Bloomová a Perryho dali dohromady poprvé v roce 2016, poté co se setkali na afterpárty ke Zlatým glóbům."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sobotní jackpot Powerball® navýšen na 1,8 miliardy dolarů",
-      "original_title": "Saturday’s Powerball® jackpot RAISED to $1.80 billion - Powerball",
-      "url": "https://www.powerball.com/saturdays-powerball-jackpot-raised-to-1.80-billion",
-      "urlToImage": "https://cdn.powerball.com/v01/images/opengraph/powerball-promote-28-1200.webp",
-      "source": "Powerball.com",
-      "publishedAt": "2025-09-05T15:50:53Z",
-      "description": "Výhra v Powerballu ve výši 1,8 miliardy dolarů je druhou nejvyšší v historii amerických loterií."
+      "title": "‚The Conjuring: Poslední pomazání‘ vzkřísilo kino rekordními 8,5 milionu dolarů z předpremiér",
+      "original_title": "‘The Conjuring: Last Rites’ Jolts Box Office Back to Life with Record $8.5M in Previews - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/conjuring-last-rites-box-office-record-previews-1236362035/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/rev-1-CLR-03361r_High_Res_JPEG-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-05T15:28:55Z",
+      "description": "Hororový trhák má na páteční pokladně obrovský úspěch, ve čtvrteční premiéře vydělal rekordních 8,5 milionu dolarů. Znovuvydání hitu Lina-Manuela Mirandy 'Hamilton' také sklízí úspěch."
     },
     {
       "flag": "🌍",
@@ -65,128 +208,29 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/wbWHubD9BBZqCd43Q9oDWL.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-05T15:00:00Z",
-      "description": "Jak sledovat úplné zatmění Měsíce 7.–8. září živě z pohodlí domova."
+      "description": "Jak sledovat úplné zatmění Měsíce 7. a 8. září živě z pohodlí domova."
     },
     {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Získejte kartu za 100 dolarů zdarma při koupi Samsung Galaxy S25 FE na Amazonu",
-      "original_title": "Get a free $100 gift card when you buy the Samsung Galaxy S25 FE at Amazon - Mashable",
-      "url": "https://mashable.com/article/sept-5-samsung-galaxy-fe-deal",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03GI0URlpRescfkzYdaZ9Hv/hero-image.fill.size_1200x675.v1757061473.png",
-      "source": "Mashable",
-      "publishedAt": "2025-09-05T14:36:30Z",
-      "description": "Nový telefon a 100 dolarů? Bereme!"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trumpův trh práce se potýká s problémy a posiluje argumenty pro výraznější snížení sazeb Fedem",
-      "original_title": "Trump's job market is struggling, building the case for steeper Fed rate cuts - Politico",
-      "url": "https://www.politico.com/news/2025/09/05/trumps-job-market-struggling-fed-rate-cut-00546137",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fda%2Fc5%2F70e3fc1147a196563020559162a2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2168336361",
-      "source": "Politico",
-      "publishedAt": "2025-09-05T14:35:22Z",
-      "description": "Zpráva přichází v době, kdy jak vysoké úrokové sazby, tak Trumpovy rozsáhlé cla zatěžují ekonomiku závislou na spotřebitelských výdajích."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "New York Times: Neúspěšná mise Navy SEAL z roku 2019 zanechala mrtvé neozbrojené Severokorejce",
+      "original_title": "New York Times: Unsuccessful 2019 Navy SEAL mission left unarmed North Koreans dead - CNN",
+      "url": "https://www.cnn.com/2025/09/05/politics/north-korea-navy-seal-mission-nyt",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1152907322.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-05T14:29:00Z",
+      "description": "Mise v Severní Koreji z roku 2019, během níž měli námořníci SEAL instalovat zařízení k odposlechu komunikace vůdce Kim Čong-una, skončila neúspěšnou operací, jež si vyžádala životy neozbrojených Se..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "PBS propustí 15 % zaměstnanců kvůli škrtům ve federálním financování",
-      "original_title": "PBS slashes 15% of its staff after federal funding cuts - Axios",
-      "url": "https://www.axios.com/2025/09/05/pbs-staff-layoffs-cuts-trump-federal-funds",
-      "urlToImage": "https://images.axios.com/W9t7w3yRtRJpRKYsxGD-JmS_o-0=/0x0:2258x1270/1366x768/2025/09/05/1757078462099.png",
-      "source": "Axios",
-      "publishedAt": "2025-09-05T14:28:10Z",
-      "description": "PBS v posledních měsících zrušila téměř 100 pracovních míst."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Republikáni rychle podporují kandidaturu Ashley Hinsonové do Senátu",
-      "original_title": "Republicans move quickly to support Ashley Hinson’s Senate bid - Politico",
-      "url": "https://www.politico.com/news/2025/09/05/ashley-hinson-endorsements-00546138",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F15%2F1d%2F035de25843f4baa250b6f4872a27%2Fashley-hinson-72181.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-05T14:11:06Z",
-      "description": "Vyhnutí se konkurenční primárce Republikánské strany by mohlo pomoci odvrátit příležitost pro demokraty získat stát Iowa."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Námořní potápěč je spojován s desítky let starými případy znásilnění v Kalifornii, Indianě, Michiganu a Ohiu",
-      "original_title": "Navy diver is linked to decades-old rape cases in California, Indiana, Michigan and Ohio - NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/navy-diver-linked-decades-old-rape-cases-california-ohio-michigan-indi-rcna229296",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-mcnulty-mb-1403-e690a3.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-05T13:51:00Z",
-      "description": "Kalifornští úředníci ve čtvrtek identifikovali muže, který je podle nich zodpovědný za půl tuctu znásilnění napříč čtyřmi státy před desítkami let"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Na festivalu TIFF se o 15 žhavých novinek s Chrisem Evansem, Angelinou Jolie, Michaelou Coel a dalšími zajímají kupci",
-      "original_title": "TIFF: 15 Buzzy Films From Chris Evans, Angelina Jolie, Michaela Coel and More That Have Buyers Circling - Variety",
-      "url": "https://variety.com/2025/film/news/tiff-buzzy-films-chris-evans-angelina-jolie-michaela-coel-1236508617/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Sacrafice-Christophers-TIFF.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-05T13:30:00Z",
-      "description": "Od „Závěti Anny Leeové“ po „Oběť“: 15 filmů z Toronta, o které je mezi kupci velký zájem."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "WHO aktualizuje seznam základních léků a zařazuje do něj klíčové léky na léčbu rakoviny a cukrovky",
-      "original_title": "WHO updates list of essential medicines to include key cancer, diabetes treatments - World Health Organization (WHO)",
-      "url": "https://www.who.int/news/item/05-09-2025-who-updates-list-of-essential-medicines-to-include-key-cancer--diabetes-treatments",
-      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/medicines/primary-health-care-setting.tmb-1200v.jpg?sfvrsn=2141e9e3_6",
-      "source": "World Health Organization",
-      "publishedAt": "2025-09-05T13:30:00Z",
-      "description": "Dnes Světová zdravotnická organizace (WHO) zveřejnila aktualizované verze svých modelových seznamů základních léků (EML) a základních léků pro děti (EMLc), které přidávají nové léčebné postupy pro ..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Další kočka byla utracena poté, co pozřela syrové krmivo kontaminované ptačí chřipkou",
-      "original_title": "Another Cat Euthanized After Eating Raw Food Tainted With Bird Flu - Gizmodo",
-      "url": "https://gizmodo.com/another-cat-euthanized-after-eating-raw-food-tainted-with-bird-flu-2000654074",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/evilcat-1-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-09-05T12:35:26Z",
-      "description": "CDC přestalo v červenci zveřejňovat údaje o nákazách ptačí chřipkou u zvířat."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Floridská babička obviněná z naplánování rodinné vraždy na objednávku byla shledána vinnou",
-      "original_title": "Florida grandma accused of masterminding family murder-for-hire plot found guilty - The Independent",
-      "url": "https://www.the-independent.com/news/world/americas/crime/donna-adelson-florida-murder-plot-verdict-b2820463.html",
-      "urlToImage": "https://static.the-independent.com/2025/09/04/23/00/Screenshot-2025-09-04-at-7-48-35-PM.png?trim=0,192,0,204&width=1200&height=800&crop=1200:800",
-      "source": "The-independent.com",
-      "publishedAt": "2025-09-05T12:00:00Z",
-      "description": "Donna Adelsonová (75) se rozhodla nevypovídat ve svůj prospěch"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Travis Kelce vtipkuje o největší změně v životě od zásnub s Taylor Swift: ‚Mám na to ještě jeden prsten‘",
-      "original_title": "Travis Kelce Jokes About the Biggest Change in His Life Since Taylor Swift Engagement: ‘I Got One More Ring For It’ - yahoo.com",
-      "url": "http://www.billboard.com/music/music-news/travis-kelce-biggest-change-taylor-swift-engagement-ring-1236059702/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/taylor-swift-travis-kelce-super-bowl-2024-billboard-1800.jpg?w=1024",
-      "source": "Billboard",
-      "publishedAt": "2025-09-05T11:55:29Z",
-      "description": "Travis Kelce žertoval před brazilskými novináři, že největší změnou od zásnub s Taylor Swift je to, že má o jeden prsten víc."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vše, co plánuje Apple ukázat na „úžasné“ akci 9. září k iPhonu 17",
-      "original_title": "Everything Apple Plans to Show at Sept. 9 ‘Awe Dropping’ iPhone 17 Event - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-05/what-apple-is-planning-to-introduce-at-sept-9-awe-dropping-iphone-17-event",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itw_A.2fRlr0/v1/1200x805.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-05T11:00:20Z",
-      "description": "Společnost chystá na svátky řadu aktualizovaných zařízení."
+      "title": "Záhadu designu zadního panelu iPhonu 17 Pro a Pro Max se možná podařilo rozluštit ještě před akcí Applu - 9to5Mac",
+      "original_title": "iPhone 17 Pro and Pro Max back design mystery may be solved ahead of Apple event - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/05/iphone-17-pro-back-design/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/bu-iphone-17-pro-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-05T12:34:00Z",
+      "description": "Začátkem týdne jsme upozornili, že přestože toho o iPhonu 17 Pro a Pro Max víme strašně moc…"
     },
     {
       "flag": "🌍",
@@ -197,34 +241,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4096x2304+0+896/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6c%2F8e9d5a0647359974679e937e0178%2Fgsfc-20171208-archive-e000829-orig.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-05T11:00:00Z",
-      "description": "Nejžhavějšími částmi Slunce jsou jeho erupce, které mohou být více než šestkrát teplejší, než se dosud myslelo"
+      "description": "Nejžhavějšími částmi Slunce jsou jeho erupce, podle nové studie mohou mít až šestkrát vyšší teplotu, než se dosud myslelo."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Národnosti obětí nehody lanovky v Lisabonu se postupně odhalují, po portugalské tragédii tramvaje sižící 16 životů",
-      "original_title": "Lisbon funicular crash victims' nationalities slowly emerge after Portugal streetcar disaster that killed 16 - CBS News",
-      "url": "https://www.cbsnews.com/news/lisbon-funicular-crash-victims-nationalities-emerge-portugal-streetcar-disaster/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/05/6eda239d-f83b-470a-a7bb-af72e888db1d/thumbnail/1200x630/2a47f39decfc57d4b0ea12f55e94a0e5/lisbon-funicular-crash-aftermath.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-05T10:40:00Z",
-      "description": "Nejméně jeden Američan byl mezi 16 oběťmi ničivé nehody tramvaje v portugalském hlavním městě, spolu s dalšími cizinci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "S&P 500 mírně rostl před srpnovou zprávou o zaměstnanosti: Živé aktualizace",
-      "original_title": "S&P 500 rise slightly changed ahead of August jobs report: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/09/04/stock-market-today-live-updates-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108157940-17496587762025-06-11t161821z_955827365_rc2e0fak4lbo_rtrmadp_0_usa-stocks.jpeg?v=1749658836&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-05T10:11:00Z",
-      "description": "Akciové futures byly v pátek smíšené, zatímco investoři se připravují na klíčovou zprávu o mzdách v nezemědělských odvětvích."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jednorázová dávka LSD udrží úzkost na uzdě",
+      "title": "Jedna dávka LSD může dlouhodobě potlačovat úzkost",
       "original_title": "'One and done' dose of LSD keeps anxiety at bay : Shots - Health News - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/05/nx-s1-5529325/one-dose-lsd-generalized-anxiety-disorder-psychedelics",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2Fa3%2Fd02daab94e12b4a55ba23afaeeef%2Fgettyimages-2180062660.jpg",
@@ -235,46 +257,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Astronomové a studenti zachytili rostoucí ohon mezihvězdné komety 3I/ATLAS během pozorovacího programu",
-      "original_title": "Astronomers and students capture growing tail of interstellar comet 3I/ATLAS during observing program - Phys.org",
-      "url": "https://phys.org/news/2025-09-astronomers-students-capture-tail-interstellar.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/astronomers-and-studen.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-05T09:00:28Z",
-      "description": "Astronomové a studenti spolupracující v rámci unikátní vzdělávací iniciativy pořídili působivý nový snímek rostoucího ohonu mezihvězdné komety 3I/ATLAS. Pozorování odhalují výrazný ohon a zářící kó..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Nové vypuknutí eboly v DR Kongo má podle podezření na svědomí 15 úmrtí",
-      "original_title": "New Ebola outbreak in DR Congo suspected of causing 15 deaths - CNN",
-      "url": "https://www.cnn.com/2025/09/05/africa/ebola-outbreak-dr-congo-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-961014192.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-05T08:42:00Z",
-      "description": "V Kongu podezřívají z nového výskytu eboly 15 úmrtí mezi 28 lidmi s příznaky"
+      "title": "Trumpova ekonomická spirála zkázy představuje nové nebezpečí pro republikány",
+      "original_title": "Trump's economic doom loop poses new danger for Republicans - Axios",
+      "url": "https://www.axios.com/2025/09/05/trump-polling-economy-big-beautiful-bill",
+      "urlToImage": "https://images.axios.com/n2AA5v6tjR5krAA8IbRuD0C7RiE=/0x0:1920x1080/1366x768/2025/09/04/1757013454887.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-05T09:02:06Z",
+      "description": "Trumpovi hrozí, že uvízne ve stejné dynamice, která zničila Bidena."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nový koncept notebooku od Lenova umí otočit displej z krajiny na výšku",
-      "original_title": "Lenovo's New Laptop Concept Can Swivel the Screen From Landscape to Portrait - WIRED",
-      "url": "https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/",
-      "urlToImage": "https://media.wired.com/photos/68ba59f10a668e4a20c31c98/191:100/w_1280,c_limit/Lenovo%20ThinkBook%20VertiFlex%20Concept%20SOURCE%20Julian%20Chokkattu(1).jpg",
-      "source": "Wired",
-      "publishedAt": "2025-09-05T06:00:00Z",
-      "description": "Koncept notebooku ThinkBook VertiFlex s 14palcovou obrazovkou, kterou můžete dle libosti ručně otáčet."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chemici napěchovali rekordních devět kovů do moderního 2D materiálu",
-      "original_title": "Chemists cram record nine metals into trendy 2D material - Nature",
-      "url": "https://www.nature.com/articles/d41586-025-02839-6",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02839-6/d41586-025-02839-6_51421920.jpg",
-      "source": "Nature.com",
-      "publishedAt": "2025-09-04T18:33:45Z",
-      "description": "MXeny, vzdálení bratranci grafenu, dosahují nových úrovní složitosti — otevírají tak cestu pro využití v pokročilých bateriích a dalších oborech."
+      "title": "Mapa 600 000 mozkových buněk přepisuje učebnice o tom, jak mozek činí rozhodnutí",
+      "original_title": "Map of 600,000 brain cells rewrites the textbook on how the brain makes decisions - Live Science",
+      "url": "https://www.livescience.com/health/neuroscience/map-of-600-000-brain-cells-rewrites-the-textbook-on-how-the-brain-makes-decisions",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YoDmPuscjctvCjjTYybBje.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-09-04T16:34:53Z",
+      "description": "Nový výzkum ukazuje, že mozková aktivita při rozhodování je mnohem rozšířenější, než se původně myslelo."
     }
   ]
 }
