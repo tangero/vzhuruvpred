@@ -1,0 +1,153 @@
+name: 📋 Changelog Check
+
+on:
+  pull_request:
+    branches: [ main ]
+    types: [opened, synchronize, reopened]
+  
+  # Ruční spuštění
+  workflow_dispatch:
+
+jobs:
+  changelog-check:
+    name: 🔍 Kontrola CHANGELOG.md
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout kódu
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        
+    - name: 📋 Kontrola aktualizace changelog
+      id: changelog
+      run: |
+        echo "🔍 Kontroluji změny v pull requestu..."
+        
+        # Získat seznam změněných souborů
+        CHANGED_FILES=$(git diff --name-only origin/main...HEAD)
+        echo "📝 Změněné soubory:"
+        echo "$CHANGED_FILES"
+        echo ""
+        
+        # Zkontrolovat, zda byly změněny zdrojové soubory
+        SOURCE_CHANGES=$(echo "$CHANGED_FILES" | grep -E "\.(js|html|md|yml|yaml|css|scss|liquid|rb)$" | grep -v "CHANGELOG.md" || true)
+        
+        if [ -n "$SOURCE_CHANGES" ]; then
+          echo "📝 Detekované změny ve zdrojových souborech:"
+          echo "$SOURCE_CHANGES" | sed 's/^/   - /'
+          echo ""
+          
+          # Zkontrolovat, zda byl aktualizován CHANGELOG.md
+          if echo "$CHANGED_FILES" | grep "CHANGELOG.md" > /dev/null; then
+            echo "✅ CHANGELOG.md byl aktualizován"
+            echo "changelog_updated=true" >> $GITHUB_OUTPUT
+            
+            # Zkontrolovat formát changelog entrů
+            if git diff origin/main...HEAD CHANGELOG.md | grep -E "^\+.*\[Unreleased\]" -A 20 | grep -E "^\+\s*-\s*\*\*.*\*\*" > /dev/null; then
+              echo "✅ Changelog entries mají správný formát"
+              echo "changelog_format_ok=true" >> $GITHUB_OUTPUT
+            else
+              echo "⚠️ Changelog entries možná nemají správný formát"
+              echo "   Očekávaný formát: - **Název** - popis"
+              echo "changelog_format_ok=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "⚠️ CHANGELOG.md nebyl aktualizován"
+            echo "changelog_updated=false" >> $GITHUB_OUTPUT
+            echo ""
+            echo "💡 Zvažte přidání následujících změn do CHANGELOG.md:"
+            echo "$SOURCE_CHANGES" | sed 's/^/   - /'
+            echo ""
+            echo "📋 Formát pro changelog:"
+            echo "   ### Přidáno/Změněno/Opraveno"
+            echo "   - **Název změny** - stručný popis"
+          fi
+        else
+          echo "ℹ️ Žádné změny ve zdrojových souborech nebyly detekované"
+          echo "changelog_required=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: 📊 Analýza typu změn
+      if: steps.changelog.outputs.changelog_updated == 'true'
+      run: |
+        echo "🔍 Analýza changelog entrů..."
+        
+        # Extrakce nových changelog entrů
+        NEW_ENTRIES=$(git diff origin/main...HEAD CHANGELOG.md | grep "^+" | grep -E "\*\*.*\*\*" || true)
+        
+        if [ -n "$NEW_ENTRIES" ]; then
+          echo "📝 Nové changelog entries:"
+          echo "$NEW_ENTRIES" | sed 's/^+/   /'
+          
+          # Analýza typů změn
+          if echo "$NEW_ENTRIES" | grep -i "přidáno\|added" > /dev/null; then
+            echo "🆕 Detekované nové funkcionality"
+          fi
+          if echo "$NEW_ENTRIES" | grep -i "opraveno\|fixed" > /dev/null; then
+            echo "🔧 Detekované opravy chyb"
+          fi
+          if echo "$NEW_ENTRIES" | grep -i "změněno\|changed" > /dev/null; then
+            echo "🔄 Detekované změny existujících funkcí"
+          fi
+        fi
+
+    - name: 💬 Komentář na PR (changelog chybí)
+      if: steps.changelog.outputs.changelog_updated == 'false'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: `## 📋 Changelog Update Required
+            
+            ⚠️ Tento PR obsahuje změny ve zdrojových souborech, ale **CHANGELOG.md** nebyl aktualizován.
+            
+            ### 🔧 Jak opravit:
+            1. Otevřete \`CHANGELOG.md\`
+            2. Přidejte entry do sekce \`[Unreleased]\`
+            3. Použijte formát: \`- **Název změny** - popis\`
+            
+            ### 📋 Typy změn:
+            - **Přidáno** - nové funkcionality
+            - **Změněno** - změny existujících funkcí  
+            - **Opraveno** - opravy chyb
+            - **Odstraněno** - odstraněné funkcionality
+            - **Bezpečnost** - bezpečnostní záplaty
+            
+            ### 💡 Příklad:
+            \`\`\`markdown
+            ### Přidáno
+            - **Rating systém** - uživatelé mohou hodnotit články emotikony
+              - LocalStorage persistence hodnocení
+              - Responsivní design pro mobily
+            \`\`\`
+            
+            ---
+            *Tento komentář byl automaticky vygenerován changelog checkerem*`
+          })
+
+    - name: ✅ Changelog Status Summary
+      run: |
+        echo "## 📋 Changelog Check Summary" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.changelog.outputs.changelog_updated }}" == "true" ]; then
+          echo "✅ CHANGELOG.md byl aktualizován" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.changelog.outputs.changelog_format_ok }}" == "true" ]; then
+            echo "✅ Formát changelog entries je správný" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "⚠️ Formát changelog entries může být lepší" >> $GITHUB_STEP_SUMMARY
+          fi
+        elif [ "${{ steps.changelog.outputs.changelog_required }}" != "false" ]; then
+          echo "⚠️ CHANGELOG.md nebyl aktualizován navzdory změnám ve zdrojových souborech" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "ℹ️ Aktualizace changelogu není potřeba" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+    # Volitelně: selhání workflow pokud changelog chybí (zakomentováno pro varování místo selhání)
+    # - name: ❌ Fail if changelog missing
+    #   if: steps.changelog.outputs.changelog_updated == 'false'
+    #   run: |
+    #     echo "❌ CHANGELOG.md nebyl aktualizován!"
+    #     exit 1

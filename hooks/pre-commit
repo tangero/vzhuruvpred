@@ -1,0 +1,80 @@
+#!/bin/bash
+# Pre-commit hook pro kontrolu CHANGELOG.md
+# Umístit do: .git/hooks/pre-commit a učinit spustitelným: chmod +x .git/hooks/pre-commit
+
+echo "🔍 Kontrolujem změny před commitem..."
+
+# Získat seznam změněných souborů
+CHANGED_FILES=$(git diff --cached --name-only)
+
+# Kontrola, zda byly změněny zdrojové soubory
+if echo "$CHANGED_FILES" | grep -E "\.(js|html|md|yml|yaml|css|scss|liquid)$" > /dev/null; then
+    echo "📝 Detekované změny ve zdrojových souborech:"
+    echo "$CHANGED_FILES" | grep -E "\.(js|html|md|yml|yaml|css|scss|liquid)$" | sed 's/^/   - /'
+    
+    # Kontrola, zda byl aktualizován CHANGELOG.md
+    if ! echo "$CHANGED_FILES" | grep "CHANGELOG.md" > /dev/null; then
+        echo ""
+        echo "⚠️  UPOZORNĚNÍ: CHANGELOG.md nebyl aktualizován!"
+        echo ""
+        echo "   Zvažte přidání této změny do CHANGELOG.md:"
+        echo "   1. Otevřete CHANGELOG.md"
+        echo "   2. Přidejte položku do sekce [Unreleased]"  
+        echo "   3. Použijte formát: - **Název změny** - popis"
+        echo ""
+        echo "   Typy změn: Přidáno, Změněno, Opraveno, Odstraněno, Bezpečnost"
+        echo ""
+        
+        # Pokus o automatické rozpoznání typu změny
+        COMMIT_MSG=$(git log --format=%B -n 1 2>/dev/null || echo "")
+        if echo "$COMMIT_MSG" | grep -iE "^(feat|feature|add)" > /dev/null; then
+            echo "   💡 Tip: Vypadá to jako nová funkcionalita → použijte 'Přidáno'"
+        elif echo "$COMMIT_MSG" | grep -iE "^(fix|bug)" > /dev/null; then
+            echo "   💡 Tip: Vypadá to jako oprava chyby → použijte 'Opraveno'" 
+        elif echo "$COMMIT_MSG" | grep -iE "^(update|change|modify)" > /dev/null; then
+            echo "   💡 Tip: Vypadá to jako úprava → použijte 'Změněno'"
+        fi
+        
+        echo ""
+        echo "   Pro pokračování bez aktualizace použijte: git commit --no-verify"
+        echo ""
+        
+        read -p "   Chcete pokračovat v commitu? (y/N): " -n 1 -r
+        echo ""
+        
+        if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+            echo ""
+            echo "❌ Commit zrušen. Aktualizujte CHANGELOG.md a zkuste znovu."
+            echo ""
+            echo "   Příklad entry pro CHANGELOG.md:"
+            echo "   ### Přidáno/Změněno/Opraveno"
+            echo "   - **$(echo "$CHANGED_FILES" | head -1 | sed 's/.*\///' | sed 's/\.[^.]*$//')** - popis změny"
+            echo ""
+            exit 1
+        fi
+        
+        echo ""
+        echo "⚠️  Pokračuji bez aktualizace changelogu..."
+    else
+        echo ""
+        echo "✅ CHANGELOG.md byl aktualizován - skvělé!"
+    fi
+fi
+
+# Kontrola, zda changelog entry má správný formát
+if echo "$CHANGED_FILES" | grep "CHANGELOG.md" > /dev/null; then
+    if git diff --cached CHANGELOG.md | grep -E "^\+.*\[Unreleased\]" -A 20 | grep -E "^\+\s*-\s*\*\*.*\*\*" > /dev/null; then
+        echo "✅ Changelog entry má správný formát"
+    else
+        echo ""
+        echo "⚠️  Upozornění: Changelog entry možná nemá správný formát"
+        echo "   Očekávaný formát: - **Název** - popis"
+        echo ""
+    fi
+fi
+
+echo ""
+echo "🚀 Pre-commit kontroly dokončeny!"
+echo ""
+
+exit 0
