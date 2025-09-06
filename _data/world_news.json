@@ -1,38 +1,93 @@
 {
-  "last_updated": "2025-09-06T22:15:05",
+  "last_updated": "2025-09-06T23:15:00",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Posílení snah o ochranu amerických občanů před neoprávněným zadržováním v zahraničí - Bílý dům (.gov)",
-      "original_title": "STRENGTHENING EFFORTS TO PROTECT U.S. NATIONALS FROM WRONGFUL DETENTION ABROAD - The White House (.gov)",
-      "url": "https://www.whitehouse.gov/presidential-actions/2025/09/strengthening-efforts-to-protect-u-s-nationals-from-wrongful-detention-abroad/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2025-09-05T21:57:43Z",
-      "description": "Na základě pravomocí svěřených mi Ústavou a zákony Spojených států amerických, včetně zákona Robert Levinson Hostage, jako prezident"
+      "title": "Anthropic zaplatí 3000 dolarů za knihu v rámci vyrovnání o autorských právech za 1,5 miliardy dolarů",
+      "original_title": "Anthropic to pay $3,000 per book in $1.5 billion AI copyright settlement - Axios",
+      "url": "https://www.axios.com/2025/09/05/anthropic-ai-copyright-settlement",
+      "urlToImage": "https://images.axios.com/OM1C6Pi5iMzJYEI9rMwJec3SpUw=/1366x768/smart/2021/09/14/203731-1631651851909.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-05T23:35:01Z",
+      "description": "Dohoda představuje zlom ve sporu mezi společnostmi zabývajícími se umělou inteligencí a vlastníky obsahu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Starosta New Yorku Adams trvá na kandidatuře, útočí na „dvě rozmazlené spratky, kteří chtějí být starosty“",
-      "original_title": "NYC Mayor Adams insists he's staying in the race, blasts \"two spoiled brats running for mayor\" - CBS News",
-      "url": "https://www.cbsnews.com/newyork/news/nyc-mayor-eric-adams-may-leave-election/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/05/c3edb835-4478-49c3-8a16-fadfd03fe207/thumbnail/1200x630/ae28e35ce44ae35fb04c96f878fece71/mayor-adams-presser-0905-mk-hi-res-still.jpg",
+      "title": "Trump se v otázce očkování rozešel s RFK: „Čistě a jednoduše fungují“",
+      "original_title": "Trump breaks from RFK on vaccines: \"Pure and simple, they work\" - Axios",
+      "url": "https://www.axios.com/2025/09/05/trump-rfk-jr-covid-vaccine-cdc",
+      "urlToImage": "https://images.axios.com/4JEijWxk8uAyMaZXvjgryFbOGw4=/0x156:8068x4694/1366x768/2025/09/05/1757110021039.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-05T23:30:27Z",
+      "description": "RFK Jr. čelí rozsáhlé kritice za své nedávné nařízení povinného očkování."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpova administrativa oznámila Abregu Garcíovi, že mu hrozí deportace do afrického Eswatini",
+      "original_title": "Trump administration tells Abrego Garcia he now faces deportation to African country of Eswatini - CBS News",
+      "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-trump-eswatini-deportation/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/26/85b95d25-c652-4055-894c-5f4fa66c686b/thumbnail/1200x630/ea7c75906231f245785d8803d60fb153/gettyimages-2231358090.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-09-05T21:46:47Z",
-      "description": "Starosta New Yorku Eric Adams v pátek odpoledne ostře vystoupil na tiskové konferenci a trval na tom, že zůstává v boji o post, ačkoli spekulace naznačovaly, že odstoupí."
+      "publishedAt": "2025-09-05T23:05:00Z",
+      "description": "Trumpova administrativa v pátek oznámila Kilmaru Abregu Garcíovi, že se ho snaží deportovat do malého afrického království Eswatini, uvádí e-mail, který získala CBS News."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Blake Lively se po měsících poprvé objevila na veřejnosti v zcela průhledné síťované tílku - instyle.com",
+      "original_title": "Blake Lively Makes Her First Public Appearance in Months Wearing a Completely Sheer Mesh Tank Top - instyle.com",
+      "url": "https://www.instyle.com/blake-lively-first-public-appearance-in-months-sheer-tank-11804761",
+      "urlToImage": "https://www.instyle.com/thmb/wUkL4SAaYvnNw2fOhmflcM_a-Xs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blake-Lively-Leadjpg-b135b046e5a741dcaeba76ae228c90c6.jpg",
+      "source": "InStyle",
+      "publishedAt": "2025-09-05T22:30:49Z",
+      "description": "Blake Lively se po měsících ukázala v NYC v průsvitné třpytivé tílko a hnědých semišových botách v podzimních barvách. Podívejte se na její nový look."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Donald Trump nařídil postihovat země, které zadržují americké občany",
+      "original_title": "Donald Trump issues order to penalise countries that detain American citizens - Financial Times",
+      "url": "https://www.ft.com/content/11fca04e-cada-41aa-a9f3-ab448efbb3d8",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa136e9ff-fe1e-4b5b-93b7-840465867727.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-05T22:09:09Z",
+      "description": "Přesun zvyšuje možnost, že administrativa může zakázat některým zahraničním lídrům účast na nadcházejícím Valném shromáždění OSN"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Rusko varuje, zatímco evropští lídři a Zelenskyj mluví z Paříže s Trumpem",
-      "original_title": "Russia issues warning as European leaders, Zelenskyy speak to Trump from Paris - ABC News",
-      "url": "https://abcnews.go.com/International/russia-issues-warning-european-leaders-zelenskyy-gather-paris/story?id\\\\u003d125244319",
+      "title": "Soudce zablokoval Trumpovu administrativu v ukončení právní ochrany pro 1,1 milionu Venezuelanů a Haiťanů",
+      "original_title": "Judge blocks Trump administration's ending of legal protections for 1.1M Venezuelans and Haitians - AP News",
+      "url": "https://apnews.com/article/immigration-haiti-venezuela-judge-trump-administration-8519e669dada7e678531f21180cf8def",
+      "urlToImage": "https://dims.apnews.com/dims4/default/ac20cf6/2147483647/strip/true/crop/4272x2403+0+223/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2F52%2Fdab8dea9f7bda6a062de8d008b0e%2F582080de783f498ba0dbbc2ecb60e297",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-05T21:25:00Z",
+      "description": "Federální soudce zablokoval Trumpově administrativě ukončení dočasné ochrany pro více než milion lidí z Haiti a Venezuely"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bývalý pilot Aljašských aerolinek, který se za letu pokusil vypnout motory, se přiznal k vině",
+      "original_title": "Former Alaska Airlines pilot who tried to shut down engines midflight pleads guilty - ABC News",
+      "url": "https://abcnews.go.com/US/former-alaska-airlines-pilot-shut-engines-midflight-pleads/story?id\\\\u003d125298821",
       "urlToImage": null,
       "source": "ABC News",
-      "publishedAt": "2025-09-05T21:35:05Z",
+      "publishedAt": "2025-09-05T21:00:08Z",
       "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Starosta New Yorku Eric Adams odmítá odstoupit z volebního klání po spekulacích o Trumpově nominaci",
+      "original_title": "New York Mayor Eric Adams refuses to drop out of race after Trump nomination floated - CNBC",
+      "url": "https://www.cnbc.com/2025/09/05/new-york-mayor-eric-adams-to-make-important-campaign-announcement-as-trump-nomination-floated.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108111411-17411955852025-03-05t165755z_2114250652_rc247da5tkfo_rtrmadp_0_usa-mayors.jpeg?v=1741195626&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-05T20:07:15Z",
+      "description": "Prezident Donald Trump chce, aby dva kandidáti odstoupili z newyorské primárky a uvolnili tak cestu k poražení kandidáta demokratů Zohrana Mamdaniho."
     },
     {
       "flag": "🇺🇸",
@@ -43,18 +98,18 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YZ7IEIT2EO3ZC6PTJXYQKYV3NM.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-05T19:59:22Z",
-      "description": "Zdravotníci zaznamenali nejméně 28 podezřelých případů během šestnáctého výskytu smrtelné nemoci v této středoafrické zemi."
+      "description": "Zdravotníci zaznamenali nejméně 28 podezřelých případů během 16. výskytu smrtelné nemoci ve středoafrické zemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pro některé zatím Medicare nehradí aktualizovanou vakcínu proti covidu-19",
+      "title": "Pro některé zatím Medicare nehradí aktualizovanou vakcínu proti covidu",
       "original_title": "For some, Medicare isn't covering the updated Covid vaccine yet - NBC News",
       "url": "https://www.nbcnews.com/health/health-news/-medicare-isnt-covering-updated-covid-shots-yet-rcna229338",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-covid-vaccine-ch-1224-0debd3.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-05T19:56:20Z",
-      "description": "Starší Američané na Medicare se potýkají s nečekaným problémem: aktualizované vakcíny proti covidu – schválené minulý měsíc FDA pro všechny dospělé od 65 let – nejsou hrazeny, a musejí se tak rozho..."
+      "description": "Někteří starší Američané na Medicare čelí neočekávanému problému: aktualizované vakcíny proti covidu — schválené minulý měsíc Úřadem pro kontrolu potravin a léčiv pro všechny dospělé od 65 let — ne..."
     },
     {
       "flag": "🌍",
@@ -81,18 +136,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "5 věcí, na které se zaměřit při utkání Chiefs s Chargers v 1. týdnu",
-      "original_title": "5 things to watch as the Chiefs play the Chargers in Week 1 - Arrowhead Pride",
-      "url": "https://www.arrowheadpride.com/kansas-city-chiefs-roster/180692/chiefs-chargers-5-things-to-watch-in-week-1",
-      "urlToImage": "https://platform.arrowheadpride.com/wp-content/uploads/sites/12/2025/09/gettyimages-2170676608.jpg?quality=90&strip=all&crop=0%2C1.799730051477%2C92.4%2C72.554562284673&w=1200",
-      "source": "Arrowhead Pride",
-      "publishedAt": "2025-09-05T19:52:30Z",
-      "description": "Na co se zaměřit při úvodním zápase sezóny 2025 mezi Kansas City Chiefs a Los Angeles Chargers"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Státní zákonodárce James Talarico vstupuje do senátních voleb v Texasu",
+      "title": "Poslanec James Talarico vstoupí do senátních voleb v Texasu",
       "original_title": "State Rep. James Talarico to jump in Texas Senate race - Politico",
       "url": "https://www.politico.com/news/2025/09/05/talarico-texas-senate-campaign-00546945",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F22%2Fed%2F53ed6f7a47f89babc4e810ebf4d0%2Felection-2026-texas-senate-redistricting-73855.jpg",
@@ -114,46 +158,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Společnost Anthropic oznámila americkému soudci, že zaplatí 1,5 miliardy dolarů na vyrovnání v žalobě autorů",
-      "original_title": "Anthropic tells US judge it will pay $1.5 billion to settle author class action - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/anthropic-tells-us-judge-pay-190437711.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters.com/7577a4c25c640ca2c12ac3b902eb7670",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-05T19:04:37Z",
-      "description": "(Reuters) – Společnost Anthropic v pátek sdělila federálnímu soudci v San Franciscu, že se dohodla na zaplacení 1,5 miliardy dolarů k vyrovnání skupinové žaloby od skupiny..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Donald Trump pozval šéfy technologických gigantů na večeři do Bílého domu. Rozhodli jsme se podívat na rozsazení hostů.",
+      "title": "Donald Trump pozval šéfy velkých technologických firem na večeři do Bílého domu. Rozhodli jsme se podívat na rozsazení u stolu.",
       "original_title": "Donald Trump summoned Big Tech CEOs to a White House dinner. We decided to zoom in on the seating chart. - Business Insider",
       "url": "https://www.businessinsider.com/donald-trump-big-tech-ceo-dinner-mark-zuckerberg-seating-chart-2025-9",
       "urlToImage": "https://i.insider.com/68bb3a4732af4d666ef7601c?width=1200&format=jpeg",
       "source": "Business Insider",
       "publishedAt": "2025-09-05T19:04:00Z",
-      "description": "Večeře Donalda Trumpa s technologickými magnáty hostila Marka Zuckerberga, Billa Gatese, Tima Cooka a Sama Altmana. Prozkoumejme uspořádání u stolu."
+      "description": "Večeře Donalda Trumpa s technologickými šéfy zahrnovala Marka Zuckerberga, Billa Gatese, Tima Cooka a Sama Altmana. Podívejme se na uspořádání míst u stolu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Fotografie z premiéry na červeném koberci na filmovém festivalu TIFF: Sydney Sweeney, Ben Foster, Katy O'Brian, Christy Martinová a další",
-      "original_title": "‘Christy’ TIFF Red Carpet Premiere Photos: Sydney Sweeney, Ben Foster, Katy O’Brian, Christy Martin & More - Deadline",
-      "url": "https://deadline.com/gallery/christy-tiff-film-festival-premiere-red-carpet-photos/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Christy_6a5bd3.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-05T17:54:00Z",
-      "description": "Na filmovém festivalu v Torontu 2025 měl světovou premiéru film Davida Michôda 'Christy' se Sydney Sweeney a Benem Fosterem"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ocas komety, která k nám zavítala z jiné hvězdné soustavy, se prodlužuje, ukazuje nový snímek z teleskopu",
-      "original_title": "Tail of comet that's visiting from another star is growing, new telescope image shows - CBS News",
-      "url": "https://www.cbsnews.com/news/comet-3i-atlas-telescope-space-image/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/05/5c34d236-d690-4834-9acc-cb0239825df4/thumbnail/1200x630/b8faf3bdf4580a1819638d27e48e101b/screenshot-2025-09-05-at-12-10-48-pm.png",
-      "source": "CBS News",
-      "publishedAt": "2025-09-05T17:08:11Z",
-      "description": "Astronomové v Chile zachytili nový snímek komety 3I/ATLAS na její cestě vnitřní sluneční soustavou."
+      "title": "Zemřel Mark Volman, spoluzakladatel skupiny Turtles a zpěvák, který nazpíval hit ‚Happy Together‘. Bylo mu 78 let",
+      "original_title": "Mark Volman, Turtles and Flo & Eddie Co-Founder and Singer on ‘Happy Together,’ Dies at 78 - Variety",
+      "url": "https://variety.com/2025/music/obituaries-people-news/mark-volman-dead-turtles-happy-together-1236509450/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-1162981949.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-05T18:06:00Z",
+      "description": "Zakládající člen rockové kapely The Turtles Mark Volman zemřel v 75 letech"
     },
     {
       "flag": "🌍",
@@ -164,12 +186,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257842_Lenovo_Legion_Go_2_IFA2025_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-05T16:54:30Z",
-      "description": "První přenosné zařízení mimo Asus, které ji obdrží."
+      "description": "První přenosná konzole mimo Asus, která ji dostane."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sakra! Nová studie varuje: Nadměrné používání telefonu na toaletě souvisí s bolestivým zdravotním problémem",
+      "title": "Sakra! Znepokojivá nová studie spojuje nadměrné používání telefonu na toaletě s bolestivým zdravotním problémem",
       "original_title": "Crap! Alarming new study links excessive phone use on toilet to painful health problem - MLive.com",
       "url": "https://www.mlive.com/news/2025/09/crap-alarming-new-study-links-excessive-phone-use-on-toilet-to-painful-health-problem.html",
       "urlToImage": "https://www.mlive.com/resizer/v2/5SQ7EA4JHNEHNNGHKFFJPVPBHM.JPG?auth=127661e0ed82c9d2f34afac87d31c2d3862ee0aabeddd829cf8421fc154e1d35&width=1280&quality=90",
@@ -186,23 +208,23 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250905-ryan.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-05T15:41:00Z",
-      "description": "Bill Murray je známý tím, že ho je těžké zastihnout. Ryan Reynolds se o tom přesvědčil na vlastní kůži."
+      "description": "Bill Murray je známý tím, že je těžké ho zastihnout. Ryan Reynolds se o tom přesvědčil na vlastní kůži."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Profesor z College of Charleston zemřel při nehodě v Portugalsku",
+      "original_title": "College of Charleston professor dies in Portugal crash - Post and Courier",
+      "url": "https://www.postandcourier.com/news/charleston-professor-heather-hall-dies-lisbon-portugal/article_fae2183c-a016-42f2-a10a-2d781d7de1b4.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/e/45/e45cb486-4b1f-4a0f-b900-f485f5967d4c/68baf7e063da5.image.jpg?crop=1762%2C926%2C0%2C124&resize=1200%2C631&order=crop%2Cresize",
+      "source": "Charleston Post Courier",
+      "publishedAt": "2025-09-05T15:00:00Z",
+      "description": "Profesorka pedagogiky z College of Charleston Heather Hallová zemřela 3. září při nehodě na konferenci v Lisabonu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‘The Conjuring: Poslední pomazání’ vzkřísil tržby rekordními 8,5 miliony dolarů z předpremiér",
-      "original_title": "‘The Conjuring: Last Rites’ Jolts Box Office Back to Life with Record $8.5M in Previews - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/conjuring-last-rites-box-office-record-previews-1236362035/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/rev-1-CLR-03361r_High_Res_JPEG-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-05T15:28:55Z",
-      "description": "Hororový trhák má na páteční pokladně obrovský úspěch, ve čtvrtečních previích vydělal rekordních 8,5 milionu dolarů. Znovuvydání „Hamiltona“ od Lina-Manuela Mirandy také sklízí úspěch."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sledujte úplné zatmění měsíce krve 7. září díky těmto bezplatným přenosům (video)",
+      "title": "Sledujte úplné zatmění Měsíce krve 7. září: živé přenosy zdarma (video)",
       "original_title": "Watch the blood moon total lunar eclipse on Sept. 7 with these free livestreams (video) - Space",
       "url": "https://www.space.com/stargazing/lunar-eclipses/how-to-watch-blood-moon-total-lunar-eclipse-online-livestream-sept-7-2025",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/wbWHubD9BBZqCd43Q9oDWL.jpg",
@@ -211,70 +233,59 @@
       "description": "Jak sledovat úplné zatmění Měsíce 7. a 8. září živě z pohodlí domova"
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "New York Times: Neúspěšná mise Navy SEAL z roku 2019 zanechala mrtvé neozbrojené Severokorejce",
-      "original_title": "New York Times: Unsuccessful 2019 Navy SEAL mission left unarmed North Koreans dead - CNN",
-      "url": "https://www.cnn.com/2025/09/05/politics/north-korea-navy-seal-mission-nyt",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1152907322.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-05T14:29:00Z",
-      "description": "Mise v Severní Koreji z roku 2019, během které měli námořní speciální síly SEAL nainstalovat elektronické zařízení k odposlechu komunikací vůdce země Kim Čong-una, skončila neúspěšnou operací, jež ..."
-    },
-    {
       "flag": "🌍",
       "country": "global",
-      "title": "Záhadu designu zadního panelu iPhonu 17 Pro a Pro Max se možná podařilo rozluštit před akcí Applu - 9to5Mac",
+      "title": "Záhadu designu zadní strany iPhonu 17 Pro a Pro Max se možná podařilo rozluštit ještě před akcí Applu",
       "original_title": "iPhone 17 Pro and Pro Max back design mystery may be solved ahead of Apple event - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/05/iphone-17-pro-back-design/",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/bu-iphone-17-pro-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-09-05T12:34:00Z",
-      "description": "Minulý týden jsme upozornili, že navzdory velkému množství informací o iPhonu 17 Pro a Pro Max..."
+      "description": "Již tento týden jsme upozornili, že přestože toho o iPhonu 17 Pro a Pro Max víme strašně moc, tam…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Proč jsou sluneční erupce mnohem žhavější, než vědci předpokládali",
+      "title": "Proč jsou sluneční erupce mnohem teplejší, než vědci předpokládali",
       "original_title": "Why solar flares are way hotter than researchers thought - NPR",
       "url": "https://www.npr.org/2025/09/05/nx-s1-5529330/solar-flares-even-hotter",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4096x2304+0+896/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6c%2F8e9d5a0647359974679e937e0178%2Fgsfc-20171208-archive-e000829-orig.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-05T11:00:00Z",
-      "description": "Nejžhavějšími částmi Slunce jsou sluneční erupce, podle nové studie mohou být více než šestkrát teplejší, než vědci dosud předpokládali."
+      "description": "Nejžhavějšími částmi Slunce jsou jeho erupce, podle nové studie mohou být více než šestkrát teplejší, než se dosud myslelo."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jednorázová dávka LSD může dlouhodobě tlumit úzkosti",
-      "original_title": "'One and done' dose of LSD keeps anxiety at bay : Shots - Health News - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/05/nx-s1-5529325/one-dose-lsd-generalized-anxiety-disorder-psychedelics",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2Fa3%2Fd02daab94e12b4a55ba23afaeeef%2Fgettyimages-2180062660.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-05T10:00:00Z",
-      "description": "Lidé s generalizovanou úzkostnou poruchou se výrazně zlepšili po jediné dávce LSD dostatečně silné k vyvolání psychedelického zážitku."
+      "title": "Žraloci přízrační mají na čele zuby, které jim pomáhají při sexu, naznačuje studie",
+      "original_title": "'Ghost sharks' grow forehead teeth to help them have sex, study suggests - Phys.org",
+      "url": "https://phys.org/news/2025-09-ghost-sharks-forehead-teeth-sex.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ghost-sharks-grow-fore-2.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-09-04T20:20:03Z",
+      "description": "Samci \"žraloků přízračných\" mají na čele podivný výčnělek plný zatahovacích zubů"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova ekonomická spirála zkázy představuje nové nebezpečí pro republikány",
-      "original_title": "Trump's economic doom loop poses new danger for Republicans - Axios",
-      "url": "https://www.axios.com/2025/09/05/trump-polling-economy-big-beautiful-bill",
-      "urlToImage": "https://images.axios.com/n2AA5v6tjR5krAA8IbRuD0C7RiE=/0x0:1920x1080/1366x768/2025/09/04/1757013454887.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-05T09:02:06Z",
-      "description": "Trumpovi hrozí, že uvízne ve stejné dynamice, která zničila Bidena."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mapa 600 000 mozkových buněk přepisuje učebnice o tom, jak mozek dělá rozhodnutí",
+      "title": "Mapa 600 000 mozkových buněk přepisuje učebnice o tom, jak mozek rozhoduje",
       "original_title": "Map of 600,000 brain cells rewrites the textbook on how the brain makes decisions - Live Science",
       "url": "https://www.livescience.com/health/neuroscience/map-of-600-000-brain-cells-rewrites-the-textbook-on-how-the-brain-makes-decisions",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/YoDmPuscjctvCjjTYybBje.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-04T16:34:53Z",
-      "description": "Nový výzkum ukazuje, že mozková aktivita při rozhodování je mnohem rozšířenější, než se původně předpokládalo."
+      "description": "Nový výzkum ukazuje, že mozková aktivita při rozhodování je mnohem rozšířenější, než se původně myslelo."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vědci odhalují, jak může čas snídaně předpovědět délku vašeho života",
+      "original_title": "Scientists reveal how breakfast timing may predict how long you live - ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250904103917.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/clock-plate-intermittent-fasting.webp",
+      "source": "Science Daily",
+      "publishedAt": "2025-09-04T16:24:21Z",
+      "description": "Načasování jídel se s věkem mění a podle vědců je pozdější snídaně spojena s depresí, únavou, poruchami spánku a vyšším rizikem úmrtí. Sledování času jídel může být pro stárnoucí dospělé jednoduchý..."
     }
   ]
 }
