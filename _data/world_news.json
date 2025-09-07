@@ -1,27 +1,16 @@
 {
-  "last_updated": "2025-09-07T06:23:47",
+  "last_updated": "2025-09-07T07:15:23",
   "articles": [
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Maryland vysílá více policistů do Baltimoru poté, co Trump pohrozil vysláním vojáků",
-      "original_title": "Maryland deploys more law enforcement to Baltimore amid Trump’s threats to send troops - The Washington Post",
-      "url": "https://www.washingtonpost.com/dc-md-va/2025/09/05/baltimore-trump-national-guard-troops/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWEREDVQKZCKDU4NCPZFDZ2DI_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-06T03:51:47Z",
-      "description": "Marylandští státní policisté budou vysláni na státní silnice v Baltimoru, což umožní tamním strážníkům hlídat jinde, zatímco prezident Donald Trump hrozí vysláním federálních jednotek."
-    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Justin Herbert nahrál na 318 yardů a tři touchdowny, Chargers porazili Chiefse 27:21",
+      "title": "Justin Herbert nahodil 318 yardů a tři touchdowny, Chargers porazili Chiefs 27:21",
       "original_title": "Justin Herbert throws for 318, three TDs as Chargers hold off Chiefs 27-21 - NBC Sports",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-throws-for-318-three-tds-as-chargers-hold-off-chiefs-27-21",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/68f5d59/2147483647/strip/true/crop/5643x3174+0+294/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fd3%2F49d8c0a6475f83ec873f96c7dd95%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2233930449",
       "source": "NBCSports.com",
       "publishedAt": "2025-09-06T03:22:30Z",
-      "description": "Herbert během dvouminutového varování na třetí pokus se 13 yardy zaběhl 19 yardů, aby udržel míč mimo dosah Patricka Mahomese."
+      "description": "Herbert na třetí pokus a 13 yardů v dvouminutovém varování zaběhl 19 yardů, aby udržel míč mimo dosah Patricka Mahomese."
     },
     {
       "flag": "🇺🇸",
@@ -32,7 +21,29 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7JG76UTQR2WE54CW6ZIVW23MFE.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-06T03:22:19Z",
-      "description": "Při razií na staveništi v továrně Hyundai v Georgii bylo zatčeno téměř 500 lidí, většina z Jižní Koreje."
+      "description": "Při razií v továrně Hyundai v Georgii bylo zatčeno téměř 500 lidí, většina z Jižní Koreje."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Američtí námořníci SEAL zabili při nezdařené misi severokorejské civilisty, tvrdí zpráva",
+      "original_title": "US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/6/us-navy-seals-killed-north-korean-civilians-during-botched-mission-report",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2011-11-12T120000Z_669170028_GM1E7BD0HRD01_RTRMADP_3_SEALS-DEMONSTRATION-1757124983_b5f9ba-1757125759.jpg?resize=1200%2C630&quality=80",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-06T02:42:20Z",
+      "description": "Americké speciální síly zabily několik severokorejských rybářů potápějících se za ústřicemi po neplánovaném setkání."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Powerball vzrostl na 1,8 miliardy dolarů na sobotu, blízko rekordu",
+      "original_title": "Powerball jumps to $1.8 billion for Saturday, near all-time record - Axios",
+      "url": "https://www.axios.com/2025/09/05/powerball-drawing-saturday-second-largest-jackpot",
+      "urlToImage": "https://images.axios.com/EKtiBJLIef2Lt1tIvjK7ptQfEqg=/0x0:1600x900/1366x768/2025/09/05/1757091250676.png",
+      "source": "Axios",
+      "publishedAt": "2025-09-06T02:13:23Z",
+      "description": "Pokud nikdo nevyhraje Powerball v sobotu, pondělní slosování může stanovit nový americký rekord nejvyššího jackpotu."
     },
     {
       "flag": "🌍",
@@ -43,62 +54,51 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3967x2231+0+207/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F6b%2F4221fe0e4eccbcbea7f0c49d1a7b%2Fgettyimages-2227254922.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-06T00:19:33Z",
-      "description": "Americký okresní soud příští týden posoudí schválení vyrovnání v případu, který přinesl první zásadní rozhodnutí o tom, jak se doktrína fair use vztahuje na generativní AI systémy."
+      "description": "Americký okresní soud příští týden posoudí schválení dohody v případu, který přinesl první zásadní rozhodnutí o tom, jak se použití autorských děl v systémech generativní AI vztahuje na fair use."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vypuknutí salmonely spojené s Metabolic Meals zasáhlo více než tucet lidí, sedm hospitalizováno, uvádí CDC",
-      "original_title": "Salmonella outbreak linked to Metabolic Meals sickens more than a dozen people, 7 hospitalized, CDC says - CBS News",
-      "url": "https://www.cbsnews.com/news/salmonella-outbreak-metabolic-meals-cdc/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/05/f862d1e4-9f47-48a2-b808-4e4ce7e59a4f/thumbnail/1200x630/9fa441f5fae658d6490e4a91effb6fa0/where-sick-people-lived-582025.png",
-      "source": "CBS News",
-      "publishedAt": "2025-09-06T00:02:47Z",
-      "description": "Lidé nemocní z výskytu salmonely spojeného s dovozem jídla Metabolic Meals žili v 10 státech, uvedlo CDC."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Izrael ve 701. dni války: Co se děje v Gaze a na Západním břehu?",
-      "original_title": "Israel at War Day 701: What's going on in Gaza, West Bank? - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/2025-09-06/live-updates-866524",
-      "urlToImage": null,
-      "source": "The Jerusalem Post",
-      "publishedAt": "2025-09-06T00:00:05Z",
-      "description": ""
+      "title": "První magnetická pole ve vesmíru byla ‚srovnatelná‘ s lidským mozkem — a stále přetrvávají v ‚kosmické pavučině‘",
+      "original_title": "The universe's first magnetic fields were 'comparable' to the human brain — and still linger within the 'cosmic web' - Live Science",
+      "url": "https://www.livescience.com/space/cosmology/the-universes-first-magnetic-fields-were-comparable-to-the-human-brain-and-still-linger-within-the-cosmic-web",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qLGBR2qCoCAdYJtAiywqLg.webp",
+      "source": "Live Science",
+      "publishedAt": "2025-09-06T00:00:00Z",
+      "description": "Nové počítačové simulace naznačují, že první magnetická pole po Velkém třesku byla mnohem slabší, než se čekalo – obsahovala magnetickou energii srovnatelnou s lidským mozkem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Instruktor z College of Charleston mezi oběťmi nehody lanovky v Lisabonu",
+      "title": "Pedagog z College of Charleston mezi oběťmi nehody lanovky v Lisabonu",
       "original_title": "College of Charleston instructor among victims killed in Lisbon funicular crash - NBC News",
       "url": "https://www.nbcnews.com/world/europe/college-charleston-instructor-victims-killed-lisbon-funicular-crash-rcna229465",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-lisbon-streetcar-crash-aftermath-ac-731p-f89fce.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-05T23:57:00Z",
-      "description": "Charleston College v pátek potvrdil, že jeden z jeho instruktorů patřil mezi 16 lidí zabitých při středeční nehodě populární pozemní lanovky v Lisabonu."
+      "description": "Charleston College v pátek potvrdilo, že jeden z jeho instruktorů patřil mezi 16 lidí zabitých při středeční nehodě populární lanovky v Lisabonu."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Soudce zrušil ukončení ochrany pro venezuelské a haitské migranty jako nezákonné",
+      "title": "Soudce rozhodl, že ukončení ochrany pro venezuelské a haitské migranty je nezákonné",
       "original_title": "Judge rules ending protections for Venezuelan and Haitian migrants is unlawful - BBC",
       "url": "https://www.bbc.com/news/articles/c3vzknpywp4o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a928/live/0da0d120-8aa7-11f0-8d32-095c155d0044.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-05T23:36:04Z",
-      "description": "Rozhodnutí je reakcí na snahu Trumpovy administrativy ukončit dočasnou ochranu (TPS)."
+      "description": "Rozhodnutí je reakcí na snahu Trumpovy administrativy ukončit status dočasné ochrany (TPS)."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Výherci Powerballu si mohou zvolit potenciálně \"nebezpečnou\" jednorázovou výplatu nebo \"bezpečnou\" roční rentu. Účetní radí.",
-      "original_title": "Powerball winners can opt for potentially \"dangerous\" lump sum or \"safe bet\" annual payments. An accountant gives advice. - CBS News",
-      "url": "https://www.cbsnews.com/news/powerball-jackpot-winners-lump-sum-annual-payments-accountant-advice/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/05/98a01478-a85d-42bd-bb43-b6225557a146/thumbnail/1200x630/4aa4596d487331d8c4252dc82e1c90f1/gettyimages-2231845592.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-05T23:13:05Z",
-      "description": "Sobotní Powerball jackpot by byl druhý největší v historii amerických loterií, hned po světovém rekordu 2,04 miliardy dolarů z roku 2022."
+      "title": "Trump se v otázce očkování rozešel s RFK: „Jednoduše fungují“",
+      "original_title": "Trump breaks from RFK on vaccines: \"Pure and simple, they work\" - Axios",
+      "url": "https://www.axios.com/2025/09/05/trump-rfk-jr-covid-vaccine-cdc",
+      "urlToImage": "https://images.axios.com/4JEijWxk8uAyMaZXvjgryFbOGw4=/0x156:8068x4694/1366x768/2025/09/05/1757110021039.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-05T23:30:27Z",
+      "description": "RFK Jr. čelí rozsáhlé kritice za své nedávné nařízení očkování."
     },
     {
       "flag": "🌍",
@@ -109,12 +109,12 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/26/85b95d25-c652-4055-894c-5f4fa66c686b/thumbnail/1200x630/ea7c75906231f245785d8803d60fb153/gettyimages-2231358090.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-05T23:05:00Z",
-      "description": "Trumpova administrativa se v pátek pokusí deportovat Kilmara Abrega Garcíu do malého afrického království Eswatini, uvádí e-mail, který získala CBS News"
+      "description": "Trumpova administrativa v pátek oznámila Kilmaru Abrego Garciovi, že se ho nyní snaží deportovat do malého afrického království Eswatini, uvádí e-mail, který získala CBS News."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Získejte darem poukázku na 100 dolarů při nákupu Samsung Galaxy S25 FE na Amazonu",
+      "title": "Získejte zdarma dárkovou kartu za 100 dolarů při koupi Samsung Galaxy S25 FE na Amazonu",
       "original_title": "Get a free $100 gift card when you buy the Samsung Galaxy S25 FE at Amazon - Mashable",
       "url": "https://mashable.com/article/sept-5-samsung-galaxy-fe-deal",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/03GI0URlpRescfkzYdaZ9Hv/hero-image.fill.size_1200x675.v1757061473.png",
@@ -125,57 +125,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Analýza cen v Torontu: Ať se vám to líbí, nebo ne, Sydney Sweeney se filmem ‚Christy‘ připojila k oscarovému závodu o nejlepší herečku",
+      "title": "Analýza cen v Torontu: Ať se vám to líbí nebo ne, Sydney Sweeney se svým filmem ‚Christy‘ vstoupila do oscarového závodu o nejlepší herečku",
       "original_title": "Toronto Awards Analysis: Like It Or Not, Sydney Sweeney Has Joined the Best Actress Oscar Race for ‘Christy’ - The Hollywood Reporter",
       "url": "http://www.hollywoodreporter.com/movies/movie-news/sydney-sweeney-christy-best-actress-oscar-awards-analysis-1236362694/",
       "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Christy_Still_HERO-H-2025.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
       "publishedAt": "2025-09-05T22:22:17Z",
-      "description": "Sweeneyová za ztvárnění průkopnické boxerky Christy Martinové sklidila po páteční světové premiéře filmu dlouhotrvající potlesk ve stoje."
+      "description": "Sweeneyová za ztvárnění průkopnické boxerky Christy Martinové sklidila po páteční světové premiéře filmu dlouhotrvající potlesk vestoje."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kdo může dostat vakcínu proti covidu — a jak? Je to složité.",
+      "title": "Kdo může dostat vakcínu proti covidu – a jak? Je to složité.",
       "original_title": "Who can get a COVID vaccine—and how? It’s complicated. - Ars Technica",
       "url": "https://arstechnica.com/health/2025/09/who-can-get-a-covid-vaccine-and-how-its-complicated/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2168151364-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-05T22:20:39Z",
-      "description": "Pracujeme v roztříštěném systému plném šedých zón."
+      "description": "Pracujeme v roztříštěném systému, ve kterém je spousta šedých zón."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Eric Adams odmítá opustit newyorskou volební kampaň po zprávách o nabídce práce od Trumpa",
-      "original_title": "Eric Adams refuses to exit NYC mayor race after reports of Trump job offer - Axios",
-      "url": "https://www.axios.com/2025/09/05/eric-adams-nyc-mayor-race-trump-job",
-      "urlToImage": "https://images.axios.com/o-hfXsqZIpGEJp-sifjJs50rgh8=/0x81:4000x2331/1366x768/2025/09/05/1757104166663.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-05T22:09:46Z",
-      "description": "Adams popřel zprávy médií, že opouští volební klání, aby se připojil k Trumpově administrativě."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump vyjadřuje obavy nad zrušením očkovacích povinností na Floridě: ‚Musíme být velmi opatrní‘",
-      "original_title": "Trump expresses reservations over Florida eliminating vaccine mandates: ‘We have to be very careful’ - yahoo.com",
-      "url": "https://thehill.com/policy/healthcare/5489364-trump-vaccine-reservations-florida/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/09/AP25248780314869-e1757109755700.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2025-09-05T22:06:10Z",
-      "description": "Trump v pátek vyjádřil pochybnosti o zrušení povinného očkování na školách na Floridě"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Informační list: Prezident Donald J. Trump obnovuje Ministerstvo války Spojených států – Bílý dům (.gov)",
+      "title": "Informační list: Prezident Donald J. Trump obnovuje Ministerstvo války Spojených států - Bílý dům (.gov)",
       "original_title": "Fact Sheet: President Donald J. Trump Restores the United States Department of War - The White House (.gov)",
       "url": "https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-restores-the-united-states-department-of-war/",
       "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
       "source": "Whitehouse.gov",
       "publishedAt": "2025-09-05T21:50:37Z",
-      "description": "Obnovení ministerstva války: Dnes podepsal prezident Donald J. Trump výkonný příkaz, kterým obnovuje historický název „ministerstvo války“ jakožto"
+      "description": "Obnovení ministerstva války: Dnes podepsal prezident Donald J. Trump výkonný příkaz, kterým obnovuje historický název „ministerstvo války“ jako"
     },
     {
       "flag": "🇺🇸",
@@ -186,7 +164,18 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YZ7IEIT2EO3ZC6PTJXYQKYV3NM.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-05T19:59:22Z",
-      "description": "Zdravotníci zaznamenali nejméně 28 podezřelých případů během šestnáctého vypuknutí smrtelné nemoci ve středoafrické zemi."
+      "description": "Zdravotníci zaznamenali nejméně 28 podezřelých případů během šestnáctého výskytu smrtelné nemoci ve středoafrické zemi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Recenze ‚Palestine 36‘: Velkolepé historické drama je příliš ambiciózní, ale rezonuje s dneškem",
+      "original_title": "‘Palestine 36’ Review: Epic Historical Drama Overreaches in Its Ambition but Resonates with Today - IndieWire",
+      "url": "https://www.indiewire.com/criticism/movies/palestine-36-review-1235149102/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/09/Palestine-36_Still_.jpg?w=650",
+      "source": "IndieWire",
+      "publishedAt": "2025-09-05T19:00:00Z",
+      "description": "Recenze 'Palestine 36': Velkolepé historické drama je příliš ambiciózní, ale rezonuje s dneškem."
     },
     {
       "flag": "🌍",
@@ -202,24 +191,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Demokrat, který označil RFK Jr. za ‚šarlatána‘, říká, že USA jsou zranitelné vůči další pandemii",
-      "original_title": "Democrat who called RFK Jr. a 'charlatan' says U.S. is vulnerable to next pandemic - NPR",
-      "url": "https://www.npr.org/2025/09/05/nx-s1-5528764/democrat-maria-cantwell-rfk-kennedy-hearing-vaccines-risk",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8139x4578+0+723/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2Fe0%2F37ad9ef54c3f95f1072f7b0a2c72%2Fgettyimages-2233689976.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-05T18:00:00Z",
-      "description": "Senátorka Maria Cantwellová z Washingtonu tvrdí, že ministr zdravotnictví Robert F. Kennedy mladší „následuje vědu“, jak slíbil během svých potvrzovacích slyšení na začátku roku."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ocas komety, která k nám zavítala z jiné hvězdy, se prodlužuje, ukazuje nový snímek z teleskopu",
+      "title": "Ocas komety z jiné hvězdné soustavy se prodlužuje, ukazuje nový snímek z teleskopu",
       "original_title": "Tail of comet that's visiting from another star is growing, new telescope image shows - CBS News",
       "url": "https://www.cbsnews.com/news/comet-3i-atlas-telescope-space-image/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/05/5c34d236-d690-4834-9acc-cb0239825df4/thumbnail/1200x630/b8faf3bdf4580a1819638d27e48e101b/screenshot-2025-09-05-at-12-10-48-pm.png",
       "source": "CBS News",
       "publishedAt": "2025-09-05T17:08:11Z",
-      "description": "Čeští astronomové zachytili nový snímek komety 3I/ATLAS na její cestě vnitřní sluneční soustavou."
+      "description": "Astronomové v Chile zachytili nový snímek komety 3I/ATLAS na její cestě vnitřní sluneční soustavou."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Sakra! Znepokojivá nová studie spojuje nadměrné používání telefonu na toaletě s bolestivým zdravotním problémem",
+      "original_title": "Crap! Alarming new study links excessive phone use on toilet to painful health problem - MLive.com",
+      "url": "https://www.mlive.com/news/2025/09/crap-alarming-new-study-links-excessive-phone-use-on-toilet-to-painful-health-problem.html",
+      "urlToImage": "https://www.mlive.com/resizer/v2/5SQ7EA4JHNEHNNGHKFFJPVPBHM.JPG?auth=127661e0ed82c9d2f34afac87d31c2d3862ee0aabeddd829cf8421fc154e1d35&width=1280&quality=90",
+      "source": "mlive.com",
+      "publishedAt": "2025-09-05T16:54:00Z",
+      "description": "Je to také prostě nechutné, říkají odborníci."
     },
     {
       "flag": "🌍",
@@ -230,18 +219,18 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-physics-based-indi.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-05T15:45:40Z",
-      "description": "Kolaps klíčového systému mořských proudů může přinést malou dobu ledovou v Evropě"
+      "description": "Kolaps klíčového systému proudění oceánu by mohl přinést malou dobu ledovou"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akce společnosti Apple 9. září představí novou generaci iPhonu a Apple Watch",
-      "original_title": "Apple’s Sept. 9 Event to Feature Next-Generation iPhone and Apple Watch - PYMNTS.com",
-      "url": "http://www.pymnts.com/apple/2025/apples-sept-9-event-to-feature-next-generation-iphone-and-apple-watch/",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/09/Apple-Event-Sept-9.jpeg",
-      "source": "pymnts.com",
-      "publishedAt": "2025-09-05T15:44:13Z",
-      "description": "Když Apple v úterý (9. září) pořádá svou událost k představení produktů, většina změn se podle zpráv bude týkat hardwaru spíše než softwaru."
+      "title": "Eric Adams zůstává v newyorské primárce poté, co Trumpovi poradci naznačovali možnost velvyslaneckého postu",
+      "original_title": "Eric Adams stays in NYC mayor's race after Trump aides tease ambassadorship - ABC News",
+      "url": "https://abcnews.go.com/US/trump-advisers-make-push-eric-adams-ambassadorship-exit/story?id\\\\u003d125294410",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-05T15:45:38Z",
+      "description": ""
     },
     {
       "flag": "🇺🇸",
@@ -263,7 +252,7 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/wbWHubD9BBZqCd43Q9oDWL.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-05T15:00:00Z",
-      "description": "Jak sledovat úplné zatmění Měsíce 7. a 8. září živě z pohodlí domova"
+      "description": "Jak sledovat úplné zatmění Měsíce 7. a 8. září živě z pohodlí domova."
     },
     {
       "flag": "🌍",
@@ -285,40 +274,29 @@
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-s26-edge-cad-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
       "publishedAt": "2025-09-05T13:10:00Z",
-      "description": "Podle nového úniku bude Galaxy S26 Edge nejen tenčí s designem podobným iPhonu 17, ale také přijme standard Qi2."
+      "description": "Podle nového úniku bude Galaxy S26 Edge nejen tenčí s designem podobným iPhonu 17, ale také přejde na Qi2."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pohled na slavné svatební róby od Giorgia Armaniho: od Katie Holmes po princeznu Charlene",
-      "original_title": "A Look Back at Giorgio Armani’s Famous Wedding Dress Designs: From Katie Holmes to Princess Charlene - WWD",
-      "url": "http://wwd.com/pop-culture/culture-news/feature/giorgio-armani-famous-wedding-dresses-1238110934/",
-      "urlToImage": "https://wwd.com/wp-content/uploads/2025/09/armani-wedding-dresses-fi.jpg?w=1000&h=563&crop=1",
-      "source": "WWD",
-      "publishedAt": "2025-09-05T12:23:32Z",
-      "description": "Italský návrhář vytvořil svatební šaty pro Katie Holmes a princeznu Charlene."
+      "title": "Záhadu designu zad iPhone 17 Pro a Pro Max se možná podařilo rozluštit ještě před akcí Applu - 9to5Mac",
+      "original_title": "iPhone 17 Pro and Pro Max back design mystery may be solved ahead of Apple event - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/05/iphone-17-pro-back-design/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/bu-iphone-17-pro-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-05T12:34:00Z",
+      "description": "Začátkem tohoto týdne jsme upozornili, že přestože toho víme spoustu o iPhonu 17 Pro a Pro Max..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Proč jsou sluneční erupce mnohem žhavější, než vědci předpokládali",
-      "original_title": "Why solar flares are way hotter than researchers thought - NPR",
-      "url": "https://www.npr.org/2025/09/05/nx-s1-5529330/solar-flares-even-hotter",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4096x2304+0+896/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6c%2F8e9d5a0647359974679e937e0178%2Fgsfc-20171208-archive-e000829-orig.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-05T11:00:00Z",
-      "description": "Nejžhavější části Slunce jsou jeho erupce a podle nové studie mohou být více než šestkrát teplejší, než se dosud myslelo."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sladidla v dietních nápojích mohou mozku ukrást roky života",
+      "title": "Sladidla v dietních nápojích mohou mozku ukrást roky života.",
       "original_title": "Sweeteners in diet drinks may steal years from the brain - ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2025/09/250904103923.htm",
       "urlToImage": "https://www.sciencedaily.com/images/1920/glitch-brain.webp",
       "source": "Science Daily",
       "publishedAt": "2025-09-05T02:15:00Z",
-      "description": "Rozsáhlá brazilská studie sledující více než 12 000 osob středního věku zjistila, že u těch, kteří konzumovali nejvíce umělých sladidel – běžně obsažených v dietních sodovkách, ochucených vodách a ..."
+      "description": "Rozsáhlá brazilská studie zjistila u konzumentů umělých sladidel rychlejší úbytek paměti a myšlení"
     }
   ]
 }
