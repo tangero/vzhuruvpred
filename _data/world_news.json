@@ -1,10 +1,87 @@
 {
-  "last_updated": "2025-09-07T08:20:02",
+  "last_updated": "2025-09-07T09:16:03",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Justin Herbert nahodil 318 yardů a tři touchdowny, Chargers porazili Chiefs 27:21",
+      "title": "Anthropic zaplatí 3000 dolarů za knihu v rámci vyrovnání za autorská práva AI v hodnotě 1,5 miliardy",
+      "original_title": "Anthropic to pay $3,000 per book in $1.5 billion AI copyright settlement - Axios",
+      "url": "https://www.axios.com/2025/09/05/anthropic-ai-copyright-settlement",
+      "urlToImage": "https://images.axios.com/OM1C6Pi5iMzJYEI9rMwJec3SpUw=/1366x768/smart/2021/09/14/203731-1631651851909.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-06T08:35:37Z",
+      "description": "Dohoda představuje zlom ve sporu mezi společnostmi zabývajícími se umělou inteligencí a vlastníky obsahu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Eric Adams odmítá opustit newyorskou volební kampaň po zprávách o Trumpově nabídce práce",
+      "original_title": "Eric Adams refuses to exit NYC mayor race after reports of Trump job offer - Axios",
+      "url": "https://www.axios.com/2025/09/05/eric-adams-nyc-mayor-race-trump-job",
+      "urlToImage": "https://images.axios.com/o-hfXsqZIpGEJp-sifjJs50rgh8=/0x81:4000x2331/1366x768/2025/09/05/1757104166663.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-06T08:14:06Z",
+      "description": "Adams popřel zprávy médií, že opouští volební boj kvůli angažmá v Trumpově administrativě."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Co pro vás znamená nejnovější zpráva o pracovních místech … držte se",
+      "original_title": "What the latest jobs report means for you … buckle up - CNN",
+      "url": "https://www.cnn.com/2025/09/06/economy/us-jobs-report-impacts-americans",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2216856716-20250905194245805.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-06T08:00:00Z",
+      "description": "Po letech hojnosti pracovních příležitostí, slušného růstu platů a utrácení z úspor nashromážděných během pandemie teď američtí pracovníci čelí střízlivé ekonomické realitě: je čím dál těžší najít ..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Soudce zablokoval úředníkům Trumpovy administrativy ukončení zvláštního statusu pro Venezuelany a Haiťany",
+      "original_title": "Judge halts Trump officials from ending special status for Venezuelans, Haitians - The Washington Post",
+      "url": "https://www.washingtonpost.com/immigration/2025/09/05/immigration-tps-venezuelans-haitians-judge-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JQGWIE2KJMNXE7AIO7POOLXLHQ_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-06T06:51:46Z",
+      "description": "Rozhodnutí zablokovat Trumpovu administrativu v ukončení ochrany TPS pro migranty může ochránit stovky tisíc lidí před možnou deportací."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "‚Jsme vojsko‘: Chicago se připravuje na Trumpův plán s Národní gardou",
+      "original_title": "'We are the troops': Chicago braces for Trump's National Guard plan - BBC",
+      "url": "https://www.bbc.com/news/articles/c4gj489q6e0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc96/live/eaa23ae0-8acb-11f0-8949-d38631893a6a.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-06T05:56:59Z",
+      "description": "Místní se snaží zabránit mladým vstupu do gangů, jiní ale volají po brzkém příchodu vojáků."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Američtí imigrační agenti zatkli stovky lidí v továrně Hyundai, Jižní Korea vyjadřuje „znepokojení“ - France 24",
+      "original_title": "US immigration agents arrest hundreds at Hyundai plant, South Korea expresses ‘concern’ - France 24",
+      "url": "https://www.france24.com/en/americas/20250906-us-immigration-agents-arrest-hundreds-at-hyundai-plant-south-korea-expresses-concern",
+      "urlToImage": "https://s.france24.com/media/display/69b1c06e-8ae3-11f0-9447-005056a97e36/w:1280/p:16x9/AP25247712052767.jpg",
+      "source": "FRANCE 24 English",
+      "publishedAt": "2025-09-06T05:54:25Z",
+      "description": "Jihokorejský ministr zahraničí Cho Hyun v sobotu uvedl, že Soul je \"hluboce znepokojen\" zatčením více než 300 jeho občanů během razie americké imigrační a celní policie (ICE) v továrně Hyundai."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Si Ťin-pching žádá svět, aby si vybral mezi ‚válkou a mírem‘. Jakým směrem se vydává Čína?",
+      "original_title": "Xi Jinping asks the world to choose ‘war or peace.’ Which direction is China headed? - CNN",
+      "url": "https://www.cnn.com/2025/09/06/china/xi-jinping-asks-war-or-peace-which-direction-china-intl-hnk-dst",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232838529-20250906031312337.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-06T04:03:00Z",
+      "description": "Optiky nemohly být zřetelnější: Si Ťin-pching přijel na velkolepou vojenskou přehlídku v Pekingu v doprovodu Putina a Kima"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Justin Herbert nahrál na 318 yardů a tři TD, Chargers porazili Chiefs 27:21",
       "original_title": "Justin Herbert throws for 318, three TDs as Chargers hold off Chiefs 27-21 - NBC Sports",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-throws-for-318-three-tds-as-chargers-hold-off-chiefs-27-21",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/68f5d59/2147483647/strip/true/crop/5643x3174+0+294/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fd3%2F49d8c0a6475f83ec873f96c7dd95%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2233930449",
@@ -13,86 +90,86 @@
       "description": "Herbert během dvouminutového varování na třetí pokus se 13 yardy zaběhl 19 yardů, aby udržel míč mimo dosah Patricka Mahomese."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Zátah v továrně Hyundai v Georgii je dosud největší akcí Trumpovy administrativy",
-      "original_title": "Raid at Hyundai factory in Georgia is Trump administration’s largest yet - The Washington Post",
-      "url": "https://www.washingtonpost.com/immigration/2025/09/05/hyundai-trump-immigration-raid-south-korea/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7JG76UTQR2WE54CW6ZIVW23MFE.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-06T03:22:19Z",
-      "description": "Při razií na stavbě u továrny Hyundai v Georgii bylo zatčeno téměř 500 lidí, většinou z Jižní Koreje."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akce společnosti Apple 9. září představí novou generaci iPhonu a Apple Watch",
+      "original_title": "Apple’s Sept. 9 Event to Feature Next-Generation iPhone and Apple Watch - PYMNTS.com",
+      "url": "http://www.pymnts.com/apple/2025/apples-sept-9-event-to-feature-next-generation-iphone-and-apple-watch/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/09/Apple-Event-Sept-9.jpeg",
+      "source": "pymnts.com",
+      "publishedAt": "2025-09-06T03:10:46Z",
+      "description": "Apple v úterý představí hlavně nový hardware, ne software"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Američtí námořníci SEAL zabili při nezdařené misi severokorejské civilisty, tvrdí zpráva",
+      "title": "Co říká výzkum o Tylenolu a autismu",
+      "original_title": "What the research says about Tylenol and autism - CBS News",
+      "url": "https://www.cbsnews.com/news/what-the-research-says-about-tylenol-and-autism/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/06/220ee3e6-05f0-4698-9aff-bfde2b7c9bed/thumbnail/1200x630/beab11d472c247b87d7e30b8c0a702ef/gettyimages-522339474.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-06T03:09:00Z",
+      "description": "Podle zprávy Wall Street Journal ministr zdravotnictví Robert F. Kennedy Jr. plánuje oznámit, že užívání přípravku Tylenol těhotnými ženami může souviset s autismem u dětí."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpova administrativa plánuje deportovat Kilmara Abrega Garcíu do Svazijska",
+      "original_title": "Trump administration plans to deport Kilmar Abrego Garcia to Eswatini - CNN",
+      "url": "https://www.cnn.com/2025/09/05/politics/kilmar-abrego-garcia-deport-eswatini",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25237572858701.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-06T02:47:00Z",
+      "description": "Trumpova administrativa v pátek informovala Kilmara Abrega Garcíu, že jej plánuje deportovat do malého afrického státu Eswatini, zatímco on dále bojuje proti snahám o jeho opětovnou deportaci."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Americké komando SEAL zabilo během nezdařené mise severokorejské civilisty, tvrdí zpráva",
       "original_title": "US Navy SEALs killed North Korean civilians during botched mission: Report - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2025/9/6/us-navy-seals-killed-north-korean-civilians-during-botched-mission-report",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2011-11-12T120000Z_669170028_GM1E7BD0HRD01_RTRMADP_3_SEALS-DEMONSTRATION-1757124983_b5f9ba-1757125759.jpg?resize=1200%2C630&quality=80",
       "source": "Al Jazeera English",
       "publishedAt": "2025-09-06T02:42:20Z",
-      "description": "Americké speciální síly zabily několik severokorejských rybářů potápějících se za ústřicemi po neplánovaném setkání."
+      "description": "Americké speciální síly náhodou narazily na severokorejské rybáře lovící mořské plody a několik jich zabil"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V Powerballu se v sobotu hraje o 1,8 miliardy dolarů, částka se blíží historickému rekordu",
-      "original_title": "Powerball jumps to $1.8 billion for Saturday, near all-time record - Axios",
-      "url": "https://www.axios.com/2025/09/05/powerball-drawing-saturday-second-largest-jackpot",
-      "urlToImage": "https://images.axios.com/EKtiBJLIef2Lt1tIvjK7ptQfEqg=/0x0:1600x900/1366x768/2025/09/05/1757091250676.png",
+      "title": "Izrael před masivní ofenzívou bombarduje výškové budovy v Gaze",
+      "original_title": "Israel bombs high-rise buildings in Gaza City ahead of massive offensive - Axios",
+      "url": "https://www.axios.com/2025/09/05/israel-gaza-city-bombing-high-rise-hamas",
+      "urlToImage": "https://images.axios.com/b4SAUJzXuwf7TJmScccRHbMYYQI=/0x358:4815x3067/1366x768/2025/09/05/1757078601921.jpeg",
       "source": "Axios",
-      "publishedAt": "2025-09-06T02:13:23Z",
-      "description": "Pokud nikdo nevyhraje Powerball v sobotu, pondělní losování může stanovit nový americký rekord nejvyššího jackpotu."
+      "publishedAt": "2025-09-06T00:20:05Z",
+      "description": "„Závora je nyní zvedána z bran pekla v Gaze,“ prohlásil izraelský ministr obrany."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Společnost Anthropic se dohodla s autory v prvním žalobě tohoto druhu za porušení autorských práv umělou inteligencí",
-      "original_title": "Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit - NPR",
-      "url": "https://www.npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3967x2231+0+207/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F6b%2F4221fe0e4eccbcbea7f0c49d1a7b%2Fgettyimages-2227254922.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-06T00:19:33Z",
-      "description": "Americký okresní soud příští týden posoudí schválení vyrovnání v případu, který přinesl první zásadní rozhodnutí o tom, jak se na generativní AI systémy vztahuje poctivé užití."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "První magnetická pole ve vesmíru byla „srovnatelná“ s lidským mozkem — a stále přetrvávají v „kosmické pavučině“",
+      "title": "První magnetická pole ve vesmíru byla ‚srovnatelná‘ s lidským mozkem — a stále přetrvávají v ‚kosmické síti‘",
       "original_title": "The universe's first magnetic fields were 'comparable' to the human brain — and still linger within the 'cosmic web' - Live Science",
       "url": "https://www.livescience.com/space/cosmology/the-universes-first-magnetic-fields-were-comparable-to-the-human-brain-and-still-linger-within-the-cosmic-web",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/qLGBR2qCoCAdYJtAiywqLg.webp",
       "source": "Live Science",
       "publishedAt": "2025-09-06T00:00:00Z",
-      "description": "Nové počítačové simulace naznačují, že první magnetická pole po Velkém třesku byla mnohem slabší, než se čekalo – obsahovala ekvivalent magnetické energie lidského mozku."
+      "description": "Nové počítačové simulace naznačují, že první magnetická pole po Velkém třesku byla mnohem slabší, než se čekalo – obsahovala magnetickou energii srovnatelnou s lidským mozkem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Instruktor z College of Charleston mezi oběťmi nehody lanovky v Lisabonu",
-      "original_title": "College of Charleston instructor among victims killed in Lisbon funicular crash - NBC News",
-      "url": "https://www.nbcnews.com/world/europe/college-charleston-instructor-victims-killed-lisbon-funicular-crash-rcna229465",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250905-lisbon-streetcar-crash-aftermath-ac-731p-f89fce.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-05T23:57:00Z",
-      "description": "Charleston College v pátek potvrdil, že jeden z jeho instruktorů patřil mezi 16 obětí středeční nehody populární lanovky v Lisabonu."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Soudce rozhodl, že ukončení ochrany pro venezuelské a haitské migranty je nezákonné",
-      "original_title": "Judge rules ending protections for Venezuelan and Haitian migrants is unlawful - BBC",
-      "url": "https://www.bbc.com/news/articles/c3vzknpywp4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a928/live/0da0d120-8aa7-11f0-8d32-095c155d0044.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-05T23:36:04Z",
-      "description": "Rozhodnutí je reakcí na snahu Trumpovy administrativy ukončit dočasnou ochranu (TPS)."
+      "title": "Trump opět vychvaluje svou vakcínu proti covidu",
+      "original_title": "Trump is back to touting his Covid shot - Politico",
+      "url": "https://www.politico.com/news/2025/09/05/trump-is-back-to-touting-his-covid-shot-00548433",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F5d%2F54%2Fb8e83df84300a1dd21bc0291b103%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2180628742",
+      "source": "Politico",
+      "publishedAt": "2025-09-05T23:52:12Z",
+      "description": "Prezident řekl, že mnoho lidí považuje vakcíny, na jejichž vývoji se podílel, za ‚úžasné‘ den poté, co senátoři kritizovali nová omezení zavedená jeho ministrem zdravotnictví RFK Jr."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump se v otázce očkování rozešel s RFK: „Čistě a jednoduše fungují“",
+      "title": "Trump se v názoru na vakcíny rozchází s RFK: „Jednoduše fungují“",
       "original_title": "Trump breaks from RFK on vaccines: \"Pure and simple, they work\" - Axios",
       "url": "https://www.axios.com/2025/09/05/trump-rfk-jr-covid-vaccine-cdc",
       "urlToImage": "https://images.axios.com/4JEijWxk8uAyMaZXvjgryFbOGw4=/0x156:8068x4694/1366x768/2025/09/05/1757110021039.jpeg",
@@ -103,18 +180,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova administrativa oznámila Abregu Garcíovi, že mu hrozí deportace do afrického státu Eswatini",
-      "original_title": "Trump administration tells Abrego Garcia he now faces deportation to African country of Eswatini - CBS News",
-      "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-trump-eswatini-deportation/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/26/85b95d25-c652-4055-894c-5f4fa66c686b/thumbnail/1200x630/ea7c75906231f245785d8803d60fb153/gettyimages-2231358090.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-05T23:05:00Z",
-      "description": "Trumpova administrativa se v pátek pokusila deportovat Kilmara Abrega Garcíu do malého afrického království Eswatini, uvádí e-mail, který získala CBS News"
+      "title": "Sydney Sweeneyová zaznamenala na TIFF úspěch s filmem ‘Christy’ a rozdmýchává spekulace o Oscarovi",
+      "original_title": "Sydney Sweeney lands a knockout at TIFF with ‘Christy,’ stoking Oscar buzz - yahoo.com",
+      "url": "https://www.yahoo.com/entertainment/movies/articles/sydney-sweeney-lands-knockout-tiff-230314137.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JlJ4KgozS05fMfwaX6546w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/5fb580ced63e1c6c17af8141cf3669c0",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-05T23:03:14Z",
+      "description": "Sydney Sweeney přijela na Mezinárodní filmový festival v Torontu, aby mluvila o svém novém filmu „Christy“, ne o kampani pro American Eagle. Sedmadvacetiletá..."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Získejte kartu v hodnotě 100 dolarů zdarma při koupi Samsung Galaxy S25 FE na Amazonu",
+      "title": "Získejte zdarma dárkovou kartu za 100 dolarů při nákupu Samsung Galaxy S25 FE na Amazonu",
       "original_title": "Get a free $100 gift card when you buy the Samsung Galaxy S25 FE at Amazon - Mashable",
       "url": "https://mashable.com/article/sept-5-samsung-galaxy-fe-deal",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/03GI0URlpRescfkzYdaZ9Hv/hero-image.fill.size_1200x675.v1757061473.png",
@@ -125,35 +202,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Analýza cen z Toronta: Ať se vám to líbí nebo ne, Sydney Sweeney se filmem ‚Christy‘ připojila k oscarovému závodu o nejlepší herečku",
-      "original_title": "Toronto Awards Analysis: Like It Or Not, Sydney Sweeney Has Joined the Best Actress Oscar Race for ‘Christy’ - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/sydney-sweeney-christy-best-actress-oscar-awards-analysis-1236362694/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Christy_Still_HERO-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-05T22:22:17Z",
-      "description": "Sweeneyová za ztvárnění průkopnické boxerky Christy Martinové sklidila po páteční světové premiéře filmu dlouhotrvající potlesk ve stoje."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "Kdo může dostat vakcínu proti covidu — a jak? Je to složité.",
       "original_title": "Who can get a COVID vaccine—and how? It’s complicated. - Ars Technica",
       "url": "https://arstechnica.com/health/2025/09/who-can-get-a-covid-vaccine-and-how-its-complicated/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2168151364-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-05T22:20:39Z",
-      "description": "Pracujeme v roztříštěném systému, ve kterém je spousta šedých zón."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Informační list: Prezident Donald J. Trump obnovuje Ministerstvo války Spojených států – Bílý dům (.gov)",
-      "original_title": "Fact Sheet: President Donald J. Trump Restores the United States Department of War - The White House (.gov)",
-      "url": "https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-restores-the-united-states-department-of-war/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2025-09-05T21:50:37Z",
-      "description": "Obnovení Ministerstva války: Prezident Donald J. Trump podepsal výkonný příkaz, kterým se obnovuje historický název „Ministerstvo války“ jako"
+      "description": "Pracujeme v roztříštěném systému plném šedých zón."
     },
     {
       "flag": "🇺🇸",
@@ -164,12 +219,12 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YZ7IEIT2EO3ZC6PTJXYQKYV3NM.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-05T19:59:22Z",
-      "description": "Zdravotníci zaznamenali nejméně 28 podezřelých případů během 16. vypuknutí smrtelné nemoci v této středoafrické zemi."
+      "description": "Zdravotníci zaznamenali nejméně 28 podezřelých případů během šestnáctého výskytu smrtelné nemoci v této středoafrické zemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Recenze filmu ‚Palestine 36‘: Velkolepé historické drama je příliš ambiciózní, ale rezonuje s dneškem",
+      "title": "Recenze ‚Palestine 36‘: Velkolepé historické drama s přehnanými ambicemi, ale aktuálním vyzněním",
       "original_title": "‘Palestine 36’ Review: Epic Historical Drama Overreaches in Its Ambition but Resonates with Today - IndieWire",
       "url": "https://www.indiewire.com/criticism/movies/palestine-36-review-1235149102/",
       "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/09/Palestine-36_Still_.jpg?w=650",
@@ -200,39 +255,6 @@
       "description": "Čeští astronomové zachytili nový snímek komety 3I/ATLAS na její cestě vnitřní sluneční soustavou."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sakra! Nová studie varuje, že nadměrné používání telefonu na toaletě souvisí s bolestivým zdravotním problémem",
-      "original_title": "Crap! Alarming new study links excessive phone use on toilet to painful health problem - MLive.com",
-      "url": "https://www.mlive.com/news/2025/09/crap-alarming-new-study-links-excessive-phone-use-on-toilet-to-painful-health-problem.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/5SQ7EA4JHNEHNNGHKFFJPVPBHM.JPG?auth=127661e0ed82c9d2f34afac87d31c2d3862ee0aabeddd829cf8421fc154e1d35&width=1280&quality=90",
-      "source": "mlive.com",
-      "publishedAt": "2025-09-05T16:54:00Z",
-      "description": "Je to také prostě nechutné, říkají odborníci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Fyzikální ukazatel předpovídá bod zlomu pro kolaps systému atlantických proudů v příštích 50 letech",
-      "original_title": "Physics-based indicator predicts tipping point for collapse of Atlantic current system in next 50 years - Phys.org",
-      "url": "https://phys.org/news/2025-09-physics-based-indicator-collapse-atlantic.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/new-physics-based-indi.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-05T15:45:40Z",
-      "description": "Kolaps kritického proudění v Atlantiku by mohl přinést malou dobu ledovou. Jak je to reálné?"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Eric Adams zůstává v newyorské primárce poté, co Trumpovi poradci naznačili možnost velvyslanectví",
-      "original_title": "Eric Adams stays in NYC mayor's race after Trump aides tease ambassadorship - ABC News",
-      "url": "https://abcnews.go.com/US/trump-advisers-make-push-eric-adams-ambassadorship-exit/story?id\\\\u003d125294410",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-05T15:45:38Z",
-      "description": ""
-    },
-    {
       "flag": "🇺🇸",
       "country": "us",
       "title": "Ryan Reynolds chtěl, aby se Bill Murray objevil v dokumentu o Johnu Candym. Pak se přidalo jeho batole.",
@@ -252,7 +274,7 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/wbWHubD9BBZqCd43Q9oDWL.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-05T15:00:00Z",
-      "description": "Jak sledovat úplné zatmění Měsíce 7. a 8. září živě z pohodlí domova."
+      "description": "Jak sledovat úplné zatmění Měsíce 7. a 8. září živě z pohodlí domova"
     },
     {
       "flag": "🌍",
@@ -263,40 +285,51 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2025/09/05/legion-go-2-preorder-1757078105971.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "source": "IGN",
       "publishedAt": "2025-09-05T14:42:59Z",
-      "description": "Herní handheldy Lenovo Legion Go 2 jsou již k předobjednání v Best Buy. S datem vydání 31. října můžete pořídit model AMD Ryzen Z2 (16 GB RAM) za 1099,99 $ nebo model AMD Ryzen Z2 Extreme (32 GB RA..."
+      "description": "Herní zařízení Lenovo Legion Go 2 je nyní k předobjednání v Best Buy. S datem vydání 31. října můžete získat model AMD Ryzen Z2 (16 GB RAM) za 1099,99 $ nebo model AMD Ryzen Z2 Extreme (32 GB RAM) ..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Americká kardiologická asociace poprvé od roku 2017 aktualizovala pokyny pro krevní tlak: Doporučení pro mladé dospělé, jejichž riziko stoupá ve věku 20 a 30 let",
+      "original_title": "American Heart Association revamps BP guidelines for the first time since 2017: Here's what it recommends for young adults as risk rises in their 20s and 30s - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/american-heart-association-revamps-bp-guidelines-for-the-first-time-since-2017-heres-what-it-recommends-for-young-adults-as-risk-rises-in-their-20s-and-30s/photostory/123716626.cms",
+      "urlToImage": "https://static.toiimg.com/photo/123716774.cms",
+      "source": "The Times of India",
+      "publishedAt": "2025-09-05T14:00:00Z",
+      "description": "Americká kardiologická asociace (AHA) poprvé od roku 2017 aktualizovala pokyny pro vysoký krevní tlak"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "WHO aktualizuje seznam základních léků, nově obsahuje klíčové léky na rakovinu a cukrovku",
+      "original_title": "WHO updates list of essential medicines to include key cancer, diabetes treatments - World Health Organization (WHO)",
+      "url": "https://www.who.int/news/item/05-09-2025-who-updates-list-of-essential-medicines-to-include-key-cancer--diabetes-treatments",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/medicines-medical-devices-and-medical-care/medicines/primary-health-care-setting.tmb-1200v.jpg?sfvrsn=2141e9e3_6",
+      "source": "World Health Organization",
+      "publishedAt": "2025-09-05T13:30:00Z",
+      "description": "Dnes Světová zdravotnická organizace (WHO) zveřejnila aktualizované verze svých modelových seznamů základních léků (EML) a základních léků pro děti (EMLc), které přidávají nové léčebné postupy pro ..."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Renderování Galaxy S26 Edge ukazují design podobný iPhonu 17 a potvrzují magnety pro Qi2 [Galerie]",
+      "title": "Renderovací snímky Galaxy S26 Edge ukazují design podobný iPhonu 17 a potvrzují magnety pro Qi2 [galerie]",
       "original_title": "Galaxy S26 Edge renders show the iPhone 17-like design, corroborate Qi2 magnets [Gallery] - 9to5Google",
       "url": "http://9to5google.com/2025/09/05/samsung-galaxy-s26-edge-design-renders-qi2-report/",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-s26-edge-cad-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
       "publishedAt": "2025-09-05T13:10:00Z",
-      "description": "Podle nového úniku bude Galaxy S26 Edge nejen tenčí s designem podobným iPhonu 17, ale přijme také Qi2."
+      "description": "Podle nového úniku bude Galaxy S26 Edge nejen tenčí s designem podobným iPhonu 17, ale také přijme standard Qi2."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Záhadu designu zad iPhone 17 Pro a Pro Max se možná podařilo rozluštit před akcí Applu",
-      "original_title": "iPhone 17 Pro and Pro Max back design mystery may be solved ahead of Apple event - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/05/iphone-17-pro-back-design/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/bu-iphone-17-pro-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-05T12:34:00Z",
-      "description": "Dříve tento týden jsme upozornili, že přestože toho o iPhonu 17 Pro a Pro Max víme strašně moc, tam..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sladidla v dietních nápojích mohou mozku ukrást roky života",
-      "original_title": "Sweeteners in diet drinks may steal years from the brain - ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250904103923.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/glitch-brain.webp",
-      "source": "Science Daily",
-      "publishedAt": "2025-09-05T02:15:00Z",
-      "description": "Rozsáhlá brazilská studie zjistila, že vysoká konzumace umělých sladidel souvisí s rychlejším úbytkem paměti a myšlení"
+      "title": "Pohled na slavné svatební návrhy Giorgia Armaniho: od Katie Holmes po princeznu Charlene",
+      "original_title": "A Look Back at Giorgio Armani’s Famous Wedding Dress Designs: From Katie Holmes to Princess Charlene - WWD",
+      "url": "http://wwd.com/pop-culture/culture-news/feature/giorgio-armani-famous-wedding-dresses-1238110934/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2025/09/armani-wedding-dresses-fi.jpg?w=1000&h=563&crop=1",
+      "source": "WWD",
+      "publishedAt": "2025-09-05T12:23:32Z",
+      "description": "Italský návrhář vytvořil svatební šaty pro Katie Holmes a princeznu Charlene."
     }
   ]
 }
