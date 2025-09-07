@@ -1,8 +1,18 @@
 {
-  "updated": "2025-09-07T12:46:09.522716",
+  "updated": "2025-09-07T15:21:41.953071",
   "trends": [
     {
       "rank": 1,
+      "query": "f1",
+      "news_title": "F1: Verstappen vítězí na Monze, výsledky a reakce",
+      "news_url": "https://www.bbc.com/sport/live/cdrk8x87nzyt",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnWZRBw4HUuaUf751oSYfTUUQx4Q9IueltgbXx4ZibrOoRdcjiMGShYh_9QJ0",
+      "traffic": "2000++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=f1&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "petr obdržálek",
       "news_title": "Zemřel režisér Petr Obdržálek",
       "news_url": "https://www.novinky.cz/clanek/kultura-tv-streaming-zemrel-reziser-kalendaria-petr-obdrzalek-40537512",
@@ -12,29 +22,39 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=petr obdržálek&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "carlo acutis",
-      "news_title": "Carlo Acutis, „boží influencer“, se stává prvním miléniovým světcem",
-      "news_url": "https://www.cnn.com/2025/09/07/europe/millennial-saint-carlo-acutis-intl",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoSFIW6MdHCsfAtYWe0qrDfGZv5Gj4K5WTBvltaohyOoCdJerhbEpzAV0dQiY",
-      "traffic": "500++ hledání",
-      "source": "CNN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=carlo acutis&geo=CZ"
-    },
-    {
       "rank": 3,
-      "query": "chance",
-      "news_title": "Fanoušek Missouri mohl vyhrát 25 000 dolarů. Místo toho trollil rivální tým.",
-      "news_url": "https://www.nytimes.com/athletic/6607283/2025/09/07/missouri-fan-field-goal-kick-kansas/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt3eY10muJRQC-Jpg8LHBzVNUXF2QCB_vUcoQ1sOHynIZg7uTTY1nW2DEWqqI",
+      "query": "formule 1",
+      "news_title": "F1 v Monze: Chrám rychlosti, který děsí pro rok 2026",
+      "news_url": "https://www.lesoir.be/697528/article/2025-09-06/la-f1-monza-dans-le-temple-de-la-vitesse-qui-effraie-pour-2026",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwANOSLpLiD7FN6DMp0GAPoQbz8e4kENTSYdGiNuPsaZ-SwL4r_eYaO2fj45A",
       "traffic": "500++ hledání",
-      "source": "The New York Times",
-      "explore_url": "https://trends.google.cz/trends/explore?q=chance&geo=CZ"
+      "source": "Le Soir",
+      "explore_url": "https://trends.google.cz/trends/explore?q=formule 1&geo=CZ"
     },
     {
       "rank": 4,
+      "query": "max verstappen",
+      "news_title": "Verstappen vede po kvalifikaci GP Itálie",
+      "news_url": "https://www.idnes.cz/sport/formule/formule-1online-navrat-red-bullu-po-kvalifikaci-v-monze-je-v-cele-verstappen.A250907_130529_formule_mah",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcvlL4mOaqG97s5ScnI16QA5vY15z2Itgg-BYzSthAfO_xhEaP8DkTIiytVn4",
+      "traffic": "200++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=max verstappen&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "f1 tv",
+      "news_title": "Verstappen v Monze deklasoval McLaren a vyhrál z pole position",
+      "news_url": "https://www.espn.com/f1/story/_/id/46166770/italian-grand-prix-2025-follow-live-updates",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrXOl2WTMGxgtvRqvvc1jJIMRLMXsoQuhviEW3Emtl5Oa7YOrDTBq1hFXAIs",
+      "traffic": "200++ hledání",
+      "source": "ESPN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=f1 tv&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "f2",
-      "news_title": "Staněk v Monze nedokončil závod, vrazil do něj soupeř",
+      "news_title": "Staněk v Monze nedokončil závod, srazil ho soupeř",
       "news_url": "https://www.idnes.cz/sport/formule/stanek-zavod-dobre-rozjety-zavod-v-monze-nedokoncil-vrazil-do-nej-souper.A250907_112304_formule_mama",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5YLyi1JJ4RoRjavUAoprplfcL5-OMeU6zFj00BIACzdNJiq3036AuIrvf5VE",
       "traffic": "200++ hledání",
@@ -42,9 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=f2&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "query": "filip turek",
-      "news_title": "Filip Turek nosil v pubertě bizarní účes a vyrůstal s výtržníky",
+      "news_title": "Filip Turek v dospívání nosil bizarní účes a vyrůstal v partě sídlištních výtržníků",
       "news_url": "https://medium.seznam.cz/clanek/jelizaveta-jelen-hranata-puberta-filip-turek-v-dospivani-nosil-bizarni-uces-vyrustal-v-parte-sidlistnich-vytrzniku-185547",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4NDHPI1yyjmvfyitnNL_XarRrfFe5MCzdAUHv3rek-cAZT7BJeHvkCq40G88",
       "traffic": "200++ hledání",
@@ -52,34 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=filip turek&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "formule 1",
-      "news_title": "Verstappen a dalších 5 jezdců hrozí penalizace v Monze",
-      "news_url": "https://f1i.autojournal.fr/infos/red-bull/max-verstappen-et-cinq-autres-pilotes-deja-menaces-de-penalite-a-monza/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqcZF7uqeXq5u75jUpNXaXpdkX-A-COnuvm3HqtSL3_DKvm0OiLlE6cyavC2Q",
-      "traffic": "100++ hledání",
-      "source": "f1i.autojournal.fr",
-      "explore_url": "https://trends.google.cz/trends/explore?q=formule 1&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "malta",
-      "news_title": "Malta hledá budoucnost ve své minulosti",
-      "news_url": "https://www.cntraveler.com/story/malta-is-shining-a-light-on-its-future-by-leaning-into-its-past",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPFr8Le6HEWib6FSVS_qgAgDcFuzju2GOppMI-IbhnI1BAivZMFbdqsGMxkwk",
-      "traffic": "100++ hledání",
-      "source": "Condé Nast Traveler",
-      "explore_url": "https://trends.google.cz/trends/explore?q=malta&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "alain delon",
-      "news_title": "Kdo ukradl hodinky za 17 000 eur Alainu Delonovi?",
-      "news_url": "https://www.parismatch.com/People/qui-a-vole-la-montre-a-17-000-euros-dalain-delon-256431",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRym-ERRwUQtaHwEHk_riHd6a5lZ71tiMrKXUhoBuK3Qm21hTzvu6JhcS0K6iY",
+      "query": "ropovod družba",
+      "news_title": "Ukrajina zasáhla ropovod Družba",
+      "news_url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajina-zasahla-ropovod-druzba-40537541",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtNyF7uGmJJovqUSD55AGOwYkp5pschywqnDn5nCvBbwpWy1nUK_liw_3M2fE",
       "traffic": "100++ hledání",
-      "source": "parismatch.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=alain delon&geo=CZ"
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ropovod družba&geo=CZ"
     }
   ]
 }
