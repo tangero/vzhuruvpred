@@ -1,10 +1,20 @@
 {
-  "updated": "2025-09-08T09:29:51.289419",
+  "updated": "2025-09-08T12:55:14.159945",
   "trends": [
     {
       "rank": 1,
+      "query": "teams",
+      "news_title": "Illini a Noles v top 10, USF debutuje na 18. místě",
+      "news_url": "https://www.espn.com/college-football/story/_/id/46187052/illinois-florida-state-crack-top-10-ap-poll-usf-no-18",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKVXlx8IhoePUklEhUuJYYOkWr7QzOTOFnJPbrO3iqUxqDseRwUOL_T_KZbzg",
+      "traffic": "1000++ hledání",
+      "source": "ESPN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "classroom",
-      "news_title": "Učitel střední školy v NEISD zemřel po kolapsu na pracovišti",
+      "news_title": "Učitel střední školy v North East ISD zemřel po kolapsu ve škole",
       "news_url": "https://www.ksat.com/news/local/2025/09/05/north-east-isd-high-school-teacher-dies-on-campus-after-medical-emergency/",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9Do7WGpUPFZhRNWQvZiCcU-thjRHLfzd65mJMiJd1b6NfC4iyqY3a1D8DHAU",
       "traffic": "1000++ hledání",
@@ -12,37 +22,37 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=classroom&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "teams",
-      "news_title": "Ohio State vede žebříček AP, USF se poprvé dostává mezi 25 nejlepších týmů.",
-      "news_url": "https://www.ncaa.com/news/football/article/2025-09-07/ohio-state-leads-week-3-ap-poll-south-florida-jumps-rankings",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgK9a701kxkPxjupsg4u0QqzkOvcjnI8GiSUyvEfLybvmoTbgNCB9HQ_BHHOQ",
-      "traffic": "500++ hledání",
-      "source": "NCAA.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
-    },
-    {
       "rank": 3,
       "query": "škoda epiq",
-      "news_title": "Škoda představila elektrický crossover Epiq za 600 tisíc",
+      "news_title": "Škoda Epiq: elektrický crossover za 600 tisíc",
       "news_url": "https://www.novinky.cz/clanek/auto-skoda-ukazuje-epiq-elektricky-crossover-za-600-tisic-40537576",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTgnD-mJ-JX2sbHIQrfbKILpcfgNxq6f4wBRM8DAQOq4Rz103mU_UbPGR-5E",
-      "traffic": "200++ hledání",
+      "traffic": "500++ hledání",
       "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=škoda epiq&geo=CZ"
     },
     {
       "rank": 4,
-      "query": "lindsey vonn",
-      "news_title": "Lindsey Vonn v Sinnerově krabici na US Open. Proč?",
-      "news_url": "https://www.townandcountrymag.com/leisure/sporting/a66004745/why-is-lindsey-vonn-jannik-sinners-players-box-us-open/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwfw5GIMXRalekgvF_4_DiX5DcERawM9FaoU5HNpCvJEuBvVw2HIljbS6KXYU",
-      "traffic": "200++ hledání",
-      "source": "Town & Country Magazine",
-      "explore_url": "https://trends.google.cz/trends/explore?q=lindsey vonn&geo=CZ"
+      "query": "ivan lendl",
+      "news_title": "Alcaraz poráží Sinnera a obhajuje titul z US Open",
+      "news_url": "https://www.cnn.com/sport/live-news/tennis-us-open-mens-final",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJrAJoABw4t0_7OooebFpQDOP8iEW6Y6W5z3MUeZeEINBwQrrh-PMdwcCuwVc",
+      "traffic": "500++ hledání",
+      "source": "CNN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ivan lendl&geo=CZ"
     },
     {
       "rank": 5,
+      "query": "lindsey vonn",
+      "news_title": "Alcaraz poráží Sinnera a obhajuje titul na US Open",
+      "news_url": "https://www.usopen.org/en_US/news/articles/2025-09-07/carlos_alcaraz_defeats_jannik_sinner_to_win_2025_us_open_mens_singles_title.html",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9QjvC1ckojO7A4l3G43_oXkKpYvaV8F-fKK32mM6AjhrtOAL08Pooo_Rr0QM",
+      "traffic": "200++ hledání",
+      "source": "US Open.org",
+      "explore_url": "https://trends.google.cz/trends/explore?q=lindsey vonn&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "ladka nergesova",
       "news_title": "Něrgešová se po operaci mozku vrací na obrazovky. Mám strach, přiznává.",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/ldka-nergesova-moderatorka-showtime-nador-mozek-glioblastom.A250907_211915_lidicky_sub",
@@ -52,9 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=ladka nergesova&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "justýna zedníková",
-      "news_title": "Justýna Zedníková",
+      "news_title": "Justýna Zedníková: Jak se žije s autismem?",
       "news_url": "https://www.google.com/search?q=justýna zedníková&tbm=nws",
       "picture": null,
       "traffic": "200++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=justýna zedníková&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "query": "robin wright",
-      "news_title": "Přitažlivý oidipovský thriller šokuje nezkušené diváky",
+      "news_title": "Varování: Tento sexy oedipovský thriller není pro každého",
       "news_url": "https://www.theguardian.com/tv-and-radio/2025/sep/06/the-girlfriend-warning-this-sexy-oedipal-thriller-may-be-too-shocking-for-vanilla-viewers",
       "picture": "",
       "traffic": "100++ hledání",
       "source": "The Guardian",
       "explore_url": "https://trends.google.cz/trends/explore?q=robin wright&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "atp ranking",
-      "news_title": "Alcaraz po druhém triumfu na US Open: Byl to můj nejlepší turnaj",
-      "news_url": "https://www.theguardian.com/sport/2025/sep/08/carlos-alcaraz-career-best-tournament-us-open-title-win",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgwmmJqN2JP6ah_LZpl583lYu2-akvxm7V8XS6dlSWoX6ocdv0ApLmBugJAqM",
-      "traffic": "100++ hledání",
-      "source": "The Guardian",
-      "explore_url": "https://trends.google.cz/trends/explore?q=atp ranking&geo=CZ"
     }
   ]
 }
