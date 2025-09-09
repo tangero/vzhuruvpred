@@ -1,10 +1,30 @@
 {
-  "updated": "2025-09-09T20:04:28.352620",
+  "updated": "2025-09-09T21:21:53.688639",
   "trends": [
     {
       "rank": 1,
+      "query": "jan nedbal",
+      "news_title": "Oskar Hes: Jan Nedbal byl můj mužský vzor, který mi chyběl",
+      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/jan-nedbal-oskar-hes-bydleni-kamaradi-show-7-padu-honzy-dedka.A250909_104439_lidicky_zar",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoX4dRLXCVaSharwz5nsHp4BoHd22nuVsV3USlqMHSV9AEyqzzLpsevgfUoWQ",
+      "traffic": "1000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jan nedbal&geo=CZ"
+    },
+    {
+      "rank": 2,
+      "query": "lucie borhyová",
+      "news_title": "Lucie Borhyová zkusila neobvyklou aktivitu: Hned jsem se zamilovala",
+      "news_url": "https://tn.nova.cz/zpravodajstvi/clanek/628588-lucie-borhyova-si-vyzkousela-neobvyklou-aktivitu-zamilovala-jsem-se-rika",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr5Nx9Zla9Vrt614fKyXFObyKRIkgCjOH6EfKOI7bbUVKXA-xeAqBeErVPzIk",
+      "traffic": "1000++ hledání",
+      "source": "TN.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=lucie borhyová&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "iphone 16 pro",
-      "news_title": "iPhone 17 může přijít s přepracovaným designem",
+      "news_title": "iPhone 17 může dostat tolik potřebný redesign",
       "news_url": "https://www.theverge.com/tech/773538/iphone-17-event-awe-dropping-upgrade-apple-intelligence",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_6UQAIqLXIzHO6-n23C04OS3De7Bj79xMUm1fjjl2Rdg-YLO6ZfdcgxeKmJ8",
       "traffic": "1000++ hledání",
@@ -12,49 +32,29 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=iphone 16 pro&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "ios 26 release date",
-      "news_title": "Apple vydává RC verze iOS 26 a iPadOS 26",
+      "rank": 4,
+      "query": "ios 26",
+      "news_title": "Apple vypustil RC verze iOS 26 a iPadOS 26",
       "news_url": "https://www.macrumors.com/2025/09/09/apple-seeds-ios-26-rc/",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwyNSDGCZJcCKxJM23Brwfyhf9ioluNdy2PmjZfS63MeG4Ip9ObzF2sLsou2Q",
       "traffic": "1000++ hledání",
       "source": "MacRumors",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ios 26 release date&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "lucie borhyová",
-      "news_title": "Lucie Borhyová zkusila neobvyklou aktivitu: Hned jsem se zamilovala",
-      "news_url": "https://tn.nova.cz/zpravodajstvi/clanek/628588-lucie-borhyova-si-vyzkousela-neobvyklou-aktivitu-zamilovala-jsem-se-rika",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr5Nx9Zla9Vrt614fKyXFObyKRIkgCjOH6EfKOI7bbUVKXA-xeAqBeErVPzIk",
-      "traffic": "500++ hledání",
-      "source": "TN.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=lucie borhyová&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "oskar hes",
-      "news_title": "Oskar Hes: Jan Nedbal byl můj mužský vzor, který mi chyběl",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/jan-nedbal-oskar-hes-bydleni-kamaradi-show-7-padu-honzy-dedka.A250909_104439_lidicky_zar",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoX4dRLXCVaSharwz5nsHp4BoHd22nuVsV3USlqMHSV9AEyqzzLpsevgfUoWQ",
-      "traffic": "200++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=oskar hes&geo=CZ"
+      "explore_url": "https://trends.google.cz/trends/explore?q=ios 26&geo=CZ"
     },
     {
       "rank": 5,
       "query": "iphone 15 pro",
-      "news_title": "Jak využít vizualní AI iPhonu 15 Pro",
-      "news_url": "https://www.cnet.com/tech/services-and-software/how-to-bring-apples-visual-intelligence-to-your-iphone-15-pro/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTufx7i5YUHUJQZRYADBAyGds4ocil_-p6ji80-iIQ2oW3Uyortw9ZzYZ_bAy0",
-      "traffic": "200++ hledání",
-      "source": "CNET",
+      "news_title": "Apple Intelligence: Neuronový mozek iPhone 17 a nová éra růstu Applu",
+      "news_url": "https://markets.financialcontent.com/wral/article/marketminute-2025-9-9-apple-intelligence-the-neural-engine-powering-iphone-17s-future-and-aapls-next-growth-chapter",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7lS0K0JztImHQg9eWXF3_2e4kb1wcFNWbSKKaKCXpBLOchIYv_gvZWNBUoQI",
+      "traffic": "500++ hledání",
+      "source": "FinancialContent",
       "explore_url": "https://trends.google.cz/trends/explore?q=iphone 15 pro&geo=CZ"
     },
     {
       "rank": 6,
       "query": "apple stock",
-      "news_title": "Apple představuje iPhone Air, iPhone 17 a nové wearables",
+      "news_title": "Apple představilo iPhone Air, iPhone 17 a nové wearables",
       "news_url": "https://www.cnn.com/business/live-news/keynote-apple-release-event-iphone-09-09-25",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmHxlQb8UOs9iIRLX8haTLRmqD_esF6_4LFVpDX8bcQlVQDtajCKo7xa5lBNU",
       "traffic": "200++ hledání",
@@ -74,11 +74,11 @@
     {
       "rank": 8,
       "query": "айфон 17",
-      "news_title": "iPhone 17, Watch Series 11 a AirPods Pro 3: novinky z hlavní prezentace Apple",
-      "news_url": "https://tech.onliner.by/2025/09/09/apple-sept-2025-event",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRch4nc3PRhq_1v9W8XsJOmnM7L16uVvahHUWrCgP4X8mp7ONTWV7eIUskm01k",
+      "news_title": "Supertenký iPhone a návrat hliníku: Co čekají analytici od Apple",
+      "news_url": "https://www.bbc.com/russian/articles/cm28723jy6eo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDMHyy_fxk8uuqCXRpHIAAPDpko8tCH4O8gwhIsdkUjZJNls2FSdWnqPLLbM0",
       "traffic": "200++ hledání",
-      "source": "Onlíner",
+      "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=айфон 17&geo=CZ"
     }
   ]
