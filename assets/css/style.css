@@ -4085,6 +4085,110 @@ video::-webkit-media-controls-panel {
     font-weight: 600;
 }
 
+/* Page layout styles */
+.page-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+.page-content {
+    background: var(--bg-primary);
+    padding: 3rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--border-color);
+    line-height: 1.8;
+}
+
+.page-content h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.5rem;
+    color: var(--text-primary);
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.page-content h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2rem;
+    color: var(--text-primary);
+    margin: 2.5rem 0 1.5rem 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 3px solid var(--primary-color);
+    padding-bottom: 0.5rem;
+}
+
+.page-content h3 {
+    font-weight: 700;
+    font-size: 1.3rem;
+    color: var(--text-primary);
+    margin: 2rem 0 1rem 0;
+}
+
+.page-content p {
+    margin-bottom: 1.5rem;
+    color: var(--text-primary);
+}
+
+.page-content ul, .page-content ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+}
+
+.page-content li {
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.page-content a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.page-content a:hover {
+    border-bottom-color: var(--primary-color);
+}
+
+.page-content code {
+    background: var(--bg-secondary);
+    padding: 0.2rem 0.4rem;
+    border-radius: var(--radius-sm);
+    font-family: 'Courier New', monospace;
+    font-size: 0.9em;
+}
+
+.page-content hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--primary-color), transparent);
+    margin: 3rem 0;
+}
+
+/* Responsive design for page content */
+@media (max-width: 768px) {
+    .page-wrapper {
+        padding: 1rem 0;
+    }
+    
+    .page-content {
+        padding: 2rem 1.5rem;
+    }
+    
+    .page-content h1 {
+        font-size: 2rem;
+    }
+    
+    .page-content h2 {
+        font-size: 1.6rem;
+    }
+}
+
 .world-news-grid {
     display: grid;
     gap: 2rem;
@@ -4121,6 +4225,35 @@ video::-webkit-media-controls-panel {
 
 .world-news-page .world-news-item:hover .news-image img {
     transform: scale(1.05);
+}
+
+.news-placeholder {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.news-placeholder-content {
+    text-align: center;
+    padding: 1.5rem;
+    max-width: 90%;
+}
+
+.news-placeholder-icon {
+    font-size: 3rem;
+    display: block;
+    margin-bottom: 0.75rem;
+    opacity: 0.9;
+}
+
+.news-placeholder-text {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    margin: 0;
+    opacity: 0.95;
+    font-weight: 500;
 }
 
 .news-content {

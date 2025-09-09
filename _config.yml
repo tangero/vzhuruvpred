@@ -2,7 +2,17 @@
 title: "Vzhůru vpřed"
 description: "Nezávislý a progresivní zpravodajský portál zaměřený na společnost, politiku a moderní měnící se svět"
 baseurl: ""
-url: ""
+url: "https://vzhuruavpred.cz"  # Production URL for SEO
+
+# SEO Configuration
+logo: "/assets/images/logo.png"  # Site logo for structured data
+twitter:
+  username: vzhuruavpred  # Twitter handle for cards
+  card: summary_large_image
+facebook:
+  app_id: ""  # Facebook App ID (optional)
+  publisher: "https://facebook.com/vzhuruavpred"  # Facebook page URL
+  admins: ""  # Facebook admin IDs (optional)
 
 # Build settings
 markdown: kramdown
@@ -28,11 +38,13 @@ defaults:
     values:
       layout: "post"
       author: "Redakce"
+      image: "/assets/images/default-article.jpg"  # Default OG image for posts
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
+      image: "/assets/images/default-page.jpg"  # Default OG image for pages
 
 # Exclude from processing
 exclude:
@@ -49,6 +61,15 @@ exclude:
 lang: cs
 timezone: Europe/Prague
 future: true
+
+# SEO and Analytics
+google_analytics: ""  # Add Google Analytics ID when ready
+google_site_verification: ""  # Add Google Search Console verification
+bing_site_verification: ""  # Add Bing Webmaster verification
+
+# Additional SEO settings
+tagline: "Nezávislé zpravodajství pro svobodné občany"
+keywords: "zpravodajství, politika, společnost, česká republika, nezávislé noviny, progresivní, pirátské"
 
 # Navigation
 navigation:
@@ -74,3 +95,20 @@ social:
   instagram: "#"
   youtube: "#"
   github: "#"
+
+# Contact information
+contact:
+  email: "ahoj@vzhuruavpred.cz"
+  phone: "+420 123 456 789"
+  signal: "+420 123 456 789"
+  matrix: "@news:piraten.chat"
+  pgp_key: "https://keybase.io/vzhuruavpred/pgp_keys.asc"
+  address: "Praha, Česká republika"
+  office_hours: "Po-Pá 9:00-17:00"
+
+# Footer configuration
+footer:
+  copyright_text: "Obsah pod Creative Commons licencí."
+  encrypted_note: "Šifrované zprávy vítány 🔐"
+  license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+  source_code_url: "https://github.com/tangero/vzhuruvpred"

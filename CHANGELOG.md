@@ -7,6 +7,25 @@ a projekt dodržuje [Sémantické verzování](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Přidáno
+- **SEO optimalizace** - kompletní Open Graph meta tagy pro Facebook/Twitter sdílení
+- **JSON-LD structured data** - Organization, Website, Article a Breadcrumb schéma pro vyhledávače
+- **Robots.txt** - optimalizovaný pro crawlery s odkazy na sitemap a feed
+- **Stránka Ochrana soukromí** - transparentní informace o žádném sledování a cookies
+- **Stránka Podmínky užití** - Creative Commons licence a pravidla komentářů
+- **Stránka Podpořte nás** - transparentní účet pro dary s QR kódem pro platby
+- **Page layout** - stylový layout pro statické stránky s pirátským designem
+
+### Změněno
+- **Footer odkazy** - aktualizované na reálné stránky místo placeholder #
+- **SEO konfigurace** - production URL a social media nastavení v _config.yml
+- **Meta tagy** - rozšířené o keywords, canonical URL a Twitter Cards
+- **Kontaktní informace** - konfigurovatelné přes _config.yml místo hardcoded
+
+### Opraveno
+- **Překrývající text** v trending boxech - odstraněn zdroj a počet hledání
+- **Chybějící obrázky** ve světových zprávách - placeholder systém s fallback obsahem
+
 ### Plánované
 - Povolení Cloudflare API pro hodnocení článků
 - Rozšíření systému komentářů

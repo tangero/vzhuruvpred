@@ -1,0 +1,43 @@
+# Vzhůru a vpřed - robots.txt
+# Nezávislé zpravodajství pro svobodné občany
+
+User-agent: *
+Allow: /
+
+# Preferované crawlery
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Blokované cesty
+Disallow: /assets/js/
+Disallow: /functions/
+Disallow: /_site/
+Disallow: /.git/
+Disallow: /vendor/
+
+# Sitemap
+Sitemap: https://vzhuruavpred.cz/sitemap.xml
+
+# Feed
+Sitemap: https://vzhuruavpred.cz/feed.xml
+
+# Crawl delay pro zdvořilost (není povinné, ale slušné)
+Crawl-delay: 1

@@ -1,0 +1,117 @@
+{% comment %}
+JSON-LD Structured Data for SEO
+Includes: Organization, Website, Article, and Breadcrumb schemas
+{% endcomment %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "{{ site.url }}/#organization",
+      "name": "{{ site.title }}",
+      "url": "{{ site.url }}",
+      {% if site.logo %}
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.logo | absolute_url }}",
+        "width": 200,
+        "height": 200
+      },
+      {% endif %}
+      "description": "{{ site.description }}",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "{{ site.contact.email }}",
+        "contactType": "customer service"
+      },
+      "sameAs": [
+        {% if site.social.facebook and site.social.facebook != '#' %}"{{ site.social.facebook }}",{% endif %}
+        {% if site.social.twitter and site.social.twitter != '#' %}"{{ site.social.twitter }}",{% endif %}
+        {% if site.social.instagram and site.social.instagram != '#' %}"{{ site.social.instagram }}",{% endif %}
+        {% if site.social.youtube and site.social.youtube != '#' %}"{{ site.social.youtube }}",{% endif %}
+        {% if site.social.github and site.social.github != '#' %}"{{ site.social.github }}"{% endif %}
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#website",
+      "url": "{{ site.url }}",
+      "name": "{{ site.title }}",
+      "description": "{{ site.description }}",
+      "publisher": {
+        "@id": "{{ site.url }}/#organization"
+      },
+      "inLanguage": "cs-CZ",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "{{ site.url }}/?s={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    }
+    {% if page.layout == 'post' %},
+    {
+      "@type": "Article",
+      "@id": "{{ page.url | absolute_url }}/#article",
+      "headline": "{{ page.title | escape }}",
+      "description": "{{ page.excerpt | default: page.description | strip_html | normalize_whitespace | truncate: 300 | escape }}",
+      "image": {
+        "@type": "ImageObject",
+        "url": "{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.logo | default: '/assets/images/default-og.jpg' | absolute_url }}{% endif %}",
+        "width": 1200,
+        "height": 630
+      },
+      "author": {
+        "@type": "Person",
+        "name": "{{ page.author | default: 'Redakce' }}"
+      },
+      "publisher": {
+        "@id": "{{ site.url }}/#organization"
+      },
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+      "url": "{{ page.url | absolute_url }}",
+      "mainEntityOfPage": "{{ page.url | absolute_url }}",
+      "articleSection": "{% if page.categories %}{{ page.categories | first }}{% else %}Zpravodajství{% endif %}",
+      {% if page.tags and page.tags.size > 0 %}
+      "keywords": "{{ page.tags | join: ', ' }}",
+      {% endif %}
+      "inLanguage": "cs-CZ"
+    }
+    {% endif %}
+    {% unless page.layout == 'home' %},
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Domů",
+          "item": "{{ site.url }}"
+        }
+        {% if page.categories %}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ page.categories | first | capitalize }}",
+          "item": "{{ site.url }}/{{ page.categories | first | downcase }}/"
+        }
+        {% endif %}
+        {% unless page.url == '/' %}
+        ,{
+          "@type": "ListItem",
+          "position": {% if page.categories %}3{% else %}2{% endif %},
+          "name": "{{ page.title | escape }}",
+          "item": "{{ page.url | absolute_url }}"
+        }
+        {% endunless %}
+      ]
+    }
+    {% endunless %}
+  ]
+}
+</script>
