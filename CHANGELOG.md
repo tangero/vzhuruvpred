@@ -6,7 +6,8 @@ Formát je založený na [Keep a Changelog](https://keepachangelog.com/cs/1.1.0/
 a projekt dodržuje [Sémantické verzování](https://semver.org/lang/cs/).
 
 ## [2.3.0] - 2025-09-09
-- počasí, jeho následný přesun na spodek stránky 
+- počasí, jeho následný přesun na spodek stránky
+- a ajťácizace počasí, přidali jsme popisky, zda se hodí ke kódování... 
 
 ## [2.2.0] - 2025-09-08
 

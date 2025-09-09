@@ -4483,6 +4483,77 @@ video::-webkit-media-controls-panel {
     font-size: 0.8rem;
 }
 
+/* Weather Activity Recommendation */
+.weather-recommendation {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: linear-gradient(135deg, 
+        rgba(254, 201, 0, 0.1) 0%, 
+        rgba(254, 201, 0, 0.05) 100%);
+    border-left: 4px solid var(--primary-color);
+    border-radius: var(--radius-md);
+    position: relative;
+    overflow: hidden;
+}
+
+.weather-recommendation::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, 
+        transparent 0%,
+        var(--primary-color) 50%,
+        transparent 100%);
+    opacity: 0.6;
+}
+
+.weather-activity-tip {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.weather-activity-icon {
+    font-size: 2rem;
+    flex-shrink: 0;
+    animation: activityPulse 2s ease-in-out infinite;
+}
+
+@keyframes activityPulse {
+    0%, 100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.1);
+        opacity: 0.8;
+    }
+}
+
+.weather-activity-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.weather-activity-text strong {
+    color: var(--text-primary);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.weather-activity-text small {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    line-height: 1.3;
+    font-style: italic;
+}
+
 /* Responsive Weather Widget */
 @media (max-width: 768px) {
     .weather-widget {
@@ -4540,6 +4611,16 @@ video::-webkit-media-controls-panel {
     
     .weather-forecast-temps {
         margin-left: auto;
+    }
+    
+    .weather-activity-tip {
+        flex-direction: column;
+        text-align: center;
+        gap: 0.75rem;
+    }
+    
+    .weather-activity-icon {
+        font-size: 2.5rem;
     }
 }
 
