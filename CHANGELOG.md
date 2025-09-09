@@ -5,7 +5,10 @@ Všechny významné změny v projektu "Vzhůru a vpřed" jsou dokumentovány v t
 Formát je založený na [Keep a Changelog](https://keepachangelog.com/cs/1.1.0/),
 a projekt dodržuje [Sémantické verzování](https://semver.org/lang/cs/).
 
-## [Unreleased]
+## [2.2.0] - 2025-09-09
+- počasí
+
+## [2.2.0] - 2025-09-08
 
 ### Přidáno
 - **SEO optimalizace** - kompletní Open Graph meta tagy pro Facebook/Twitter sdílení

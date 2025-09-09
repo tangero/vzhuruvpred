@@ -1,0 +1,341 @@
+{% comment %}
+Weather Widget Component
+Uses Open-Meteo API for free weather data without API key
+{% endcomment %}
+
+{% if site.weather.enabled %}
+<div class="weather-widget" id="weather-widget">
+    <div class="weather-header">
+        <h3 class="weather-title">
+            <span class="weather-icon">🌤️</span>
+            Počasí
+        </h3>
+        <select class="weather-city-select" id="weather-city-select">
+            {% for city in site.weather.cities %}
+            <option value="{{ city.latitude }},{{ city.longitude }}" {% if city.name == site.weather.default_location.name %}selected{% endif %}>
+                {{ city.name }}
+            </option>
+            {% endfor %}
+        </select>
+    </div>
+    
+    <div class="weather-content" id="weather-content">
+        <div class="weather-loading">
+            <div class="weather-spinner"></div>
+            <span>Načítání...</span>
+        </div>
+    </div>
+    
+    <div class="weather-error" id="weather-error" style="display: none;">
+        <span class="weather-error-icon">⚠️</span>
+        <span class="weather-error-text">Nepodařilo se načíst počasí</span>
+        <button class="weather-retry-btn" onclick="loadWeatherData()">Zkusit znovu</button>
+    </div>
+    
+    <div class="weather-updated" id="weather-updated" style="display: none;">
+        <small>Aktualizováno: <span id="weather-last-update"></span></small>
+    </div>
+</div>
+
+<script>
+// Weather Widget Configuration
+const WEATHER_CONFIG = {
+    apiUrl: "{{ site.weather.api_url }}",
+    defaultLocation: {
+        name: "{{ site.weather.default_location.name }}",
+        latitude: {{ site.weather.default_location.latitude }},
+        longitude: {{ site.weather.default_location.longitude }}
+    },
+    updateInterval: {{ site.weather.update_interval }},
+    cacheDuration: {{ site.weather.cache_duration }}
+};
+
+// Weather icons mapping
+const WEATHER_ICONS = {
+    0: '☀️',   // Clear sky
+    1: '🌤️',   // Mainly clear
+    2: '⛅',   // Partly cloudy
+    3: '☁️',   // Overcast
+    45: '🌫️',  // Fog
+    48: '🌫️',  // Depositing rime fog
+    51: '🌦️',  // Light drizzle
+    53: '🌦️',  // Moderate drizzle
+    55: '🌧️',  // Dense drizzle
+    56: '🌧️',  // Light freezing drizzle
+    57: '🌧️',  // Dense freezing drizzle
+    61: '🌧️',  // Slight rain
+    63: '🌧️',  // Moderate rain
+    65: '🌧️',  // Heavy rain
+    66: '🌧️',  // Light freezing rain
+    67: '🌧️',  // Heavy freezing rain
+    71: '🌨️',  // Slight snow fall
+    73: '🌨️',  // Moderate snow fall
+    75: '❄️',   // Heavy snow fall
+    77: '❄️',   // Snow grains
+    80: '🌦️',  // Slight rain showers
+    81: '🌧️',  // Moderate rain showers
+    82: '🌧️',  // Violent rain showers
+    85: '🌨️',  // Slight snow showers
+    86: '❄️',   // Heavy snow showers
+    95: '⛈️',   // Thunderstorm
+    96: '⛈️',   // Thunderstorm with slight hail
+    99: '⛈️'    // Thunderstorm with heavy hail
+};
+
+// Weather descriptions in Czech
+const WEATHER_DESCRIPTIONS = {
+    0: 'Jasno',
+    1: 'Převážně jasno',
+    2: 'Částečně oblačno',
+    3: 'Zataženo',
+    45: 'Mlha',
+    48: 'Námraza',
+    51: 'Slabé mrholení',
+    53: 'Mírné mrholení',
+    55: 'Husté mrholení',
+    56: 'Slabé mrznoucí mrholení',
+    57: 'Husté mrznoucí mrholení',
+    61: 'Slabý déšť',
+    63: 'Mírný déšť',
+    65: 'Silný déšť',
+    66: 'Slabý mrznoucí déšť',
+    67: 'Silný mrznoucí déšť',
+    71: 'Slabé sněžení',
+    73: 'Mírné sněžení',
+    75: 'Silné sněžení',
+    77: 'Sněhové zrno',
+    80: 'Slabé přeháňky',
+    81: 'Mírné přeháňky',
+    82: 'Silné přeháňky',
+    85: 'Slabé sněhové přeháňky',
+    86: 'Silné sněhové přeháňky',
+    95: 'Bouřka',
+    96: 'Bouřka s krupobitím',
+    99: 'Bouřka se silným krupobitím'
+};
+
+// Initialize weather widget on page load
+document.addEventListener('DOMContentLoaded', function() {
+    initWeatherWidget();
+});
+
+function initWeatherWidget() {
+    // Set up city selector change event
+    const citySelect = document.getElementById('weather-city-select');
+    if (citySelect) {
+        citySelect.addEventListener('change', function() {
+            const [lat, lon] = this.value.split(',');
+            const cityName = this.options[this.selectedIndex].text;
+            loadWeatherData(parseFloat(lat), parseFloat(lon), cityName);
+        });
+    }
+    
+    // Load initial weather data
+    loadWeatherData();
+    
+    // Set up automatic updates
+    setInterval(loadWeatherData, WEATHER_CONFIG.updateInterval);
+}
+
+async function loadWeatherData(lat, lon, cityName) {
+    const latitude = lat || WEATHER_CONFIG.defaultLocation.latitude;
+    const longitude = lon || WEATHER_CONFIG.defaultLocation.longitude;
+    const city = cityName || WEATHER_CONFIG.defaultLocation.name;
+    
+    const cacheKey = `weather_${latitude}_${longitude}`;
+    const cachedData = getCachedWeatherData(cacheKey);
+    
+    if (cachedData) {
+        displayWeatherData(cachedData, city);
+        return;
+    }
+    
+    showWeatherLoading();
+    
+    try {
+        const url = `${WEATHER_CONFIG.apiUrl}/forecast?latitude=${latitude}&longitude=${longitude}&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&hourly=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe/Prague`;
+        
+        const response = await fetch(url);
+        
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+        
+        const data = await response.json();
+        
+        // Cache the data
+        cacheWeatherData(cacheKey, data);
+        
+        displayWeatherData(data, city);
+        hideWeatherError();
+        
+    } catch (error) {
+        console.error('Weather API error:', error);
+        showWeatherError();
+    }
+}
+
+function getCachedWeatherData(cacheKey) {
+    try {
+        const cached = localStorage.getItem(cacheKey);
+        if (!cached) return null;
+        
+        const { data, timestamp } = JSON.parse(cached);
+        const now = new Date().getTime();
+        
+        // Check if cache is still valid
+        if (now - timestamp < WEATHER_CONFIG.cacheDuration) {
+            return data;
+        } else {
+            localStorage.removeItem(cacheKey);
+            return null;
+        }
+    } catch (error) {
+        console.error('Cache error:', error);
+        return null;
+    }
+}
+
+function cacheWeatherData(cacheKey, data) {
+    try {
+        const cacheData = {
+            data: data,
+            timestamp: new Date().getTime()
+        };
+        localStorage.setItem(cacheKey, JSON.stringify(cacheData));
+    } catch (error) {
+        console.error('Cache save error:', error);
+    }
+}
+
+function displayWeatherData(data, cityName) {
+    const contentDiv = document.getElementById('weather-content');
+    const current = data.current;
+    const daily = data.daily;
+    
+    const currentIcon = WEATHER_ICONS[current.weather_code] || '🌤️';
+    const currentDescription = WEATHER_DESCRIPTIONS[current.weather_code] || 'Neznámé počasí';
+    
+    const html = `
+        <div class="weather-current">
+            <div class="weather-main">
+                <span class="weather-current-icon">${currentIcon}</span>
+                <div class="weather-temp-info">
+                    <span class="weather-temperature">${Math.round(current.temperature_2m)}°C</span>
+                    <span class="weather-description">${currentDescription}</span>
+                </div>
+            </div>
+            <div class="weather-details">
+                <div class="weather-detail">
+                    <span class="weather-detail-label">Vlhkost:</span>
+                    <span class="weather-detail-value">${current.relative_humidity_2m}%</span>
+                </div>
+                <div class="weather-detail">
+                    <span class="weather-detail-label">Vítr:</span>
+                    <span class="weather-detail-value">${Math.round(current.wind_speed_10m)} km/h</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="weather-forecast">
+            <h4 class="weather-forecast-title">Předpověď na 3 dny</h4>
+            <div class="weather-forecast-days">
+                ${daily.time.slice(1, 4).map((date, index) => {
+                    const dayIndex = index + 1;
+                    const dayName = getDayName(new Date(date));
+                    const icon = WEATHER_ICONS[daily.weather_code[dayIndex]] || '🌤️';
+                    const maxTemp = Math.round(daily.temperature_2m_max[dayIndex]);
+                    const minTemp = Math.round(daily.temperature_2m_min[dayIndex]);
+                    
+                    return `
+                        <div class="weather-forecast-day">
+                            <span class="weather-forecast-day-name">${dayName}</span>
+                            <span class="weather-forecast-icon">${icon}</span>
+                            <div class="weather-forecast-temps">
+                                <span class="weather-forecast-max">${maxTemp}°</span>
+                                <span class="weather-forecast-min">${minTemp}°</span>
+                            </div>
+                        </div>
+                    `;
+                }).join('')}
+            </div>
+        </div>
+    `;
+    
+    contentDiv.innerHTML = html;
+    
+    // Update last updated time
+    updateLastUpdateTime();
+    
+    hideWeatherLoading();
+}
+
+function getDayName(date) {
+    const today = new Date();
+    const tomorrow = new Date(today);
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    
+    if (date.toDateString() === tomorrow.toDateString()) {
+        return 'Zítra';
+    }
+    
+    const dayNames = ['Ne', 'Po', 'Út', 'St', 'Čt', 'Pá', 'So'];
+    return dayNames[date.getDay()];
+}
+
+function updateLastUpdateTime() {
+    const now = new Date();
+    const timeString = now.toLocaleTimeString('cs-CZ', { 
+        hour: '2-digit', 
+        minute: '2-digit' 
+    });
+    
+    const updateElement = document.getElementById('weather-last-update');
+    const updatedElement = document.getElementById('weather-updated');
+    
+    if (updateElement && updatedElement) {
+        updateElement.textContent = timeString;
+        updatedElement.style.display = 'block';
+    }
+}
+
+function showWeatherLoading() {
+    const contentDiv = document.getElementById('weather-content');
+    const errorDiv = document.getElementById('weather-error');
+    const updatedDiv = document.getElementById('weather-updated');
+    
+    if (contentDiv) {
+        contentDiv.innerHTML = `
+            <div class="weather-loading">
+                <div class="weather-spinner"></div>
+                <span>Načítání...</span>
+            </div>
+        `;
+    }
+    if (errorDiv) errorDiv.style.display = 'none';
+    if (updatedDiv) updatedDiv.style.display = 'none';
+}
+
+function hideWeatherLoading() {
+    // Loading is hidden when content is displayed
+}
+
+function showWeatherError() {
+    const errorDiv = document.getElementById('weather-error');
+    const contentDiv = document.getElementById('weather-content');
+    const updatedDiv = document.getElementById('weather-updated');
+    
+    if (errorDiv) errorDiv.style.display = 'block';
+    if (contentDiv) contentDiv.style.display = 'none';
+    if (updatedDiv) updatedDiv.style.display = 'none';
+}
+
+function hideWeatherError() {
+    const errorDiv = document.getElementById('weather-error');
+    const contentDiv = document.getElementById('weather-content');
+    
+    if (errorDiv) errorDiv.style.display = 'none';
+    if (contentDiv) contentDiv.style.display = 'block';
+}
+</script>
+{% endif %}

@@ -71,6 +71,33 @@ bing_site_verification: ""  # Add Bing Webmaster verification
 tagline: "Nezávislé zpravodajství pro svobodné občany"
 keywords: "zpravodajství, politika, společnost, česká republika, nezávislé noviny, progresivní, pirátské"
 
+# Weather Configuration
+weather:
+  enabled: true
+  api_url: "https://api.open-meteo.com/v1"
+  default_location:
+    name: "Praha"
+    latitude: 50.0755
+    longitude: 14.4378
+  cities:
+    - name: "Praha"
+      latitude: 50.0755
+      longitude: 14.4378
+    - name: "Brno" 
+      latitude: 49.1951
+      longitude: 16.6068
+    - name: "Ostrava"
+      latitude: 49.8209
+      longitude: 18.2625
+    - name: "Plzeň"
+      latitude: 49.7384
+      longitude: 13.3736
+    - name: "Liberec"
+      latitude: 50.7663
+      longitude: 15.0561
+  update_interval: 1800000  # 30 minutes in milliseconds
+  cache_duration: 3600000   # 1 hour cache in localStorage
+
 # Navigation
 navigation:
   - name: "Domů"

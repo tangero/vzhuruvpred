@@ -112,6 +112,30 @@ Includes: Organization, Website, Article, and Breadcrumb schemas
       ]
     }
     {% endunless %}
+    {% if site.weather.enabled and page.layout == 'home' %},
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#weather-forecast",
+      "mainEntity": {
+        "@type": "WeatherForecast",
+        "areaServed": {
+          "@type": "City",
+          "name": "{{ site.weather.default_location.name }}",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": {{ site.weather.default_location.latitude }},
+            "longitude": {{ site.weather.default_location.longitude }}
+          }
+        },
+        "provider": {
+          "@type": "Organization",
+          "name": "Open-Meteo",
+          "url": "https://open-meteo.com"
+        },
+        "about": "Aktuální počasí a předpověď pro {{ site.weather.default_location.name }} a další česká města"
+      }
+    }
+    {% endif %}
   ]
 }
 </script>
