@@ -1,38 +1,126 @@
 {
-  "last_updated": "2025-09-09T12:39:10",
+  "last_updated": "2025-09-09T13:30:26",
   "articles": [
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Video zachycuje smrtící pobodání ukrajinského uprchlíka ve vlaku charlottského metra",
+      "title": "RFK Jr. zvažuje kritiky očkování proti covidu pro klíčový vakcinační panel",
+      "original_title": "RFK Jr. considers critics of coronavirus shots to join key vaccine panel - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/08/rfk-jr-new-vaccine-advisers/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/336ZMIQEZZE5KSHAQY6NWIWT4M_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-08T14:31:51Z",
+      "description": "Dva lékaři žádali stažení mRNA vakcín proti covidu. Jeden tvrdil, že lékaři v ně „slepě věřili“. Druhý řekl, že covid není „strašidelný“, a připomněl, že Ježíš se dotýkal malomocných."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jihokorejci se cítí zrazeni po zadržení stovek dělníků při razií v továrně v Georgii",
+      "original_title": "South Koreans feel betrayed after hundreds of workers were detained in a plant raid in Georgia - AP News",
+      "url": "https://apnews.com/article/south-korea-us-georgia-raid-hyundai-24d990562f5ac20e7d3e983a77a4f7ff",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2162fc4/2147483647/strip/true/crop/1900x1069+0+99/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2F8a%2F38161b1e0eedc4b76d9ec1816b39%2F7c11c22d1a354109a2a7fe25dada043f",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-08T13:59:00Z",
+      "description": "Jihokorejský ministr zahraničí míří do USA, aby dokončil kroky k návratu stovek zadržených pracovníků"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Překvapení a zklamání na VMAs 2025",
+      "original_title": "Snubs & Surprises at the 2025 VMAs - Billboard",
+      "url": "http://www.billboard.com/lists/snubs-surprises-vmas-2025/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/08/kendrick-lamar-super-bowl-2025-billboard-1800.jpg?w=1024",
+      "source": "Billboard",
+      "publishedAt": "2025-09-08T12:56:15Z",
+      "description": "Tady jsou přehlédnutí a překvapení na MTV VMAs v roce 2025."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Howard Stern popírá zvěsti o vyhazovu ze SiriusXM, říká: „Teď nemůžu odejít“",
+      "original_title": "Howard Stern Denies SiriusXM Firing Rumors, Says “I Can’t Leave Now” - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/business/business-news/howard-stern-denies-siriusxm-firing-rumors-i-cant-leave-now-1236357061/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/GettyImages-2011340609.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-08T12:51:54Z",
+      "description": "„Naštvalo mě, že teď nemůžu odejít,“ řekl Stern v pondělí. „Uvažoval jsem o odchodu do důchodu, teď nemůžu.“"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Video zachycuje smrtící pobodání ukrajinského uprchlíka ve vlaku Charlotte",
       "original_title": "Video shows fatal stabbing of Ukrainian refugee on Charlotte light rail train - CNN",
       "url": "https://www.cnn.com/2025/09/08/us/iryna-zarutska-murder-ukraine-refugee",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/get-20250908103247186.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-08T11:30:00Z",
-      "description": "Děsivé video ukazuje 23letou ukrajinskou uprchlici ubodanou k smrti ve vlaku charlottského metra – případ, který se stal rozbuškou poté, co Trumpova administrativa slíbila tvrdě zakročit proti zloč..."
+      "description": "Děsivé video ukazuje 23letou ukrajinskou uprchlici ubodanou k smrti ve vlaku charlotteského metra – případ, který se stal rozbuškou poté, co Trumpova administrativa slíbila tvrdě zakročit proti zlo..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kde v Missouri byl prodán los s výhrou 1,787 miliardy dolarů v Powerball?",
+      "original_title": "Where in Missouri was the $1.787 billion Powerball ticket sold? - KSDK",
+      "url": "https://www.ksdk.com/article/news/lottery/missouri-powerball-winning-ticket-location-where-was-it-sold/63-cb804221-a24f-4e4b-b15a-6ea736e49cb2",
+      "urlToImage": "https://media.ksdk.com/assets/KSDK/images/63d56981-5786-43e4-a983-2f12b7857c2f/20250908T104318/63d56981-5786-43e4-a983-2f12b7857c2f_1140x641.jpg",
+      "source": "KSDK.com",
+      "publishedAt": "2025-09-08T11:27:00Z",
+      "description": "Texas odhalil, kde byla vítězná losovací los v jeho státě zakoupena, ale Missouri to zatím nedokáže."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Žena obviněná z vraždy dvou dětí a ukrytí těl do kufrů stanula před soudem",
+      "original_title": "Woman accused of killing her 2 kids, stuffing their bodies in suitcases goes on trial - CBS News",
+      "url": "https://www.cbsnews.com/news/hakyung-lee-trial-childrens-bodies-suitcases/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/08/22/d431d82e-94e8-4b57-aabe-449dc45723b5/thumbnail/1200x630/b7eb3b7f9348a4850b67d4b4ae274725/2022-08-19t020455z-2140446960-rc2ezv9e0ab0-rtrmadp-3-newzealand-crime.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-08T09:54:23Z",
+      "description": "V Novém Zélandu začal proces s Jihokorejkou obžalovanou z vraždy dvou dětí, jejichž těla nechala léta v kufrech"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Palestinští střelci zabili při útoku na jeruzalémskou zastávku 6 lidí",
+      "original_title": "Palestinian gunmen kill 6 people in attack on Jerusalem bus stop - CBS News",
+      "url": "https://www.cbsnews.com/news/israel-hamas-war-east-jerusalem-ramot-shooting-palestinian-gunmen-deaths/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/08/36a574d3-5a25-430f-9b46-3acda77cc0a2/thumbnail/1200x630/96b014a635b3a53a1f85e79ba8be8663/east-jerusalem-attack-shooting2233735664.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-08T09:34:00Z",
+      "description": "Izraelští představitelé uvedli, že dva střelci zahájili palbu na autobusové zastávce v Jeruzalémě. Při střelbě zemřelo šest lidí a sedm dalších utrpělo vážná zranění."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Nejméně 6 mrtvých po střeleckém útoku na jeruzalémské zastávce, oznámili izraelští představitelé",
-      "original_title": "At least 6 killed in shooting attack at Jerusalem bus stop, Israeli officials say - CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlV0amYtdTRuaEprVUktSjB2a2JFRDgycmhqSWVwMW85WkQzU1F1OFpvWVJCalQyNVNWcnhhYjVwMUtCSjlDZjlGSk1FMHdSS1I3X2ZDZFNuYVh5ZnVCNURmVE1Qbll1VnA1OFFlb3l5SWZBcGd0bmE2WlNKZjdQd1hOTQ?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2025-09-08T07:46:00Z",
-      "description": ""
+      "title": "Fanoušci viní špatnou osobu z katastrofy kickera Brownsu po prohře s Bengals — Jimmy Watkins",
+      "original_title": "Fans are blaming the wrong person for Browns’ kicker disaster after the loss to the Bengals — Jimmy Watkins - Cleveland.com",
+      "url": "https://www.cleveland.com/browns/2025/09/fans-are-blaming-the-wrong-person-for-browns-kicker-disaster-after-loss-to-bengals-jimmy-watkins.html",
+      "urlToImage": "https://www.cleveland.com/resizer/v2/22A4AYOUSRCD5JR5SIQIMKQIKE.jpg?auth=b7804c06b7b522a9642bd8e6283a76a65a1a205d17acf523ba347be06f81c494&width=1280&quality=90",
+      "source": "cleveland.com",
+      "publishedAt": "2025-09-08T09:00:00Z",
+      "description": "Neztrácejte dech lamentováním nad kickerem Andre Szmytem za nedělní prohru. Lamentujte nad Brownsy, kteří ho postavili do pozice, aby selhal."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Javier Milei utrpěl drtivou porážku v buenosaireských volbách",
-      "original_title": "Javier Milei suffers stinging setback in Buenos Aires polls - Financial Times",
-      "url": "https://www.ft.com/content/8264b6ac-fdf8-4b60-8cc7-707eea290f28",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5805e64e-5804-4d92-b388-aa1f029e5a3d.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-08T04:30:00Z",
-      "description": "Na libertariánského prezidenta roste tlak kvůli reformní agendě a korupčnímu skandálu před říjnovými volbami"
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jaké mléčné výrobky jsou pro tělo nejlepší? Vědci mají novou odpověď",
+      "original_title": "What kind of dairy does a body good? Science is updating the answer : Shots - Health News - NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/09/08/nx-s1-5528747/what-kind-of-dairy-does-a-body-good-science-is-updating-the-answer",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F2c%2Fc574c72f4a9b9a6b36be28117668%2Fgettyimages-638601018.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-08T09:00:00Z",
+      "description": "Brzy přijdou nové stravovací směrnice. Ministr zdravotnictví Robert F. Kennedy Jr. slíbil, že dny odtučněného mléka a dalších nízkotučných mléčných výrobků jsou sečteny. Má vyšší obsah tuku v mléčn..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Australanka dostala doživotí za otravu příbuzných houbami",
+      "original_title": "Australian woman is sentenced to life for poisoning relatives with mushrooms - NPR",
+      "url": "https://www.npr.org/2025/09/08/nx-s1-5533902/australia-erin-patterson-life-sentence-mushroom-murder",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2687x1511+0+140/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2Ff4%2F0386aeb54bb1b2fbdce13c53528f%2Fap25251062987464.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-08T05:14:43Z",
+      "description": "Australský soudce odsoudil trojnásobnou vražedkyni Erin Pattersonovou k doživotnímu vězení s nepovoleným propuštěním na 33 let za otravu čtyř příbuzných jejího odcizeného manžela muchomůrkou zelenou."
     },
     {
       "flag": "🌍",
@@ -48,101 +136,46 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "MTV VMAs 2025: Kompletní přehled – Ariana Grande vítězkou Videa roku po vystoupeních Lady Gagy, Mariah Carey a dalších",
-      "original_title": "MTV VMAs 2025 full coverage: Ariana Grande wins Video of the Year following performances by Lady Gaga, Mariah Carey and others - yahoo.com",
-      "url": "https://www.yahoo.com/entertainment/music/live/mtv-vmas-2025-full-coverage-ariana-grande-wins-video-of-the-year-following-performances-by-lady-gaga-mariah-carey-and-others-160044973.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xDJdZkCTLILyDhwttRU_vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/a3745840-8c62-11f0-b5fb-3ed5f8cfe7f2",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-08T04:04:00Z",
-      "description": "Je čas na každoroční oslavu nejpopulárnějších hudebních videí roku."
+      "title": "Podívejte se na úchvatné snímky 'krvavého měsíce' a úplného zatmění",
+      "original_title": "See stunning images of 'Blood Moon' and total lunar eclipse - USA Today",
+      "url": "https://www.usatoday.com/picture-gallery/news/nation/2025/09/07/blood-moon-total-lunar-eclipse-photos/86035720007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/08/USAT/86035761007-blood-moon-total-lunar-eclipse-001.jpg?crop=3297,1854,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2025-09-08T03:56:15Z",
+      "description": "Pozorovatelé noční oblohy zažili 7. září při úplném zatmění Měsíce \"krvavý Měsíc\", který byl viditelný v Asii a velké části Evropy a Afriky."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Odpudivé a bezohledné\": Vanceova chvála zásahu proti narkolodi kritizována senátorem",
+      "title": "Odporné a bezohledné\": Vanceova chvála úderu na narkoloď senátorem odsouzena",
       "original_title": "\"Despicable and thoughtless\": Vance's drug vessel strike praise slammed by senator - Axios",
       "url": "https://www.axios.com/2025/09/07/vance-rand-paul-drug-vessel-strike",
       "urlToImage": "https://images.axios.com/Hjd6Xiwn5KGe1omMhg67wfLz5mY=/0x0:8640x4860/1366x768/2025/09/07/1757256596529.jpg",
       "source": "Axios",
       "publishedAt": "2025-09-08T03:55:48Z",
-      "description": "Vance nadšeně podpořil úder, který podle Trumpa zabil 11 \"teroristů\"."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Rick Davies, spoluzakladatel Supertramp, který napsal a zpíval ‚Bloody Well Right‘ a ‚Goodbye Stranger‘, zemřel ve věku 81 let",
-      "original_title": "Rick Davies, Supertramp Co-Founder Who Wrote and Sang ‘Bloody Well Right’ and ‘Goodbye Stranger,’ Dies at 81 - variety.com",
-      "url": "https://variety.com/2025/music/news/supertramp-rick-davies-bloody-well-right-dead-1236511107/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2149598389-e1757282273585.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-07T23:45:00Z",
-      "description": "Zemřel spoluzakladatel Supertramp Rick Davies, autor hitů ‚Bloody Well Right‘ a ‚Goodbye Stranger‘. Bylo mu 81 let."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nejvíce znepokojující vlastností trhu práce je malý rozsah zisků, říká špičkový ekonom – ‚tohle se děje jen při recesi‘",
-      "original_title": "The most troubling feature of the job market is how thinly spread gains are, top economist says — 'this only happens when the economy is in recession' - Fortune",
-      "url": "https://fortune.com/2025/09/07/recession-warning-economic-outlook-zandi-healthcare-hospitality-jobs-report/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2217161762-e1757268342241.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-07T19:59:00Z",
-      "description": "Od začátku roku vytvořilo hospodářství jen necelých 600 tisíc pracovních míst, ale bez růstu pracovních míst v těchto odvětvích by byl růst nulový."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Podívejte se na krvavý úplněk v prvních snímcích úplného zatmění Měsíce v září 2025",
-      "original_title": "See the blood moon rise in 1st pictures of September 2025 total lunar eclipse - Space",
-      "url": "https://www.space.com/stargazing/lunar-eclipses/blood-moon-1st-pictures-september-7-2025-total-lunar-eclipse",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oWWKjrwCVotfFF4rbxiQMT.png",
-      "source": "Space.com",
-      "publishedAt": "2025-09-07T19:30:22Z",
-      "description": "Podívejte se na první fotografie zářijového velkolepého úplného zatmění Měsíce."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Deals: Samsung Galaxy S25 FE a Tab S11 jsou tady, koukáme také na alternativy - novinky GSMArena.com",
-      "original_title": "Deals: Samsung Galaxy S25 FE and Tab S11 are here, we also look at alternatives - GSMArena.com news - GSMArena.com",
-      "url": "https://www.gsmarena.com/deals_samsung_galaxy_s25_fe_and_tab_s11_are_here_we_also_look_at_alternatives-news-69366.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/09/deals-5/-952x498w6/gsmarena_us.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2025-09-07T17:52:02Z",
-      "description": "S25 FE vynechal předobjednávky a spustil se okamžitě – ale to neznamená, že nejsou žádné výhody pro časné zájemce. Samsung oznámil Galaxy S25 FE..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dva Oregonští vyhráli v tomto týdnu miliony v Powerballu",
-      "original_title": "Two Oregonians won millions in Powerball drawings this week - OregonLive.com",
-      "url": "https://www.oregonlive.com/lottery/2025/09/two-oregonians-won-millions-in-powerball-drawings-this-week.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/NH64G3O2LFETLPDDMJL6KR5QC4.jpg?auth=18d38d74db6ee160427e314f71aa1fec40c8c20112493d4b87db574440ee39b1&width=1280&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2025-09-07T16:59:00Z",
-      "description": "Oregonský výherce si tento týden odnesl 3 miliony dolarů z Powerballu."
+      "description": "Vance stávku nadšeně podpořil, Trump řekl, že zabila 11 \"teroristů\"."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Meziplanetární objekt 3I/ATLAS: Čtyři teleskopy odhalují podivné vlastnosti a objevy — vše o novém sci",
+      "title": "Meziplanetární objekt 3I/ATLAS: Čtyři teleskopy odhalují podivné vlastnosti a objevy — vše o nové vědě",
       "original_title": "Interstellar Object 3I/ATLAS: Four Telescopes unveil strange features and findings — all about the new sci - The Economic Times",
       "url": "https://economictimes.indiatimes.com/news/international/us/interstellar-object-3i/atlas-four-telescopes-unveil-strange-features-and-findings-all-about-the-new-scientific-puzzle/articleshow/123749632.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-123749670,width-1200,height-630,imgsize-36359,overlay-economictimes/articleshow.jpg",
       "source": "The Times of India",
       "publishedAt": "2025-09-07T16:46:08Z",
-      "description": "Astronomové z celého světa bedlivě sledují vzácného mezihvězdného návštěvníka: objekt 3I/ATLAS. Poprvé byl spatřen začátkem července, když přilétal ze vzdáleného vesmíru směrem ke Slunci. Jde teprv..."
+      "description": "Astronomové z celého světa bedlivě sledují vzácnou mezihvězdnou návštěvnici: objekt 3I/ATLAS. Poprvé byl spatřen začátkem července, když přiletěl ke Slunci z hlubokého vesmíru, a jde teprve o třetí..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Cate Blanchett, Richard Gere a Lauren Hutton vzpomínají na Giorgia Armaniho",
+      "title": "Cate Blanchettová, Richard Gere a Lauren Hutton vzpomínají na Giorgia Armaniho",
       "original_title": "Cate Blanchett, Richard Gere, and Lauren Hutton Remember Giorgio Armani - Vogue",
       "url": "https://www.vogue.com/article/cate-blanchett-richard-gere-and-lauren-hutton-remember-giorgio-armani",
       "urlToImage": "https://assets.vogue.com/photos/68bd924d5bbcdac7da367981/16:9/w_1280,c_limit/1472606611",
       "source": "Vogue",
       "publishedAt": "2025-09-07T14:13:08Z",
-      "description": "Italský návrhář zemřel ve věku 91 let na začátku týdne, jen pár dní před oslavou v Miláně na počest 50. výročí své značky."
+      "description": "Italský návrhář zemřel v 91 letech na začátku týdne, jen pár dní před oslavou v Miláně k 50. výročí své značky."
     },
     {
       "flag": "🌍",
@@ -153,106 +186,51 @@
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/06/6a4cc036-b788-44ac-a76c-624a45d0f2e7/thumbnail/1200x630/cf40bd663275704fe8496ae2a59572a3/amy-coney-barrett-interview-1280.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-07T13:55:00Z",
-      "description": "Ve svém prvním televizním rozhovoru od nástupu k Nejvyššímu soudu v roce 2020 soudkyně Amy Coney Barrettová hovoří také o svém hlasování v potratovém případu Dobbs z roku 2022."
+      "description": "Ve svém prvním televizním rozhovoru od nástupu k Nejvyššímu soudu v roce 2020 se soudkyně Amy Coney Barrettová také vyjadřuje ke svému hlasování v potratovém případu Dobbs z roku 2022."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Co potřebujete vědět o nových aktualizovaných vakcínách proti covidu na sezónu 2025–2026",
-      "original_title": "What To Know About The New Updated Covid Vaccines For 2025-2026 - Forbes",
-      "url": "https://www.forbes.com/sites/omerawan/2025/09/07/what-to-know-about-the-new-updated-covid-vaccines-for-2025-2026/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bc7b06f5a03204a57b3618/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-09-07T13:53:26Z",
-      "description": "Nové aktualizované vakcíny proti covidu pro rok 2025–2026 budou k dispozici na podzim. Zde jsou odpovědi na některé z nejčastějších otázek o vakcíně."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Porsche představuje neuvěřitelně chytrý hybridní motor pro 911 Turbo S",
-      "original_title": "Porsche’s insanely clever hybrid engine comes to the 911 Turbo S - Ars Technica",
-      "url": "https://arstechnica.com/cars/2025/09/porsches-insanely-clever-hybrid-engine-comes-to-the-911-turbo-s/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/911_turbos_1001-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-07T13:00:58Z",
-      "description": "Nová verze 911 je na Nordschleife Nürburgringu o 14 sekund rychlejší."
+      "title": "Porsche 911 Turbo S 2026 je hybrid s 701 koňmi a základní cenou 272 650 dolarů",
+      "original_title": "The 2026 Porsche 911 Turbo S Is a 701-HP Hybrid With a $272,650 Starting Price - Road & Track",
+      "url": "https://www.roadandtrack.com/news/a65981380/2026-porsche-911-turbo-s/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/911-turbos-2004-16-9-68b9a71a74fb2.jpeg?crop=0.642xw:0.572xh;0.235xw,0.263xh&resize=1200:*",
+      "source": "RoadandTrack.com",
+      "publishedAt": "2025-09-07T13:00:00Z",
+      "description": "Porsche 911 Turbo S nové generace 992.2 má přeplňovaný plochý šestiválec s hybridním pohonem a výkon 701 koní."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Proč jsou někteří republikáni nově znepokojeni RFK Jr.",
+      "title": "Proč mají někteří republikáni nové obavy o RFK Jr.",
       "original_title": "Why some Republicans are newly worried about RFK Jr. - The Washington Post",
       "url": "https://www.washingtonpost.com/politics/2025/09/07/rfk-gop-maga-maha-vaccines/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PEESRTIB7WXOCPVNK5ZU7EHXOM_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-07T12:32:55Z",
-      "description": "Republikánští senátoři tvrdí, že jeho kroky ohledně vakcín jsou riskantní pro veřejné zdraví. Mohou být i špatné pro politiku."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Proč Tesla právě hodila na Elona Muska bilion dolarů",
-      "original_title": "Why Tesla just threw $1 trillion at Elon Musk - CNN",
-      "url": "https://www.cnn.com/2025/09/07/business/elon-musk-tesla-trillion",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25069168706458.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-07T12:00:00Z",
-      "description": "Co dát muži, který si už může koupit cokoliv? Třeba bilion dolarů?"
+      "description": "Republikánští senátoři tvrdí, že jeho kroky ohledně vakcín jsou riskantní pro veřejné zdraví. Mohou být také špatné z politického hlediska."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tichý zabiják zvyšuje riziko mrtvice a demence. Zde je návod, jak ho mít pod kontrolou.",
-      "original_title": "The silent killer increases your risk of stroke and dementia. Here's how to control it - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/07/nx-s1-5532108/the-silent-killer-increases-your-risk-of-stroke-and-dementia-heres-how-to-control-it",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F40%2F2f4202db48768250aa3fa3a7312b%2Fgettyimages-1886165079.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-07T11:00:00Z",
-      "description": "Nové doporučení pro včasnou léčbu hypertenze má předcházet mrtvicím, infarktům a demenci. Současně experimentální lék snižuje tlak u obtížně léčitelných pacientů."
+      "title": "Zde jsou vítězové Benátského filmového festivalu 2025",
+      "original_title": "Here are the winners of the 2025 Venice Film Festival - AV Club",
+      "url": "https://www.avclub.com/venice-film-festival-2025-winners-jim-jarmusch",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2025/09/06173444/jarmusch-feature.jpg",
+      "source": "The A.V. Club",
+      "publishedAt": "2025-09-06T23:18:00Z",
+      "description": "Zde jsou vítězové Benátského filmového festivalu 2025"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Rusko poprvé zasáhlo klíčovou ukrajinskou vládní budovu během rekordního náletu dronů na Kyjev – Radio Svobodná Evropa/Rádio Svoboda",
-      "original_title": "Russia Hits Key Ukrainian Government Building For First Time Amid Record Drone Barrage In Kyiv - Radio Free Europe/Radio Liberty",
-      "url": "https://www.rferl.org/a/ukraine-kyiv-russia-invasion/33523903.html",
-      "urlToImage": "https://gdb.rferl.org/0c22fe7c-3620-41fd-828c-b3a4de5a15a0_cx0_cy10_cw0_w1200_h630.jpg",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2025-09-07T08:04:22Z",
-      "description": "Ruské drony poprvé od začátku plnohodnotné invaze zasáhly klíčovou ukrajinskou vládní budovu, uvedl Kyjev."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Pete Hegseth čte z poznámek v trapném propagačním videu ‚Ministerstva války‘",
-      "original_title": "Pete Hegseth Reads From Notes in Awkward ‘Department of War’ Promo Video - The Daily Beast",
-      "url": "https://www.thedailybeast.com/pete-hegesth-reads-from-notes-in-awkward-department-of-war-promo-video/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/7X5J6V3F2BEGTLS6LKDK43LTZU.JPG?smart=true&auth=6babbe5e9fa2ba61f643c8950949ff0a99c02184d3d7d78019bd1866319cd6a1&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2025-09-07T07:56:00Z",
-      "description": "Minutové video je plné šovinistické rétoriky a obsahuje přinejmenším jeden dvojitý zápor."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "SpaceX z Kalifornie vypustila 24 satelitů Starlink (video)",
+      "title": "SpaceX vypustila z Kalifornie 24 satelitů Starlink (video)",
       "original_title": "SpaceX launches 24 Starlink satellites from California (video) - Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-9-b1075-vsfb-ocisly",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wx7EfuNPCCar4EXZF3VBuH.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-06T18:32:05Z",
-      "description": "Vzlet proběhl v sobotu (6. září) v 18:06 středoevropského času."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kongo oznámilo nový výskyt eboly. Zde je přehled nejdůležitějších informací.",
-      "original_title": "Congo has announced a new Ebola outbreak. Here’s what to know - AP News",
-      "url": "https://apnews.com/article/congo-ebola-kasai-outbreak-73c01a467e3f7b5e3e19abec17c65a39",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ad452b3/2147483647/strip/true/crop/4031x2267+0+338/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2F18%2Ffba030ff335a2d3bc00706f41995%2F8dc9c7d7efe94f1fb73a28eed469e2bb",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-06T16:55:00Z",
-      "description": "Kongo hlásí nové vypuknutí eboly, které v jižní provincii zabilo více než tucet lidí"
+      "description": "Vzlet proběhl v sobotu (6. září) v 18:06 středoevropského letního času."
     }
   ]
 }
