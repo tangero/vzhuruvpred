@@ -5,8 +5,8 @@ Všechny významné změny v projektu "Vzhůru a vpřed" jsou dokumentovány v t
 Formát je založený na [Keep a Changelog](https://keepachangelog.com/cs/1.1.0/),
 a projekt dodržuje [Sémantické verzování](https://semver.org/lang/cs/).
 
-## [2.2.0] - 2025-09-09
-- počasí
+## [2.3.0] - 2025-09-09
+- počasí, jeho následný přesun na spodek stránky 
 
 ## [2.2.0] - 2025-09-08
 

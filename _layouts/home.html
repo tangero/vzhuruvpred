@@ -45,9 +45,6 @@ layout: default
         {% endif %}
 
         <div class="hero-sidebar">
-            <!-- Weather Widget -->
-            {% include weather.html %}
-            
             {% assign sidebar_posts = "" | split: "," %}
             {% for post in site.posts %}
                 {% unless post.categories contains 'videa' or post.topclanek == true %}
@@ -132,9 +129,15 @@ layout: default
             
             <div class="articles-list">
                 {% comment %}
-                Zobrazujeme 10 nejnovějších článků kromě prvních 3 (které jsou zobrazeny nahoře)
+                Zobrazujeme 10 nejnovějších článků kromě prvních 3 (které jsou zobrazeny nahoře) a vyloučíme přednášky (kategorie "videa")
                 {% endcomment %}
-                {% assign recent_posts = site.posts | offset: 3 | limit: 10 %}
+                {% assign filtered_posts = "" | split: "," %}
+                {% for post in site.posts %}
+                    {% unless post.categories contains 'videa' %}
+                        {% assign filtered_posts = filtered_posts | push: post %}
+                    {% endunless %}
+                {% endfor %}
+                {% assign recent_posts = filtered_posts | offset: 3 | limit: 10 %}
                 {% for post in recent_posts %}
                 <article class="article-list-item">
                     <a href="{{ post.url | relative_url }}" class="article-link">
@@ -246,19 +249,8 @@ layout: default
             </form>
         </div>
 
-        <!-- Počasí widget -->
-        <div class="sidebar-section weather-widget">
-            <h3 class="sidebar-title">Počasí & Tech index</h3>
-            <div class="weather-content">
-                <div class="weather-today">
-                    <div class="weather-icon-large">☀️</div>
-                    <div class="weather-info">
-                        <span class="temperature">24°C</span>
-                        <span class="weather-desc">Ideální počasí pro coding</span>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <!-- Weather Widget -->
+        {% include weather.html %}
     </aside>
 </div>
 
