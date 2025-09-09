@@ -9,6 +9,7 @@ a projekt dodržuje [Sémantické verzování](https://semver.org/lang/cs/).
 - počasí, jeho následný přesun na spodek stránky
 - a ajťácizace počasí, přidali jsme popisky, zda se hodí ke kódování...
 - přidáno GeoIP pro počasí - vylepšení. 
+- aktualizace lokalit
 
 ## [2.2.0] - 2025-09-08
 
