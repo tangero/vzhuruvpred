@@ -35,6 +35,13 @@ Uses Open-Meteo API for free weather data without API key
     <div class="weather-updated" id="weather-updated" style="display: none;">
         <small>Aktualizováno: <span id="weather-last-update"></span></small>
     </div>
+    
+    <div class="weather-detection-info" id="weather-detection-info" style="display: none;">
+        <small class="weather-detection-text">
+            <span class="weather-detection-icon">📍</span>
+            <span id="weather-detection-message"></span>
+        </small>
+    </div>
 </div>
 
 <script>
@@ -195,6 +202,7 @@ function initWeatherWidget() {
             
             // Save user selection to localStorage
             savePreferredCity(cityName, parseFloat(lat), parseFloat(lon));
+            showDetectionInfo(`Ručně zvoleno město: ${cityName}`, 'manual');
             loadWeatherData(parseFloat(lat), parseFloat(lon), cityName);
         });
     }
@@ -219,11 +227,13 @@ function initializeLocation() {
     if (storedLocation) {
         // User has visited before, use stored location
         console.log('Using stored location:', storedLocation.name);
+        showDetectionInfo(`Použito uložené město: ${storedLocation.name}`, 'stored');
         setSelectedCity(storedLocation.name, storedLocation.latitude, storedLocation.longitude);
         loadWeatherData(storedLocation.latitude, storedLocation.longitude, storedLocation.name);
     } else {
         // First visit, try to detect location
         console.log('First visit - attempting location detection');
+        showDetectionInfo('Detekuji polohu...', 'detecting');
         detectUserLocation();
     }
 }
@@ -238,25 +248,35 @@ async function detectUserLocation() {
         }
         
         const data = await response.json();
+        console.log('GeoIP data:', data); // Debug log
         
         // Check if we got a city in Czech Republic or Slovakia (our supported regions)
         if (data.country_code === 'CZ' || data.country_code === 'SK') {
             const detectedCity = findNearestSupportedCity(data.latitude, data.longitude, data.city);
             
             if (detectedCity) {
-                console.log('Detected location:', detectedCity.name);
+                const isExactMatch = detectedCity.name.toLowerCase() === data.city.toLowerCase();
+                const message = isExactMatch 
+                    ? `Detekováno GeoIP: ${data.city} (${data.country_code})`
+                    : `GeoIP: ${data.city} → nejbližší: ${detectedCity.name} (${data.country_code})`;
+                
+                console.log('Detected location:', detectedCity.name, 'from GeoIP:', data.city);
+                showDetectionInfo(message, 'success');
                 savePreferredCity(detectedCity.name, detectedCity.latitude, detectedCity.longitude);
                 setSelectedCity(detectedCity.name, detectedCity.latitude, detectedCity.longitude);
                 loadWeatherData(detectedCity.latitude, detectedCity.longitude, detectedCity.name);
                 return;
+            } else {
+                throw new Error(`City ${data.city} not in supported list, distance > 100km`);
             }
+        } else {
+            throw new Error(`Unsupported country: ${data.country_name} (${data.country_code})`);
         }
-        
-        // Fallback to Prague if detection failed or unsupported region
-        throw new Error('Unsupported region or city not found');
         
     } catch (error) {
         console.log('Location detection failed, using Prague as default:', error.message);
+        showDetectionInfo(`Detekce selhala (${error.message}), použita Praha`, 'fallback');
+        
         // Fallback to Prague
         const prague = { name: 'Praha', latitude: 50.0755, longitude: 14.4378 };
         savePreferredCity(prague.name, prague.latitude, prague.longitude);
@@ -567,6 +587,26 @@ function hideWeatherError() {
     
     if (errorDiv) errorDiv.style.display = 'none';
     if (contentDiv) contentDiv.style.display = 'block';
+}
+
+function showDetectionInfo(message, type) {
+    const detectionDiv = document.getElementById('weather-detection-info');
+    const messageSpan = document.getElementById('weather-detection-message');
+    
+    if (detectionDiv && messageSpan) {
+        messageSpan.textContent = message;
+        detectionDiv.className = `weather-detection-info weather-detection-${type}`;
+        detectionDiv.style.display = 'block';
+        
+        // Auto-hide detection info after 10 seconds for success/stored, keep fallback visible
+        if (type === 'success' || type === 'stored') {
+            setTimeout(() => {
+                detectionDiv.style.display = 'none';
+            }, 10000);
+        } else if (type === 'detecting') {
+            // Keep detecting message visible until replaced
+        }
+    }
 }
 </script>
 {% endif %}

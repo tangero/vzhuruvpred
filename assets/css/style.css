@@ -4483,6 +4483,73 @@ video::-webkit-media-controls-panel {
     font-size: 0.8rem;
 }
 
+/* Weather Detection Info */
+.weather-detection-info {
+    text-align: center;
+    margin-top: 0.75rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.75rem;
+    line-height: 1.3;
+}
+
+.weather-detection-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.weather-detection-icon {
+    font-size: 0.9rem;
+    flex-shrink: 0;
+}
+
+.weather-detection-success {
+    background: rgba(34, 197, 94, 0.1);
+    color: rgb(34, 197, 94);
+    border: 1px solid rgba(34, 197, 94, 0.2);
+}
+
+.weather-detection-stored {
+    background: rgba(59, 130, 246, 0.1);
+    color: rgb(59, 130, 246);
+    border: 1px solid rgba(59, 130, 246, 0.2);
+}
+
+.weather-detection-fallback {
+    background: rgba(245, 158, 11, 0.1);
+    color: rgb(245, 158, 11);
+    border: 1px solid rgba(245, 158, 11, 0.2);
+}
+
+.weather-detection-detecting {
+    background: rgba(156, 163, 175, 0.1);
+    color: rgb(156, 163, 175);
+    border: 1px solid rgba(156, 163, 175, 0.2);
+}
+
+.weather-detection-manual {
+    background: rgba(168, 85, 247, 0.1);
+    color: rgb(168, 85, 247);
+    border: 1px solid rgba(168, 85, 247, 0.2);
+}
+
+.weather-detection-detecting .weather-detection-icon {
+    animation: detectingPulse 1.5s ease-in-out infinite;
+}
+
+@keyframes detectingPulse {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0.6;
+        transform: scale(1.1);
+    }
+}
+
 /* Weather Activity Recommendation */
 .weather-recommendation {
     margin: 1.5rem 0;
