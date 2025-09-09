@@ -1,6 +1,39 @@
 {
-  "last_updated": "2025-09-09T06:27:54",
+  "last_updated": "2025-09-09T07:17:43",
   "articles": [
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Norské těsné hlasování rozhodne, zda zůstat u labouristů, nebo zvolit pravici",
+      "original_title": "Norway's tight vote to decide whether to stick with Labour or turn right - BBC",
+      "url": "https://www.bbc.com/news/articles/c701382e994o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/49d2/live/62b61cd0-8c80-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-08T06:47:17Z",
+      "description": "Norvézi jdou k volbám, očekává se, že v myslích voličů budou dominovat domácí problémy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jižní Korea přiveze domů 300 dělníků zadržených při rozsáhlé razií v továrně Hyundai v Georgii",
+      "original_title": "South Korea will bring home 300 workers detained in massive Hyundai plant raid in Georgia - AP News",
+      "url": "https://apnews.com/article/us-south-korea-ice-raid-georgia-hyundai-ee8781d965c74a5ee18525ce87959ba4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bb03a15/2147483647/strip/true/crop/5000x2813+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2F1d%2F80e2a85391de4749110a65ec97d5%2F1228abfce46e4204a50aebae50e5109f",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-08T05:56:00Z",
+      "description": "Jižní Korea oznámila dohodu s USA na propuštění svých občanů zadržených při imigrační razii v továrně Hyundai v Georgii"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Mercedes-Benz GLC jde do elektřiny. A má působivé parametry",
+      "original_title": "The Mercedes-Benz GLC Goes Electric. And It Has Some Impressive Stats - Motor1.com",
+      "url": "https://www.motor1.com/news/771390/mercedes-benz-glc-ev-horsepower-range-specs/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/0eEVW9/s1/mercedes-glc-eq-2025.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2025-09-08T03:30:20Z",
+      "description": "Mercedes-Benz představuje novou GLC s technologií EQ, která má baterii o kapacitě 94,0 kWh a výkon až 483 koní."
+    },
     {
       "flag": "🌍",
       "country": "global",
@@ -15,18 +48,18 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Vraždy houbami: Erin Pattersonová, která podala smrtelné jídlo rodině při obědě, dostala doživotí; 3 zemřeli, ale záhada",
+      "title": "Vraždy houbami: Erin Pattersonová, která podala smrtelné jídlo rodině k obědu, dostala doživotí; 3 zemřeli, ale záhada",
       "original_title": "Mushroom murders: Erin Patterson, who served death to family at lunch, jailed for life; 3 died, but myste - Times of India",
       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/mushroom-murders-erin-patterson-who-served-death-to-family-at-lunch-jailed-for-life-3-died-but-mystery-is-still-alive/articleshow/123755460.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-123755524,width-1070,height-580,imgsize-1344862,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "source": "The Times of India",
       "publishedAt": "2025-09-08T02:20:00Z",
-      "description": "Zprávy ze světa: Erin Pattersonová, ústřední postava nechvalně známého případu „houbových vražd“, dostala v pondělí od australského soudce doživotní trest s mož"
+      "description": "Zprávy ze světa: Erin Pattersonová, ústřední postava nechvalně známého případu „houbových vražd“, dostala v pondělí od australského soudce doživotní trest s možno"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "„SNL 50“, „Traitors“ a „Pee-wee As Himself“ mezi vítězi 2. noci Creative Arts Emmy – Aktualizujeme živě",
+      "title": "‘SNL 50’, ‘Traitoři’ a ‘Pee-wee sám sobě’ mezi vítězi 2. noci televizních cen Emmy za kreativní umění — průběžně aktualizováno",
       "original_title": "‘SNL 50,’ ‘The Traitors’ & ‘Pee-wee As Himself’ Among Winners On Night 2 Of Creative Arts Emmys — Updating Live - Deadline",
       "url": "http://deadline.com/2025/09/creative-arts-emmys-2025-winners-list-1236509478/",
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Creative-Arts-Emmys-Key-Art.jpg?w=1024",
@@ -37,7 +70,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Futures na Dow Jones rostou, protože se šíří obavy z recese, zatímco Wall Street čeká na jedinou věc, která by mohla zhatit snížení sazeb Fedu",
+      "title": "Futures na Dow rostou, zatímco obavy z recese sílí a Wall Street čeká na jedinou věc, která by mohla zhatit škrty sazeb Fedu",
       "original_title": "Dow futures rise as recession fears grow while Wall Street awaits the one thing that could derail Fed rate cuts - Fortune",
       "url": "https://fortune.com/2025/09/07/stock-market-today-dow-futures-cpi-ppi-fed-rate-cuts-recession-inflation/",
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2232783307-e1757280449135.jpg?resize=1200,600",
@@ -48,106 +81,84 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hráč loterie Powerball v Texasu se rozdělí o jackpot téměř 1,8 miliardy dolarů",
-      "original_title": "Powerball lottery player in Texas to split nearly $1.8 billion jackpot - Dallas News",
-      "url": "https://www.dallasnews.com/news/national/2025/09/07/powerball-lottery-player-in-texas-to-split-nearly-18-billion-jackpot/",
-      "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/7S6VYWFGE5HDLHSVLNZ3S7LT3Q.jpg?auth=6d6112d32412890466348f5e7f33967f5392a347d35cc3c8a7c2d2f4c93e8e91&quality=80&width=1200&height=630&smart=true",
-      "source": "The Dallas Morning News",
-      "publishedAt": "2025-09-07T22:41:15Z",
-      "description": "Vítězný los v Texasu byl prodán ve Fredericksburgu."
+      "title": "Warner Bros. píše dějiny box officu, sedm jejich filmů překonalo hranici 40 milionů dolarů",
+      "original_title": "Warner Bros. Makes Box Office History After 7 Movies Open Above $40 Million - Variety",
+      "url": "https://variety.com/2025/film/news/warner-bros-box-office-historic-streak-conjuring-last-rites-1236510864/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/MCDCOLA_WB031.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-07T22:00:00Z",
+      "description": "Warner Bros. má za sebou epickou sérii kasovních trháků, sedm filmů v řadě vydělalo v premiérový víkend přes 40 milionů dolarů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podívejte se na krvavý úplněk v prvních snímcích úplného zatmění Měsíce ze září 2025",
+      "title": "Podívejte se na krvavý úplněk v prvních snímcích úplného zatmění Měsíce v září 2025",
       "original_title": "See the blood moon rise in 1st pictures of September 2025 total lunar eclipse - Space",
       "url": "https://www.space.com/stargazing/lunar-eclipses/blood-moon-1st-pictures-september-7-2025-total-lunar-eclipse",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/oWWKjrwCVotfFF4rbxiQMT.png",
       "source": "Space.com",
       "publishedAt": "2025-09-07T19:30:22Z",
-      "description": "Podívejte se na první fotografie zářijového majestátního úplného zatmění Měsíce."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Světová premiéra GLC EQ: Mercedes elektrifikuje svůj bestseller - electrive.com",
-      "original_title": "World premiere of the GLC EQ: Mercedes electrifies its bestseller - electrive.com",
-      "url": "https://www.electrive.com/2025/09/07/world-premiere-of-the-glc-eq-mercedes-electrifies-its-bestseller/",
-      "urlToImage": "https://www.electrive.com/media/2025/09/mercedes-benz-glc-400-4matic-eq-iaa-2025-08.jpg",
-      "source": "Electrive.com",
-      "publishedAt": "2025-09-07T18:50:00Z",
-      "description": "Krátce před začátkem IAA Mercedes odhalil dlouho očekávanou GLC s technologií EQ – označuje ji za „bod zlomu v segmentu středních vozů“."
+      "description": "Podívejte se na první fotografie zářijového úchvatného úplného zatmění Měsíce."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Plán Floridy zrušit školní očkovací povinnost nezačne dříve než za 90 dní a nebude se týkat všech nemocí",
+      "title": "Plán Floridy zrušit povinné očkování ve školách začne platit za 90 dní a nebude se týkat všech nemocí",
       "original_title": "Florida’s plan to drop school vaccine rule won’t start for 90 days, won’t cover all diseases - AP News",
       "url": "https://apnews.com/article/florida-vaccine-mandates-children-4e697db6085dc5dd4bd9b206ed9a51b6",
       "urlToImage": "https://dims.apnews.com/dims4/default/5ad8aa7/2147483647/strip/true/crop/4200x2363+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2F18%2F3ccd81abbfa549b979e97538ecd6%2Fb1d74ff6b2db4a4a8a5f2b75adf50142",
       "source": "Associated Press",
       "publishedAt": "2025-09-07T18:43:00Z",
-      "description": "Florida má plán zrušit povinné školní očkování. Platit by ale začal nejdříve za 90 dní a týkal by se jen planých neštovic a několika dalších nemocí"
+      "description": "Florida má plán zrušit povinné očkování ve školách. Platit by však začal až za 90 dní a zahrnoval by pouze plané neštovice a několik dalších nemocí, pokud zákonodárci nerozhodnou o rozšíření na dal..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trumpova administrativa spustila imigrační zátah v Massachusetts",
+      "title": "Trumpova administrativa spouští masivní zátah proti imigrantům v Massachusetts",
       "original_title": "Trump administration launches immigration enforcement surge in Massachusetts - CNN",
       "url": "https://www.cnn.com/2025/09/07/politics/immigration-enforcement-surge-in-massachusetts",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-19t162446z-42259325-rc2eagav710l-rtrmadp-3-usa-trump-boston.JPG?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-07T17:51:00Z",
-      "description": "Trumpova administrativa zahájila nový federální program pro vymáhání přistěhovaleckých zákonů v Massachusetts zaměřený na deportaci zločinců, kteří do země vstoupili nelegálně, oznámilo ministerstv..."
+      "description": "Trumpova administrativa spustila nový federální program pro vymáhání přistěhovaleckých zákonů v Massachusetts zaměřený na deportace zločinců, kteří do země vstoupili nelegálně."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dva Oregonští vyhráli tento týden v Powerballu miliony",
+      "original_title": "Two Oregonians won millions in Powerball drawings this week - OregonLive.com",
+      "url": "https://www.oregonlive.com/lottery/2025/09/two-oregonians-won-millions-in-powerball-drawings-this-week.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/NH64G3O2LFETLPDDMJL6KR5QC4.jpg?auth=18d38d74db6ee160427e314f71aa1fec40c8c20112493d4b87db574440ee39b1&width=1280&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2025-09-07T16:59:00Z",
+      "description": "Oregonští tento týden vyhráli v Powerballu 3 miliony dolarů."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Meziplanetární objekt 3I/ATLAS: Čtyři teleskopy odhalují podivné vlastnosti a objevy – vše o nové vědě",
+      "title": "Meziplanetární objekt 3I/ATLAS: Čtyři teleskopy odhalují podivné vlastnosti a objevy — vše o novém sci",
       "original_title": "Interstellar Object 3I/ATLAS: Four Telescopes unveil strange features and findings — all about the new sci - The Economic Times",
       "url": "https://economictimes.indiatimes.com/news/international/us/interstellar-object-3i/atlas-four-telescopes-unveil-strange-features-and-findings-all-about-the-new-scientific-puzzle/articleshow/123749632.cms",
       "urlToImage": "https://img.etimg.com/thumb/msid-123749670,width-1200,height-630,imgsize-36359,overlay-economictimes/articleshow.jpg",
       "source": "The Times of India",
       "publishedAt": "2025-09-07T16:46:08Z",
-      "description": "Astronomové z celého světa bedlivě sledují vzácného mezihvězdného návštěvníka: objekt 3I/ATLAS. Poprvé byl spatřen začátkem července, když se z hlubokého vesmíru řítil směrem ke Slunci. Jde teprve ..."
+      "description": "Astronomové z celého světa bedlivě sledují vzácnou mezihvězdnou návštěvu: objekt 3I/ATLAS"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Senátorka Duckworthová: Trump \"Chicagu v podstatě právě vyhlásil válku\", ale nejsou \"náznaky\" nasazení vojáků",
-      "original_title": "Sen. Tammy Duckworth says Trump \"essentially just declared war\" on Chicago, but there's no \"indications\" of deployment - CBS News",
-      "url": "https://www.cbsnews.com/news/tammy-duckworth-chicago-trump-national-guard/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/07/29ade337-705e-4f28-bb7a-a5de5df00ee9/thumbnail/1200x630/f1db4fccc614aeb2647811e9d845d580/0907-ftn-duckworth.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-07T15:51:00Z",
-      "description": "Senátorka Tammy Duckworthová z Illinois, demokratka, řekla, že prezident Trump \"v podstatě právě vyhlásil válku velkému městu ve své vlastní zemi."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ukrajinská vládní budova zasažena v největším ruském útoku války, uvedl Zelenskyj",
-      "original_title": "Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says - ABC News",
-      "url": "https://abcnews.go.com/International/ukraine-cabinet-building-hit-largest-russian-strike-war/story?id\\\\u003d125335388",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-07T15:32:55Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mars má pevné jádro, potvrdila nová studie a vyřešila tak dlouholetou planetární záhadu",
+      "title": "Mars má pevné jádro, potvrdila nová studie a vyřešila tak dlouho trvající planetární záhadu",
       "original_title": "Mars has a solid core, resolving a longstanding planetary mystery, according to new study - Phys.org",
       "url": "https://phys.org/news/2025-09-mars-solid-core-longstanding-planetary.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mars-has-a-solid-core.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-07T14:40:01Z",
-      "description": "Vědci objevili, že Mars má vnitřní strukturu podobnou Zemi. Výsledky mise NASA InSight naznačují, že rudá planeta má pevné vnitřní jádro obklopené tekutým vnějším jádrem, což možná řeší dlouholetou..."
+      "description": "Vědci zjistili, že Mars má vnitřní strukturu podobnou Zemi. Data z mise NASA InSight naznačují, že rudá planeta má pevné jádro obklopené tekutým vnějším jádrem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Co potřebujete vědět o nových aktualizovaných vakcínách proti covidu pro roky 2025–2026",
+      "title": "Co potřebujete vědět o nových aktualizovaných vakcínách proti covidu na sezónu 2025–2026",
       "original_title": "What To Know About The New Updated Covid Vaccines For 2025-2026 - Forbes",
       "url": "https://www.forbes.com/sites/omerawan/2025/09/07/what-to-know-about-the-new-updated-covid-vaccines-for-2025-2026/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bc7b06f5a03204a57b3618/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
@@ -175,29 +186,40 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PEESRTIB7WXOCPVNK5ZU7EHXOM_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-07T12:32:55Z",
-      "description": "Republikánští senátoři tvrdí, že jeho kroky ohledně vakcín jsou riskantní pro veřejné zdraví. Také mohou být špatné po politické stránce."
-    },
-    {
-      "flag": "🌍",
-      "country": "fr",
-      "title": "Specifikace iPhonu 17 unikla před představením",
-      "original_title": "iPhone 17 specifications leaked ahead of event - AppleInsider",
-      "url": "https://appleinsider.com/articles/25/09/07/iphone-17-specifications-leaked-ahead-of-event",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65005-135577-leakedspecs-xl.jpg",
-      "source": "AppleInsider",
-      "publishedAt": "2025-09-07T12:01:00Z",
-      "description": "Jihokorejský operátor údajně prozradil specifikace řady iPhone 17. Pro modely Pro uvádí podporu videa v 8K, prozrazeny jsou i detaily o iPhonu 17 Air."
+      "description": "Republikánští senátoři tvrdí, že jeho kroky ohledně vakcín jsou riskantní pro veřejné zdraví. Mohou být i špatnou politikou."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tichý zabiják zvyšuje riziko mrtvice a demence. Jak ho mít pod kontrolou.",
+      "title": "Tichý zabiják zvyšuje riziko mrtvice a demence. Zde je návod, jak ho zkrotit.",
       "original_title": "The silent killer increases your risk of stroke and dementia. Here's how to control it - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/07/nx-s1-5532108/the-silent-killer-increases-your-risk-of-stroke-and-dementia-heres-how-to-control-it",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F40%2F2f4202db48768250aa3fa3a7312b%2Fgettyimages-1886165079.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-07T11:00:00Z",
-      "description": "Nová doporučení pro včasnou léčbu hypertenze předchází mrtvicím, infarktům a demenci v době, kdy experimentální lék snižuje tlak u obtížně léčitelných pacientů."
+      "description": "Nové doporučení pro včasnou léčbu hypertenze, aby se předešlo mrtvici, infarktu a demenci, přichází v době, kdy experimentální lék prokázal snížení krevního tlaku u obtížně léčitelných pacientů."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Poslední únik z produkce naznačuje 8násobný zoom fotoaparátu a chlazení vapor komorou u iPhonu 17 Pro",
+      "original_title": "Last-minute carrier leak suggests 8x camera zoom, vapor chamber cooling for iPhone 17 Pro - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/07/leak-iphone-17-pro-features-camera-cooling/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-black-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-07T09:35:00Z",
+      "description": "Událost Applu k iPhonu 17 je už jen pár dní daleko, ale to nezastavilo kolotoč spekulací před produkcí několika..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Rusko zahájilo proti Ukrajině masivní útok drony rekordního rozsahu",
+      "original_title": "Russia launches record mass drone attack on Ukraine - Financial Times",
+      "url": "https://www.ft.com/content/9cb8ae97-29da-4ae0-b790-69238e9680cf",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5cf7564c-fc87-4952-9b3d-0ed16d4e3fef.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-07T09:21:15Z",
+      "description": "Moskevské síly za jednu noc vypálily 805 dronů a zasáhly vládní budovu v Kyjevě"
     },
     {
       "flag": "🌍",
@@ -208,7 +230,7 @@
       "urlToImage": "https://www.thedailybeast.com/resizer/v2/7X5J6V3F2BEGTLS6LKDK43LTZU.JPG?smart=true&auth=6babbe5e9fa2ba61f643c8950949ff0a99c02184d3d7d78019bd1866319cd6a1&width=1200&height=630",
       "source": "Daily Beast",
       "publishedAt": "2025-09-07T07:56:00Z",
-      "description": "Jednominutové video je plné šovinistické rétoriky a obsahuje alespoň jeden dvojitý zápor."
+      "description": "Jednominutové video je plné šovinistické rétoriky a obsahuje přinejmenším jeden dvojitý zápor."
     },
     {
       "flag": "🌍",
@@ -219,18 +241,18 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wx7EfuNPCCar4EXZF3VBuH.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-06T18:32:05Z",
-      "description": "Vzlet proběhl v sobotu (6. září) v 18:06 středoevropského času."
+      "description": "Vzlet proběhl v sobotu v 18:06 středoevropského letního času (6. září)."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kongo oznámilo nový výskyt eboly. Zde je to, co byste měli vědět",
+      "title": "Kongo oznámilo nový výskyt eboly. Co byste měli vědět",
       "original_title": "Congo has announced a new Ebola outbreak. Here’s what to know - AP News",
       "url": "https://apnews.com/article/congo-ebola-kasai-outbreak-73c01a467e3f7b5e3e19abec17c65a39",
       "urlToImage": "https://dims.apnews.com/dims4/default/ad452b3/2147483647/strip/true/crop/4031x2267+0+338/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F40%2F18%2Ffba030ff335a2d3bc00706f41995%2F8dc9c7d7efe94f1fb73a28eed469e2bb",
       "source": "Associated Press",
       "publishedAt": "2025-09-06T16:55:00Z",
-      "description": "Konžské úřady oznámily nový výskyt eboly, který v jižní provincii zabil více než tucet lidí. Vzorky analyzované v Národním ústavu biomedicínského výzkumu v Kinshase potvrdily přítomnost nejvirulent..."
+      "description": "Konžské úřady oznámily nový výskyt eboly, který zabil více než tucet lidí v jižní provincii. Vzorky analyzované v Národním institutu biomedicínského výzkumu v Kinshase potvrdily přítomnost nejvirul..."
     }
   ]
 }
