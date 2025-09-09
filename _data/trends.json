@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-09T12:55:42.157279",
+  "updated": "2025-09-09T13:13:51.143687",
   "trends": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "query": "cnn prima news",
-      "news_title": "Stanjura: Zaorálek kolaboruje s Ruskem. Šebelová kritizuje Rajchla za lži",
+      "news_title": "Stanjura označil Zaorálka za kolaboranta Ruska. Šebelová se divila lžím kandidáta Rajchla.",
       "news_url": "https://www.idnes.cz/volby/volby-2025-moravskoslezsky-kraj-stanjura-juchelka-rajchl-sebelova-cernohorsky-zaoralek-gregor.A250908_171435_volby_kop",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxeh8dD5Apvj7uyQcHGK1lHHuLtdQ-4qrU8ss4COT4qL18yBQL66A--j12vY",
       "traffic": "1000++ hledání",
@@ -23,6 +23,16 @@
     },
     {
       "rank": 3,
+      "query": "gibraltar",
+      "news_title": "FOTBAL ONLINE: Jednadvacítka konečně překonala obranu Gibraltaru a jde do vedení",
+      "news_url": "https://www.sport.cz/clanek/fotbal-reprezentace-jednadvacitku-ceka-druhy-duel-v-kvalifikaci-o-euro-5287235",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDRP-L2NKn2_euJCmV0vp_dHs6h2X4ulvI3jULfrYo_ki4X9y6oN8SU9vTY4c",
+      "traffic": "500++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=gibraltar&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "iphone 17 pro",
       "news_title": "Nové iPhony odhaleny. Co dalšího čekat?",
       "news_url": "https://www.idnes.cz/technet/pc-mac/keynote-apple-zari-iphone-telefon-ipad-mac-tv-airpod-watch-airtags-beats.A250909_091607_hardware_vse",
@@ -32,7 +42,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=iphone 17 pro&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "query": "fortuna",
       "news_title": "Fortuna: moderní sázení a vychytávky",
       "news_url": "https://www.betarena.cz/rubriky/sazkove-kancelare/fortuna/fortuna-si-pro-sazkare-nachystala-zajimave-vychytavky_10837.html",
@@ -42,39 +52,29 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=fortuna&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "gibraltar",
-      "news_title": "FOTBAL ONLINE: Jednadvacítka konečně překonala obranu Gibraltaru a jde do vedení",
-      "news_url": "https://www.sport.cz/clanek/fotbal-reprezentace-jednadvacitku-ceka-druhy-duel-v-kvalifikaci-o-euro-5287235",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDRP-L2NKn2_euJCmV0vp_dHs6h2X4ulvI3jULfrYo_ki4X9y6oN8SU9vTY4c",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=gibraltar&geo=CZ"
-    },
-    {
       "rank": 6,
       "query": "ticketmaster",
-      "news_title": "Jak získat vstupenky na Ed Sheerana? Právě začíná předprodej na nové turné.",
-      "news_url": "https://www.radiotimes.com/going-out/tickets/how-to-get-ed-sheeran-tickets/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaaurID2b2FBtrIoZLDUb8PeIvJv0nvOTpA_VymZXrazgcAvvB90wZBLmM7s",
+      "news_title": "Ceny vstupenek na koncerty Eda Sheerana v Evropě",
+      "news_url": "https://www.joe.co.uk/music/ed-sheeran-ticket-prices-confirmed-for-his-uk-and-european-tour-dates-504725",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbH9vlQfcQ3h_x5gTOrkdX5Km0O2tR4LI60bedzbDRtgfvO0S9fX2TbdUGQio",
       "traffic": "200++ hledání",
-      "source": "Radio Times",
+      "source": "JOE.co.uk",
       "explore_url": "https://trends.google.cz/trends/explore?q=ticketmaster&geo=CZ"
     },
     {
       "rank": 7,
       "query": "venezuela",
-      "news_title": "Venezuelský ministr: Neusilujeme o konflikt s USA",
-      "news_url": "https://cnnespanol.cnn.com/2025/09/08/venezuela/canciller-venezuela-conflicto-estados-unidos-entrevista-cnn-orix",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuRkR6l6UtY_I7iAyXaVf5Be-R_AjtthxgtSSjgWqjeAVq14d2nqOBOB5-0yM",
+      "news_title": "Venezuela vs. Kolumbie: Boj o baráž nebo konec úspěšného cyklu",
+      "news_url": "https://onefootball.com/es/noticias/venezuela-ante-colombia-entre-el-repechaje-al-mundial-u-otro-ciclo-de-cenicienta-41636460",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYvEbKK4k6QPxkyANpJ4Xe6o9o9Zxa_YsQVf05KR9N_IJJ9258C4nwk7fFZI0",
       "traffic": "100++ hledání",
-      "source": "CNN en Español",
+      "source": "OneFootball",
       "explore_url": "https://trends.google.cz/trends/explore?q=venezuela&geo=CZ"
     },
     {
       "rank": 8,
       "query": "filip rajmont",
-      "news_title": "Bývalý partner Filipa Rajmonta z Ulice je po změně pohlaví úspěšná žena",
+      "news_title": "Bývalý partner Filipa Rajmonta z Ulice je po změně pohlaví úspěšná žena.",
       "news_url": "https://www.vlasta.cz/celebrity/filip-rajmont-dnes-ulice-partner-daniela-spinar/",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSBhVcIXquubLWlu-gek0UDX8Uf0T0UNluPa31unNtb6mOrEZc3ZBSwitPzBs",
       "traffic": "100++ hledání",
