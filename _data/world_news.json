@@ -1,126 +1,148 @@
 {
-  "last_updated": "2025-09-10T20:19:28",
+  "last_updated": "2025-09-10T22:16:23",
   "articles": [
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Podle nových údajů BLS přibylo v USA o 911 000 pracovních míst méně, než se původně uvádělo",
-      "original_title": "U.S. employers added 911,000 fewer jobs than first reported, new BLS data shows - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/09/us-jobs-economy/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HQX2FI4SS6UEOZVVWDLDNMK56U.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-09T20:11:20Z",
-      "description": "Revize přichází v době, kdy se vládní statistiky staly stále více politizovanými. Minulý měsíc Trump podnikl bezprecedentní krok a kvůli slabým údajům o pracovních místech odvolal komisařku Úřadu p..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Nejvyšší soud dočasně umožnil Trumpovi pozastavit miliardy zahraniční pomoci",
-      "original_title": "Supreme Court temporarily allows Trump to pause billions in foreign aid - CNN",
-      "url": "https://www.cnn.com/2025/09/09/politics/supreme-court-temporarily-allows-trump-to-pause-billions-in-foreign-aid",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25224042778117.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-09T20:11:00Z",
-      "description": "Nejvyšší soudce Roberts povolil Trumpově administrativě zmrazit miliardy na zahraniční pomoc"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Jak by mohl nárazník Hyundai zhatit Trumpův sen o více továrnách v USA",
-      "original_title": "How the Hyundai raid could upend Trump’s dream of more U.S. factories - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/09/hyundai-raid-georgia-trump-immigration-jobs/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4WIBMBTX47LNHZ6W3UYFHOV5NM.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-09T19:19:13Z",
-      "description": "Prezident Trump tvrdí, že zadržením 300 Jihokorejců bránil práci pro Georgii. Podle expertů tím riskuje tisíce pracovních míst v americkém průmyslu."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Justin Baldoni obviněn z „slovního napadání“ na druhém projektu: „Měl jsem opakované negativní interakce“ - yahoo.com",
+      "original_title": "Justin Baldoni Accused of ‘Verbal Abuse’ on Second Project: ‘I Had Repeated, Negative Interactions’ - yahoo.com",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/justin-baldoni-blake-lively-wayfarer-legal-war-new-accuser-1235424045/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/justin-baldoni-new-accuser.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-09T21:30:57Z",
+      "description": "Justin Baldoni čelí novému obvinění, že slovně napadl i jinou osobu než hvězdu filmu 'To mezi námi končí' Blake Lively, uvádí se v prohlášení podaném u soudu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V Los Angeles našli rozkládající se tělo v zabavené Tesle zpěváka D4vda",
-      "original_title": "Decomposed body found inside singer D4vd's impounded Tesla in Los Angeles - NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/decomposed-body-found-singer-d4vds-impounded-tesla-los-angeles-rcna230159",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250909-d4vd-mn-1500-494ede.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-09T19:02:04Z",
-      "description": "V Los Angeles našli v Tesle patřící zpěvákovi D4vdovi silně rozložené tělo"
+      "title": "Svět reaguje na izraelský útok proti vůdcům Hamásu v katarské Dauhá",
+      "original_title": "World reacts to Israel’s attack against Hamas leaders in Qatar’s Doha - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/9/israeli-attack-in-doha-sparks-regional-and-international-condemnation",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/CLIP_STRATFORD-LIVE_WIDE-1757429304.jpg?resize=1920%2C1080&quality=80",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-09T21:11:15Z",
+      "description": "Saudské ministerstvo zahraničí ‚důrazně odsuzuje a nahlas kritizuje brutální izraelskou agresi‘."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Plán MAHA pro zdravější děti obsahuje 128 nápadů, ale málo podrobností",
-      "original_title": "The MAHA plan for healthier kids includes 128 ideas, but few details - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/09/nx-s1-5534412/rfk-maha-report-childrens-health",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fb7%2F25b6afc54c01824a84e68c4bcfdc%2Fgettyimages-2216566876.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-09T18:55:23Z",
-      "description": "Komise Make America Healthy Again navrhla přes 100 kroků k řešení příčin dětských chronických onemocnění. Kritici tvrdí, že další kroky Trumpovy administrativy jsou v rozporu s těmito cíli."
+      "title": "‚Je to uzavřená věc‘, Trump odmítá komentovat údajný dopis z Epsteinova ‚narozeninového alba‘",
+      "original_title": "'It's a dead issue': Trump declines to comment on alleged Epstein 'birthday book' letter - ABC News",
+      "url": "https://abcnews.go.com/Politics/dead-issue-trump-declines-comment-alleged-epstein-birthday/story?id\\\\u003d125396648",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-09T20:37:30Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nejvyšší soud řeší právní bitvu o Trumpova cla, připravuje se na velké střetnutí",
+      "original_title": "Supreme Court takes up legal battle over Trump tariffs, setting stage for major showdown - CBS News",
+      "url": "https://www.cbsnews.com/news/supreme-court-trump-tariffs-case/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/09/a1ad1c43-dad4-4caa-acc5-61b22bc2c979/thumbnail/1200x630/6982696238811047e4b61f9fadaa261c/gettyimages-2208185431.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-09T20:32:00Z",
+      "description": "Nejvyšší soud rozhodne, zda může Trump zavést své nejrozsáhlejší cla"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Po počátečních potížích je ambiciózní mise NASA na Titan v plánu ke startu",
+      "original_title": "After early struggles, NASA’s ambitious mission to Titan is “on track” for launch - Ars Technica",
+      "url": "https://arstechnica.com/space/2025/09/after-early-struggles-nasas-ambitious-mission-to-titan-is-on-track-for-launch/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/WindTunnelSetup-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-09T20:29:08Z",
+      "description": "„Pravděpodobně nejlepší částí mého dne je sledovat, jak tento tým dosahuje svých milníků.“"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Michiganský soudce zamítl případ proti 15 obviněným falešným voličům Donalda Trumpa z roku 2020",
+      "original_title": "Michigan judge tosses case against 15 accused fake electors for President Donald Trump in 2020 - AP News",
+      "url": "https://apnews.com/article/michigan-fake-electors-donald-trump-2020-60022827cd726924b19a7b152bbe27b1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/52a3712/2147483647/strip/true/crop/2748x1546+0+143/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F26%2Fbe%2Fcd04b44ee560934d706c05950544%2Fbe4254dd65cc432a8adb9edf7b081be0",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-09T20:25:00Z",
+      "description": "Michiganská soudkyně zamítla trestní řízení proti 15 lidem obviněným z falešného zastupování voličů Donalda Trumpa"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Poslední zpráva RFK Jr. ‚Make America Healthy Again‘ volá po větší kontrole vakcín a autismu",
+      "original_title": "RFK Jr.'s latest 'Make America Healthy Again' report calls for more scrutiny of vaccines and autism - AP News",
+      "url": "https://apnews.com/article/rfk-jr-trump-health-maha-pharma-autism-55db3f5c14a6e3a2aef2483d21ac679b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/127248b/2147483647/strip/true/crop/5409x3043+0+282/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2Fa4%2Ff6b301cec9ab85e8ef3d34e4f950%2F025d8340f22543f797b807184dd29374",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-09T20:07:00Z",
+      "description": "Trumpova administrativa vyzývá zdravotnické úřady, aby upřednostnily vyšetřování zranění způsobených vakcínami, užívání léků na předpis a příčin autismu. Výzva je součástí nové zprávy „Make America..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pět věcí, které byste měli vědět o quarterbackovi Vikings J.J. McCarthym poté, co v pondělní noc získal své první vítězství v NFL",
+      "original_title": "Five things to know about Vikings QB J.J. McCarthy after he got his first career win Monday night - Star Tribune",
+      "url": "https://www.startribune.com/five-things-know-jj-mccarthy-vikings-qb/601470822",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/XCXRR5JRCFGLVBDGT2DJE6HPOQ.jpg?&w=1200&ar=1.91:1&fit=crop",
+      "source": "Minneapolis Star Tribune",
+      "publishedAt": "2025-09-09T19:54:38Z",
+      "description": "Od dospívání na předměstí Illinois po jednoho z nejlepších quarterbacků na střední škole – atletická cesta J.J. McCarthya je příběhem překonávání a vítězství."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple představuje AirPods Pro 3 s monitorováním pulzu a lepším uchycením",
+      "original_title": "Apple Debuts AirPods Pro 3 With Pulse Monitoring, Better Fit - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-09/apple-debuts-airpods-pro-3-with-heart-rate-monitor-better-fit",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyTpXDAw4kcA/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-09T19:28:33Z",
+      "description": "Společnost Apple Inc. představila první nový model sluchátek AirPods Pro za tři roky, který nabízí nové funkce pro sledování zdraví, možnost živého překladu, vylepšené potlačení hluku a lepší uchyc..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Upozornění na hypertenzi dorazí na tyto stávající modely Apple Watch - 9to5Mac",
+      "original_title": "Hypertension alerts are coming to these existing Apple Watch models - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/09/hypertension-alerts-are-coming-to-these-existing-apple-watch-models/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.20.40.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-09T19:19:00Z",
+      "description": "Apple Watch Series 11 a Ultra 3 přicházejí s novou funkcí upozornění na hypertenzi, ale ukázalo se, že podporu získaly i některé starší modely."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Muž čelí federálnímu obvinění za smrtící pobodání ukrajinského uprchlíka ve vlaku v Charlotte",
+      "title": "Muž čelí federálnímu obvinění ze smrtelného pobodání ukrajinského uprchlíka ve vlaku v Charlottě",
       "original_title": "Man faces a federal charge in the fatal stabbing of Ukrainian refugee on a Charlotte train - CNN",
       "url": "https://www.cnn.com/2025/09/09/us/decarlos-brown-charged-charlotte-train-stabbing",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/lucaveros225-1749496740-3651365769008617292-31536697229.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-09T18:42:00Z",
-      "description": "Opakovaný pachatel čelí federálnímu obvinění ze smrtelného pobodání ukrajinské uprchlice ve vlaku v Charlotte"
+      "description": "Opakovaný pachatel trestné činnosti čelí federálnímu obvinění ze smrtelného pobodání ukrajinské uprchlice ve vlaku v Charlottě v Severní Karolíně"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Izrael zaútočil na představitele Hamásu v Dauhá, Katar útok odsoudil jako „zbabělý“",
-      "original_title": "Israel attacks Hamas leaders in Doha, drawing condemnation from Qatar over \"cowardly strike\" - CBS News",
-      "url": "https://www.cbsnews.com/news/israel-attack-doha-qatar-hamas-leadership/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/09/4599cdee-613d-4cc6-a395-3f9e15d3e225/thumbnail/1200x630/635615445f71c2a2e8c450ae198adfbf/israel-doha-strike-hamas.jpg",
+      "title": "Missourská sněmovna schválila zmanipulované volební okrsky a omezení lidových iniciativ",
+      "original_title": "Missouri House passes gerrymandered congressional map, limits on initiative petitions - Missouri Independent",
+      "url": "https://missouriindependent.com/2025/09/09/missouri-house-passes-gerrymandered-congressional-map-limits-on-initiative-petitions/",
+      "urlToImage": "https://missouriindependent.com/wp-content/uploads/2025/05/54521302847_26a750e7d0_k.jpg",
+      "source": "Missouriindependent.com",
+      "publishedAt": "2025-09-09T17:58:55Z",
+      "description": "Missourská sněmovna odhlasovala vytvoření zmanipulovaného volebního okrsku a prakticky znemožnila voličům změnit ústavu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Planeta podobná Zemi, která může obsahovat vodu, je zkoumána Webbovým teleskopem NASA",
+      "original_title": "Earth-like planet that may contain water studied by NASA's Webb telescope - CBS News",
+      "url": "https://www.cbsnews.com/news/nasa-webb-telescope-trappist-1-exoplanet/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/09/d4b023e5-020e-4cbc-8a4f-cdfcd3af015f/thumbnail/1200x630/a880fd3ddeaaa1353a678dc72c9c703b/stsci-01k1v61d55hjv2956snsen15gn.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-09-09T18:36:16Z",
-      "description": "Spojenci USA Katar odsuzuje Izrael za údery na vůdce Hamásu v hlavním městě Dauhá, označuje je za „do očí bijící porušení všech mezinárodních zákonů a norem“."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Missourská sněmovna schválila kongresovou mapu podporovanou Trumpem",
-      "original_title": "Missouri state House passes Trump-backed congressional map - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/09/missouri-redistricting-republicans-trump/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DS4DA6OGVNBKPGM2PXFDA3L6MU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-09T18:30:48Z",
-      "description": "Plán zřejmě zajistí republikánům ještě jedno křeslo v americké Sněmovně reprezentantů. Nyní míří do státního senátu, kde by měl tento měsíc projít a získat podpis guvernéra Mika Kehoa (R)."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "iOS 26, iPadOS 26, macOS 26 Tahoe a další aktualizace operačních systémů od Applu budou spuštěny 15. září",
-      "original_title": "iOS 26, iPadOS 26, macOS 26 Tahoe, and Apple’s other OS updates launch September 15 - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/09/ios-26-ipados-26-macos-26-tahoe-and-apples-other-os-updates-launch-september-15/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-09T18:22:04Z",
-      "description": "Pokud je vaše zařízení podporováno, ještě tento měsíc na něj dorazí Liquid Glass."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple představuje novou tenkou MagSafe powerbanka spolu s iPhonem Air – 9to5Mac",
-      "original_title": "Apple introduces new slim MagSafe battery bank alongside iPhone Air - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/09/apple-introduces-new-slim-magsafe-battery-bank-alongside-iphone-air/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPhone-Air-MagSafe-battery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-09T18:01:00Z",
-      "description": "Na dnešní ‚úžasné‘ akci k představení iPhonu 17 společnost Apple odhalila novou MagSafe baterii pro iPhone. Je optimalizovaná pro iPhone…"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple představuje Apple Watch Series 11, Watch Ultra 3 a Watch SE 3",
-      "original_title": "Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3 - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-09-at-1.28.59PM-1.png?resize=1200,672",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-09T17:40:20Z",
-      "description": "Apple Watch Series 11 vás může upozornit na možnou hypertenzi."
+      "publishedAt": "2025-09-09T17:49:00Z",
+      "description": "Exoplaneta TRAPPIST-1 e může mít atmosféru a kapalnou vodu, uvedli vědci z NASA. Výzkum exoplanety stále pokračuje."
     },
     {
       "flag": "🌍",
@@ -131,51 +153,51 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/b88fb9d/2147483647/strip/true/crop/3292x1852+0+172/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2Fc7%2Fd5c6ce3b5ef735c92eae49638352%2Fb0799e953fd74b1cb8232dfa646b7603",
       "source": "Associated Press",
       "publishedAt": "2025-09-09T17:34:00Z",
-      "description": "Protesty proti krátkodobému zákazu sociálních médií v Nepálu sílily a přerostly v násilnosti, kdy demonstranti zapalovali vládní budovy a domy politiků a útočili na některé představitele. Premiér r..."
+      "description": "Protesty proti nepálskému zákazu sociálních médií sílily, demonstranti zapalovali vládní budovy i domy politiků a útočili na některé představitele. Premiér rezignoval v důsledku rostoucí kritiky po..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Etiopie uvedla do provozu největší přehradu v Africe uprostřed regionálních napětí",
+      "title": "Etiopie slavnostně otevřela největší přehradu v Africe uprostřed regionálních napětí",
       "original_title": "Ethiopia inaugurates Africa's biggest dam amid regional tensions - NPR",
       "url": "https://www.npr.org/2025/09/09/nx-s1-5534227/ethiopia-dam-sudan-egypt",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3753x2111+0+195/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fda%2F16%2F7e2a54564fd49fb7db89371b0015%2Fap25252280609916.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-09T17:32:58Z",
-      "description": "Etiopie spustila největší hydroelektrárnu v Africe, Velkou etiopskou renesanční přehradu na Modrém Nilu — milník, který vyvolává obavy v sousedním Súdánu a Egyptě."
+      "description": "Etiopie spustila největší africký vodní projekt, přehradu na Modrém Nilu zvanou Velká etiopská renesanční přehrada — milník, který vyvolává obavy v sousedním Súdánu a Egyptě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Cracker Barrel zrušila plány na rekonstrukci restaurací po konzervativní kritice",
-      "original_title": "Cracker Barrel cancels plans to remodel its restaurants after conservative backlash - NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/cracker-barrel-cancels-plans-remodel-restaurants-conservative-backlash-rcna230091",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250823-cracker-barrel-logo-mn-1005-e507ed.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-09T16:06:12Z",
-      "description": "Cracker Barrel po konzervativní kritice změn ustoupil od plánů na renovaci restaurací"
+      "title": "‚Jenom vraždy v budově‘: Teddy Coluca se rozbrečel, když zjistil, že obětí v páté řadě je Lester, tvrdí výkonný producent",
+      "original_title": "'Only Murders in the Building': Teddy Coluca Burst Into Tears When He Found Out Lester Was Season 5's Victim, EP Says - TheWrap",
+      "url": "https://www.thewrap.com/only-murders-in-the-building-season-5-creator-john-hoffman-interview/",
+      "urlToImage": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/09/Teddy-Coluca-OMITB-S5.jpg?fit=1200%2C675&quality=89&ssl=1",
+      "source": "TheWrap",
+      "publishedAt": "2025-09-09T17:30:00Z",
+      "description": "John Hoffman také prozradil TheWrap o natáčení v domě z „Kmotra“ a reálných inspiracích pro nové miliardářské trio"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Počty: Vikings vs. Bears | 1. týden 2025",
-      "original_title": "By the Numbers: Vikings vs. Bears | 2025 Week 1 - Chicago Bears",
-      "url": "https://www.chicagobears.com/news/by-the-numbers-vikings-vs-bears-2025-week-1",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/brf0bwiuvxtioxvap5lw",
-      "source": "ChicagoBears.com",
-      "publishedAt": "2025-09-09T16:02:43Z",
-      "description": "Zde jsou některé pozoruhodná čísla a statistiky z pondělního úvodního utkání sezóny Bears proti Vikings."
+      "title": "„Nevjíždějte do země nelegálně,“ varoval americký státní zástupce po razii v Catu",
+      "original_title": "'Don't come into the country illegally,' US Attorney gives warnings after Cato raid - WSTM",
+      "url": "https://cnycentral.com/news/local/dont-come-into-the-country-illegally-us-attorney-gives-warnings-after-cato-raid-president-donald-trump-ice-immigration-customs-enforcement-deportation-border-patrol-crime-felony",
+      "urlToImage": "https://cnycentral.com/resources/media2/16x9/1248/986/0x14/90/ec427644-b625-4a4d-a77a-b3f124c3b531-Sarcone.jpg",
+      "source": "CNYcentral.com",
+      "publishedAt": "2025-09-09T16:40:39Z",
+      "description": "Úřadující americký státní zástupce John Sarcone III v úterý zveřejnil nové podrobnosti o zadržení zaměstnanců společnosti Nutrition Bar Confectioners ze 4. září. Hovořil v Albany"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Recenze | Dan Brown si psaní nové knihy jasně užil. A nákaza se šíří.",
+      "title": "Recenze | Dan Brown psal svou novou knihu očividně s radostí. Je to nakažlivé.",
       "original_title": "Review | Dan Brown clearly had fun writing his new book. It’s contagious. - The Washington Post",
       "url": "https://www.washingtonpost.com/books/2025/09/09/dan-brown-secret-of-secrets/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2357O6QKNVBFRAQYNHEDLNOPWU.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-09T16:01:38Z",
-      "description": "Robert Langdon je zpět v knize „Tajemství tajemství“. Připravte se na 600 šílených stránek plných vražd, zmatek a new age šeptání."
+      "description": "Robert Langdon se vrací v románu Tajemství tajemství. Připravte se na 600 šílených stránek plných vražd, zmatku a new age kejklí."
     },
     {
       "flag": "🌍",
@@ -197,73 +219,29 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/64c452b/2147483647/strip/true/crop/1840x1035+330+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2Ff6%2F0c031e315f977ed816c99e4b0870%2F992237f7389244309b5ff24616123105",
       "source": "Associated Press",
       "publishedAt": "2025-09-09T15:34:00Z",
-      "description": "Vědci objevili mimo naši galaxii výbuch gama záření, který je nejen výjimečně silný, ale také dlouhotrvající. Pozemské a vesmírné teleskopy včetně Hubbleova teleskopu se spojily, aby zkoumaly výbuc..."
+      "description": "Vědci objevili gama záblesk mimo naši galaxii, který je nejen výjimečně silný, ale také dlouhotrvající. Pozemské a vesmírné teleskopy včetně Hubbleova se spojily, aby studovaly explozi vysokoenerge..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Smrtelná nemoc z 'líbacího brouka' se v USA stává endemickou, varuje CDC - FOX 5 DC",
+      "original_title": "Deadly 'kissing bug' disease becoming endemic in the US: CDC - FOX 5 DC",
+      "url": "https://www.fox5dc.com/news/deadly-kissing-bug-disease-becoming-endemic-us",
+      "urlToImage": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2025/09/1280/720/gettyimages-2214281234.jpg?ve=1&tl=1",
+      "source": "FOX 5 DC",
+      "publishedAt": "2025-09-09T15:01:36Z",
+      "description": "Chagasova choroba, známá také jako nemoc z líbání, se šíří po Spojených státech a někteří výzkumníci se domnívají, že by nyní měla být klasifikována jako endemická."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nástupnická válka skončila, Lachlan Murdoch se obrací k nové éře budování impéria",
-      "original_title": "Succession War Over, Lachlan Murdoch Turns to Next Era of Empire Building - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/business/business-news/lachlan-murdoch-rupert-murdoch-next-fox-news-corp-1236365893/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-164358757.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-09T14:51:10Z",
-      "description": "S požehnáním Ruperta Murdocha jeho nejstarší syn porazil, přečkal a nakonec miliardy utratil za vykoupení sourozenců, zatímco jeho bratr James vzdal snahu o prosazení změn ve Foxu a News Corp. Nyní..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "CDC klasifikuje nemoc z líbání jako endemickou v USA.",
-      "original_title": "CDC classifies ‘kissing bug’ disease endemic in U.S. - WHIO-TV",
-      "url": "https://www.whio.com/news/trending/cdc-classifies-kissing-bug-disease-endemic-us/RQBNND7CTZAPZEIMNHQMCPPWTQ/",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLWKUODVCIZF77INQOWT2C7BXCE.jpeg?auth=054915c9abc30f06fd05ef39cbffd678d3f1df79e28216b32f2327db3d484d99&width=1200&height=630&smart=true",
-      "source": "WHIO",
-      "publishedAt": "2025-09-09T14:27:38Z",
-      "description": "Nemoc přenášená tzv. líbacími brouky byla americkým Centrem pro kontrolu a prevenci nemocí označena za endemickou v USA."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Pátá řada seriálu Jenom vraždy v budově má první tři díly. Shrnutí, co čekat a kde sledovat. - yahoo.com",
-      "original_title": "'Only Murders in the Building' Season 5 releases first 3 episodes. A recap, what to expect and how to watch. - yahoo.com",
-      "url": "https://www.yahoo.com/entertainment/tv/article/only-murders-in-the-building-season-5-releases-first-3-episodes-a-recap-what-to-expect-and-how-to-watch-141423489.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/c_UkiwtFzl4GGO7tUeniZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzY7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/6389ab10-88ff-11f0-afe5-68b5279b60cc",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-09T14:16:13Z",
-      "description": "Prvních několik epizod 5. řady seriálu Jen vraždy v budově je teď na Hulu. Připomeňte si finále 4. řady a co čekat v nových..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„Frankenstein“ je film, pro který se Guillermo del Toro narodil.",
-      "original_title": "‘Frankenstein’ Is the Movie Guillermo del Toro Was Born to Make - Rolling Stone",
-      "url": "http://www.rollingstone.com/tv-movies/tv-movie-reviews/frankenstein-review-guillermo-del-toro-jacob-elordi-1235420391/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/PF_20240430_20377_R.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-09T13:30:00Z",
-      "description": "Režisér díky bravurnímu výkonu Jacoba Elordiho konečně přivádí na plátno svou vizi nepochopené bytosti."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Co teď s očkováním mé rodiny? - vox.com",
-      "original_title": "What do I do about my family’s vaccinations now? - vox.com",
-      "url": "https://www.vox.com/health/460528/vaccine-recommendations-rfk-hhs-new-guidance-covid",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/MichelleKwon_Vox_lede.png?quality=90&strip=all&crop=0%2C4.6883585959172%2C100%2C78.534031413613&w=1200",
-      "source": "Vox",
-      "publishedAt": "2025-09-09T13:30:00Z",
-      "description": "RFK Jr. narušil americký konsenzus o očkování. Jak se nejlépe rozhodnout pro sebe a svou rodinu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Aktivisté: Pomocemi do Gazy loď plující prověřit izraelskou blokádu zasažena dronem v Tunisku",
+      "title": "Aktivisté: Loď s pomocí pro Gazu, která měla prověřit izraelskou blokádu, byla v Tunisku napadena dronem",
       "original_title": "Activists say Gaza aid boat set to test Israel's blockade attacked by drone in Tunisia - CBS News",
       "url": "https://www.cbsnews.com/news/gaza-aid-flotilla-greta-thunberg-boat-drone-attack-tunisia-israel-blockade/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/09/634ed8b3-0bab-4f75-a556-f7d54fa848ff/thumbnail/1200x630/13f02fbe5769f058e1d1df872625b1e6/screenshot-2025-09-09-at-12-52-22.png",
       "source": "CBS News",
       "publishedAt": "2025-09-09T12:15:09Z",
-      "description": "Skupina vysílající pomocné lodě do Gazy v rozporu s izraelskou blokádou tvrdí, že dron v Tunisku na jednu z jejích lodí „shodil bombu“."
+      "description": "Skupina vysílající pomocné lodě do Gazy v rozporu s izraelskou blokádou tvrdí, že dron v Tunisku na jednu z jejích lodí \"shodil bombu\"."
     },
     {
       "flag": "🇺🇸",
@@ -274,51 +252,62 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4GP7WL5CEDZ7T4E3C3DUWBMOU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-09T11:31:38Z",
-      "description": "Co dělat, když se snažíte získat aktualizovanou vakcínu proti covidu: lékárny, lékaři, pojišťovny a úřady"
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Nejpodobnější Zemi planeta byla možná objevena jen 40 světelných let daleko",
-      "original_title": "Most Earth-Like Planet Yet May Have Been Found Just 40 Light Years Away - ScienceAlert",
-      "url": "https://www.sciencealert.com/most-earth-like-planet-yet-may-have-been-found-just-40-light-years-away",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/trappist-surface.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-09T11:26:15Z",
-      "description": "Planeta v systému TRAPPIST-1 vzdálená pouhých 40 světelných let by mohla mít atmosféru vhodnou pro život."
+      "description": "Co dělat, když chcete získat aktualizovanou vakcínu proti covidu: lékárny, lékaři, pojišťovny a úřady"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova imigrační policie míří na Chicago navzdory námitkám starosty a guvernéra Illinois",
+      "title": "Akcie Nebiusu po dohodě s Microsoftem o umělé inteligenci vyskočily o 40 %",
+      "original_title": "Nebius shares soar 40% on Microsoft AI deal - CNBC",
+      "url": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108195930-1757407093823-gettyimages-2228372211-TFSPI_08082025-9398.jpeg?v=1757407169&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-09T09:05:08Z",
+      "description": "Dohoda mezi Nebius a Microsoftem naznačuje, že poptávka po výkonné infrastruktuře potřebné pro trénování a provoz AI modelů zůstává silná."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpova imigrační policie cílí na Chicago přes námitky starosty a guvernéra Illinois",
       "original_title": "Trump's ICE targets Chicago amid objections from mayor, Illinois governor - Axios",
       "url": "https://www.axios.com/2025/09/09/trump-ice-chicago-immigration-johnson-pritzker",
       "urlToImage": "https://images.axios.com/abjLngbpBSLFMMxf8BiOh93keX4=/0x19:7040x3979/1366x768/2025/09/09/1757389248572.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-09T05:44:22Z",
-      "description": "Starostka Chicaga uvedla, že město „nepředem obdrželo žádné oznámení o zvýšené imigrační akci Trumpovy administrativy“."
+      "description": "Starosta Chicaga uvedl, že město „nedostalo žádné oznámení o zvýšené imigrační akci Trumpovy administrativy“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Budoucí oteplování oceánů může způsobit velké snížení biomasy a produktivity Prochlorococcus",
+      "title": "Budoucí oteplování oceánů může způsobit velké snížení biomasy a produktivity Prochlorococcusu",
       "original_title": "Future ocean warming may cause large reductions in Prochlorococcus biomass and productivity - Nature",
       "url": "https://www.nature.com/articles/s41564-025-02106-4",
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-025-02106-4/MediaObjects/41564_2025_2106_Fig1_HTML.png",
       "source": "Nature.com",
       "publishedAt": "2025-09-08T15:14:07Z",
-      "description": "Více než desetileté měření v terénu a modelování ukazuje, že předpokládané teploty oceánů mohou omezit rychlost buněčného dělení důležité mořské sinice."
+      "description": "Více než desetileté terénní měření a modelování ukazují, že předpokládané teploty oceánů mohou omezit rychlost buněčného dělení důležité mořské sinice."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "TICHÝ zabiják zvyšuje riziko mrtvice a demence. Jak se mu bránit",
+      "title": "TICHÝ zabiják zvyšuje riziko mrtvice a demence. Jak se mu bránit?",
       "original_title": "THIS silent killer can put you at increased risk of stroke and dementia: How to prevent it - The Times of India",
       "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/this-silent-killer-can-put-you-at-increased-risk-of-stroke-and-dementia-how-to-prevent-it/articleshow/123767544.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-123767544,width-1070,height-580,imgsize-50744,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "source": "The Times of India",
       "publishedAt": "2025-09-08T13:47:00Z",
-      "description": "Vysoký krevní tlak je hlavním rizikovým faktorem pro mrtvici a demenci. Objevte, jak mu předcházet pomocí změn životního stylu a lékařské péče."
+      "description": "Vysoký krevní tlak je hlavním rizikovým faktorem mrtvice a demence. Objevte, jak mu předcházet pomocí změny životního stylu a lékařské péče."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Přístup k vakcíně proti covidu omezen: Kdo v Kalifornii může ještě dostat injekci",
+      "original_title": "COVID vaccine access limited: Who can still get the shot in California - SFGATE",
+      "url": "https://www.sfgate.com/bayarea/article/covid-19-flu-vaccine-explainer-21033342.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/36/15/28435268/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2025-09-08T11:09:05Z",
+      "description": "Po zásadních změnách od FDA vysvětlujeme, kdo má nárok na očkování s nástupem sezóny nachlazení a chřipky."
     }
   ]
 }
