@@ -1,49 +1,192 @@
 {
-  "last_updated": "2025-09-10T16:22:12",
+  "last_updated": "2025-09-10T17:15:42",
   "articles": [
     {
       "flag": "🌍",
-      "country": "global",
-      "title": "Růst pracovních míst byl revidován dolů o 911 000 do března, což signalizuje vratčí ekonomiku, než se předpokládalo",
-      "original_title": "Job growth revised down by 911,000 through March, signaling economy on shakier footing than realized - CNBC",
-      "url": "https://www.cnbc.com/2025/09/09/jobs-report-revisions-september-2025-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194187-1756986228781-gettyimages-2228223632-US_JOBS.jpeg?v=1756986317&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-09T14:00:55Z",
-      "description": "Celková revize byla na horním konci očekávání Wall Street, která se pohybovala od spodní hranice kolem 600 000 až po milion."
+      "country": "fr",
+      "title": "Apple představuje iPhone 17 Pro a iPhone 17 Pro Max, dosud nejvýkonnější a nejpokročilejší modely Pro",
+      "original_title": "Apple unveils iPhone 17 Pro and iPhone 17 Pro Max, the most powerful and advanced Pro models ever - Apple",
+      "url": "https://www.apple.com/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/",
+      "urlToImage": "https://www.apple.com/newsroom/images/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/tile/Apple-iPhone-17-Pro-camera-close-up-250909-lp.jpg.og.jpg?202509091836",
+      "source": "Apple Newsroom",
+      "publishedAt": "2025-09-09T18:15:46Z",
+      "description": "Apple dnes představilo iPhone 17 Pro a iPhone 17 Pro Max s výrazným novým designem, který přináší dramatický skok v výkonu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podle úniku budou AirPods Pro 3 k dostání od dnešního dne - 9to5Mac",
-      "original_title": "Leak says AirPods Pro 3 will be available to purchase starting today - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/09/leak-says-airpods-pro-3-will-be-available-to-purchase-starting-today/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-awe-dropping.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-09T13:54:00Z",
-      "description": "AirPods Pro 3 budou možná k dostání ihned po dnešní akci Applu, tvrdí nový únik z Best Buy."
+      "title": "Nová MAHA roadmapa RFK Jr. je konečně veřejná",
+      "original_title": "RFK Jr.'s new MAHA roadmap is finally public - Politico",
+      "url": "https://www.politico.com/news/2025/09/09/trump-kennedy-releases-maha-roadmap-pesticides-food-vaccine-00552849",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4c%2F24%2F1d43b9504ea6a5c22131199e8cd3%2Fu-s-congress-66894.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-09T18:05:36Z",
+      "description": "Očekávaný dokument nepřináší překvapivé regulace a pesticidy nechává na pokoji."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Manžel ženy zamilované na Coldplay 'kiss cam' promluvil během rozvodu",
-      "original_title": "Husband of woman caught on Coldplay 'kiss cam' speaks out amid divorce - NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/husband-woman-caught-coldplay-kiss-cam-speaks-divorce-rcna230027",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250909-coldplay-chris-martin-mn-0850-d0f56a.jpg",
+      "title": "Apple představuje Apple Watch Series 11, Watch Ultra 3 a Watch SE 3",
+      "original_title": "Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3 - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-09-at-1.28.59PM-1.png?resize=1200,672",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-09T17:40:20Z",
+      "description": "Apple Watch Series 11 vás může upozornit na možnou hypertenzi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple představuje AirPods Pro 3 s ‚nejlepším aktivním potlačením hluku na světě‘ a senzorem tepové frekvence",
+      "original_title": "Apple announces AirPods Pro 3 with ‘world’s best ANC’ and heart rate sensing - The Verge",
+      "url": "https://www.theverge.com/news/772410/apple-airpods-pro-3-release-date-pricing-announcement",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/apple-sept-9-2025-85.jpg?quality=90&strip=all&crop=0%2C3.1851753668971%2C100%2C93.629649266206&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-09T17:05:08Z",
+      "description": "Apple oznámil nová sluchátka AirPods Pro 3. Jde o první velkou aktualizaci modelu AirPods Pro za tři roky."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Nepálský parlament zapálen po rezignaci premiéra kvůli protikorupčním protestům",
+      "original_title": "Nepal parliament set on fire after PM resigns over anti-corruption protests - BBC",
+      "url": "https://www.bbc.com/news/articles/c0m4vjwrdwgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f574/live/e3640880-8d96-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-09T16:57:48Z",
+      "description": "KP Šarma Ólí odstoupil během nejhorších nepokojů v Nepálu za desetiletí, při střetech je hlášeno nejméně 22 obětí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Cracker Barrel ruší plány na rekonstrukci restaurací po konzervativní kritice",
+      "original_title": "Cracker Barrel cancels plans to remodel its restaurants after conservative backlash - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/cracker-barrel-cancels-plans-remodel-restaurants-conservative-backlash-rcna230091",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250823-cracker-barrel-logo-mn-1005-e507ed.jpg",
       "source": "NBC News",
-      "publishedAt": "2025-09-09T13:45:42Z",
-      "description": "Manžel zaměstnankyně technologické firmy, kterou kamera Coldplay při polibku zaměřila v hledišti, se poprvé vyjádřil poté, co se jeho žena v červenci stala virální."
+      "publishedAt": "2025-09-09T16:06:12Z",
+      "description": "Cracker Barrel po konzervativní kritice změn v řetězci restaurací ustoupil od přestavby poboček"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Recenze | Dan Brown si psaní nové knihy zjevně užil. Je to nakažlivé.",
+      "original_title": "Review | Dan Brown clearly had fun writing his new book. It’s contagious. - The Washington Post",
+      "url": "https://www.washingtonpost.com/books/2025/09/09/dan-brown-secret-of-secrets/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2357O6QKNVBFRAQYNHEDLNOPWU.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-09T16:01:38Z",
+      "description": "Robert Langdon se vrací v románu „Tajemství tajemství“. Připravte se na 600 šílených stránek plných vražd, chaosu a new age mudrování."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Divoké nové paměti Charlieho Sheena v 10 větách",
-      "original_title": "Charlie Sheen’s Wild New Memoir in 10 Sentences - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-features/charlie-sheen-new-memoir-in-10-sentences-1236365644/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Charlie-Sheen-2006-getty-H-2025.png?w=1296&h=730&crop=1",
+      "title": "‚Je to uzavřená věc‘, Trump odmítá komentovat údajný dopis z Epsteinova ‚narozeninového alba‘",
+      "original_title": "'It's a dead issue': Trump declines to comment on alleged Epstein 'birthday book' letter - ABC News",
+      "url": "https://abcnews.go.com/Politics/dead-issue-trump-declines-comment-alleged-epstein-birthday/story?id\\\\u003d125396648",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-09T15:53:24Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Steven Spielberg chválí film ‚Jedna bitva za druhou‘, viděl ho třikrát",
+      "original_title": "Steven Spielberg Heaps Praise on ‘One Battle After Another,’ Watched Movie 3 Times - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-one-battle-after-another-review-1236365912/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/rev-1-OBAA-DUS-250113-0050-7_High_Res_JPEG-H-2025.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-09T13:30:52Z",
-      "description": "Sex, drogy a opilé létání s tryskáčem: herec v knize 'The Book of Sheen' nešetří detaily."
+      "publishedAt": "2025-09-09T15:40:06Z",
+      "description": "Ikona světové kinematografie vřele doporučuje adaptaci románu Thomase Pynchona v režii Paula Thomase Andersona s Leonardem DiCapriem v hlavní roli."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Při akcích proti drogovému kartelu Sinaloa bylo zatčeno přes 600 lidí, oznámila americká protidrogová agentura DEA",
+      "original_title": "Over 600 people arrested in operations targeting Sinaloa drug cartel, DEA says - CBS News",
+      "url": "https://www.cbsnews.com/news/raids-sinaloa-drug-cartel-600-arrested-dea/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/19/d154ced0-f95a-4c84-bc89-5323d4c06153/thumbnail/1200x630/77196c843ff0ce8a1786eb7bd4826b16/dea.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-09T14:53:00Z",
+      "description": "Úřad pro potírání drog oznámil, že jeho akce vedly k více než 600 zatčením při operacích proti drogovému kartelu Sinaloa, který byl označen za teroristickou skupinu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple Intelligence: Vše, co potřebujete vědět o AI modelu a službách od Applu",
+      "original_title": "Apple Intelligence: Everything you need to know about Apple’s AI model and services - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/wwdc24-apple-intelligence-02.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-09T14:51:52Z",
+      "description": "Apple Intelligence bylo navrženo tak, aby využívalo to, co generativní AI již dobře umí, například generování textu a obrazu, ke zlepšení stávajících funkcí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nástupnická válka skončila, Lachlan Murdoch se obrací k nové éře budování impéria",
+      "original_title": "Succession War Over, Lachlan Murdoch Turns to Next Era of Empire Building - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/business/business-news/lachlan-murdoch-rupert-murdoch-next-fox-news-corp-1236365893/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-164358757.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-09T14:51:10Z",
+      "description": "S požehnáním Ruperta Murdocha jeho nejstarší syn porazil, přečkal a nakonec miliardy utratil za vykoupení sourozenců, když jeho bratr James vzdal snahu prosadit změny ve Foxu a News Corp. Nyní odbo..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nabíjecí stanice Anker Prime USB-C klesla pod cenu z Black Friday, připravena na nové zařízení Applu",
+      "original_title": "Anker’s Prime USB-C Charging Station Drops Below Black Friday Pricing, Ready for Apple’s New Device Launch - Kotaku",
+      "url": "https://kotaku.com/ankers-prime-usb-c-charging-station-drops-below-black-friday-pricing-ready-for-apples-new-device-launch-2000624104",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/09/AnkerClock.jpg",
+      "source": "Kotaku",
+      "publishedAt": "2025-09-09T14:40:58Z",
+      "description": "Ušetřete 35 % po omezenou dobu na nabíječce Anker Prime s LCD displejem u Amazonu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "CDC klasifikuje nemoc z líbání jako endemickou v USA - WHIO",
+      "original_title": "CDC classifies ‘kissing bug’ disease endemic in U.S. - WHIO-TV",
+      "url": "https://www.whio.com/news/trending/cdc-classifies-kissing-bug-disease-endemic-us/RQBNND7CTZAPZEIMNHQMCPPWTQ/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLWKUODVCIZF77INQOWT2C7BXCE.jpeg?auth=054915c9abc30f06fd05ef39cbffd678d3f1df79e28216b32f2327db3d484d99&width=1200&height=630&smart=true",
+      "source": "WHIO",
+      "publishedAt": "2025-09-09T14:27:38Z",
+      "description": "Nemoc přenášená takzvaným „líbajícím se broukem“ byla americkým Centrem pro kontrolu a prevenci nemocí označena za endemickou."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Co vědět o operaci Midway Blitz úřadu ICE v Chicagu",
+      "original_title": "What To Know About ICE’s Operation Midway Blitz In Chicago - Block Club Chicago",
+      "url": "https://blockclubchicago.org/2025/09/09/what-to-know-about-ices-operation-midway-blitz-in-chicago/",
+      "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2025/06/HSI-ISAP-ARREST-Hidalgo-30-scaled.jpg",
+      "source": "Block Club Chicago",
+      "publishedAt": "2025-09-09T14:26:41Z",
+      "description": "Trumpova administrativa oznámila zátah na nelegální migranty v Chicagu a Illinois. Bude trvat více než měsíc."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Republikáni ve Sněmovně čekají na Trumpovy pokyny k výdajům, říká Johnson",
+      "original_title": "House GOP waiting on Trump for spending cues, Johnson says - Politico",
+      "url": "https://www.politico.com/live-updates/2025/09/09/congress/mike-johnson-shutdown-update-trump-00551740",
+      "urlToImage": "https://www.politico.com/dims4/default/73272f6/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0f%2F46%2F794d92464c22a2b31fc18fbf52a8%2Fu-s-congress-31928.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-09T14:11:16Z",
+      "description": "Řečník za zavřenými dveřmi řekl, že žádosti o „anomálii“ jsou na cestě."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Macron pod tlakem, aby jmenoval nového premiéra, zatímco Francie vře před protesty",
+      "original_title": "Macron under pressure to name new PM as France simmers ahead of protests - BBC",
+      "url": "https://www.bbc.com/news/articles/c4gqx0zk72lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e66f/live/046a9e50-8d7d-11f0-ac6f-3b6487860586.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-09T13:57:55Z",
+      "description": "François Bayrou podal demisi, Francie zůstává bez premiéra v předvečer celostátních protestů."
     },
     {
       "flag": "🌍",
@@ -54,51 +197,18 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/MichelleKwon_Vox_lede.png?quality=90&strip=all&crop=0%2C4.6883585959172%2C100%2C78.534031413613&w=1200",
       "source": "Vox",
       "publishedAt": "2025-09-09T13:30:00Z",
-      "description": "RFK Jr. narušil americký konsenzus o očkování. Zde je návod, jak učinit nejlepší rozhodnutí pro vás a vaši rodinu."
+      "description": "RFK Jr. narušil americký konsenzus o vakcínách. Jak se správně rozhodnout pro sebe a svou rodinu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kdo je ‚Phillies Karen‘? Jak se odehrálo virální drama kolem míčku z homerunu a co o něm řekli otec se synem",
-      "original_title": "Who is the 'Phillies Karen'? How the viral drama over a home run ball unfolded — and what the dad and his son have said about it - yahoo.com",
-      "url": "https://www.yahoo.com/news/us/article/who-is-the-phillies-karen-how-the-viral-drama-over-a-home-run-ball-unfolded--and-what-the-dad-and-his-son-have-said-about-it-161012605.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0V4TrX0A37xGQ11sHErr6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/e8514670-8cc2-11f0-9bbf-6a34cab22561",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-09T13:27:17Z",
-      "description": "Otec, kterého naštvala žena v dresu Philadelphia Phillies, se vyjadřuje k incidentu, zatímco se internet snaží identifikovat ji."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Izrael provedl úder na vedení Hamásu v Kataru",
-      "original_title": "Israeli carries out strike targeting Hamas leadership in Qatar - CNN",
-      "url": "https://www.cnn.com/2025/09/09/middleeast/qatar-hamas-israel-strike-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-09t131200z-244068687-rc2dogaatu58-rtrmadp-3-qatar-security.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-09T13:14:00Z",
-      "description": "Izrael v úterý zaútočil na vedení Hamásu v Kataru, oznámil úřad premiéra. Šlo zřejmě o první známý izraelský vojenský úder proti této militantní skupině v této zemi Perského zálivu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nepálský premiér rezignoval po protestech proti zákazu sociálních sítí a korupci, při kterých zemřelo 19 lidí",
-      "original_title": "Nepal’s prime minister resigns after 19 killed in protests against social media ban and corruption - AP News",
-      "url": "https://apnews.com/article/nepal-protest-social-media-ban-89cf500969536cf2a35c3fb884cfa620",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b88fb9d/2147483647/strip/true/crop/3292x1852+0+172/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2Fc7%2Fd5c6ce3b5ef735c92eae49638352%2Fb0799e953fd74b1cb8232dfa646b7603",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-09T12:38:00Z",
-      "description": "Nepálský premiér rezignoval kvůli násilným protestům proti zákazu sociálních sítí"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tvrzení MAGA, že Trumpův podpis v Epsteinově narozeninové knize je falešný",
-      "original_title": "MAGA claims Trump signature in Epstein birthday book is fake - Axios",
-      "url": "https://www.axios.com/2025/09/08/trump-epstein-signature-birthday-book",
-      "urlToImage": "https://images.axios.com/0XA1PclWgna9i9u2Jqn0NQupkwU=/0x38:1326x784/1366x768/2025/09/08/1757375330505.png",
-      "source": "Axios",
-      "publishedAt": "2025-09-09T12:01:37Z",
-      "description": "Je tohle opravdu to nejlepší, co dokázali? Trump má nejslavnější podpis na světě."
+      "title": "Aktivisté tvrdí, že pomocná loď pro Gazu, která měla prověřit izraelskou blokádu, byla v Tunisku napadena dronem",
+      "original_title": "Activists say Gaza aid boat set to test Israel's blockade attacked by drone in Tunisia - CBS News",
+      "url": "https://www.cbsnews.com/news/gaza-aid-flotilla-greta-thunberg-boat-drone-attack-tunisia-israel-blockade/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/09/634ed8b3-0bab-4f75-a556-f7d54fa848ff/thumbnail/1200x630/13f02fbe5769f058e1d1df872625b1e6/screenshot-2025-09-09-at-12-52-22.png",
+      "source": "CBS News",
+      "publishedAt": "2025-09-09T12:15:09Z",
+      "description": "Skupina vysílající lodě s pomocí do Gazy v rozporu s izraelskou blokádou uvedla, že dron v Tunisku na jednu z jejích lodí „shodil bombu“."
     },
     {
       "flag": "🇺🇸",
@@ -109,194 +219,62 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4GP7WL5CEDZ7T4E3C3DUWBMOU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-09T11:31:38Z",
-      "description": "Co dělat, když se snažíte získat aktualizovanou vakcínu proti covidu: průvodce lékárnami, lékaři, pojišťovnami a úřady"
+      "description": "Co je dobré vědět o jednání s lékárnami, lékaři, pojišťovnami a úřady při snaze získat aktualizované vakcíny proti covidu-19"
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Nejpodobnější Zemi: Vědci možná objevili planetu jen 40 světelných let daleko",
+      "title": "Nejpodobnější Zemi dosud objevená planeta může být jen 40 světelných let daleko",
       "original_title": "Most Earth-Like Planet Yet May Have Been Found Just 40 Light Years Away - ScienceAlert",
       "url": "https://www.sciencealert.com/most-earth-like-planet-yet-may-have-been-found-just-40-light-years-away",
       "urlToImage": "https://www.sciencealert.com/images/2025/09/trappist-surface.jpg",
       "source": "ScienceAlert",
       "publishedAt": "2025-09-09T11:26:15Z",
-      "description": "Planeta v systému TRAPPIST-1 vzdálená pouhých 40 světelných let by mohla mít atmosféru vhodnou pro život."
+      "description": "Planeta v systému TRAPPIST-1 pouhých 40 světelných let daleko by mohla mít atmosféru vhodnou pro život."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Studie zjistila, že neurorozmanití pracovníci jsou s asistenty umělé inteligence spokojenější",
-      "original_title": "Study finds neurodiverse workers more satisfied with AI assistants - Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2025/09/study-finds-neurodiverse-workers-more-satisfied-with-ai-assistants/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-09T11:08:44Z",
-      "description": "Zjištění britské studie mohou zpochybnit představy o tom, kdo z nástrojů umělé inteligence těží nejvíce."
+      "title": "Akcie Nebiusu po dohodě s Microsoftem o umělé inteligenci vyskočily o 40 %",
+      "original_title": "Nebius shares soar 40% on Microsoft AI deal - CNBC",
+      "url": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108195930-1757407093823-gettyimages-2228372211-TFSPI_08082025-9398.jpeg?v=1757407169&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-09T09:05:08Z",
+      "description": "Dohoda mezi Nebius a Microsoftem naznačuje, že poptávka po výkonné infrastruktuře potřebné pro trénování a provoz AI modelů zůstává silná."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Missourská sněmovna se chystá schválit nové mapy pro americké Sněmovnu reprezentantů, které zruší jeden demokratický mandát",
-      "original_title": "Missouri House is about to enact new US House maps that erase a Democratic seat - CNN",
-      "url": "https://www.cnn.com/2025/09/09/politics/missouri-redistricting",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25247694241979.jpg?c=16x9&q=w_800,c_fill",
+      "title": "Izrael nařídil úplnou evakuaci Gazy, Netanjahu varuje: ‚Tohle je jen začátek‘",
+      "original_title": "Israel orders full evacuation of Gaza City as Netanyahu warns ‘this is only the beginning’ - CNN",
+      "url": "https://www.cnn.com/2025/09/09/middleeast/israel-gaza-city-evacuation-netanyahu-warning-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2233873234.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2025-09-09T11:00:00Z",
-      "description": "Missourská sněmovna má v úterý schválit nové volební mapy, které zruší jeden z demokratických okrsků"
+      "publishedAt": "2025-09-09T08:58:00Z",
+      "description": "Izrael nařídil úplnou evakuaci Gazy, domova pro zhruba milion Palestinců, před kontroverzním vojenským převzetím."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple Watch Ultra 3 by se mohly pochlubit těmito 3 vylepšeními displeje",
-      "original_title": "Apple Watch Ultra 3 Expected to Boast These 3 Display Upgrades - MacRumors",
-      "url": "https://www.macrumors.com/2025/09/09/apple-watch-ultra-3-expected-display-upgrades/",
-      "urlToImage": "https://images.macrumors.com/t/RdbYQo8geJeeGtMJCti_NSWhfcg=/1600x/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-09T10:27:16Z",
-      "description": "Apple dnes představí třetí generaci Apple Watch Ultra s větším displejem, uvádí Mark Gurman z Bloombergu. Reportér…"
+      "title": "Ruská raketa, která zasáhla sídlo vlády, obsahovala přes 30 dílů cizí výroby, uvádí Ukrajina",
+      "original_title": "Russian missile that hit government headquarters contained over 30 foreign-made parts, Ukraine says - The Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-missile-that-hit-government-headquarters-contained-over-30-foreign-made-parts-ukraine-says/",
+      "urlToImage": "https://assets.kyivindependent.com/content/images/2025/09/GettyImages-2233539515.jpg",
+      "source": "Kyivindependent.com",
+      "publishedAt": "2025-09-09T06:26:13Z",
+      "description": "Oproti raketám z předchozích let obsahují méně součástek z Evropy a USA a více z Ruska a Běloruska, řekl zmocněnec prezidenta pro sankce Vladyslav Vlasiuk."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Promiňte, Jerome, oslabující ekonomická data jsou přesně to, co trhy potřebovaly, říká profesor z Whartonu",
-      "original_title": "Sorry Jerome, weakening economic data is ‘exactly what markets needed’, says Wharton professor - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/sorry-jerome-weakening-economic-data-102611675.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uZh5u72LDgPbsN4b_buZNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/3e428688f27e143ff1c5b58a5e10ca59",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-09T10:26:11Z",
-      "description": "Fed Jerome Powella čelí slabosti trhu práce, zatímco Wall Street sází na snížení sazeb a Jeremy Siegel s Goldman Sachs podporují uvolňování měnové politiky."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Nemoc z líbání je nyní endemická v USA, uvádí CDC. O co jde?",
-      "original_title": "‘Kissing bug’ disease is now endemic in the U.S., CDC says. What is it? - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/09/09/kissing-bug-disease-chagas-endemic/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNQJ4Z6XWJUB4QFKMQ7IKG2DS4.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-09T09:53:47Z",
-      "description": "USA hlásí nárůst případů Chagasovy choroby, smrtelného onemocnění přenášeného „líbajícími se“ plošticemi, které sají krev z obličejů lidí. Přenašeči mohou být i domácí mazlíčci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Izraelská armáda nařídila úplnou evakuaci celého Gazy",
-      "original_title": "Israeli military issues full evacuation order for all of Gaza City - ABC News",
-      "url": "https://abcnews.go.com/International/israeli-military-issues-full-evacuation-order-gaza-city/story?id\\\\u003d125387489",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-09T09:00:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mapa ruských dronových a raketových útoků na Ukrajinu za poslední rok",
-      "original_title": "Charting the past year of Russian drone and missile attacks on Ukraine - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/9/charting-the-past-year-of-russian-drone-and-missile-attacks-on-ukraine",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/INTERACTIVE-Russia-attack-in-Ukraine-cover-september-8-2025_1-1757342004.png?resize=1200%2C630",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-09T07:57:42Z",
-      "description": "Více než 800 dronů a raket zaútočilo v neděli na Ukrajinu, nejvíce od začátku války."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Výroční hodnocení generálního ředitele Starbucks Briana Niccola je tady. Jak si vedl?",
-      "original_title": "Starbucks CEO Brian Niccol's 1-year report card is in. Here's the verdict on how he did. - Business Insider",
-      "url": "https://www.businessinsider.com/brian-niccol-starbucks-ceo-one-year-road-map-report-card-2025-9",
-      "urlToImage": "https://i.insider.com/68bf8e9732af4d666ef780e1?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-09-09T07:01:00Z",
-      "description": "Brian Niccol slíbil, že Starbucks vrátí zpět na trať. O rok později se tržby zlepšují a jeho plán na to, aby byly pobočky řetězce útulnější, je v běhu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "OpenAI popírá, že zvažuje ‚poslední pokus‘ o odchod z Kalifornie kvůli regulačnímu tlaku kvůli restrukturalizaci",
-      "original_title": "OpenAI denies that it's weighing a 'last-ditch' California exit amid regulatory pressure over its restructuring - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-09T06:00:44Z",
-      "description": "Vedení společnosti OpenAI zvažuje kvůli rostoucímu politickému odporu přesun z Kalifornie, píše WSJ"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trumpova imigrační policie míří na Chicago navzdory námitkám starosty a guvernéra Illinois",
-      "original_title": "Trump's ICE targets Chicago amid objections from mayor, Illinois governor - Axios",
-      "url": "https://www.axios.com/2025/09/09/trump-ice-chicago-immigration-johnson-pritzker",
-      "urlToImage": "https://images.axios.com/abjLngbpBSLFMMxf8BiOh93keX4=/0x19:7040x3979/1366x768/2025/09/09/1757389248572.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-09T05:44:22Z",
-      "description": "Starosta Chicaga uvedl, že město \"nedostalo žádné oznámení o zvýšené imigrační akci Trumpovy administrativy\"."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Leonardo DiCaprio o trémě prvního dne natáčení 'Jedné bitvy za druhou', inspiraci 'Velkým Lebowskim' a spolupráci s Paulem Thomasem Andersonem: 'Udělal bych jakýkoli film, který navrhl",
-      "original_title": "Leonardo DiCaprio on Being Nervous for First Day of ‘One Battle After Another,’ Taking Inspiration From ‘The Big Lebowski’ and Working With Paul Thomas Anderson: ‘I Would’ve Done Any Movie He Proposed’ - Variety",
-      "url": "https://variety.com/2025/film/news/leonardo-dicaprio-one-battle-after-another-premiere-1236512409/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/03/One-Battle-After-Another.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-09T03:04:00Z",
-      "description": "Leonardo DiCaprio o 'Jednom boji za druhým', spolupráci s Paulem Thomasem Andersonem a inspiraci 'Velkým Lebowským'."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Smrtící pobodání ukrajinské uprchlice v Severní Karolíně rozvířilo debatu o kriminalitě",
-      "original_title": "Fatal stabbing of Ukrainian refugee in North Carolina ignites crime debate - BBC",
-      "url": "https://www.bbc.com/news/articles/cgknxyl77x6o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b913/live/74bd0c60-8cd3-11f0-9cf6-cbf3e73ce2b9.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-09T02:44:02Z",
-      "description": "Komentátoři kritizují soudní systém poté, co byl zveřejněn drastický záznam zabití Iryny Zarucké ve vlaku v Charlotte."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Tunisie popírá tvrzení, že flotilu Gřety Thunbergové do Gazy zasáhl dron",
-      "original_title": "Tunisia denies claims Greta Thunberg's Gaza flotilla was hit by drone - BBC",
-      "url": "https://www.bbc.com/news/articles/cly67g7pdlko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62e7/live/717ae500-8d68-11f0-ac8c-8129e35aa651.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-09T02:23:16Z",
-      "description": "Globální flotila Sumud uvádí, že byl založen požár, ale tuniské úřady popírají, že by byl zapojen dron."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Advokát tvrdí, že zadržení korejští pracovníci Hyundai měli speciální dovednosti pro krátkodobé práce",
-      "original_title": "Attorney says detained Korean Hyundai workers had special skills for short-term jobs - PBS",
-      "url": "https://www.pbs.org/newshour/nation/attorney-says-detained-korean-hyundai-workers-had-special-skills-for-short-term-jobs",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/AP25249755386170-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-08T22:47:38Z",
-      "description": "Imigrační právník tvrdí, že mnoho jihokorejských dělníků zadržených při zátahu americké imigrační policie v továrně Hyundai v Georgii bylo dovezeno pro vysoce specializovanou práci, na kterou Ameri..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nositel Nobelovy ceny David Baltimore zemřel ve věku 87 let",
-      "original_title": "Nobel laureate David Baltimore dead at 87 - Ars Technica",
-      "url": "https://arstechnica.com/science/2025/09/nobel-laureate-david-baltimore-dead-at-87/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/baltimore1-1152x648-1757332196.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-08T19:18:02Z",
-      "description": "Oslavovaná molekulární bioložka překonala kontroverzi z konce 80. let a stala se prezidentkou Caltechu."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Komentář | Je plnotučné mléko lepší než nízkotučné? Tady je vědecká odpověď.",
-      "original_title": "Column | Is whole milk better than low-fat? Here’s what the science says. - The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2025/09/08/whole-skim-milk-nutrition-plant-protein/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSSVDOOGXFBV7MEQPJ5HZPPA2U.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-08T16:02:04Z",
-      "description": "RFK Jr. propaguje plnotučné mléčné výrobky. Tady je, co o plnotučném versus odstředěném mléce říká věda po padesáti letech mého studia výživy."
+      "title": "Během epidemie eboly v Kongu zemřelo 16 lidí, podle představitele WHO Trumpovy škrty v rozpočtu na pomoc „rozhodně dopad budou mít“",
+      "original_title": "As Ebola outbreak kills 16 people in Congo, WHO official says Trump's aid cuts \"will definitely have an impact\" - CBS News",
+      "url": "https://www.cbsnews.com/news/ebola-virus-outbreak-congo-deaths-trump-who-aid-cuts/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/08/7a7f06ac-1ac7-4f61-a0a8-7fca3a1616eb/thumbnail/1200x630/ff126700cdc8295206982c359c43e62c/congo-ebola-poster-file.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-08T16:09:51Z",
+      "description": "Vypuknutí eboly v Kongu zabilo 16 lidí, podle úředníka WHO škrt prezidenta Trumpa v pomoci „rozhodně ovlivní“ reakci."
     },
     {
       "flag": "🌍",
@@ -307,7 +285,18 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/9LgdtNG5YGobkphJDuBXgJ.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-08T15:28:18Z",
-      "description": "Nad částmi planety se včera v noci vznášel „krvavý měsíc“. Zatímco Severní Amerika o něj přišla, my jsme pro vás sesbírali ty nejlepší fotografie úplného zatmění Měsíce v září 2025."
+      "description": "Nad částmi planety se včera v noci vznášel „krvavý měsíc“. Zatímco Severní Amerika o něj přišla, my jsme pro vás sepsali nejlepší fotografie úplného zatmění měsíce ze září 2025."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vědci právě vytvořili první časový krystal, který můžete vidět",
+      "original_title": "Scientists just made the first time crystal you can see - ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250907024555.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/stripes-in-time-crystal.webp",
+      "source": "Science Daily",
+      "publishedAt": "2025-09-07T21:24:59Z",
+      "description": "Fyzici z Coloradské univerzity vytvořili první časový krystal viditelný pouhým okem"
     }
   ]
 }
