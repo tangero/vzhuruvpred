@@ -1,16 +1,104 @@
 {
-  "last_updated": "2025-09-10T12:36:32",
+  "last_updated": "2025-09-10T13:25:54",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nepálský premiér rezignoval po protestech proti zákazu sociálních sítí a korupci, při nichž zemřelo 19 lidí",
+      "original_title": "Nepal’s prime minister resigns after 19 killed in protests against social media ban and corruption - AP News",
+      "url": "https://apnews.com/article/nepal-protest-social-media-ban-89cf500969536cf2a35c3fb884cfa620",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b88fb9d/2147483647/strip/true/crop/3292x1852+0+172/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2Fc7%2Fd5c6ce3b5ef735c92eae49638352%2Fb0799e953fd74b1cb8232dfa646b7603",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-09T12:38:00Z",
+      "description": "Nepálský premiér rezignoval kvůli násilným protestům proti zákazu sociálních sítí"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "MAGA tvrdí, že Trumpův podpis v Epsteinově narozeninové knize je falešný",
+      "original_title": "MAGA claims Trump signature in Epstein birthday book is fake - Axios",
+      "url": "https://www.axios.com/2025/09/08/trump-epstein-signature-birthday-book",
+      "urlToImage": null,
+      "source": "Axios",
+      "publishedAt": "2025-09-09T12:01:37Z",
+      "description": ""
+    },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Nemoc z líbání je podle CDC nyní endemická v USA. Co to je?",
+      "title": "Jak získat vakcínu proti koronaviru a kdo na ni má nárok při omezeném přístupu",
+      "original_title": "How to get a coronavirus vaccine and who’s eligible amid limited access - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/09/covid-vaccine-without-prescription-cdc/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4GP7WL5CEDZ7T4E3C3DUWBMOU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-09T11:31:38Z",
+      "description": "Co byste měli vědět o jednání s lékárnami, lékaři, pojišťovnami a vládou při snaze získat aktualizované vakcíny proti covidu-19"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Studie zjistila, že neurorozmanití pracovníci jsou s asistenty umělé inteligence spokojenější",
+      "original_title": "Study finds neurodiverse workers more satisfied with AI assistants - Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2025/09/study-finds-neurodiverse-workers-more-satisfied-with-ai-assistants/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-09T11:08:44Z",
+      "description": "Zjištění britské studie mohou zpochybnit předpoklady o tom, kdo z nástrojů umělé inteligence těží nejvíce."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Missourská sněmovna se chystá schválit nové mapy pro americké Sněmovnu reprezentantů, které zruší jeden demokratický mandát",
+      "original_title": "Missouri House is about to enact new US House maps that erase a Democratic seat - CNN",
+      "url": "https://www.cnn.com/2025/09/09/politics/missouri-redistricting",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25247694241979.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-09T11:00:00Z",
+      "description": "Missourská sněmovna by měla v úterý schválit nové volební mapy, které zruší jeden z obvodů kontrolovaných demokraty"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tohle se stane, když soukromý kapitál skupuje domy ve vašem okolí: Planet Money",
+      "original_title": "Here's what happens when private equity buys homes in your neighborhood : Planet Money - NPR",
+      "url": "https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F19%2Fb52011404059a317530a0ca8adff%2Fgettyimages-1852322815.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-09T11:00:00Z",
+      "description": "Co snižuje nájmy a zvyšuje diverzitu čtvrtí? Korporátní pronajímatelé. Zároveň ale ztěžují vlastní bydlení."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Proč JPMorgan varuje, že snížení sazeb Fedu, které všichni očekávají, může potopit akcie",
+      "original_title": "Why JPMorgan is warning the Fed rate cut everyone expects could sink stocks - MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-jpmorgan-is-warning-the-fed-rate-cut-everyone-expects-could-sink-stocks-0179698d",
+      "urlToImage": "https://images.mktw.net/im-03046379/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-09-09T10:56:00Z",
+      "description": "I silní drobní investoři začínají couvat"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Chagasova choroba je nyní endemická v USA, uvádí CDC. O jakou nemoc jde?",
       "original_title": "‘Kissing bug’ disease is now endemic in the U.S., CDC says. What is it? - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/09/09/kissing-bug-disease-chagas-endemic/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNQJ4Z6XWJUB4QFKMQ7IKG2DS4.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-09T09:53:47Z",
-      "description": "USA zaznamenávají nárůst Chagasovy choroby, smrtelného onemocnění přenášeného „líbacími brouky“, kteří koušou lidské obličeje. Přenašeči mohou být domácí mazlíčci."
+      "description": "USA hlásí nárůst výskytu Chagasovy choroby, smrtelného onemocnění přenášeného „polibkovými“ brouky, kteří koušou lidské obličeje. Přenášet ji mohou i domácí mazlíčci."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Demokraté vkládají naděje do soudů v nerovném boji o přerozdělování volebních obvodů",
+      "original_title": "Democrats pin their hopes on the courts in uphill redistricting fight - Politico",
+      "url": "https://www.politico.com/news/2025/09/09/democrats-hopes-courts-redistricting-fight-00551030",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa0%2F00%2F6ffd9f1e453f83289b093654957d%2Felection-2026-redistricting-60598.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-09T09:53:00Z",
+      "description": "Pro demokraty to bude vyčerpávající, zdlouhavý a nákladný proces."
     },
     {
       "flag": "🇺🇸",
@@ -21,62 +109,40 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2233873234.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-09T08:58:00Z",
-      "description": "Izrael nařídil úplnou evakuaci Gazy, domova pro zhruba milion Palestinců, před plánovaným vojenským převzetím"
+      "description": "Izrael nařídil úplnou evakuaci Gazy, domova pro zhruba milion Palestinců, před plánovaným vojenským převzetím."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "OpenAI popírá, že zvažuje kalifornský odchod v rámci ‚posledního pokusu‘ kvůli regulačnímu tlaku na svou restrukturalizaci",
-      "original_title": "OpenAI denies that it's weighing a 'last-ditch' California exit amid regulatory pressure over its restructuring - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-09T06:00:44Z",
-      "description": "Vedoucí pracovníci OpenAI zvažují přesun z Kalifornie kvůli rostoucímu politickému odporu"
+      "title": "Mapování ruských dronových a raketových útoků na Ukrajinu za uplynulý rok",
+      "original_title": "Charting the past year of Russian drone and missile attacks on Ukraine - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/9/charting-the-past-year-of-russian-drone-and-missile-attacks-on-ukraine",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/INTERACTIVE-Russia-attack-in-Ukraine-cover-september-8-2025_1-1757342004.png?resize=1200%2C630",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-09T07:57:42Z",
+      "description": "V neděli na Ukrajinu vypustili více než 800 dronů a raket, nejvíce od začátku války."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Thajský soud poslal Thaksina na rok do vězení za únik z výkonu trestu",
-      "original_title": "Thai Court Sends Thaksin to One Year in Jail for Dodging Prison - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-09/thai-court-sends-thaksin-to-one-year-in-jail-for-dodging-prison",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU_.xyRCMgRk/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-09T05:44:00Z",
-      "description": "Během několika minut po vynesení ročního trestu vězení v úterý dal Thajský Thaksin Šinawatra najevo, že nemá v úmyslu mizet z veřejného života."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Horoskop na úterý 9. září 2025 - Chicago Sun",
-      "original_title": "Horoscope for Tuesday, September 09, 2025 - Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/horoscopes/2025/09/09/horoscopes-today-tuesday-september-09-2025",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2025-09-09T05:01:00Z",
+      "title": "DEA zatkla více než 600 lidí v masivní operaci proti drogovému kartelu Sinaloa",
+      "original_title": "DEA arrests over 600 people in massive operation against the Sinaloa drug cartel - ABC News",
+      "url": "https://abcnews.go.com/US/dea-arrests-600-people-massive-operation-sinaloa-drug/story?id\\\\u003d125386772",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-09T07:30:00Z",
       "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jižní Korea vyšle letadlo pro pracovníky zadržené při razii americké imigrační služby",
-      "original_title": "South Korea to send plane for workers detained in US immigration raid - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/9/south-korea-to-send-plane-for-workers-detained-in-us-immigration-raid",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2020-01-30T234403Z_1913017500_RC2NQE9BS3TW_RTRMADP_3_CHINA-HEALTH-SOUTHKOREA-1757389011.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-09T04:56:51Z",
-      "description": "Vlajkový dopravce Korean Air uvádí, že letadlo by mohlo odletět do Atlanty ve státě Georgia již ve středu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jak evoluce vysvětluje míru autismu u lidí",
-      "original_title": "How evolution explains autism rates in humans - Phys.org",
-      "url": "https://phys.org/news/2025-09-evolution-autism-humans.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/evolving-brain.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-09T04:00:01Z",
-      "description": "Studie v Molecular Biology and Evolution zjistila, že relativně vysoká míra poruch autistického spektra u lidí je pravděpodobně důsledkem toho, jak se lidé v minulosti vyvíjeli. Studie je nazvána \"..."
+      "title": "Apple představí nový iPhone uprostřed Trumpovy obchodní války, která může vést k vyšším cenám",
+      "original_title": "Apple to unveil next iPhone amid Trump trade war that could result in higher prices - ABC News",
+      "url": "https://abcnews.go.com/Business/wireStory/apple-unveil-iphone-amid-trump-trade-war-result-125386310",
+      "urlToImage": "https://i.abcnewsfe.com/a/f32a4bf1-a3d9-43cd-85a8-b5d98450ce58/wirestory_5b78b243daceb791e19fc6e2c2740112_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-09-09T06:06:18Z",
+      "description": "Apple v úterý představí novou řadu iPhonů uprostřed globální obchodní války, která k obvyklému napětí kolem každoročního vývoje vlajkového produktu firmy přidala potenciální zdražení."
     },
     {
       "flag": "🇺🇸",
@@ -87,34 +153,23 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7ECN25BUBGASJG7QWUT3AMTDA.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-09T03:39:00Z",
-      "description": "Trumpova administrativa oznámila zahájení rozsáhlejší operace pro vymáhání imigračních zákonů v Chicagu, prezident slibuje rozsáhlý zásah proti násilné trestné činnosti."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Poslední informace o akci Applu: specifikace iPhonu 17, AirPods Pro 3 a další - 9to5Mac",
-      "original_title": "Last-minute Apple event rumors: iPhone 17 specs, AirPods Pro 3, more - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/08/last-minute-apple-event-rumors-iphone-17-specs-airpods-pro-3-more/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/awe-dropping-event.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-09T03:30:00Z",
-      "description": "Už jen pár hodin nás dělí od „ohromující“ akce Applu, na které představí novou řadu iPhone 17, Apple Watch…"
+      "description": "Trumpova administrativa oznámila zahájení zesílené operace pro vymáhání imigračních zákonů v Chicagu, zatímco prezident slibuje širší zásah proti násilné trestné činnosti."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Překvapivý zvrat v rozvodu bývalé astronomky: Manžel tvrdí, že už byli rozvedení kvůli sporu o Coldplay",
+      "title": "Coldplay kauza: Nečekaný zvrat v rozvodovém příběhu bývalé astronomky HR Kristin Cabotové; manžel tvrdí, že už byli rozvedení",
       "original_title": "Coldplay cam row: Twist in ex Astronomer HR Kristin Cabot's divorce story; husband says they were already - Times of India",
       "url": "https://timesofindia.indiatimes.com/world/us/coldplay-cam-row-twist-in-ex-astronomer-hr-kristin-cabots-divorce-story-husband-says-they-were-already-separated/articleshow/123776119.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-123776174,width-1070,height-580,imgsize-10916,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "source": "The Times of India",
       "publishedAt": "2025-09-09T03:09:00Z",
-      "description": "Americké zprávy: Andrew Cabot, manžel bývalé ředitelky HR Astronomer Kristin Cabot, uvedl, že se pár rozešel ještě předtím, než ji kamera pro polibky přistihla s expřítelem."
+      "description": "Americký tisk: Andrew Cabot, manžel bývalé ředitelky astronomického ústavu Kristin Cabotové, uvedl, že se pár rozešel ještě předtím, než ji kamera pro polibky přistihla s expartnerem."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Smrtící pobodání ukrajinského uprchlíka v Severní Karolíně rozvířilo debatu o kriminalitě",
+      "title": "Smrtící pobodání ukrajinského uprchlíka v Severní Karolíně roznítilo debatu o kriminalitě",
       "original_title": "Fatal stabbing of Ukrainian refugee in North Carolina ignites crime debate - BBC",
       "url": "https://www.bbc.com/news/articles/cgknxyl77x6o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b913/live/74bd0c60-8cd3-11f0-9cf6-cbf3e73ce2b9.jpg",
@@ -123,20 +178,31 @@
       "description": "Komentátoři kritizují soudní systém po zveřejnění drastického videa z vraždy Iryny Zarutské ve vlaku v Charlotte"
     },
     {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Nejvyšší soud zrušil omezení přistěhovaleckých razií v oblasti Los Angeles",
+      "original_title": "Supreme Court lifts limits on immigration raids in the Los Angeles area - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/08/supreme-court-lifts-limits-immigration-raids-los-angeles-area/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D2SBEPUIFHYCOYA35UALBKIJXY.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-09T02:38:28Z",
+      "description": "Razie vyvolaly v jižní Kalifornii masivní protesty. Prezident Donald Trump v reakci na ně nasadil jednotky Národní gardy a mariňáků."
+    },
+    {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Tunisko popírá tvrzení, že flotilu Greta Thunbergové v Gaze zasáhl dron",
+      "title": "Tunisko popírá tvrzení, že flotilu Greta Thunbergové u Gazy zasáhl dron",
       "original_title": "Tunisia denies claims Greta Thunberg's Gaza flotilla was hit by drone - BBC",
       "url": "https://www.bbc.com/news/articles/cly67g7pdlko",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62e7/live/717ae500-8d68-11f0-ac8c-8129e35aa651.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-09T02:23:16Z",
-      "description": "Flotila globálního Sumudu tvrdí, že byl založen požár, ale tuniské úřady popírají zapojení dronu."
+      "description": "Organizace Global Sumud Flotilla tvrdí, že byl založen požár, ale tuniské úřady popírají zapojení dronu."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Rodina Murdochových vyřešila spor o vlastnictví v miliardové dohodě",
+      "title": "Rodina Murdochových vyřešila spor o vlastnictví v mnohamiliardové dohodě",
       "original_title": "Murdoch family resolves dispute over ownership in multibillion-dollar deal - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/09/08/rupert-murdoch-lachlan-family-settlement/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M2EBPZQLDJE3LNRYFSBP2RGWLQ.jpg&w=1440",
@@ -147,35 +213,24 @@
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Snímky ukazují, že mezihvězdný objekt 3I/ATLAS má nyní ohon",
+      "title": "Snímky ukazují, že mezihvězdný objekt 3I/ATLAS nyní vytváří ohon",
       "original_title": "Images Show Interstellar Object 3I/ATLAS Is Now Growing a Tail - ScienceAlert",
       "url": "https://www.sciencealert.com/images-show-interstellar-object-3i-atlas-is-now-growing-a-tail",
       "urlToImage": "https://www.sciencealert.com/images/2025/09/3I-atlas-tail.jpg",
       "source": "ScienceAlert",
       "publishedAt": "2025-09-09T01:22:12Z",
-      "description": "Nejnovější snímky komety 3I/ATLAS jsou zde a přinášejí úchvatný pohled na narůstající ohon mezihvězdného objektu, a to díky výkonnému dalekohledu Gemini South observatoře NOIRLab."
+      "description": "Nejnovější snímky komety 3I/ATLAS přinášejí skvostný pohled na narůstající ocas mezihvězdného objektu díky výkonnému teleskopu Gemini South observatoře NOIRLab."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Indonéský prezident odvolal ministry financí a bezpečnosti po smrtících protestech",
-      "original_title": "Indonesian leader fires ministers of finance and security after deadly protests - AP News",
-      "url": "https://apnews.com/article/indonesia-protests-ministers-fired-3776bd9365804cda9f7c3f85b2104502",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b223859/2147483647/strip/true/crop/6820x3836+0+355/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2F19%2F672520d66ee4973c01292d8c7a89%2Fc14fe6f177be4943a7d11e96c105367e",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-09T01:18:00Z",
-      "description": "Indonéský prezident vyměnil klíčové ministry ekonomiky a bezpečnosti při změnách v kabinetu po smrtelných protestech kvůli výhodám zákonodárců."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Virginští rodiče narážejí na překážky při získání aktualizované vakcíny proti covidu-19 kvůli zmatkům kolem předpisů",
-      "original_title": "Virginia families face hurdles getting updated COVID-19 vaccine amid prescription confusion - WTOP",
-      "url": "https://wtop.com/virginia/2025/09/virginia-families-face-hurdles-getting-updated-covid-19-vaccine-amid-prescription-confusion-2/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2025/04/Military_COVID_Reenlistments_77213-scaled.jpg",
-      "source": "WTOP",
-      "publishedAt": "2025-09-09T00:38:41Z",
-      "description": "Rodiny ve Virginii narážejí na překážky při získávání nové vakcíny proti covidu-19, protože změny federálních pravidel vyvolávají zmatek ohledně požadavků na předpis v lékárnách."
+      "title": "Proč stále více seniorů sahá po konopí",
+      "original_title": "Why more seniors are turning to cannabis use - CBS News",
+      "url": "https://www.cbsnews.com/news/seniors-older-americans-marijuana-cannabis/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/08/6181ade4-1e04-481e-b6c6-99f6caaac6d8/thumbnail/1200x630/365bbfca51d006f549b62b644f057f89/axelrod-eoa-seniors-cannabis-frame-1238.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-09T00:06:34Z",
+      "description": "Podle nové studie vzrostla mezi lety 2021 a 2023 konzumace konopí u Američanů starších 65 let o 46 %."
     },
     {
       "flag": "🌍",
@@ -186,67 +241,23 @@
       "urlToImage": "https://images.macrumors.com/t/z2sZZhvZCmSf2ZVhWb-tH0zaPF0=/2500x/article-new/2025/04/AirPods-Pro-3-Mock-Feature.jpg",
       "source": "MacRumors",
       "publishedAt": "2025-09-08T23:20:58Z",
-      "description": "Nadcházející AirPods Pro 3, které by Apple měl představit zítra, nepřinesou výrazná vylepšení zvuku nebo aktivního potlačení hluku"
+      "description": "Nadcházející AirPods Pro 3, které má Apple představit zítra, nepřinesou výrazné zlepšení kvality zvuku nebo aktivního potlačení hluku"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dozorovací výbor zveřejnil dokumenty poskytnuté pozůstalostí po Epsteinovi, předseda Comer vydal prohlášení",
-      "original_title": "Oversight Committee Releases Records Provided by the Epstein Estate, Chairman Comer Provides Statement - House.gov",
-      "url": "https://oversight.house.gov/release/oversight-committee-releases-records-provided-by-the-epstein-estate-chairman-comer-provides-statement/",
-      "urlToImage": "https://oversight.house.gov/wp-content/uploads/2025/02/social-share1.png",
-      "source": "House.gov",
-      "publishedAt": "2025-09-08T23:03:45Z",
-      "description": "Výbor pro dohled a vládní reformu Sněmovny reprezentantů Spojených států"
+      "title": "Arizona má vítěze Powerballu za 50 tisíc dolarů z historického slosování",
+      "original_title": "Arizona produces $50K Powerball winners from historic draw - ABC15 Arizona",
+      "url": "https://www.abc15.com/news/state/arizona-produces-50k-powerball-winners-from-historic-draw",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/b84ea0e/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.abc15.com%2Fsharescnn%2Fphoto%2F2016%2F05%2F04%2Fb5521d790f694b5f808805d9930494e9_1462366837037_37538444_ver1.0_640_480.jpg",
+      "source": "ABC15 Arizona",
+      "publishedAt": "2025-09-08T22:21:00Z",
+      "description": "Dvanáct Arizonanů vyhrálo v sobotu padesátitisícové losy Powerball, výherní tiket byl prodán po celém údolí i v jižní Arizoně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Manželka Bruce Willise Emma Heming Willisová promluvila o jejich životě od diagnózy demence: „FTD nekřičí, jen šeptá“",
-      "original_title": "Bruce Willis's wife, Emma Heming Willis, opens up about their life together since his dementia diagnosis: 'FTD doesn't scream, it whispers' - yahoo.com",
-      "url": "https://www.yahoo.com/entertainment/celebrity/article/bruce-williss-wife-emma-heming-willis-opens-up-about-their-life-together-since-his-dementia-diagnosis-ftd-doesnt-scream-it-whispers-222551514.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yHV0_oKyBG6j1BAqVsQgFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/e90fa180-8ccf-11f0-bbb7-b1631478803c",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-08T22:25:52Z",
-      "description": "Emma Heming Willisová, která má s Brucem Willisem dvě dcery, zvyšuje povědomí o frontotemporální demenci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sledovanost VMA výrazně vzrostla po přesunu na CBS",
-      "original_title": "VMAs Ratings Surge With Move to CBS - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/vmas-2025-tv-ratings-cbs-1236365220/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2234228745-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-08T22:18:45Z",
-      "description": "Vítejte na MTV."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Pád vlády staví Macrona před dosud nejtěžší zkoušku",
-      "original_title": "Government downfall tests Macron like never before - politico.eu",
-      "url": "https://www.politico.eu/article/emmanuel-macron-france-collapse-francois-bayrou-no-confidence-vote-public-spending/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/08/GettyImages-2230841913-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-08T22:03:00Z",
-      "description": "Prezident vsází na nepravděpodobné centristické spojenectví, které má po všech neúspěších snížit veřejné výdaje."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Hlavní revize pracovních míst v úterý může ukázat, že trh práce je slabší, než se dosud myslelo",
-      "original_title": "Major jobs revision Tuesday could show the labor market is weaker than previously thought - CBS News",
-      "url": "https://www.cbsnews.com/news/jobs-report-revision-september-9-bls-economy-trump/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/01/ed9090eb-af3c-4418-b908-14da1aba5f6a/thumbnail/1200x630g6/7aa8a2df415021486d7a9376b9981c28/gettyimages-1395278718.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-08T20:32:00Z",
-      "description": "Ekonomové očekávají, že Úřad pro statistiku práce reviduje údaje o pracovních místech za rok končící březnem 2025 směrem dolů. Zde je důvod."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Pokud jsou nejnovější úniky o OnePlus 15 pravdivé, mohl by to být opět skutečný zabiják vlajkových lodí",
+      "title": "Pokud jsou nejnovější úniky o OnePlus 15 pravdivé, možná si pořídíte opravdového zabijáka vlajkových lodí",
       "original_title": "If the latest OnePlus 15 leaks are true, you might get yourself real flagship killer once again - PhoneArena",
       "url": "https://www.phonearena.com/news/if-the-latest-oneplus-15-leaks-are-true-you-might-get-yourself-real-flagship-killer-once-again_id173843",
       "urlToImage": "https://m-cdn.phonearena.com/images/article/173843-wide-two_1200/If-the-latest-OnePlus-15-leaks-are-true-you-might-get-yourself-real-flagship-killer-once-again.jpg",
@@ -263,18 +274,18 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/baltimore1-1152x648-1757332196.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-08T19:18:02Z",
-      "description": "Oslavovaná molekulární bioložka překonala kontroverzi z konce 80. let a stala se prezidentkou Caltechu."
+      "description": "Slavný molekulární biolog překonal kontroverzi z konce 80. let a stal se prezidentem Caltechu."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Moje modrá je tvá modrá: mozky různých lidí zpracovávají barvy stejně",
-      "original_title": "My blue is your blue: different people’s brains process colours in the same way - Nature",
-      "url": "https://www.nature.com/articles/d41586-025-02901-3",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02901-3/d41586-025-02901-3_51430840.jpg",
-      "source": "Nature.com",
-      "publishedAt": "2025-09-08T17:40:49Z",
-      "description": "Neurovědci dokážou pomocí nástroje strojového učení předpovědět, na jakou barvu se člověk dívá."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Sloupek | Je plnotučné mléko lepší než nízkotučné? Věda má odpověď.",
+      "original_title": "Column | Is whole milk better than low-fat? Here’s what the science says. - The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2025/09/08/whole-skim-milk-nutrition-plant-protein/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSSVDOOGXFBV7MEQPJ5HZPPA2U.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-08T16:02:04Z",
+      "description": "RFK Jr. propaguje plnotučné mléčné výrobky. Studoval jsem výživu 50 let a toto říká věda o plnotučném versus odstředěném mléce."
     },
     {
       "flag": "🌍",
@@ -285,29 +296,18 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/9LgdtNG5YGobkphJDuBXgJ.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-08T15:28:18Z",
-      "description": "Nad částmi planety se včera v noci vznášel „krvavý měsíc“. Zatímco Severní Amerika o něj přišla, my jsme pro vás shromáždili ty nejlepší fotografie úplného zatmění Měsíce v září 2025."
+      "description": "Nad některými částmi planety se včera v noci vznášel „krvavý měsíc“. Zatímco Severní Amerika o něj přišla, my jsme pro vás sepsali některé z nejlepších fotografií úplného zatmění měsíce v září 2025."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Únik odhaluje specifikace prvního 200MP fotoaparátu od Sony, který bude pravděpodobně ve telefonech Oppo Find X9 Ultra a Xiaomi 16 Ultra",
-      "original_title": "Leak reveals specs for first Sony 200 MP camera tipped for Oppo Find X9 Ultra and Xiaomi 16 Ultra - Notebookcheck",
-      "url": "https://www.notebookcheck.net/Leak-reveals-specs-for-first-Sony-200-MP-camera-tipped-for-Oppo-Find-X9-Ultra-and-Xiaomi-16-Ultra.1108523.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oppo-Find-X9-ultra-xiaomi-16-ultra-200-MP-kv.jpg",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2025-09-08T14:01:00Z",
-      "description": "Xiaomi 16 Ultra a Oppo Find X9 Ultra budou první smartphony s novým 200MP fotoaparátem od Sony IMX"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "TICHÝ zabiják zvyšuje riziko mrtvice a demence. Jak se mu bránit",
-      "original_title": "THIS silent killer can put you at increased risk of stroke and dementia: How to prevent it - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/this-silent-killer-can-put-you-at-increased-risk-of-stroke-and-dementia-how-to-prevent-it/articleshow/123767544.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-123767544,width-1070,height-580,imgsize-50744,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "source": "The Times of India",
-      "publishedAt": "2025-09-08T13:47:00Z",
-      "description": "Vysoký krevní tlak je hlavním rizikovým faktorem mrtvice a demence. Objevte, jak mu předcházet změnou životního stylu a s lékařským dohledem."
+      "title": "Podporuje nedaleká exoplaneta TRAPPIST-1e život? Nová data z teleskopu Jamese Webba by nám mohla pomoci to zjistit.",
+      "original_title": "Does the nearby exoplanet TRAPPIST-1e support life? New James Webb Space Telescope data could help us find out - Space",
+      "url": "https://www.space.com/astronomy/exoplanets/does-the-nearby-exoplanet-trappist-1e-support-life-new-james-webb-space-telescope-data-could-help-us-find-out",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dhT7GXzKsHNuVAhqdncgXK.png",
+      "source": "Space.com",
+      "publishedAt": "2025-09-08T15:00:00Z",
+      "description": "TRAPPIST-1e byl dlouho považován za jednu z nejlepších planet v obyvatelné zóně pro hledání atmosféry."
     }
   ]
 }
