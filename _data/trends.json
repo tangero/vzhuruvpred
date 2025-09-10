@@ -1,20 +1,30 @@
 {
-  "updated": "2025-09-10T18:37:07.041723",
+  "updated": "2025-09-10T21:23:04.483567",
   "trends": [
     {
       "rank": 1,
-      "query": "larry ellison",
-      "news_title": "Ellison předstihl Muska. S majetkem 101 miliard dolarů je nejbohatší",
-      "news_url": "https://www.bloomberg.com/news/articles/2025-09-10/oracle-co-founder-larry-ellison-closes-in-on-elon-musk-as-world-s-richest-man",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCRYfOb2L_J2TjsJ8AIPJclh5bsHg3U-5f60_BMTIv0nt850PMVSYsra5__U4",
-      "traffic": "2000++ hledání",
-      "source": "Bloomberg.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=larry ellison&geo=CZ"
+      "query": "charlie kirk",
+      "news_title": "Charlie Kirk střelen na akci Utah Valley University: Živé aktualizace",
+      "news_url": "https://www.nytimes.com/live/2025/09/10/us/charlie-kirk-shot-utah",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Kho6JEAYX6AtggLj-suq-Frb9zzm0tIJXWRug1UZtca_NtLWToWsDmCBOuw",
+      "traffic": "20000++ hledání",
+      "source": "The New York Times",
+      "explore_url": "https://trends.google.cz/trends/explore?q=charlie kirk&geo=CZ"
     },
     {
       "rank": 2,
+      "query": "zločin na dobré cestě",
+      "news_title": "Recenze: Nový krimiseriál s Pechlátem je skvěle obsazený a odlehčený",
+      "news_url": "https://www.seznamzpravy.cz/clanek/kultura-zlocin-na-dobre-ceste-serial-recenze-285809",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekpRs4qYmZVSqpdrFYFFlkOg6anxK970bhyHiWGgml19gGBmhygDpAMegkA4",
+      "traffic": "2000++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=zločin na dobré cestě&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "tipsport",
-      "news_title": "Tipsport Fantasy: Tipy na hvězdu Dynama i žolíka z Liberce",
+      "news_title": "Tipsport Fantasy: tipy na hvězdu Dynama či žolíka z Liberce",
       "news_url": "https://www.hokej.cz/tipsport-fantasy-kdo-doruci-body-zkuste-hvezdu-dynama-ci-zolika-z-liberce/5090630",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8gSy2746PaLHz5b36YIWL-hy1cMypTZ3H3I3RkSVplWqdkMNVP6mhUOhHsVU",
       "traffic": "2000++ hledání",
@@ -22,64 +32,54 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=tipsport&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "nato article 4",
-      "news_title": "Rusko: Drony nemířily na Polsko, Británie odsuzuje údery",
-      "news_url": "https://www.bbc.com/news/live/c2enwk1l9e1t",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc3N2-ywMBtpia__ftmcUAf5mLR-x3H-5ybdXzFCdP9Nq3O2j-SGyi3R_JAtk",
-      "traffic": "1000++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=nato article 4&geo=CZ"
-    },
-    {
       "rank": 4,
-      "query": "charlie sheen",
-      "news_title": "Charlie Sheen přiznává v pamětech a dokumentu sex s muži",
-      "news_url": "https://people.com/charlie-sheen-opens-up-about-sexual-encounters-with-men-in-new-memoir-and-documentary-11801842",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpDICmowKq08eZIpiTzpOEWUxuFFdt9JsUSz1DNbL3T5h3iLvxQ1xmVrZ5v6A",
-      "traffic": "500++ hledání",
-      "source": "People.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=charlie sheen&geo=CZ"
+      "query": "oracle",
+      "news_title": "Akcie rostou: Oracle žene S&P 500 a Nasdaq k rekordům, trh čeká data z USA",
+      "news_url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-notch-fresh-records-as-oracle-soars-with-inflation-data-on-deck-200504746.html",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzEF7M0Ypq7OkXCHKeghKZjFCdBatDWhhsTpJoneK87YyPLPJhht7DiDjeGa0",
+      "traffic": "2000++ hledání",
+      "source": "Yahoo Finance",
+      "explore_url": "https://trends.google.cz/trends/explore?q=oracle&geo=CZ"
     },
     {
       "rank": 5,
-      "query": "ct24",
-      "news_title": "Předvolební debata o českém průmyslu",
-      "news_url": "https://ct24.ceskatelevize.cz/clanek/domaci/predvolebni-debata-o-prumyslu-364869",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv0UMfCnTg9CBeK8wXng1PYfOvIbwbriVfTZWcKPky1E0qsFA_7aOdnV224ho",
-      "traffic": "500++ hledání",
-      "source": "ČT24",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ct24&geo=CZ"
+      "query": "oneplay",
+      "news_title": "Kvíz: Otestujte své znalosti nové extraligové sezony",
+      "news_url": "https://www.idnes.cz/hokej/nova-hokejova-sezona-se-rozjizdi-otestujte-sve-extraligove-znalosti.Q250909_102639_hokejh_drev",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGk-tLwuPD19K8YNx5I-8dramAtfxY82JQJAzOORtK77PUZSA5o84iLATAiQQ",
+      "traffic": "1000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=oneplay&geo=CZ"
     },
     {
       "rank": 6,
-      "query": "holger rune",
-      "news_title": "Kalinskaja: Tenista ji 10x psal o rande",
-      "news_url": "https://www.foxnews.com/sports/russian-tennis-star-anna-kalinskaya-name-drops-player-who-messaged-her-10-times-date",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKjzdCnDChlcDUI0zO2_mHBPp0XHUqLzoAGcZ49G3p893RPsipNfdSTo_UesY",
+      "query": "чарли кирк",
+      "news_title": "Americký konzervativní aktivista Charlie Kirk zemřel po zranění",
+      "news_url": "https://www.vedomosti.ru/politics/news/2025/09/10/1138400-charli-kirk-skonchalsya",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThqDGtC3AkQIhHz9r23NW8V8OYbY_Oy9F4W0U8iT9j_a7Swq9NtvxoB_HK_qc",
       "traffic": "500++ hledání",
-      "source": "Fox News",
-      "explore_url": "https://trends.google.cz/trends/explore?q=holger rune&geo=CZ"
+      "source": "Ведомости",
+      "explore_url": "https://trends.google.cz/trends/explore?q=чарли кирк&geo=CZ"
     },
     {
       "rank": 7,
-      "query": "hokej",
-      "news_title": "Sparta čelila lovu obrů, z první pasti se vyvlékla",
-      "news_url": "https://www.seznamzpravy.cz/clanek/sport-hokej-odpaleno-sparta-celila-lovu-obru-ale-z-prvni-pasti-se-vyvlekla-285698",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKGXQW3gE12utW6fRJyk5KouUCuaOm_qo3AdsPAZjglNzhb3wDDGHko9c0N4",
-      "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=hokej&geo=CZ"
+      "query": "jan punčochář",
+      "news_title": "Tadeáš při odchodu věřil, že v Hell's Kitchen zůstane",
+      "news_url": "https://tv.nova.cz/porad/hell-s-kitchen/video-bonus/128737-tadeas-pri-odchodu-z-hell-s-kitchen-do-posledni-chvile-veril-ze-zustane",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsSrmdDIU-wY6f_dNBiz8UkOsIoLaBf8HSkkJxErmVSmzQgXVCvz5C_iVXYx4",
+      "traffic": "500++ hledání",
+      "source": "TV Nova",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jan punčochář&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "betano",
-      "news_title": "Fotbalové legendy se utkají v charitativním zápase v Lisabonu",
-      "news_url": "https://www.portugalresident.com/football-legends-to-face-off-in-charity-match-in-lisbon/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2mmyMArUCJBnvO8d_oHoQ1jnMS0VBCWvV4dQ1HpuqPA9hKnZnrqN-aJeCqfY",
-      "traffic": "200++ hledání",
-      "source": "Portugal Resident",
-      "explore_url": "https://trends.google.cz/trends/explore?q=betano&geo=CZ"
+      "query": "hokej",
+      "news_title": "Tábor porazil favorizovanou Jihlavu v 1. kole Maxa ligy",
+      "news_url": "https://www.idnes.cz/hokej/hokejova-1-liga/prvni-hokejova-liga-maxa-1-kolo.A250910_223237_hok_1liga_ten",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc726zQdTSpKGvcV2n_CKun8KLMJmO6-y5RwdxvdrHrz47zwJXV7TTAcp36Xg",
+      "traffic": "500++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=hokej&geo=CZ"
     }
   ]
 }
