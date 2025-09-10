@@ -1,10 +1,109 @@
 {
-  "last_updated": "2025-09-09T23:15:14",
+  "last_updated": "2025-09-10T01:19:00",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Nejméně 19 mrtvých a stovky zraněných při protestech po zákazu sociálních sítí v Nepálu",
+      "original_title": "At least 19 killed, hundreds injured in protests after Nepal social media ban - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/08/nepal-protests-social-media-ban/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VMSUYDY76U6TNPYTT33ZDAM5IY.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-09T00:36:09Z",
+      "description": "Demonstrace v Nepalu proti vládní korupci a omezením aplikací jako WhatsApp a Facebook pohánělo rozšířené rozhořčení mezi mladými lidmi."
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ukrajinka v Severní Karolíně ubodána k smrti při nevyprovokovaném útoku ve vlaku, oznámila policie",
+      "title": "Soudkyně rozmetala dohodu o zaplacení 1,5 miliardy dolarů mezi Anthropic a autory za pirátské knihy použité k trénování AI",
+      "original_title": "Judge skewers $1.5B Anthropic settlement with authors in pirated books case over AI training - AP News",
+      "url": "https://apnews.com/article/anthropic-authors-book-settlement-ai-copyright-claude-b282fe615338bf1f98ad97cb82e978a1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d6fe99b/2147483647/strip/true/crop/5760x3240+0+21/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2F05%2F2d0e3b4fba0945fbf279c6fa1a27%2F275efa35532f4733ad0b98acac8d2fce",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-09T00:28:00Z",
+      "description": "Federální soudce v pondělí zkritizoval mimosoudní vyrovnání za 1,5 miliardy dolarů mezi společností Anthropic a autory, kteří tvrdí, že jejich knihy byly nelegálně použity k trénování chatbotů."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "‚Republikánská Elizabeth Warrenová‘: Vance se rád pře s Randem Paulem",
+      "original_title": "‘The GOP’s Elizabeth Warren’: Vance happy to feud with Rand Paul - Politico",
+      "url": "https://www.politico.com/news/2025/09/08/the-gops-elizabeth-warren-vance-happy-to-feud-with-rand-paul-00551320",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F48%2Fe1%2F01c156f641b286d28aa700876c61%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2193792472",
+      "source": "Politico",
+      "publishedAt": "2025-09-08T23:23:22Z",
+      "description": "Často nevybíravý senátor odsoudil Vanceovo vychvalování minulotýdenního raketového útoku na údajnou drogovou loď jako ‚odporné‘."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Sledovanost VMA po přesunu na CBS prudce vzrostla",
+      "original_title": "VMAs Ratings Surge With Move to CBS - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/vmas-2025-tv-ratings-cbs-1236365220/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2234228745-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-08T22:18:45Z",
+      "description": "Vítejte na MTV."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Nejvyšší soud zrušil omeji pro imigrační razie v oblasti Los Angeles",
+      "original_title": "Supreme Court lifts limits on immigration raids in the Los Angeles area - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/08/supreme-court-lifts-limits-immigration-raids-los-angeles-area/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D2SBEPUIFHYCOYA35UALBKIJXY.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-08T22:14:55Z",
+      "description": "Zásahy vyvolaly v jižní Kalifornii masivní protesty. Prezident Donald Trump v reakci nasadil vojáky z Národní gardy Kalifornie a mariňáky."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pád vlády staví Macrona před dosud nejtěžší zkoušku",
+      "original_title": "Government downfall tests Macron like never before - politico.eu",
+      "url": "https://www.politico.eu/article/emmanuel-macron-france-collapse-francois-bayrou-no-confidence-vote-public-spending/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/08/GettyImages-2230841913-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-08T22:03:00Z",
+      "description": "Prezident spoléhá na nepravděpodobné spojenectví centristů, které má po neúspěchu všech předchozích pokusů snížit veřejné výdaje."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kdo je ‚Phillies Karen‘? Jak se odehrálo virální drama kolem míčku z home runu a co o něm řekli otec se synem",
+      "original_title": "Who is the 'Phillies Karen'? How the viral drama over a home run ball unfolded — and what the dad and his son have said about it - yahoo.com",
+      "url": "https://www.yahoo.com/news/us/article/who-is-the-phillies-karen-how-the-viral-drama-over-a-home-run-ball-unfolded--and-what-the-dad-and-his-son-have-said-about-it-161012605.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0V4TrX0A37xGQ11sHErr6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/e8514670-8cc2-11f0-9bbf-6a34cab22561",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-08T22:00:24Z",
+      "description": "Otec, kterého naštvala žena v dresu Philadelphia Phillies, se vyjadřuje k incidentu, zatímco se internet snaží identifikovat ji."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pozůstalost po Jeffrey Epsteinovi předala Kongresu 'narozeninovou knihu' údajně podepsanou Trumpem",
+      "original_title": "Estate of Jeffrey Epstein gives Congress 'birthday book' allegedly signed by Trump - NPR",
+      "url": "https://www.npr.org/2025/09/08/nx-s1-5534397/trump-epstein-birthday-book",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8416x4734+0+439/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F9b%2F93eba1014f77a4e784e1e94ad153%2Fgettyimages-2234205650.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-08T21:14:23Z",
+      "description": "Demokraté z kontrolního výboru Sněmovny reprezentantů uvedli, že kniha obsahovala nevkusný obrázek a poznámku, která nesla podpis prezidenta Trumpa. Trump dříve existenci popíral."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Setkání, o kterém si nikdo nemyslel, že vydrží, dojímá Los Angeles k slzám",
+      "original_title": "The reunion no one thought would last brings Los Angeles to tears - SFGATE",
+      "url": "https://www.sfgate.com/sf-culture/article/oasis-reunion-brings-los-angeles-to-tears-21037323.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/37/55/28441431/3/rawImage.jpg",
+      "source": "SFGate",
+      "publishedAt": "2025-09-08T21:12:59Z",
+      "description": "Tato neuvěřitelně úspěšná reunionová tour již prodala 2 miliony lístků a potvrdila Oasis jako největší kapelu světa."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ukrajinka v Severní Karolíně jela vlakem a bezdůvodně ji ubodali k smrti, oznámila policie",
       "original_title": "Ukrainian woman stabbed to death in unprovoked attack while riding train in North Carolina: Police - ABC News",
       "url": "https://abcnews.go.com/US/ukrainian-woman-stabbed-death-train-attack/story?id\\\\u003d125360100",
       "urlToImage": null,
@@ -15,24 +114,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hvězda 'Perníkového tátu' Raymond Cruz zatčen za polévání souseda hadicí",
-      "original_title": "'Breaking Bad' Star Raymond Cruz Arrested For Spraying a Neighbor with Hose - TMZ",
-      "url": "https://www.tmz.com/2025/09/08/breaking-bad-raymond-cruz-arrested-for-alleged-battery/",
-      "urlToImage": "https://imagez.tmz.com/image/55/16by9/2025/09/08/552b6dfda0a0475bb52649af5f5cc6ee_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-09-08T20:21:59Z",
-      "description": "Raymond Cruz, představitel oblíbeného padoucha Tuca Salamancy, byl zatčen kvůli podezření z napadení."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Známky Ravens a počty nastoupení proti Bills",
-      "original_title": "Ravens Grades & Snap Counts vs. Bills - Baltimore Ravens",
-      "url": "https://www.baltimoreravens.com/news/ravens-grades-snap-counts-buffalo-bills",
-      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/ryw26sxpudf2ey3gx18f",
-      "source": "BaltimoreRavens.com",
-      "publishedAt": "2025-09-08T20:03:45Z",
-      "description": "Chidobe Awuzie hrál na pozici třetího rojníka, zatímco nováček Teddye Buchanan nastoupil do více zápasů než Trenton Simpson."
+      "title": "Banksyho mural soudce bijícího demonstranta u Královského soudního dvora v Londýně bude odstraněn",
+      "original_title": "Banksy mural of judge beating protester at Royal Courts of Justice in London to be removed - CBS News",
+      "url": "https://www.cbsnews.com/news/banksy-new-mural-london-royal-courts-judge-beating-protester/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/08/dce1434b-ed92-4d88-91de-c2aa6de12aea/thumbnail/1200x630g9/17c2cfa4676d2da3b725aceaf7864dd5/ap25251518293246.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-08T20:00:24Z",
+      "description": "Nový Banksyho obraz ukazuje soudce, jak bije demonstranta kladívkem. Aktivisti v něm vidí narážku na zákaz skupiny Palestine Action ze strany britské vlády."
     },
     {
       "flag": "🌍",
@@ -48,68 +136,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpovy obchodní a imigrační plány se střetly při razií u Hyundai",
-      "original_title": "Trump trade, immigration agendas collide in Hyundai raid - NBC News",
-      "url": "https://www.nbcnews.com/business/economy/trump-trade-immigration-agendas-collide-hyundai-raid-rcna229890",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250908-hyundai-plant-vl-117p-c91063.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-08T19:44:02Z",
-      "description": "Dvě klíčové části agendy prezidenta Donalda Trumpa se ve čtvrtek střetly, když federální úřady provedly zátah na imigranty na staveništi baterií pro elektromobily Hyundai v Georgii."
+      "title": "Držitel Nobelovy ceny David Baltimore zemřel ve věku 87 let",
+      "original_title": "Nobel laureate David Baltimore dead at 87 - Ars Technica",
+      "url": "https://arstechnica.com/science/2025/09/nobel-laureate-david-baltimore-dead-at-87/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/baltimore1-1152x648-1757332196.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-08T19:18:02Z",
+      "description": "Oslavovaný molekulární biolog, který přestál kontroverzi z konce 80. let, se stal prezidentem Caltechu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejvyšší soud zrušil omezení pro mobilní razie ICE v Los Angeles",
-      "original_title": "Supreme Court lifts restrictions on ‘roving’ ICE raids in Los Angeles - Politico",
-      "url": "https://www.politico.com/news/2025/09/08/supreme-court-ice-raids-ruling-00550551",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8c%2Fee%2F4301726e4a2881f9a20919345308%2Fimmigration-raids-los-angeles-82959.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-08T18:41:04Z",
-      "description": "Rozhodnutí blokuje nařízení nižšího soudu, které shledalo, že policejní zásahy vycházely z nepřípustných faktorů."
+      "title": "Recenze filmu ‚Věčnost‘: Miles Teller a Elizabeth Olsen v rozporuplném old-school romantickém komedii o posmrtném životě",
+      "original_title": "‘Eternity’ Review: Miles Teller And Elizabeth Olsen In Hit-And-Miss Old-School Afterlife Rom-Com -Toronto Film Festival - Deadline",
+      "url": "http://deadline.com/2025/09/eternity-review-miles-teller-elizabeth-olsen-romcom-toronto-1236512217/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/E_08326_R11.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-08T19:04:00Z",
+      "description": "Recenze filmu ‚Věčnost‘: Elizabeth Olsen v posmrtném životě sní o tom, že navždy zůstane se svým prvním manželem"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tohle je nový 911 Turbo S – nejsilnější Porsche 911 v historii - Motor1.com",
+      "original_title": "This Is the New 911 Turbo S—Porsche's Most Powerful 911 Ever - Motor1.com",
+      "url": "https://www.motor1.com/news/771380/2026-porsche-911-turbo-s/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/VzBONl/s1/2026-porsche-911-turbo-s-hybrid.jpg",
+      "source": "Motor1 ",
+      "publishedAt": "2025-09-08T18:52:19Z",
+      "description": "Porsche vzalo hybridní systém Carrera GTS a přidalo další elektrický turbodmychadlo pro větší výkon než kterýkoli 911 předtím."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Mluvčí Johnson couvá z výroku, že Trump byl v případě Epstein ‘informátorem FBI’",
+      "title": "Mluvčí Johnson se zmiňuje o Trumpovi jako o informátorovi FBI v případu Epstein",
       "original_title": "Speaker Johnson walks backs comment that Trump was an ‘FBI informant’ in Epstein case - CNN",
       "url": "https://www.cnn.com/2025/09/08/politics/johnson-trump-fbi-informant-epstein",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25251641996471.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-08T18:38:00Z",
-      "description": "Předseda Sněmovny reprezentantů Mike Johnson se v pondělí pokusil napravit své dřívější vyjádření, v němž tvrdil, že prezident Donald Trump byl v případě Jeffreyho Epsteina „informátorem FBI“."
+      "description": "Předseda Sněmovny reprezentantů Mike Johnson se v pondělí pokusil napravit své dřívější tvrzení, že prezident Donald Trump byl v kauze Jeffreyho Epsteina „informátorem FBI“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nadcházející akce Applu s iPhonem 17 Air čelí kritice za ‚nedostatek inovací‘, komentátor Daniel Newman ji označuje za ‚úžasnou‘",
+      "title": "Nadcházející akce Applu s iPhonem 17 Air vzbuzuje kritiku, komentátor Daniel Newman ji označuje za „nedostatečně inovativní“",
       "original_title": "Apple's Upcoming 'Awe Dropping' Event With iPhone 17 Air Draws Criticism As Commentator Daniel Newman Slams 'Lack Of Innovation' - Yahoo Finance",
       "url": "https://finance.yahoo.com/news/apples-upcoming-awe-dropping-event-183059932.html",
       "urlToImage": "https://media.zenfs.com/en/benzinga_79/5b54b10f0d18e8439e1952d6ca16cdab",
       "source": "Yahoo Entertainment",
       "publishedAt": "2025-09-08T18:30:59Z",
-      "description": "Společnost Apple Inc. (NASDAQ:AAPL) se chystá na dlouho očekávané uvedení iPhonu 17, analytik Daniel Newman ji za její spoléhání na… kritizoval"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nejlepší okamžiky z MTV VMA: od první ceny pro Mariah Carey po magické číslo Lady Gagy",
-      "original_title": "Highlights from the VMAs, from Mariah Carey's first win to Lady Gaga's magic act - NPR",
-      "url": "https://www.npr.org/2025/09/08/nx-s1-5534149/mtv-vma-winners-takeaways-lady-gaga-ozzy-osbourne-mariah-carey",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2999x1687+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F6e%2F6b80913b4e4785512be4df4f9505%2Fvma25-trio.png",
-      "source": "NPR",
-      "publishedAt": "2025-09-08T18:22:20Z",
-      "description": "Nedělní předávání cen VMA se poprvé vysílalo nejen na MTV, ale také na CBS. Show ocenila jak nastupující hvězdy, tak i dlouholeté ikony."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Nepálská policie zahájila palbu do protestů ‚Gen Z‘ vyvolaných blokádou sociálních sítí",
-      "original_title": "Nepal police open fire on ‘Gen Z’ protests sparked by social media block - Financial Times",
-      "url": "https://www.ft.com/content/f8fa4b1f-d513-4163-a474-506ada60960f",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2f4ae972-ee38-44b6-a1fe-da2956f16217.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-08T17:29:34Z",
-      "description": "Nejméně 19 lidí zemřelo při protestech proti zákazu platforem včetně Facebooku a Instagramu"
+      "description": "Přípravy společnosti Apple Inc. (NASDAQ:AAPL) na velmi očekávané uvedení iPhonu 17 provází kritika analytika Daniela Newmana za spoléhání na…"
     },
     {
       "flag": "🇫🇷",
@@ -120,73 +197,51 @@
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Rabbit-R1-RabbitOS-2-launch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
       "publishedAt": "2025-09-08T17:18:00Z",
-      "description": "Rabbit R1 možná nějakou dobu nebylo slyšet, ale společnost stojící za tímto zařízením s umělou inteligencí se snaží..."
+      "description": "Rabbit R1 možná nějakou dobu zůstával v anonymitě, ale společnost stojící za tímto zařízením s umělou inteligencí se snaží..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "ICE zahajuje operaci Midway Blitz na počest Katie Abrahamové s cílem zaměřit se na zločince ilegální cizince, kteří terorizují Američany v útočištném státě Illinois - Ministerstvo vnitřní bezpečnos...",
-      "original_title": "ICE Launches Operation Midway Blitz in Honor of Katie Abraham to Target Criminal Illegal Aliens Terrorizing Americans in Sanctuary Illinois - Homeland Security (.gov)",
-      "url": "https://www.dhs.gov/news/2025/09/08/ice-launches-operation-midway-blitz-honor-katie-abraham-target-criminal-illegal",
-      "urlToImage": "https://www.dhs.gov/sites/default/files/2024-02/24_0206_opa_og-image-dhs.jpg",
-      "source": "Dhs.gov",
-      "publishedAt": "2025-09-08T17:12:18Z",
-      "description": "Ministerstvo vnitřní bezpečnosti oznámilo operaci Midway Blitz na počest Katie Abrahamové, která byla zabita při nehodě způsobené opilým řidičem – ilegálním migrantem Juliem Cucl-Bolem v Illinois, ..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump říká, že nařídí ministerstvu školství chránit modlitbu ve veřejných školách",
-      "original_title": "Trump says he’ll direct Education Department to protect praying in public school - Politico",
-      "url": "https://www.politico.com/news/2025/09/08/trump-says-hell-direct-education-department-to-protect-praying-in-public-school-00550550",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1c%2F30%2Fc381ccab49f59bda8d627e1d121e%2Ftrump-50953.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-08T17:04:10Z",
-      "description": "Trump zopakoval plány na ochranu náboženské svobody ve školách, což byl slib, který během kampaně v roce 2024 často opakoval."
+      "title": "Žena spatřená na obrazovce, jak ji v objetí drží šéf na koncertě Coldplay, podala v New Hampshire žádost o rozvod.",
+      "original_title": "Woman seen being embraced by boss on screen at Coldplay concert files for divorce in New Hampshire - WMUR",
+      "url": "https://www.wmur.com/article/kristin-cabot-coldplay-kiss-cam-divorce-nh/66012086",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kristin-cabot-and-andy-byron-68bf022ed3202.jpg?crop=0.981xw:0.980xh;0,0&resize=1200:*",
+      "source": "WMUR Manchester",
+      "publishedAt": "2025-09-08T17:08:00Z",
+      "description": "Žena spatřená, jak ji muž objímá na koncertě Coldplay v červenci ve Foxborough v Massachusetts, podala prostřednictvím soudu v New Hampshire žádost o rozvod."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Francouzská vláda padla poté, co premiér prohrál hlasování o důvěře",
-      "original_title": "French government collapses after prime minister loses confidence vote - CNN",
-      "url": "https://www.cnn.com/2025/09/08/europe/french-prime-minister-confidence-vote-latam-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-08t131756z-1715629436-rc2pnga4o8x4-rtrmadp-3-france-politics.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-08T17:00:00Z",
-      "description": "Francouzští zákonodárci v pondělí odhlasovali odvolání premiéra Françoise Bayroua, což uvrhlo zemi do nové politické krize a ponechalo ji bez vlády v době rostoucího ekonomického napětí a geopoliti..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Akcie EchoStaru poskočily díky prodeji spektra SpaceX. AST a Iridium klesají. - Investor's Business Daily",
-      "original_title": "EchoStar Stock Jumps On Spectrum Sale To SpaceX. AST, Iridium Retreat. - Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/echostar-stock-spectrum-sale-ergen-musk-spacex-starlink/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/Stock-Echostar-02-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-08T16:42:00Z",
-      "description": "Akcie EchoStaru prudce vzrostly po oznámení prodeje kmitočtů SpaceX za zhruba 17 miliard dolarů"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Komentář | Je plnotučné mléko lepší než nízkotučné? Toto říká věda",
+      "title": "Sloupek | Je plnotučné mléko lepší než nízkotučné? Věda má odpověď.",
       "original_title": "Column | Is whole milk better than low-fat? Here’s what the science says. - The Washington Post",
       "url": "https://www.washingtonpost.com/wellness/2025/09/08/whole-skim-milk-nutrition-plant-protein/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSSVDOOGXFBV7MEQPJ5HZPPA2U.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-08T16:02:04Z",
-      "description": "RFK Jr. propaguje plnotučné mléčné výrobky. Já studuji výživu 50 let a tohle o celém a odstředěném mléce říká věda."
+      "description": "RFK Jr. propaguje plnotučné mléčné výrobky. Výživu studuji 50 let a toto říká věda o plnotučném versus odstředěném mléce."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Miliardářský CEO, který volil Trumpa, bije na poplach kvůli útokům na Fed",
+      "original_title": "Billionaire CEO who voted for Trump sounds the alarm on Fed attacks - CNN",
+      "url": "https://www.cnn.com/2025/09/08/economy/trump-fed-powell-ken-griffin",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2226802502.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-08T15:56:00Z",
+      "description": "Zatímco mnoho šéfů firem mlčelo k útokům Donalda Trumpa na Fed, miliardář Ken Griffin varuje před jejich nebezpečím."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Oteplování moří ohrožuje klíčové druhy fytoplanktonu, které pohánějí potravní síť, zjistila studie",
-      "original_title": "Warming seas threaten key phytoplankton species that fuels the food web, study finds - AP News",
-      "url": "https://apnews.com/article/phytoplankton-prochlorococcus-decline-food-web-warming-oceans-c9e31c10b3ff9d613b41517836d55122",
-      "urlToImage": "https://dims.apnews.com/dims4/default/494138b/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2Ff6%2F36b22c91a927494eb982b140e550%2F7430de5b94024601b5acb8b463e6cd76",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-08T15:44:00Z",
-      "description": "Nový výzkum naznačuje, že drobné fytoplanktony, které jsou klíčovou součástí mořského potravního řetězce, by mohly s oteplováním oceánů drasticky ubývat. Prochlorococcus je nejmenším a nejhojnějším..."
+      "title": "Noemová říká, že imigrační razie v továrně Hyundai v Georgii neodradí investice do USA.",
+      "original_title": "Noem says immigration raid at Hyundai plant in Georgia won’t deter investment in the U.S. - PBS",
+      "url": "https://www.pbs.org/newshour/politics/noem-says-immigration-raid-at-hyundai-plant-in-georgia-wont-deter-investment-in-the-u-s",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-08T102416Z_1846208160_RC2MNGA77WBA_RTRMADP_3_SECURITY-BRITAIN-5EYES-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-08T15:51:33Z",
+      "description": "Noemová tvrdí, že zadržení budou deportováni a razie ukazuje firmám důležitost dodržování amerických zákonů."
     },
     {
       "flag": "🌍",
@@ -197,106 +252,51 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/9LgdtNG5YGobkphJDuBXgJ.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-08T15:28:18Z",
-      "description": "Nad některými částmi planety se včera v noci vznášel „krvavý měsíc“. Zatímco Severní Amerika o něj přišla, my jsme pro vás sesumírovali ty nejlepší fotografie úplného zatmění měsíce ze září 2025."
+      "description": "Nad částmi planety se včera v noci vznášel „krvavý měsíc“. Zatímco Severní Amerika o něj přišla, my jsme pro vás sepsali některé z nejlepších fotografií úplného zatmění měsíce v září 2025."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nemoc Chagas neboli smrtící nemoc líbajících se brouků se rozšířila v USA. Zde je to, co je třeba vědět.",
+      "title": "Nemoc Chagas neboli smrtící nemoc z líbání se šíří v USA. Co je třeba vědět.",
       "original_title": "Chagas disease, or deadly kissing bug disease, has spread in the U.S. Here's what to know. - CBS News",
       "url": "https://www.cbsnews.com/news/chagas-disease-deadly-kissing-bug-spread-us/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/08/31f4e14c-817f-46d8-9c80-cd7f997a24d3/thumbnail/1200x630/84ac0c84f8073f8e9dce1a3d67b21cc5/gettyimages-1689262788.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-08T14:59:13Z",
-      "description": "Chagasova choroba je podle CDC endemická již v 21 zemích Ameriky a rostoucí důkazy o přítomnosti parazita zpochybňují její označení jako neendemickou v USA."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tržby: ‚Conjuring: Poslední obřad‘ překonal ‚To‘ s 194 miliony dolarů celosvětově největším hororovým uvedením",
-      "original_title": "Box Office: ‘Conjuring: Last Rites’ Overtakes ‘It’ as Biggest Horror Movie Opening With $194 Million Globally - Variety",
-      "url": "https://variety.com/2025/film/box-office/conjuring-last-rites-biggest-horror-movie-opening-1236511781/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/conjuring-4.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-08T14:45:00Z",
-      "description": "Conjuring: Poslední obřad měl lepší debut, než se čekalo, a je teď největší hororovou premiérou v historii."
+      "description": "Chagasova choroba je již endemická v 21 zemích Ameriky a rostoucí důkazy o přítomnosti parazita zpochybňují označení USA za neendemickou oblast, uvádí CDC."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "RFK Jr. zvažuje kritiky vakcín proti covidu pro klíčový poradní panel",
+      "title": "RFK Jr. zvažuje kritiky očkování proti covidu pro klíčový panel pro vakcíny",
       "original_title": "RFK Jr. considers critics of coronavirus shots to join key vaccine panel - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/09/08/rfk-jr-new-vaccine-advisers/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/336ZMIQEZZE5KSHAQY6NWIWT4M_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-08T14:31:51Z",
-      "description": "Dva vyzývali ke stažení mRNA vakcín proti koronaviru. Jeden řekl, že lékaři v ně „slepě věřili“. Další uvedl, že covid není „děsivý“, a poznamenal, že Ježíš se dotýkal malomocných."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Nový Banksyho mural se objevil u budovy Královského soudního dvora",
-      "original_title": "New Banksy mural appears at Royal Courts of Justice - BBC",
-      "url": "https://www.bbc.com/news/articles/cgrq0r0y878o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b253/live/6a2bf1d0-8ca6-11f0-84c8-99de564f0440.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-08T13:39:23Z",
-      "description": "Umělecké dílo, na kterém soudce udeřil protestujícího kladívkem, potvrdil nepolapitelný pouliční umělec."
+      "description": "Dva lékaři žádali stažení mRNA vakcín proti covidu. Jeden tvrdil, že v ně lékaři „slepě věřili“. Druhý řekl, že covid není „děsivý“, a poznamenal, že Ježíš se dotýkal malomocných."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sluchátka Bose QuietComfort Ultra získají příští měsíc aktualizaci druhé generace - 9to5Mac",
-      "original_title": "Bose QuietComfort Ultra headphones will get a 2nd-gen update next month - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/08/bose-quietcomfort-ultra-headphones-will-get-a-2nd-gen-update-next-month/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/bose-qc-ultra-gen2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-08T13:09:00Z",
-      "description": "Oblíbená sluchátka Bose QuietComfort Ultra již dostala jednu aktualizaci v létě, společnost ale nyní oznámila..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vědci natočili nový druh šnekoryby a nám se těžko věří, že to není Pokémon",
-      "original_title": "Scientists Have Filmed A New Species Of Snailfish, And We’re Having A Hard Time Believing It’s Not A Pokémon - IFLScience",
-      "url": "https://www.iflscience.com/adorable-new-species-of-snailfish-filmed-3268-meters-below-the-sea-and-theres-a-video-80716",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/80716/aImg/86273/bumpy-snailfish-meta.png",
-      "source": "IFLScience",
-      "publishedAt": "2025-09-08T13:07:30Z",
-      "description": "Tři nové druhy ropušnic ukazují, že hlubiny oceánu jsou stále obestřeny mnoha záhadami."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vyrovnání společnosti Anthropic ukazuje, že si USA nemohou dovolit žaloby o autorských právech v oblasti AI",
-      "original_title": "Anthropic’s Settlement Shows the U.S. Can’t Afford AI Copyright Lawsuits - Lawfare",
-      "url": "https://www.lawfaremedia.org/article/anthropic-s-settlement-shows-the-u.s.-can-t-afford-ai-copyright-lawsuits",
-      "urlToImage": null,
-      "source": "Lawfaremedia.org",
-      "publishedAt": "2025-09-08T12:09:31Z",
-      "description": "Žalobci kvůli autorským právům vymáhají z firem zabývajících se umělou inteligencí obrovské sumy. To je špatné pro USA a skvělé pro Čínu. Je čas, aby prezident Trump použil Zákon o obranné výrobě a..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zbrusu nový snímek mezihvězdné komety 3I/ATLAS ukazuje, že je stále aktivnější a prodlužuje se, jak se blíží ke Slunci",
+      "title": "Zcela nový snímek mezihvězdné komety 3I/ATLAS ukazuje, že je stále aktivnější a prodlužuje se, jak se blíží ke Slunci",
       "original_title": "Brand new image of interstellar comet 3I/ATLAS shows it's becoming more active and getting longer as it approaches the Sun - BBC Sky at Night Magazine",
       "url": "https://www.skyatnightmagazine.com/news/3i-atlas-gemini-south",
       "urlToImage": "https://c02.purpledshub.com/uploads/sites/48/2025/09/3i-atlas-gemini-south-social.jpg?w=1200",
       "source": "Skyatnightmagazine.com",
       "publishedAt": "2025-09-08T10:33:48Z",
-      "description": "Snímky komety 3I/ATLAS z teleskopu Gemini South ukazují, jak jí roste ohon a je aktivnější při pohybu Sluneční soustavou."
+      "description": "Snímky komety 3I/ATLAS z teleskopu Gemini South ukazují, jak jí roste ohon a stává se aktivnější při pohybu Sluneční soustavou."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tichý zabiják zvyšuje riziko mrtvice a demence. Jak ho mít pod kontrolou.",
+      "title": "Tichý zabiják zvyšuje riziko mrtvice a demence. Jak ho kontrolovat.",
       "original_title": "The silent killer increases your risk of stroke and dementia. Here's how to control it - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/07/nx-s1-5532108/the-silent-killer-increases-your-risk-of-stroke-and-dementia-heres-how-to-control-it",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F40%2F2f4202db48768250aa3fa3a7312b%2Fgettyimages-1886165079.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-07T11:00:00Z",
-      "description": "Nové doporučení pro včasnou léčbu hypertenze předchází mrtvici, infarktu a demenci v době, kdy experimentální lék prokázal snížení krevního tlaku u obtížně léčitelných pacientů."
+      "description": "Nová doporučení pro včasnou léčbu hypertenze mají předcházet mrtvicím, infarktům a demenci. Současně experimentální lék snižuje tlak u obtížně léčitelných pacientů."
     }
   ]
 }
