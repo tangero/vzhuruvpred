@@ -1,10 +1,20 @@
 {
-  "updated": "2025-09-10T01:53:53.163356",
+  "updated": "2025-09-10T06:37:36.918436",
   "trends": [
     {
       "rank": 1,
+      "query": "počasí",
+      "news_title": "Počasí: Předpověď na víkend",
+      "news_url": "https://www.google.com/search?q=počasí&tbm=nws",
+      "picture": null,
+      "traffic": "20000++ hledání",
+      "source": null,
+      "explore_url": "https://trends.google.cz/trends/explore?q=počasí&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "jan nedbal",
-      "news_title": "Oskar Hes: Jan Nedbal byl můj mužský vzor, který mi chyběl",
+      "news_title": "Oskar Hes: Nedbal byl můj mužský vzor, který mi chyběl",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/jan-nedbal-oskar-hes-bydleni-kamaradi-show-7-padu-honzy-dedka.A250909_104439_lidicky_zar",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoX4dRLXCVaSharwz5nsHp4BoHd22nuVsV3USlqMHSV9AEyqzzLpsevgfUoWQ",
       "traffic": "1000++ hledání",
@@ -12,39 +22,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jan nedbal&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "lucie borhyová",
-      "news_title": "Lucie Borhyová vyzkoušela neobvyklou aktivitu: Hned jsem se zamilovala",
-      "news_url": "https://tn.nova.cz/zpravodajstvi/clanek/628588-lucie-borhyova-si-vyzkousela-neobvyklou-aktivitu-zamilovala-jsem-se-rika",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr5Nx9Zla9Vrt614fKyXFObyKRIkgCjOH6EfKOI7bbUVKXA-xeAqBeErVPzIk",
-      "traffic": "1000++ hledání",
-      "source": "TN.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=lucie borhyová&geo=CZ"
-    },
-    {
       "rank": 3,
-      "query": "ios 26",
-      "news_title": "Apple vydá iOS 18, iPadOS 18 a další aktualizace 15. září",
-      "news_url": "https://arstechnica.com/gadgets/2025/09/ios-26-ipados-26-macos-26-tahoe-and-apples-other-os-updates-launch-september-15/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFZ_CWbcQnExoekP5jrGqdYMdlaQwH6_rIEsmEwXld01RphwISmf2bmykT9Ps",
-      "traffic": "1000++ hledání",
-      "source": "Ars Technica",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ios 26&geo=CZ"
+      "query": "weather",
+      "news_title": "Podzimní deště a jejich vliv na naši mysl i tělo",
+      "news_url": "https://uk.style.yahoo.com/weather-change-summer-autum-winter-physical-mental-health-135312574.html",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdgNA2vkbPFo2W2wAA081nzm_PVE3Wv_gz3eVacD66f-MyVJlZcxp0Hou90Mg",
+      "traffic": "500++ hledání",
+      "source": "Yahoo Life UK",
+      "explore_url": "https://trends.google.cz/trends/explore?q=weather&geo=CZ"
     },
     {
       "rank": 4,
-      "query": "iphone 15 pro",
-      "news_title": "Průvodce koupí iPhonu, který právě teď potřebujete",
-      "news_url": "https://www.lifewire.com/which-iphone-to-buy-11805545",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf7hN8wRkYop4bRZrHfh6QYXEggnKBvQfRAOWT-0-Eae61KjuZlH9DrTQ_Dr0",
-      "traffic": "500++ hledání",
-      "source": "Lifewire",
-      "explore_url": "https://trends.google.cz/trends/explore?q=iphone 15 pro&geo=CZ"
-    },
-    {
-      "rank": 5,
       "query": "srbsko – anglie",
-      "news_title": "Anglie porazila Srbsko 5:0",
+      "news_title": "Anglie porazila Srbsko 5:0 pod vedením Tuchela",
       "news_url": "https://www.eurofotbal.cz/mistrovstvi-sveta-kvalifikace-2026/reportaz/srbsko-anglie-980451/",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwT7BRQ59cwQYykBiYuHj5afbMCru-hGiwNuV5PvpGGsXH0gZfG2X4I9N8YM",
       "traffic": "500++ hledání",
@@ -52,34 +42,44 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=srbsko – anglie&geo=CZ"
     },
     {
+      "rank": 5,
+      "query": "ekvádor – argentina",
+      "news_title": "Mastantuono debutoval v prohře Argentiny s Ekvádorem",
+      "news_url": "https://www.managingmadrid.com/real-madrid-cf-players/97855/mastantuono-featured-for-30-minutes-in-argentinas-1-0-defeat-to-ecuador",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7L06H-vGZhGyOXw68k5KyQWTVf6hqcuS9K1jx2fcE3kQp2BkizVRHIOeHDE",
+      "traffic": "200++ hledání",
+      "source": "Managing Madrid",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ekvádor – argentina&geo=CZ"
+    },
+    {
       "rank": 6,
-      "query": "apple watch 11",
-      "news_title": "Vše od Applu: iPhone 17 Air, AirPods Pro 3, Apple Watch S11 a další novinky",
-      "news_url": "https://www.cnbc.com/2025/09/09/live-updates-apple-event-iphone17-airpods-ios26.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlVI8hFU57ARNvMSu08X62NR78-0kVFT3o8T97g3qanhn9PI7rZCfEvquDT5M",
-      "traffic": "500++ hledání",
-      "source": "CNBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=apple watch 11&geo=CZ"
+      "query": "polsko",
+      "news_title": "Poláci poprvé sestřelili drony, zavřeli letiště",
+      "news_url": "https://www.seznamzpravy.cz/clanek/zahranicni-polsko-naridilo-pouzit-zbrane-proti-dronum-ktere-narusily-jeho-vzdusny-prostor-285699",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBW7JEkxjW4zydKtorjmV30uZJDsfAVfZVo79DKGOGTF43Ri6Cnru4dJenOOA",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=polsko&geo=CZ"
     },
     {
       "rank": 7,
-      "query": "apple stock",
-      "news_title": "Akcie Applu během Apple Event klesly o 0,5 % 📉",
-      "news_url": "https://www.xtb.com/en/market-analysis/apple-shares-down-0-5-during-the-apple-event",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOTYwZOy5cPGzw_IBYdMcmOo8PuzGl118HPFyToZ577wHD1j905TW6JQ5z268",
+      "query": "apple airpods pro 3",
+      "news_title": "AirPods Pro 3 změří tep a spočítají kalorie",
+      "news_url": "https://www.idnes.cz/technet/audio-foto-video/apple-airpods-pro-3-sluchatka.A250909_191556_audio-foto-video_nyv",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOitcpkDRQhTqidDJb2xQSzq8AnHqe6NKMkazI-A0UyBPMENBm9mml3tdfkew",
       "traffic": "200++ hledání",
-      "source": "XTB.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=apple stock&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=apple airpods pro 3&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "айфон 17",
-      "news_title": "Apple představila iPhone Air — nejtenčí smartphone v historii",
-      "news_url": "https://meduza.io/news/2025/09/09/apple-predstavila-iphone-17-air-samyy-tonkiy-smartfon-v-istorii-kompanii",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAyCSWqg8Tdrax4Bx1_da81JjJLgy3axXydEc7LR-hzzU8oPufW7vUp5mzb6Y",
-      "traffic": "200++ hledání",
-      "source": "Meduza",
-      "explore_url": "https://trends.google.cz/trends/explore?q=айфон 17&geo=CZ"
+      "query": "ewa farna",
+      "news_title": "Z Vojty Kotka ve Zrádcích se ženám podlamují kolena. Ozvala se i Ewa Farna.",
+      "news_url": "https://www.super.cz/clanek/celebrity-zenam-se-z-vojty-kotka-ve-zradcich-podlamuji-kolena-zatracene-sexy-chlap-vzkazuji-ke-snimkum-ozvala-se-i-ewa-farna-1517863",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT44RzrKrsbdsKVAMTHSNyJHxtvYgXpp8WtX9fWe77N-owBa16HWqGYtS0lqw",
+      "traffic": "100++ hledání",
+      "source": "Super.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ewa farna&geo=CZ"
     }
   ]
 }
