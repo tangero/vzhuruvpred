@@ -1,71 +1,115 @@
 {
-  "last_updated": "2025-09-11T14:18:02",
+  "last_updated": "2025-09-11T15:16:49",
   "articles": [
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Francii zachvátily protesty poté, co se úřadu ujal premiér Sébastien Lecornu",
+      "original_title": "France hit by protests as Prime Minister Sébastien Lecornu takes office - BBC",
+      "url": "https://www.bbc.com/news/articles/c8643qg252lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bcfa/live/007a2930-8e4c-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-10T12:01:20Z",
+      "description": "Lidové hnutí vyzývá k protestům proti politické třídě a navrhovaným rozpočtovým škrtům."
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Polsko sestřelilo ruské drony ve svém vzdušném prostoru při „bezprecedentní“ agresi",
-      "original_title": "Poland downs Russian drones in its airspace in 'unprecedented' aggression - ABC News",
-      "url": "https://abcnews.go.com/International/poland-airspace-repeatedly-violated-drone-type-objects-amid/story?id\\\\u003d125422386",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-10T12:11:15Z",
-      "description": ""
+      "title": "Trailer k filmu ‚The Rip‘: Matt Damon a Ben Affleck se spojili v Netflixovém krimithrilleru",
+      "original_title": "‘The Rip’ Trailer: Matt Damon and Ben Affleck Team Up in Netflix Cop Thriller - Variety",
+      "url": "https://variety.com/2025/film/news/the-rip-trailer-matt-damon-ben-affleck-netflix-1236512362/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/01/RIP_20241028_01742_R.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-10T12:00:00Z",
+      "description": "Sledujte trailer k novému krimithrilleru Netflixu ‚The Rip‘ s Mattem Damonem a Benem Affleckem"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "AirPods Pro 3 mají celkově kratší výdrž baterie než AirPods Pro 2 - 9to5Mac",
+      "original_title": "AirPods Pro 3 have less overall battery life than AirPods Pro 2 - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/10/airpods-pro-3-have-less-overall-battery-life-than-airpods-pro-2/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-10T11:44:00Z",
+      "description": "Nové AirPods Pro 3 mají lepší výdrž baterie než AirPods Pro 2 na jedno nabití, a to u sluchátek..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Klokani dostanou jako první na světě vakcínu proti smrtící chlamydióze",
+      "title": "Trump zuří na demokraty, starostka Charlotte vyhrála primárky po smrtícím útoku na vlak a další hlavní zprávy",
+      "original_title": "Trump blasts Democrats as Charlotte mayor wins primary following deadly train attack and more top headlines - Fox News",
+      "url": "https://www.foxnews.com/us/trump-blasts-democrats-charlotte-mayor-wins-primary-following-deadly-train-attack-more-top-headlines",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-joes-seafood.jpg",
+      "source": "Fox News",
+      "publishedAt": "2025-09-10T11:18:19Z",
+      "description": "Získejte každé ráno veškeré důležité zprávy od nejvlivnější zpravodajské značky doručené přímo do vaší e-mailové schránky."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Klokánci dostanou vakcínu proti smrtelné chlamydii. Jde o světový unikát.",
       "original_title": "Koalas to be vaccinated against deadly chlamydia in world first - CNN",
       "url": "https://www.cnn.com/2025/09/10/science/koala-chlamydia-vaccine-rollout-intl-scli",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/koala-pics-0009-3.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-10T11:03:00Z",
-      "description": "V Austrálii byl schválen světově první projekt na očkování proti chlamydiím u koal."
+      "description": "V Austrálii schválili očkování proti chlamydiím pro populaci koal, jde o světový unikát."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Spotify konečně spouští podporu pro bezztrátové streamování hudby",
+      "original_title": "Spotify is finally launching support for lossless music streaming - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1536251840-1-e1703256269550.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-10T11:00:00Z",
+      "description": "Spotify po letech konečně spouští bezztrátový streaming, který uživatelé požadovali."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Izrael po útoku na Hamás v Kataru oznámil, že bude útočit na nepřátele ‚všude‘",
-      "original_title": "Israel says it will target enemies ‘everywhere’ after attack on Hamas in Qatar - Financial Times",
-      "url": "https://www.ft.com/content/139c52ba-b935-4c89-b9b2-2cb4718f77cf",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8faa09c0-fa8c-4857-bdb5-dad0c1a5fb01.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-10T10:40:54Z",
-      "description": "Prezident SAE navštívil Dauhá na znamení solidarity po útoku na amerického spojence, který vyvolal vzácnou kritiku Trumpa"
+      "title": "Trump viní z charlottesvillské vraždy demokraty. Záznamy však příběh komplikují.",
+      "original_title": "Trump blames Democrats for Charlotte stabbing. Records complicate the story. - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/10/trump-charlotte-stabbing-politics/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KL5TU22WS7KRDJIBWUFUHI4B7I.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-10T10:32:01Z",
+      "description": "Případ prohloubil stranické rozdíly v názoru na neřešitelný kořen zločinu: jak zacházet s vážně duševně nemocnými, kteří představují riziko násilí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Aktualizace z Blízkého východu: EU kvůli Gaze pozastavuje platby Izraeli",
-      "original_title": "Middle East updates: EU suspends Israel payments over Gaza - DW",
-      "url": "https://www.dw.com/en/middle-east-updates-eu-suspends-israel-payments-over-gaza/live-73944579",
-      "urlToImage": "https://static.dw.com/image/73945507_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-09-10T10:29:46Z",
-      "description": "Šéfka Evropské komise von der Leyenová říká, že blok pozastavuje platby Izraeli a navrhuje sankce proti „extremistickým“ izraelským ministrům. Čína a Rusko odsoudily izraelský úder v Kataru. Více v..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jak se Larry Ellison stal druhým nejbohatším člověkem na světě",
-      "original_title": "How Larry Ellison Became the World’s Second-Richest Person - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-10/who-is-larry-ellison-and-how-did-he-become-the-world-s-second-richest-person",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK3KsHd5BPoU/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-10T10:05:17Z",
-      "description": "Larry Ellison opustil vysokou školu předtím, než spoluzaložil společnost, která vyrostla v jednu z největších technologických firem světa: Oracle Corp. Jmění, které nashromáždil, ho katapultovalo m..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Demokraté vítají odstávky vlády v Trumpovi 2.0",
+      "title": "Demokraté se v Trump 2.0 přiklánějí k zastavení vlády",
       "original_title": "Democrats embrace government shutdowns in Trump 2.0 - Axios",
       "url": "https://www.axios.com/2025/09/10/democrats-government-shutdown-trump-schumer",
       "urlToImage": "https://images.axios.com/cmVDQewV2A1ZE820zgpcwfKoz0w=/1366x768/smart/2023/03/30/013223-1680139943823.jpg",
       "source": "Axios",
       "publishedAt": "2025-09-10T09:30:09Z",
-      "description": "Tlak na demokraty, aby se postavili proti prezidentu Trumpovi, roste."
+      "description": "Na demokraty roste tlak, aby se postavili proti prezidentu Trumpovi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Izrael zasáhl vůdce Hamásu v Kataru: Co víme",
+      "original_title": "Israel attacks Hamas leadership in Qatar: What we know - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/9/israel-attacks-hamas-leadership-in-qatar-all-to-know",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-09-09T140544Z_1204065320_RC2DOGAM567G_RTRMADP_3_QATAR-SECURITY-1757428220.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-10T09:08:18Z",
+      "description": "V katarském hlavním městě Dauhá bylo slyšet několik explozí při útoku na představitele Hamásu včetně Chalíla al-Hajjá."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tyto nově objevené hlubinné ryby z čeledi terčovkovitých se staly naší nejnovější posedlostí",
+      "original_title": "These Newly Discovered Deep-Sea Snailfish Just Became Our Latest Obsession - Gizmodo",
+      "url": "https://gizmodo.com/these-newly-discovered-deep-sea-snailfish-just-became-our-newest-obsession-2000656455",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/mbari-bumpy-snailfish-pink-and-round-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-09-10T09:01:08Z",
+      "description": "Vědci objevili tyto zvláštní drobné tvory plavající v hlubinách moře u Kalifornie."
     },
     {
       "flag": "🌍",
@@ -76,7 +120,7 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3687x2074+0+384/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F64%2Fe496fd4440cc8e2173f981d140a2%2Fgettyimages-813860486.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-10T09:01:00Z",
-      "description": "Jeho pozice v čele News Corp. a Foxu je nyní zajištěna, poté co jeho otec ukončil dramatický boj o nástupnictví. Lachlan vyrostl v New Yorku, ale větší část dospělého života prožil v Austrálii."
+      "description": "Jeho pozice ve vedení News Corp. a Foxu je nyní zabezpečena, poté co jeho otec ukončil dramatický nástupnický boj. Lachlan vyrostl v New Yorku, ale větší část dospělého života prožil v Austrálii."
     },
     {
       "flag": "🌍",
@@ -92,35 +136,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "„The Bachelorette“ se vrací s hvězdou „Tajné životy mormonských manželek“ Taylor Frankie Paul v čele 22. řady, zatímco ABC odstavuje „The Bachelor“",
+      "title": "The Bachelorette se vrací, 22. řadu povede Taylor Frankie Paul z Mormon Wives, ABC parkuje The Bachelor",
       "original_title": "‘The Bachelorette’ Returns With ‘Secret Lives Of Mormon Wives’ Star Taylor Frankie Paul Leading Season 22 As ABC Parks ‘The Bachelor’ - Deadline",
       "url": "http://deadline.com/2025/09/the-bachelorette-season-22-taylor-frankie-paul-mormon-wives-1236519246/",
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Untitled-design-2025-09-09T180115.348.png?w=1000",
       "source": "Deadline",
       "publishedAt": "2025-09-10T09:00:00Z",
       "description": "Hvězda seriálu Tajné životy mormonských manželek Taylor Frankie Paul povede 22. řadu show The Bachelorette na ABC"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ve Francii zatkli 200 lidí při střetech demonstrantů s policií během Macronova jmenování nového premiéra",
-      "original_title": "200 arrested in France as protesters clash with police while Macron installs a new PM - AP News",
-      "url": "https://apnews.com/article/france-macron-protests-police-block-everything-208295b789e06106f408acf56148b6c6",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5cd98dd/2147483647/strip/true/crop/3881x2183+0+60/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2Fb0%2Fc27a5257cb0c9e8d43642ad75fd4%2Fef390279801341448643fe3523f467e5",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-10T08:54:00Z",
-      "description": "Demonstranti v Paříži a po celé Francii blokovali silnice a zakládali požáry, při střetech s policií se snažili vyvinout tlak na prezidenta Emmanuela Macrona. Protesty ve středu jsou výzvou pro Mac..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump navrhuje nová cla na Čínu a Indii, aby vytlačil Rusko",
-      "original_title": "Trump Floats New Tariffs on China, India to Squeeze Russia - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-09/trump-floats-massive-tariffs-on-china-india-to-pressure-russia",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSHYpAQAYoa4/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-10T07:47:23Z",
-      "description": "Prezident Donald Trump řekl evropským představitelům, že je ochoten uvalit na Indii a Čínu rozsáhlá nová cla, aby přiměl prezidenta Vladimira Putina k jednacímu stolu s Ukrajinou — ale pouze pokud ..."
     },
     {
       "flag": "🇺🇸",
@@ -131,122 +153,89 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLKZGGH7D5FIND77ATBHOKVJLY.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-10T06:35:37Z",
-      "description": "Izraelsko-ruská občanka Elizabeth Tsurkovová byla unesena v roce 2023 v Iráku milicí podporovanou Íránem a Trump uvedl, že byla převezena na americké velvyslanectví."
+      "description": "Izraelsko-ruská občanka Elizabeth Tsurkovová byla v roce 2023 unesena v Iráku milicí podporovanou Íránem a Trump uvedl, že byla přemístěna na americkou ambasádu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Obezita u dětí předstihla podvýživu — UNICEF",
+      "title": "Armáda se v Nepálu snaží obnovit pořádek po eskalaci násilí při protestech",
+      "original_title": "Army tries to restore order in Nepal after protest violence intensifies - Politico",
+      "url": "https://www.politico.com/news/2025/09/10/army-tries-to-restore-order-in-nepal-after-protest-violence-intensifies-00554969",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb8%2F90%2F8b9fa45847bf9392a90e9b141631%2Faptopix-nepal-protest-24434.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-10T05:35:00Z",
+      "description": "Vláda zapálila budovy a napadla politiky."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Obezita u dětí předstihla podvýživu – UNICEF",
       "original_title": "Obesity surpasses undernourishment among children — UNICEF - DW",
       "url": "https://www.dw.com/en/obesity-surpasses-undernourishment-among-children-unicef/a-73941877",
       "urlToImage": "https://static.dw.com/image/59169246_6.jpg",
       "source": "DW (English)",
       "publishedAt": "2025-09-10T04:38:32Z",
-      "description": "Poprvé je na světě více obézních dětí než podvyživených – výjimkou je subsaharská Afrika a jižní Asie."
+      "description": "Poprvé je na světě více obézních než podvyživených dětí – s výjimkou subsaharské Afriky a jižní Asie."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump varuje tisíce farmaceutických firem před „klamavými reklamami“",
-      "original_title": "Trump warns thousands of pharma companies over \"deceptive ads\" - Axios",
-      "url": "https://www.axios.com/2025/09/10/trump-deceptive-pharma-ads-fda-letters",
-      "urlToImage": "https://images.axios.com/13GJMUIBIcqomqBnfRqVLuA_70M=/0x0:2793x1571/1366x768/2025/09/10/1757466078511.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-10T03:27:23Z",
-      "description": "FDA rozesílá 100 výzev k ukončení nekalých praktik a varuje tisíce dalších kvůli „klamavým“ reklamám."
+      "title": "Starostka Bostonu Michelle Wuová a její vyzyvatel Josh Kraft postupují do všeobecných voleb",
+      "original_title": "Boston Mayor Michelle Wu and challenger Josh Kraft advance to one-on-one general election - NBC News",
+      "url": "https://www.nbcnews.com/politics/elections/boston-mayor-michelle-wu-challenger-josh-kraft-advance-one-one-general-rcna229806",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250908-michelle-wu-vl-433p-5d1f63.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-10T00:22:00Z",
+      "description": "Starostka Bostonu Michelle Wuová a její vyzyvatel Josh Kraft postoupili do listopadových voleb poté, co získali nejvíce hlasů v úterním primárním klání, uvádí NBC News."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "První den operace Midway Blitz v Chicagu: strach, napětí a ‚reality show‘",
+      "original_title": "On Chicago's first full day of 'Operation Midway Blitz,' fear, tension and a 'reality show' - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/immigration/2025/09/09/operation-midway-blitz-deportation-campaign-chicago-donald-trump-gregory-bovino",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/682f6e0/2147483647/strip/true/crop/7425x4239+0+357/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F76%2Fda%2F44a31835446883afd6a90715b16d%2Fdayone-091025-014.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-09-09T23:56:00Z",
+      "description": "V den plný úzkosti v Chicagu se mezi tamní latinskou komunitou objevovaly zprávy o ojedinělých zatčeních. Stovky federálních agentů se přesunuly do města a mnoho obyvatel se raději drží doma."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Přímý přenos z akce Apple: představeny iPhone 17, iPhone Air, AirPods Pro 3 a nové nositelné zařízení",
-      "original_title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
-      "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f1d469c721e25a192a169f6d3f22eaa3f15c2a02/2025/09/09/80954138-b402-4af5-ba58-786eeb0fb785/17pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-09-10T01:37:00Z",
-      "description": "ZDNET přináší všechny novinky kolem týdenní akce Applu včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Series 11, AirPods Pro 3 a dalších"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple dává uživatelům iPhone 14 a 15 další rok satelitních funkcí zdarma",
+      "title": "Apple daruje uživatelům iPhone 14 a 15 další rok satelitních funkcí zdarma",
       "original_title": "Apple is giving iPhone 14 and 15 users another free year of satellite features - The Verge",
       "url": "https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_4174.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-09T23:38:46Z",
-      "description": "Uživatelé iPhonu 14 a 15 získávají podle tiskových zpráv k iPhonu 17 od Applu další rok bezplatného přístupu k satelitním funkcím."
+      "description": "Uživatelé iPhonu 14 a 15 získávají další rok zdarma k satelitním funkcím, uvádí Apple v tiskové zprávě k iPhonu 17."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "3 věci, které byste měli vědět o zprávě RFK Jr. o zdraví dětí v MAHA",
-      "original_title": "3 things to know about RFK Jr.’s MAHA report on children’s health - PBS",
-      "url": "https://www.pbs.org/newshour/health/3-things-to-know-about-rfk-jr-s-maha-report-on-childrens-health",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-23T195509Z_408350304_RC2J8FAY0E7I_RTRMADP_3_HEALTH-USA-MEDICARE-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-09T23:10:46Z",
-      "description": "Od potvrzení Senátem v únoru Kennedy propaguje koncept a využití toho, co nazývá „zlatý standard vědy“"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zásah proti imigrantům v Chicagu začíná třemi zatčeními: ICE",
-      "original_title": "Chicago immigration enforcement surge begins with 3 arrests: ICE - ABC News",
-      "url": "https://abcnews.go.com/US/chicago-immigration-enforcement-surge-begins-3-arrests-ice/story?id\\\\u003d125416779",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-09T22:56:01Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„Jen vraždy v budově“ mají v páté řadě mnoho na srdci",
+      "title": "„Jen vraždy v budově“ mají v páté řadě hodně na práci",
       "original_title": "‘Only Murders in the Building’ Has a Lot on Its Mind as Season 5 Opens - The Hollywood Reporter",
       "url": "http://www.hollywoodreporter.com/tv/tv-features/only-murders-in-the-building-eason-5-premiere-explained-1236366391/",
       "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/176644_0678R-H-2025.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
       "publishedAt": "2025-09-09T21:43:19Z",
-      "description": "Samozřejmě je tu další smrt k prošetření, ale komedie od Hulu také rozšiřuje pohled na proměňující se New York."
+      "description": "Je tu další úmrtí k prošetření, samozřejmě, ale komedie od Hulu také rozšiřuje svůj záběr na proměňující se New York."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Astronomové objevili opakující se gama záblesk ‚jako nic, co jsme kdy předtím viděli‘ (video)",
-      "original_title": "Astronomers discover repeating gamma-ray burst 'unlike anything we have ever witnessed before' (video) - Space",
-      "url": "https://www.space.com/astronomy/astronomers-discover-repeating-gamma-ray-burst-unlike-anything-we-have-ever-witnessed-before-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gEbdwhGGDuUNezYKEDLbRE.png",
-      "source": "Space.com",
-      "publishedAt": "2025-09-09T21:00:00Z",
-      "description": "Jestli je toto masivní hvězda, pak jde o kolaps, jaký jsme ještě nikdy předtím neviděli."
+      "title": "Dostanete letos na podzim vakcínu proti covidu? Záleží na jednom absurdním faktoru.",
+      "original_title": "Will You Be Able to Get a COVID Vaccine This Fall? That Depends on One Absurd Factor. - Slate",
+      "url": "https://slate.com/technology/2025/09/covid-vaccine-flu-shots-2025-florida-new-york-robert-f-kennedy-jr.html",
+      "urlToImage": "https://compote.slate.com/images/18072e4c-66ca-4cb9-985d-0f0c225eb140.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "source": "Slate Magazine",
+      "publishedAt": "2025-09-09T18:38:00Z",
+      "description": "A mohly by to být roky, než uvidíme tyto strašné následky."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Po počátečních potížích je ambiciózní mise NASA na Titan ve správném směru ke startu",
-      "original_title": "After early struggles, NASA’s ambitious mission to Titan is “on track” for launch - Ars Technica",
-      "url": "https://arstechnica.com/space/2025/09/after-early-struggles-nasas-ambitious-mission-to-titan-is-on-track-for-launch/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/WindTunnelSetup-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-09T20:29:08Z",
-      "description": "„Nejlepší částí mého dne je pravděpodobně sledovat, jak tým dosahuje svých milníků.“"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Manželka Bruce Willise o jeho přestěhování do druhého domu kvůli péči o demenci: ‚Musíte dělat to, co je správné‘",
-      "original_title": "Bruce Willis’s wife on moving him to a second home for dementia care: ‘You have to do what’s right’ - MarketWatch",
-      "url": "https://www.marketwatch.com/story/emma-heming-willis-on-moving-husband-bruce-willis-into-a-second-home-for-dementia-care-i-know-it-raises-eyebrowsyou-have-to-do-whats-right-3ffe931a",
-      "urlToImage": "https://images.mktw.net/im-75772205/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-09T20:25:00Z",
-      "description": "Na křtu knihy s Andersonem Cooperem autor hovoří o ‚Nečekané cestě‘"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Planeta podobná Zemi, která může obsahovat vodu, je zkoumána Webbovým teleskopem NASA",
+      "title": "Planeta podobná Zemi, která může obsahovat vodu, zkoumána Webbovým teleskopem NASA",
       "original_title": "Earth-like planet that may contain water studied by NASA's Webb telescope - CBS News",
       "url": "https://www.cbsnews.com/news/nasa-webb-telescope-trappist-1-exoplanet/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/09/d4b023e5-020e-4cbc-8a4f-cdfcd3af015f/thumbnail/1200x630/a880fd3ddeaaa1353a678dc72c9c703b/stsci-01k1v61d55hjv2956snsen15gn.jpg",
@@ -257,46 +246,35 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jak získat vakcínu proti koronaviru a kdo na ni má nárok při omezeném přístupu",
-      "original_title": "How to get a coronavirus vaccine and who’s eligible amid limited access - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/09/09/covid-vaccine-without-prescription-cdc/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4GP7WL5CEDZ7T4E3C3DUWBMOU_size-normalized.jpg&w=1440",
+      "title": "Propásli jste víkendové zatmění? Tady jsou termíny těch příštích.",
+      "original_title": "Missed this weekend’s eclipse? Here’s when the next ones are. - The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2025/09/09/next-lunar-solar-eclipse-when-to-view/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OO432Y3GNITQH6DAHYBT2NDW64_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-09-09T17:00:47Z",
-      "description": "Co dělat, když se snažíte získat aktualizovanou vakcínu proti covidu: průvodce lékárnami, lékaři, pojišťovnami a úřady"
+      "publishedAt": "2025-09-09T17:00:57Z",
+      "description": "V příštích letech bude z různých míst světa možné pozorovat několik úplných zatmění Měsíce a Slunce. Možná ale budete muset cestovat."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sudy u pobřeží LA mají po vylití obsahu strašidelná „duchová“ svatozáře. Co sakra bylo v těch sudech?",
-      "original_title": "Barrels Dumped Off LA Coast Have Developed Ghostly “Halos” – What The Hell Was In Those Barrels? - IFLScience",
-      "url": "https://www.iflscience.com/strange-halos-have-formed-around-barrels-of-chemicals-dumped-off-las-coast-over-50-years-ago-80743",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/80743/aImg/86311/barrel-mystery-los-angeles-meta.png",
-      "source": "IFLScience",
-      "publishedAt": "2025-09-09T16:26:10Z",
-      "description": "Mysleli jsme, že je to DDT. Mýlili jsme se."
+      "title": "NASA zítra odhalí nový objev roveru Perseverance na Marsu: Jak sledovat živě",
+      "original_title": "NASA to reveal new Perseverance Mars rover discovery tomorrow: How to watch live - Space",
+      "url": "https://www.space.com/space-exploration/mars-rovers/nasa-to-reveal-new-perseverance-mars-rover-discovery-tomorrow-how-to-watch-live",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FCoffvZLSFvvTtHHd58dsA.png",
+      "source": "Space.com",
+      "publishedAt": "2025-09-09T16:26:29Z",
+      "description": "Jedná se o vzorek zvaný Sapphire Canyon, který byl dříve popsán jako „tajemný“."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Smrtelná nemoc z 'líbacího brouka' se stává v USA endemickou, varuje CDC - FOX 5 DC",
-      "original_title": "Deadly 'kissing bug' disease becoming endemic in the US: CDC - FOX 5 DC",
-      "url": "https://www.fox5dc.com/news/deadly-kissing-bug-disease-becoming-endemic-us",
-      "urlToImage": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2025/09/1280/720/gettyimages-2214281234.jpg?ve=1&tl=1",
-      "source": "FOX 5 DC",
-      "publishedAt": "2025-09-09T15:01:36Z",
-      "description": "Chagasova choroba, známá také jako nemoc z líbání, se šíří po Spojených státech a někteří výzkumníci se domnívají, že by nyní měla být klasifikována jako endemická."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Aktualizace časového harmonogramu pro příští redesign MacBooku Pro s OLED",
-      "original_title": "Next year’s MacBook Pro redesign with OLED gets timeline update - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/09/next-years-macbook-pro-redesign-with-oled-gets-timeline-update/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/m4-macbook-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-09T14:55:00Z",
-      "description": "Příští rok prý Apple chystá přepracovaný MacBook Pro s OLED displejem a právě jsme dostali novou aktualizaci časového harmonogramu"
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "CDC zveřejňuje podrobnosti o Chagasově chorobě, nově se objevujícím onemocnění, které přenášejí krev sající zákeřnice",
+      "original_title": "CDC releases details on Chagas, an emerging disease that’s spread by blood-sucking ‘kissing bugs’ - WSMV",
+      "url": "https://www.wsmv.com/2025/09/09/cdc-releases-details-chagas-an-emerging-disease-thats-spread-by-blood-sucking-kissing-bugs/",
+      "urlToImage": "https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/I3IO5OFW4ZBNFJBZ2GNX3NIZVE.jpg?auth=e359400da0bdbc81a0f2f28f569c2aede83ce73071bb75fdcb75cacbfcdebd54&width=1200&height=600&smart=true",
+      "source": "WSMV Nashville",
+      "publishedAt": "2025-09-09T15:10:00Z",
+      "description": "Chagasova choroba je endemická v 21 zemích Ameriky a její přenašeč byl identifikován na Středozápadě a jihu USA."
     }
   ]
 }
