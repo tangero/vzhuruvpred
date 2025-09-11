@@ -1,32 +1,109 @@
 {
-  "last_updated": "2025-09-11T20:16:59",
+  "last_updated": "2025-09-11T21:14:59",
   "articles": [
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Larry Ellison předstihl Elona Muska jako nejbohatší člověk světa",
-      "original_title": "Larry Ellison tops Elon Musk as world's richest person - BBC",
-      "url": "https://www.bbc.com/news/articles/cx2rp992y88o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/398b/live/d9604380-8e5e-11f0-96e7-475804d250b1.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-10T17:33:51Z",
-      "description": "Jmění spoluzakladatele Oracle překonalo Muskův majetek díky rozmachu umělé inteligence."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Střelba na střední škole Evergreen v Coloradu zranila tři studenty; záchranáři „nejsou jisti počtem střelců“",
+      "original_title": "Shooting at Evergreen High School in Colorado leaves 3 students hurt; first responders \"not certain how many shooters\" - CBS News",
+      "url": "https://www.cbsnews.com/colorado/news/shooting-evergreen-high-school-denver-metro-area/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/1a9e3f5a-273f-428f-81b4-19f57a352522/thumbnail/1200x630/66ae8926b3eb7d20363f38091ea5f6b5/shooting1.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-10T20:14:52Z",
+      "description": "Šerif Jefferson County uvádí, že „není jisté, kolik střelců“ stojí za střelbou na škole, která kriticky zranila tři studenty v Evergreenu."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Princ Harry se setkal s králem Karlem poprvé po více než roce",
-      "original_title": "Prince Harry meets King Charles for first time in over a year - BBC",
-      "url": "https://www.bbc.com/news/articles/cly14jq42djo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6c64/live/a5dbef90-8e69-11f0-84c8-99de564f0440.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-10T17:25:25Z",
-      "description": "Od února 2024 se otec se synem neviděli tváří v tvář."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "NASA objevila ‚nejjasnější známku života, jakou jsme kdy na Marsu našli‘",
+      "original_title": "NASA discovers ‘clearest sign of life that we’ve ever found on Mars’ - The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2025/09/10/life-on-mars-rocks-mudstones-rover/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6TWASNYP5HSXOZLICJXYBY7BU.webp&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-10T19:32:05Z",
+      "description": "Podrobná analýza snímků skvrnitých hornin, které našlo vozítko Perseverance od NASA, odhalila potenciální biosignaturu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bývalí špičkoví úředníci FBI žalují, podle nich je Kash Patel propustil, aby si udržel Trumpovu přízeň",
+      "title": "Musk přichází o korunu nejbohatšího člověka světa. V novém žebříčku Bloombergu ho překonal zakladatel softwarového gigantu Larry Ellison",
+      "original_title": "Musk loses crown as world's richest to software giant Larry Ellison in new Bloomberg ranking - AP News",
+      "url": "https://apnews.com/article/richest-billionaires-musk-ellison-oracle-tesla-bloomberg-forbes-e90a3cab2a0b256923ca55814893f9fe",
+      "urlToImage": "https://dims.apnews.com/dims4/default/32cc3d5/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F96%2F1c5bb1ad138a003af8e9977d3e1b%2F3d6ff039aa4f4387a4ea8f89328ed5b1",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-10T19:07:00Z",
+      "description": "Spoluzakladatel Oracle Larry Ellison vyrval titul nejbohatšího muže planety dlouholetému držiteli Elonu Muskovi"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump se vyjadřuje k ruskému narušení NATO dronem, ale neodsuzuje ho",
+      "original_title": "Trump Weighs In on Russian Drone NATO Incursion, but Doesn’t Condemn It - The Wall Street Journal",
+      "url": "https://www.wsj.com/politics/national-security/here-we-go-trump-weighs-in-on-russian-drone-nato-incursion-24f1dba1",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-10T19:06:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple k AirPods Pro 3 nepřibalí nabíjecí kabel",
+      "original_title": "Apple isn’t packing a charging cable in with the AirPods Pro 3 - The Verge",
+      "url": "https://www.theverge.com/news/775981/apple-airpods-pro-3-no-charging-cable-in-box",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/lcimg-153b8c35-2637-417f-9f95-a7d1399d2c27.jpeg?quality=90&strip=all&crop=0%2C10.597538331207%2C100%2C78.804923337586&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-10T18:18:45Z",
+      "description": "AirPods Pro 3 nebudou mít v krabici nabíjecí kabel, takže si budete muset pořídit jiný nebo použít bezdrátovou nabíječku."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kdo další se objevil v knize k padesátým narozeninám Jeffreyho Epsteina?",
+      "original_title": "Who else appears in Jeffrey Epstein’s 50th birthday book? - PBS",
+      "url": "https://www.pbs.org/newshour/nation/who-else-appears-in-jeffrey-epsteins-50th-birthday-book",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/07/GettyImages-587969572-1024x705.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-10T18:12:59Z",
+      "description": "Zprávy byly sestaveny v roce 2003 a obsahují přání od Epsteinových příbuzných, podnikatelů a vědců."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nemoc z líbání na vzestupu v USA",
+      "original_title": "'Kissing bug' disease on the rise in U.S. - TribLIVE.com",
+      "url": "https://triblive.com/local/regional/kissing-bug-disease-on-the-rise-in-u-s/",
+      "urlToImage": "https://assets-varnish.triblive.com/2025/09/8850858_web1_bugs-repeat-079ad834-6777-11e9-82ba-fcfeff232e8f.jpg",
+      "source": "TribLIVE",
+      "publishedAt": "2025-09-10T18:00:00Z",
+      "description": "Smrtelná choroba známá jako „kissing bug“ je nyní v USA endemická, uvádí CDC."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Harrisovová označila odložení rozhodnutí o kandidatuře na Bidena za ‚lehkomyslnost‘",
+      "original_title": "Harris says it was ‘recklessness’ to defer to Bidens on reelection decision - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/10/kamala-harris-book-joe-biden-reelection-decision/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DK2LXTFAQ3Y7HXNTT4AF6E3R3A.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-10T17:45:18Z",
+      "description": "Ve své chystané memoárové knize Harrisová také píše o tom, že se necítila podporována týmem prezidenta Joea Bidena, který ji prý „jen zřídka“ bránil."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kanada po útoku v Kataru přehodnocuje vztahy s Izraelem, oznámila ministryně zahraničí",
+      "original_title": "Canada is evaluating ties with Israel after Qatar attack: Foreign minister - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/10/canada-is-evaluating-ties-with-israel-after-qatar-attack-foreign-minister",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-08-19T124528Z_2107901347_RC2CAGAU19LM_RTRMADP_3_NORDICS-SECURITY-1757524614.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-10T17:19:37Z",
+      "description": "Země dříve uvedla, že tento měsíc uzná palestinský stát."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bývalí vysokí představitelé FBI podali žalobu, podle které je Kash Patel propustil, aby si udržel Trumpovu přízeň",
       "original_title": "Former top FBI officials sue, say Kash Patel fired them to stay in Trump's good graces - NBC News",
       "url": "https://www.nbcnews.com/politics/justice-department/former-top-fbi-officials-sue-say-kash-patel-fired-stay-trumps-good-gra-rcna230369",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250804-Kash-Patel-aa-416-76b20b.jpg",
@@ -37,112 +114,112 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Spotify se zlobí, že 10 000 uživatelů prodalo svá data pro vývoj AI nástrojů",
+      "title": "Spotify se zlobí, že si 10 000 uživatelů prodalo data pro vývoj AI nástrojů",
       "original_title": "Spotify peeved after 10,000 users sold data to build AI tools - Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2025/09/spotify-peeved-after-10000-users-sold-data-to-build-ai-tools/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/spotify-data-mining-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-10T16:23:25Z",
-      "description": "Spotify poslal varování, aby přestali s prodejem dat, ale vývojáři tvrdí, že ho nikdy nedostali."
+      "description": "Spotify varoval před prodejem dat, ale vývojáři tvrdí, že varování nedostali."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Johnson podporuje virginský větrný projekt, čímž se rozešel s Trumpem",
-      "original_title": "Johnson backs Virginia wind project in break with Trump - Politico",
-      "url": "https://www.politico.com/live-updates/2025/09/10/congress/johnson-backs-virginia-wind-project-in-break-with-trump-cw-00554569",
-      "urlToImage": "https://www.politico.com/dims4/default/e087419/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F81%2F1e%2F91e410444161921fdd8501c66b1c%2Fu-s-congress-29112.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-10T16:09:03Z",
-      "description": "Předseda Sněmovny reprezentantů Mike Johnson uvedl, že mluvil s členy kabinetu na podporu téměř dokončeného projektu offshore větrné elektrárny."
+      "title": "Canelo Alvarez vs. Terence Crawford: Karta zápasů, začátek, kde sledovat",
+      "original_title": "Canelo Alvarez vs Terence Crawford: Fight card, start time, where to watch - Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2025/9/10/canelo-alvarez-vs-terence-crawford-fight-card-start-time-where-to-watch",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-06-20T191657Z_93966840_UP1EL6K1HK8DS_RTRMADP_3_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD-1757220415.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-10T15:56:15Z",
+      "description": "Vše, co potřebujete vědět o sjednocujícím blokovém zápase o titul superstřední váhy"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Redoxem řízené minerální a organické asociace v kráteru Jezero na Marsu",
-      "original_title": "Redox-driven mineral and organic associations in Jezero Crater, Mars - Nature",
-      "url": "https://www.nature.com/articles/s41586-025-09413-0",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09413-0/MediaObjects/41586_2025_9413_Fig1_HTML.png",
-      "source": "Nature.com",
-      "publishedAt": "2025-09-10T15:49:45Z",
-      "description": "Geologický, petrografický a geochemický průzkum výrazných výskytů mudstonů a konglomerátů formace Bright Angel na Marsu odhaluje textury, chemické a minerální charakteristiky a organické signatury,..."
+      "title": "Charlotte: Trump požaduje pro podezřelého z útoku nožem v lehké železnici trest smrti",
+      "original_title": "Charlotte light rail stabbing: Trump demands death penalty for suspect - ABC News",
+      "url": "https://abcnews.go.com/US/charlotte-light-rail-stabbing-trump-demands-death-penalty/story?id\\\\u003d125436079",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-10T15:36:08Z",
+      "description": ""
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Kamala Harrisová: Kandidatura Joea Bidena na znovuzvolení byla ‚bezohledná‘",
-      "original_title": "Kamala Harris: Joe Biden's re-election bid was 'recklessness' - BBC",
-      "url": "https://www.bbc.com/news/articles/cq5jgg1491do",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5d02/live/5a411f60-8e5f-11f0-96e7-475804d250b1.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-10T15:48:57Z",
-      "description": "Ve své chystané paměti 107 dní exporadkyně prezidenta uvedla, že bylo nezodpovědné nechat Bidena rozhodnout o kandidatuře sám."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Klarna vstupuje na burzu: Akcie při debutu na trhu posílily o 15 %",
+      "original_title": "Klarna IPO: Stock Climbs 15% in Trading Debut - Barron's",
+      "url": "https://www.barrons.com/articles/klarna-ipo-stock-price-ticker-75e2512e",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-09-10T15:33:45Z",
+      "description": ""
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Unikly rendery Samsung Galaxy S26 Pro s podobným designem a větším displejem - 9to5Google",
+      "title": "Unikly rendery Samsungu Galaxy S26 Pro: známý design a větší displej - 9to5Google",
       "original_title": "Samsung Galaxy S26 Pro renders leak with familiar design and a bigger display - 9to5Google",
       "url": "http://9to5google.com/2025/09/10/samsung-galaxy-s26-pro-renders-leak-with-familiar-design-and-a-bigger-display/",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/S25-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
       "publishedAt": "2025-09-10T15:20:00Z",
-      "description": "Galaxy S26 Pro má převzít pozici entry-level modelu od Samsungu, ale kromě názvu a větší obrazovky vypadá docela povědomě."
+      "description": "Galaxy S26 Pro má převzít roli základního modelu Samsungu, ale kromě názvu a větší obrazovky je to pořád docela známé"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Detektor gravitačních vln potvrzuje teorie Einsteina a Hawkinga: ‚Toto je dosud nejjasnější pohled na podstatu černých děr‘",
+      "title": "Detektor gravitačních vln potvrzuje teorie Einsteina a Hawkinga: 'Toto je dosud nejjasnější pohled na podstatu černých děr",
       "original_title": "Gravitational wave detector confirms theories of Einstein and Hawking: 'This is the clearest view yet of the nature of black holes' - Space",
       "url": "https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/vjACz8ynv7vJdtiTiiXKST.png",
       "source": "Space.com",
       "publishedAt": "2025-09-10T15:00:00Z",
-      "description": "GW250114 je dosud nejhlasitější zaznamenaná událost gravitačních vln; bylo to, jako když šepot přejde v křik."
+      "description": "GW250114 je dosud nejhlasitější zaznamenanou událostí gravitačních vln; bylo to, jako když šepot přejde v křik."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejnovější Bacheloretka je hvězdou pořadu „Tajné životy mormonských manželek“ Taylor Frankie Paul",
+      "title": "Nejnovější Bacheloretka je hvězda pořadu „Tajné životy mormonských manželek“ Taylor Frankie Paul",
       "original_title": "The newest Bachelorette is ‘Secret Lives of Mormon Wives’ star Taylor Frankie Paul - AP News",
       "url": "https://apnews.com/article/taylor-frankie-paul-bachelorette-mormon-wives-d12764245f35ef4c690ad0c497853a40",
       "urlToImage": "https://dims.apnews.com/dims4/default/6c116c3/2147483647/strip/true/crop/2766x1556+0+144/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2F43%2Fac73850d61189efec64c6f4d09c5%2F64a91dec8cd64fa7893203b47d04f86a",
       "source": "Associated Press",
       "publishedAt": "2025-09-10T14:45:00Z",
-      "description": "Ve městě je nová Bacheloretka a my jsme ji už znali. Hvězda pořadu „Tajné životy mormonských manželek“ Taylor Frankie Paul bude hlavní hvězdou 22. řady show „The Bachelorette“. Novinku oznámila ve ..."
+      "description": "Ve městě je nová Bacheloretka a my jsme ji už potkali. Hvězda pořadu „Tajné životy mormonských manželek“ Taylor Frankie Paul bude hlavní hvězdou 22. řady „The Bachelorette“. Novinku oznámila ve stř..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Manželka Bruce Willise si myslela, že za prvními příznaky demence může 'Smrtonosná past",
+      "title": "Manželka Bruce Willise Emmy připisovala první příznaky demence filmu 'Die Hard",
       "original_title": "Bruce Willis’ Wife Emma Thought ‘Die Hard’ Was to Blame for Early Dementia Signs - yahoo.com",
       "url": "https://www.tvinsider.com/1214250/bruce-willis-wife-emma-die-hard-dementia/",
       "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2025/09/bruce-willis-emma-heming-willis-1014x570.jpg",
       "source": "TVInsider",
       "publishedAt": "2025-09-10T14:23:02Z",
-      "description": "Při natáčení akční klasiky ji napadlo předvést scénu se zbraní, po které ztratil sluch."
+      "description": "Při natáčení akční klasiky ji přehnaný kaskadérský kousek se zbraní připravil o sluch."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trumpovi nevadí, když jeho převzetí moci nad policií v DC skončí, uvádějí úředníci Bílého domu",
+      "title": "Trumpovi nevadí, že jeho převzetí kontroly nad policií v DC skončí, uvádějí představitelé Bílého domu",
       "original_title": "Trump is fine with letting his DC police takeover lapse, White House officials say - CNN",
       "url": "https://www.cnn.com/2025/09/10/politics/dc-police-takeover-end-trump-bowser",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-08-20t175820z-1974413930-rc21bgadarem-rtrmadp-3-usa-trump-crime.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-10T14:22:00Z",
-      "description": "Bílý dům CNN: Trumpovi nevadí, že v pátek skončí jeho 30denní převzetí policie hlavního města"
+      "description": "Bílý dům: Trump nemá problém s tím, aby v pátek skončila jeho 30denní kontrola nad policejním sborem Washingtonu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Termíny vydání hry ‘Borderlands 4’ a časy globálního spuštění",
-      "original_title": "The ‘Borderlands 4’ Release Dates And Global Launch Times - Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2025/09/10/the-borderlands-4-release-dates-and-global-launch-times/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bee03cc51586818364a156/0x0.jpg?format=jpg&crop=747,420,x581,y214,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-09-10T14:08:12Z",
-      "description": "Zde jsou datumy a časy vydání hry Borderlands 4 pro váš region, abyste si mohli naplánovat hraní ještě před vydáním."
+      "title": "Webbův teleskop NASA pozoruje obří hvězdný výtrysk na okraji naší Mléčné dráhy",
+      "original_title": "NASA’s Webb Observes Immense Stellar Jet on Outskirts of Our Milky Way - NASA Science (.gov)",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-immense-stellar-jet-on-outskirts-of-our-milky-way/",
+      "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K47ZQ63EQ919RD23C62RHQPY.jpg",
+      "source": "NASA",
+      "publishedAt": "2025-09-10T14:00:00Z",
+      "description": "Žhavý proud plynů tryskající z hvězdné obludy vulkanických rozměrů zachytil vesmírný teleskop Jamese Webba. Dosahuje délky 8"
     },
     {
       "flag": "🌍",
@@ -153,139 +230,73 @@
       "urlToImage": "https://wordpress-assets.futurism.com/2025/09/mysterious-object-visiting-solar-system-releases-probes.jpg",
       "source": "Futurism",
       "publishedAt": "2025-09-10T13:09:20Z",
-      "description": "Harvard astronom Avi Loeb tvrdil, že mezihvězdný objekt 3I/ATLAS \"nás buď může navštívit, nebo vypustit nějaké minisondy, které dorazí k Zemi."
+      "description": "Astronom z Harvardu Avi Loeb tvrdí, že mezihvězdný objekt 3I/ATLAS \"by nás mohl navštívit, nebo vypustit minisondy, které dorazí k Zemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Demokratický ministr v přípravě, který právě vstoupil do senátní volební soutěže v Texasu",
-      "original_title": "The Democratic Minister-in-Training Who Just Entered the Texas Senate Race - Rolling Stone",
-      "url": "http://www.rollingstone.com/politics/politics-features/james-talarico-religious-texas-democrat-running-senate-1235424272/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/texas-senate-James-Talarico.jpg?crop=0px%2C76px%2C1800px%2C1014px&resize=1600%2C900",
-      "source": "Rolling Stone",
+      "title": "Nate Bargatze: „Velký pitomý“ magnát",
+      "original_title": "Nate Bargatze: “Big Dumb” Mogul - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-features/nate-bargatze-interview-emmys-2025-comedy-theme-park-1236366090/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/SHOT_05_1419-copy.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-10T13:01:16Z",
+      "description": "Zapomeňte na Porsche, vyprodané arény a zábavní park. Nejúspěšnější stand-up komik na světě – a letošní moderátor Emmy – přísahá, že je pořád jenom normální chlap."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Největší odhalení Charlieho Sheena v dokumentu Netflixu: Byl tak sjetý, že si při natáčení strčil kostku ledu do zadku",
+      "original_title": "Charlie Sheen’s Biggest Revelations in His Netflix Documentary, Including the Time He Was So High He Stuck an Ice Cube Up His Butt for a Scene - Variety",
+      "url": "https://variety.com/2025/tv/news/charlie-sheen-biggest-revelations-netflix-documentary-1236513660/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/DSC_4606_WkwKiDtr-e1757466784315.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
       "publishedAt": "2025-09-10T13:00:00Z",
-      "description": "Texaský demokrat James Talarico, který právě oznámil kandidaturu do amerického Senátu, je velkým kritikem křesťanských nacionalistických miliardářů Farrise Wilkse a Tima Dunna."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Canelo vs. Crawford kulatý stůl: Je čas, aby Canelo předal žezlo?",
-      "original_title": "Canelo vs. Crawford roundtable: Is it time for Canelo to pass the torch? - MMA Fighting",
-      "url": "https://www.mmafighting.com/boxing/402507/canelo-vs-crawford-roundtable-is-it-time-for-canelo-to-pass-the-torch",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/09/gettyimages-2222533038.jpg?quality=90&strip=all&crop=0%2C6.2084671222957%2C100%2C70.81195608398&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2025-09-10T13:00:00Z",
-      "description": "Dokáže Canelo vs. Crawford naplnit očekávání?"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Protesty ‚Zablokovat všechno‘ se šíří Francií a zvyšují tlak na Macrona",
-      "original_title": "'Block Everything' protests sweep France, intensifying pressure on Macron - NBC News",
-      "url": "https://www.nbcnews.com/world/europe/block-everything-protests-france-macron-budget-cuts-rcna230265",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250910-france-rs-af8648.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-10T12:12:53Z",
-      "description": "Demonstranti v časných ranních hodinách ve středu zablokovali dálnice a čerpací stanice po celé Francii v rámci nového celonárodního hnutí."
+      "description": "Tady je 11 největších odhalení z nového dokumentu o Charliem Sheenovi na Netflixu, ‚aka Charlie Sheen‘"
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Chaos s vakcínami na covid: Jsou zmatení i lékárníci, ale tady je, kdo ji může dostat",
+      "title": "Chaos kolem vakcíny na covid: Jsou zmatení i lékárníci, tady je ale seznam, kdo ji může dostat",
       "original_title": "COVID vaccine chaos: Even pharmacists are confused, but here’s who can get one - San Francisco Chronicle",
       "url": "https://www.sfchronicle.com/health/article/california-covid-vaccine-confusion-21037625.php",
       "urlToImage": "https://s.hdnux.com/photos/01/54/37/52/28441277/7/rawImage.jpg",
       "source": "San Francisco Chronicle",
       "publishedAt": "2025-09-10T11:02:36Z",
-      "description": "Zmatky ohledně nových federálních omezení oprávněnosti k vakcíně proti covidu-19 frustrují některé Kalifořany, kteří se snaží získat aktualizované očkování."
+      "description": "Zmatky ohledně nových federálních omezení pro očkování proti covidu-19 frustrují některé Kalifořany"
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Jihokorejka, která útočníkovi ukousla jazyk, byla zproštěna viny po 61 letech",
+      "original_title": "South Korean woman who bit off attacker's tongue acquitted after 61 years - BBC",
+      "url": "https://www.bbc.com/news/articles/ckgezkrdjeko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cb17/live/45f72500-8e09-11f0-8bee-8501c5d73579.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-10T06:53:33Z",
+      "description": "Choi Mal-ja se dokázala osvobodit až poté, co údajnému útočníkovi ukousla asi 1,5 centimetru dlouhý kus jazyka."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trump viní z charlottského pobodání demokraty. Záznamy však příběh komplikují.",
-      "original_title": "Trump blames Democrats for Charlotte stabbing. Records complicate the story. - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/10/trump-charlotte-stabbing-politics/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KL5TU22WS7KRDJIBWUFUHI4B7I.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-10T10:32:01Z",
-      "description": "Případ prohloubil stranické rozdíly v neřešitelné příčině zločinu: jak zacházet s vážně duševně nemocnými, kteří představují riziko násilí."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Výrok Soni Sotomayorové sklidil bouřlivý potlesk v pořadu ‚Colbert‘",
-      "original_title": "1 Line From Sonia Sotomayor Earns A Standing Ovation On ‘Colbert’ - HuffPost",
-      "url": "https://www.huffpost.com/entry/sonia-sotomayor-colbert-ovation_n_68c13281e4b057cde43823d3",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68c13db21800003cd08c780d.jpeg?cache=o7sBcHAsSA&ops=500_281%2Cscalefit_1200_630",
-      "source": "HuffPost",
-      "publishedAt": "2025-09-10T09:04:37Z",
-      "description": "Soudce nejvyššího soudu pak vyzval diváky Stephena Colberta, aby udělali jednu klíčovou věc."
+      "title": "Úmrtnost v USA se v roce 2024 vrátila na úroveň před covidem, uvádí zpráva CDC",
+      "original_title": "US death rate dropped back to pre-Covid levels in 2024, CDC report says - CNN",
+      "url": "https://www.cnn.com/2025/09/10/health/us-mortality-death-rate-2024-cdc",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1399410390.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-10T04:01:00Z",
+      "description": "Úmrtnost v USA se vrátila na úroveň před pandemií v roce 2024, když covid-19 vypadl z první desítky hlavních příčin smrti, uvádí zpráva amerického Centra pro kontrolu a prevenci nemocí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kdo je Lachlan Murdoch, pomazaný mediální magnát?",
-      "original_title": "Who is Lachlan Murdoch, the anointed media tycoon? - NPR",
-      "url": "https://www.npr.org/2025/09/10/nx-s1-5535569/lachlan-murdoch-rupert-news-corp-fox",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3687x2074+0+384/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F64%2Fe496fd4440cc8e2173f981d140a2%2Fgettyimages-813860486.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-10T09:01:00Z",
-      "description": "Lachlan Murdoch přebírá otěže v News Corp a Foxu, otec ukončil dramatický boj o nástupnictví"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Armáda se snaží obnovit pořádek v Nepálu po eskalaci násilí při protestech",
-      "original_title": "Army tries to restore order in Nepal after protest violence intensifies - Politico",
-      "url": "https://www.politico.com/news/2025/09/10/army-tries-to-restore-order-in-nepal-after-protest-violence-intensifies-00554969",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb8%2F90%2F8b9fa45847bf9392a90e9b141631%2Faptopix-nepal-protest-24434.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-10T05:35:00Z",
-      "description": "Vláda zapálila budovy a napadla politiky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Obezita u dětí předstihla podvýživu — UNICEF",
-      "original_title": "Obesity surpasses undernourishment among children — UNICEF - DW",
-      "url": "https://www.dw.com/en/obesity-surpasses-undernourishment-among-children-unicef/a-73941877",
-      "urlToImage": "https://static.dw.com/image/59169246_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-09-10T04:40:51Z",
-      "description": "Poprvé je na světě více obézních než podvyživených dětí – kromě subsaharské Afriky a jižní Asie."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Přímý přenos z akce Apple: představení iPhonu 17, iPhonu Air, AirPods Pro 3 a nových nositelných zařízení",
+      "title": "Živé aktualizace od Applu: právě představeny iPhone 17, iPhone Air, AirPods Pro 3 a nové nositelné zařízení",
       "original_title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
       "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/f1d469c721e25a192a169f6d3f22eaa3f15c2a02/2025/09/09/80954138-b402-4af5-ba58-786eeb0fb785/17pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-10T01:37:00Z",
-      "description": "ZDNET přináší všechny novinky kolem týdenní akce Applu, včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Series 11, AirPods Pro 3 a dalších."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zemi obíhá nový kvaziměsíc. Astronomové ho přehlíželi 60 let.",
-      "original_title": "Earth’s ‘New’ Quasi-Moon Has Been Hiding in Plain Sight for 60 Years - Gizmodo",
-      "url": "https://gizmodo.com/earths-new-quasi-moon-has-been-hiding-in-plain-sight-for-60-years-2000656143",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/earth-and-moon-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-09-09T18:35:15Z",
-      "description": "Nově objevený kvaziměsíc pravděpodobně zůstane na své oběžné dráze ještě několik desetiletí."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Smrtelná nemoc z 'líbacího brouka' se v USA stává endemickou, varuje CDC - FOX 5 DC",
-      "original_title": "Deadly 'kissing bug' disease becoming endemic in the US: CDC - FOX 5 DC",
-      "url": "https://www.fox5dc.com/news/deadly-kissing-bug-disease-becoming-endemic-us",
-      "urlToImage": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2025/09/1280/720/gettyimages-2214281234.jpg?ve=1&tl=1",
-      "source": "FOX 5 DC",
-      "publishedAt": "2025-09-09T15:01:36Z",
-      "description": "Chagasova choroba, známá také jako nemoc z líbání, se šíří po Spojených státech a někteří výzkumníci se domnívají, že by již měla být klasifikována jako endemická."
+      "description": "ZDNET přináší všechny novinky o tomto týdnu akce společnosti Apple, včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Series 11, AirPods Pro 3 a dalších."
     }
   ]
 }
