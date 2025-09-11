@@ -1,27 +1,60 @@
 {
-  "last_updated": "2025-09-11T08:23:51",
+  "last_updated": "2025-09-11T09:18:41",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Polsko sestřelilo ruské drony, které „ve velkém počtu“ porušily vzdušný prostor, uvedl premiér",
-      "original_title": "Poland downs Russian drones as 'huge number' violate airspace, prime minister says - ABC News",
-      "url": "https://abcnews.go.com/International/poland-airspace-repeatedly-violated-drone-type-objects-amid/story?id\\\\u003d125422386",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-10T07:51:41Z",
-      "description": ""
+      "title": "Polská armáda, člen NATO, sestřelila v svém vzdušném prostoru ruské drony",
+      "original_title": "NATO member Poland's military says it shot down Russian drones in its airspace - Axios",
+      "url": "https://www.axios.com/2025/09/10/poland-jets-russian-drones-airspace-nato-ally",
+      "urlToImage": "https://images.axios.com/8tuqXa7IZsIUhGN9l1eob2rCR5Y=/0x0:3897x2192/1366x768/2025/09/10/1757476186154.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-10T09:00:00Z",
+      "description": "Několik letišť uzavřeno poté, co ruské drony „opakovaně“ porušily vzdušný prostor Polska během útoku na Ukrajinu, uvedlo polské vojsko."
     },
     {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Trump navrhuje nová cla na Čínu a Indii, aby zvýšil tlak na Rusko",
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tato dohoda může odvrátit odstávku – pokud se pro ni Kongres rozhodne",
+      "original_title": "This deal could avert a shutdown — if Congress decides to take it - Politico",
+      "url": "https://www.politico.com/news/2025/09/10/donald-trump-shutdown-deal-congress-00554500",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1b%2F7f%2F8aa064a54237a8493c35ae669f8a%2Fu-s-congress-32290.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-10T08:45:00Z",
+      "description": "Je možné dosáhnout dvoustranné dohody, která spojí financování vlády s prodloužením dotací na zdravotní pojištění. Někteří zákonodárci jsou však opatrní."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump navrhuje nová cla na Čínu a Indii, aby vytlačil Rusko",
       "original_title": "Trump Floats New Tariffs on China, India to Squeeze Russia - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkNKeHFoUENXenRYY2JhSUs4RFlzSjU3YV9CZE84Mm9lNGVwTFd1UVQxQ1pyUW82dFViN1lhZWExaEx5SG1ZS1JpTl9SZEhsZUdRNi1sY2tWZEhnMzNRc1k2S05TMkE5YU02cEpGdnBYS2NZTGRSWU9wcFlQR3M2aDAyLWhIdzN1Y3ZZUWpGU0RlUDBkc0h1X054eVhMdU04VTcyazk4bVEtTjdGUXJjNVBPQQ?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-09/trump-floats-massive-tariffs-on-china-india-to-pressure-russia",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSHYpAQAYoa4/v1/1200x800.jpg",
+      "source": "Bloomberg",
       "publishedAt": "2025-09-10T07:47:23Z",
-      "description": ""
+      "description": "Prezident Donald Trump řekl evropským představitelům, že je ochoten uvalit na Indii a Čínu rozsáhlá nová cla, aby přiměl prezidenta Vladimira Putina k jednacímu stolu s Ukrajinou — ale pouze pokud ..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Elizabeth Tsurkovová, studentka z Princetonu držená v zajetí v Iráku, byla propuštěna, oznámil Trump",
+      "original_title": "Elizabeth Tsurkov, Princeton student held captive in Iraq, is released, Trump says - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/09/elizabeth-tsurkov-iraq-kidnapping-release/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLKZGGH7D5FIND77ATBHOKVJLY.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-10T06:35:37Z",
+      "description": "Izraelsko-ruská občanka Elizabeth Tsurkovová byla v roce 2023 unesena v Iráku milicí podporovanou Íránem a Trump uvedl, že byla přemístěna na americkou ambasádu."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Izraelský úder cílil na špičky Hamásu a narušil jednání o příměří",
+      "original_title": "Israeli airstrike targets top Hamas leaders, upending ceasefire talks - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/09/israel-qatar-explosion-hamas/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VUOD6PQ4L2CUIXQDV3U3MV7WCA_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-10T05:36:24Z",
+      "description": "Útok v katarském hlavním městě Dauhá měl za cíl zavraždit velkou část vedení Hamásu, ale militantní skupina uvedla, že žádní vysoce postavení představitelé nezahynuli."
     },
     {
       "flag": "🌍",
@@ -32,106 +65,62 @@
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb8%2F90%2F8b9fa45847bf9392a90e9b141631%2Faptopix-nepal-protest-24434.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-10T05:35:00Z",
-      "description": "Vládní budovy byly zapáleny a politici napadeni."
+      "description": "Vláda zapálila budovy a napadla politiky."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Nejvyšší soud posoudí legalitu Trumpových cel v klíčovém hospodářském případě",
+      "original_title": "Supreme Court to weigh legality of Trump’s tariffs in key economic case - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/09/supreme-court-tariffs-trump-emergency-powers/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MSQEGJY5CDHZ2S4K5LKIUJDWMI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-10T03:51:02Z",
+      "description": "Prezident tvrdí, že cla pomohou ukončit krizi fentanylu, obnovit výrobu a zachránit pracovní místa, ale kroky znepokojily investory a vzbudily ekonomické obavy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ford spouští novou reklamní kampaň v době nejistoty v celém odvětví",
-      "original_title": "Ford rolls out new ad campaign amid industry-wide uncertainty - CNBC",
-      "url": "https://www.cnbc.com/2025/09/10/ford-ad-campaign-ready-set-ford.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108195676-1757354292498-FMDV9649000H_RSF_SOCIAL_AdventureBuild_RangerLariat_1920x1080_02.jpg?v=1757354306&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-10T04:01:01Z",
-      "description": "Ford ve středu spustil novou reklamní kampaň, která představuje první globální sjednocení jeho značky za desítky let."
+      "title": "Nina Dobrev tvrdí, že studio odmítlo zaplatit jí stejně jako jejím kolegům z Upířích deníků Ianu Somerhalderovi a Paulu Wesleymu",
+      "original_title": "Nina Dobrev Says Studio Refused Her Equal Pay to ‘Vampire Diaries’ Male Co-Stars Ian Somerhalder, Paul Wesley - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/nina-dobrev-fight-equal-pay-vampire-diaries-male-co-stars-1236366874/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/09/The-Vampire-Diaries-everett-H-2024.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-10T03:45:00Z",
+      "description": "„Připadalo mi, že studio neocenilo, co do seriálu přináším,“ říká Dobrevová v nové knize a dodává: „a že nejsem rovnocenná protějškům mužů, a to mě rmoutilo…“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Federální soudce dočasně zabránil Trumpovi v odvolání členky Rady guvernérů Fedu Lisy Cookové",
+      "title": "Federální soudce dočasně zablokoval Trumpovi možnost odvolat guvernérku Fedu Lisu Cookovou",
       "original_title": "Federal judge blocks Trump from firing Fed Governor Lisa Cook, for now - NPR",
       "url": "https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6701x3769+0+102/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F32%2Fc9703c294204ad7831671b25e777%2Fgettyimages-1258902366-1.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-10T03:29:38Z",
-      "description": "Guvernérka Fedu Lisa Cooková u soudu uspěla v pokusu udržet si místo navzdory snaze prezidenta Trumpa ji odvolat."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Bílý dům kritizoval Izrael za úder na Hamás v Kataru",
-      "original_title": "White House rebukes Israel over strike on Hamas in Qatar - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/09/trump-rebukes-israel-qatar-strike/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M3T76FIBPTVHMRHET5W6NZBUT4.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-10T03:09:00Z",
-      "description": "Trump odsoudil útok. Podle analytiků jeho smíšené vyjádření ohledně války povzbudilo Izrael k jednostrannému vojenskému zásahu."
+      "description": "Guvernérka Federálního rezervního systému Lisa Cooková vyhrála kolo u federálního soudu ve snaze udržet si místo navzdory snaze prezidenta Trumpa ji odvolat."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Výsledky DWCS 9, týden 5: Dvě nejrychlejší knockouty v historii Contender Series stály za šíleným večerem",
-      "original_title": "DWCS Season 9, Week 5 Results: Two of the fastest knockouts in Contender Series history highlight wild night - MMA Fighting",
-      "url": "https://www.mmafighting.com/latest-news/403148/dwcs-season-9-week-5-results-two-of-the-fastest-knockouts-in-contender-series-history-highlight-wild-night",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/09/04_-_Teague_v_Douglas-2025-09-09_CU-141_0EDLTxtW.jpg?quality=90&strip=all&crop=0%2C2.7527773871467%2C100%2C78.534031413613&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2025-09-10T02:19:00Z",
-      "description": "Pět bojovníků získalo smlouvu s UFC v pátém týdnu Contender Series, včetně jednoho poraženého a dvou nejrychlejších KO v historii soutěže."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Rosie O'Donnell prozradila, že jednu z nejbolestivějších věcí v její minulosti udělala Ellen DeGeneresová",
-      "original_title": "Rosie O'Donnell Says 1 Of The 'Most Painful Things' In Her Past Was Done By Ellen DeGeneres - HuffPost",
-      "url": "https://www.huffpost.com/entry/rosie-odonnell-ellen-degeneres-painful-moment-friendship-falling-out_n_68c0c04be4b059d8ed364dc0",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68c0c589190000f22234c910.jpeg?cache=b4bKfAbfcm&ops=1200_630",
-      "source": "HuffPost",
-      "publishedAt": "2025-09-10T02:10:08Z",
-      "description": "Komedička prohlásila, že „nemůže uvěřit“ DeGeneresové poznámce na její adresu v přímém televizním přenosu."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Meta údajně utajovala možné škody na dětech, tvrdí whistlebloweři",
-      "original_title": "Meta covered up potential child harms, whistleblowers claim - BBC",
-      "url": "https://www.bbc.com/news/articles/c5y8x3md05no",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/946d/live/1ee06e10-8de4-11f0-af49-05b272ee8fd4.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-10T02:05:05Z",
-      "description": "Meta popírá obvinění a označila „tvrzení v jádru“ slyšení v Senátu za „nesmysl“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Živé aktualizace od Applu: právě představeny iPhone 17, iPhone Air, AirPods Pro 3 a nové nositelné doplňky",
+      "title": "Přímý přenos události Applu: představeny iPhone 17, iPhone Air, AirPods Pro 3 a nové nositelné zařízení",
       "original_title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
       "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/f1d469c721e25a192a169f6d3f22eaa3f15c2a02/2025/09/09/80954138-b402-4af5-ba58-786eeb0fb785/17pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-10T01:37:00Z",
-      "description": "ZDNET přináší všechny zprávy o tomto týdnu proběhnuvší akci společnosti Apple včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Series 11, AirPods Pro 3 a dalších novinkách."
+      "description": "ZDNET přináší všechny zprávy o tomto týdnu akce Applu, včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Series 11, AirPods Pro 3 a dalších."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Whoopi Goldberg tvrdí, že si nemůže dovolit odejít z ‚The View‘ do důchodu, protože se ‚nenprovdala dobře‘ | Video",
-      "original_title": "Whoopi Goldberg Says She Can't Afford to Retire From 'The View' Because She Didn't 'Marry Well' | Video - TheWrap",
-      "url": "https://www.thewrap.com/whoopi-goldberg-cant-afford-the-view-retirement/",
-      "urlToImage": "https://www.thewrap.com/wp-content/uploads/2025/06/Whoopi-Goldberg-2.jpeg",
-      "source": "TheWrap",
-      "publishedAt": "2025-09-10T01:26:11Z",
-      "description": "Hvězda \"Sesterstva\" ani její 83letá kolegyně Joy Behar nehodlají talkshow brzy opustit."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "RandBall: J.J. McCarthy sklidil na ManningCastu kritiku i chválu srovnatelnou s Galerií slávy",
-      "original_title": "RandBall: J.J. McCarthy gets Hall of Fame critique, praise on ‘ManningCast’ - Star Tribune",
-      "url": "https://www.startribune.com/jj-mccarthy-peyton-manning-randy-moss-vikings-manningcast/601470790",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/CHU5YMWN35G5BB5XS63GUNAWWM.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "source": "Minneapolis Star Tribune",
-      "publishedAt": "2025-09-10T01:07:38Z",
-      "description": "Randy Moss, Peyton Manning a Eli Manning rozebírali vzestupy a pády dramatického debutu J. J. McCarthyho v dresu Vikings. Michael Rand poukazuje na to nejdůležitější v dnešních 10 věcech, které bys..."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Podle UNICEF je obézních dětí více než podvyživených",
+      "original_title": "More children are obese than underweight, Unicef warns - BBC",
+      "url": "https://www.bbc.com/news/articles/c7v1e0jr9n8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7721/live/953671c0-8d87-11f0-9530-4d799fcfe1d6.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-10T00:45:56Z",
+      "description": "Tradiční zdravé stravování nahrazují vysoce průmyslově zpracované potraviny plné cukru a aditiv, uvádí agentura OSN."
     },
     {
       "flag": "🇺🇸",
@@ -142,95 +131,150 @@
       "urlToImage": "https://cst.brightspotcdn.com/dims4/default/c02bfe2/2147483647/strip/true/crop/5712x3261+0+512/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2Fb6%2F03ff77b64c4c9db79172703c31d0%2Fimg-4673.jpg",
       "source": "Suntimes.com",
       "publishedAt": "2025-09-10T00:22:30Z",
-      "description": "Administrace prezidenta Donalda Trumpa v pondělí oznámila začátek „Operace Midway Blitz“ na zesílení imigračních kontrol v oblasti Chicaga."
+      "description": "Administrace prezidenta Donalda Trumpa v pondělí oznámila zahájení „Operace Midway Blitz“, která má zvýšit imigrační kontrolu v oblasti Chicaga."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Starostka Bostonu Michelle Wu a její vyzyvatel Josh Kraft postoupili do všeobecných voleb",
+      "title": "Starostka Bostonu Michelle Wuová a její vyzyvatel Josh Kraft postupují do všeobecných voleb",
       "original_title": "Boston Mayor Michelle Wu and challenger Josh Kraft advance to one-on-one general election - NBC News",
       "url": "https://www.nbcnews.com/politics/elections/boston-mayor-michelle-wu-challenger-josh-kraft-advance-one-one-general-rcna229806",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250908-michelle-wu-vl-433p-5d1f63.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-10T00:22:00Z",
-      "description": "Starostka Bostonu Michelle Wuová a její vyzyvatel Josh Kraft postoupí do listopadových voleb, když v úterním primárním klání získali nejvíce hlasů, uvádí NBC News."
+      "description": "Starostka Bostonu Michelle Wuová a její vyzyvatel Josh Kraft postoupili k listopadovým volbám starosty, poté co v úterních primárkách získali nejvíce hlasů, uvádí NBC News."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "AirPods Pro 3 získají pěnové koncovky náušnic v pěti různých velikostech",
-      "original_title": "AirPods Pro 3 get foam-infused ear tips in five different sizes - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/09/airpods-pro-3-get-foam-infused-ear-tips-in-five-different-sizes/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-foam.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-09T23:33:00Z",
-      "description": "Dvě oznámení o AirPods Pro 3 z dřívějška se netýkala vylepšení výkonu ani nových senzorů, ale pohodlí a dalšího přizpůsobení."
+      "title": "Macron jmenoval ministrem obrany Lecornua novým francouzským premiérem",
+      "original_title": "Macron appoints Defense Minister Lecornu as France’s latest prime minister - AP News",
+      "url": "https://apnews.com/article/france-macron-prime-minister-sebastien-lecornu-94d75e375872cc3b28de03b4f192388c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/373c192/2147483647/strip/true/crop/3363x1892+0+175/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F5a%2F703737790f993b22a3dbd6e6464b%2F0affde11519948e68723d9a2e93ce9f6",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-10T00:14:00Z",
+      "description": "Francouzský prezident Emmanuel Macron jmenoval ministra obrany Sébastiena Lecornua novým premiérem Francie."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Student z Princetonu unesený v Iráku před více než 900 dny byl propuštěn, oznámil Trump",
-      "original_title": "Princeton grad student kidnapped for over 900 days in Iraq has been released, Trump says - CBS News",
-      "url": "https://www.cbsnews.com/news/elizabeth-tsurkov-princeton-grad-kidnapped-iraq-released/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/09/52524353-ad57-4859-8d2c-9264565863bd/thumbnail/1200x630/39b6e90086e5a701e890f3a13cb4258a/ap25252740524427.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-09T23:06:00Z",
-      "description": "Elizabeth Tsurkovová, občanka Izraele a Ruska, je v bezpečí na velvyslanectví USA v Iráku, oznámil v úterý prezident Trump."
+      "title": "Apple poskytne majitelům iPhonu 14 a 15 další rok satelitních funkcí zdarma",
+      "original_title": "Apple is giving iPhone 14 and 15 users another free year of satellite features - The Verge",
+      "url": "https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_4174.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-09T23:38:46Z",
+      "description": "Uživatelé iPhonu 14 a 15 získávají podle tiskových zpráv Applu k iPhonu 17 další rok zdarma přístup k satelitním funkcím."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejvyšší soud zatím umožnil Trumpovi zmrazit zahraniční pomoc ve výši 4 miliard dolarů",
-      "original_title": "Supreme Court lets Trump freeze $4 billion in foreign aid, for now - Axios",
-      "url": "https://www.axios.com/2025/09/09/trump-foreign-aid-supreme-court-roberts",
-      "urlToImage": "https://images.axios.com/yKXLYnHIVU6SCGayIMlNmOh40p8=/0x0:8640x4860/1366x768/2025/09/09/1757449573526.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-09T21:25:19Z",
-      "description": "Rozhodnutí není konečné, ale peníze zůstanou zmraženy do vyřízení odvolání Trumpovy administrativy."
+      "title": "Plán péče o Bruce Willise s demencí ‚nepodléhá diskusi‘",
+      "original_title": "Bruce Willis’s Dementia Care Plan ‘Not Up for a Debate’ - Vulture",
+      "url": "http://www.vulture.com/article/emma-bruce-willis-dementia-defends-criticism.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/755/64b/89d366a1e5766db69ea5f9e9e1ebf43e27-emma-willis.1x.rsocial.w1200.jpg",
+      "source": "Vulture",
+      "publishedAt": "2025-09-09T22:49:50Z",
+      "description": "Emma Heming Willisová hájí „nejbezpečnější a nejlepší rozhodnutí“ bydlet v samostatném domě poblíž, aby Bruce Willis mohl dostávat specializovanou péči o demenci. Prohlásila, že rodinný plán péče ‚..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Astronomové objevili opakující se záblesk gama záření „jako nic, co jsme kdy předtím viděli“ (video)",
+      "title": "V losangeleském odtahovém dvoře našli v kufru Tesly registrované na zpěváka D4vda rozkládající se tělo, uvádí policejní zdroje",
+      "original_title": "Decomposing body found in trunk of Tesla registered to singer D4vd in Los Angeles tow yard: Police sources - ABC News",
+      "url": "https://abcnews.go.com/US/decomposing-body-found-trunk-tesla-los-angeles-impound/story?id\\\\u003d125407604",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-09T22:41:15Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "King Gizzard and The Lizard Wizard nabízejí alba na Bandcampu za \"Cenu, kterou navrhnete\" po odchodu ze Spotify",
+      "original_title": "King Gizzard and The Lizard Wizard Make Albums \"Name Your Price\" on Bandcamp After Leaving Spotify - Consequence of Sound",
+      "url": "https://consequence.net/2025/09/king-gizzard-and-the-lizard-wizard-bandcamp-name-your-price/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2025/09/King-Gizzard-and-the-Lizard-Wizard.jpg",
+      "source": "Consequence.net",
+      "publishedAt": "2025-09-09T21:40:28Z",
+      "description": "King Gizzard and the Lizard Wizard zpřístupnili všechna svá alba na Bandcampu jako \"zaplať, kolik chceš\" poté, co nedávno opustili Spotify."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie Oracle poskočily o 25 % navzdory zmeškaným ziskům. Její AI cloudová zakázka roste. - Investor's Business Daily",
+      "original_title": "Oracle Stock Pops 25% Despite Earnings Miss. Its AI Cloud Backlog Is Surging. - Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/oracle-stock-earnings-orcl-news-ai-fq1-september-2025/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/12/stock-oracle-06-shutter.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-09-09T21:24:00Z",
+      "description": "Akcie Oracle posílily po optimistické prognóze giganta v oblasti databázového softwaru pro jeho cloudový byznys."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Snapy a pozoruhodné známky PFF z vítězství Vikings v 1. týdnu nad Bears",
+      "original_title": "Snap counts and notable PFF grades from Vikings' Week 1 win over Bears - Sports Illustrated",
+      "url": "https://www.si.com/nfl/vikings/news/snap-counts-notable-pff-grades-from-vikings-week-1-win-over-bears",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4141,h_2329,x_0,y_141/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/inside_the_vikings/01k4r269pqn7ewrasmfc.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-09-09T21:07:31Z",
+      "description": "První počty hracích akcí a známky od PFF v řádné sezóně nabízejí mnoho podnětů k rozboru."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Astronomové objevili opakující se gama záblesk, 'jaký jsme ještě nikdy neviděli' (video)",
       "original_title": "Astronomers discover repeating gamma-ray burst 'unlike anything we have ever witnessed before' (video) - Space",
       "url": "https://www.space.com/astronomy/astronomers-discover-repeating-gamma-ray-burst-unlike-anything-we-have-ever-witnessed-before-video",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/gEbdwhGGDuUNezYKEDLbRE.png",
       "source": "Space.com",
       "publishedAt": "2025-09-09T21:00:00Z",
-      "description": "„Pokud je to masivní hvězda, jde o kolaps, jaký jsme ještě nikdy předtím neviděli.“"
+      "description": "„Jestli je toto masivní hvězda, pak jde o kolaps, jaký jsme ještě nikdy předtím neviděli.“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Po počátečních potížích je ambiciózní mise NASA na Titan v plánu ke startu",
-      "original_title": "After early struggles, NASA’s ambitious mission to Titan is “on track” for launch - Ars Technica",
-      "url": "https://arstechnica.com/space/2025/09/after-early-struggles-nasas-ambitious-mission-to-titan-is-on-track-for-launch/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/WindTunnelSetup-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-09T20:29:08Z",
-      "description": "„Nejlepší částí mého dne je pravděpodobně sledovat, jak tento tým dosahuje svých milníků.“"
+      "title": "Nový francouzský premiér Lecornu čelí křtu ohněm při celostátních protestech",
+      "original_title": "France’s new PM Lecornu faces baptism of fire with nationwide protests - politico.eu",
+      "url": "https://www.politico.eu/article/prime-minister-sebastien-lecornu-france-baptism-budget-politics-francois-bayrou/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/09/GettyImages-2231874309-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-09T20:52:00Z",
+      "description": "Šéf pařížské policie Laurent Nuñez oznámil, že na středu je plánováno „mimořádné“ nasazení téměř 80 tisíc bezpečnostních sil po celé zemi."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Američtí zaměstnavatelé přidali o 911 000 méně pracovních míst, než bylo původně hlášeno, ukazují nová data BLS",
+      "original_title": "U.S. employers added 911,000 fewer jobs than first reported, new BLS data shows - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/09/us-jobs-economy/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HQX2FI4SS6UEOZVVWDLDNMK56U.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-09T20:11:20Z",
+      "description": "Revize přicházejí v době, kdy se vládní statistiky stále více politizují. Minulý měsíc Trump v bezprecedentním kroku odvolal komisařku Úřadu pro statistiku práce Eriku McEntarferovou kvůli slabým ú..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Manželka Bruce Willise o jeho přestěhování do druhého domu kvůli péči o demenci: ‚Musíte udělat to, co je správné‘",
-      "original_title": "Bruce Willis’s wife on moving him to a second home for dementia care: ‘You have to do what’s right’ - MarketWatch",
-      "url": "https://www.marketwatch.com/story/emma-heming-willis-on-moving-husband-bruce-willis-into-a-second-home-for-dementia-care-i-know-it-raises-eyebrowsyou-have-to-do-whats-right-3ffe931a",
-      "urlToImage": "https://images.mktw.net/im-75772205/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-09T20:25:00Z",
-      "description": "Na křtu knihy s Andersonem Cooperem autor hovoří o ‘Nečekané cestě’"
+      "title": "Planeta podobná Zemi, která může obsahovat vodu, zkoumána Webbovým teleskopem NASA",
+      "original_title": "Earth-like planet that may contain water studied by NASA's Webb telescope - CBS News",
+      "url": "https://www.cbsnews.com/news/nasa-webb-telescope-trappist-1-exoplanet/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/09/d4b023e5-020e-4cbc-8a4f-cdfcd3af015f/thumbnail/1200x630/a880fd3ddeaaa1353a678dc72c9c703b/stsci-01k1v61d55hjv2956snsen15gn.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-09T17:49:00Z",
+      "description": "Exoplaneta TRAPPIST-1 e může mít atmosféru a kapalnou vodu, uvedli vědci z NASA. Výzkum exoplanety stále probíhá."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jsou tu nové Apple Watch. Pravděpodobně byste si je měli pořídit.",
-      "original_title": "The New Apple Watches Are Here. You Should Probably Upgrade - WIRED",
-      "url": "https://www.wired.com/story/apple-watch-series-11-se-ultra-3/",
-      "urlToImage": "https://media.wired.com/photos/68c073139bd92b57ade151d3/191:100/w_1280,c_limit/Apple-Watch-Series-11-hero-250909.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-09-09T19:05:45Z",
-      "description": "Spory o senzoru kyslíku v krvi stranou, lepší výdrž baterie, nová upozornění na hypertenzi a přidání satelitního zasílání zpráv jsou dobrými důvody pro koupi nových hodinek Apple tento rok."
+      "title": "Apple Watch SE 3 oznámeny, s čipem S10 a displejem se vždy zapnutým displejem - 9to5Mac",
+      "original_title": "Apple Watch SE 3 announced, with S10 chip and always-on display - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/09/apple-watch-se-3-announced-with-s10-chip-and-always-on-display/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.24.17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-09T17:30:00Z",
+      "description": "Spolu se Series 11 a Ultra 3 byl představen také Apple Watch SE 3. Model SE se na novinku dlouho čekal..."
     },
     {
       "flag": "🇺🇸",
@@ -241,7 +285,7 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OO432Y3GNITQH6DAHYBT2NDW64_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-09T17:00:57Z",
-      "description": "V příštích letech bude z různých míst světa možné pozorovat několik úplných zatmění Měsíce a Slunce. Možná ale budete muset cestovat."
+      "description": "V příštích letech bude z různých míst planety možné pozorovat několik úplných zatmění Měsíce a Slunce. Možná ale budete muset cestovat."
     },
     {
       "flag": "🇺🇸",
@@ -252,12 +296,12 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4GP7WL5CEDZ7T4E3C3DUWBMOU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-09T17:00:47Z",
-      "description": "Co dělat, když se snažíte získat aktualizovanou vakcínu proti covidu: lékárny, lékaři, pojišťovny a úřady"
+      "description": "Co dělat, když se snažíte získat aktualizovanou vakcínu proti covidu: průvodce lékárnami, lékaři, pojišťovnami a úřady"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sudů hozených u pobřeží LA se objevily strašidelné „svatozáře“ – co sakra bylo v těch sudech?",
+      "title": "Sudů hozených u pobřeží LA se objevují strašidelné „svatozáře“ – co sakra v nich bylo?",
       "original_title": "Barrels Dumped Off LA Coast Have Developed Ghostly “Halos” – What The Hell Was In Those Barrels? - IFLScience",
       "url": "https://www.iflscience.com/strange-halos-have-formed-around-barrels-of-chemicals-dumped-off-las-coast-over-50-years-ago-80743",
       "urlToImage": "https://assets.iflscience.com/assets/articleNo/80743/aImg/86311/barrel-mystery-los-angeles-meta.png",
@@ -268,35 +312,24 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Smrtelná nemoc 'líbacího brouka' se v USA stává endemickou, varuje CDC - FOX 5 DC",
+      "title": "Smrtelná nemoc z 'líbacího brouka' se v USA stává endemickou, varuje CDC - FOX 5 DC",
       "original_title": "Deadly 'kissing bug' disease becoming endemic in the US: CDC - FOX 5 DC",
       "url": "https://www.fox5dc.com/news/deadly-kissing-bug-disease-becoming-endemic-us",
       "urlToImage": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2025/09/1280/720/gettyimages-2214281234.jpg?ve=1&tl=1",
       "source": "FOX 5 DC",
       "publishedAt": "2025-09-09T15:01:36Z",
-      "description": "Chagasova choroba, známá také jako nemoc z líbání, se šíří po Spojených státech a někteří výzkumníci se domnívají, že by nyní měla být klasifikována jako endemická."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "V rámci demokratického ‚restartu‘ kandiduje do Senátu nábožensky založený texaský zákonodárce",
-      "original_title": "Pushing Democratic ‘reset,’ a religious Texas lawmaker runs for Senate - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/09/james-talarico-texas-senate-race-cornyn-paxton/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PCEVZS47WJQMWCW3UT4CQSKADY_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-09T13:32:09Z",
-      "description": "Poslanec James Talarico vstoupil v úterý do primárek své strany o křeslo, které drží republikánský senátor John Cornyn."
+      "description": "Chagasova choroba, známá také jako „nemoc z líbání“, se šíří po Spojených státech a někteří výzkumníci se domnívají, že by nyní měla být klasifikována jako endemická."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Co dělat s očkováním své rodiny teď?",
+      "title": "Co mám teď dělat s očkováním své rodiny?",
       "original_title": "What do I do about my family’s vaccinations now? - vox.com",
       "url": "https://www.vox.com/health/460528/vaccine-recommendations-rfk-hhs-new-guidance-covid",
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/MichelleKwon_Vox_lede.png?quality=90&strip=all&crop=0%2C4.6883585959172%2C100%2C78.534031413613&w=1200",
       "source": "Vox",
       "publishedAt": "2025-09-09T13:30:00Z",
-      "description": "RFK Jr. narušil americký konsenzus o vakcínách. Zde je návod, jak učinit nejlepší rozhodnutí pro vás a vaši rodinu."
+      "description": "RFK Jr. narušil americký konsenzus o vakcínách. Jak se nejlépe rozhodnout pro sebe a svou rodinu."
     }
   ]
 }
