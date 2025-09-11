@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-11T01:57:17.331365",
+  "updated": "2025-09-11T03:35:58.874363",
   "trends": [
     {
       "rank": 1,
       "query": "charlie kirk",
-      "news_title": "Pátrání po střelci na utažské univerzitě, obětí je Charlie Kirk",
+      "news_title": "Charlie Kirk zastřelen na Utah Valley University",
       "news_url": "https://www.cnn.com/us/live-news/charlie-kirk-shot-utah-09-10-25",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLmhLlO7RQVcHTxPzM3Nr0k1s6NkElF2oQFlDOm-4_pd3l7ttYVDi0G3O3nwA",
       "traffic": "50000++ hledání",
@@ -33,16 +33,6 @@
     },
     {
       "rank": 4,
-      "query": "x",
-      "news_title": "Nemůžete najít svého kongresmana? Zkuste TikTok",
-      "news_url": "https://www.cincinnati.com/story/news/politics/2025/09/10/greg-landsman-thomas-massie-rand-paul-on-x-tiktok-reddit/84517904007/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNGmmKvtMu54KwLo_sXJ-HdZHLoLUpZ2k7k_cfOwUs_rPkhhD_ZK2L7O8AlU",
-      "traffic": "1000++ hledání",
-      "source": "Cincinnati Enquirer",
-      "explore_url": "https://trends.google.cz/trends/explore?q=x&geo=CZ"
-    },
-    {
-      "rank": 5,
       "query": "чарли кирк",
       "news_title": "V Utahu zabit americký aktivista a stoupenec Trumpa Charlie Kirk",
       "news_url": "https://www.bbc.com/russian/articles/cwyw1kjgmlro",
@@ -52,7 +42,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=чарли кирк&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "query": "oneplay",
       "news_title": "Kvíz: Otestujte své znalosti nové extraligové sezony",
       "news_url": "https://www.idnes.cz/hokej/nova-hokejova-sezona-se-rozjizdi-otestujte-sve-extraligove-znalosti.Q250909_102639_hokejh_drev",
@@ -62,7 +52,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=oneplay&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "query": "jan punčochář",
       "news_title": "Tadeáš při odchodu věřil, že v Hell's Kitchen zůstane",
       "news_url": "https://tv.nova.cz/porad/hell-s-kitchen/video-bonus/128737-tadeas-pri-odchodu-z-hell-s-kitchen-do-posledni-chvile-veril-ze-zustane",
@@ -72,9 +62,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jan punčochář&geo=CZ"
     },
     {
+      "rank": 7,
+      "query": "hokej",
+      "news_title": "Zlín začal debaklem se Slavií, nováček porazil Jihlavu",
+      "news_url": "https://www.sport.cz/clanek/hokej-ceska-1-liga-zlin-zacal-debaklem-se-slavii-5288341",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnsbLWoSXPu47bhJFA5oPq7BIA9ZRC-TA0DR_ZFixFr98_SLgdgBec67yFNBE",
+      "traffic": "500++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=hokej&geo=CZ"
+    },
+    {
       "rank": 8,
       "query": "ester ledecká",
-      "news_title": "Vysekaná Ester: Na lovu",
+      "news_title": "Ester: Na lovu",
       "news_url": "https://isport.blesk.cz/clanek/blesk-sport/466037/vysekana-ester-na-lovu.html",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPqt6fMg899gCVkJDET9w5wxWs9VnomELVqJmj_AWcPgn-FXU_cLzf9N_GKk",
       "traffic": "200++ hledání",
