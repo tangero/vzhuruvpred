@@ -1,70 +1,50 @@
 {
-  "updated": "2025-09-11T06:37:38.591131",
+  "updated": "2025-09-11T09:26:23.802784",
   "trends": [
     {
       "rank": 1,
-      "query": "charlie kirk",
-      "news_title": "V Utahu zastřelili konzervativního aktivistu Charlieho Kirka",
-      "news_url": "https://www.novinky.cz/clanek/zahranicni-amerika-americky-konzervativni-aktivista-kirk-postrelen-40538309",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTw-qD-dD7XRCL5Yx707ndGORe8hDTpDMReCDss7utHVgCFhw49mVCFUTggphY",
-      "traffic": "50000++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=charlie kirk&geo=CZ"
-    },
-    {
-      "rank": 2,
-      "query": "charlie kirk death",
-      "news_title": "Policie hledá pachatele atentátu na Charlie Kirka",
-      "news_url": "https://www.theguardian.com/us-news/2025/sep/11/charlie-kirk-shooting-police-search-for-suspect-amid-condemnation-of-targeted-killing",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3Do7drvlppXkcTB8idsUcNRLCz7spjcVhbWnzom7uig1-K8R2Jtc02OhIqW4",
-      "traffic": "20000++ hledání",
-      "source": "The Guardian",
-      "explore_url": "https://trends.google.cz/trends/explore?q=charlie kirk death&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "polsko ruské drony",
-      "news_title": "Babiš: Česko pomůže Polsku. Před lety tvrdil opak.",
+      "news_title": "Babiš slíbil Polsku pomoc, přitom před lety tvrdil opak",
       "news_url": "https://www.novinky.cz/clanek/domaci-cesko-by-prislo-polsku-na-pomoc-rekl-babis-pred-lety-tvrdil-opak-40538292",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHD8VcHjBlA0KgNWhHVa726q85keFbImZPCCH05WbhvGq8fqJ9FKZDVGLu2-U",
-      "traffic": "10000++ hledání",
+      "traffic": "2000++ hledání",
       "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=polsko ruské drony&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "чарли кирк",
-      "news_title": "V Utahu zabit americký aktivista a trumpovec Charlie Kirk",
-      "news_url": "https://www.bbc.com/russian/articles/cwyw1kjgmlro",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgdisIJnbl6sv6inlB2taiA8TzcuSWKDpUdX5PraMR-5iYa13LHhjXUJ8oniw",
-      "traffic": "1000++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=чарли кирк&geo=CZ"
-    },
-    {
-      "rank": 5,
-      "query": "jan punčochář",
-      "news_title": "Staša v Hell's Kitchen: U Punčocháře jsem vařil jen dvě hodiny",
-      "news_url": "https://tv.nova.cz/porad/hell-s-kitchen/video-bonus/128687-priznani-stasi-v-hell-s-kitchen-u-puncochare-jsem-vydrzel-varit-jen-dve-hodiny",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa6VTH7rz9Jc5h8L1t3lFboqY5xlzc8q0DRADN5Qmttz80CvSPbb2lvs8-LZA",
+      "rank": 2,
+      "query": "indeed",
+      "news_title": "Jak využít AI od Indeed k hledání práce",
+      "news_url": "https://www.cnet.com/tech/services-and-software/ai-agents-could-help-you-get-a-job-heres-how-to-use-indeeds-new-tool/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmn9CBZPvYHMwIFywUTOgm14kEnmhGfm06_9_yHE2163hKe6u3T7SqDDYpYMo",
       "traffic": "500++ hledání",
-      "source": "TV Nova",
-      "explore_url": "https://trends.google.cz/trends/explore?q=jan punčochář&geo=CZ"
+      "source": "CNET",
+      "explore_url": "https://trends.google.cz/trends/explore?q=indeed&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "query": "11 zari",
+      "news_title": "Poslední slova obětí 11. září 2001",
+      "news_url": "https://www.stream.cz/skryte-pribehy/posledni-slova-obeti-11-zari-2001-65345521",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzikvENk6S3kmTTYIgvbE6Lol5EQg_Jl4Go89lZC7chjycMM22AQadbZ16ISQ",
+      "traffic": "500++ hledání",
+      "source": "Stream.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=11 zari&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "novinky",
-      "news_title": "GTCR kupuje Zentivu za 100 miliard",
-      "news_url": "https://www.novinky.cz/clanek/ekonomika-gtcr-kupuje-zentivu-za-41-miliardy-eur-40538319",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtu5Tu_G-b1YHC1py9STybxcNTHDZmcebM8nQthQZWnNe-pPX1rqejrRbfm4",
+      "news_title": "Ukrajinci potopili ruskou loď za miliardu dolarů",
+      "news_url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-valka-lod-flotila-urok-cerne-more-noorossijsk.A250911_102948_zahranicni_bro",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDJ1BATpifyURJ6K9N9KshMCgM-iINROCL4TvKs1iVhyttto9JPPWIERgraWY",
       "traffic": "200++ hledání",
-      "source": "Novinky",
+      "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=novinky&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "query": "ester ledecká",
-      "news_title": "Ester Ledecká u moře: Vysekaná postava bere dech",
+      "news_title": "Ester Ledecká u moře v plavkách: Vysekaná postava bere dech",
       "news_url": "https://www.expres.cz/celebrity/ester-ledecka-v-plavkach-u-more-vysekana-postava-a-brisaky-vzbudily-nadseni.A250910_161017_dx-celebrity_pkor",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZgBJ727yRjclQFwSwyfz_Yg2uNxqftvzm3BNC40cEE9FECluiizXlmc86S0",
       "traffic": "200++ hledání",
@@ -72,14 +52,34 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=ester ledecká&geo=CZ"
     },
     {
-      "rank": 8,
-      "query": "pocasi dnes",
-      "news_title": "Počasí dnes: předpověď na úterý 26. března",
-      "news_url": "https://www.google.com/search?q=pocasi dnes&tbm=nws",
-      "picture": null,
+      "rank": 6,
+      "query": "fox news",
+      "news_title": "Murdochovi vyřešili dědictví: syn povede Fox News, zbytek dostane miliardu",
+      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-jeden-povede-fox-news-zbytek-dostane-miliardu-murdochovi-vyresili-dedictvi-285621",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFKC5dYG6XLtqJnNw9pAKde6Pe044t5qFKFojVT2_LAbRoa3F8x4W_P0stLWc",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=fox news&geo=CZ"
+    },
+    {
+      "rank": 7,
+      "query": "zentiva",
+      "news_title": "GTCR kupuje českou Zentivu za 100 miliard",
+      "news_url": "https://www.novinky.cz/clanek/ekonomika-gtcr-kupuje-zentivu-za-41-miliardy-eur-40538319",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtu5Tu_G-b1YHC1py9STybxcNTHDZmcebM8nQthQZWnNe-pPX1rqejrRbfm4",
       "traffic": "100++ hledání",
-      "source": null,
-      "explore_url": "https://trends.google.cz/trends/explore?q=pocasi dnes&geo=CZ"
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=zentiva&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "11.9",
+      "news_title": "Internet se baví zbitým Babišem. Vtipálci si neberou servítky",
+      "news_url": "https://www.novinky.cz/clanek/koktejl-internet-se-bavi-vtipalci-si-na-ucet-zbiteho-babise-neberou-servitky-40537663",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqAZd1azfFbD5j8MQzK79ebYdG6VF1dk7W9yVNU-_nBJDhBQHnDEhREZBQUs",
+      "traffic": "100++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=11.9&geo=CZ"
     }
   ]
 }
