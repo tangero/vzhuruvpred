@@ -1,82 +1,93 @@
 {
-  "last_updated": "2025-09-12T10:18:58",
+  "last_updated": "2025-09-12T11:14:13",
   "articles": [
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Británie odvolala velvyslance v USA Petera Mandelsona kvůli vazbám na Epsteina",
-      "original_title": "UK fires ambassador to US Peter Mandelson over Epstein links - CNN",
-      "url": "https://www.cnn.com/2025/09/11/uk/peter-mandelson-uk-ambassador-fired-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25058262652872.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-11T09:55:00Z",
-      "description": "Peter Mandelson byl ve čtvrtek odvolán z postu britského velvyslance ve Spojených státech poté, co se jeho vazby na odsouzeného sexuálního delikventa Jeffreyho Epsteina staly dalším nežádoucím prob..."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Po 10 letech výzkumu černých děr se Stephenu Hawkingovi dostalo uznání",
+      "original_title": "After 10 years of black hole science, Stephen Hawking proven right - NPR",
+      "url": "https://www.npr.org/2025/09/11/nx-s1-5537131/ligo-10-years-black-holes-hawking-theory-confirmed",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2F19%2Fa54e706e4115877d7c2eff0152db%2Fhires-ringing-black-holes-c-maggie-chiang-for-simons-foundation.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-11T10:00:00Z",
+      "description": "Vědci strávili deset let vylepšováním obřích detektorů, které zachycují otřesy ze srážek černých děr. Nyní je věda natolik přesná, že může otestovat jeden z klíčových nápadů Stephena Hawkinga."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Rozšířené znechucení v Labouristické straně kvůli Mandelsonovým vazbám na Epsteina, říká poslanec",
+      "original_title": "'Widespread revulsion' in Labour at Mandelson's Epstein links, says MP - BBC",
+      "url": "https://www.bbc.com/news/articles/c0lkzjr8gwwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/197b/live/ef052da0-8eee-11f0-84c8-99de564f0440.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-11T09:39:45Z",
+      "description": "Sir Keir Starmer čelí rostoucím výzvám k odvolání britského velvyslance ve Washingtonu po nových odhaleních."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Senzační zpráva: Bidenův tým zuří kvůli nové knize Kamaly Harrisové",
+      "title": "Senzační odhalení: Bidenův svět zuří kvůli nové knize Kamaly Harrisové",
       "original_title": "Scoop: Biden world explodes at Kamala Harris' new book - Axios",
       "url": "https://www.axios.com/2025/09/11/biden-harris-new-book-uproar",
       "urlToImage": "https://images.axios.com/imbOF6RVASi8vkqwByFQHioy0no=/0x0:1920x1080/1366x768/2025/09/10/1757533761888.jpg",
       "source": "Axios",
       "publishedAt": "2025-09-11T09:02:50Z",
-      "description": "Zveřejnění ukázky z Harrisovy nové knihy odhalilo roky křivd a frustrací."
+      "description": "Zveřejnění úryvku z Harrisovy nové knihy odhalilo roky křivd a frustrací."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Musk přišel o korunu nejbohatšího člověka světa, kterou mu sebral Larry Ellison, ale okamžitě ji získal zpět",
+      "title": "Musk přišel o korunu nejbohatšího člověka světa, ale hned si ji vzal zpět",
       "original_title": "Musk loses crown as the world’s richest person to Larry Ellison and then snatches it back - AP News",
       "url": "https://apnews.com/article/richest-billionaires-musk-ellison-oracle-tesla-bloomberg-forbes-e90a3cab2a0b256923ca55814893f9fe",
       "urlToImage": "https://dims.apnews.com/dims4/default/32cc3d5/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F96%2F1c5bb1ad138a003af8e9977d3e1b%2F3d6ff039aa4f4387a4ea8f89328ed5b1",
       "source": "Associated Press",
       "publishedAt": "2025-09-11T08:50:00Z",
-      "description": "Bitva miliardářů o titul nejbohatšího člověka světa se ve středu přiostřila překvapivým vzestupem starého contendera Larryho Ellisona."
+      "description": "Souboj miliardářů o titul nejbohatšího člověka světa se ve středu přiživil překvapivým vzestupem starého rivala: Larryho Ellisona."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump požadoval po Netanjahuovi závazek, že znovu nezaútočí na Katar",
+      "title": "Trump požadoval po Netanjahuovi závazek, že znovu nezaútočí na Katar.",
       "original_title": "Trump demanded Netanyahu commit not to strike Qatar again - Axios",
       "url": "https://www.axios.com/2025/09/11/trump-netanyahu-strike-qatar-again-israel",
       "urlToImage": "https://images.axios.com/bSdTx0UGZgX4Lq2oZDHmJnhGtTo=/0x439:6000x3814/1366x768/2025/09/11/1757554211012.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-11T08:32:51Z",
-      "description": "Útok byl škodlivý nejen pro globální postavení Izraele, ale potenciálně i pro americké."
+      "description": "Útok poškodil nejen globální postavení Izraele, ale potenciálně i Ameriky."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pátrání po vrahovi Charlieho Kirka pokračuje, Trump viní demokraty",
+      "original_title": "Manhunt for Charlie Kirk's killer continues as Trump blames Democrats - ABC News",
+      "url": "https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id\\\\u003d125469211",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-11T08:03:45Z",
+      "description": ""
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Řetězové pouto zpozdilo let s korejskými repatrianty",
+      "title": "Let s korejskými dělníky se zpozdil kvůli poutání na řadě sedadel",
       "original_title": "Handcuff row delays flight repatriating Korean workers - Financial Times",
       "url": "https://www.ft.com/content/fdbe5d25-ca90-4873-ac1e-9e23cc5e24e2",
       "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6d660106-6e7d-4237-aa01-43593acc0d34.jpg?source=next-barrier-page",
       "source": "Financial Times",
       "publishedAt": "2025-09-11T07:41:15Z",
-      "description": "Soul trval na tom, aby zatčení v továrně na baterie Hyundai-LG nebyli při zpátečním letu spoutáni"
+      "description": "Soul uvedl, že trval na tom, aby zatčení v továrně na baterie Hyundai-LG nebyli při zpátečním letu spoutáni."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Marsovská hornina obsahuje „nejjasnější známku“ možné minulého života na Rudé planetě",
+      "title": "Marsovská hornina obsahuje dosud „nejjasnější známku“ možné minulého života na Rudé planetě",
       "original_title": "Mars rock contains \"clearest sign\" yet of potential past life on Red Planet - Axios",
       "url": "https://www.axios.com/2025/09/11/nasa-mars-rover-life-rock-sample",
       "urlToImage": "https://images.axios.com/iTznLLq9Y-Qsgstx-dgK5r5OFgM=/34x13:1284x717/1366x768/2025/09/11/1757570325338.png",
       "source": "Axios",
       "publishedAt": "2025-09-11T05:39:16Z",
       "description": "Jsme zase o krok blíž k zodpovězení jedné z nejhlubších otázek lidstva... Jsme ve vesmíru opravdu sami?"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Matka a sestra obžalovaného z vraždy v Charlotte popsaly jeho historii duševní nemoci",
-      "original_title": "Mother, sister of Charlotte stabbing suspect describe history of mental illness - ABC News",
-      "url": "https://abcnews.go.com/US/mother-sister-charlotte-stabbing-suspect-describe-history-mental/story?id\\\\u003d125451590",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-11T04:49:45Z",
-      "description": ""
     },
     {
       "flag": "🇺🇸",
@@ -87,106 +98,62 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/247JUXMCS6M5VFG5X52ARJW734.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-11T04:22:04Z",
-      "description": "Demonstranti uspořádali po celé Francii protesty, kterými narušili veřejný pořádek a vyjádřili tak hněv a nespokojenost s tamní centristickou vládou."
+      "description": "Demonstranti uspořádali po celé Francii protesty, kterými dávali najevo hněv a nespokojenost s tamní centristickou vládou."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Váš denní horoskop: 11. září 2025",
-      "original_title": "Your daily horoscope: September 11, 2025 - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-11-2025/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/U5TPCH7TMBG2FAF6463KGMHHGY.png?auth=ef792eb9bee4c8107e033dc830aa01f6cdd55811c51a559726bc2d115d014d2d&width=1200&height=800&quality=80&smart=true",
-      "source": "The Globe And Mail",
-      "publishedAt": "2025-09-11T04:01:00Z",
-      "description": "Vaše denní horoskop na čtvrtek 11. září 2025"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Školy Evergreen a Conifer ve čtvrtek uzavřely kvůli střelbě - 9News.com",
-      "original_title": "Evergreen, Conifer schools closed Thursday after shooting - 9News.com",
-      "url": "https://www.9news.com/article/news/crime/evergreen-conifer-schools-closed-shooting/73-70b28ea8-e801-4bfb-a430-4c999bc70b8d",
-      "urlToImage": null,
-      "source": "9News.com KUSA",
-      "publishedAt": "2025-09-11T03:29:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Hawkingova odvážná teorie potvrzena dosud nejhlasitější srážkou černých děr",
-      "original_title": "Hawking's Bold Theory Confirmed by Loudest-Ever Black Hole Collision - ScienceAlert",
-      "url": "https://www.sciencealert.com/hawkings-bold-theory-confirmed-by-loudest-ever-black-hole-collision",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/view-from-one-black-hole-as-it-spirals-toward-its-cosmic-partner.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-11T02:41:20Z",
-      "description": "Před deseti lety vědci poprvé zaslechli, jak vesmír burácí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump se odvolává proti rozhodnutí soudu, které Cookovi umožňuje zůstat ve správní radě Fedu",
-      "original_title": "Trump appeals judge's order letting Cook stay on Fed board - Axios",
-      "url": "https://www.axios.com/2025/09/10/trump-lisa-cook-appeal-fed-board-meeting",
-      "urlToImage": "https://images.axios.com/LqYxk6rsFauRKH89f-eBssAApvk=/0x0:5379x3026/1366x768/2025/09/10/1757522291708.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-11T01:12:48Z",
-      "description": "Trump bojuje s časem, aby stáhl Cooka z rady Fedu před zasedáním o úrokových sazbách příští týden."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Šéfové izraelského filmového průmyslu označili rostoucí bojkot za „kontraproduktivní“",
-      "original_title": "Israeli Film Industry Leaders Call Growing Boycott “Counterproductive” - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/israel-film-industry-leaders-boycott-counterproductive-1236367718/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2019/04/israels_fauda-publicity_still-embed-2019_0.jpg?w=928&h=522&crop=1",
+      "title": "Recenze Spinal Tap II: Konec pokračuje: Dostatečně zábavné pokračování",
+      "original_title": "'Spinal Tap II: The End Continues' Review: A Fun-Enough Sequel - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-reviews/spinal-tap-ii-the-end-continues-review-sequel-rob-reiner-1236366184/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/SPINAL-TAP-II-Still-1-H-2025.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-11T00:13:02Z",
-      "description": "Odpověď přichází poté, co téměř 4 000 osobností z mezinárodní filmové a televizní scény — včetně prominentních držitelů Oscarů, Emmy a Zlaté palmy — slíbilo, že nebude spolupracovat s izraelskými p..."
+      "publishedAt": "2025-09-11T01:16:02Z",
+      "description": "Christopher Guest, Michael McKean, Harry Shearer a Rob Reiner se vrací ve svých rolích v pokračování kultovního mockumentu z roku 1984 „This Is Spinal Tap“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V roce 2024 COVID vypadl ze seznamu deseti nejčastějších příčin úmrtí v USA.",
+      "title": "V roce 2024 vypadl COVID ze seznamu deseti nejčastějších příčin úmrtí v USA.",
       "original_title": "In 2024, COVID dropped from the list of top 10 causes of death in U.S. - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/10/nx-s1-5537078/u-s-death-rates-covid-2024",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2F34%2F92d3cb664b5292c2a6194069ca2f%2Fgettyimages-1237709034.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-10T22:43:31Z",
-      "description": "Poprvé od roku 2020 není COVID jednou z deseti hlavních příčin úmrtí v USA"
+      "description": "Poprvé od roku 2020 není COVID jednou z deseti hlavních příčin úmrtí v USA."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zápalné střely zasáhly flotilu mířící do Gazy dvě noci po sobě",
-      "original_title": "Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row - Bellingcat",
-      "url": "https://www.bellingcat.com/news/2025/09/10/incendiary-munitions-strike-gaza-bound-flotilla-two-nights-in-a-row/",
-      "urlToImage": "https://www.bellingcat.com/app/uploads/2025/09/Burned-Life-Jackets.jpg",
-      "source": "Bellingcat.com",
-      "publishedAt": "2025-09-10T21:33:45Z",
-      "description": "Dne 8. a 9. září byly u tuniského přístavu Sidi Bou Said napadeny dvě lodě mířící do Gazy z flotily Global Sumud (GSF). Bellingcat analyzoval záběry a snímky z obou incidentů. Dle konzultovaných ex..."
+      "title": "Keegan Bradley přijímá netradiční roli kapitána Ryder Cupu",
+      "original_title": "Keegan Bradley embraces outside-the-box Ryder Cup captaincy - NBC Sports",
+      "url": "https://www.nbcsports.com/golf/news/keegan-bradley-embraces-outside-the-box-captaincy",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/dffcce1/2147483647/strip/true/crop/5400x3038+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2Fd8%2F18d1b4274679a38f09b5d99803f3%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2234714538",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-09-10T22:07:30Z",
+      "description": "Výběr Bradleyho, kterému je 39 let a je stále v nejlepších letech své kariéry, byl velmi nekonvenčním tahem, a to i pro organizaci, která má ve zvyku jít proti očekávání."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Po 18 měsících se princ Harry a král Karel setkali osobně",
-      "original_title": "After 18 Months, Prince Harry and King Charles Meet in Person - The Wall Street Journal",
-      "url": "https://www.wsj.com/world/uk/after-18-months-prince-harry-and-king-charles-meet-in-person-8007cbc5",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-10T20:54:00Z",
-      "description": ""
+      "title": "Bad Bunny zrušil turné v USA kvůli obavám z razií imigrační policie",
+      "original_title": "Bad Bunny Won’t Tour In U.S. Amid Concern Of ICE Raids - Deadline",
+      "url": "http://deadline.com/2025/09/bad-bunny-wont-tour-us-ice-raids-concern-1236528101/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/JN05225.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-10T21:29:00Z",
+      "description": "Jak se razie ICE stupňují po celých Spojených státech, Bad Bunny bere na svém nejnovějším světovém turné ohled na bezpečí svých fanoušků."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Polsko reaguje na průnik ruských dronů vyvoláním článku 4 Severoatlantické smlouvy − co bude dál?",
-      "original_title": "Poland responds to Russian drones incursion by invoking Article 4 of the NATO treaty − what happens next? - The Conversation",
-      "url": "https://theconversation.com/poland-responds-to-russian-drones-incursion-by-invoking-article-4-of-the-nato-treaty-what-happens-next-265051",
-      "urlToImage": "https://images.theconversation.com/files/690265/original/file-20250910-56-grrps0.jpg?ixlib=rb-4.1.0&rect=0%2C4%2C8192%2C4096&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source": "The Conversation Africa",
-      "publishedAt": "2025-09-10T20:48:48Z",
-      "description": "Stíhačky NATO vystartovaly, aby sestřelily nejméně 10 ruských dronů v polském vzdušném prostoru."
+      "title": "Jak vypnout automatické přehrávání ve vašich sociálních médiích",
+      "original_title": "How to turn off autoplay on your social media feeds - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?resize=1200,789",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-10T21:02:52Z",
+      "description": "Takto vypnete automatické přehrávání videí a GIFů na Facebooku, Instagramu, X, Twitteru a Threads"
     },
     {
       "flag": "🌍",
@@ -197,7 +164,7 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250908-trappist-exoplanet-vl-1228p-db7c5d.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-10T20:40:04Z",
-      "description": "Podle nového výzkumu může mít skalnatá planeta velikosti Země v naší galaxii Mléčné dráze atmosféru, což zvyšuje možnost, že by na jejím povrchu mohla být kapalná voda a tedy i život."
+      "description": "Podle nového výzkumu může mít skalnatá planeta velikosti Země v naší galaxii Mléčné dráze atmosféru"
     },
     {
       "flag": "🌍",
@@ -208,34 +175,34 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-watch-ultra-3-series-11-se-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-09-10T20:39:00Z",
-      "description": "Výdrž baterie je jednou z nejdůležitějších vlastností Apple Watch: jak si stojí Apple Watch Ultra 3 proti Series 11 a Ultra 2"
+      "description": "Výdrž baterie je jednou z nejdůležitějších vlastností Apple Watch: jak se baterie Apple Watch Ultra 3 srovnává se Sérií 11 a Ultra 2."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Manželka Bruce Willise přiznala, že před zjištěním jeho diagnózy demence uvažovala o rozvodu",
-      "original_title": "Bruce Willis’ wife admits she considered divorce before learning of his dementia diagnosis - KEPR",
-      "url": "https://thenationaldesk.com/news/entertainment/bruce-willis-wife-admits-she-considered-divorce-before-learning-of-his-dementia-diagnosis",
-      "urlToImage": "https://thenationaldesk.com/resources/media2/16x9/2128/986/80x37/90/10ffef86-2d29-454a-b66c-b731c197f5f6-GettyImages1083172626.jpg",
-      "source": "Thenationaldesk.com",
-      "publishedAt": "2025-09-10T20:32:43Z",
-      "description": "Manželka Bruce Willise Emma Heming Willisová prozradila, že kvůli jeho změněnému chování zvažovala rozvod, než se dozvěděli tu srdcervoucí pravdu."
+      "title": "Santoliho středeční shrnutí trhů: Oracle a Nvidia se podílely na ziscích indexu S&P 500 ze 100 %",
+      "original_title": "Santoli's Wednesday market wrap-up: Oracle, Nvidia accounted for 100% of S&P 500 gain - CNBC",
+      "url": "https://www.cnbc.com/2025/09/10/santolis-wednesday-market-wrap-up-oracle-wasnt-enough-to-lift-all-boats.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108113602-1741633582507-gettyimages-2204393291-_73a5201_8iunpbee.jpeg?v=1757534339&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-10T20:18:51Z",
+      "description": "Oracle a Nvidia se podílely na celkovém čtvrtprocentním růstu indexu S&P 500. Šířka trhu na NYSE zůstala uzavřena na poměru 50/50 mezi rostoucími a klesajícími akciemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejnovější renderování Galaxy S26 Pro naznačují změny fotoaparátu a přeorganizování řady",
+      "title": "Nejnovější renderované modely Galaxy S26 Pro naznačují změny fotoaparátu a přeorganizování produktové řady",
       "original_title": "Latest Galaxy S26 Pro renders hint at camera changes and lineup shuffle - Android Central",
       "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-pro-design-leaks-hint-at-changes-ahead-for-flagship-lineup",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/vfdeGuDnjLPcDdkqgma7YK.jpg",
       "source": "Android Central",
       "publishedAt": "2025-09-10T19:06:00Z",
-      "description": "Renderování ukazuje nápadnou podobnost se základním modelem Galaxy S25."
+      "description": "Renderované snímky vykazují nápadnou podobu se základním modelem Galaxy S25."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nemoci 'líbajícího se brouka' je nyní endemická v USA, tvrdí vědci. Co je potřeba vědět. - 9News.com",
+      "title": "Nemoc z líbajících se brouků je nyní endemická v USA, tvrdí vědci. Co je třeba vědět.",
       "original_title": "'Kissing bug' disease is now endemic in US, researchers say. What you need to know. - 9News.com",
       "url": "https://www.9news.com/article/news/nation-world/kissing-bug-disease-chagas-disease-now-endemic-in-us-researchers-say/507-6557279f-b15b-434c-b2be-2bc128d9e3fd",
       "urlToImage": null,
@@ -252,62 +219,62 @@
       "urlToImage": "https://www.verizon.com/about/sites/default/files/styles/webp_style/public/2025-09/iphone17family-1230x690.webp",
       "source": "Verizon Communications",
       "publishedAt": "2025-09-10T17:50:01Z",
-      "description": "Pořiďte si novou řadu iPhone 17 u Verizonu s neuvěřitelnými nabídkami, výkonem 5G a zárukou pevné ceny na 3 roky. Předobjednávky od 12. září, dostupné od 19. září."
+      "description": "Pořiďte si novou řadu iPhone 17 u Verizon s neuvěřitelnými nabídkami, výkonem 5G a zárukou 3 roky neměnné ceny. Předobjednávky startují 12. září, dostupné od 19. září."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Některé arlingtonské lékárny začaly nabízet vakcíny proti covidu-19 bez předpisu",
-      "original_title": "Some Arlington pharmacies begin offering Covid-19 shots without prescriptions - ARLnow",
-      "url": "https://www.arlnow.com/2025/09/10/some-arlington-pharmacies-begin-offering-covid-19-shots-without-prescriptions/",
-      "urlToImage": "https://www.arlnow.com/wp-content/uploads/2025/09/img_6541_720.jpg",
-      "source": "ARLnow",
-      "publishedAt": "2025-09-10T17:45:28Z",
-      "description": "Po změně federálních pokynů pro vakcíny proti covidu-19 nabízejí některé lékárny v Arlingtonu očkování bez předpisu. Ještě před pár dny vyžadovaly všechny pobočky CVS ve Virginii pro většinu pacien..."
+      "title": "Princ Harry byl spatřen, jak přijíždí do londýnské rezidence krále Karla – mohlo by jít o první setkání za 19 měsíců",
+      "original_title": "Prince Harry Seen Arriving At King Charles’ London Residence—Could Be First Meeting In 19 Months - Forbes",
+      "url": "https://www.forbes.com/sites/conormurray/2025/09/10/prince-harry-meets-with-king-charles-for-first-time-in-19-months/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c1b2df01d8ce137ed8f50d/0x0.jpg?format=jpg&crop=4302,2422,x690,y120,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-09-10T17:20:11Z",
+      "description": "Princ Harry a král Karel III. se naposledy setkali v únoru 2024 po králově diagnóze rakoviny."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Explodující černá díra by mohla odhalit základy vesmíru",
-      "original_title": "An exploding black hole could reveal the foundations of the universe - Phys.org",
-      "url": "https://phys.org/news/2025-09-black-hole-reveal-foundations-universe.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/an-exploding-black-hol.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-10T15:46:48Z",
-      "description": "Fyzici dlouho věřili, že černé díry na konci svého života explodují a že k takovým explozím dochází maximálně jednou za 100 000 let. Nový výzkum však publikovaný v Physical Review Letters fyziky z ..."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Jak Paul McCartney a Elton John prosili, aby mohli být v pokračování ‚Spinal Tap‘",
-      "original_title": "How Paul McCartney and Elton John begged to be in ‘Spinal Tap’ sequel - San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/entertainment/article/rob-reiner-spinal-tap-ii-20807318.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/17/23/28374212/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-09-10T13:14:40Z",
-      "description": "Rob Reiner mluví o ‘Spinal Tap II’, rockových ikonách od Morrisona po McCartneyho a o tom, jak se kultovní klasika z parodie stala oblíbenou mezi muzikanty."
+      "title": "Emma Heming Willisová vysvětluje, proč má Bruce Willis kvůli péči o demenci vlastní domov: \"Každá cesta pečovatele je jedinečná",
+      "original_title": "Emma Heming Willis explains why Bruce Willis has separate home as part of dementia care: \"Each caregiving journey is our own\" - CBS News",
+      "url": "https://www.cbsnews.com/news/emma-heming-willis-bruce-willis-caregiving-journey-frontotemporal-dementia/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/ef9ef857-6f95-4ac1-90cd-1080c3359b45/thumbnail/1200x630/1700d6282a46aaab1ad4ee5cd23da126/0910-cmo-willis.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-10T16:57:00Z",
+      "description": "Emma Heming Willisová říká, že rozhodnutí rodiny zajistit Bruci Willisovi samostatný domov je o bezpečí a podpoře při zvládání jeho diagnózy demence."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple iPhone Air a iPhone 17 mají čip A19 s ochranou paměti odolnou proti spywaru",
-      "original_title": "Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety - The Hacker News",
-      "url": "https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIc1QgZZdOOu9jQtxubJBFHmvw4qLx40ihiXPLh2OxNaah10hDEBugyyYCv1sjQKw8k-VKw6wGRWPZhclMXqjT2WDKUghP8iKJqAmjM2ytlLCPgtWSDONfGR8SFPPubQGwfBIH37pc2db46JzDHvJo_H6yH8KywjBPNNOidUwtJPc2urPlb61QyI8agqb2/s728-rw-e365/apple.jpg",
-      "source": "Internet",
-      "publishedAt": "2025-09-10T10:21:00Z",
-      "description": "iPhone 17 od Applu uvádí na trh vynucení integrity paměti, které blokuje přetečení bufferu a spyware s minimálním dopadem na výkon."
+      "title": "Boxer s bilancí 17-0, který sparoval s Terencem Crawfordem, vyjadřuje velké obavy o bradu před zápasem s Canelom Alvarezem",
+      "original_title": "17-0 boxer who sparred Terence Crawford expresses major chin concern ahead of Canelo Alvarez fight - Bloody Elbow",
+      "url": "https://bloodyelbow.com/2025/09/10/17-0-boxer-who-sparred-terence-crawford-expresses-major-chin-concern-ahead-of-canelo-alvarez-fight/",
+      "urlToImage": "https://bloodyelbow.com/wp-content/uploads/1/2025/09/canelo-alvarez-terence-crawford-mystery-1757514650747-1.jpg",
+      "source": "Bloody Elbow",
+      "publishedAt": "2025-09-10T15:00:00Z",
+      "description": "Vydrží Terence Crawford bradu souboj s Canelem Alvarezem?"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Armáda se snaží obnovit pořádek v Nepálu po eskalaci násilí při protestech",
-      "original_title": "Army tries to restore order in Nepal after protest violence intensifies - Politico",
-      "url": "https://www.politico.com/news/2025/09/10/army-tries-to-restore-order-in-nepal-after-protest-violence-intensifies-00554969",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb8%2F90%2F8b9fa45847bf9392a90e9b141631%2Faptopix-nepal-protest-24434.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-10T05:35:00Z",
-      "description": "Vláda zapálila budovy a napadla politiky."
+      "title": "Webbův teleskop NASA pozoruje obrovský hvězdný výtrysk na okraji naší Mléčné dráhy",
+      "original_title": "NASA’s Webb Observes Immense Stellar Jet on Outskirts of Our Milky Way - NASA Science (.gov)",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-immense-stellar-jet-on-outskirts-of-our-milky-way/",
+      "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K47ZQ63EQ919RD23C62RHQPY.jpg",
+      "source": "NASA",
+      "publishedAt": "2025-09-10T14:00:00Z",
+      "description": "Žhavý proud plynů tryskající z hvězdy-monstra zachycen Webbovým teleskopem NASA"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Obezita u dětí předstihla podvýživu — UNICEF",
+      "original_title": "Obesity surpasses undernourishment among children — UNICEF - DW",
+      "url": "https://www.dw.com/en/obesity-surpasses-undernourishment-among-children-unicef/a-73941877",
+      "urlToImage": "https://static.dw.com/image/59169246_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-09-10T04:35:06Z",
+      "description": "Poprvé je na světě více obézních než podvyživených dětí — kromě subsaharské Afriky a jižní Asie."
     }
   ]
 }
