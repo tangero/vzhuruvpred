@@ -1,131 +1,175 @@
 {
-  "last_updated": "2025-09-11T23:16:34",
+  "last_updated": "2025-09-12T01:18:02",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Chronicky nemůžete spát? Podle nové studie by to mohlo způsobit stárnutí mozku.",
+      "original_title": "Chronically sleepless? New study suggests it might cause your brain to age. - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/10/chronic-insomnia-sleep-brain-aging/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GHWHMAXD34I6VAWYLZK5I7UQZI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-11T00:31:35Z",
+      "description": "Nová studie v časopise Neurology ukazuje, že lidé s chronickou nespavostí mají vyšší pravděpodobnost kognitivního postižení, ale není jasné, zda jde o asociaci nebo kauzalitu."
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Profesor z Texasu A&M propuštěn po zveřejnění videa s konfrontací v hodině o genderové identitě",
+      "title": "V roce 2024 COVID vypadl z žebříčku deseti nejčastějších příčin úmrtí v USA.",
+      "original_title": "In 2024, COVID dropped from the list of top 10 causes of death in U.S. - NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/09/10/nx-s1-5537078/u-s-death-rates-covid-2024",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2F34%2F92d3cb664b5292c2a6194069ca2f%2Fgettyimages-1237709034.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-10T22:43:31Z",
+      "description": "Poprvé od roku 2020 není covid jednou z deseti hlavních příčin úmrtí v USA"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Musk přišel o korunu nejbohatšího člověka světa, ale hned si ji vzal zpět",
+      "original_title": "Musk loses crown as the world’s richest person to Larry Ellison and then snatches it back. - AP News",
+      "url": "https://apnews.com/article/richest-billionaires-musk-ellison-oracle-tesla-bloomberg-forbes-e90a3cab2a0b256923ca55814893f9fe",
+      "urlToImage": "https://dims.apnews.com/dims4/default/32cc3d5/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F96%2F1c5bb1ad138a003af8e9977d3e1b%2F3d6ff039aa4f4387a4ea8f89328ed5b1",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-10T22:02:00Z",
+      "description": "Souboj miliardářů o titul nejbohatšího člověka světa se ve středu přiživil překvapivým vzestupem starého konkurenta: Larryho Ellisona. Během několika úžasných minut obchodování na začátku dne akcie..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Profesor z Texasu A&M propuštěn po zveřejnění videa ze střetu o výuce genderové identity",
       "original_title": "Texas A&M professor fired after video shows classroom confrontation over gender identity coursework - AP News",
       "url": "https://apnews.com/article/texas-am-professor-fired-gender-identity-758d0001633e2109d4403b2379cd5d21",
       "urlToImage": "https://dims.apnews.com/dims4/default/d97000d/2147483647/strip/true/crop/2400x1350+0+124/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2Ff1%2F4e2af4b69a02ddd210d7dac0ad99%2F546419797b0f42c7a85b12dab25cf3ee",
       "source": "Associated Press",
       "publishedAt": "2025-09-10T21:13:00Z",
-      "description": "Profesor z Texaské univerzity A&M byl propuštěn a další byli odvoláni z funkcí poté, co se objevilo video, na kterém student konfrontoval učitelku kvůli její výuce témat genderové identity v hodině..."
+      "description": "Profesor z Texaské univerzity A&M byl propuštěn a další byli odvoláni z funkcí poté, co se objevilo video, v němž student konfrontoval učitelku kvůli její výuce témat genderové identity v hodinách ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mimozemský život potřebuje správnou atmosféru. Tato planeta 40 světelných let daleko by mohla vyhovovat, říkají vědci.",
+      "title": "Federální soudce dočasně zablokoval Trumpův pokus o odvolání guvernérky Fedu Lisy Cookové",
+      "original_title": "Federal judge temporarily blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook - ABC News",
+      "url": "https://abcnews.go.com/Politics/federal-judge-temporarily-blocks-trumps-attempt-fire-federal/story?id\\\\u003d125423530",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-10T21:12:29Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vysocí představitelé Hamásu pravděpodobně přežili izraelské údery v Dauhá, uvádějí izraelské zdroje",
+      "original_title": "Senior Hamas officials likely survived Israeli strikes on Doha, Israeli sources say - ABC News",
+      "url": "https://abcnews.go.com/International/senior-hamas-officials-survived-israeli-strikes-doha/story?id\\\\u003d125438560",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-10T21:00:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Polsko reaguje na průnik ruských dronů vyvoláním článku 4 Severoatlantické smlouvy. Co bude dál?",
+      "original_title": "Poland responds to Russian drones incursion by invoking Article 4 of the NATO treaty − what happens next? - The Conversation",
+      "url": "https://theconversation.com/poland-responds-to-russian-drones-incursion-by-invoking-article-4-of-the-nato-treaty-what-happens-next-265051",
+      "urlToImage": "https://images.theconversation.com/files/690265/original/file-20250910-56-grrps0.jpg?ixlib=rb-4.1.0&rect=0%2C4%2C8192%2C4096&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source": "The Conversation Africa",
+      "publishedAt": "2025-09-10T20:48:48Z",
+      "description": "Stíhačky NATO vyslány k sestřelu nejméně 10 ruských dronů po jejich proniknutí do polského vzdušného prostoru."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Mimozemský život potřebuje správnou atmosféru. Tato planeta 40 světelných let daleko by mohla být tím pravým, říkají vědci.",
       "original_title": "Extraterrestrial life needs the right atmosphere. This planet 40 light-years away might fit the bill, scientists say. - NBC News",
       "url": "https://www.nbcnews.com/science/space/trappist1e-atmosphere-extraterrestrial-life-planet-earth-conditions-rcna229839",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250908-trappist-exoplanet-vl-1228p-db7c5d.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-10T20:40:04Z",
-      "description": "Podle nového výzkumu může mít skalnatá planeta velikosti Země v naší galaxii Mléčné dráze atmosféru"
+      "description": "V Mléčné dráze byl objeven kamenný planeta velikosti Země, která by mohla mít atmosféru"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Prohlédněte si Epsteinův kompletní ‚narozeninový seznam‘ s údajnými osobními vzkazy od Trumpa, Clintonové a dalších",
+      "title": "Prohlédněte si Epsteinův kompletní ‚narozeninový almanach‘ s údajnými osobními vzkazy od Trumpa, Clintona a dalších",
       "original_title": "See Epstein’s full ‘birthday book,’ with alleged personal messages from Trump, Clinton and others - PBS",
       "url": "https://www.pbs.org/newshour/nation/see-epsteins-full-birthday-book-with-alleged-personal-messages-from-trump-clinton-and-others",
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/Screenshot-2025-09-10-at-3.22.16%E2%80%AFPM.png",
       "source": "PBS",
       "publishedAt": "2025-09-10T20:36:14Z",
-      "description": "Soubor osobních vzkazů napsaných k padesátým narozeninám Jeffreyho Epsteina nabízí portrét odsouzeného sexuálního delikventa na děti prostřednictvím obscénních kreseb, obrázků a zpráv plných sexuál..."
+      "description": "Sbírka osobních vzkazů napsaných k padesátým narozeninám Jeffreyho Epsteina nabízí portrét odsoušeného sexuálního delikventa na děti prostřednictvím sprostých kreseb, obrázků a zpráv plných sexuáln..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Život na Marsu? NASA tvrdí, že vzorek horniny vykazuje potenciální známky dávného života",
+      "title": "Úřad inspektora ministerstva práce zahajuje šetření Úřadu pro statistiku práce",
+      "original_title": "Labor Department watchdog launches probe into the Bureau of Labor Statistics - CBS News",
+      "url": "https://www.cbsnews.com/news/bls-jobs-inflation-department-of-labor-trump/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/6fdb0b5a-69d9-461d-8983-81ad80291f3b/thumbnail/1200x630/e23ec7d3642db78adf296120a6c3274e/gettyimages-2233831094.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-10T20:23:00Z",
+      "description": "Interní přezkum, který se zaměří na to, jak BLS shromažďuje a zveřejňuje ekonomická data, následuje po tvrzení prezidenta Trumpa, že je statistický úřad zpolitizovaný."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Život na Marsu? Podle NASA vzorek horniny vykazuje potenciální známky dávného života",
       "original_title": "Life on Mars? NASA says a rock sample shows potential signs of ancient life - NPR",
       "url": "https://www.npr.org/2025/09/10/nx-s1-5536552/nasa-mars-rover-life-biosignature-rock-sample",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1648x927+0+119/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2F3c%2Ff639a67e4507a550621d7299e66d%2Fmars-leopard-spot-life-signature.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-10T20:14:56Z",
-      "description": "Starobylé organismy možná zanechaly na Marsu mikroskopické „biopodpisy“. Tvrdí to vědci z NASA, podle nichž vzorek horniny nabízí dosud nejkonkrétnější důkaz, že rudá planeta kdysi hostila život."
+      "description": "Starobylé organismy možná zanechaly na Marsu mikroskopické „biostopy“. Tvrdí to vědci z NASA, podle kterých vzorek kamene nabízí nejpádnější důkaz, že rudá planeta kdysi hostila život."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejvyšší soud povolil transgender žákovi používat chlapecké toalety v jedné škole v Jižní Karolíně",
-      "original_title": "Supreme Court allows transgender student to use boys' restrooms at S.C. school - NBC News",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-transgender-student-use-boys-restrooms-south-carolina-rcna228807",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240105-bathroom-signs-mn-1507-f142d0.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-10T20:11:00Z",
-      "description": "Rozhodnutí umožňuje studentovi známému jako John Doe používat toaletu odpovídající jeho genderové identitě po dobu trvání soudního sporu."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Izrael po útoku na Hamás v Kataru vyhrožuje ‚nepřátelům kdekoli‘",
-      "original_title": "Israel threatens ‘enemies everywhere’ after strike against Hamas in Qatar - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/09/10/israel-qatar-strike-hamas/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INRXJL26XFIEXFEBZUBDASQ4LI.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-10T20:10:24Z",
-      "description": "Hamas uvedl, že Chalíl al-Hajjá, který vedl nepřímá jednání o příměří s Izraelem, přežil smrtící útok na svou vilu v katarské Dauhá."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Co vědět o Polsku vyvolávajícím článek 4 NATO s odkazem na porušení vzdušného prostoru Ruskem",
-      "original_title": "What to know as Poland invokes NATO Article 4, citing Russian drone violation - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/09/10/poland-russia-ukraine-drone-article-4-nato/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SSX4OOPKR4CNX6V4IBPGRGE5GM.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-10T19:22:10Z",
-      "description": "Polsko obvinilo Rusko z 19 narušení svého vzdušného prostoru během nočního bombardování Ukrajiny. Moskva popírá, že by drony byly ruské."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Polly Hollidayová, která hrála Flo v seriálu ‚Alice‘, zemřela ve věku 88 let",
-      "original_title": "Polly Holliday, Who Played Flo on ‘Alice,’ Dies at 88 - Variety",
-      "url": "https://variety.com/2025/tv/obituaries-people-news/polly-holliday-dead-flo-alice-1236514425/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/polly-holliday-obit.jpg?crop=0px%2C89px%2C1199px%2C675px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-09-10T19:21:00Z",
-      "description": "Polly Hollidayová, herečka ztvárňující drzou servírku Flo ze seriálu Alice a hvězda filmu Gremlins, zemřela. Bylo jí 88 let."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "CDC varuje před smrtelnou bakteriální nemocí hlášenou v Arkansasu",
-      "original_title": "CDC warns of deadly bug disease that's been reported in Arkansas - 5newsonline.com",
-      "url": "https://www.thv11.com/article/life/animals/cdc-deadly-bug-disease-reported-arkansas/91-3a9838d8-4f6e-4de1-af34-f9f80774dcba",
-      "urlToImage": "https://media.thv11.com/assets/KHOU/images/aa564df0-ac8d-4ff2-99b4-877abce92370/20250910T132432/aa564df0-ac8d-4ff2-99b4-877abce92370_1140x641.jpg",
-      "source": "THV11.com KTHV",
-      "publishedAt": "2025-09-10T18:08:00Z",
-      "description": "CDC varuje před smrtícím broukem v Arkansasu a dalších státech. Zde jsou informace o tomto hmyzu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Harrisová píše, že rozhodnutí Bidena znovu kandidovat nemělo být \"ponecháno egu jednotlivce",
-      "original_title": "Harris writes Biden decision to run again shouldn't have been \"left to an individual's ego\" - CBS News",
-      "url": "https://www.cbsnews.com/news/kamala-harris-joe-biden-2024-election-decision-book-excerpt/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/29/67f2060b-217a-419f-a438-82d9bbc9f0ad/thumbnail/1200x630/fa089cff94cebea52bcd7d572f33facb/gettyimages-2177890992.jpg",
+      "title": "Střelba na střední škole Evergreen v Coloradu zranila tři studenty; záchranáři „nejsou jisti počtem střelců“",
+      "original_title": "Shooting at Evergreen High School in Colorado leaves 3 students hurt; first responders \"not certain how many shooters\" - CBS News",
+      "url": "https://www.cbsnews.com/colorado/news/shooting-evergreen-high-school-denver-metro-area/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/1a9e3f5a-273f-428f-81b4-19f57a352522/thumbnail/1200x630/66ae8926b3eb7d20363f38091ea5f6b5/shooting1.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-09-10T17:38:30Z",
-      "description": "Kniha bývalé viceprezidentky Kamaly Harrisové „107 dní“ popíše její sprint za prezidentským úřadem."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Larry Ellison z Oracle překonal Elona Muska a stal se nejbohatším mužem světa",
-      "original_title": "Oracle's Larry Ellison surpasses Elon Musk as world's richest man - BBC",
-      "url": "https://www.bbc.com/news/articles/cx2rp992y88o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/398b/live/d9604380-8e5e-11f0-96e7-475804d250b1.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-10T17:33:51Z",
-      "description": "Jmění spoluzakladatele Oracle se díky rozmachu umělé inteligence dočasně přehouplo přes Muskův majetek."
+      "publishedAt": "2025-09-10T20:14:52Z",
+      "description": "Šerif Jefferson County uvádí, že si není jistý, kolik střelců se podílelo na střelbě na škole, která zranila tři studenty v Evergreenu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bývalí vysoké úředníci FBI podali žalobu, tvrdí, že je Kash Patel propustil, aby si udržel Trumpovu přízeň",
+      "title": "Boeing dosáhl předběžné dohody se stávkujícími obrannými pracovníky",
+      "original_title": "Boeing reaches tentative labor deal with striking defense workers - CNBC",
+      "url": "https://www.cnbc.com/2025/09/10/iam-union-boeing-agreement-strike.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181068-1754310984824-gettyimages-2227800226-BOEING_DEFENSE_STRIKE.jpeg?v=1754311013&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-10T19:46:49Z",
+      "description": "Odborový svaz IAM ve středu oznámil, že dosáhl předběžné pětileté dohody s Boeingen o lepších mzdách."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "V autě zpěváka D4vda, které bylo na policejním parkovišti, našli mrtvé tělo, oznámila policie. O několik hodin později vystoupil na pódiu. - yahoo.com",
+      "original_title": "A dead body was found in singer D4vd's impounded car, police said. Hours later, he performed on stage. - yahoo.com",
+      "url": "https://www.yahoo.com/entertainment/music/article/a-dead-body-was-found-in-singer-d4vds-impounded-car-police-said-hours-later-he-performed-on-stage-192055795.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HIDVLudJ39hMElTUblI65g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/ac829d50-8d95-11f0-afb9-225298340c15",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-10T18:38:57Z",
+      "description": "Losangeleská policie klasifikovala případ jako vyšetřování vraždy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nemoci z líbání je nyní v USA endemická, tvrdí vědci. Co je třeba vědět.",
+      "original_title": "'Kissing bug' disease is now endemic in US, researchers say. What you need to know. - KUSA.com",
+      "url": "https://www.9news.com/article/news/nation-world/kissing-bug-disease-chagas-disease-now-endemic-in-us-researchers-say/507-6557279f-b15b-434c-b2be-2bc128d9e3fd",
+      "urlToImage": "https://media.9news.com/assets/CCT/images/c40ad55e-e67d-4408-8455-9d8c0adc6a04/20250910T180428/c40ad55e-e67d-4408-8455-9d8c0adc6a04_1140x641.jpg",
+      "source": "9News.com KUSA",
+      "publishedAt": "2025-09-10T18:37:00Z",
+      "description": "Krev sající hmyz přenášející nemoc byl identifikován ve 32 státech."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bývalé špičky FBI žalují, podle nich je Kash Patel vyhodil, aby si udržel Trumpovu přízeň",
       "original_title": "Former top FBI officials sue, say Kash Patel fired them to stay in Trump's good graces - NBC News",
       "url": "https://www.nbcnews.com/politics/justice-department/former-top-fbi-officials-sue-say-kash-patel-fired-stay-trumps-good-gra-rcna230369",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250804-Kash-Patel-aa-416-76b20b.jpg",
@@ -136,46 +180,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Emma Heming Willisová vysvětluje, proč má Bruce Willis kvůli péči o demenci vlastní domov: \"Každá cesta pečujícího je jedinečná",
+      "title": "Vědci našli důkazy tekoucí vody na starověké mateřské planetce Ryugu. ‚Bylo to opravdové překvapení!‘",
+      "original_title": "Scientists find evidence of flowing water on Ryugu’s ancient parent asteroid. 'It was a genuine surprise!' - Space",
+      "url": "https://www.space.com/astronomy/asteroids/scientists-find-evidence-of-flowing-water-on-ryugus-ancient-parent-asteroid-it-was-a-genuine-surprise",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DMKcJui3NqMyFxZHBDCctT.png",
+      "source": "Space.com",
+      "publishedAt": "2025-09-10T17:00:00Z",
+      "description": "To nás nutí přehodnotit počáteční podmínky vodního systému naší planety."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Emma Heming Willisová vysvětluje, proč má Bruce Willis kvůli péči o demenci vlastní domov: \"Každá cesta pečovatele je jedinečná",
       "original_title": "Emma Heming Willis explains why Bruce Willis has separate home as part of dementia care: \"Each caregiving journey is our own\" - CBS News",
       "url": "https://www.cbsnews.com/news/emma-heming-willis-bruce-willis-caregiving-journey-frontotemporal-dementia/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/ef9ef857-6f95-4ac1-90cd-1080c3359b45/thumbnail/1200x630/1700d6282a46aaab1ad4ee5cd23da126/0910-cmo-willis.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-10T16:57:01Z",
-      "description": "Emma Heming Willisová říká, že rozhodnutí rodiny zajistit Bruci Willisovi samostatný domov je o bezpečí a podpoře při zvládání jeho diagnózy demence."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "David Zaslav tvrdí, že televize se stala „otřesným zážitkem pro diváky“",
-      "original_title": "David Zaslav Says TV Has Become a “Terrible Consumer Experience” - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/business/business-news/david-zaslav-tv-terrible-hbo-max-password-sharing-crackdown-1236367283/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2233858924-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-10T16:52:30Z",
-      "description": "No, ne jeho pořady."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Canelo Alvarez vs. Terence Crawford: Karta zápasů, začátek, kde sledovat",
-      "original_title": "Canelo Alvarez vs Terence Crawford: Fight card, start time, where to watch - Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2025/9/10/canelo-alvarez-vs-terence-crawford-fight-card-start-time-where-to-watch",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-06-20T191657Z_93966840_UP1EL6K1HK8DS_RTRMADP_3_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD-1757220415.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-10T15:56:15Z",
-      "description": "Vše, co potřebujete vědět o sjednocujícím blokovém zápase o titul superstřední váhy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Klarna vstupuje na burzu: Akcie při debutu na trhu posílily o 15 % - Barron's",
-      "original_title": "Klarna IPO: Stock Climbs 15% in Trading Debut - Barron's",
-      "url": "https://www.barrons.com/articles/klarna-ipo-stock-price-ticker-75e2512e",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-09-10T15:33:45Z",
-      "description": ""
+      "description": "Emma Heming Willisová říká, že rozhodnutí její rodiny zajistit Bruci Willisovi samostatný domov je o bezpečí a podpoře při zvládání jeho diagnózy demence."
     },
     {
       "flag": "🌍",
@@ -186,40 +208,29 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Apple-Watch-Series-11.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-10T15:21:05Z",
-      "description": "Apple představilo Watch Series 11, Ultra 3 a dostupnou SE třetí generace. Rozebíráme jejich rozdíly, abychom vám pomohli vybrat to pravé pro vás."
+      "description": "Apple představilo Watch Series 11, Ultra 3 a cenově dostupný třetí model SE. Poradíme vám, který je pro vás ten pravý."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Únik renderů Samsung Galaxy S26 Pro odhaluje známý design a větší displej - 9to5Google",
+      "original_title": "Samsung Galaxy S26 Pro renders leak with familiar design and a bigger display - 9to5Google",
+      "url": "http://9to5google.com/2025/09/10/samsung-galaxy-s26-pro-renders-leak-with-familiar-design-and-a-bigger-display/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/S25-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-10T15:20:00Z",
+      "description": "Galaxy S26 Pro má převzít roli základního modelu Samsungu, ale kromě názvu a větší obrazovky vypadá docela povědomě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Detektor gravitačních vln potvrzuje teorie Einsteina a Hawkinga: ‚Toto je dosud nejjasnější pohled na podstatu černých děr‘",
+      "title": "Detektor gravitačních vln potvrzuje teorie Einsteina a Hawkinga: ‚Máme nejjasnější pohled na povahu černých děr‘",
       "original_title": "Gravitational wave detector confirms theories of Einstein and Hawking: 'This is the clearest view yet of the nature of black holes' - Space",
       "url": "https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/vjACz8ynv7vJdtiTiiXKST.png",
       "source": "Space.com",
       "publishedAt": "2025-09-10T15:00:00Z",
-      "description": "GW250114 je dosud nejhlasitější zaznamenaná událost gravitačních vln; byl to jako šepot, který přešel v křik."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Více dětí na světě je obézních než podvyživených, varuje UNICEF",
-      "original_title": "More of the world’s children are now obese than underweight, UNICEF warns - CNN",
-      "url": "https://www.cnn.com/2025/09/10/health/childhood-obesity-unicef-intl-scli",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2149487366.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-10T14:03:00Z",
-      "description": "Podle UNICEF je obézních dětí a dospívajících poprvé více než podvyživených"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Webbův teleskop NASA pozoruje obrovský hvězdný výtrysk na okraji naší Mléčné dráhy",
-      "original_title": "NASA’s Webb Observes Immense Stellar Jet on Outskirts of Our Milky Way - NASA Science (.gov)",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-observes-immense-stellar-jet-on-outskirts-of-our-milky-way/",
-      "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K47ZQ63EQ919RD23C62RHQPY.jpg",
-      "source": "NASA",
-      "publishedAt": "2025-09-10T14:00:00Z",
-      "description": "Žhavý proud plynů tryskající z vulkanicky rostoucí monstrózní hvězdy zachytil vesmírný teleskop Jamese Webba."
+      "description": "GW250114 je dosud nejhlasitější zaznamenaná událost gravitačních vln; bylo to, jako když šepot přejde v křik."
     },
     {
       "flag": "🌍",
@@ -230,40 +241,18 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1536251840-1-e1703256269550.jpg?resize=1200,675",
       "source": "TechCrunch",
       "publishedAt": "2025-09-10T11:00:00Z",
-      "description": "Spotify konečně spouští podporu bezstratového streamování hudby, po které uživatelé roky volali."
+      "description": "Spotify po letech konečně spouští bezstratový přenos hudby, který zákazníci požadovali."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "New Jersey usnadnilo získání vakcíny proti covidu více než většina států, jde proti novým federálním pravidlům",
-      "original_title": "N.J. just made it easier to get a COVID vaccine than most states, going against new federal rules - NJ.com",
-      "url": "https://www.nj.com/politics/2025/09/anyone-will-be-able-to-get-a-covid-19-vaccine-in-nj-murphy-administration-says.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/DM3WCAU4EBFXBLQLZUHURUAGR4.jpg?auth=b1fe7abd4e9ac07b1f70f7df601a43421d97c434c0eaaeae33ea6e86132943a9&width=1280&quality=90",
-      "source": "nj.com",
-      "publishedAt": "2025-09-10T10:19:00Z",
-      "description": "Ministerstvo zdravotnictví udělilo lékárníkům pravomoc očkovat bez předpisu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "CDC zaznamenalo 4% pokles úmrtnosti v USA v roce 2024. Podle expertů může být pokles způsoben covidem",
-      "original_title": "CDC finds 4% drop in US death rate in 2024. Experts say decline may be due to COVID - ABC News",
-      "url": "https://abcnews.go.com/Health/us-death-rate-drops-4-2024-covid-falls/story?id\\\\u003d125414805",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-10T05:48:45Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Přímý přenos z Apple Events: právě představeny iPhone 17, iPhone Air, AirPods Pro 3 a nové nositelné doplňky",
+      "title": "Přímý přenos události Apple: právě představeny iPhone 17, iPhone Air, AirPods Pro 3 a nové nositelné produkty",
       "original_title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
       "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/f1d469c721e25a192a169f6d3f22eaa3f15c2a02/2025/09/09/80954138-b402-4af5-ba58-786eeb0fb785/17pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-10T01:37:00Z",
-      "description": "ZDNET přináší všechny novinky o tomto týdnu akce společnosti Apple včetně řady iPhone 17, která začíná na 799 dolarech, Apple Watch Series 11, AirPods Pro 3 a dalších."
+      "description": "ZDNET přináší všechny zprávy o tomto týdnu akce společnosti Apple, včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Series 11, AirPods Pro 3 a dalších."
     }
   ]
 }
