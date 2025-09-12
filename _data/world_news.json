@@ -1,10 +1,76 @@
 {
-  "last_updated": "2025-09-12T18:21:15",
+  "last_updated": "2025-09-12T19:13:38",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Virginie usnadňuje přístup k vakcínám proti covidu s rostoucím počtem případů",
+      "original_title": "Virginia makes it easier to access covid vaccines as virus cases rise - The Washington Post",
+      "url": "https://www.washingtonpost.com/dc-md-va/2025/09/11/covid-vaccine-virginia-pharmacies/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWYW3ISG7ZWWKGGHGKJ6ZABTLU.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-11T19:25:27Z",
+      "description": "Virginie umožňuje starším a chronicky nemocným očkování v lékárnách bez předpisu."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Ninin TikTok o „dalších 10 ženách“, které se snaží „napravit“ muže, znovuobjevený fanoušky 5 dní před zprávou o rozchodu se Shaunem Whitem",
+      "original_title": "Nina Dobrev's TikTok About '10 Other Women' Trying to 'Fix' a Man Posted 5 Days Before Shaun White Split News Resurfaced by Fans - Yahoo News UK",
+      "url": "https://people.com/nina-dobrev-tiktok-trying-to-fix-man-resurfaced-fans-after-shaun-white-split-11808329",
+      "urlToImage": "https://people.com/thmb/Rnx1r3N8wUfpP4vBf1htdS_aBEk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(750x414:752x416)/Nina-Dobrev-Shaun-White-091125-tout-03-c7adabaf959e4a23bf5618a5bb1c2d91.jpg",
+      "source": "PEOPLE",
+      "publishedAt": "2025-09-11T19:20:30Z",
+      "description": "TikTok, který Nina Dobrev zveřejnila několik dní předtím, než PEOPLE potvrdili rozpad jejího zasnoubení se Shaunem Whitem, vyvolává u fanoušků rozpaky. Ve videu herečka synchronizuje pusu s audiem ..."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Starmerovi po propuštění Mandelsona nově hrozí kritika",
+      "original_title": "Starmer facing fresh questions after Mandelson sacking - BBC",
+      "url": "https://www.bbc.com/news/articles/cy0v81zeggko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2484/live/4a3c56a0-8ef7-11f0-ad1d-477615c292d0.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-11T19:18:41Z",
+      "description": "Konzervativci žádají premiéra, aby „přiznal“, co věděl o vazbách lorda Mandelsona na odsouzeného pedofila Jeffreyho Epsteina."
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Charlie Kirk zastřelen na utažské akci; pátrání po střelci stále probíhá",
+      "title": "Exkluzivně | Paramount Skydance připravuje nabídku na převzetí Warner Bros. Discovery s podporou Ellisona",
+      "original_title": "Exclusive | Paramount Skydance Prepares Ellison-Backed Bid for Warner Bros. Discovery - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/media/paramount-skydance-prepares-ellison-backed-bid-for-warner-bros-discovery-0b921c20",
+      "urlToImage": "https://images.wsj.net/im-92271509/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-11T18:40:00Z",
+      "description": "Většina plánované nabídky na Warner bude tvořena hotovostí"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jihokorejští dělníci zadržení při imigrační razii opustili Atlantu a míří domů",
+      "original_title": "South Korean workers detained in immigration raid leave Atlanta and head home - NPR",
+      "url": "https://www.npr.org/2025/09/11/g-s1-88213/south-korean-hyundai-workers-immigration-raid-atlanta-airport",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1968+0+180/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F3c%2Faac5c6c047c28625fe23073f511e%2Fap25254570093919.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-11T18:37:03Z",
+      "description": "Letadlo s více než 300 jihokorejskými dělníky zadrženými při imigrační raidii v továrně na baterie v Georgii minulý týden opustilo Atlantu kolem poledne ve čtvrtek a míří do Jižní Koreje."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Porota na Floridě začala soudit Ryana Routha obviněného z pokusu o atentát na Trumpa",
+      "original_title": "Jury trial of Ryan Routh, man accused of trying to kill Trump, begins in Florida - NPR",
+      "url": "https://www.npr.org/2025/09/11/nx-s1-5537064/trump-attempted-assassination-trial-ryan-routh",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5248x2952+0+290/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F11%2F8234d0334eb985b7cf3c28e6e763%2Fap25251522243410.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-11T18:28:57Z",
+      "description": "Routh je obviněn z pokusu o atentát na kandidáta na prezidenta. Za trestný čin hrozí až doživotní vězení. Routh, který není právník, se v případu zastupuje sám."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Charlie Kirk zastřelen na akci v Utahu; pátrání po střelci stále probíhá",
       "original_title": "Charlie Kirk shot and killed at Utah event; manhunt for shooter still ongoing - CBS News",
       "url": "https://www.cbsnews.com/live-updates/charlie-kirk-shot-utah-turning-point-usa/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/b8e5a0b8-1e16-485b-a568-f61b1e80309e/thumbnail/1200x630g1/5e93d296eb11f678997e65a554e91d95/2025-09-10t195413z-316441976-rc27pga5ejlm-rtrmadp-3-usa-utah-shooting-charlie-kirk.jpg",
@@ -26,46 +92,46 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie Warner Bros. Discovery letí vzhůru po zprávě, že Paramount Skydance Davida Ellisona chystá nabídku na převzetí",
-      "original_title": "Warner Bros. Discovery Shares Spike on Report David Ellison’s Paramount Skydance Readying Acquisition Bid - Variety",
-      "url": "https://variety.com/2025/tv/news/warner-bros-discovery-paramount-skydance-acquisition-bid-1236515351/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/David-Ellison.jpg?crop=0px%2C41px%2C1500px%2C844px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-09-11T17:44:00Z",
-      "description": "Akcie Warner Bros. Discovery vyskočily až o 33 % po zprávě Wall Street Journal, že Paramount Skydance chystá nabídku na převzetí celé společnosti WBD."
+      "title": "Prezident Trump a první dáma si připomněli 11. září slavnostním slibem, že nikdy nezapomenou – Bílý dům (.gov)",
+      "original_title": "President Trump, First Lady Mark 9/11 with Solemn Vow to Never Forget - The White House (.gov)",
+      "url": "https://www.whitehouse.gov/articles/2025/09/president-trump-first-lady-mark-9-11-with-solemn-vow-to-never-forget/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/09/sharing-P20250911DT-0099-2.jpg",
+      "source": "Whitehouse.gov",
+      "publishedAt": "2025-09-11T17:48:35Z",
+      "description": "Dnes, při příležitosti 24. výročí, stáli prezident Donald J. Trump a první dáma slavnostně v Pentagonu, aby uctili památku 2977 obětí, které zahynuly při"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Poptávka po hypotékách prudce roste, když úroky klesly na 6,35 %",
+      "title": "Poptávka po hypotékách roste, úrokové sazby klesly na 6,35 %",
       "original_title": "Home mortgage demand surges as rates drop to 6.35% - NPR",
       "url": "https://www.npr.org/2025/09/11/nx-s1-5538103/home-mortgage-rates-drop-september",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+66/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fb6%2Fc6764c3549fa9f51cf40220384d0%2Fgettyimages-2231824979.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-11T17:28:29Z",
-      "description": "Úrokové sazby zaznamenaly největší týdenní pokles za rok, což vyvolalo nárůst žádostí o nové hypotéky a refinancování."
+      "description": "Úrokové sazby zaznamenaly největší týdenní pokles za rok, což vyvolalo nárůst nových žádostí o koupě a refinancování."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nina Dobrev a Shaun White podle zpráv ukončili zásnuby a překvapivě se rozešli: Přehled jejich pětiletého vztahu",
-      "original_title": "Nina Dobrev and Shaun White reportedly end their engagement in surprise split: A look back at their 5-year relationship - yahoo.com",
-      "url": "https://www.yahoo.com/entertainment/celebrity/article/nina-dobrev-and-shaun-white-reportedly-end-their-engagement-in-surprise-split-a-look-back-at-their-5-year-relationship-172236865.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QabXITmRonG49ulRUV2EOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/766b37c1-8f27-11f0-beff-4928045f12c2",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-11T17:22:36Z",
-      "description": "Dlouholetý pár oznámil své zasnoubení v říjnu 2024."
+      "title": "MAGA viní z atentátu na Charlie Kirka ‚South Park‘ poté, co Comedy Central stáhlo epizodu",
+      "original_title": "MAGA Blames ‘South Park’ for Charlie Kirk Assassination as Comedy Central Pulls Episode - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/south-park-charlie-kirk-maga-1236368149/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/SOUTHPARK_2701_PressImage01.jpg?crop=0px%2C3px%2C1296px%2C725px&resize=1440%2C810",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-11T17:26:15Z",
+      "description": "Naplánované opakování nedávné epizody zesměšňující Kirka bylo staženo z vysílání Comedy Central, zatímco někteří z pravice útočí na pořad."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Epizoda „South Parku“ vysmívající se Charliemu Kirkovi stažena z Comedy Central, zůstává na Paramount+",
-      "original_title": "‘South Park’ Episode Making Fun of Charlie Kirk Pulled From Comedy Central but Remains on Paramount+ - Variety",
-      "url": "https://variety.com/2025/tv/news/charlie-kirk-south-park-pulled-comedy-central-1236515229/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/VS-WatchSouthParkSeason27Episode2SouthPark-GotANut-Paramount-712-e1757607485877.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-11T17:06:00Z",
-      "description": "Po vraždě Charlie Kirka vysílání repríz nedávného dílu South Parku, který se z něj vysmívá, skončilo."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Nadine Menendezová: Manželka expsenátora byla odsouzena k 4,5 roku vězení",
+      "original_title": "Nadine Menendez: Ex-senator's wife sentenced to 4.5 years in prison - BBC",
+      "url": "https://www.bbc.com/news/articles/c5yj6zn22n5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16a9/live/a580a790-8f16-11f0-9671-530d548ef31e.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-11T16:59:47Z",
+      "description": "Nadine Menendezová, jejíž manžel je již ve vězení, byla odsouzena za úlohu v korupčním schématu se zlatými cihlami, hotovostí a mercedesem"
     },
     {
       "flag": "🌍",
@@ -76,29 +142,51 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/46f0ee04ce50b4d820a88a230073829a66918168/2025/09/10/ef80c72e-176d-468b-885f-f843e323a816/tim-cook-apple-event-2025-04.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-11T16:37:00Z",
-      "description": "ZDNET shrnul veškeré zprávy kolem tohoto týdne akce společnosti Apple, včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Ultra 3, AirPods Pro 3 a dalších."
+      "description": "ZDNET shrnul všechny zprávy kolem týdenní akce Applu, včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Ultra 3, AirPods Pro 3 a dalších."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Letadlo s pracovníky Hyundai a LG zadrženými při razii imigrační policie odletělo do Jižní Koreje",
-      "original_title": "Plane carrying Hyundai, LG workers detained in immigration raid departs for South Korea - CNBC",
-      "url": "https://www.cnbc.com/2025/09/11/trump-hyundai-lg-south-korea-workers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197615-1757610027348-AP25254596448168.jpg?v=1757614812&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-11T16:33:50Z",
-      "description": "Letadlo s pracovníky zadrženými při razii v továrně Hyundai-LG v Georgii minulý týden opustilo USA a míří do Jižní Koreje."
+      "title": "Upozornění na 3. řadu seriálu Malé lži: Francesca Sloane bude scenáristkou a podepsala exkluzivní smlouvu s HBO",
+      "original_title": "‘Big Little Lies’ Season 3 Alert: Francesca Sloane Set As Writer, Inks Overall Deal With HBO - Deadline",
+      "url": "http://deadline.com/2025/09/big-little-lies-season-3-francesca-sloane-writer-deal-hbo-1236527668/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Big-Little-Lies-inset-Francesca-Sloane.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-11T16:34:00Z",
+      "description": "Třetí řada seriálu „Big Little Lies“ má scenáristku pilotního dílu, Francescu Sloane podepsala celkovou smlouvu s HBO."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "BH: Analyzujte tento | Reeseův kousek - 247Sports",
+      "original_title": "BH: Analyze this | Reese piece - 247Sports",
+      "url": "https://247sports.com/college/ohio-state/article/ohio-state-ohio-matt-patricia-nfl-draft-253812385/",
+      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/564/164/13164564.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+      "source": "247Sports",
+      "publishedAt": "2025-09-11T16:29:20Z",
+      "description": "Dejte svému dni impuls, který potřebuje, návštěvou Domu"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Gmail usnadňuje sledování nadcházejících zásilek balíků",
+      "original_title": "Gmail makes it easier to track upcoming package deliveries - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/11/gmail-makes-it-easier-to-track-upcoming-package-deliveries/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-11T16:00:00Z",
+      "description": "Google také oznámil aktualizaci kategorie Propagace v Gmailu, která uživatelům umožní třídit „nejrelevantnější“ propagační e-maily."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "NATO posiluje obranu po sestřelení ruských dronů nad Polskem",
+      "title": "Nato posiluje obranu po sestřelení ruských dronů nad Polskem",
       "original_title": "Nato strengthens defences after Russian drones shot down over Poland - BBC",
       "url": "https://www.bbc.com/news/articles/c0lkz2n34z6o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4e15/live/be06b2b0-8f24-11f0-8111-31005f7c48fd.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-11T15:43:36Z",
-      "description": "Německo, Nizozemsko a Česká republika pošlou Polsku další podporu na obranu východního křídla NATO."
+      "description": "Německo, Nizozemsko a Česká republika vyšlou Polsku další podporu na obranu východního křídla NATO."
     },
     {
       "flag": "🇺🇸",
@@ -114,40 +202,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mezihvězdná kometa 3I/ATLAS možná zelená, ukazují nové překvapivé snímky",
-      "original_title": "Interstellar comet 3I/ATLAS could be turning bright green, surprising new photos reveal - Live Science",
-      "url": "https://www.livescience.com/space/comets/interstellar-comet-3i-atlas-could-be-turning-bright-green-surprising-new-photos-reveal",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YquhAjsZAdWVFHMZ2oENSb.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-11T15:03:08Z",
-      "description": "Nové snímky z nedávného zatmění \"krvavého měsíce\" ukazují, že meziplanetární kometa 3I/ATLAS pravděpodobně zezelenala, jak se přiblížila ke Slunci."
+      "title": "Teleskop Jamese Webba vyfotil obří hvězdu chrlící dvojité výtrysky dlouhé 8 světelných let",
+      "original_title": "James Webb Space Telescope images enormous star shooting out twin jets 8 light-years long - Space",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-images-enormous-star-shooting-out-twin-jets-8-light-years-long",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9gwE4ReJwyZ4LPFQnSR2MZ.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-11T15:00:00Z",
+      "description": "Paprsky naznačují skutečnou velikost obří hvězdy, která je zrodila."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Británie odvolala velvyslance ve Washingtonu kvůli e-mailům pro Jeffreyho Epsteina",
-      "original_title": "U.K. fires its ambassador to Washington over emails to Jeffrey Epstein - NPR",
-      "url": "https://www.npr.org/2025/09/11/nx-s1-5537814/jeffrey-epstein-uk-ambassador-mandelson",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6273x3529+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fc7%2F6acb7a5a48fbb2cfcad1324b6163%2Fap25058115605071.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-11T14:26:00Z",
-      "description": "V jednom e-mailu Peter Mandelson napsal Jeffreyovi Epsteinovi: „Mám pro vás obrovskou úctu a cítím se bezmocný a rozzuřený tím, co se stalo.“ V jiné zprávě jej nazval svým „nejlepším kámošem“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nemoc z líbajících se ploštic se šíří po USA, varuje CDC: Co o ní víme",
-      "original_title": "‘Kissing bug’ disease spreading across US, CDC warns: What we know - AL.com",
-      "url": "https://www.al.com/news/2025/09/kissing-bug-disease-spreading-across-us-cdc-warns-what-we-know.html",
-      "urlToImage": "https://www.al.com/resizer/v2/7BYZTE4TZBATPNCB4M2HNNDIMY.jpg?auth=e4e841c4867f16b4dde2f819ba8e60f241f65749109c4e321851ad7c788d11b9&width=1280&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-09-11T14:20:00Z",
-      "description": "Objevuje se potenciálně smrtelná nemoc a šíří se po Spojených státech, zejména na jihu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mobilní quarterback Jayden Daniels prověří tlak na quarterbacka u Packers",
+      "title": "Mobilní quarterback Jayden Daniels prověří obranu Packers - Green Bay Packers – packers.com",
       "original_title": "Mobile QB Jayden Daniels will test Packers’ pass rush - Green Bay Packers – packers.com",
       "url": "https://www.packers.com/news/mobile-qb-jayden-daniels-will-test-packers-pass-rush-week-2-2025",
       "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/dg5jjdqe9gszshz26kag",
@@ -158,13 +224,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Velká sázka Applu na odstranění nejčastěji cílených zranitelností iPhonu",
+      "title": "Velká sázka Applu na odstranění nejčastěji zneužívaných zranitelností iPhonu",
       "original_title": "Apple’s Big Bet to Eliminate the iPhone’s Most Targeted Vulnerabilities - WIRED",
       "url": "https://www.wired.com/story/apple-iphone-17-memory-integrity-enforcement/",
       "urlToImage": "https://media.wired.com/photos/68c09a4280d4121aa5a6c04f/191:100/w_1280,c_limit/spyware-apple-sec-2210115059.jpg",
       "source": "Wired",
       "publishedAt": "2025-09-11T13:59:23Z",
-      "description": "Spolu s novými iPhony představil Apple novou bezpečnostní architekturu: Vynucení integrity paměti má eliminovat nejčastěji zneužívanou třídu chyb v iOS."
+      "description": "Spolu s novými iPhony představil Apple novou bezpečnostní architekturu: Vynucování integrity paměti má eliminovat nejčastěji zneužívanou třídu chyb v iOS."
     },
     {
       "flag": "🌍",
@@ -175,40 +241,18 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/5c4210c/2147483647/strip/true/crop/2843x1599+0+148/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F10%2F44%2F481a3f999eef7214b37622a729f3%2F2e3d761c53134e0d9edc960dbf7ff939",
       "source": "Associated Press",
       "publishedAt": "2025-09-11T13:44:00Z",
-      "description": "Bělorusko osvobodilo 52 politických vězňů v rámci dohody zprostředkované USA"
+      "description": "Bělorusko osvobodilo 52 politických vězňů v rámci dohody zprostředkované USA. Spojené státy zrušily některé sankce proti tamnímu národnímu dopravci. Šlo o další známku možného sblížení Washingtonu ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sluchátka Nothing’s Ear 3 mají na nabíjecím pouzdře mikrofon a tlačítko pro mluvení",
-      "original_title": "Nothing’s Ear 3 earbuds have a microphone and ‘talk’ button on their charging case - The Verge",
-      "url": "https://www.theverge.com/news/776247/nothing-ear-3-wireless-earbuds-design-microphone-charging-case-aluminum",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/nothing.jpg?quality=90&strip=all&crop=0%2C10.746408913948%2C100%2C78.507182172104&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-11T12:54:27Z",
-      "description": "Společnost plánuje plně odhalit své nové bezdrátové sluchátky 18. září 2025."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Princ Harry se při návštěvě Británie po 19 měsících poprvé setkal se svým otcem králem Karlem",
-      "original_title": "Prince Harry meets with his dad King Charles during U.K. visit for the first time in 19 months - CBS News",
-      "url": "https://www.cbsnews.com/news/prince-harry-king-charles-uk-first-meeting-in-19-months/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/11/5bd8d1cf-f5f8-4ee8-8f4f-ad9a11005251/thumbnail/1200x630g2/f771d057b0d5ed77c44b49350b9ee9f1/prince-harry-2234558588.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-11T11:23:01Z",
-      "description": "Na vzácné cestě zpět do Británie, věnované převážně charitativním akcím, možná princ Harry zahájil smíření se svou rodinou, o kterém říká, že ho chce."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Battlefield 6 testuje „nejděsivější“ battle royale všech dob a já se nemůžu dočkat",
-      "original_title": "Battlefield 6 is testing the \"deadliest\" battle royale ever, and I can't wait - PCGamesN",
-      "url": "https://www.pcgamesn.com/battlefield-6/battle-royale-deadly-ring",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/08/battlefield-6-new-map-modes-beta-weekend-two.jpg",
-      "source": "PCGamesN",
-      "publishedAt": "2025-09-11T11:07:33Z",
-      "description": "Další test Battlefieldu 6 bude obsahovat battle royale mód se zónou, která vás okamžitě zabije, což z něj dělá „nejsmrtelnější“ BR vůbec."
+      "title": "Trailer k filmu „Christy“: Sydney Sweeney vstupuje do ringu v boxerském životopisném dramatu a oscarovém kandidátovi",
+      "original_title": "‘Christy’ Trailer: Sydney Sweeney Steps into the Ring in Boxing Biopic and Oscar Contender - Variety",
+      "url": "https://variety.com/2025/film/news/christy-trailer-sydney-sweeney-1236514950/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/christy.png?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-11T12:44:00Z",
+      "description": "Sydney Sweeney hraje šampionku v boxu Christy Martinovou v novém sportovním životopisném filmu Davida Michôda ‚Christy‘. Podívejte se na trailer."
     },
     {
       "flag": "🌍",
@@ -219,29 +263,40 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/TAdaVAkHPhPbicym76RrpM.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-11T11:00:00Z",
-      "description": "Nápad spočíval v tom, aby náš přístrojový modul dosáhl pouze k potenciálnímu označení biosignatury a zbytek příběhu už převyprávěly přístroje zde na Zemi."
+      "description": "Nápad spočíval v tom, aby naše užitečné zatížení dosáhlo pouze potenciálního označení biosignatury a zbytek příběhu byl převyprávěný přístroji zde na Zemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump požadoval po Netanjahuovi závazek, že znovu nezaútočí na Katar",
-      "original_title": "Trump demanded Netanyahu commit not to strike Qatar again - Axios",
-      "url": "https://www.axios.com/2025/09/11/trump-netanyahu-strike-qatar-again-israel",
-      "urlToImage": "https://images.axios.com/bSdTx0UGZgX4Lq2oZDHmJnhGtTo=/0x439:6000x3814/1366x768/2025/09/11/1757554211012.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-11T08:32:51Z",
-      "description": "Útok byl poškozující nejen pro globální postavení Izraele, ale potenciálně i pro postavení Ameriky."
+      "title": "Sledujte dnešní start ruské rakety s 2,8 tunami nákladu k ISS",
+      "original_title": "Watch Russia launch 2.8 tons of cargo toward the ISS today - Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/russia-progress-93-cargo-spacecraft-iss",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qgaHz89WvdbRS2t66i9SqC.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-11T10:00:00Z",
+      "description": "Kosmická loď Progress dorazí na vesmírnou stanici 13. září."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V roce 2024 vypadla nemoc COVID-19 z žebříčku deseti nejčastějších příčin úmrtí v USA.",
-      "original_title": "In 2024, COVID dropped from the list of top 10 causes of death in U.S. - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/10/nx-s1-5537078/u-s-death-rates-covid-2024",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2F34%2F92d3cb664b5292c2a6194069ca2f%2Fgettyimages-1237709034.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-10T22:43:31Z",
-      "description": "Poprvé od roku 2020 není COVID jednou z deseti hlavních příčin úmrtí v USA."
+      "title": "Battlefield 6 mód Battle Royale získává oficiální detaily; testování začíná tento týden na BF Labs",
+      "original_title": "Battlefield 6 Battle Royale Mode Gets Official Details; Testing Starts This Week on BF Labs - Wccftech",
+      "url": "https://wccftech.com/battlefield-6-battle-royale-mode-details-testing-starts-this-week/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/CMTY-BFL-0909-450-KJ3-WHITE-HD-scaled.jpeg",
+      "source": "Wccftech",
+      "publishedAt": "2025-09-11T07:30:00Z",
+      "description": "Testování režimu Battle Royale pro Battlefield 6 začíná tento týden v Battlefield Labs. Všechny podrobnosti se dozvíte v naší reportáži."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Případy viru západního Nilu jsou nadprůměrné, úřady vydaly zdravotní varování",
+      "original_title": "West Nile virus cases running higher than normal, prompting health warnings - AP News",
+      "url": "https://apnews.com/article/west-nile-cdc-d0fe355b8351f52b39ca4d39046da9de",
+      "urlToImage": "https://dims.apnews.com/dims4/default/05a0e6f/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2F09%2Ffbad9493cc6ae7e70c774adcee2d%2F2d4cc0e235164d5ba6c7c83db4fca8ec",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-10T22:06:00Z",
+      "description": "Zdravotníci varují před intenzivním výskytem viru západního Nilu, případů je o 40 % více než obvykle"
     }
   ]
 }
