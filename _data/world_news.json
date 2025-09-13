@@ -1,16 +1,71 @@
 {
-  "last_updated": "2025-09-13T14:13:24",
+  "last_updated": "2025-09-13T15:14:41",
   "articles": [
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Írán tvrdí, že zásoby obohaceného uranu jsou pohřbeny pod bombardovanými místy",
-      "original_title": "Iran says enriched uranium stockpile buried under bombed sites - Financial Times",
-      "url": "https://www.ft.com/content/1d9aaf1f-bdea-4d1e-9cee-9ca8a343f69d",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1149f686-3ec5-47d4-b7b1-1bd621a57577.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-12T11:32:56Z",
-      "description": "Osudy stovek kilogramů štěpného materiálu jsou nejasné od červnové bombardovací kampaně Izraele a USA"
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nasdaq atakuje rekord, index S&P 500 směřuje k vítěznému týdnu před rozhodnutím Fedu: Živé aktualizace",
+      "original_title": "Nasdaq hits record, S&P 500 heads for winning week as Fed decision looms: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/09/11/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-12T14:35:00Z",
+      "description": "Akcie ve čtvrtek posílily, všechny tři hlavní indexy uzavřely na nových maximech."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Princ Harry přichází s překvapivou návštěvou Ukrajiny na podporu zraněných vojáků",
+      "original_title": "Prince Harry makes surprise visit to Ukraine in support of wounded service members - ABC News",
+      "url": "https://abcnews.go.com/International/wireStory/prince-harry-makes-surprise-visit-ukraine-support-wounded-125502869",
+      "urlToImage": "https://i.abcnewsfe.com/a/a4244f9a-0b98-45e7-bfc9-6b5de4875671/wirestory_7bd712c94881633095660599b3bdefe8_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-09-12T13:24:32Z",
+      "description": "Princ Harry přijel na Ukrajinu, aby překvapivou návštěvou podpořil zraněné vojáky"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Chronická nespavost ničí mozek. A to opravdu hodně.",
+      "original_title": "Chronic Insomnia Is Bad for the Brain. Like, Really Bad - Gizmodo",
+      "url": "https://gizmodo.com/chronic-insomnia-is-bad-for-the-brain-like-really-bad-2000657874",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nightmare-in-bed-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-09-12T13:20:07Z",
+      "description": "Nová studie odhaluje, jak nespavost ovlivňuje zdraví vašeho mozku."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Micah Parsons zvýšil počet hracích minut ze 30 na 47",
+      "original_title": "Micah Parsons increases snaps from 30 to 47 - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-increases-snaps-from-30-to-47",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b16a210/2147483647/strip/true/crop/3436x1933+0+179/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F43%2F331ae9004b088b99aaa4cc0d52e0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2234969276",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-09-12T13:19:46Z",
+      "description": "Dva týdny po přestupu do Green Bay je Parsons už nezastavitelný."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump slíbila vyslání Národní gardy do Memphisu kvůli kriminalitě",
+      "original_title": "Trump says he’ll send the National Guard to Memphis to address crime concerns - AP News",
+      "url": "https://apnews.com/article/trump-memphis-national-guard-federal-intervention-73a7747f02bdf111574cbe9cc59201dd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a7cf5fc/2147483647/strip/true/crop/4182x2352+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F4f%2F75d5011bc6424ca056ca8f93bd46%2F8c4e4761709248e3a5e247e1e0feeff2",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-12T12:54:00Z",
+      "description": "Prezident Donald Trump říká, že do Memphisu pošle Národní gardu, aby zde s podporou starosty a guvernéra řešil problémy s kriminalitou. Republikánský prezident v pátek na stanici Fox News Channel ř..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Exkluzivně: Je „hloupé“ se obávat, že Nejvyšší soud zruší cla, říká Lutnick",
+      "original_title": "Exclusive: \"Silly\" to worry about SCOTUS overturning tariffs, Lutnick says - Axios",
+      "url": "https://www.axios.com/2025/09/12/trump-tariffs-scotus-howard-lutnick",
+      "urlToImage": "https://images.axios.com/uH8DnWoxJasYvY51Xcxxnlvkbmk=/0x0:3840x2160/1366x768/2025/09/10/1757537203299.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-12T11:30:22Z",
+      "description": "Ministr obchodu je mnohem méně opatrný k možným dopadům než někteří jeho kolegové."
     },
     {
       "flag": "🌍",
@@ -21,34 +76,12 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/46f0ee04ce50b4d820a88a230073829a66918168/2025/09/10/ef80c72e-176d-468b-885f-f843e323a816/tim-cook-apple-event-2025-04.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-12T11:05:00Z",
-      "description": "ZDNET shrnul vše, co Apple oznámil na této týdenní akci – od řady iPhone 17 začínající na 799 dolarech po Apple Watch Ultra 3, AirPods Pro 3 a další."
+      "description": "ZDNET shrnul vše, co bylo oznámeno na této týdenní akci Applu – od řady iPhone 17 začínající na 799 dolarech po Apple Watch Ultra 3, AirPods Pro 3 a další."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jef Raskinova slepá ulička a hledání humánního počítače",
-      "original_title": "Jef Raskin’s cul-de-sac and the quest for the humane computer - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskin1-768x648.png",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-12T11:00:49Z",
-      "description": "„Chtěl, aby byly [počítače] použitelnější a přátelštější pro lidi, kteří nebyli geekové.“…"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jak investují ultrabohaté rodiny do sportu, od hlavních lig po společenské kluby",
-      "original_title": "How ultra-rich families invest in sports, from major leagues to social clubs - CNBC",
-      "url": "https://www.cnbc.com/2025/09/12/family-offices-sports-team-investment-goldman-sachs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197065-1757529239079-gettyimages-2233764293-164250907022_49ers_at_seahawks.jpeg?v=1757529273&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-12T11:00:01Z",
-      "description": "Polovina rodinných kanceláří investovala do sportu nebo by chtěla, uvádí nový průzkum Goldman Sachs."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zadržený ve střelbě na Charlieho Kirka oznámil Trump",
+      "title": "Trump: V souvislosti se střelbou na Charlie Kirka je ve vazbě jedna osoba",
       "original_title": "Person in custody in shooting of Charlie Kirk, Trump says - ABC News",
       "url": "https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story?id\\\\u003d125504696",
       "urlToImage": null,
@@ -59,18 +92,29 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Polsko odmítá Trumpův názor, že ruský nálet dronem „mohl být omyl“",
+      "title": "Polsko odmítá Trumpův názor, že ruský nápad dronů \"mohl být omyl",
       "original_title": "Poland rejects Trump's suggestion that Russia's drone raid \"could have been a mistake\" - CBS News",
       "url": "https://www.cbsnews.com/news/poland-russia-trump-putin-ukraine-war-tusk-says-drones-not-a-mistake/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/12/be4649a4-052c-47ca-8561-0a8b8cab74bf/thumbnail/1200x630/21c9871c8faf9fd216c090f596e23d63/donald-tusk-poland-sept-2025.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-12T09:49:28Z",
-      "description": "Polský premiér v reakci na Trumpa uvedl: „Také bychom si přáli, aby útok dronu v Polsku byla chyba. Ale nebyla.“"
+      "description": "Reagujíc na Trumpa, polský premiér uvedl: „Také bychom si přáli, aby byl útok dronu na Polsko omyl. Nebyl.“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Náklady na zdravotní péči prudce rostou. Můžete za to vinit pojišťovny, farmaceutické firmy — a svého zaměstnavatele",
+      "title": "Sluneční záře na snímku Hubbleova teleskopu komety 3I/ATLAS je desetkrát delší než širší - Avi Loeb",
+      "original_title": "The Sunward Glow in the Hubble Image of 3I/ATLAS is Ten Times Longer Than It is Wide - Avi Loeb – Medium",
+      "url": "https://avi-loeb.medium.com/the-sunward-glow-in-the-hubble-image-of-3i-atlas-is-ten-times-longer-than-it-is-wide-3a5cff257a94",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*EqEVF2WYUy7CKmFX-6OAxg.png",
+      "source": "Medium",
+      "publishedAt": "2025-09-12T09:13:17Z",
+      "description": "V nové analýze (dostupné zde) snímku mezihvězdného objektu 3I/ATLAS z Hubbleova vesmírného dalekohledu, na které jsem se podílel se svým…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Náklady na zdravotní péči prudce rostou. Viníky jsou pojišťovny, farmaceutické firmy — a váš zaměstnavatel",
       "original_title": "Health care costs are soaring. Blame insurers, drug companies — and your employer - NPR",
       "url": "https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+105/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F3f%2F47564560459281a11f9111bc3af6%2Fap24149616454742.jpg",
@@ -81,57 +125,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Microsoft se vyhnul pokutě od EU poté, co Slack stěžoval na svazování Teams",
+      "title": "Trump utrpěl porážku. Dánsko zvolilo francouzsko-italský protiletadlový systém místo amerických Patriotů",
+      "original_title": "Loss for Trump as Denmark chooses Franco-Italian air defense system over US Patriots - politico.eu",
+      "url": "https://www.politico.eu/article/denmark-chooses-franco-italian-air-defense-system-over-us-patriots/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/12/11421823-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-12T08:47:00Z",
+      "description": "Rozhodnutí padlo poté, co americký prezident pohrozil anexí Grónska."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Microsoft se vyhnul pokutě od EU poté, co si Slack stěžoval na svazování Teams",
       "original_title": "Microsoft avoids EU fine after Slack complained about Teams bundling - The Verge",
       "url": "https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357653/STK264_MICROSOFT_TEAMS_V2_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-12T08:46:50Z",
-      "description": "Microsoft se těsně vyhnul pokutě EU za porušení antimonopolních pravidel. Výrobce softwaru se zavázal změnit nabídku Teams po stížnosti Slaku na narušování hospodářské soutěže."
+      "description": "Microsoft se těsně vyhnul pokutě od EU za porušení antimonopolních pravidel. Výrobce softwaru se zavázal změnit způsob prodeje Teams po stížnosti Slaku na narušování hospodářské soutěže."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Společnost Asus dopřála svému 4 000 dolarů drahému notebooku pro tvůrce 4K tandemový OLED displej a RTX 5090",
-      "original_title": "Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090 - The Verge",
-      "url": "https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Scenario-photo_Graphic-Design_FA.jpg?quality=90&strip=all&crop=0%2C11.291492754873%2C100%2C77.417014490253&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-12T07:30:00Z",
-      "description": "Nový notebook Asus ProArt P16 má až do RTX 5090 a nový tandemový 4K OLED displej. Má konkurovat MacBooku Pro pro tvůrce upřednostňující Windows."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Princ Harry překvapivě navštívil Ukrajinu na podporu zraněných vojáků",
-      "original_title": "Prince Harry makes surprise visit to Ukraine in support of wounded servicemen - AP News",
-      "url": "https://apnews.com/article/prince-harry-king-charles-ukraine-britain-invictus-7bd712c94881633095660599b3bdefe8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9536eed/2147483647/strip/true/crop/5346x3007+0+278/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2F4c%2Fc3a5c76c841c9b750de06c435bf3%2F0646928357c94e1ca67445bddc76957e",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-12T06:55:00Z",
-      "description": "Britský princ Harry v pátek překvapivě přijel na Ukrajinu, aby podpořil zraněné vojáky. Jeho zástupci potvrdili páteční pobyt v Kyjevě, z bezpečnostních důvodů však odmítli blíže informovat o princ..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "FDA schválila funkci upozornění na hypertenzi u hodinek Apple Watch pro nové i starší modely",
+      "title": "FDA schválila funkci varování před hypertenzí na hodinkách Apple Watch pro nové i starší modely",
       "original_title": "Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge",
       "url": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&strip=all&crop=0%2C10.336347770903%2C100%2C79.327304458195&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-12T06:10:00Z",
-      "description": "Tlakoměr přijde s watchOS 26 příští týden."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Canelo vs. Crawford: Šéf UFC Dana White se střetl s reportérem na tiskové konferenci",
-      "original_title": "Canelo vs Crawford: UFC chief Dana White clashes with reporter at news conference - BBC",
-      "url": "https://www.bbc.com/sport/articles/cx2nq3gwvq1o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4ee6/live/b2fca3e0-8f81-11f0-b391-6936825093bd.png",
-      "source": "BBC News",
-      "publishedAt": "2025-09-12T05:59:57Z",
-      "description": "Šéf UFC Dana White se přel s reportérkou o své nové roli v boxu na tiskové konferenci k zápasu Saula 'Canela' Alvareze proti Terence Crawfordovi."
+      "description": "Měřič krevního tlaku dorazí s watchOS 26 příští týden."
     },
     {
       "flag": "🌍",
@@ -145,48 +167,26 @@
       "description": "Snímky ukazují, jak byly v posledních měsících srovnány se zemí čtvrti v největším městě Gazy"
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Packers vs. Commanders – hlavní postřehy: Jordan Love, Micah Parsons a Tucker Kraft zářili v působivé výhře Green Bay",
-      "original_title": "Packers vs. Commanders takeaways: Jordan Love, Micah Parsons, Tucker Kraft shine in Green Bay's statement win - CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/packers-vs-commanders-takeaways-jordan-love-micah-parsons-tucker-kraft-shine-in-green-bays-statement-win/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/12/70ca6f37-05fd-415c-afe3-68c8e5690fae/thumbnail/1200x675/761e2cc1643899a3c6bbc43e6e3037fa/untitled-design-2025-09-11t201720-487-720.png",
-      "source": "CBS Sports",
-      "publishedAt": "2025-09-12T04:33:00Z",
-      "description": "Obrana Green Bay dominovala a Love s Kraftem spojili několik velkých akcí"
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Horoskop na pátek 12. září 2025 - Chicago Sun",
+      "original_title": "Horoscope for Friday, September 12, 2025 - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/horoscopes/2025/09/12/horoscopes-today-friday-september-12-2025",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-09-12T05:01:00Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Váš denní horoskop: 12. září 2025",
-      "original_title": "Your daily horoscope: September 12, 2025 - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-12-2025/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/U5TPCH7TMBG2FAF6463KGMHHGY.png?auth=ef792eb9bee4c8107e033dc830aa01f6cdd55811c51a559726bc2d115d014d2d&width=1200&height=800&quality=80&smart=true",
-      "source": "The Globe And Mail",
-      "publishedAt": "2025-09-12T04:01:00Z",
-      "description": "Váš denní horoskop na pátek 12. září 2025"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Čína vyslala Mexiku důrazné varování kvůli celům považovaným za ústupek USA",
-      "original_title": "China Gives Mexico Stiff Warning Over Tariffs Seen Appeasing US - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-12/china-gives-mexico-stiff-warning-over-tariffs-seen-appeasing-us",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE7YHezMbfNU/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-12T03:24:00Z",
-      "description": "Čína vyzvala Mexiko, aby si před zavedením cel „dvakrát rozmyslelo“. Varování signalizuje ochotu Pekingu reagovat na krok, který považuje za ústupek požadavkům USA."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Bývalá \"Bachelorka\" Emily Maynard poprvé promluvila o tom, že se ve 39 letech stala babičkou",
-      "original_title": "Former 'Bachelorette' Emily Maynard Breaks Silence on Becoming a Grandmother at 39 - yahoo.com",
-      "url": "https://parade.com/news/bachelorette-emily-maynard-breaks-silence-becoming-grandmother-39",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ybMZ7L7tQ2Ugj25CqcF__Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/parade_250/613b578f337c0c490532c3aaaf5426e8",
-      "source": "Parade",
-      "publishedAt": "2025-09-12T03:24:00Z",
-      "description": "Bývalá hvězda reality show se poprvé vyjadřuje k šokujícímu oznámení o těhotenství své dcery."
+      "title": "Ed Sheeran hraje dál — ale je to pořád stejná písnička",
+      "original_title": "Ed Sheeran Plays On — But It’s the Same Old Song - Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-album-reviews/ed-sheeran-play-review-1235425940/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/ed-sheeran-play-review.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-12T04:00:00Z",
+      "description": "Ed Sheeranovo ‚Play‘ jde dopředu i dozadu"
     },
     {
       "flag": "🌍",
@@ -197,18 +197,18 @@
       "urlToImage": "https://images.axios.com/DkDkBZ6omFFAznd9_MLkV7SpNKY=/0x78:6000x3453/1366x768/2025/09/12/1757640893298.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-12T01:52:30Z",
-      "description": "Schůzka je dalším způsobem, jakým Trump dává najevo svou podporu Kataru a nesouhlas s izraelským úderem."
+      "description": "Schůzka je dalším způsobem, jakým Trump dává najevo podporu Kataru a nesouhlas s izraelským úderem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Josh Kraft se vzdává kandidatury na starostu Bostonu",
+      "title": "Josh Kraft odstoupil z bostonské volební soutěže o post starosty",
       "original_title": "Josh Kraft bows out of Boston race for mayor - WBUR",
       "url": "https://www.wbur.org/news/2025/09/11/josh-kraft-campaign-boston-mayor-michelle-wu",
       "urlToImage": "https://wordpress.wbur.org/wp-content/uploads/2025/09/0204_joshkraft-4-1000x667.jpg",
       "source": "WBUR",
       "publishedAt": "2025-09-12T01:18:45Z",
-      "description": "Josh Kraft odstoupil z boje o post starosty Bostonu dva dny poté, co ho v primárkách města drtivě porazila úřadující starostka Michelle Wu."
+      "description": "Josh Kraft odstoupil z boje o post bostonského starosty dva dny poté, co ho v primárních volbách města drtivě porazila úřadující starostka Michelle Wu."
     },
     {
       "flag": "🌍",
@@ -219,62 +219,29 @@
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8c%2Fee%2F4301726e4a2881f9a20919345308%2Fimmigration-raids-los-angeles-82959.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-12T01:15:18Z",
-      "description": "Gavin Newsom nyní rozhodne, zda se Kalifornie pokusí zakázat zakrývání tváře pro federální agenty působící ve státě."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Ryan Routh zahájil obhajobu v procesu o pokusu o atentát na Trumpa",
-      "original_title": "Ryan Routh begins self-defense in attempted Trump assassination trial - BBC",
-      "url": "https://www.bbc.com/news/articles/c8d793z4mzgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31e4/live/69d41560-8f39-11f0-bc12-7dca4b3659ad.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-12T01:10:28Z",
-      "description": "Pan Routh, který se hájí sám, byl soudcem pokárán za „z toho soudu dělá šaškárnu“."
+      "description": "Gavin Newsom nyní rozhodne, zda se Kalifornie pokusí zakázat zakrývání obličeje pro federální agenty působící ve státě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Student zastřelen po záměně identity při incidentu s policistou během uzavření Námořní akademie",
-      "original_title": "Student shot after mistaken ID mishap with officer during Naval Academy lockdown - NBC News",
-      "url": "https://www.nbcnews.com/news/military/student-shot-mistaken-id-mishap-officer-naval-academy-lockdown-rcna230737",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250911-Annapolis-md-naval-academy-shooting-helicopters-ac-822p-488ded.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-12T00:53:00Z",
-      "description": "Policista zastřelil studenta v USA"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Dítě v Los Angeles zemřelo na vzácnou komplikaci spalniček několik let po nákaze",
-      "original_title": "Los Angeles County child dies of rare measles complication years after infection - CNN",
-      "url": "https://www.cnn.com/2025/09/11/health/measles-california-child-sspe",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-462803914-20250911232359969.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-11T23:35:23Z",
-      "description": "Školák v Los Angeles, který v dětství prodělal spalničky, zemřel na vzácnou komplikaci, oznámil ve čtvrtek tamní zdravotní úřad."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Spinal Tap: Největší kapela světa se vrací s pomocí slavných přátel",
-      "original_title": "Spinal Tap: The world's loudest band return with a little help from their famous friends - BBC",
-      "url": "https://www.bbc.com/news/articles/cy5039lqzgvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b521/live/a54f5d30-8efc-11f0-a5a5-2d614a841ea6.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-11T23:34:07Z",
-      "description": "Kapela reflektuje svůj kultovní status a oasisovské znovushledání po boku sira Paula McCartneyho a Eltona Johna."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ministerstvo zdravotnictví Virginie vydává celostátní trvalý příkaz pro lékárny ohledně vakcíny proti COVID-19 pro období 2025–2026 - Ministerstvo zdravotnictví Virginie (.gov)",
+      "title": "Ministerstvo zdravotnictví Virginie vydává celostátní trvalý příkaz pro lékárny ohledně vakcíny proti COVID-19 na období 2025–2026 - Ministerstvo zdravotnictví Virginie (.gov)",
       "original_title": "Virginia Department of Health Issues Statewide Standing Order for Pharmacies Regarding 2025-2026 COVID-19 Vaccine - Virginia Department of Health (.gov)",
       "url": "https://www.vdh.virginia.gov/news/virginia-department-of-health-issues-statewide-standing-order-for-pharmacies-regarding-2025-2026-covid-19-vaccine/",
       "urlToImage": null,
       "source": "Virginia.gov",
       "publishedAt": "2025-09-11T21:55:45Z",
-      "description": "OKAMŽITÉ ZVEŘEJNĚNÍ – 11. září 2025 – Ministerstvo zdravotnictví Virginie vydává celostátní trvalý příkaz pro lékárny týkající se vakcíny proti COVID-19 pro sezónu 2025–2026"
+      "description": "OKAMŽITÉ ZVEŘEJNĚNÍ – 11. září 2025 – Ministerstvo zdravotnictví Virginie vydává celostátní pokyn pro lékárny ohledně vakcíny proti covidu-19 pro sezónu 2025–2026"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Republikáni v Senátu použili „jadernou možnost“ ke schválení Trumpových nominantů po vlnách",
+      "original_title": "Senate GOP invokes \"nuclear option\" to confirm batches of Trump nominees - Axios",
+      "url": "https://www.axios.com/2025/09/11/senate-republicans-nuclear-option-trump-nominees",
+      "urlToImage": "https://images.axios.com/M1muMZoPhJoIbO0oP3e03UuCL9Y=/0x0:5577x3137/1366x768/2025/09/11/1757606502707.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-11T21:42:50Z",
+      "description": "Republikáni nyní chtějí rychle projít resty 146 kandidátů na civilní posty."
     },
     {
       "flag": "🌍",
@@ -285,45 +252,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/NHQ202507310028medium-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-11T21:21:03Z",
-      "description": "„Musím se dívat na dolary, na čas a na návratnost.“"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mapa ukazuje případy viru západního Nilu, úřady varují, že sezóna ještě neskončila",
-      "original_title": "Map shows West Nile virus cases as officials warn season isn't over - CBS News",
-      "url": "https://www.cbsnews.com/news/west-nile-virus-cases-map-2025/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/08/d7062424-9687-4e65-b122-eac65e29f81d/thumbnail/1200x630/352a3e558ddb04a92730c2d41a2ed419/gettyimages-157195780.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-11T19:41:15Z",
-      "description": "Zdravotníci varují, že sezóna viru západního Nilu ještě neskončila. Zde se šířila nemoc přenášená komáry."
+      "description": "„Musím se dívat na dolary, musím se dívat na čas a musím se dívat na návratnost.“"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Potenciální hrozby vyvolaly uzavření několika univerzit pro černochy na jihu USA",
-      "original_title": "Potential threats trigger lockdowns at several HBCUs across the South - CNN",
-      "url": "https://www.cnn.com/2025/09/11/us/hbcu-lockdown-potential-threats",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21940964-59842-383-still.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-11T18:36:08Z",
-      "description": "Několik historicky černošských univerzit a vysokých škol na jihu USA bylo ve čtvrtek uzavřeno nebo zrušilo výuku kvůli možným hrozbám."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Flexibilita chapadel chobotnic umožňuje složité chování v různých přírodních prostředích",
-      "original_title": "Octopus arm flexibility facilitates complex behaviors in diverse natural environments - Nature",
-      "url": "https://www.nature.com/articles/s41598-025-10674-y",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-10674-y/MediaObjects/41598_2025_10674_Fig1_HTML.png",
-      "source": "Nature.com",
-      "publishedAt": "2025-09-11T15:36:08Z",
-      "description": "Scientific Reports - Flexibilita chapadel chobotnic umožňuje složité chování v různých přírodních prostředích"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Srážka černých děr potvrzuje desítky let staré předpovědi Einsteina a Hawkinga",
+      "title": "Srážka černých děr potvrdila desítky let staré předpovědi Einsteina a Hawkinga",
       "original_title": "Black hole collision confirms decades-old predictions by Einstein and Hawking - CNN",
       "url": "https://www.cnn.com/2025/09/11/science/black-hole-collision-einstein-hawking",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/artwork-gw250114main.jpg?c=16x9&q=w_800,c_fill",
@@ -332,26 +266,26 @@
       "description": "Astronomové detekovali v nebývalých detailech srážku dvou černých děr. Jejich pozorování potvrzují předpovědi Alberta Einsteina a Stephena Hawkinga."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Chronicky nemůžete spát? Podle nové studie by to mohlo způsobit stárnutí mozku.",
-      "original_title": "Chronically sleepless? New study suggests it might cause your brain to age. - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/09/10/chronic-insomnia-sleep-brain-aging/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GHWHMAXD34I6VAWYLZK5I7UQZI_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-11T00:31:35Z",
-      "description": "Nová studie v časopise Neurology ukazuje, že lidé s chronickou nespavostí mají vyšší pravděpodobnost vzniku kognitivních poruch, není však jasné, zda jde o asociaci nebo kauzalitu."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Charlie Sheen se ve svém dokumentu snaží dohnat ztracený čas",
+      "original_title": "Charlie Sheen Is Trying to Make Up for Lost Time in His Doc - Vulture",
+      "url": "http://www.vulture.com/article/charlie-sheen-netflix-doc-explainer.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/dc9/664/e65f803570cb7a22747f9691cee601c055-charliesheen-doc.1x.rsocial.w1200.png",
+      "source": "Vulture",
+      "publishedAt": "2025-09-11T14:48:10Z",
+      "description": "Sheen se rozepisuje o dobrém, špatném a velmi, velmi ošklivém v novém dvoudílném dokumentu Netflixu, který je jak zpovědí, tak trochu ledabylý."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vědci objevili u Země kvaziměsíc, který ji obíhá posledních 60 let – a není první",
-      "original_title": "Scientists find quasi-moon orbiting the Earth for the last 60 years—and it's not the first one - Phys.org",
-      "url": "https://phys.org/news/2025-09-scientists-quasi-moon-orbiting-earth.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/scientists-find-quasi.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-10T14:40:18Z",
-      "description": "Každý, kdo kdy žil na Zemi, dobře znal Měsíc, ale ukazuje se, že Země má i několik častých dočasných souputníků. Tyto „kvaziměsíce“ jsou malé asteroidy, které vstupují do určité rezonance s oběžnou..."
+      "title": "V roce 2024 COVID vypadl ze seznamu deseti nejčastějších příčin úmrtí v USA.",
+      "original_title": "In 2024, COVID dropped from the list of top 10 causes of death in U.S. - NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/09/10/nx-s1-5537078/u-s-death-rates-covid-2024",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2F34%2F92d3cb664b5292c2a6194069ca2f%2Fgettyimages-1237709034.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-10T22:43:31Z",
+      "description": "Poprvé od roku 2020 není COVID jednou z deseti hlavních příčin úmrtí v USA."
     }
   ]
 }
