@@ -1,30 +1,30 @@
 {
-  "updated": "2025-09-13T03:27:05.574616",
+  "updated": "2025-09-13T06:32:54.176070",
   "trends": [
     {
       "rank": 1,
       "query": "charlie sheen",
-      "news_title": "Martin Sheen o dokumentu o synovi Charliem",
-      "news_url": "https://www.eonline.com/news/1422480/martin-sheens-reaction-to-aka-charlie-sheen-documentary",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1A6NPaxsBbuR9AmbkbsLxTDza9IUNsZnXxvvQCEwBTnwmK_i7Qbwz8sj_gDw",
+      "news_title": "20 největších odhalení Charlieho Sheena",
+      "news_url": "https://www.netflix.com/tudum/articles/aka-charlie-sheen-most-unforgettable-moments",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO-_xfuvvUFIxV1IzHBDyhV6vwqIdK38RGeZv3Sbc-rxvOxQziMec3a3Ieh7o",
       "traffic": "1000++ hledání",
-      "source": "E! News",
+      "source": "Netflix",
       "explore_url": "https://trends.google.cz/trends/explore?q=charlie sheen&geo=CZ"
     },
     {
       "rank": 2,
       "query": "chance",
-      "news_title": "Vražedný měsíc rozhodne o šampionu Chance ligy",
-      "news_url": "https://medium.seznam.cz/diskuze/jan-fiala-vrazedny-program-smrtici-mesic-proti-top-tymum-chance-ligy-rozhodne-vse-186763",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKlbEvY-CiUYuKCkDpe4L5oewuCLbw8xG4OPfIg3tH4U0dDVUd31P0bY7yyqg",
+      "news_title": "Slavia vstupuje do náročné fáze sezony, rozjede naplno rotaci?",
+      "news_url": "https://isport.blesk.cz/clanek/fotbal-chance-liga/466175/prichazi-cas-posil-slavia-vstupuje-do-narocne-faze-sezony-rozjede-naplno-rotaci.html",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwnbsqLY7-BrL1wwfrG3SSHAn_OYR_fzHSSuOUIXdOr5Tpp_f6H3EVKo6rVaw",
       "traffic": "500++ hledání",
-      "source": "Médium.cz",
+      "source": "iSport.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=chance&geo=CZ"
     },
     {
       "rank": 3,
       "query": "jitka boho",
-      "news_title": "Zemřela Jana Staňková",
+      "news_title": "Zemřela herečka Jana Staňková",
       "news_url": "https://www.radiobeat.cz/cs/1/21005/zemrela-jana-stankova/",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkk9nrZdKixt362mcYTvfZjYTrE2Q_lzRQJPCZETGG9BDuPkOI4csj7R7oH7w",
       "traffic": "500++ hledání",
@@ -33,8 +33,18 @@
     },
     {
       "rank": 4,
+      "query": "davis cup",
+      "news_title": "Češi začínají Davis Cup proti USA",
+      "news_url": "https://www.sport.cz/clanek/tenis-davis-cup-2025-druhe-kolo-cesko-usa-online-5288514",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5RD43mIWfgtw7dvoIM3MTJ9gMsBQgLVhj9N9BvF1OUSgW3sxhBxZw3MjtjH8",
+      "traffic": "200++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=davis cup&geo=CZ"
+    },
+    {
+      "rank": 5,
       "query": "saskia burešová",
-      "news_title": "Osud míchá karty, ale my hrajeme, říká Saskia Burešová",
+      "news_title": "Saskia Burešová: Osud míchá karty, ale my hrajeme",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/saskia-buresova-moderatorka-cteni-vazna-hudba-muz-roku.A250902_104818_lidicky_potu",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShVVQqcx9IaHoNiXDzAyh-hOzGf1yi3j3DrLzgEudanLPhfxwWYl5gvX-sE0I",
       "traffic": "200++ hledání",
@@ -42,9 +52,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=saskia burešová&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "jan štefela",
-      "news_title": "Čechům experti před MS vůbec nevěří",
+      "news_title": "Čechům experti před MS nevěří",
       "news_url": "https://www.sport.cz/clanek/atletika-cechum-pred-svetovym-sampionatem-experti-vubec-neveri-5288548",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndVJmpgk8Klrh4Lh5kBoJudZ1UFXnukl3zED8_OB8P_NixvgVoyy1JPfOM2I",
       "traffic": "200++ hledání",
@@ -52,9 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jan štefela&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "karel šíp",
-      "news_title": "Karel Šíp: Jak se změnil moderátor po smrti manželky?",
+      "news_title": "Karel Šíp: Jak se změnil moderátor po smrti své ženy Evy?",
       "news_url": "https://www.google.com/search?q=karel šíp&tbm=nws",
       "picture": null,
       "traffic": "200++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=karel šíp&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "twitch",
-      "news_title": "Borderlands 4 SHiFT kódy - kompletní průvodce",
-      "news_url": "https://www.ign.com/wikis/borderlands-4/Borderlands_4_SHiFT_Codes",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZPKLNfpxwTzXXPwGHHTE9mZMzb6ll8NvTE5y46Cq9YUIju2K_4lvJeSPPuIA",
-      "traffic": "100++ hledání",
-      "source": "IGN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=twitch&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "maxa",
-      "news_title": "Jihlava vyhrála ve Zlíně, rozhodla dvě minuty před koncem",
-      "news_url": "https://www.sport.cz/clanek/hokej-ceska-1-liga-jihlava-prestrilela-zlin-a-poprve-v-sezone-vyhrala-5289311",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWOSCPjYtwfSE3yFNF_6DAhnch6n-PdlgJpF6NPCzocxQQFuk5Hqftdd5Cz2Y",
+      "query": "twitch",
+      "news_title": "Kráva v útulku Maya Higy šikanuje diváky streamu za pamlsky a oni ji za to milují",
+      "news_url": "https://www.tubefilter.com/2025/09/11/maya-higa-alveus-sanctuary-winnie-the-moo/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsshX0FdJih2P8mvMexVbJQwV1GKF4fBWoszfzyCtY6ModFm-rTRjnFKw76g",
       "traffic": "100++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=maxa&geo=CZ"
+      "source": "Tubefilter",
+      "explore_url": "https://trends.google.cz/trends/explore?q=twitch&geo=CZ"
     }
   ]
 }
