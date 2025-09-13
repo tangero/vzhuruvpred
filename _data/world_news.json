@@ -1,43 +1,76 @@
 {
-  "last_updated": "2025-09-13T10:16:05",
+  "last_updated": "2025-09-13T11:12:59",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Packers vs. Commanders: Jordan Love, Micah Parsons a Tucker Kraft zářili v působivém vítězství Green Bay",
+      "title": "Princ Harry překvapil návštěvou Ukrajiny na podporu zraněných vojáků",
+      "original_title": "Prince Harry makes surprise visit to Ukraine in support of wounded servicemen - AP News",
+      "url": "https://apnews.com/article/prince-harry-king-charles-ukraine-britain-invictus-7bd712c94881633095660599b3bdefe8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9536eed/2147483647/strip/true/crop/5346x3007+0+278/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2F4c%2Fc3a5c76c841c9b750de06c435bf3%2F0646928357c94e1ca67445bddc76957e",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-12T06:55:00Z",
+      "description": "Britský princ Harry v pátek překvapivě přijel na Ukrajinu na návštěvu na podporu zraněných vojáků."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Upozornění na hypertenzi na Apple Watch schválena FDA pro nové i staré hodinky",
+      "original_title": "Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge",
+      "url": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&strip=all&crop=0%2C10.336347770903%2C100%2C79.327304458195&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-12T06:10:00Z",
+      "description": "Měřič krevního tlaku dorazí s watchOS 26 příští týden."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Pátrání po střelci z útoku na Charlie Kirka, úřady stále nemají jméno ani polohu podezřelého",
+      "original_title": "Searching for Charlie Kirk shooter, officials still lack suspect name or location - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/09/11/charlie-kirk-fatal-shooting-suspect-utah/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNFAWLVSGNJGOMLRTNBIDDZ4GE_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-12T06:06:00Z",
+      "description": "Úřady uvedly, že pohyb útočníka ve středu sledovaly před tím, než byl jednatřicetiletý konzervativní komentátor v Utahu zastřelen, i poté."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Packers vs. Commanders: Jordan Love, Micah Parsons a Tucker Kraft zářili v důrazném vítězství Green Bay",
       "original_title": "Packers vs. Commanders takeaways: Jordan Love, Micah Parsons, Tucker Kraft shine in Green Bay's statement win - CBS Sports",
       "url": "https://www.cbssports.com/nfl/news/packers-vs-commanders-takeaways-jordan-love-micah-parsons-tucker-kraft-shine-in-green-bays-statement-win/live/",
       "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/12/70ca6f37-05fd-415c-afe3-68c8e5690fae/thumbnail/1200x675/761e2cc1643899a3c6bbc43e6e3037fa/untitled-design-2025-09-11t201720-487-720.png",
       "source": "CBS Sports",
       "publishedAt": "2025-09-12T04:33:00Z",
-      "description": "Obrana Green Bay dominovala a Love s Kraftem spojili síly v několika velkých hrách"
+      "description": "Obrana Green Bay dominovala a Love s Kraftem propojili několik velkých akcí"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dana White a reportér Sean Zittel se hádají na tiskové konferenci k zápasu Canela Álvareze a Terence Crawforda",
-      "original_title": "Dana White, reporter Sean Zittel argue at Canelo Álvarez-Terence Crawford press conference - Awful Announcing",
-      "url": "https://awfulannouncing.com/boxing/dana-white-sean-zittel-argue-muhammad-ali-act.html",
-      "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/09/Sean-Zittel-Dana-White-e1757646847356.jpg",
-      "source": "Awful Announcing",
-      "publishedAt": "2025-09-12T03:33:45Z",
-      "description": "Reportér Sean Zittel a promotér Dana White se během tiskové konference k sobotnímu zápasu Canela Álvareze a Terence Crawforde přeli."
+      "title": "Úrokové sazby hypoték dnes: Hypoteční sazby klesly na nové minimum před klíčovým rozhodnutím Fedu",
+      "original_title": "Mortgage Interest Rates Today: Mortgage Rates Plunge to New Low as Key Fed Decision Looms - Realtor.com",
+      "url": "https://www.realtor.com/news/trends/mortgage-interest-rates-now-september-11-2025/",
+      "urlToImage": null,
+      "source": "Realtor.com News",
+      "publishedAt": "2025-09-12T04:07:21Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Čína vyslala Mexiku ostrou výstrahu kvůli clům, která mají uspokojit USA",
+      "title": "Čína vysílá Mexiku ostrou výstrahu kvůli celům, která jsou vnímána jako ústupek USA",
       "original_title": "China Gives Mexico Stiff Warning Over Tariffs Seen Appeasing US - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-09-12/china-gives-mexico-stiff-warning-over-tariffs-seen-appeasing-us",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE7YHezMbfNU/v1/1200x800.jpg",
       "source": "Bloomberg",
       "publishedAt": "2025-09-12T03:24:00Z",
-      "description": "Čína vyzvala Mexiko, aby si před zavedením cel „dvakrát rozmyslelo“. Varování signalizuje ochotu Pekingu retaliovat proti kroku, který považuje za ústupek požadavkům USA."
+      "description": "Čína vyzvala Mexiko, aby si na uvalení cel „důkladně rozmyslelo“. Varování signalizuje ochotu Pekingu oplatit krok považovaný za ústupek požadavkům USA."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kadet na námořní akademii USA byl během lockdownu postřelen bezpečnostními složkami",
+      "title": "Kadet na námořní akademii USA byl zastřelen bezpečnostními složkami během uzavření areálu",
       "original_title": "Midshipman at US Naval Academy was shot by security forces during lockdown - ABC News",
       "url": "https://abcnews.go.com/US/person-hurt-us-naval-academy-security-clears-building/story?id\\\\u003d125495925",
       "urlToImage": null,
@@ -48,13 +81,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple Watch budou detekovat hypertenzi, schválení FDA přišlo tento týden",
-      "original_title": "Apple Watch Hypertension Detection Coming Next Week After FDA Nod - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-12/apple-watch-hypertension-detection-coming-next-week-after-fda-nod",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTIqwdlETOeA/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-12T02:49:00Z",
-      "description": "Společnost Apple Inc. uvedla, že její systém pro detekci hypertenze pro chytré hodinky dorazí příští týden poté, co ve čtvrtek získal povolení od amerického Úřadu pro kontrolu potravin a léčiv."
+      "title": "„Box vždycky bude větší“: Canelo Alvarez brání místo boxu ve světě sportu",
+      "original_title": "‘Boxing is always bigger’: Canelo Alvarez defends boxing’s place in sports landscape - MMA Fighting",
+      "url": "https://www.mmafighting.com/boxing-news/403403/boxing-is-always-bigger-canelo-alvarez-defends-boxings-place-in-sports-landscape",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/09/gettyimages-2234596292.jpg?quality=90&strip=all&crop=0%2C10.735607866101%2C100%2C78.528784267798&w=1200",
+      "source": "MMA Fighting",
+      "publishedAt": "2025-09-12T02:52:00Z",
+      "description": "Canelo Alvarez brání box před myšlenkou, že jej musí zachránit Dana White."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Střelec z Evergreen High School zveřejnil krátce před útokem na sociálních sítích fotografii pistole",
+      "original_title": "Evergreen High School shooter posted photo of handgun to social media shortly before shooting - KUSA.com",
+      "url": "https://www.9news.com/article/news/crime/evergreen-shooter-posted-photo-of-handgun-to-social-media-before-shooting/73-e232c28e-7ffb-43a9-b424-f0d27fdba51c",
+      "urlToImage": null,
+      "source": "9News.com KUSA",
+      "publishedAt": "2025-09-12T02:37:00Z",
+      "description": ""
     },
     {
       "flag": "🌍",
@@ -65,62 +109,51 @@
       "urlToImage": "https://images.axios.com/DkDkBZ6omFFAznd9_MLkV7SpNKY=/0x78:6000x3453/1366x768/2025/09/12/1757640893298.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-12T01:52:30Z",
-      "description": "Setkání je dalším způsobem, jak Trump dává najevo podporu Kataru a nesouhlas s izraelským úderem."
+      "description": "Schůzka je dalším způsobem, jak Trump dává najevo svou podporu Kataru a odpor k izraelskému útoku."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pozůstalí po zabitých nepálských demonstrantech se dožadují spravedlnosti, zatímco někteří lidé se snaží odejít",
-      "original_title": "Grieving families of protesters killed in Nepal seek justice as some people try to leave - AP News",
-      "url": "https://apnews.com/article/nepal-protests-army-kathmandu-ba191dc219cefb1964ca74ad246fb4ed",
-      "urlToImage": "https://dims.apnews.com/dims4/default/31a4d92/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2F18%2F782c7593b7a51a929d2a1d24c2e4%2Ff1a418862c7046c095c9fab52177ca4b",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-12T01:43:00Z",
-      "description": "Pozůstalí po protestujících zabitých policií v Nepálu viní úřady z nezájmu o jejich požadavky"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Josh Kraft se stahuje z bostonské volební kampaně o post starosty",
+      "title": "Josh Kraft se vzdává kandidatury na starostu Bostonu",
       "original_title": "Josh Kraft bows out of Boston race for mayor - WBUR",
       "url": "https://www.wbur.org/news/2025/09/11/josh-kraft-campaign-boston-mayor-michelle-wu",
       "urlToImage": "https://wordpress.wbur.org/wp-content/uploads/2025/09/0204_joshkraft-4-1000x667.jpg",
       "source": "WBUR",
       "publishedAt": "2025-09-12T01:18:45Z",
-      "description": "Josh Kraft odstoupil z boje o post bostonského starosty dva dny poté, co ho v primárních volbách města drtivě porazila úřadující starostka Michelle Wu."
+      "description": "Josh Kraft odstoupil z boje o post bostonského starosty dva dny poté, co jej v primárních volbách drtivě porazila stávající starostka Michelle Wu."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Ryan Routh zahajuje obhajobu v procesu o pokusu o atentát na Trumpa",
+      "title": "Ryan Routh zahájil obhajobu v procesu o pokusu o atentát na Trumpa",
       "original_title": "Ryan Routh begins self-defense in attempted Trump assassination trial - BBC",
       "url": "https://www.bbc.com/news/articles/c8d793z4mzgo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31e4/live/69d41560-8f39-11f0-bc12-7dca4b3659ad.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-12T01:10:28Z",
-      "description": "Pan Routh, který se hájí sám, byl soudcem pokárán za to, že „dělá ze soudu šaška“."
+      "description": "Pan Routh, který se hájí sám, byl soudcem pokárán za to, že „dělá ze soudu šaškána“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dakota Johnsonová si na akci Kering během newyorského týdne módy oblékla zcela průhledné šaty",
+      "title": "Horoskopy lásky na pátek 12. září – Merkur v konjunkci se Sluncem",
+      "original_title": "Love Horoscopes Are Here For Friday, September 12 — Mercury Cazimi Is Here - YourTango",
+      "url": "https://www.yourtango.com/2025389998/love-horoscope-friday-september-12-2025",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2025-09/zodiac-signs-daily-love-horoscopes-september-12-2025.png",
+      "source": "YourTango",
+      "publishedAt": "2025-09-12T01:03:33Z",
+      "description": "Horoskop lásky pro každé znamení zvěrokruhu na pátek 12. září 2025 během začátku Merkuru v Cazimi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dakota Johnsonová si na akci Kering během Newyorského týdne módy oblékla zcela průhledné šaty",
       "original_title": "Dakota Johnson Wears Fully See-Through Dress for Kering Event During NYFW - Just Jared",
       "url": "https://www.justjared.com/2025/09/11/dakota-johnson-wears-fully-see-through-dress-for-kering-event-during-nyfw/",
       "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/09/dakota-keringevent.jpg",
       "source": "Just Jared",
       "publishedAt": "2025-09-12T00:18:44Z",
-      "description": "Podívejte se na všechny fotografie..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zásah u Hyundai ukazuje rozpor mezi Trumpovým tažením proti imigraci a snahou o zahraniční investice",
-      "original_title": "With Hyundai raid, Trump’s immigration crackdown runs into his push for foreign investment - AP News",
-      "url": "https://apnews.com/article/south-korea-trump-immigration-raid-foreign-investment-ddfbe7d34ffedf46a25fa648c96a0000",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5aedc55/2147483647/strip/true/crop/7466x4200+0+389/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2Ff9%2F467c91162de652235708aab35cd6%2F083f431e446248199b581da15e23c4cb",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-12T00:01:00Z",
-      "description": "Snahy Donalda Trumpa podpořit americký průmysl lákáním zahraničních investic se střetávají s jeho přísnou imigrační politikou. Imigrační úřady nedávno zasáhly v továrně Hyundai v Georgii a zadržely..."
+      "description": "Prohlédněte si všechny fotografie..."
     },
     {
       "flag": "🇺🇸",
@@ -131,40 +164,18 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-462803914-20250911232359969.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-11T23:35:23Z",
-      "description": "Školák v Los Angeles s prodělanými spalničkami v dětství zemřel na vzácnou komplikaci, oznámil ve čtvrtek tamní zdravotní úřad."
+      "description": "Školák z Los Angeles, který v dětství prodělal spalničky, zemřel na vzácnou komplikaci, oznámil ve čtvrtek tamní zdravotní úřad."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Spinal Tap: Nejhladnější kapela světa se vrací s malou pomocí svých slavných přátel",
+      "title": "Spinal Tap: Nejhlasiťější kapela světa se vrací s malou pomocí svých slavných přátel",
       "original_title": "Spinal Tap: The world's loudest band return with a little help from their famous friends - BBC",
       "url": "https://www.bbc.com/news/articles/cy5039lqzgvo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b521/live/a54f5d30-8efc-11f0-a5a5-2d614a841ea6.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-11T23:34:07Z",
-      "description": "Kapela reflektuje svůj kultovní status a oasisovské znovushledání po boku Sirů Paula McCartneyho a Eltona Johna."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chtějí vakcínu proti covidu na ochranu svého zdraví nebo ohroženého člena rodiny. Nemohou ji dostat",
-      "original_title": "They want a COVID shot to protect their health or at-risk family. They can't get it : Shots - Health News - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/11/nx-s1-5538105/covid-vaccine-shots-pharmacy-fda",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4240x2385+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2F86%2F4ad2d41046d8b1f22002d837fbe0%2Fcovid-triptych-color-16x9.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-11T23:33:05Z",
-      "description": "Přestože FDA zúžila kritéria pro očkování, mnoho lidí si ho stále přeje, aby se vyhnuli nemoci a ochránili zranitelné členy rodiny. Někteří jsou v lékárně odmítnuti nebo musí projít složitým procesem."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chloe Finemanová o změnách v obsazení SNL: „Bylo to docela šílené, ještě jsem se s ničím pořádně nevyrovnala“",
-      "original_title": "Chloe Fineman Says 'SNL' Cast Shakeup Was \"Pretty Wild\": \"I Haven't Fully Processed Anything\" - Deadline",
-      "url": "http://deadline.com/2025/09/chloe-fineman-snl-cast-shakeup-nbc-1236529365/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/chloe-fineman-snl-cast-shakeup.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-11T22:45:00Z",
-      "description": "Chloe Finemanová přežila změny v obsazení Saturday Night Live před startem 51. řady noční skečové show NBC."
+      "description": "Kapela reflektuje svůj kultovní status a oasisovské znovuobnovení po boku Sira Paula McCartneyho a Eltona Johna."
     },
     {
       "flag": "🌍",
@@ -175,18 +186,29 @@
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-08-26T180249Z_438856622_RC24FGAL1UZH_RTRMADP_3_USA-FED-COOK-1024x683.jpg",
       "source": "PBS",
       "publishedAt": "2025-09-11T22:04:08Z",
-      "description": "Žádost představuje mimořádné úsilí Bílého domu ovlivnit složení rady před zasedáním výboru Fedu pro stanovení úrokových sazeb příští úterý a středu."
+      "description": "Žádost představuje mimořádné úsilí Bílého domu ovlivnit složení rady před zasedáním úrokového výboru Fedu příští úterý a středu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "NASA našla na Marsu zajímavé horniny, co to znamená pro návrat vzorků?",
+      "title": "Ministerstvo zdravotnictví Virginie vydává celostátní trvalý příkaz pro lékárny týkající se vakcíny proti COVID-19 na období 2025–2026 - Ministerstvo zdravotnictví Virginie (.gov)",
+      "original_title": "Virginia Department of Health Issues Statewide Standing Order for Pharmacies Regarding 2025-2026 COVID-19 Vaccine - Virginia Department of Health (.gov)",
+      "url": "https://www.vdh.virginia.gov/news/virginia-department-of-health-issues-statewide-standing-order-for-pharmacies-regarding-2025-2026-covid-19-vaccine/",
+      "urlToImage": null,
+      "source": "Virginia.gov",
+      "publishedAt": "2025-09-11T21:55:45Z",
+      "description": "OKAMŽITÉ ZVEŘEJNĚNÍ – 11. září 2025 – Ministerstvo zdravotnictví Virginie vydává celostátní trvalý příkaz pro lékárny ohledně vakcíny proti COVID-19 na sezónu 2025–2026"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "NASA našla na Marsu zajímavé horniny, kam se tím posouvá mise pro návrat vzorků?",
       "original_title": "NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return? - Ars Technica",
       "url": "https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/NHQ202507310028medium-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-11T21:21:03Z",
-      "description": "„Musím se dívat na dolary, musím se dívat na čas a musím se dívat na návratnost.“"
+      "description": "„Musím se dívat na dolary, na čas a na návratnost.“"
     },
     {
       "flag": "🌍",
@@ -208,23 +230,34 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/1c7616d3db525c9aa8ba1fa76efdd9a49124444a/2025/09/10/9b895ec9-b6e5-4b7a-8288-366b818f390b/tim-cook-apple-event-2025-01.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-11T20:55:00Z",
-      "description": "ZDNET shrnul všechny zprávy kolem týdenní akce Applu včetně řady iPhone 17, která začíná na 799 dolarech, Apple Watch Ultra 3, AirPods Pro 3 a dalších."
+      "description": "ZDNET shrnul všechny zprávy okolo této týdenní akce Applu, včetně řady iPhone 17 začínající na 799 dolarech, Apple Watch Ultra 3, AirPods Pro 3 a dalších."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "S&P 500 dnes: Akcie Warner Bros. Discovery letí vzhůru, Oracle a Netflix ztrácejí",
+      "title": "Mrazivá připomínka: Několik historicky černošských univerzit je po výhrůžkách uzavřeno",
+      "original_title": "'Chilling reminder': Multiple historically Black universities under lockdown after receiving threats - ABC News",
+      "url": "https://abcnews.go.com/US/multiple-hbcus-lockdown-after-receiving-threats-amid-rising/story?id\\\\u003d125483504",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-11T20:37:30Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "S&P 500 dnes: Akcie Warner Bros. Discovery posilují, Oracle a Netflix oslabují",
       "original_title": "S&P 500 Gains & Losses Today: Warner Bros. Discovery Stock Soars; Oracle, Netflix Slip - Investopedia",
       "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-warner-bros-discovery-stock-soars-oracle-netflix-slip-11808188",
       "urlToImage": "https://www.investopedia.com/thmb/Xn6sucG8kNg73clD2Ofc1NPTIiE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2219180990-d8fab4c6b05c4a8192493a08f11a98a5.jpg",
       "source": "Investopedia",
       "publishedAt": "2025-09-11T20:35:47Z",
-      "description": "Zprávy o možném odkupu pomohly 11. září 2025 zvednout akcie dvou mediálních a zábavních společností, zatímco softwareový gigant část nedávných zisků smazal."
+      "description": "Zprávy o možném odkupu pomohly 11. září 2025 zvýšit ceny akcií některých mediálních a zábavních společností, zatímco softwareový gigant část nedávných zisků poztrácel."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mapa ukazuje případy viru západního Nilu, úřady varují, že sezóna ještě neskončila",
+      "title": "Mapa ukazuje případy viru západního Nilu, úředníci varují, že sezóna ještě neskončila",
       "original_title": "Map shows West Nile virus cases as officials warn season isn't over - CBS News",
       "url": "https://www.cbsnews.com/news/west-nile-virus-cases-map-2025/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/08/d7062424-9687-4e65-b122-eac65e29f81d/thumbnail/1200x630/352a3e558ddb04a92730c2d41a2ed419/gettyimages-157195780.jpg",
@@ -235,13 +268,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zpráva: Menšinový vlastník Clippers investoval do upadající společnosti Aspiration, o několik dní později dostal Kawhi Leonard opožděnou platbu",
+      "title": "Zpráva: Menšinový vlastník Clippers investoval do upadající společnosti Aspiration, o pár dní později dostal Kawhi Leonard opožděnou platbu",
       "original_title": "Report: Clippers minority owner invested in failing Aspiration, days later Kawhi Leonard got late payment - NBC Sports",
       "url": "https://www.nbcsports.com/nba/news/report-clippers-minority-owner-invested-in-failing-aspiration-days-later-kawhi-leonard-got-late-payment",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/9e69bf5/2147483647/strip/true/crop/3090x1738+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F72%2F671f0b6c432199995969987c25b3%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D25799027",
       "source": "NBCSports.com",
       "publishedAt": "2025-09-11T16:00:41Z",
-      "description": "Den poté, co Adam Silver zněl neuspěchaně a opatrně, nová zpráva přidává k hoře nepřímých důkazů."
+      "description": "Den poté, co Adam Silver zněl neuspěchaně a opatrně, přibyla další zpráva k hoře nepřímých důkazů."
     },
     {
       "flag": "🇺🇸",
@@ -252,7 +285,7 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/artwork-gw250114main.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-11T15:18:08Z",
-      "description": "Astronomové zaznamenali v nebývalých detailech srážku dvou černých děr. Jejich pozorování potvrzují předpovědi Alberta Einsteina a Stephena Hawkinga."
+      "description": "Astronomové detekovali v nebývalých detailech srážku dvou černých děr. Jejich pozorování potvrzují předpovědi Alberta Einsteina a Stephena Hawkinga."
     },
     {
       "flag": "🇺🇸",
@@ -263,12 +296,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-11t103254z-1941167953-rc2jpgazkip2-rtrmadp-3-ukraine-crisis-attack-poland.JPG?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-11T15:01:03Z",
-      "description": "Polsko aktivovalo článek 4 Severoatlantické aliance poté, co země hlásila devatenáct „porušení“ svého vzdušného prostoru ruskými drony."
+      "description": "Polsko aktivovalo článek 4 Severoatlantické aliance po narušení svého vzdušného prostoru ruskými drony"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Teleskop Jamese Webba vyfotil obří hvězdu chrlící dvojité výtrysky dlouhé 8 světelných let",
+      "title": "Teleskop Jamese Webba vyfotil obří hvězdu chrlící dvojité trysky dlouhé 8 světelných let",
       "original_title": "James Webb Space Telescope images enormous star shooting out twin jets 8 light-years long - Space",
       "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-images-enormous-star-shooting-out-twin-jets-8-light-years-long",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/9gwE4ReJwyZ4LPFQnSR2MZ.jpg",
@@ -277,15 +310,15 @@
       "description": "Paprsky naznačují skutečnou velikost obří hvězdy, která je vytvořila."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sledujte dnešní ruský start 2,8 tun nákladu k ISS",
-      "original_title": "Watch Russia launch 2.8 tons of cargo toward the ISS today - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/russia-progress-93-cargo-spacecraft-iss",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qgaHz89WvdbRS2t66i9SqC.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-11T10:00:00Z",
-      "description": "Kosmická loď Progress dorazí na vesmírnou stanici 13. září."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Chronicky nemůžete spát? Podle nové studie může stárnout váš mozek.",
+      "original_title": "Chronically sleepless? New study suggests it might cause your brain to age. - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/10/chronic-insomnia-sleep-brain-aging/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GHWHMAXD34I6VAWYLZK5I7UQZI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-11T00:31:35Z",
+      "description": "Nová studie v časopise Neurology ukazuje, že lidé s chronickou nespavostí mají vyšší pravděpodobnost kognitivního postižení, není však jasné, zda se jedná o asociaci nebo kauzalitu."
     },
     {
       "flag": "🌍",
@@ -301,13 +334,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "FromSoftware odhalila nový režim hry Elden Ring Nightreign před zítřejším vydáním",
+      "title": "FromSoftware odhaluje nový režim hry Elden Ring Nightreign před zítřejším vydáním",
       "original_title": "FromSoftware unveils Elden Ring Nightreign's new mode ahead of release tomorrow - Eurogamer",
       "url": "https://www.eurogamer.net/fromsoftware-unveils-elden-ring-nightreigns-new-mode-ahead-of-release-tomorrow",
       "urlToImage": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-DeepOfNight-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "source": "Eurogamer.net",
       "publishedAt": "2025-09-10T14:41:25Z",
       "description": "FromSoftware odhalilo nový režim Deep of Night pro Elden Ring Nightreign před zítřejším vydáním 11. září…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vědci objevili u Země quasi-měsíc, který ji obíhá již 60 let. A není první.",
+      "original_title": "Scientists find quasi-moon orbiting the Earth for the last 60 years—and it's not the first one - Phys.org",
+      "url": "https://phys.org/news/2025-09-scientists-quasi-moon-orbiting-earth.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/scientists-find-quasi.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-09-10T14:40:18Z",
+      "description": "Každý, kdo kdy žil na Zemi, si byl dobře vědom existence Měsíce, ale ukazuje se, že Země má také několik častých dočasných souputníků. Tyto „kvaziměsíce“ jsou malé asteroidy, které vstupují do urči..."
     }
   ]
 }
