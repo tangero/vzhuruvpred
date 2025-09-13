@@ -1,27 +1,126 @@
 {
-  "last_updated": "2025-09-13T16:18:34",
+  "last_updated": "2025-09-13T17:12:45",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Dítě v L.A. zemřelo na vzácnou komplikaci spalniček několik let po nákaze",
+      "original_title": "L.A. County child dies of rare measles complication years after infection - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/12/los-angeles-measles-complication-vaccination-sspe/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UILW6P3V4WAP736FQC7DYQUVVA_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-12T16:42:34Z",
+      "description": "Dítě onemocnělo spalničkami ještě před očkováním, uvedli úředníci. Podle nich případ ukazuje na důležitost kolektivní imunity."
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nasdaq atakuje rekord, S&P 500 míří k vítěznému týdnu před rozhodnutím Fedu: Živé aktualizace",
+      "title": "Trump vyšle do Memphisu Národní gardu kvůli kriminalitě",
+      "original_title": "Trump to deploy National Guard to Memphis over crime rate - Axios",
+      "url": "https://www.axios.com/2025/09/12/trump-deploy-national-guard-memphis-crime-rate",
+      "urlToImage": "https://images.axios.com/DLMtdV-Jsr50vtOkLsS2kyDuMIM=/0x0:3000x1688/1366x768/2025/09/12/1757684517118.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-12T16:27:08Z",
+      "description": "Memphis má nejvyšší míru násilné kriminality ze všech amerických měst"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Pojistné na zdravotní pojištění čeká prudký růst kvůli nákladům na léky a hrozbě cel",
+      "original_title": "Health insurance premiums poised to spike over drug costs, tariff threats - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/12/tariffs-ozempic-health-insurance-premiums/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7I42FN4B6WMPU64TQJDBLBWIKM_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-12T16:01:39Z",
+      "description": "Podle průzkumů budou příští rok miliony lidí platit za zdravotní pojištění podstatně více. Pojišťovny uvedly tarify a poptávku po lécích na obezitu."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpovi úředníci spojí úmrtí dětí s vakcínami proti covidu, což znepokojuje kariérní vědce",
+      "original_title": "Trump officials to link child deaths to covid shots, alarming career scientists - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/12/covid-vaccine-child-death-cdc/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M6OW6BE2FUZQYCSFA4CU5QDMXE.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-12T15:39:28Z",
+      "description": "Propojení vakcín proti covidu s 25 úmrtími dětí znepokojuje vědce, kteří upozorňují, že vakcíny byly důkladně prozkoumány."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ego Nwodim po sedmi sezónách opouští Saturday Night Live",
+      "original_title": "Ego Nwodim Departs ‘SNL’ After Seven Seasons - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/ego-nwodim-leaving-snl-1236369244/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/GettyImages-2215144741-EMBED-2025.jpg?w=1000&h=667&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-12T15:15:19Z",
+      "description": "Její odchod přichází poté, co NBC na začátku týdne zdánlivě dokončila sestavu pro 51. řadu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tyler Robinson je podezřelý ze střelby Charlie Kirka, jak byl dopaden",
+      "original_title": "Tyler Robinson named suspect in Charlie Kirk shooting, how he was caught - ABC News",
+      "url": "https://abcnews.go.com/US/tyler-robinson-charlie-kirk-suspect-shooter-utah/story?id\\\\u003d125474359",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-12T14:48:45Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nasdaq atakuje rekord, index S&P 500 směřuje k vítěznému týdnu před rozhodnutím Fedu: Živé aktuality",
       "original_title": "Nasdaq hits record, S&P 500 heads for winning week as Fed decision looms: Live updates - CNBC",
       "url": "https://www.cnbc.com/2025/09/11/stock-market-today-live-updates.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-09-12T14:35:00Z",
-      "description": "Akcie ve čtvrtek rostly, všechny tři hlavní indexy uzavřely na nových maximech."
+      "description": "Akcie ve čtvrtek posílily, všechny tři hlavní indexy uzavřely na nových maximech."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Princ Harry překvapil návštěvou Ukrajiny na podporu zraněných vojáků",
-      "original_title": "Prince Harry makes surprise visit to Ukraine in support of wounded service members - ABC News",
-      "url": "https://abcnews.go.com/International/wireStory/prince-harry-makes-surprise-visit-ukraine-support-wounded-125502869",
-      "urlToImage": "https://i.abcnewsfe.com/a/a4244f9a-0b98-45e7-bfc9-6b5de4875671/wirestory_7bd712c94881633095660599b3bdefe8_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-09-12T13:24:32Z",
-      "description": "Princ Harry nečekaně přijel na Ukrajinu, aby podpořil zraněné vojáky"
+      "title": "Po zabiti ošetřovatele lvy v Thajsku se zpřísňuje dohled nad zacházením se zvířaty v safari parku",
+      "original_title": "After 5 lions kill zookeeper in Thailand, scrutiny on safari park's animal treatment intensifies - CBS News",
+      "url": "https://www.cbsnews.com/news/lions-kill-zookeeper-safari-park-details-scrutiny-thailand/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/50bcbebb-575f-4c79-a156-7b2a12a4e0aa/thumbnail/1200x630/ef096d4a658c640b16240d76e0246786/lions-526585019-1265996985556387-2369525089491116612-n.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-12T14:08:42Z",
+      "description": "Smečka lvů zabila dlouholetého ošetřovatele, když vystoupil z vozidla, oznámili úředníci."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "USA se připojily k Radě bezpečnosti OSN v odsouzení izraelských útoků na Katar",
+      "original_title": "US joins UN Security Council condemnation of Israeli strikes on Qatar - BBC",
+      "url": "https://www.bbc.com/news/articles/c740kk7vxkdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3902/live/4e880f60-8fce-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-12T13:52:37Z",
+      "description": "USA tradičně blokují na OSN akce namířené proti jejich blízkému spojenci Izraeli."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie společnosti Gemini se dnes začínají obchodovat. Pro bratry Winklevossovy to může být další vítězství. - Barron's",
+      "original_title": "Gemini Stock Starts Trading Today. It Could Be Another Win for the Winklevoss Twins. - Barron's",
+      "url": "https://www.barrons.com/articles/gemini-space-station-ipo-stock-price-bd9a1705",
+      "urlToImage": "https://images.barrons.com/im-86685109/social",
+      "source": "Barron's",
+      "publishedAt": "2025-09-12T13:43:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Verizon vám právě teď dá iPhone 17 Pro zdarma při trade-in – jak nabídka funguje",
+      "original_title": "Verizon will give you an iPhone 17 Pro free with trade-in right now - how the deal works - ZDNET",
+      "url": "https://www.zdnet.com/article/verizon-will-give-you-an-iphone-17-pro-free-with-trade-in-right-now-how-the-deal-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7f16e5c64a86d26d550098934a2d09bcf18d5392/2025/09/10/dee94d50-5e0e-4742-85d7-c1adf655fb46/iphone-17-pro-max-blue.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-09-12T13:21:00Z",
+      "description": "iPhone 17 je nyní k dispozici k předobjednání a Verizon nabízí novým i stávajícím zákazníkům až 1100 dolarů slevu na kterýkoli z nových telefonů a také některé nabídky na Apple Watch a iPad zdarma."
     },
     {
       "flag": "🌍",
@@ -32,139 +131,106 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nightmare-in-bed-1200x675.jpg",
       "source": "Gizmodo.com",
       "publishedAt": "2025-09-12T13:20:07Z",
-      "description": "Nová studie odhaluje, jak nespavost může ovlivňovat zdraví vašeho mozku."
+      "description": "Nová studie odhaluje, jak nespavost ovlivňuje zdraví mozku."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Micah Parsons odehrál místo 30 snapů 47.",
-      "original_title": "Micah Parsons increases snaps from 30 to 47 - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-increases-snaps-from-30-to-47",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b16a210/2147483647/strip/true/crop/3436x1933+0+179/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F43%2F331ae9004b088b99aaa4cc0d52e0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2234969276",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-12T13:19:46Z",
-      "description": "Dva týdny po přestupu do Green Bay je Parsons už nezastavitelný."
+      "title": "Kalifornie schválila zákaz masek ICE v závěrečných dnech legislativního zasedání",
+      "original_title": "CA passes ICE mask ban in closing days of legislative session - CalMatters",
+      "url": "https://calmatters.org/newsletter/immigration-mask-ban-legislature/",
+      "urlToImage": "https://calmatters.org/wp-content/uploads/2025/09/082125_CA-Legislature_FG_CM_03.jpg",
+      "source": "CALmatters",
+      "publishedAt": "2025-09-12T13:00:00Z",
+      "description": "V reakci na zátahy proti imigrantům v L.A. zákonodárci schválili opatření, která mají donutit strážce zákona, aby byli identifikovatelní."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump slibuje vyslání Národní gardy do Memphisu kvůli kriminalitě",
-      "original_title": "Trump says he’ll send the National Guard to Memphis to address crime concerns - AP News",
-      "url": "https://apnews.com/article/trump-memphis-national-guard-federal-intervention-73a7747f02bdf111574cbe9cc59201dd",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a7cf5fc/2147483647/strip/true/crop/4182x2352+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F4f%2F75d5011bc6424ca056ca8f93bd46%2F8c4e4761709248e3a5e247e1e0feeff2",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-12T12:54:00Z",
-      "description": "Prezident Trump pošle do Memphisu Národní gardu, aby pomohla s kriminalitou"
+      "title": "Jihoafrická republika znovu otevírá vyšetřování smrti Stevea Bika",
+      "original_title": "South Africa reopens inquest into death of Steve Biko - NPR",
+      "url": "https://www.npr.org/2025/09/12/nx-s1-5539024/south-africa-reopens-inquest-death-steve-biko",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1952x1098+0+275/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F73%2F35c742384e1ba74829bdfd46cc25%2Fgettyimages-150341724.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-12T12:54:38Z",
+      "description": "Jižní Afrika po 48 letech od smrti vůdce boje proti apartheidu Steva Bika v policejní vazbě znovu otevřela vyšetřování jeho úmrtí."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Vzestup a pád Jaira Bolsonara – a proč možná ještě neskončil",
+      "original_title": "Jair Bolsonaro's rise and fall - and why he may not be done yet - BBC",
+      "url": "https://www.bbc.com/news/articles/c5yqendv7k5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7a42/live/782184f0-8fc4-11f0-98cb-fd5ed4a6011e.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-12T12:44:13Z",
+      "description": "Bývalý brazilský prezident byl odsouzen na 27 let za plánování puče, ale možná ho čeká amnestie."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Obyvatelé Floridy mají po změnách na federální úrovni potíže s očkováním proti covidu",
+      "original_title": "Florida residents struggling to get COVID vaccines after federal changes - Tampa Bay Times",
+      "url": "https://www.tampabay.com/news/health/2025/09/12/florida-residents-struggling-get-covid-vaccines-after-federal-changes/",
+      "urlToImage": "https://www.tampabay.com/resizer/v2/JPDB6VA7CNBODANWXCMPSPNKPA.jpg?auth=39720483a0620a4dd258c5ce7e96151dd1779258533d37de2452668cadffc2d6&height=675&width=1200&smart=true",
+      "source": "Tampa Bay Times",
+      "publishedAt": "2025-09-12T12:00:04Z",
+      "description": "Některé lékárny ve státě přestaly vakcínu nabízet, čekají na další federální pokyny."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Polsko se střetlo s Donaldem Trumpem kvůli vpádu ruského dronu",
+      "original_title": "Poland clashes with Donald Trump on Russian drone incursion - Financial Times",
+      "url": "https://www.ft.com/content/ba1c8b14-2a5b-4265-9f71-2c63a3726867",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6c2f4c6-f82f-4967-8c6e-435e97a5975e.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-12T11:46:38Z",
+      "description": "Donald Tusk odmítá návrh amerického prezidenta, že Moskva mohla omylem narušit vzdušný prostor NATO"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Exkluzivně: Je „hloupé“ se obávat, že Nejvyšší soud zruší cla, říká Lutnick",
+      "title": "Exkluzivně: Je „pošetilé“ se obávat, že Nejvyšší soud zruší cla, říká Lutnick",
       "original_title": "Exclusive: \"Silly\" to worry about SCOTUS overturning tariffs, Lutnick says - Axios",
       "url": "https://www.axios.com/2025/09/12/trump-tariffs-scotus-howard-lutnick",
       "urlToImage": "https://images.axios.com/uH8DnWoxJasYvY51Xcxxnlvkbmk=/0x0:3840x2160/1366x768/2025/09/10/1757537203299.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-12T11:30:22Z",
-      "description": "Ministryně obchodu je mnohem méně opatrná ohledně možných dopadů než někteří kolegové."
+      "description": "Ministr obchodu je mnohem méně opatrný ohledně možných dopadů než někteří jeho kolegové."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Shrnutí akce Apple iPhone 17: předobjednávky iPhone Air, Apple Watch 11, AirPods Pro 3 a další",
-      "original_title": "Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET",
-      "url": "https://www.zdnet.com/article/apple-iphone-17-event-recap-iphone-air-preorders-apple-watch-11-airpods-pro-3-more/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/46f0ee04ce50b4d820a88a230073829a66918168/2025/09/10/ef80c72e-176d-468b-885f-f843e323a816/tim-cook-apple-event-2025-04.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-09-12T11:05:00Z",
-      "description": "ZDNET shrnul vše, co bylo oznámeno na této týdenní akci Applu – od řady iPhone 17 začínající na 799 dolarech po Apple Watch Ultra 3, AirPods Pro 3 a další."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump uvedl, že za střelbou na Charlieho Kirka je zadržená osoba",
-      "original_title": "Person in custody in shooting of Charlie Kirk, Trump says - ABC News",
-      "url": "https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story?id\\\\u003d125504696",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-12T10:30:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Polsko odmítá Trumpův názor, že ruský nálet dronem „mohl být omyl“",
-      "original_title": "Poland rejects Trump's suggestion that Russia's drone raid \"could have been a mistake\" - CBS News",
-      "url": "https://www.cbsnews.com/news/poland-russia-trump-putin-ukraine-war-tusk-says-drones-not-a-mistake/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/12/be4649a4-052c-47ca-8561-0a8b8cab74bf/thumbnail/1200x630/21c9871c8faf9fd216c090f596e23d63/donald-tusk-poland-sept-2025.jpg",
+      "title": "Nadcházející funkční období nejvyššího soudu se může nést ve znamení sporů o Trumpovu politiku",
+      "original_title": "Supreme Court's upcoming term could be marked by disputes over Trump policies - CBS News",
+      "url": "https://www.cbsnews.com/news/supreme-court-2025-2026-term-trump-policy-disputes/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/fd1f2e69-29e9-45d4-b0f6-1444933fab09/thumbnail/1200x630g2/ae08fc9338409810347b1e40bcf793d3/gettyimages-2222462629.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-09-12T09:49:28Z",
-      "description": "Reagujíc na Trumpa polský lídr řekl: \"Také bychom si přáli, aby byl útok dronu na Polsko omyl. Ale nebyl."
+      "publishedAt": "2025-09-12T10:00:06Z",
+      "description": "Více než 300 žalob napadajících řadu Trumpových plánů na druhé funkční období prochází federálními soudy a několik z nich může směřovat k přezkumu Nejvyšším soudem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sluneční záře na snímku Hubbleova teleskopu komety 3I/ATLAS je desetkrát delší než širší - Avi Loeb",
+      "title": "Sluneční záře na Hubbleově snímku komety 3I/ATLAS je desetkrát delší než širší - Avi Loeb",
       "original_title": "The Sunward Glow in the Hubble Image of 3I/ATLAS is Ten Times Longer Than It is Wide - Avi Loeb – Medium",
       "url": "https://avi-loeb.medium.com/the-sunward-glow-in-the-hubble-image-of-3i-atlas-is-ten-times-longer-than-it-is-wide-3a5cff257a94",
       "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*EqEVF2WYUy7CKmFX-6OAxg.png",
       "source": "Medium",
       "publishedAt": "2025-09-12T09:13:17Z",
-      "description": "V nové analýze (dostupné zde) snímku mezihvězdného objektu 3I/ATLAS z Hubbleova vesmírného dalekohledu, na které jsem se podílel jako spoluautor se svým…"
+      "description": "V nové analýze (dostupné zde) snímku mezihvězdného objektu 3I/ATLAS z Hubbleova vesmírného dalekohledu, na které jsem se podílel se svým…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Náklady na zdravotní péči prudce rostou. Můžete za to vinit pojišťovny, farmaceutické firmy — a svého zaměstnavatele",
-      "original_title": "Health care costs are soaring. Blame insurers, drug companies — and your employer - NPR",
-      "url": "https://www.npr.org/2025/09/12/nx-s1-5534416/health-care-costs-soaring-blame-your-employer",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+105/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F3f%2F47564560459281a11f9111bc3af6%2Fap24149616454742.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-12T09:00:00Z",
-      "description": "Asi 154 milionů lidí ve Spojených státech má zdravotní péči od zaměstnavatele — a mnoho z nich si ji brzy výrazně podraží."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump utrpěl porážku, Dánsko zvolilo francouzsko-italský protivzdušný systém před americkými Patrioty",
-      "original_title": "Loss for Trump as Denmark chooses Franco-Italian air defense system over US Patriots - politico.eu",
-      "url": "https://www.politico.eu/article/denmark-chooses-franco-italian-air-defense-system-over-us-patriots/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/12/11421823-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-12T08:47:00Z",
-      "description": "Rozhodnutí padlo poté, co americký prezident pohrozil anexí Grónska."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Microsoft se vyhnul pokutě od EU poté, co si Slack stěžoval na svazování Teams",
-      "original_title": "Microsoft avoids EU fine after Slack complained about Teams bundling - The Verge",
-      "url": "https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357653/STK264_MICROSOFT_TEAMS_V2_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-12T08:46:50Z",
-      "description": "Microsoft těsně unikl pokutě EU za porušení antimonopolních pravidel. Výrobce softwaru se zavázal změnit svazování Teams po stížnosti Slaku na narušování hospodářské soutěže."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "FDA schválila upozornění na hypertenzi na Apple Watch pro nové i starší modely",
+      "title": "Upozornění Apple Watch na hypertenzi schváleno FDA pro nové i staré hodinky",
       "original_title": "Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge",
       "url": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&strip=all&crop=0%2C10.336347770903%2C100%2C79.327304458195&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-12T06:10:00Z",
       "description": "Měřič krevního tlaku dorazí s watchOS 26 příští týden."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Satelitní snímky před a po ukazují, jak Izrael zničil Gazu",
-      "original_title": "Before and after satellite images show how Israel has destroyed Gaza City - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2025/9/12/before-and-after-satellite-images-show-how-israel-has-destroyed-gaza-city",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/INTERACTIVE-GAZA-BEFORE-and-AFTER-poster-image-1757584307.png?resize=1200%2C630",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-12T05:17:07Z",
-      "description": "Snímky ukazují, jak byly v posledních měsících srovnány se zemí čtvrti v největším městě Gazy"
     },
     {
       "flag": "🇺🇸",
@@ -178,86 +244,42 @@
       "description": ""
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ed Sheeran hraje dál — ale je to pořád ta samá písnička",
-      "original_title": "Ed Sheeran Plays On — But It’s the Same Old Song - Rolling Stone",
-      "url": "http://www.rollingstone.com/music/music-album-reviews/ed-sheeran-play-review-1235425940/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/ed-sheeran-play-review.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-12T04:00:00Z",
-      "description": "Ed Sheeranovo ‚Play‘ jde dopředu i dozadu"
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Spinal Tap: Nejhladitější kapela světa se vrací s malou pomocí svých slavných přátel",
+      "original_title": "Spinal Tap: The world's loudest band return with a little help from their famous friends - BBC",
+      "url": "https://www.bbc.com/news/articles/cy5039lqzgvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b521/live/a54f5d30-8efc-11f0-a5a5-2d614a841ea6.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-11T23:34:07Z",
+      "description": "Kapela reflektuje svůj kultovní status a oasisovské znovushledání po boku Sira Paula McCartneyho a Eltona Johna."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump se v pátek setká s katarským premiérem po izraelském útoku v Dauhá",
-      "original_title": "Trump to meet Qatar's PM Friday in aftermath of Israeli strike in Doha - Axios",
-      "url": "https://www.axios.com/2025/09/12/trump-qatar-leader-meeting-dc-al-thani",
-      "urlToImage": "https://images.axios.com/DkDkBZ6omFFAznd9_MLkV7SpNKY=/0x78:6000x3453/1366x768/2025/09/12/1757640893298.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-12T01:52:30Z",
-      "description": "Setkání je dalším způsobem, jak Trump dává najevo podporu Kataru a nesouhlas s izraelským úderem."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Josh Kraft se stahuje z bostonské volební kampaně o post starosty",
-      "original_title": "Josh Kraft bows out of Boston race for mayor - WBUR",
-      "url": "https://www.wbur.org/news/2025/09/11/josh-kraft-campaign-boston-mayor-michelle-wu",
-      "urlToImage": "https://wordpress.wbur.org/wp-content/uploads/2025/09/0204_joshkraft-4-1000x667.jpg",
-      "source": "WBUR",
-      "publishedAt": "2025-09-12T01:18:45Z",
-      "description": "Josh Kraft odstoupil z boje o post starosty Bostonu dva dny poté, co jej v primárkách města drtivě porazila úřadující starostka Michelle Wu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kalifornští zákonodárci schválili zákon zakazující agentům ICE nosit masky",
-      "original_title": "California lawmakers pass bill to ban ICE agents from wearing masks - Politico",
-      "url": "https://www.politico.com/news/2025/09/11/california-lawmakers-pass-bill-ban-ice-agents-wearing-masks-00559803",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8c%2Fee%2F4301726e4a2881f9a20919345308%2Fimmigration-raids-los-angeles-82959.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-12T01:15:18Z",
-      "description": "Gavin Newsom nyní rozhodne, zda se Kalifornie pokusí zakrývání obličeje federálním agentům v tomto státu zakázat."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ministerstvo zdravotnictví Virginie vydává celostátní trvalý příkaz pro lékárny týkající se vakcíny proti COVID-19 pro období 2025–2026 - Ministerstvo zdravotnictví Virginie (.gov)",
-      "original_title": "Virginia Department of Health Issues Statewide Standing Order for Pharmacies Regarding 2025-2026 COVID-19 Vaccine - Virginia Department of Health (.gov)",
-      "url": "https://www.vdh.virginia.gov/news/virginia-department-of-health-issues-statewide-standing-order-for-pharmacies-regarding-2025-2026-covid-19-vaccine/",
-      "urlToImage": null,
-      "source": "Virginia.gov",
-      "publishedAt": "2025-09-11T21:55:45Z",
-      "description": "OKAMŽITÉ ZVEŘEJNĚNÍ – 11. září 2025 – Ministerstvo zdravotnictví Virginie vydává celostátní stálou objednávku pro lékárny týkající se vakcíny proti COVID-19 pro sezónu 2025–2026"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Republikáni v Senátu použili „jadernou možnost“ ke schválení Trumpových nominací ve velkém",
-      "original_title": "Senate GOP invokes \"nuclear option\" to confirm batches of Trump nominees - Axios",
-      "url": "https://www.axios.com/2025/09/11/senate-republicans-nuclear-option-trump-nominees",
-      "urlToImage": "https://images.axios.com/M1muMZoPhJoIbO0oP3e03UuCL9Y=/0x0:5577x3137/1366x768/2025/09/11/1757606502707.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-11T21:42:50Z",
-      "description": "Republikáni nyní chtějí rychle projít zásobu 146 civilních nominací."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "NASA našla na Marsu zajímavé horniny, co to tedy znamená pro návrat vzorků?",
+      "title": "NASA našla na Marsu zajímavé horniny, co to znamená pro návrat vzorků?",
       "original_title": "NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return? - Ars Technica",
       "url": "https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/NHQ202507310028medium-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-11T21:21:03Z",
-      "description": "„Musím se dívat na dolary, na čas a na návratnost.“"
+      "description": "„Musím se dívat na dolary, musím se dívat na čas a musím se dívat na návratnost.“"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Mapa ukazuje případy viru západního Nilu, úřady varují, že sezóna ještě neskončila",
+      "original_title": "Map shows West Nile virus cases as officials warn season isn't over - CBS News",
+      "url": "https://www.cbsnews.com/news/west-nile-virus-cases-map-2025/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/08/d7062424-9687-4e65-b122-eac65e29f81d/thumbnail/1200x630/352a3e558ddb04a92730c2d41a2ed419/gettyimages-157195780.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-11T19:41:15Z",
+      "description": "Zdravotníci varují, že sezóna viru západního Nilu ještě neskončila. Zde se šířila nemoc přenášená komáry."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Srážka černých děr potvrzuje desítky let staré předpovědi Einsteina a Hawkinga",
+      "title": "Srážka černých děr potvrdila desítky let staré předpovědi Einsteina a Hawkinga",
       "original_title": "Black hole collision confirms decades-old predictions by Einstein and Hawking - CNN",
       "url": "https://www.cnn.com/2025/09/11/science/black-hole-collision-einstein-hawking",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/artwork-gw250114main.jpg?c=16x9&q=w_800,c_fill",
@@ -268,24 +290,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Charlie Sheen se ve svém dokumentu snaží dohnat ztracený čas",
-      "original_title": "Charlie Sheen Is Trying to Make Up for Lost Time in His Doc - Vulture",
-      "url": "http://www.vulture.com/article/charlie-sheen-netflix-doc-explainer.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/dc9/664/e65f803570cb7a22747f9691cee601c055-charliesheen-doc.1x.rsocial.w1200.png",
-      "source": "Vulture",
-      "publishedAt": "2025-09-11T14:48:10Z",
-      "description": "Sheen se v novém dvoudílném dokumentu Netflixu rozepisuje o dobrém, špatném a velmi, velmi ošklivém. Je to zároveň zpověď i trochu odbytý výkon."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "V roce 2024 COVID vypadl ze seznamu deseti nejčastějších příčin úmrtí v USA.",
-      "original_title": "In 2024, COVID dropped from the list of top 10 causes of death in U.S. - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/10/nx-s1-5537078/u-s-death-rates-covid-2024",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2F34%2F92d3cb664b5292c2a6194069ca2f%2Fgettyimages-1237709034.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-10T22:43:31Z",
-      "description": "Poprvé od roku 2020 není COVID jednou z deseti hlavních příčin úmrtí v USA."
+      "title": "Teleskop Jamese Webba vyfotil obří hvězdu chrlící dvojité výtrysky dlouhé 8 světelných let",
+      "original_title": "James Webb Space Telescope images enormous star shooting out twin jets 8 light-years long - Space",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-images-enormous-star-shooting-out-twin-jets-8-light-years-long",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9gwE4ReJwyZ4LPFQnSR2MZ.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-11T15:00:00Z",
+      "description": "Paprsky naznačují skutečnou velikost obří hvězdy, která je vytvořila."
     }
   ]
 }
