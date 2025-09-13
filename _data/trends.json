@@ -1,20 +1,20 @@
 {
-  "updated": "2025-09-13T01:47:54.367796",
+  "updated": "2025-09-13T03:27:05.574616",
   "trends": [
     {
       "rank": 1,
       "query": "charlie sheen",
-      "news_title": "20 největších odhalení Charlieho Sheena",
-      "news_url": "https://www.netflix.com/tudum/articles/aka-charlie-sheen-most-unforgettable-moments",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO-_xfuvvUFIxV1IzHBDyhV6vwqIdK38RGeZv3Sbc-rxvOxQziMec3a3Ieh7o",
+      "news_title": "Martin Sheen o dokumentu o synovi Charliem",
+      "news_url": "https://www.eonline.com/news/1422480/martin-sheens-reaction-to-aka-charlie-sheen-documentary",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1A6NPaxsBbuR9AmbkbsLxTDza9IUNsZnXxvvQCEwBTnwmK_i7Qbwz8sj_gDw",
       "traffic": "1000++ hledání",
-      "source": "Netflix",
+      "source": "E! News",
       "explore_url": "https://trends.google.cz/trends/explore?q=charlie sheen&geo=CZ"
     },
     {
       "rank": 2,
       "query": "chance",
-      "news_title": "Smrtící měsíc rozhodne boj o postup z Chance ligy",
+      "news_title": "Vražedný měsíc rozhodne o šampionu Chance ligy",
       "news_url": "https://medium.seznam.cz/diskuze/jan-fiala-vrazedny-program-smrtici-mesic-proti-top-tymum-chance-ligy-rozhodne-vse-186763",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKlbEvY-CiUYuKCkDpe4L5oewuCLbw8xG4OPfIg3tH4U0dDVUd31P0bY7yyqg",
       "traffic": "500++ hledání",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "query": "jitka boho",
-      "news_title": "Zemřela herečka Jana Staňková, známá z filmů pro pamětníky.",
+      "news_title": "Zemřela Jana Staňková",
       "news_url": "https://www.radiobeat.cz/cs/1/21005/zemrela-jana-stankova/",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkk9nrZdKixt362mcYTvfZjYTrE2Q_lzRQJPCZETGG9BDuPkOI4csj7R7oH7w",
       "traffic": "500++ hledání",
@@ -34,7 +34,7 @@
     {
       "rank": 4,
       "query": "saskia burešová",
-      "news_title": "Saskia Burešová: Osud míchá karty, ale my hrajeme",
+      "news_title": "Osud míchá karty, ale my hrajeme, říká Saskia Burešová",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/saskia-buresova-moderatorka-cteni-vazna-hudba-muz-roku.A250902_104818_lidicky_potu",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShVVQqcx9IaHoNiXDzAyh-hOzGf1yi3j3DrLzgEudanLPhfxwWYl5gvX-sE0I",
       "traffic": "200++ hledání",
@@ -54,7 +54,7 @@
     {
       "rank": 6,
       "query": "karel šíp",
-      "news_title": "Karel Šíp: Jak se mu žije po smrti manželky?",
+      "news_title": "Karel Šíp: Jak se změnil moderátor po smrti manželky?",
       "news_url": "https://www.google.com/search?q=karel šíp&tbm=nws",
       "picture": null,
       "traffic": "200++ hledání",
@@ -63,23 +63,23 @@
     },
     {
       "rank": 7,
-      "query": "margot robbie",
-      "news_title": "Diamanty, nebo krajka? Která herečka zvládla nahé šaty lépe?",
-      "news_url": "https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-zaujalo-nas-souboj-nahych-satu-margot-robbie-v-diamantech-dakota-johnson-pouze-v-krajce-ktera-to-zvladla-lepe-100357",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xXJVSXTHdFaMeH8hfKUJKfRUlsefmUqNT26_RAe83ME13rdfcqVKMr8Tfvs",
-      "traffic": "200++ hledání",
-      "source": "Proženy.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=margot robbie&geo=CZ"
-    },
-    {
-      "rank": 8,
       "query": "twitch",
-      "news_title": "Borderlands 4 SHiFT kódy - průvodce",
+      "news_title": "Borderlands 4 SHiFT kódy - kompletní průvodce",
       "news_url": "https://www.ign.com/wikis/borderlands-4/Borderlands_4_SHiFT_Codes",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZPKLNfpxwTzXXPwGHHTE9mZMzb6ll8NvTE5y46Cq9YUIju2K_4lvJeSPPuIA",
       "traffic": "100++ hledání",
       "source": "IGN",
       "explore_url": "https://trends.google.cz/trends/explore?q=twitch&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "maxa",
+      "news_title": "Jihlava vyhrála ve Zlíně, rozhodla dvě minuty před koncem",
+      "news_url": "https://www.sport.cz/clanek/hokej-ceska-1-liga-jihlava-prestrilela-zlin-a-poprve-v-sezone-vyhrala-5289311",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWOSCPjYtwfSE3yFNF_6DAhnch6n-PdlgJpF6NPCzocxQQFuk5Hqftdd5Cz2Y",
+      "traffic": "100++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=maxa&geo=CZ"
     }
   ]
 }
