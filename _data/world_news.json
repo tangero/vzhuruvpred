@@ -1,27 +1,93 @@
 {
-  "last_updated": "2025-09-13T20:16:47",
+  "last_updated": "2025-09-13T21:13:55",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Americká tajná služba dala podle úředníka dovolenou agentovi, který na Facebooku negativně psal o Charliem Kirkovi",
-      "original_title": "U.S. Secret Service puts agent on leave who wrote negative Facebook post about Charlie Kirk, official says - CBS News",
-      "url": "https://www.cbsnews.com/news/u-s-secret-service-agent-on-leave-negative-post-charlie-kirk/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/10/2ff38a64-414d-4cf9-8ceb-02b1dcc9190b/thumbnail/1200x630/6629f4f6f97213633e6c756c19ab9142/gettyimages-2216875659.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-12T18:07:00Z",
-      "description": "Agent americké tajné služby, který napsal negativní příspěvek na sociálních sítích o Charliem Kirkovi, byl dán na dovolenou, řekl v pátek americký úředník."
+      "title": "Republikáni získávají další křeslo v Kongresu poté, co Missouri schválilo předělané volební okrsky",
+      "original_title": "GOP nets 1 more House seat as Missouri passes gerrymandered map - Politico",
+      "url": "https://www.politico.com/news/2025/09/12/missouri-map-redistricting-midterms-00557990",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F36%2Fb3%2Fc1b7aa7e48bda36904f053db11a6%2Felection-2026-redistricting-missouri-21888.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-12T20:26:51Z",
+      "description": "Státní zákonodárce změnil hranice volebních obvodů v rámci celonárodního úsilí prezidenta Donalda Trumpa přidávat křesla v Sněmovně reprezentantů pro státy vedené republikány."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Prezident Trump vzdává hold Charliemu Kirkovi a vyzývá k jednotě prostřednictvím úspěchu v působivém rozhovoru - Bílý dům (.gov)",
-      "original_title": "President Trump Honors Charlie Kirk, Calls for Unity Through Success in Powerful Interview - The White House (.gov)",
-      "url": "https://www.whitehouse.gov/articles/2025/09/president-trump-honors-charlie-kirk-calls-for-unity-through-success-powerful-interview/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/09/fnc-sharing-1.jpg",
+      "title": "Muž zabit, imigrační agent zraněn při zatýkání v Chicagu",
+      "original_title": "Man killed, ICE agent injured at Chicago immigration arrest - NBC News",
+      "url": "https://www.nbcnews.com/news/latino/person-killed-ice-agent-injured-immigration-arrest-chicago-rcna230878",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250912-nbc-chicago-ice-agent-ew-248p-b34585.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-12T19:38:28Z",
+      "description": "Mluvčí imigrační a celní správy uvedl, že strážníci v pátek ráno zastavovali vozidla v rámci své „cílené donucovací činnosti“."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Nepál má první premiérku po smrtících nepokojích",
+      "original_title": "Nepal gets first female PM after deadly unrest - BBC",
+      "url": "https://www.bbc.com/news/articles/c179qne0zw0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0d9b/live/2f33cb30-8fed-11f0-84c8-99de564f0440.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-12T19:33:13Z",
+      "description": "Bývalá předsedkyně nejvyššího soudu Sushila Karkiová složila slib po dohodě s vůdci protestů."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Porovnání všech modelů iPhone 17",
+      "original_title": "All of the iPhone 17 models compared - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/12/all-of-the-iphone-17-models-compared/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-17.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-12T18:46:51Z",
+      "description": "Všechny čtyři zařízení budou k předobjednání v pátek a v prodeji od 19. září."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Prezident Trump oznamuje odvážné kroky k potlačení násilné kriminality v Memphisu – Bílý dům (.gov)",
+      "original_title": "President Trump Announces Bold Action to Crush Violent Crime in Memphis - The White House (.gov)",
+      "url": "https://www.whitehouse.gov/articles/2025/09/president-trump-announces-bold-action-to-crush-violent-crime-in-memphis/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
       "source": "Whitehouse.gov",
-      "publishedAt": "2025-09-12T16:48:14Z",
-      "description": "V exkluzivním a obsáhlém rozhovoru pro Fox & Friends dnes vzdal prezident Donald J. Trump dojemný hold zesnulému Charliemu Kirkovi a nastínil"
+      "publishedAt": "2025-09-12T18:20:50Z",
+      "description": "Dnes ráno oznámil prezident Donald J. Trump plány na vyslání federálních zdrojů do Memphisu v Tennessee v rámci snahy Trumpovy administrativy"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Margot Robbie září v průhledných šatech na premiéře filmu 'A Big Bold Beautiful Journey",
+      "original_title": "Margot Robbie stuns in naked dress at 'A Big Bold Beautiful Journey' premiere - USA Today",
+      "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2025/09/12/margot-robbie-naked-dress-premiere-photos/86110224007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/12/USAT/86110234007-2234887354.jpg?crop=4691,2639,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2025-09-12T17:37:30Z",
+      "description": "Podívejte se na průsvitné šaty Margot Robbie a třpytivé tanga ze všech úhlů, když se zúčastnila evropské premiéry filmu „Velká odvážná krásná cesta“."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Věděla jsem, že jsi problém: Podle Blake Livelyové neexistuje důkaz, že by Taylor Swift souhlasila s výslechem; hnutí Baldoniho označuje za součást „neúnavné mediální strategie“",
+      "original_title": "I Knew You Were Trouble: No Proof Taylor Swift Agreed To Deposition, Blake Lively Says; Calls Baldoni Move More Of “Relentless Media Strategy” In Case - Deadline",
+      "url": "http://deadline.com/2025/09/taylor-swift-blake-lively-deposition-justin-baldoni-1236529998/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/taylor-swift-blake-lively-oct-2023-NFL-Getty-1.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-12T17:24:00Z",
+      "description": "Nejnovější pokus Justina Baldoniho zatáhnout Taylor Swift do právního sporu s Blake Lively je zřejmě opět odsouzen k nezdaru."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Když NASA našla na Marsu známky života, je jasné, že Trump udělal masivní chybu",
+      "original_title": "Now That NASA Found Signs of Life on Mars, It's Clear Trump Made a Massive Error - Futurism",
+      "url": "https://futurism.com/nasa-signs-life-mars-trump-error",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/09/mars-trump.jpg",
+      "source": "Futurism",
+      "publishedAt": "2025-09-12T17:13:28Z",
+      "description": "Donald Trump je hlavní překážkou naší planety v následování přelomových objevů NASA o životě na Marsu."
     },
     {
       "flag": "🇺🇸",
@@ -32,62 +98,29 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UILW6P3V4WAP736FQC7DYQUVVA_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-12T16:42:34Z",
-      "description": "Dítě onemocnělo spalničkami ještě před očkováním, uvedli úředníci. Podle nich případ ukazuje důležitost kolektivní imunity."
+      "description": "Dítě onemocnělo spalničkami před dovršením věku pro očkování, uvedli úředníci. Dodali, že případ ukazuje důležitost kolektivní imunity."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Fotopast v Chile zachytila podivná světla zářící divočinou. Výzkumníci se je snaží vysvětlit.",
-      "original_title": "Camera trap in Chile detects strange lights blazing through the wilderness. Researchers are scrambling to explain them. - Live Science",
-      "url": "https://www.livescience.com/space/extraterrestrial-life/camera-trap-in-chile-detects-strange-lights-blazing-through-the-wilderness-researchers-are-scrambling-to-explain-them",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YjTjF8LsDwN6Ayv45qZqKA.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-12T16:13:17Z",
-      "description": ""
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Princ Harry nečekaně navštívil Kyjev, aby se setkal se zraněnými veterány",
-      "original_title": "Prince Harry makes surprise visit to Kyiv to see wounded veterans - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/09/12/prince-harry-ukraine-kyiv-visit/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFSBNJLBC2VXOHTZ57PO7VVLRA_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-12T16:10:15Z",
-      "description": "„Válku nemůžeme zastavit, ale můžeme udělat vše, co je v našich silách, abychom pomohli procesu obnovy,“ řekl Harry deníku Guardian o své druhé návštěvě Ukrajiny."
+      "title": "OpenAI uzavřelo s Microsoftem novou dohodu o změně své firemní struktury",
+      "original_title": "OpenAI reaches new agreement with Microsoft to change its corporate structure - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/openai-reaches-agreement-microsoft-change-163335278.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vwDwf2wBA6ivrzK6.eadsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/94ef69dc33151c06e574666c24fba9ab",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-12T16:33:35Z",
+      "description": "OpenAI dosáhlo nové předběžné dohody s Microsoftem a uvedlo, že jeho neziskovka, která technicky kontroluje jeho podnikání, nyní obdrží 100 miliard dolarů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Taylor Swift bude vyslechnuta v soudním procesu Blake Livelyové a Justina Baldoniho",
-      "original_title": "Taylor Swift to Be Deposed in Blake Lively-Justin Baldoni Lawsuit - Variety",
-      "url": "https://variety.com/2025/film/news/taylor-swift-blake-lively-justin-baldoni-lawsuit-deposition-1236516261/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/MixCollage-12-Sep-2025-11-31-AM-6604.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-12T16:02:00Z",
-      "description": "Taylor Swift by měla příští měsíc vypovídat v případu obtěžování Blake Lively a Justina Baldoniho."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zprávy: NATO spouští operaci „Východní hlídka“ na posílení obrany východního křídla, 12. září 2025",
+      "title": "Zprávy: NATO spouští operaci „Východní hlídka“ na posílení přítomnosti podél východního křídla, 12. 9. 2025",
       "original_title": "News: NATO launches “Eastern Sentry” to bolster posture along eastern flank, 12-Sep.-2025 - NATO",
       "url": "https://www.nato.int/cps/en/natohq/news_237601.htm",
       "urlToImage": "https://www.nato.int/nato_static_fl2014/assets/pictures/images_mfu/2025/9/stock/250912-pc-sg-saceur_rdax_775x440p.jpg",
       "source": "Nato.int",
       "publishedAt": "2025-09-12T15:59:00Z",
-      "description": "V pátek (12. září 2025) představil generální tajemník NATO Mark Rutte a vrchní velitel spojeneckých sil v Evropě (SACEUR) generál Alexus G. Grynkewich na společné tiskové konferenci reakci NATO na ..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Po 6 sériích a 3 filmech se seriál 'Downton Abbey' loučí (nebo ne?)",
-      "original_title": "After 6 seasons and 3 movies, 'Downton Abbey' bids farewell (or does it?) - NPR",
-      "url": "https://www.npr.org/2025/09/12/nx-s1-5536666/downton-abbey-grand-finale-review",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/890x501+139+65/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fff%2Fb91802494cb88f65924eaaad8748%2Fdowntonabbey.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-12T15:50:28Z",
-      "description": "Downton Abbey: Velké finále se odehrává v roce 1930 a je mnohem lepší než poslední film z Downtonu. Tvůrce Julian Fellowes omezuje spletité zápletky a soustředí se na emocionální vztahy."
+      "description": "V pátek 12. září 2025 generální tajemník NATO Mark Rutte a vrchní velitel spojeneckých sil v Evropě (SACEUR) generál Alexus G. Grynkewich společně pořádali tiskovou konferenci, na které představili..."
     },
     {
       "flag": "🇺🇸",
@@ -98,40 +131,18 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M6OW6BE2FUZQYCSFA4CU5QDMXE.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-12T15:39:28Z",
-      "description": "Propojení vakcín proti covidu s 25 úmrtími dětí znepokojuje kariérní vědce, kteří tvrdí, že vakcíny byly důkladně prozkoumány."
+      "description": "Propojení vakcín proti covidu s 25 úmrtími dětí znepokojuje kariérní vědce, podle nichž byly vakcíny důkladně prozkoumány."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Co víme o střelci Tyleru Robinsonovi, který útočil na Charlieho Kirka",
-      "original_title": "What we know about Charlie Kirk shooting suspect Tyler Robinson - CNN",
-      "url": "https://www.cnn.com/2025/09/12/us/tyler-robinson-charlie-kirk-shooting-suspect-invs",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2932373657705145522.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-12T15:10:54Z",
-      "description": "Dvaadvacetiletý Tyler Robinson, který je ve vazbě jako podezřelý ze smrtící střelby do konzervativního aktivisty Charlieho Kirka, se podle slov členů rodiny nedávno stal politicky aktivnějším."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump prozatím ruší plány na vyslání Národní gardy do Chicaga, místo toho pošle jednotky do Memphisu",
-      "original_title": "Trump scraps plans to send National Guard to Chicago for now, says they're going to Memphis instead - CBS News",
-      "url": "https://www.cbsnews.com/chicago/news/trump-national-guard-chicago-memphis-fox-and-friends/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/12/b53a38c8-0b83-4c0a-a886-7daca939519a/thumbnail/1200x630/f234eafb2cf472c99f9653a205010c96/cbsn-fusion-trump-says-suspect-in-charlie-kirk-shooting-in-custody-thumbnail.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-12T15:08:00Z",
-      "description": "V rozhovoru pro Fox and Friends v pátek ráno prezident Trump řekl, že už nebude posílat Národní gardu do Chicaga, ale že bude nasazena v Memphisu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zde je vše, co oznámil nejnovější Direct od Nintenda",
-      "original_title": "Here's everything announced in Nintendo's latest Direct - Eurogamer",
-      "url": "https://www.eurogamer.net/heres-everything-announced-in-nintendos-latest-direct",
-      "urlToImage": "https://assetsio.gnwcdn.com/roundup_720.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-09-12T14:36:08Z",
-      "description": "Nintendo představilo Nintendo Direct 12. září, které trvalo přes hodinu."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Kráska a Bestie: Jihoafrický násilník Thabo Bester neuspěl s pokusem zablokovat film Netflixu",
+      "original_title": "Beauty and the Bester: South African rapist Thabo Bester loses bid to block Netflix film - BBC",
+      "url": "https://www.bbc.com/news/articles/cq65ygpv7p1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/26cb/live/e30e7aa0-8fa8-11f0-a14f-a32aad03416f.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-12T14:52:32Z",
+      "description": "Thabo Bester argumentoval, že dokumentární film ovlivní jeho proces za údajné fingování vlastní smrti k útěku z vězení."
     },
     {
       "flag": "🌍",
@@ -153,34 +164,45 @@
       "urlToImage": "https://www.investopedia.com/thmb/5WAORc2srptUsCqf-MKKaIcvWfg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2228875521-7219f219d353415d9b76b8285ea45897.jpg",
       "source": "Investopedia",
       "publishedAt": "2025-09-12T13:53:57Z",
-      "description": "Akcie Warner Bros. Discovery rostou druhý den po sobě poté, co zprávy naznačily, že Paramount Skydance chce koupit svého mediálního rivala."
+      "description": "Akcie Warner Bros. Discovery rostou druhý den po sobě poté, co Paramount Skydance oznámil zájem o koupi svého mediálního rivala."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "USA se připojily k Radě bezpečnosti OSN v odsouzení izraelských útoků na Katar",
+      "original_title": "US joins UN Security Council condemnation of Israeli strikes on Qatar - BBC",
+      "url": "https://www.bbc.com/news/articles/c740kk7vxkdo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3902/live/4e880f60-8fce-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-12T13:52:37Z",
+      "description": "USA tradičně blokují na OSN kroky proti své blízké spojenkyni Izraeli."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jihokorejští pracovníci se po dnech v detenci vrací domů po razii americké imigrační policie",
-      "original_title": "South Korean workers return home after days in detention following US immigration raid - AP News",
-      "url": "https://apnews.com/article/south-korea-hyundai-georgia-immigration-raid-dd97210ffb6126bdf763228dc03918e0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a8f518f/2147483647/strip/true/crop/5967x3356+0+311/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2Fa3%2F1b6928b2943ac647918c0219ce5d%2Fe3127dff014640928206b857fc678565",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-12T13:21:00Z",
-      "description": "Letadlo s více než 300 jihokorejskými pracovníky propuštěnými po několika dnech zadržování v Gruzii přistálo v Jižní Koreji."
+      "title": "Chronická nespavost ničí mozek. A to opravdu hodně.",
+      "original_title": "Chronic Insomnia Is Bad for the Brain. Like, Really Bad - Gizmodo",
+      "url": "https://gizmodo.com/chronic-insomnia-is-bad-for-the-brain-like-really-bad-2000657874",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nightmare-in-bed-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-09-12T13:20:07Z",
+      "description": "Nová studie odhaluje, jak nespavost ovlivňuje zdraví mozku."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Předobjednávky iPhonu 17 jsou spuštěny: Zde najdete nabídky na telefon zdarma",
-      "original_title": "iPhone 17 preorders are open: Here's where you can find free phone deals - ZDNET",
-      "url": "https://www.zdnet.com/article/iphone-17-preorders-are-open-heres-where-you-can-find-free-phone-deals/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f1500a8d3e9c5733149b486a35b34b07f622d196/2025/09/10/ddef64f5-52b0-4f69-aecc-1b041de881fb/iphone-17-pro-max-orange-techwoven.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-09-12T13:20:00Z",
-      "description": "iPhone 17 je tady spolu s novými Apple Watch a AirPods Pro 3. Máme podrobnosti o tom, kde a kdy si je můžete koupit a předobjednat, a všechny nejlepší nabídky."
+      "title": "Kalifornie v závěru legislativního zasedání schválila zákaz masek ICE",
+      "original_title": "California passes ICE mask ban in closing days of legislative session - CalMatters",
+      "url": "https://calmatters.org/newsletter/immigration-mask-ban-legislature/",
+      "urlToImage": "https://calmatters.org/wp-content/uploads/2025/09/082125_CA-Legislature_FG_CM_03.jpg",
+      "source": "CALmatters",
+      "publishedAt": "2025-09-12T13:00:00Z",
+      "description": "V reakci na razie proti imigrantům v Los Angeles přijal zákonodárce opatření, která mají donutit strážce zákona, aby byli identifikovatelní."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jihoafrická republika znovu otevírá vyšetřování smrti Stevea Bika",
+      "title": "Jižní Afrika znovu otevírá vyšetřování smrti Stevea Bika",
       "original_title": "South Africa reopens inquest into death of Steve Biko - NPR",
       "url": "https://www.npr.org/2025/09/12/nx-s1-5539024/south-africa-reopens-inquest-death-steve-biko",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1952x1098+0+275/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F73%2F35c742384e1ba74829bdfd46cc25%2Fgettyimages-150341724.jpg",
@@ -191,24 +213,24 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Obyvatelé Floridy se po změnách na federální úrovni potýkají s nedostatkem vakcín proti covidu-19",
+      "title": "Obyvatelé Floridy mají po změnách na federální úrovni potíže s očkováním proti covidu",
       "original_title": "Florida residents struggling to get COVID vaccines after federal changes - Tampa Bay Times",
       "url": "https://www.tampabay.com/news/health/2025/09/12/florida-residents-struggling-get-covid-vaccines-after-federal-changes/",
       "urlToImage": "https://www.tampabay.com/resizer/v2/JPDB6VA7CNBODANWXCMPSPNKPA.jpg?auth=39720483a0620a4dd258c5ce7e96151dd1779258533d37de2452668cadffc2d6&height=675&width=1200&smart=true",
       "source": "Tampa Bay Times",
       "publishedAt": "2025-09-12T12:00:04Z",
-      "description": "Některé lékárny ve státě přerušily podávání vakcíny v očekávání dalších federálních pokynů."
+      "description": "Některé lékárny ve státě přestaly vakcínu nabízet, čekají na další federální pokyny."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sluneční záře na Hubbleově snímku komety 3I/ATLAS je desetkrát delší než širší - Avi Loeb",
+      "title": "Sluneční záře na snímku Hubbleova teleskopu komety 3I/ATLAS je desetkrát delší než širší – Avi Loeb",
       "original_title": "The Sunward Glow in the Hubble Image of 3I/ATLAS is Ten Times Longer Than It is Wide - Avi Loeb – Medium",
       "url": "https://avi-loeb.medium.com/the-sunward-glow-in-the-hubble-image-of-3i-atlas-is-ten-times-longer-than-it-is-wide-3a5cff257a94",
       "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*EqEVF2WYUy7CKmFX-6OAxg.png",
       "source": "Medium",
       "publishedAt": "2025-09-12T09:13:17Z",
-      "description": "V nové analýze (dostupné zde) snímku mezihvězdného objektu 3I/ATLAS z Hubbleova vesmírného dalekohledu, na které jsem se podílel se svým…"
+      "description": "V nové analýze (dostupné zde) snímku mezihvězdného objektu 3I/ATLAS z Hubbleova vesmírného teleskopu, na které jsem se podílel jako spoluautor s mým…"
     },
     {
       "flag": "🌍",
@@ -222,48 +244,15 @@
       "description": "Měřič krevního tlaku dorazí s watchOS 26 příští týden."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Snap County Packers ve 2. týdnu",
-      "original_title": "Packers Week 2 Snap Counts - Acme Packing Company",
-      "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/70870/green-bay-packers-snap-counts-week-2-2025-washington-commanders",
-      "urlToImage": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/09/gettyimages-2234951966.jpg?quality=90&strip=all&crop=0%2C10.738500098181%2C100%2C78.522999803637&w=1200",
-      "source": "Acme Packing Company",
-      "publishedAt": "2025-09-12T04:19:00Z",
-      "description": "Micah Parsons odehrál ze všech obranných konců Green Bay v druhém týdnu nejvíce snapů."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Microsoft a OpenAI překonávají překážku na cestě k přeměně na ziskovou společnost",
-      "original_title": "Microsoft, OpenAI Truce Clears Hurdle in Path to For-Profit Conversion - The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/microsoft-openai-announce-deal-to-extend-partnership-9273ec55",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-11T23:48:00Z",
-      "description": ""
-    },
-    {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Spinal Tap: Nejhlasičtější kapela světa se vrací s malou pomocí svých slavných přátel",
+      "title": "Spinal Tap: Největší kapela světa se vrací s pomocí svých slavných přátel",
       "original_title": "Spinal Tap: The world's loudest band return with a little help from their famous friends - BBC",
       "url": "https://www.bbc.com/news/articles/cy5039lqzgvo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b521/live/a54f5d30-8efc-11f0-a5a5-2d614a841ea6.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-11T23:34:07Z",
-      "description": "Kapela reflektuje svůj kultovní status a oasisovské znovushledání po boku sirů Paula McCartneyho a Eltona Johna."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "NASA našla na Marsu zajímavé horniny, co to znamená pro návrat vzorků?",
-      "original_title": "NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return? - Ars Technica",
-      "url": "https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/NHQ202507310028medium-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-11T21:21:03Z",
-      "description": "„Musím se dívat na dolary, musím se dívat na čas a musím se dívat na návratnost.“"
+      "description": "Kapela reflektuje svůj kultovní status a oasisovské znovushledání po boku sira Paula McCartneyho a Eltona Johna."
     },
     {
       "flag": "🌍",
@@ -277,26 +266,26 @@
       "description": "Zdravotníci varují, že sezóna viru západního Nilu ještě neskončila. Zde se šířila nemoc přenášená komáry."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Je čas řešit nespavost – mohlo by vás to ochránit před demencí, uvádí studie",
-      "original_title": "It’s time to address your insomnia — doing so could protect you against dementia, study says - CNN",
-      "url": "https://www.cnn.com/2025/09/11/health/insomnia-dementia-study-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1390552613.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-11T18:00:06Z",
-      "description": "Nespavost je běžný problém, který se ne vždy bere dostatečně vážně. Podle nového výzkumu však může být vaše převalování spojeno se stárnutím mozku."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nové splynutí černých děr potvrzuje Hawkingův teorém o ploše",
+      "original_title": "New black hole merger bolsters Hawking area theorem - Ars Technica",
+      "url": "https://arstechnica.com/science/2025/09/new-black-hole-merger-bolsters-hawking-area-theorem/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/LIGO-TOP-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-11T18:41:19Z",
+      "description": "Fyzici rozdělili gravitační signál splynutí na jednotlivé frekvence, aby určili povrchové plochy."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Srážka černých děr potvrzuje desítky let staré předpovědi Einsteina a Hawkinga",
-      "original_title": "Black hole collision confirms decades-old predictions by Einstein and Hawking - CNN",
-      "url": "https://www.cnn.com/2025/09/11/science/black-hole-collision-einstein-hawking",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/artwork-gw250114main.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-11T15:18:08Z",
-      "description": "Astronomové detekovali v nebývalých detailech srážku dvou černých děr. Jejich pozorování potvrzují předpovědi Alberta Einsteina a Stephena Hawkinga."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Teleskop Jamese Webba vyfotil obří hvězdu chrlící dvojité výtrysky dlouhé 8 světelných let",
+      "original_title": "James Webb Space Telescope images enormous star shooting out twin jets 8 light-years long - Space",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-images-enormous-star-shooting-out-twin-jets-8-light-years-long",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9gwE4ReJwyZ4LPFQnSR2MZ.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-11T15:00:00Z",
+      "description": "Paprsky naznačují skutečnou velikost obří hvězdy, která je vytvořila."
     }
   ]
 }
