@@ -1,20 +1,30 @@
 {
-  "updated": "2025-09-14T03:36:09.319919",
+  "updated": "2025-09-14T06:34:05.514595",
   "trends": [
     {
       "rank": 1,
+      "query": "počasí",
+      "news_title": "Předpověď počasí na víkend: Přinese déšť i slunečné dny",
+      "news_url": "https://www.google.com/search?q=počasí&tbm=nws",
+      "picture": null,
+      "traffic": "20000++ hledání",
+      "source": null,
+      "explore_url": "https://trends.google.cz/trends/explore?q=počasí&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "ivana korolová",
       "news_title": "Korolová z Kamarádů čeká druhé dítě s hudebníkem",
       "news_url": "https://medium.seznam.cz/clanek/honky-tonky-s-kym-zije-hvezda-serialu-kamaradi-korolova-se-znamym-hudebnikem-ceka-druhe-dite-186143",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTPN6x_FcQ7y_C9e6uyg1fbUxKmHZU8cNLUqHLPRdnI3G0L31BCJiYi78E1S8",
       "traffic": "2000++ hledání",
-      "source": "Seznam",
+      "source": "Médium.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=ivana korolová&geo=CZ"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "query": "jaroslav uhlíř",
-      "news_title": "Jaroslav Uhlíř: Severní vítr je moje vlajková loď",
+      "news_title": "Jubilant Uhlíř: Severní vítr je moje vlajková loď",
       "news_url": "https://budejovice.rozhlas.cz/jubilant-jaroslav-uhlir-severni-vitr-je-moje-vlajkova-lod-9553210",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNFNU0yCZgdQTYWT_dUow3aYeFf85ItSge1YRBb8aoqTHdi2ULhFBBW8Hz0Ho",
       "traffic": "2000++ hledání",
@@ -22,64 +32,54 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jaroslav uhlíř&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "tenis davis cup",
-      "news_title": "Česko - USA: ONLINE o postup v Davis Cupu",
-      "news_url": "https://www.sport.cz/clanek/tenis-davis-cup-2025-cesko-usa-online-ctyrhra-5290116",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTros3Kg558hAT0RiV3-V3gGqQLJWCTFBCVrs2QAQSF06dDurlTEBbFfZkhYag",
-      "traffic": "1000++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=tenis davis cup&geo=CZ"
-    },
-    {
       "rank": 4,
-      "query": "karel šíp",
-      "news_title": "Karel Šíp zemřel ve věku 76 let",
-      "news_url": "https://www.google.com/search?q=karel šíp&tbm=nws",
-      "picture": null,
-      "traffic": "1000++ hledání",
-      "source": null,
-      "explore_url": "https://trends.google.cz/trends/explore?q=karel šíp&geo=CZ"
-    },
-    {
-      "rank": 5,
-      "query": "silné bouřky dnes",
-      "news_title": "Silné bouřky a lijáky se řítí na východ Česka",
-      "news_url": "https://www.novinky.cz/clanek/domaci-na-cesko-se-riti-silne-bourky-a-lijaky-40538744",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYI7CVtxXJ-TcryzqLcjA6euNgDWUDjP3SkcqsrSonqTiLNMPUGnOj1NB8VA4",
-      "traffic": "500++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=silné bouřky dnes&geo=CZ"
-    },
-    {
-      "rank": 6,
       "query": "canelo vs crawford",
-      "news_title": "Canelo vs. Crawford: výsledky, start a živé aktualizace zápasu",
-      "news_url": "https://www.cbssports.com/boxing/news/canelo-alvarez-terence-crawford-fight-live-updates-scorecard-results/live/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZIwifdcZtyEVUlDvr66EMyLPJ7dHr0dY5_QaLjPE5FgglN8Pu09MwH-qOwf4",
-      "traffic": "200++ hledání",
+      "news_title": "Canelo vs. Crawford: termín, sazby, začátek, cena PPV a kompletní průvodce",
+      "news_url": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-terence-crawford-fight-date-odds-start-time-ppv-price-undercard-complete-guide/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ502qFQ-VuqN55fMsSGWyl2Hhpgws3YqVmFioWGVXx7faqcknfFnIEFJeBBos",
+      "traffic": "500++ hledání",
       "source": "CBS Sports",
       "explore_url": "https://trends.google.cz/trends/explore?q=canelo vs crawford&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "query": "ufc",
-      "news_title": "Prelim Results | Noche UFC",
+      "news_title": "Předběžné výsledky z Noche UFC",
       "news_url": "https://www.ufc.com/news/prelim-live-results-fight-recaps-highlights-winner-backstage-interviews-noche-ufc-lopes-vs-silva",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUNXcAHiUbhrcRF_5Kkdb1FKLyKmW8nCsjEmam_poIq-xJ-kkLeswF3tNXYZw",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgECcNpj7pr4q4Da9K1I7UUTZvPeaS0lgs6LBjpq8mpWCLdntaWUx0K4069fI",
       "traffic": "200++ hledání",
       "source": "UFC.com",
       "explore_url": "https://trends.google.cz/trends/explore?q=ufc&geo=CZ"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "query": "charlie sheen",
-      "news_title": "Režisér o tom, jak vtěsnat 50 milionů skandálů do dokumentu",
-      "news_url": "https://www.hollywoodreporter.com/tv/tv-features/aka-charlie-sheen-director-revelations-interview-1236368296/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWEJeqL2yVMe8lhx7dd3BxkGeWll_QEnxIzyRVGPMc4T71Y6QZ7mKwLohGpww",
+      "news_title": "Vše o sourozencích Charlieho Sheena: Emiliovi, Ramonovi a Renée",
+      "news_url": "https://people.com/charlie-sheen-siblings-everything-to-know-11807092",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH2v9ekls_9KJd0Ru97bjZyGupLjw25Y8nrJwe7tZCP30ob-uzVmsqK6n7m0Y",
       "traffic": "200++ hledání",
-      "source": "The Hollywood Reporter",
+      "source": "People.com",
       "explore_url": "https://trends.google.cz/trends/explore?q=charlie sheen&geo=CZ"
+    },
+    {
+      "rank": 7,
+      "query": "pavel složil",
+      "news_title": "Davis Cup: Menšík po 20 letech. Budoucnost není jen Sinner",
+      "news_url": "https://isport.blesk.cz/clanek/tenis-davis-cup/466195/legenda-slozil-na-davis-cupu-pozvani-po-dvaceti-letech-mensik-budoucnost-neni-jen-sinner.html",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJcBP0nDBgbIzaVGhpFBSuXkTIq4OUi7Fp-sXHnRFa3EK2XOYJIM7PrZdXOsM",
+      "traffic": "200++ hledání",
+      "source": "iSport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=pavel složil&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "sean penn",
+      "news_title": "Trump v roce 2025 mluví plynně anglicky. Co se změnilo?",
+      "news_url": "https://www.red94.net/news/84494-he-clearly-speaks-and-understands-more-english-sparks-late-night-debate-in-2025/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV7D-FhOcP9k53ful3YPJhXWCYQbZyYZRaQtJEPHBcgjrnPDzmrOzUTQLVObU",
+      "traffic": "200++ hledání",
+      "source": "Red94",
+      "explore_url": "https://trends.google.cz/trends/explore?q=sean penn&geo=CZ"
     }
   ]
 }
