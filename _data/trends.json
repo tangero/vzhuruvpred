@@ -1,85 +1,85 @@
 {
-  "updated": "2025-09-14T09:22:37.766111",
+  "updated": "2025-09-14T12:45:03.850995",
   "trends": [
     {
       "rank": 1,
-      "query": "počasí",
-      "news_title": "Počasí: Víkend přinese ochlazení a déšť",
-      "news_url": "https://www.google.com/search?q=počasí&tbm=nws",
-      "picture": null,
-      "traffic": "20000++ hledání",
-      "source": null,
-      "explore_url": "https://trends.google.cz/trends/explore?q=počasí&geo=CZ"
+      "query": "jablonec – pardubice",
+      "news_title": "Jablonec - Pardubice 3:1, dvakrát skóroval Jawo, snižoval Mahuta",
+      "news_url": "https://www.idnes.cz/fotbal/prvni-liga/chance-liga-8-kolo-jablonec-pardubice-online-vysledek.A250912_132302_fotbal_duff",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsDmK6-j6ROPaAdeLTUWvqrHMLT4dOlXlKY6vLXTaLHtU6Sc0wZva7glVm4jM",
+      "traffic": "5000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jablonec – pardubice&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "tenis davis cup",
-      "news_title": "Češi porazili Američany a míří na finále Davis Cupu",
-      "news_url": "https://www.idnes.cz/sport/tenis/davis-cup-zpravodajstvi-usa-cesko.A250913_190702_tenis_ikuc",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvWv_WecybTLrr2FxRP3A7fNxeBIjbLhWkaIVA936n0T-Ucemay6nMJp1Zauw",
-      "traffic": "2000++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=tenis davis cup&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "žižkov – brno",
-      "news_title": "Žižkov - Brno 0:3. Zbrojovka drtí Pražany, třetí gól dává Vachoušek",
-      "news_url": "https://isport.blesk.cz/clanek/fotbal-domaci-souteze-chance-narodni-liga/466223/online-zizkov-brno-0-3-zbrojovka-drti-prazany-treti-zasah-pridava-vachousek.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBL6KUfOWENKrWitQJ-P5nCmyGQRCcoGFBoISBKezqazDlL1D52PyuUpliWgk",
-      "traffic": "1000++ hledání",
-      "source": "iSport.cz",
+      "news_title": "Zbrojovka porazila Žižkov",
+      "news_url": "https://www.sport.cz/clanek/fotbal-ceska-2-liga-zbrojovka-ve-druhe-lize-porazila-zizkov-5291501",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTumUdDoyCYW6kH07tr5dTIrJUpaLDnKXY1N_LBOCaB-lUDrb6FZ60x50PK7VM",
+      "traffic": "2000++ hledání",
+      "source": "Sport.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=žižkov – brno&geo=CZ"
     },
     {
+      "rank": 3,
+      "query": "burnley – liverpool",
+      "news_title": "Burnley vs Liverpool LIVE: skóre, sestavy a aktuality z Premier League",
+      "news_url": "https://www.bbc.com/sport/football/live/cy5036q7qxvt",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0Q1y6nh5t2rIts63BKkJG0DgV8q7LsK9v7ULo-01oqGb2FOQMuq-L0egzQNI",
+      "traffic": "500++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=burnley – liverpool&geo=CZ"
+    },
+    {
       "rank": 4,
-      "query": "canelo vs crawford",
-      "news_title": "Jak sledovat Canela vs. Crawford živě na Netflixu",
-      "news_url": "https://www.netflix.com/tudum/articles/how-to-watch-canelo-crawford",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR38JZKNnOnAULUEsojzZE96KkBy_piXL1DAcyvgyIogYO-GpuZTWDKNLzWM6A",
-      "traffic": "1000++ hledání",
-      "source": "Netflix",
-      "explore_url": "https://trends.google.cz/trends/explore?q=canelo vs crawford&geo=CZ"
+      "query": "usain bolt",
+      "news_title": "Bolt: Rivalita USA-Jamaika i konec Fraserové-Pryceové",
+      "news_url": "https://www.nbcsports.com/olympics/news/usain-bolt-track-and-field-world-championships-2025",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_lrk9kz-tjEdXo1623q2Iy8cr2JZQd5Ivq_cbB0MmsXLwvYNH2vXBdsllXU0",
+      "traffic": "200++ hledání",
+      "source": "NBC Sports",
+      "explore_url": "https://trends.google.cz/trends/explore?q=usain bolt&geo=CZ"
     },
     {
       "rank": 5,
+      "query": "ricky hatton",
+      "news_title": "Boxer Ricky Hatton zemřel ve věku 46 let",
+      "news_url": "https://www.bbc.com/news/live/c201x6891e8t",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFVDECdk4pRYuSpP6IcoYsKIMHVyj8RSSl9Hl3s87mOTocI5WmxncFQCXwKEA",
+      "traffic": "200++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ricky hatton&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "jana černochová",
+      "news_title": "České vojenské vrtulníky a přes sto vojáků míří do Polska",
+      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-politika-ceske-vojenske-vrtulniky-miri-do-polska-pomuzou-v-radu-hodin-286047",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQwEQ8nLswlYubX2f5OgHZhapqovRKPlsGauUm-c5A08UN2rkUEJKiIf4oZ8",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jana černochová&geo=CZ"
+    },
+    {
+      "rank": 7,
+      "query": "protesty v londýně",
+      "news_title": "Masová demonstrace v Londýně proti migraci a za svobodu projevu",
+      "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-londyn-zaplavila-masova-demonstrace-proti-migraci-a-za-svobodu-projevu-40538782",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrRYtf6nimOdK__FsYkl1KKE3Mqi1AlKmwjpmm78ROC9nwcxt3XiNkH1h54RY",
+      "traffic": "200++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=protesty v londýně&geo=CZ"
+    },
+    {
+      "rank": 8,
       "query": "saskia burešová",
-      "news_title": "Osud míchá karty, ale my hrajeme, říká Saskia Burešová",
+      "news_title": "Saskia Burešová: Osud míchá karty, ale my hrajeme",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/saskia-buresova-moderatorka-cteni-vazna-hudba-muz-roku.A250902_104818_lidicky_potu",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShVVQqcx9IaHoNiXDzAyh-hOzGf1yi3j3DrLzgEudanLPhfxwWYl5gvX-sE0I",
       "traffic": "200++ hledání",
       "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=saskia burešová&geo=CZ"
-    },
-    {
-      "rank": 6,
-      "query": "charlotte – inter miami",
-      "news_title": "Messi neproměnil 32. penaltu v kariéře. Jak na tom je Ronaldo?",
-      "news_url": "https://worldsoccertalk.com/news/lionel-messi-misses-32nd-career-penalty-how-does-cristiano-ronaldo-compare/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwcliisIhzEz-783M9yIPCoAg3yaKQ_fbIkcKu01jV6Mt7ZJZo9O0tImjvVdk",
-      "traffic": "200++ hledání",
-      "source": "World Soccer Talk",
-      "explore_url": "https://trends.google.cz/trends/explore?q=charlotte – inter miami&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "canelo",
-      "news_title": "Vše o vítězství Crawforda nad Canelem",
-      "news_url": "https://www.espn.com.mx/boxeo/nota/_/id/15466892/canelo-vs-crawford-pelea-horario-cartelera-apuestas-boxeo",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH8Q9OwHCZIhEmwvOMkUnAKsRxAGlQDmL7Okbd0iKZhU0A5XeGUvxwyoXBywk",
-      "traffic": "200++ hledání",
-      "source": "ESPN México",
-      "explore_url": "https://trends.google.cz/trends/explore?q=canelo&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "ufc",
-      "news_title": "Jean Silva oplakal porážky Fighting Nerds. Jaký plán má s Lopesem?",
-      "news_url": "https://mmashorties.cz/jean-silva-oplakal-porazky-tymu-fighting-nerds-jaky-plan-ma-s-lopesem/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqcrj7oaDenxgCDaYwOvA3s67XiW9VyXuKJy0msI90F3PWF2OKuiZVAq_at0E",
-      "traffic": "200++ hledání",
-      "source": "MMA Shorties",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ufc&geo=CZ"
     }
   ]
 }
