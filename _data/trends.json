@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-14T02:01:44.211911",
+  "updated": "2025-09-14T03:36:09.319919",
   "trends": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "query": "jaroslav uhlíř",
-      "news_title": "Jubilant Jaroslav Uhlíř: Severní vítr je moje vlajková loď",
+      "news_title": "Jaroslav Uhlíř: Severní vítr je moje vlajková loď",
       "news_url": "https://budejovice.rozhlas.cz/jubilant-jaroslav-uhlir-severni-vitr-je-moje-vlajkova-lod-9553210",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNFNU0yCZgdQTYWT_dUow3aYeFf85ItSge1YRBb8aoqTHdi2ULhFBBW8Hz0Ho",
       "traffic": "2000++ hledání",
@@ -23,8 +23,18 @@
     },
     {
       "rank": 3,
+      "query": "tenis davis cup",
+      "news_title": "Česko - USA: ONLINE o postup v Davis Cupu",
+      "news_url": "https://www.sport.cz/clanek/tenis-davis-cup-2025-cesko-usa-online-ctyrhra-5290116",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTros3Kg558hAT0RiV3-V3gGqQLJWCTFBCVrs2QAQSF06dDurlTEBbFfZkhYag",
+      "traffic": "1000++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tenis davis cup&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "karel šíp",
-      "news_title": "Karel Šíp: Životní příběh legendárního moderátora",
+      "news_title": "Karel Šíp zemřel ve věku 76 let",
       "news_url": "https://www.google.com/search?q=karel šíp&tbm=nws",
       "picture": null,
       "traffic": "1000++ hledání",
@@ -32,7 +42,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=karel šíp&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "query": "silné bouřky dnes",
       "news_title": "Silné bouřky a lijáky se řítí na východ Česka",
       "news_url": "https://www.novinky.cz/clanek/domaci-na-cesko-se-riti-silne-bourky-a-lijaky-40538744",
@@ -42,44 +52,34 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=silné bouřky dnes&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "atlético madrid – villarreal",
-      "news_title": "Koke a Griezmann vedou Atlético k vítězství nad Villarrealem",
-      "news_url": "https://elpais.com/deportes/futbol/2025-09-13/la-jerarquia-de-koke-y-griezmann-templa-al-atletico-para-derrotar-al-villarreal.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8pGjwSOeWT3WJfjgWLmumNLhhNXq2vY2YDPxuDzn6tmKnKJdPBZwUx_zoVBY",
-      "traffic": "500++ hledání",
-      "source": "EL PAÍS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=atlético madrid – villarreal&geo=CZ"
+      "rank": 6,
+      "query": "canelo vs crawford",
+      "news_title": "Canelo vs. Crawford: výsledky, start a živé aktualizace zápasu",
+      "news_url": "https://www.cbssports.com/boxing/news/canelo-alvarez-terence-crawford-fight-live-updates-scorecard-results/live/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZIwifdcZtyEVUlDvr66EMyLPJ7dHr0dY5_QaLjPE5FgglN8Pu09MwH-qOwf4",
+      "traffic": "200++ hledání",
+      "source": "CBS Sports",
+      "explore_url": "https://trends.google.cz/trends/explore?q=canelo vs crawford&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "ufc",
-      "news_title": "Výsledky hlavní karty: Noche UFC",
-      "news_url": "https://www.ufc.com/news/main-card-live-results-fight-recaps-highlights-winner-backstage-interviews-noche-ufc-lopes-vs-silva",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3cwcrX6llXT0m-f_arsFlutDH1JYkhNB3H_Y5LFeYGnuSCvUh3YncjorL-F4",
+      "news_title": "Prelim Results | Noche UFC",
+      "news_url": "https://www.ufc.com/news/prelim-live-results-fight-recaps-highlights-winner-backstage-interviews-noche-ufc-lopes-vs-silva",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUNXcAHiUbhrcRF_5Kkdb1FKLyKmW8nCsjEmam_poIq-xJ-kkLeswF3tNXYZw",
       "traffic": "200++ hledání",
       "source": "UFC.com",
       "explore_url": "https://trends.google.cz/trends/explore?q=ufc&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "charlie sheen",
-      "news_title": "Charlie Sheen: Neomlouvám se, říká v rozhovoru s Emiliem Estevezem",
-      "news_url": "https://www.interviewmagazine.com/culture/charlie-sheen-in-conversation-with-emilio-estevez",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKBvSkdTd2uy-OoLqr-4hmYPqsTgEhbbiFnMkD6fBkSmM1YHm__HS-xNRjsw",
-      "traffic": "200++ hledání",
-      "source": "Interview Magazine",
-      "explore_url": "https://trends.google.cz/trends/explore?q=charlie sheen&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "pavel složil",
-      "news_title": "Davis Cup: Menšík po 20 letech v týmu, budoucnost není jen Sinner",
-      "news_url": "https://isport.blesk.cz/clanek/tenis-davis-cup/466195/legenda-slozil-na-davis-cupu-pozvani-po-dvaceti-letech-mensik-budoucnost-neni-jen-sinner.html",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJcBP0nDBgbIzaVGhpFBSuXkTIq4OUi7Fp-sXHnRFa3EK2XOYJIM7PrZdXOsM",
+      "query": "charlie sheen",
+      "news_title": "Režisér o tom, jak vtěsnat 50 milionů skandálů do dokumentu",
+      "news_url": "https://www.hollywoodreporter.com/tv/tv-features/aka-charlie-sheen-director-revelations-interview-1236368296/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWEJeqL2yVMe8lhx7dd3BxkGeWll_QEnxIzyRVGPMc4T71Y6QZ7mKwLohGpww",
       "traffic": "200++ hledání",
-      "source": "iSport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=pavel složil&geo=CZ"
+      "source": "The Hollywood Reporter",
+      "explore_url": "https://trends.google.cz/trends/explore?q=charlie sheen&geo=CZ"
     }
   ]
 }
