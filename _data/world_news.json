@@ -1,71 +1,93 @@
 {
-  "last_updated": "2025-09-14T12:32:02",
+  "last_updated": "2025-09-14T13:18:34",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Velké značky v zahraničí potlačují svůj americký původ",
-      "original_title": "Big Brands Play Down Their Americanness Abroad - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/big-brands-play-down-their-americanness-abroad-a7e6db52",
+      "title": "Ceny hovězího jsou na rekordním maximu. Vítězové: chovatelé dobytka.",
+      "original_title": "Beef Prices Are at a Record. The Winners: Cattle Ranchers - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/beef-prices-are-at-a-record-the-winners-cattle-ranchers-61670d80",
       "urlToImage": null,
       "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-13T09:30:00Z",
+      "publishedAt": "2025-09-13T13:51:00Z",
       "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Lidé přicházejí o práci kvůli příspěvkům na sociálních sítích o Charliem Kirkovi",
-      "original_title": "People are losing jobs due to social media posts about Charlie Kirk - NPR",
-      "url": "https://www.npr.org/2025/09/13/nx-s1-5538476/charlie-kirk-jobs-target-social-media-critics-resign",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5798x3261+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F02%2Fb4122a9a4571addec344a85f127c%2Fgettyimages-2234381833.jpg",
+      "title": "Trump spojuje nové sankce proti Ruslu s cly NATO na Čínu",
+      "original_title": "Trump ties new Russia sanctions to NATO tariffs on China - Axios",
+      "url": "https://www.axios.com/2025/09/13/trump-sanctions-russia-nato-tariffs-china",
+      "urlToImage": "https://images.axios.com/UG_X18cgYVhkzSvc5sDDbE_9JXc=/0x0:6000x3375/1366x768/2025/09/13/1757764747280.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-13T13:06:54Z",
+      "description": "Trump hrozil dalšími sankcemi vůči Rusku, aby je přiměl ukončit válku na Ukrajině, ale zatím váhá."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Největší boxerský zápas se streamuje na Netflixu — a může knokautovat pay-per-view",
+      "original_title": "Boxing's biggest fight is streaming on Netflix — and it could KO pay-per-view - Axios",
+      "url": "https://www.axios.com/2025/09/13/alvarez-crawford-netflix-boxing-streaming",
+      "urlToImage": "https://images.axios.com/cazDMoUUkvKAaz7Mpl6UgtMeI4I=/0x125:4500x2656/1366x768/2025/09/12/1757684921247.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-13T12:29:12Z",
+      "description": "Zápas Canela Álvareze a Terence Crawforda může změnit byznys boxu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Proč se zahraniční cestovatelé vyhýbají USA",
+      "original_title": "Why foreign travelers are avoiding the U.S. - Axios",
+      "url": "https://www.axios.com/2025/09/13/trump-tourism-tariffs-immigration",
+      "urlToImage": "https://images.axios.com/eY-XugxMoW2PopXvyHduENF5Xg8=/0x0:1344x756/1366x768/2025/09/05/1757085963634.png",
+      "source": "Axios",
+      "publishedAt": "2025-09-13T12:15:08Z",
+      "description": "Zahraniční turisty odrazují cla, protiimigrační rétorika a agresivní přistěhovalecká politika."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Čína zahajuje antidumpingové šetření některých amerických čipů",
+      "original_title": "China Launches Anti-Dumping Probe Against Some US Chips - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-13/china-launches-anti-dumpinng-probe-against-some-us-chips",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq.TYFPgivI4/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-13T11:56:30Z",
+      "description": "Čína zahájila dvě vyšetřování zaměřená na americký polovodičový sektor před plánovanými rozhovory obou zemí o obchodu a dalších otázkách."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Chcete se nechat očkovat proti covidu? Tady je to, co potřebujete vědět",
+      "original_title": "Trying to get a COVID vaccine right now? Here's what to know - NPR",
+      "url": "https://www.npr.org/2025/09/13/nx-s1-5540088/covid-vaccine-2025-cdc-fda-guidelines",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F35%2F9131809442e4834487ca20c6a6f0%2Fgettyimages-1720991107.jpg",
       "source": "NPR",
-      "publishedAt": "2025-09-13T09:00:00Z",
-      "description": "Někteří představitelé Republikánské strany chtějí potírat vnímané projevy škodolibosti nad smrtí Charlie Kirka. Konzervativní aktivisté zveřejňují příspěvky na sociálních sítích, které jeho úmrtí „..."
+      "publishedAt": "2025-09-13T11:00:00Z",
+      "description": "Pokud nejste starší 65 let nebo nemáte určité rizikové faktory, může být těžké vakcínu získat, ale ne nutně nemožné. Zde je to, co potřebujete vědět o matoucích a rychle se měnících pravidlech pro ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Horoskop na sobotu 13. září 2025 od Georgie Nicols",
-      "original_title": "Horoscope for Saturday, 9/13/25 by Georgia Nicols - CT Insider",
-      "url": "https://www.ctinsider.com/horoscope/article/horoscope-saturday-9-13-25-georgia-nicols-21027120.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/35/37/28432364/5/rawImage.jpg",
-      "source": "Ctinsider.com",
-      "publishedAt": "2025-09-13T09:00:00Z",
-      "description": "Dnes Měsíc prochází BÝKEM, oživuje zvědavost a podporuje rychlou výměnu nápadů."
+      "title": "Vůdce megacírkve a jeho matka obviněni z obchodování s lidmi a výpalnictví",
+      "original_title": "Megachurch leader and his mother indicted on sex trafficking and racketeering charges - NPR",
+      "url": "https://www.npr.org/2025/09/13/nx-s1-5537890/megachurch-leader-and-his-mother-indicted-on-sex-trafficking-and-racketeering-charges",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+469/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2Fc8%2F6d9e448c4f4e88e200e294fd1b16%2Fap25151660246098.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-13T10:00:00Z",
+      "description": "Státní zástupci: Vedoucí představitelé církve La Luz del Mundo se po generace dopouštěli sexuálního zneužívání. Přirovnávají je k mafii."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Američané prosí Kanaďany, aby se vrátili.",
-      "original_title": "Americans are begging Canadians to come back - Business Insider",
-      "url": "https://www.businessinsider.com/americans-businesses-beg-canadian-tourists-come-back-2025-9",
-      "urlToImage": "https://i.insider.com/68c476edf9db348adc0b6945?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-09-13T08:03:00Z",
-      "description": "Kanaďané a americké příhraniční státy kdysi patřili k sobě jako omáčka k hranolkům, politické napětí však zastavilo kanadský turismus v USA."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Úřady žádaly o pomoc při pátrání po vrahovi Charlieho Kirka. Otcovská intuice vedla k zatčení",
-      "original_title": "Authorities asked for help in the manhunt for Charlie Kirk’s killer. A father’s intuition led to an arrest - CNN",
-      "url": "https://www.cnn.com/2025/09/13/us/tyler-robinson-mahunt-charlie-kirk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250912-tyler-robinson-mugshot-split.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-13T08:00:05Z",
-      "description": "Jako tisíce Američanů uchvácených pátráním po střelci, který zabil konzervativního politického aktivistu Charlieho Kirka, viděl i otec z Utahu fotky a záběry podezřelého zveřejněné úřady."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Aktualizace k bezpečnostnímu riziku na Námořní akademii USA - navy.mil",
-      "original_title": "Update on U.S. Naval Academy Security Concern - navy.mil",
-      "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4302753/update-on-us-naval-academy-security-concern/",
-      "urlToImage": "https://media.defense.gov/2025/Jun/25/2003743321/1460/1280/0/200730-N-WF252-0002.PNG",
-      "source": "Navy.mil",
-      "publishedAt": "2025-09-13T07:24:01Z",
-      "description": "Americká námořní akademie poskytla následující prohlášení: Ve čtvrtek 11. září v přibližně 17:07 EST reagovala bezpečnostní služba Námořní podpůrné aktivity Annapolis a místní policie na hlášení"
+      "title": "Rodiny s pojištěním z Obamacare se připravují na vyšší zdravotní pojistné v příštím roce",
+      "original_title": "Families on Obamacare brace for higher health care premiums next year - NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/obamacare-higher-premiums-2026-affordable-care-act-rcna226637",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250908-obamacare-aca-higher-premiums-Safford-family-se-311p-c5ef74.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-13T09:30:42Z",
+      "description": "Daňové úvěry zpřístupnily plány Zákona o dostupné péči středním vrstvám. Vylepšené dotace mají vypršet koncem roku 2025, což by mohlo vést k výraznému zdražení."
     },
     {
       "flag": "🌍",
@@ -76,29 +98,29 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/bd0c38b/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fa9%2F5bb92d268b7c09dcab39be76dcd6%2F01fb639c3c404f89b2ec6aa389023af7",
       "source": "Associated Press",
       "publishedAt": "2025-09-13T07:19:00Z",
-      "description": "Jak velké technologické firmy přetěžují americkou elektrickou síť, Texas jako první přišel s řešením"
+      "description": "Jak velké technologické firmy přetěžují americkou elektrickou síť, Texas jako první navrhuje odpojit datová centra při výpadcích"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Školy se snažily zakázat telefony a vyhýbat se politice. Pak přišel atentát na Charlieho Kirka.",
-      "original_title": "Schools tried to ban phones and avoid politics. Then came Charlie Kirk’s assassination - AP News",
-      "url": "https://apnews.com/article/charlie-kirk-shooting-video-school-cbc8cfbc8a85b5759c37054cf1dc3908",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f8a95ba/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F06%2Fc0498dbafcc86508d15223dbbad1%2F73977de16a4f40afa7e387cad0665d1f",
+      "title": "Tipy, jak ustoupit od obrazovek a začít s novým koníčkem",
+      "original_title": "Tips on stepping back from screens and starting a new hobby - AP News",
+      "url": "https://apnews.com/article/finding-a-hobby-screen-alternatives-ef4c9320e1ede4a0b3ce04f5f4b149dd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1fbf253/2147483647/strip/true/crop/1920x1080+0+100/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2Fd2%2F50c72710912147b65bf6d3bdd1dd%2F09059482c81041f0821781afb6183538",
       "source": "Associated Press",
-      "publishedAt": "2025-09-13T04:01:00Z",
-      "description": "Atentát na Charlie Kirka na Utah Valley University vyslal šokové vlny do učeben po celém světě. Drsná videa z incidentu se rychle šířila online a zanechala mnoho teenagerů traumatizovaných. Někteří..."
+      "publishedAt": "2025-09-13T06:51:00Z",
+      "description": "Mnoho z nás chce omezit čas u obrazovek. Podle odborníků může pomoci nový koníček, který navíc nabízí řadu dalších zdravotních benefitů. Najít ale koníček bez obrazovky, který vás chytne, je snadně..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Podle dokumentů označila členka rady Fedu Lisa Cooková kondominium za druhý domov",
-      "original_title": "Fed governor Lisa Cook called condo a second home, documents show - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/12/lisa-cook-fed-mortgage-documents/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HSLMXHAKDXHMKMKJ2GAGLSA6TE.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-13T03:11:00Z",
-      "description": "Dokumenty, na které jako první upozornil v pátek večer Reuters, přicházejí v době, kdy se Trump snaží vyhodit Cooka kvůli neprokázaným obviněním z hypotečního podvodu."
+      "title": "Horoskop na sobotu 13. září 2025 - Chicago Sun",
+      "original_title": "Horoscope for Saturday, September 13, 2025 - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/horoscopes/2025/09/13/horoscopes-today-saturday-september-13-2025",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-09-13T05:01:00Z",
+      "description": ""
     },
     {
       "flag": "🌍",
@@ -109,95 +131,40 @@
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/be79e4c/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F832%2F691%2Fnbc_dls_pablo_250912.jpg",
       "source": "NBCSports.com",
       "publishedAt": "2025-09-13T01:44:38Z",
-      "description": "Ballmer tvrdil, že se společností byl v roce 2021 „napálen“, když do ní původně investoval 50 milionů dolarů, ale do roku 2023 byla Aspiration v troskách."
+      "description": "Ballmer tvrdil, že se v roce 2021 nechal firmou „napálit“, když do ní původně investoval 50 milionů dolarů, ale do roku 2023 byla Aspiration v troskách."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "FBI při zátahu na pervitin vykouřila z montanského útulku pro zvířata",
+      "title": "Požár způsobený metanfetaminem při zásahu FBI zasáhl montanské útulky pro zvířata",
       "original_title": "Meth burn by FBI smokes out Montana animal shelter - AP News",
       "url": "https://apnews.com/article/montana-animal-shelter-incinerator-methamphetamine-c471a1a007237b55aa6b8fea8af5673d",
       "urlToImage": "https://dims.apnews.com/dims4/default/b4e5d1d/2147483647/strip/true/crop/1620x911+0+84/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F34%2Fb5e3f4a14fc56e4415e0dbe70ecc%2Fee3d6e2d603344c3950fbf51ac669028",
       "source": "Associated Press",
       "publishedAt": "2025-09-13T01:01:00Z",
-      "description": "Pracovníci montanského útulku byli evakuováni a odvezeni do nemocnice po zplodinách ze dvou liber zničeného metamfetaminu"
+      "description": "Pracovníci montanského útulku byli evakuováni a odvezeni do nemocnice poté, co do budovy začal pronikat kouř z dvou liber zničeného metamfetaminu agentů FBI."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Umělá inteligence živí falešná tvrzení po smrti Charlieho Kirka, odhaluje analýza CBS News",
-      "original_title": "AI fuels false claims after Charlie Kirk's death, CBS News analysis reveals - CBS News",
-      "url": "https://www.cbsnews.com/news/ai-false-claims-charlie-kirk-death/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/11/84e8a568-bdd7-4712-93b6-4e830f5aab0e/thumbnail/1200x630g2/bed4e32c8a54ace55fb6cea2f771f6e8/gettyimages-2234095256.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-13T00:15:10Z",
-      "description": "AI chatbot Grok od X, vyhledávač Perplexity a souhrny od Googlu po atentátu na Charlie Kirka poskytly nepravdivé informace."
+      "title": "Spinal Tap II: Konec pokračuje, satira zestárla v ironicky upřímný klasický rock",
+      "original_title": "Spinal Tap II: The End Continues ' satire has aged into ironically earnest classic rock - AV Club",
+      "url": "https://www.avclub.com/spinal-tap-ii-the-end-continues-review",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2025/09/12112336/spinal-tap-ii-the-end-continues-header.jpg",
+      "source": "The A.V. Club",
+      "publishedAt": "2025-09-12T20:46:52Z",
+      "description": "Co začínalo jako mrtvolně vážná parodie konce cock rocku, se ve filmu Spinal Tap II: Konec pokračuje stalo jakýmsi ironicky ikonickým rockovým mýtem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejméně 193 mrtvých při dvou samostatných nehodách člunů na severozápadě DR Kongo",
-      "original_title": "At least 193 killed in two separate boat accidents in northwestern DR Congo - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/12/at-least-193-killed-in-two-separate-boat-accidents-in-northwestern-dr-congo",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP24284236107695-1757710188.jpg?resize=1920%2C1125",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-12T21:51:47Z",
-      "description": "Záchranáři pátrali po pohřešovaných po smrtelných incidentech v provincii Equateur tento týden."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Generální ředitel, jehož poznámky spustily Trumpovu akci v Memphisu, mu také nabídl velkou železniční fúzi",
-      "original_title": "CEO whose comments sparked Trump’s Memphis action also pitched him on a big rail merger - Politico",
-      "url": "https://www.politico.com/news/2025/09/12/trump-memphis-union-pacific-00560868",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fed%2F98%2F120d077d420fba2bc2c8376ac3ff%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2227597780",
-      "source": "Politico",
-      "publishedAt": "2025-09-12T21:00:00Z",
-      "description": "Jim Vena, generální ředitel Union Pacific, bombarduje Washington v honbě za schválením 85 miliard dolarů stojící fúze nákladních železnic."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump ustupuje od hrozeb nasazením Národní gardy v Chicagu",
-      "original_title": "Trump backs off Chicago National Guard threats - Axios",
-      "url": "https://www.axios.com/2025/09/12/trump-chicago-national-guard-pritzker-crime-memphis",
-      "urlToImage": null,
-      "source": "Axios",
-      "publishedAt": "2025-09-12T20:43:17Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dcera Charlieho Sheena Sami Sheen se dozvěděla, že její otec kvůli ní přestal pít",
+      "title": "Dcera Charlieho Sheena Sami se dozvěděla, že její otec kvůli ní přestal pít.",
       "original_title": "Charlie Sheen's daughter Sami Sheen learns dad got sober for her - Entertainment Weekly",
       "url": "https://ew.com/charlie-sheen-daughter-sami-learns-dad-got-sober-for-her-11809109",
       "urlToImage": "https://ew.com/thmb/MsdaRER6cQY28LempRF86FsVpgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/charlie-sheen-sami-sheen-091225-dab9ef0af7a14c04bf38b6ac251d9d72.jpg",
       "source": "Entertainment Weekly",
       "publishedAt": "2025-09-12T18:55:35Z",
-      "description": "Dcera Charlieho Sheena Sami Sheen se rozplakala, když zjistila, že bývalá hvězda seriálu Dva a půl chlapa kvůli ní a jejím sourozencům přestala pít."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Valné shromáždění přijalo newyorskou deklaraci o dvoustátním řešení vztahů mezi Izraelem a Palestinou",
-      "original_title": "General Assembly endorses New York Declaration on two-State solution between Israel and Palestine - UN News",
-      "url": "https://news.un.org/en/story/2025/09/1165835",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/12-09-2025_UN-Photo_GA_Palestine.jpg/image770x420cropped.jpg",
-      "source": "UN News",
-      "publishedAt": "2025-09-12T18:24:38Z",
-      "description": "V OSN po schválení deklarace o Palestině a řešení se dvěma státy zazněl potlesk"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Měření kvantového W stavu: Pozorování trojice provázaných fotonů najednou",
-      "original_title": "Measuring the quantum W state: Seeing a trio of entangled photons in one go - Phys.org",
-      "url": "https://phys.org/news/2025-09-quantum-state-trio-entangled-photons.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/measuring-the-quantum.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-12T18:00:01Z",
-      "description": "Koncept kvantového provázání je symbolem propasti mezi klasickou a kvantovou fyzikou. Tato klíčová charakteristika kvantové mechaniky, která odkazuje na situaci, kdy není možné popsat fyziku každéh..."
+      "description": "Dcera Charlieho Sheena Sami Sheen se rozplakala, když zjistila, že bývalá hvězda seriálu Dva a půl chlapa kvůli ní a sourozencům přestala pít."
     },
     {
       "flag": "🌍",
@@ -208,84 +175,62 @@
       "urlToImage": "https://wordpress-assets.futurism.com/2025/09/mars-trump.jpg",
       "source": "Futurism",
       "publishedAt": "2025-09-12T17:13:28Z",
-      "description": "Donald Trump je hlavní překážkou naší planety v následování přelomových objevů NASA o životě na Marsu."
+      "description": "Donald Trump je hlavní překážkou naší planety v navázání na přelomové objevy NASA o životě na Marsu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Máte letošní očkování proti covidu?",
-      "original_title": "Have you gotten this year's COVID vaccine? - Live Science",
-      "url": "https://www.livescience.com/health/coronavirus/have-you-gotten-this-years-covid-vaccine",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RnVTtrTEj5kMNNgMtKiqPK.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-12T17:08:20Z",
-      "description": "Federální pokyny k vakcíně proti covidu-19 na roky 2025–2026 vyvolaly otázky a zmatek. Zkoušeli jste si letos jednu zajistit?"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Shrnutí akce Apple iPhone 17: předobjednávky iPhone Air, Apple Watch 11, AirPods Pro 3 a další",
+      "title": "Shrnutí akce Apple iPhone 17: předobjednávky iPhonu Air, Apple Watch 11, AirPods Pro 3 a další novinky",
       "original_title": "Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET",
       "url": "https://www.zdnet.com/article/apple-iphone-17-event-recap-iphone-air-preorders-apple-watch-11-airpods-pro-3-more/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/7f16e5c64a86d26d550098934a2d09bcf18d5392/2025/09/10/dee94d50-5e0e-4742-85d7-c1adf655fb46/iphone-17-pro-max-blue.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-12T16:55:00Z",
-      "description": "ZDNET shrnul vše oznámené na akci Apple – od předobjednávek iPhone 17 po Apple Watch Ultra 3, AirPods Pro 3 a další."
+      "description": "ZDNET shrnul vše oznámené na akci Applu tento týden – od předobjednávek iPhonu 17 až po Apple Watch Ultra 3, AirPods Pro 3 a další."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Dítě v L.A. zemřelo na vzácnou komplikaci spalniček několik let po nákaze",
-      "original_title": "L.A. County child dies of rare measles complication years after infection - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/09/12/los-angeles-measles-complication-vaccination-sspe/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UILW6P3V4WAP736FQC7DYQUVVA_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-12T16:42:34Z",
-      "description": "Dítě onemocnělo spalničkami před dovršením věku pro očkování, uvedli úředníci a dodali, že případ ukazuje důležitost kolektivní imunity."
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Sledujte všechny nové trailery z Nintendo Direct září 2025: Super Mario Galaxy, Yoshi a Mortal Kombat Legacy",
+      "original_title": "Watch all the new trailers from Nintendo Direct September 2025: Super Mario Galaxy, Yoshi, and Mortal Kombat Legacy - Mashable",
+      "url": "https://mashable.com/article/nintendo-direct-september-2025-everything-announced",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04haaUKPCLlWi3UhwzkK2uv/hero-image.fill.size_1200x675.v1757690364.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-12T15:19:25Z",
+      "description": "Šedesát minut běsnění."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mega Chesnaught, Mega Delphox a Mega Greninja odhaleni pro Pokémon Legends: Z-A, plus Mega Raichu X & Y v DLC Mega Dimension! - Pokémon GO Hub",
+      "title": "Mega Chesnaught, Mega Delphox a Mega Greninja odhaleni pro Pokémon Legends: Z-A, plus Mega Raichu X & Y v DLC Mega Dimenz",
       "original_title": "Mega Chesnaught, Mega Delphox and Mega Greninja Revealed for Pokémon Legends: Z-A, plus Mega Raichu X & Y in Mega Dimension DLC! - Pokémon GO Hub",
       "url": "https://pokemongohub.net/post/news/mega-chesnaught-mega-delphox-and-mega-greninja-revealed-for-pokemon-legends-z-a-plus-mega-raichu-x-y-in-mega-dimension-dlc/",
       "urlToImage": "https://pokemongohub.net/wp-content/uploads/2025/09/Mega-Chesnaught-Mega-Delphox-and-Mega-Greninja-Pokemon-Legends-Z-A-656x369-1.jpg",
       "source": "Pokemon GO Hub",
       "publishedAt": "2025-09-12T14:39:25Z",
-      "description": "V dnešním Nintendo Directu byl představen nový trailer ke hře Pokémon Legends: Z-A, který odhalil tři Mega Evoluce pro první partnery z regionu Kalos! Kromě toho byl oznámen DLC s názvem „Mega Dime..."
+      "description": "V dnešním Nintendo Directu byl představen nový trailer k Pokémon Legends: Z-A s třemi mega evolucemi původních prvníšních Pokémonů z Kalos! A byl oznámen DLC s názvem 'Mega Dimenze', které odhaluje..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "LIGO slaví 10 let: Průlomy v oblasti černých děr se ‚budou jen zlepšovat‘",
-      "original_title": "LIGO is 10 years old: black-hole breakthroughs will ‘only get better’ - Nature",
-      "url": "https://www.nature.com/articles/d41586-025-02941-9",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02941-9/d41586-025-02941-9_51441050.jpg",
-      "source": "Nature.com",
-      "publishedAt": "2025-09-12T11:47:46Z",
-      "description": "Deset let poté, co dvojice observatoří poprvé zachytila gravitační vlny, vědci připravují ambiciózní plány pro její nástupce."
+      "title": "Sluneční záře na snímku Hubbleova teleskopu komety 3I/ATLAS je desetkrát delší než širší - Avi Loeb",
+      "original_title": "The Sunward Glow in the Hubble Image of 3I/ATLAS is Ten Times Longer Than It is Wide - Avi Loeb – Medium",
+      "url": "https://avi-loeb.medium.com/the-sunward-glow-in-the-hubble-image-of-3i-atlas-is-ten-times-longer-than-it-is-wide-3a5cff257a94",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*EqEVF2WYUy7CKmFX-6OAxg.png",
+      "source": "Medium",
+      "publishedAt": "2025-09-12T09:13:17Z",
+      "description": "V nové analýze (dostupné zde) snímku mezihvězdného objektu 3I/ATLAS z Hubbleova vesmírného dalekohledu, na které jsem se podílel jako spoluautor s mým…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "FDA schválila upozornění na hypertenzi pro Apple Watch nové i starší modely",
-      "original_title": "Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge",
-      "url": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&strip=all&crop=0%2C10.336347770903%2C100%2C79.327304458195&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-12T06:10:00Z",
-      "description": "Měřič krevního tlaku dorazí s watchOS 26 příští týden."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mapa ukazuje případy viru západního Nilu, úřady varují, že sezóna ještě neskončila",
-      "original_title": "Map shows West Nile virus cases as officials warn season isn't over - CBS News",
-      "url": "https://www.cbsnews.com/news/west-nile-virus-cases-map-2025/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/08/d7062424-9687-4e65-b122-eac65e29f81d/thumbnail/1200x630/352a3e558ddb04a92730c2d41a2ed419/gettyimages-157195780.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-11T19:41:15Z",
-      "description": "Zdravotníci varují, že sezóna viru západního Nilu ještě neskončila. Zde se šířila nemoc přenášená komáry."
+      "title": "Teleskop Jamese Webba vyfotil obří hvězdu chrlící dvojité výtrysky dlouhé 8 světelných let",
+      "original_title": "James Webb Space Telescope images enormous star shooting out twin jets 8 light-years long - Space",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-images-enormous-star-shooting-out-twin-jets-8-light-years-long",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9gwE4ReJwyZ4LPFQnSR2MZ.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-11T15:00:00Z",
+      "description": "Paprsky naznačují skutečnou velikost obří hvězdy, která je vytvořila."
     }
   ]
 }
