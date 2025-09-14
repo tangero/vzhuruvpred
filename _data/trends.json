@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-14T06:34:05.514595",
+  "updated": "2025-09-14T09:22:37.766111",
   "trends": [
     {
       "rank": 1,
       "query": "počasí",
-      "news_title": "Předpověď počasí na víkend: Přinese déšť i slunečné dny",
+      "news_title": "Počasí: Víkend přinese ochlazení a déšť",
       "news_url": "https://www.google.com/search?q=počasí&tbm=nws",
       "picture": null,
       "traffic": "20000++ hledání",
@@ -13,73 +13,73 @@
     },
     {
       "rank": 2,
-      "query": "ivana korolová",
-      "news_title": "Korolová z Kamarádů čeká druhé dítě s hudebníkem",
-      "news_url": "https://medium.seznam.cz/clanek/honky-tonky-s-kym-zije-hvezda-serialu-kamaradi-korolova-se-znamym-hudebnikem-ceka-druhe-dite-186143",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTPN6x_FcQ7y_C9e6uyg1fbUxKmHZU8cNLUqHLPRdnI3G0L31BCJiYi78E1S8",
+      "query": "tenis davis cup",
+      "news_title": "Češi porazili Američany a míří na finále Davis Cupu",
+      "news_url": "https://www.idnes.cz/sport/tenis/davis-cup-zpravodajstvi-usa-cesko.A250913_190702_tenis_ikuc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvWv_WecybTLrr2FxRP3A7fNxeBIjbLhWkaIVA936n0T-Ucemay6nMJp1Zauw",
       "traffic": "2000++ hledání",
-      "source": "Médium.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ivana korolová&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tenis davis cup&geo=CZ"
     },
     {
       "rank": 3,
-      "query": "jaroslav uhlíř",
-      "news_title": "Jubilant Uhlíř: Severní vítr je moje vlajková loď",
-      "news_url": "https://budejovice.rozhlas.cz/jubilant-jaroslav-uhlir-severni-vitr-je-moje-vlajkova-lod-9553210",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNFNU0yCZgdQTYWT_dUow3aYeFf85ItSge1YRBb8aoqTHdi2ULhFBBW8Hz0Ho",
-      "traffic": "2000++ hledání",
-      "source": "Český rozhlas České Budějovice",
-      "explore_url": "https://trends.google.cz/trends/explore?q=jaroslav uhlíř&geo=CZ"
+      "query": "žižkov – brno",
+      "news_title": "Žižkov - Brno 0:3. Zbrojovka drtí Pražany, třetí gól dává Vachoušek",
+      "news_url": "https://isport.blesk.cz/clanek/fotbal-domaci-souteze-chance-narodni-liga/466223/online-zizkov-brno-0-3-zbrojovka-drti-prazany-treti-zasah-pridava-vachousek.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBL6KUfOWENKrWitQJ-P5nCmyGQRCcoGFBoISBKezqazDlL1D52PyuUpliWgk",
+      "traffic": "1000++ hledání",
+      "source": "iSport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=žižkov – brno&geo=CZ"
     },
     {
       "rank": 4,
       "query": "canelo vs crawford",
-      "news_title": "Canelo vs. Crawford: termín, sazby, začátek, cena PPV a kompletní průvodce",
-      "news_url": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-terence-crawford-fight-date-odds-start-time-ppv-price-undercard-complete-guide/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ502qFQ-VuqN55fMsSGWyl2Hhpgws3YqVmFioWGVXx7faqcknfFnIEFJeBBos",
-      "traffic": "500++ hledání",
-      "source": "CBS Sports",
+      "news_title": "Jak sledovat Canela vs. Crawford živě na Netflixu",
+      "news_url": "https://www.netflix.com/tudum/articles/how-to-watch-canelo-crawford",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR38JZKNnOnAULUEsojzZE96KkBy_piXL1DAcyvgyIogYO-GpuZTWDKNLzWM6A",
+      "traffic": "1000++ hledání",
+      "source": "Netflix",
       "explore_url": "https://trends.google.cz/trends/explore?q=canelo vs crawford&geo=CZ"
     },
     {
       "rank": 5,
-      "query": "ufc",
-      "news_title": "Předběžné výsledky z Noche UFC",
-      "news_url": "https://www.ufc.com/news/prelim-live-results-fight-recaps-highlights-winner-backstage-interviews-noche-ufc-lopes-vs-silva",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgECcNpj7pr4q4Da9K1I7UUTZvPeaS0lgs6LBjpq8mpWCLdntaWUx0K4069fI",
+      "query": "saskia burešová",
+      "news_title": "Osud míchá karty, ale my hrajeme, říká Saskia Burešová",
+      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/saskia-buresova-moderatorka-cteni-vazna-hudba-muz-roku.A250902_104818_lidicky_potu",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShVVQqcx9IaHoNiXDzAyh-hOzGf1yi3j3DrLzgEudanLPhfxwWYl5gvX-sE0I",
       "traffic": "200++ hledání",
-      "source": "UFC.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ufc&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=saskia burešová&geo=CZ"
     },
     {
       "rank": 6,
-      "query": "charlie sheen",
-      "news_title": "Vše o sourozencích Charlieho Sheena: Emiliovi, Ramonovi a Renée",
-      "news_url": "https://people.com/charlie-sheen-siblings-everything-to-know-11807092",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH2v9ekls_9KJd0Ru97bjZyGupLjw25Y8nrJwe7tZCP30ob-uzVmsqK6n7m0Y",
+      "query": "charlotte – inter miami",
+      "news_title": "Messi neproměnil 32. penaltu v kariéře. Jak na tom je Ronaldo?",
+      "news_url": "https://worldsoccertalk.com/news/lionel-messi-misses-32nd-career-penalty-how-does-cristiano-ronaldo-compare/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwcliisIhzEz-783M9yIPCoAg3yaKQ_fbIkcKu01jV6Mt7ZJZo9O0tImjvVdk",
       "traffic": "200++ hledání",
-      "source": "People.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=charlie sheen&geo=CZ"
+      "source": "World Soccer Talk",
+      "explore_url": "https://trends.google.cz/trends/explore?q=charlotte – inter miami&geo=CZ"
     },
     {
       "rank": 7,
-      "query": "pavel složil",
-      "news_title": "Davis Cup: Menšík po 20 letech. Budoucnost není jen Sinner",
-      "news_url": "https://isport.blesk.cz/clanek/tenis-davis-cup/466195/legenda-slozil-na-davis-cupu-pozvani-po-dvaceti-letech-mensik-budoucnost-neni-jen-sinner.html",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJcBP0nDBgbIzaVGhpFBSuXkTIq4OUi7Fp-sXHnRFa3EK2XOYJIM7PrZdXOsM",
+      "query": "canelo",
+      "news_title": "Vše o vítězství Crawforda nad Canelem",
+      "news_url": "https://www.espn.com.mx/boxeo/nota/_/id/15466892/canelo-vs-crawford-pelea-horario-cartelera-apuestas-boxeo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH8Q9OwHCZIhEmwvOMkUnAKsRxAGlQDmL7Okbd0iKZhU0A5XeGUvxwyoXBywk",
       "traffic": "200++ hledání",
-      "source": "iSport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=pavel složil&geo=CZ"
+      "source": "ESPN México",
+      "explore_url": "https://trends.google.cz/trends/explore?q=canelo&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "sean penn",
-      "news_title": "Trump v roce 2025 mluví plynně anglicky. Co se změnilo?",
-      "news_url": "https://www.red94.net/news/84494-he-clearly-speaks-and-understands-more-english-sparks-late-night-debate-in-2025/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV7D-FhOcP9k53ful3YPJhXWCYQbZyYZRaQtJEPHBcgjrnPDzmrOzUTQLVObU",
+      "query": "ufc",
+      "news_title": "Jean Silva oplakal porážky Fighting Nerds. Jaký plán má s Lopesem?",
+      "news_url": "https://mmashorties.cz/jean-silva-oplakal-porazky-tymu-fighting-nerds-jaky-plan-ma-s-lopesem/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqcrj7oaDenxgCDaYwOvA3s67XiW9VyXuKJy0msI90F3PWF2OKuiZVAq_at0E",
       "traffic": "200++ hledání",
-      "source": "Red94",
-      "explore_url": "https://trends.google.cz/trends/explore?q=sean penn&geo=CZ"
+      "source": "MMA Shorties",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ufc&geo=CZ"
     }
   ]
 }
