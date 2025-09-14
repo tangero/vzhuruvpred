@@ -1,16 +1,71 @@
 {
-  "last_updated": "2025-09-13T23:14:48",
+  "last_updated": "2025-09-14T01:25:04",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Izraelská rozvědka váhala s Netanjahuovým úderem v Kataru",
+      "original_title": "Israeli intelligence agency balked at Netanyahu’s strike in Qatar - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/12/mossad-israel-qatar-strike-hamas/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNAYC3RSRV3QW5UJKD2AGJD5FY_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-13T01:11:59Z",
+      "description": "Mossad plánoval pozemní operaci proti vůdcům Hamasu, ale odmítl ji provést, a Izrael tak musel neúspěšně zaútočit ze vzduchu, tvrdí Izraelci"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Guvernérka Federálního rezervního systému Lisa Cooková uváděla sporný dům jako rekreační nemovitost",
+      "original_title": "Federal Reserve governor Lisa Cook listed contested home as vacation property - Financial Times",
+      "url": "https://www.ft.com/content/e32d66f4-c7a7-4bac-8a7b-21a412fa5aa8",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2feaf4f5-1dba-45b7-8bb9-9f027db804fb.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-13T00:17:10Z",
+      "description": "Dokumenty zřejmě vyvracejí tvrzení Bílého domu, že se dopustila hypotéčního podvodu"
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Taylor Swiftová podle svého právníka nesouhlasila s vypovídáním u soudu v případu Blake Livelyové a Justina Baldoniho (AKTUALIZOVÁNO)",
-      "original_title": "Taylor Swift Has Not Agreed to Be Deposed in Blake Lively-Justin Baldoni Lawsuit, Her Lawyer Says (UPDATED) - Billboard",
-      "url": "http://www.billboard.com/pro/taylor-swift-deposition-blake-lively-lawsuit-justin-baldoni/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/09/taylor-swift-grammy-feb-2025-billboard-1800.jpg?w=1024",
-      "source": "Billboard",
-      "publishedAt": "2025-09-13T00:00:00Z",
-      "description": "Právníci Taylor Swift tvrdí, že nesouhlasila s výpovědí v soudním sporu Blake Lively a Justina Baldoniho ohledně filmu „Ať to skončí“."
+      "title": "Soudce zamítl žádost Justina Baldoniho o výslech Taylor Swift, čímž ukončil den plný soudního dramatu pro zpěvačku ‘Love Story’",
+      "original_title": "No Taylor Swift Deposition For Justin Baldoni, Judge Rules, Ending Day Of Legal Drama For ‘Love Story’ Singer - Deadline",
+      "url": "http://deadline.com/2025/09/taylor-swift-no-deposition-blake-lively-case-justin-baldoni-1236530533/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/Ryan-Reynolds-Blake-Lively-Taylor-Swift-and-Justin-Baldoni.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-13T00:10:00Z",
+      "description": "Federální soudce v případu Blake Livelyové a Justina Baldoniho rozhodl, že Taylor Swift nebude muset vypovídat."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kontroverzní bytový zápis těsně prošel kalifornským parlamentem",
+      "original_title": "Contentious housing bill narrowly clears California statehouse - Politico",
+      "url": "https://www.politico.com/news/2025/09/12/housing-bill-passes-california-legislature-00562600",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fce%2F1a%2F68c96a2a4c9995013ee1abc64a48%2Fcalifornia-housing-97188.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-12T23:51:48Z",
+      "description": "Legislativa narazila na pozdní odpor majitelů domů z oblasti Los Angeles."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Zaměstnanci jsou propouštěni a posíláni na nucenou dovolenou kvůli příspěvkům Charlie Kirka",
+      "original_title": "Workers are getting fired, placed on leave over Charlie Kirk posts - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/12/workers-fired-charlie-kirk-reaction-online/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QV7HEIGA2UBQ4X2XCLWRFLH5BA.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-12T23:25:16Z",
+      "description": "Reakce na zabití konzervativního aktivisty se staly lakmusovým papírkem tolerance zaměstnavatelů k politickým vyjádřením zaměstnanců na veřejnosti i v soukromí."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump prozatím odkládá plány na zásah v Chicagu, poradci varují před právními problémy",
+      "original_title": "Trump shelves Chicago crackdown plans for now as advisers warn of legal headaches - CNN",
+      "url": "https://www.cnn.com/2025/09/12/politics/chicago-memphis-trump-national-guard",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25254774026468.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-12T22:45:18Z",
+      "description": "Existuje důvod, proč prezident Donald Trump odložil své veřejně prohlášené plány zaměřit se na Chicago jako na další město pro svůj domácí zásah proti zločinu a místo toho upřel svůj zrak na Memphis."
     },
     {
       "flag": "🌍",
@@ -26,29 +81,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Reuters: Členka rady Fedu Cooková označila svůj dům v Atlantě jako „rekreační“, ukazují dokumenty",
-      "original_title": "Fed Governor Cook declared her Atlanta property as 'vacation home,' documents show: Reuters - CNBC",
-      "url": "https://www.cnbc.com/2025/09/12/fed-governor-cook-declared-her-atlanta-property-as-vacation-home-documents-show-reuters.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190851-1756222890281-gettyimages-1243772091-COOK_FED.jpeg?v=1756470632&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-12T21:50:18Z",
-      "description": "Odhad úvěru pro dům v Atlantě, který koupila Lisa Cooková, členka Rady guvernérů Fedu obviněná Trumpovou administrativou z hypotéčního podvodu, ukazuje, že nemovitost uvedla jako „rekreační dům“, v..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Muž v Chicagu smrtelně postřelen důstojníkem ICE poté, co podle tvrzení zatýkání bránil",
-      "original_title": "Man in Chicago fatally shot by ICE officer after allegedly resisting arrest - The Washington Post",
-      "url": "https://www.washingtonpost.com/immigration/2025/09/12/chicago-migrant-shot-ice-arrest/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G5DRSAEU32H5ARPCNY6BXG2D24_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-12T21:49:07Z",
-      "description": "Imigrační úředník zahájil palbu poté, co ho srazilo a táhlo vozidlo řízené migrantem bez dokumentů, uvedlo ministerstvo vnitřní bezpečnosti."
+      "title": "Nejméně 193 mrtvých při dvou oddělených nehodách člunů na severozápadě DR Kongo",
+      "original_title": "At least 193 killed in two separate boat accidents in northwestern DR Congo - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/12/at-least-193-killed-in-two-separate-boat-accidents-in-northwestern-dr-congo",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP24284236107695-1757710188.jpg?resize=1920%2C1125",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-12T21:51:47Z",
+      "description": "Záchranáři pátrali po pohřešovaných po smrtelných incidentech v provincii Equateur tento týden."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tyler Robinson podezřelý ze střelby Charlie Kirka, jak byl dopaden",
+      "title": "Tyler Robinson je podezřelý ze střelby Charlie Kirka, jak byl dopaden",
       "original_title": "Tyler Robinson named suspect in Charlie Kirk shooting, how he was caught - ABC News",
       "url": "https://abcnews.go.com/US/tyler-robinson-charlie-kirk-suspect-shooter-utah/story?id\\\\u003d125474359",
       "urlToImage": null,
@@ -59,13 +103,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Generální ředitel, jehož poznámky spustily Trumpovu akci v Memphisu, mu také navrhl velkou železniční fúzi",
+      "title": "Generální ředitel, jehož poznámky spustily Trumpovu akci v Memphisu, mu také nabídl velké železniční spojení",
       "original_title": "CEO whose comments sparked Trump’s Memphis action also pitched him on a big rail merger - Politico",
       "url": "https://www.politico.com/news/2025/09/12/trump-memphis-union-pacific-00560868",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fed%2F98%2F120d077d420fba2bc2c8376ac3ff%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2227597780",
       "source": "Politico",
       "publishedAt": "2025-09-12T21:00:00Z",
-      "description": "Generální ředitel Union Pacific Jim Vena bombarduje Washington kvůli schválení 85 miliard dolarů drahé fúze nákladních železnic."
+      "description": "Jim Vena, generální ředitel Union Pacific, bombarduje Washington v snaze schválit 85miliardové sloučení nákladních železnic."
     },
     {
       "flag": "🌍",
@@ -76,23 +120,23 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108141257-1746480026270-gettyimages-2198224769-CRYPTOCOM_KALSHI.jpeg?v=1757710299&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-09-12T20:54:59Z",
-      "description": "Massachusetts tvrdí, že Kalshi vydělává na sportovních sázkách více než legální a licencované sázkové kanceláře."
+      "description": "Massachusetts tvrdí, že Kalshi vydělává na sázkách na sport více než legální a licencované sázkové kanceláře."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Paramount odsuzuje izraelský bojkot filmů poté, co se k závazku připojilo 3900 signatářů",
+      "title": "Paramount odsuzuje bojkot izraelského filmu poté, co se k petici přihlásilo 3900 signatářů",
       "original_title": "Paramount Condemns Israeli Film Boycott After 3,900 Sign Pledge - Variety",
       "url": "https://variety.com/2025/film/news/paramount-condemns-israeli-film-boycott-1236516511/",
       "urlToImage": "https://variety.com/wp-content/uploads/2020/06/wwd_claudel226173.jpg?w=1000&h=563&crop=1",
       "source": "Variety",
       "publishedAt": "2025-09-12T20:36:00Z",
-      "description": "Paramount vydal prohlášení odsuzující bojkot izraelského filmového průmyslu poté, co petici podepsalo 3900 osobností z oboru."
+      "description": "Paramount vydal prohlášení odsuzující bojkot izraelského filmového průmyslu poté, co petici podepsalo 3900 osobností z branže."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "BofA jmenovala spoluprezidenty, protože CEO Moynihan oznámil, že zůstane ve funkci do konce desetiletí",
+      "title": "BofA jmenovala spoluprezidenty, protože generální ředitel Moynihan chce setrvat ve funkci do konce desetiletí",
       "original_title": "BofA appoints co-presidents as CEO Moynihan says he will serve through the decade - Yahoo Finance",
       "url": "https://finance.yahoo.com/news/bofa-appoints-co-presidents-ceo-202636986.html",
       "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/f8834617d2b971f2aaf94d6167b69a3f",
@@ -101,26 +145,15 @@
       "description": "Bank of America jmenovala Deana Athanasii a Jima DeMarea spoluprezidenty"
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Margot Robbie na koberci předvedla nádherné ‚nahé šaty‘, ale sklidila za ně kritiku",
-      "original_title": "Margot Robbie Dons Gorgeous ‘Naked Dress’ On Red Carpet, But It’s Getting Some Backlash - HuffPost",
-      "url": "https://www.huffpost.com/entry/margot-robbie-dons-gorgeous-naked-dress-on-red-carpet-but-its-getting-some-backlash_n_68c44c56e4b0b505740851dc",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68c44f6e180000a2b08c7d53.jpeg?cache=1rVB5CTOEe&ops=1200_630",
-      "source": "HuffPost",
-      "publishedAt": "2025-09-12T20:19:11Z",
-      "description": "Provokativní outfit hvězdy filmu Barbie vzbuzuje na sociálních sítích lásku, nenávist i nepochopení."
-    },
-    {
       "flag": "🌍",
       "country": "global",
-      "title": "Guvernér Stein vydává nařízení ke zvýšení dostupnosti vakcín proti COVID-19",
+      "title": "Guvernér Stein oznamuje stálé příkazy pro zvýšení dostupnosti vakcín proti COVID-19 - NC Governor (.gov)",
       "original_title": "Governor Stein Announces Standing Orders to Increase Access to COVID-19 Vaccines - NC Governor (.gov)",
       "url": "https://governor.nc.gov/news/press-releases/2025/09/12/governor-stein-announces-standing-orders-increase-access-covid-19-vaccines",
       "urlToImage": null,
       "source": "Nc.gov",
       "publishedAt": "2025-09-12T19:41:15Z",
-      "description": "(RALEIGH) Pro zvýšení přístupu k bezpečným a účinným vakcínám proti COVID-19 pro"
+      "description": "(RALEIGH) Pro zvýšení dostupnosti bezpečných a účinných vakcín proti COVID-19 pro"
     },
     {
       "flag": "🇬🇧",
@@ -131,18 +164,29 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0d9b/live/2f33cb30-8fed-11f0-84c8-99de564f0440.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-12T19:33:13Z",
-      "description": "Bývalá předsedkyně nejvyššího soudu Sushila Karkiová složila přísahu po dohodě s vůdci protestů."
+      "description": "Bývalá předsedkyně nejvyššího soudu Sushila Karki složila přísahu po dohodě s vůdci protestů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Korespondent Fox News Eric Shawn sdílí svou diagnózu rakoviny spojené s 11. zářím",
-      "original_title": "Fox News Correspondent Eric Shawn Shares 9/11-Related Cancer Diagnosis - The Daily Beast",
-      "url": "https://www.thedailybeast.com/motley-crue-frontman-vince-neil-suffered-tragic-stroke-causing-residency-delay/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/XSTBFFS6S5F4JE2764NVRKKKYE.jpg?smart=true&auth=f6f6d64d64eed20d1dab666c7ee25463e97fe373389b6bfd4acde25e5db55529&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2025-09-12T19:07:05Z",
-      "description": "„Měl jsem mrtvici,“ řekl Vince Neil a popsal svůj návrat na pódium"
+      "title": "Pohraniční strážce zastřelil podezřelého, který ho vláčel autem u Chicaga, oznámilo ministerstvo vnitřní bezpečnosti",
+      "original_title": "ICE officer shoots and kills suspect who dragged officer with car near Chicago, DHS says - PBS",
+      "url": "https://www.pbs.org/newshour/politics/ice-officer-shoots-and-kills-suspect-who-dragged-officer-with-car-near-chicago-dhs-says",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-12T180332Z_1298576390_RC2CQGABWJN6_RTRMADP_3_USA-TRUMP-CHICAGO-1024x640.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-12T19:03:36Z",
+      "description": "Oddělení uvedlo, že muž neuposlechl příkazy policistů a místo toho na ně najel autem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "350 let stará mumifikovaná hlava z Bolívie není tím, čím se zdá být",
+      "original_title": "350-year-old mummified head from Bolivia isn't what it seems - Live Science",
+      "url": "https://www.livescience.com/archaeology/350-year-old-mummified-head-from-bolivia-isnt-what-it-seems",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/n87FqjsrVuAw4ranCns2XP.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-09-12T19:02:56Z",
+      "description": "Mumifikovaná lebka z Bolívie byla dlouho považována za pozůstatek Inky, nová studie jí však přiřadila jiný příběh."
     },
     {
       "flag": "🌍",
@@ -153,18 +197,29 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-17.jpg?resize=1200,675",
       "source": "TechCrunch",
       "publishedAt": "2025-09-12T18:46:51Z",
-      "description": "Všechna čtyři zařízení bude možné předobjednat v pátek a budou k dispozici 19. září."
+      "description": "Všechna čtyři zařízení budou k předobjednání v pátek a budou k dispozici 19. září."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‘Buddy prostě řekl, ať to praskne’: Reakce profesionálů na obrovské přehmotnosti Kelvina Gasteluma na Noche UFC",
-      "original_title": "‘Buddy just said F it’: Pros react to Kelvin Gastelum’s huge weight miss at Noche UFC - MMA Fighting",
-      "url": "https://www.mmafighting.com/ufc/403548/buddy-just-said-f-it-pros-react-to-kelvin-gastelums-huge-weight-miss-at-noche-ufc",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/09/gettyimages-2219114968.jpg?quality=90&strip=all&crop=0%2C10.829079544682%2C100%2C78.534031413613&w=1200",
-      "source": "MMA Fighting",
-      "publishedAt": "2025-09-12T18:30:00Z",
-      "description": "Zápasníci UFC kritizují Kelvina Gasteluma za trapné nepřesáhnutí váhy."
+      "title": "Margot Robbie září v průhledných šatech na premiéře filmu ‚A Big Bold Beautiful Journey‘",
+      "original_title": "Margot Robbie stuns in naked dress at 'A Big Bold Beautiful Journey' premiere - USA Today",
+      "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2025/09/12/margot-robbie-naked-dress-premiere-photos/86110224007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/12/USAT/86110234007-2234887354.jpg?crop=4691,2639,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2025-09-12T17:37:30Z",
+      "description": "Podívejte se na průhledné šaty Margot Robbie a třpytivý tanga model ze všech úhlů, když se účastní evropské premiéry filmu \"Velká odvážná krásná cesta\"."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Strýc oběti z Charlotte promluvil",
+      "original_title": "Uncle of Charlotte stabbing victim speaks out - ABC News",
+      "url": "https://abcnews.go.com/US/uncle-murdered-charlotte-stabbing-victim-speaks/story?id\\\\u003d125509850",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-12T17:26:15Z",
+      "description": ""
     },
     {
       "flag": "🌍",
@@ -186,51 +241,73 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/RnVTtrTEj5kMNNgMtKiqPK.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-12T17:08:20Z",
-      "description": "Federální doporučení ohledně vakcíny proti covidu-19 na roky 2025–2026 vyvolalo otázky a zmatek. Zkoušeli jste si letos jednu zajistit?"
+      "description": "Federální doporučení ohledně vakcíny proti covidu-19 na roky 2025–2026 vyvolalo otázky a zmatek. Zkoušeli jste si letos zajistit dávku?"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Dítě v okrese L.A. zemřelo na vzácnou komplikaci spalniček několik let po nákaze",
+      "title": "Dítě v L.A. zemřelo na vzácnou komplikaci spalniček několik let po nákaze",
       "original_title": "L.A. County child dies of rare measles complication years after infection - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/09/12/los-angeles-measles-complication-vaccination-sspe/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UILW6P3V4WAP736FQC7DYQUVVA_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-12T16:42:34Z",
-      "description": "Dítě onemocnělo spalničkami před dovršením věku pro očkování, uvedli úředníci. Dodali, že případ ukazuje důležitost kolektivní imunity."
+      "description": "Dítě onemocnělo spalničkami ještě před očkováním, uvedli úředníci. Dodali, že případ ukazuje důležitost kolektivní imunity."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pokémon Pokopia je zbrusu nový spin-off, který hodně připomíná Animal Crossing",
-      "original_title": "Pokémon Pokopia is a Brand New Spin-off That Looks a Lot Like Animal Crossing - IGN",
-      "url": "https://www.ign.com/articles/pokmon-pokopia-is-a-brand-new-spin-off-that-looks-a-lot-like-animal-crossing",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/12/ditto-1757685238974.png?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-09-12T15:56:15Z",
-      "description": "Společnost Nintendo oznámila působivě vypadající životní simulaci ze světa Pokémonů, Pokémon Pokopia."
+      "title": "Canelo Alvarez stojí mezi Terencem Crawfordem a boxerskou nesmrtelností",
+      "original_title": "Canelo Alvarez Stands Between Terence Crawford And Boxing Immortality - Defector",
+      "url": "https://defector.com/canelo-alvarez-stands-between-terence-crawford-and-boxing-immortality",
+      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/09/GettyImages-2234944427.jpg",
+      "source": "Defector.com",
+      "publishedAt": "2025-09-12T16:40:00Z",
+      "description": "O víkendu se koná velký boxerský zápas. Respektive tak velký, jaký v roce 2025 může být."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zde je vše, co oznámil nejnovější Direct od Nintenda",
-      "original_title": "Here's everything announced in Nintendo's latest Direct - Eurogamer",
-      "url": "https://www.eurogamer.net/heres-everything-announced-in-nintendos-latest-direct",
-      "urlToImage": "https://assetsio.gnwcdn.com/roundup_720.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "Eurogamer.net",
-      "publishedAt": "2025-09-12T14:36:08Z",
-      "description": "Nintendo představilo Nintendo Direct 12. září, které trvalo přes hodinu."
+      "title": "Život Charlieho Sheena bez následků",
+      "original_title": "Charlie Sheen’s consequence-free life - Salon.com",
+      "url": "https://www.salon.com/2025/09/12/charlie-sheens-consequence-free-life/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/09/charlie-sheen-documentary.jpg",
+      "source": "Salon",
+      "publishedAt": "2025-09-12T16:00:56Z",
+      "description": "Pohled Netflixu na hvězdova léta drogami nabitého „vítězství“ vysvětluje americkou slabost pro kult osobnosti."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "USA se připojily k odsouzení izraelských útoků na Katar Radou bezpečnosti OSN",
-      "original_title": "US joins UN Security Council condemnation of Israeli strikes on Qatar - BBC",
-      "url": "https://www.bbc.com/news/articles/c740kk7vxkdo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3902/live/4e880f60-8fce-11f0-9cf6-cbf3e73ce2b9.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-12T13:52:37Z",
-      "description": "USA tradičně blokují na OSN kroky proti svému blízkému spojenci Izraeli."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nintendo zveřejnilo překvapivý trailer k novému filmu ‘Super Mario Galaxy’",
+      "original_title": "Nintendo Drops Surprise Trailer for New ‘Super Mario Galaxy Movie’ - WIRED",
+      "url": "https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/",
+      "urlToImage": "https://media.wired.com/photos/68c428b8a29b822c3095e940/191:100/w_1280,c_limit/091225-culture-Super-Mario.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-09-12T15:19:40Z",
+      "description": "Pokračování filmu „Super Mario Bros.: Film“ s názvem „Super Mario Galaxy: Film“ vyjde v roce 2026. Původní obsazení včetně Chrise Pratta, Any Taylor-Joy a Jacka Blacka se do svých rolí vrátí."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Sledujte všechny nové trailery z Nintendo Direct září 2025: Super Mario Galaxy, Yoshi a Mortal Kombat Legacy",
+      "original_title": "Watch all the new trailers from Nintendo Direct September 2025: Super Mario Galaxy, Yoshi, and Mortal Kombat Legacy - Mashable",
+      "url": "https://mashable.com/article/nintendo-direct-september-2025-everything-announced",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04haaUKPCLlWi3UhwzkK2uv/hero-image.fill.size_1200x675.v1757690364.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-12T15:19:25Z",
+      "description": "Šedesát minut běsnění."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pokémon Legends: Z‑A – Přichází Mega Dimenze",
+      "original_title": "Pokémon Legends: Z‑A – Mega Dimension Is Coming Soon - Pokemon.com",
+      "url": "https://www.pokemon.com/us/pokemon-news/pokemon-legends-z-a-mega-dimension-is-coming-soon",
+      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-legends-z-a/dlc/announce/pokemon-legends-z-a-169-en.png",
+      "source": "Pokemon.com",
+      "publishedAt": "2025-09-12T14:20:57Z",
+      "description": "V nadcházejícím DLC potkejte Mega Raichu X, Mega Raichu Y a Hoopu – a získejte bonusové předměty."
     },
     {
       "flag": "🌍",
@@ -241,40 +318,18 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2025/09/David-Ellison-David-Zaslav.jpg?w=1000&h=563&crop=1",
       "source": "Variety",
       "publishedAt": "2025-09-12T13:41:00Z",
-      "description": "Ellisonovi zvažují akvizici Paramount Skydance pro Warner Bros. Discovery před rozdělením WBD na dvě části, patrně aby předešli aukci."
+      "description": "Ellisonovi zvažují akvizici Paramount Skydance pro Warner Bros. Discovery před rozdělením WBD na dvě části, pravděpodobně aby předešli vyvolání cenové války."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jižní Afrika znovu otevírá vyšetřování smrti Stevea Bika",
-      "original_title": "South Africa reopens inquest into death of Steve Biko - NPR",
-      "url": "https://www.npr.org/2025/09/12/nx-s1-5539024/south-africa-reopens-inquest-death-steve-biko",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1952x1098+0+275/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F73%2F35c742384e1ba74829bdfd46cc25%2Fgettyimages-150341724.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-12T12:54:38Z",
-      "description": "Jihoafrická republika znovu otevřela vyšetřování smrti vůdce boje proti apartheidu Steva Bika — 48 let poté, co byl zabit v policejní vazbě."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "LIGO slaví 10 let: Průlomy v oblasti černých děr se ‚budou jen zlepšovat‘",
+      "title": "LIGO je deset let staré: průlomy v oblasti černých děr se ‚budou jen zlepšovat‘",
       "original_title": "LIGO is 10 years old: black-hole breakthroughs will ‘only get better’ - Nature",
       "url": "https://www.nature.com/articles/d41586-025-02941-9",
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02941-9/d41586-025-02941-9_51441050.jpg",
       "source": "Nature.com",
       "publishedAt": "2025-09-12T11:47:46Z",
-      "description": "Deset let poté, co dvojice observatoří poprvé zachytila gravitační vlny, vědci připravují ambiciózní plány pro jejich nástupce."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sluneční záře na snímku Hubbleova teleskopu komety 3I/ATLAS je desetkrát delší než širší - Avi Loeb",
-      "original_title": "The Sunward Glow in the Hubble Image of 3I/ATLAS is Ten Times Longer Than It is Wide - Avi Loeb – Medium",
-      "url": "https://avi-loeb.medium.com/the-sunward-glow-in-the-hubble-image-of-3i-atlas-is-ten-times-longer-than-it-is-wide-3a5cff257a94",
-      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*EqEVF2WYUy7CKmFX-6OAxg.png",
-      "source": "Medium",
-      "publishedAt": "2025-09-12T09:13:17Z",
-      "description": "V nové analýze (dostupné zde) snímku mezihvězdného objektu 3I/ATLAS z Hubbleova vesmírného dalekohledu, na které jsem se podílel se svým…"
+      "description": "Deset let od první detekce gravitačních vln představili vědci ambiciózní plány pro nové observatoře"
     },
     {
       "flag": "🌍",
@@ -286,17 +341,6 @@
       "source": "CBS News",
       "publishedAt": "2025-09-11T19:41:15Z",
       "description": "Zdravotníci varují, že sezóna viru západního Nilu ještě neskončila. Zde se šířila nemoc přenášená komáry."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Připravte si iPhone na iOS 26: 6 věcí, které dělám před každou aktualizací",
-      "original_title": "Prepare your iPhone for iOS 26 - 6 things I do before every update - ZDNET",
-      "url": "https://www.zdnet.com/article/prepare-your-iphone-for-ios-26-6-things-i-do-before-every-update/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0874c9316918a5051cc6510e23976a440cbb10c1/2025/09/08/7b216002-d709-4827-ad3b-5be0b5c31cd2/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-09-11T18:12:00Z",
-      "description": "Pro co nejplynulejší a nejbezpečnější upgrade doporučuji nejprve provést tyto kroky."
     }
   ]
 }
