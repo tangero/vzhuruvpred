@@ -1,21 +1,32 @@
 {
-  "last_updated": "2025-09-14T04:20:24",
+  "last_updated": "2025-09-14T05:15:59",
   "articles": [
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Podle dokumentů členka rady Fedu označila byt za druhé bydlení",
+      "title": "Podle dokumentů členka rady Fedu Lisa Cooková označila byt za druhé bydlení",
       "original_title": "Fed governor Lisa Cook called condo a second home, documents show - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/09/12/lisa-cook-fed-mortgage-documents/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HSLMXHAKDXHMKMKJ2GAGLSA6TE.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-13T03:11:00Z",
-      "description": "Dokumenty, které jako první v pátek večer zveřejnila Reuters, přicházejí v době, kdy se Trump snaží vyhodit Cooka kvůli neprokázaným obviněním z hypotečního podvodu."
+      "description": "Dokumenty, na které Reuters poprvé upozornily v pátek večer, přicházejí v době, kdy se Trump snaží vyhodit Cooka kvůli neprokázaným obviněním z hypotečního podvodu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "xAI Elona Muska propustil stovky anotátorů dat",
+      "original_title": "Elon Musk's xAI lays off hundreds of data annotators - Business Insider",
+      "url": "https://www.businessinsider.com/elon-musk-xai-layoffs-data-annotators-2025-9",
+      "urlToImage": "https://i.insider.com/68c4dc5257d362d375e81fbf?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-13T02:33:00Z",
+      "description": "Společnost XAI v pátek večer propustila nejméně 500 zaměstnanců z týmu pro anotaci dat."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Agent imigrační služby zastřelil muže, který se podle úřadů snažel najet do strážců zákona",
+      "title": "Agent ICE zastřelil muže, který se podle úředníků snažil najet do strážců zákona",
       "original_title": "ICE agent shoots dead man who tried to drive at agents, officials say - BBC",
       "url": "https://www.bbc.com/news/articles/cn839xqdn5po",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/665c/live/d2da5ac0-900f-11f0-9cf6-cbf3e73ce2b9.jpg",
@@ -24,48 +35,81 @@
       "description": "Řidič Silverio Villegas-Gonzales byl krátce po převozu do nemocnice prohlášen za mrtvého."
     },
     {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Erika Kirková pronese dojemný projev k národu po vraždě manžela Charlieho Kirka",
+      "original_title": "Erika Kirk delivers emotional remarks to the nation after killing of husband Charlie Kirk - ABC News",
+      "url": "https://abcnews.go.com/US/charlie-kirks-widow-erika-set-deliver-1st-public/story?id\\\\u003d125528319",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-13T01:07:30Z",
+      "description": ""
+    },
+    {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Izraelská rozvědka váhala s Netanjahuovým úderem v Kataru",
-      "original_title": "Israeli intelligence agency balked at Netanyahu’s strike in Qatar - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/09/12/mossad-israel-qatar-strike-hamas/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNAYC3RSRV3QW5UJKD2AGJD5FY_size-normalized.jpg&w=1440",
+      "title": "Zaměstnanci jsou propouštěni a posíláni na nucenou dovolenou kvůli příspěvkům Charlie Kirka",
+      "original_title": "Workers are getting fired, placed on leave over Charlie Kirk posts - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/12/workers-fired-charlie-kirk-reaction-online/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QV7HEIGA2UBQ4X2XCLWRFLH5BA.JPG&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-09-13T01:11:59Z",
-      "description": "Mossad plánoval pozemní operaci proti vůdcům Hamasu, ale neuskutečnil ji, což Izrael přinutilo k neúspěšnému leteckému úderu, tvrdí Izraelci."
+      "publishedAt": "2025-09-13T00:55:16Z",
+      "description": "Reakce na zabití konzervativního aktivisty se staly lakmusovým papírkem tolerance zaměstnavatelů k politickým vyjádřením zaměstnanců, ať už veřejným či soukromým."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Soudce zamítl žádost Justina Baldoniho o vyslechnutí Taylor Swift, čímž ukončil den plný právního dramatu pro zpěvačku skladby ‚Love Story‘",
+      "title": "Online aktivita střelce z Evergreen High odhalila fascinaci masovými střelbami a bílou nadvládou",
+      "original_title": "Evergreen High School Shooter’s Online Activity Reveals Fascination with Mass Shootings, White Supremacy - Anti-Defamation League",
+      "url": "https://www.adl.org/resources/article/evergreen-high-school-shooters-online-activity-reveals-fascination-mass-shootings",
+      "urlToImage": null,
+      "source": "Adl.org",
+      "publishedAt": "2025-09-13T00:45:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Sean Astin zvolen prezidentem SAG-AFTRA",
+      "original_title": "Sean Astin Elected SAG-AFTRA President - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/business/business-news/sean-astin-elected-sag-aftra-president-1236369913/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/Sean-Astin-Headshot-Template-Publicity-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-13T00:11:15Z",
+      "description": "Herecká hvězda Pána prstenů povede odborový svaz společně se svou spolukandidátkou Michelle Hurd, která byla ve volbách s nízkou účastí zvolena do funkce pokladníka."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Soudce zamítl žádost Justina Baldoniho o vyslechnutí Taylor Swift, čímž ukončil den plný právního dramatu pro zpěvačku skladby Love Story",
       "original_title": "No Taylor Swift Deposition For Justin Baldoni, Judge Rules, Ending Day Of Legal Drama For ‘Love Story’ Singer - Deadline",
       "url": "http://deadline.com/2025/09/taylor-swift-no-deposition-blake-lively-case-justin-baldoni-1236530533/",
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/Ryan-Reynolds-Blake-Lively-Taylor-Swift-and-Justin-Baldoni.jpg?w=1024",
       "source": "Deadline",
       "publishedAt": "2025-09-13T00:10:00Z",
-      "description": "Federální soudce v kauze Blake Livelyové a Justina Baldoniho rozhodl, že Taylor Swift nebude muset vypovídat."
+      "description": "Federální soudce rozhodl, že Taylor Swift nebude muset vypovídat u soudu ve věci Blake Livelyové a Justina Baldoniho."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sean Astin byl zvolen prezidentem SAG-AFTRA a nahradil Fran Drescher",
-      "original_title": "Sean Astin Elected President of SAG-AFTRA, Taking Over for Fran Drescher - Variety",
-      "url": "https://variety.com/2025/film/news/sean-astin-elected-president-sag-aftra-fran-drescher-1236516448/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/sean-astin-tiff.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-12T23:50:00Z",
-      "description": "Sean Astin byl v pátek zvolen prezidentem SAG-AFTRA a nahradil Fran Drescher, která odstoupila."
+      "title": "Moderna klesá poté, co Trumpovi úředníci spojili úmrtí dětí s vakcínami na covid",
+      "original_title": "Moderna Falls as Trump Officials Tie Child Deaths to Covid Shots - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-12/moderna-falls-as-trump-officials-tie-child-deaths-to-covid-shots",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivNk5wQ48HcA/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-12T23:43:40Z",
+      "description": "Akcie výrobců vakcín oslabily po zprávě, že Trumpovi zdravotní úředníci plánují v prezentaci pro poradce CDC spojit vakcíny proti covidu s úmrtími zhruba dvou desítek dětí."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump prozatím odkládá plány na zásah v Chicagu, poradci varují před právními problémy",
-      "original_title": "Trump shelves Chicago crackdown plans for now as advisers warn of legal headaches - CNN",
-      "url": "https://www.cnn.com/2025/09/12/politics/chicago-memphis-trump-national-guard",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25254774026468.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-12T22:45:18Z",
-      "description": "Existuje důvod, proč prezident Donald Trump odložil své veřejně prohlášené plány zaměřit se na Chicago jako další město ve svém domácím tažení proti zločinu a místo toho se obrátil na Memphis."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Missourský senát schválil plán podporovaný Trumpem, který by mohl pomoci republikánům získat další křeslo v americkém Kongresu",
+      "original_title": "Missouri Senate passes Trump-backed plan that could help Republicans win an additional US House seat - AP News",
+      "url": "https://apnews.com/article/missouri-redistricting-trump-republicans-a89de205d535c8a8cd6054ed191b161c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/afa85d3/2147483647/strip/true/crop/3411x1919+0+178/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2Fae%2F5a83df48685343fe75dac01de8e4%2F6ef98b392a1f417e9b1ced45db151696",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-12T22:32:00Z",
+      "description": "Missourský senát schválil plán podporovaný Donaldem Trumpem, který může pomoci republikánům získat další křeslo v Sněmovně reprezentantů"
     },
     {
       "flag": "🌍",
@@ -79,53 +123,42 @@
       "description": "Záchranáři pátrali po pohřešovaných po smrtelných incidentech v provincii Equateur tento týden."
     },
     {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kalifornský zákonodárný sbor schválil zákon zakazující většině příslušníků donucovacích orgánů nošení masek",
+      "original_title": "California Legislature passes bill banning most law enforcement from wearing face masks - CBS News",
+      "url": "https://www.cbsnews.com/losangeles/news/california-legislature-bill-law-enforcement-face-coverings/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/12/7f30b3e0-3af1-45d3-b5a3-209f292ce60f/thumbnail/1200x630/303145c93694b30e283839e57e0ac603/gettyimages-2221026737.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-12T20:18:00Z",
+      "description": "Pokud jej podepíše kalifornský guvernér Gavin Newsom, bude se vztahovat na většinu místních a federálních strážců zákona."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump couvá z hrozeb nasazení Národní gardy v Chicagu",
+      "original_title": "Trump backs off Chicago National Guard threats - Axios",
+      "url": "https://www.axios.com/2025/09/12/trump-chicago-national-guard-pritzker-crime-memphis",
+      "urlToImage": "https://images.axios.com/s64j8W_QweHStP091msrs_HXjS0=/0x169:4667x2794/1366x768/2025/09/12/1757686911871.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-12T20:16:22Z",
+      "description": "Prezidentova změna postoje je vítězstvím pro demokraty v Illinois."
+    },
+    {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Šéf Bank of America Brian Moynihan mění vedení společnosti",
-      "original_title": "Bank of America chief Brian Moynihan shakes up leadership team - Financial Times",
-      "url": "https://www.ft.com/content/82e1d2db-cccc-4080-876a-fab28b1a2676",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6866663f-1ac7-4087-b34d-b7a13a84fd00.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-12T21:44:46Z",
-      "description": "Restrukturalizace probíhá, zatímco banka zužuje seznam kandidátů na budoucí náhradu dlouholetého šéfa"
+      "title": "Trump tvrdí, že do Memphisu vyšle Národní gardu kvůli kriminalitě, v Chicagu by to ‚bylo raději‘ – Chicago Sun",
+      "original_title": "Trump says he’ll send the National Guard to Memphis to address crime, 'would have preferred' Chicago - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/donald-trump/2025/09/12/donald-trump-national-guard-deployment-memphis-not-chicago-crime",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/ab988ab/2147483647/strip/true/crop/3609x2060+0+173/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F96%2Ff6b03b3b4a26a9d84b6bb4682b2b%2Fap25254805573819.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-09-12T19:51:00Z",
+      "description": "Starosta Brandon Johnson říká, že jednotný místní odpor proti federální intervenci vedl prezidenta k tomu, že \"ustoupil\"."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tyler Robinson podezřelý ze střelby Charlie Kirka, jak byl dopaden",
-      "original_title": "Tyler Robinson named suspect in Charlie Kirk shooting, how he was caught - ABC News",
-      "url": "https://abcnews.go.com/US/tyler-robinson-charlie-kirk-suspect-shooter-utah/story?id\\\\u003d125474359",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-12T21:21:24Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Generální ředitel, jehož poznámky spustily Trumpovu akci v Memphisu, mu také nabídl velkou železniční fúzi",
-      "original_title": "CEO whose comments sparked Trump’s Memphis action also pitched him on a big rail merger - Politico",
-      "url": "https://www.politico.com/news/2025/09/12/trump-memphis-union-pacific-00560868",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fed%2F98%2F120d077d420fba2bc2c8376ac3ff%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2227597780",
-      "source": "Politico",
-      "publishedAt": "2025-09-12T21:00:00Z",
-      "description": "Jim Vena, generální ředitel Union Pacific, bombarduje Washington v honbě za schválením 85 miliard dolarů drahé fúze nákladních železnic."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Massachusetts žaluje společnost Kalshi za údajné nelegální sportovní sázky",
-      "original_title": "Massachusetts sues Kalshi alleging illegal sports gambling - CNBC",
-      "url": "https://www.cnbc.com/2025/09/12/massachusetts-sues-kalshi-sports-gambling.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108141257-1746480026270-gettyimages-2198224769-CRYPTOCOM_KALSHI.jpeg?v=1757710299&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-12T20:54:59Z",
-      "description": "Massachusetts tvrdí, že Kalshi vydělává na sportovních sázkách více než legální a licencované sportovní sázkové kanceláře."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Guvernér Stein oznamuje stálé příkazy ke zvýšení dostupnosti vakcín proti COVID-19",
+      "title": "Guvernér Stein vydává stálé příkazy ke zvýšení dostupnosti vakcín proti COVID-19",
       "original_title": "Governor Stein Announces Standing Orders to Increase Access to COVID-19 Vaccines - NC Governor (.gov)",
       "url": "https://governor.nc.gov/news/press-releases/2025/09/12/governor-stein-announces-standing-orders-increase-access-covid-19-vaccines",
       "urlToImage": null,
@@ -136,46 +169,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bolivijská 350 let stará mumifikovaná hlava není tím, čím se zdá být",
-      "original_title": "350-year-old mummified head from Bolivia isn't what it seems - Live Science",
-      "url": "https://www.livescience.com/archaeology/350-year-old-mummified-head-from-bolivia-isnt-what-it-seems",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/n87FqjsrVuAw4ranCns2XP.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-12T19:02:56Z",
-      "description": "Bolivijská mumifikovaná lebka dlouho připisovaná Inkovi má jinou historii, zjistila studie."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Missouri schválilo navržený Trumpem plán na změnu volebních obvodů, který má pomoci republikánům v polovině mandátu",
-      "original_title": "Missouri passes Trump-backed redistricting plan to help the GOP in the midterms - NPR",
-      "url": "https://www.npr.org/2025/09/12/nx-s1-5537977/redistricting-midterms-trump-missouri",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fc1%2Fe8c7b73243cea7d103262d3b532b%2F091025-session-final-11.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-12T18:38:31Z",
-      "description": "Odpůrci tvrdí, že plán oslabuje sílu černošských voličů v okolí Kansas City a slibují, že jej zablokují u soudu nebo referendem. Guvernér, který by jej měl podepsat, říká, že odráží konzervativní h..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump po slibu o potírání politického násilí zdvojnásobuje obviňování ‚radikální levice‘",
-      "original_title": "Trump doubles down on blaming 'radical left' after vow to go after political violence - ABC News",
-      "url": "https://abcnews.go.com/Politics/trump-doubles-blaming-radical-left-after-vow-after/story?id\\\\u003d125509965",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-12T17:48:45Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Poté, co NASA našla na Marsu známky života, je jasné, že Trump udělal obrovskou chybu",
+      "title": "Když NASA našla na Marsu známky života, je jasné, že Trump udělal obrovskou chybu",
       "original_title": "Now That NASA Found Signs of Life on Mars, It's Clear Trump Made a Massive Error - Futurism",
       "url": "https://futurism.com/nasa-signs-life-mars-trump-error",
       "urlToImage": "https://wordpress-assets.futurism.com/2025/09/mars-trump.jpg",
       "source": "Futurism",
       "publishedAt": "2025-09-12T17:13:28Z",
-      "description": "Donald Trump je hlavní překážkou naší planety v navázání na převratné objevy NASA o životě na Marsu."
+      "description": "Donald Trump je hlavní překážkou naší planety v navázání na přelomové objevy NASA o životě na Marsu."
     },
     {
       "flag": "🌍",
@@ -186,7 +186,18 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/RnVTtrTEj5kMNNgMtKiqPK.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-12T17:08:20Z",
-      "description": "Federální doporučení ohledně vakcíny proti covidu-19 na roky 2025–2026 vyvolalo otázky a zmatek. Zkoušeli jste si letos vakcínu obstarat?"
+      "description": "Federální doporučení ohledně vakcíny proti covidu-19 na roky 2025–2026 vyvolalo otázky a zmatek. Zkoušeli jste si letos očkování zajistit?"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Shrnutí akce Apple iPhone 17: předobjednávky iPhone Air, Apple Watch 11, AirPods Pro 3 a další novinky",
+      "original_title": "Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET",
+      "url": "https://www.zdnet.com/article/apple-iphone-17-event-recap-iphone-air-preorders-apple-watch-11-airpods-pro-3-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7f16e5c64a86d26d550098934a2d09bcf18d5392/2025/09/10/dee94d50-5e0e-4742-85d7-c1adf655fb46/iphone-17-pro-max-blue.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-09-12T16:55:00Z",
+      "description": "ZDNET shrnul vše, co bylo oznámeno na této týdenní akci Applu – od předobjednávek iPhone 17 až po Apple Watch Ultra 3, AirPods Pro 3 a další."
     },
     {
       "flag": "🇺🇸",
@@ -197,7 +208,18 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UILW6P3V4WAP736FQC7DYQUVVA_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-12T16:42:34Z",
-      "description": "Dítě onemocnělo spalničkami před dovršením věku pro očkování, uvedli úředníci a dodali, že případ ukazuje důležitost kolektivní imunity."
+      "description": "Dítě se nakazilo spalničkami před dovršením věku pro očkování, uvedli úředníci. Dodali, že případ ukazuje důležitost kolektivní imunity."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Canelo Alvarez stojí mezi Terencem Crawfordem a boxerskou nesmrtelností",
+      "original_title": "Canelo Alvarez Stands Between Terence Crawford And Boxing Immortality - Defector",
+      "url": "https://defector.com/canelo-alvarez-stands-between-terence-crawford-and-boxing-immortality",
+      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/09/GettyImages-2234944427.jpg",
+      "source": "Defector.com",
+      "publishedAt": "2025-09-12T16:40:00Z",
+      "description": "O víkendu velký boxerský galavečer. Tedy tak velký, jaký v roce 2025 může být."
     },
     {
       "flag": "🌍",
@@ -208,51 +230,29 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/09/charlie-sheen-documentary.jpg",
       "source": "Salon",
       "publishedAt": "2025-09-12T16:00:56Z",
-      "description": "Pohled Netflixu na drogy prokládané roky „vítězství“ hvězdy vysvětluje americkou slabost pro kult osobnosti."
+      "description": "Pohled Netflixu na hvězdiny roky drogami podpořeného „vítězství“ vysvětluje, proč Amerika tak podléhá kultům osobnosti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nintendo zveřejnilo překvapivý trailer k novému filmu 'Super Mario Galaxy",
+      "title": "Nintendo zveřejnilo překvapivý trailer k novému filmu ‚Super Mario Galaxy‘",
       "original_title": "Nintendo Drops Surprise Trailer for New ‘Super Mario Galaxy Movie’ - WIRED",
       "url": "https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/",
       "urlToImage": "https://media.wired.com/photos/68c428b8a29b822c3095e940/191:100/w_1280,c_limit/091225-culture-Super-Mario.jpg",
       "source": "Wired",
       "publishedAt": "2025-09-12T15:19:40Z",
-      "description": "Pokračování filmu „Super Mario Bros. Film“ s názvem „The Super Mario Galaxy Movie“ vyjde v roce 2026. Původní obsazení včetně Chrise Pratta, Any Taylor-Joy a Jacka Blacka se do svých rolí vrátí."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Sledujte všechny nové trailery z Nintendo Direct září 2025: Super Mario Galaxy, Yoshi a Mortal Kombat Legacy",
-      "original_title": "Watch all the new trailers from Nintendo Direct September 2025: Super Mario Galaxy, Yoshi, and Mortal Kombat Legacy - Mashable",
-      "url": "https://mashable.com/article/nintendo-direct-september-2025-everything-announced",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04haaUKPCLlWi3UhwzkK2uv/hero-image.fill.size_1200x675.v1757690364.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-09-12T15:19:25Z",
-      "description": "Šedesát minut běsnění."
-    },
-    {
-      "flag": "🌍",
-      "country": "fr",
-      "title": "Předobjednávky na iPhone Air, iPhone 17 a iPhone 17 Pro začaly",
-      "original_title": "Preorders for iPhone Air, iPhone 17, and iPhone 17 Pro have begun - AppleInsider",
-      "url": "https://appleinsider.com/articles/25/09/12/preorders-for-iphone-air-iphone-17-and-iphone-17-pro-have-begun",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65051-135762-000-lead-iPhone-17-Pro-colors-xl.jpg",
-      "source": "AppleInsider",
-      "publishedAt": "2025-09-12T12:03:00Z",
-      "description": "Obchod Apple Store je opět online a začaly předobjednávky na nové modely iPhone Air, iPhone 17, iPhone 17 Pro a iPhone 17 Pro Max."
+      "description": "Pokračování filmu „Super Mario Bros.: Film“ s názvem „The Super Mario Galaxy Movie“ vyjde v roce 2026. Původní obsazení včetně Chrise Pratta, Any Taylor-Joy a Jacka Blacka se do svých rolí vrátí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "LIGO slaví 10 let: Průlomy v oblasti černých děr se ‚budou jen zlepšovat‘",
+      "title": "LIGO slaví 10 let: průlomové objevy černých děr se ‚budou jen zlepšovat‘",
       "original_title": "LIGO is 10 years old: black-hole breakthroughs will ‘only get better’ - Nature",
       "url": "https://www.nature.com/articles/d41586-025-02941-9",
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02941-9/d41586-025-02941-9_51441050.jpg",
       "source": "Nature.com",
       "publishedAt": "2025-09-12T11:47:46Z",
-      "description": "Deset let od první detekce gravitačních vln představili vědci ambiciózní plány pro nové observatoře"
+      "description": "Deset let od první detekce gravitačních vln představují vědci ambiciózní plány pro jejich nástupce."
     },
     {
       "flag": "🌍",
@@ -264,6 +264,17 @@
       "source": "CBS News",
       "publishedAt": "2025-09-11T19:41:15Z",
       "description": "Zdravotníci varují, že sezóna viru západního Nilu ještě neskončila. Zde se šířila nemoc přenášená komáry."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Sledujte dnešní start ruské rakety s 2,8 tuny nákladu k ISS",
+      "original_title": "Watch Russia launch 2.8 tons of cargo toward the ISS today - Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/russia-progress-93-cargo-spacecraft-iss",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qgaHz89WvdbRS2t66i9SqC.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-11T10:00:00Z",
+      "description": "Kosmická loď Progress dorazí na vesmírnou stanici 13. září."
     }
   ]
 }
