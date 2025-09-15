@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-15T02:03:01.627976",
+  "updated": "2025-09-15T03:42:22.057908",
   "trends": [
     {
       "rank": 1,
       "query": "jiřina hofmanová",
-      "news_title": "Co prasklo na Kateřinu ze Zrádců? Příběh vyšetřovatelky Hofmanové",
+      "news_title": "Skutečný příběh vyšetřovatelky Hofmanové ze Zrádců 2",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/prvni-odhaleni-ze-zradcu-2-do-hry-vstoupila-vysetrovatelka-orlickych-vrazd.A250910_162420_lidicky_pzak",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLf3_zrQPDvkTqzHG8n8sy_M3DRZBohdeOhbkw57bTrTB0sfDT7JFK5VcRBo",
       "traffic": "10000++ hledání",
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "query": "ladislav hojer",
-      "news_title": "Metoda Markovič: Hojer ovládla TV s více než milionem diváků",
+      "news_title": "Metoda Markovič: Hojer ovládla televizní obrazovky s více než milionem diváků",
       "news_url": "https://www.novinky.cz/clanek/kultura-tv-streaming-metoda-markovic-hojer-ovladla-televizni-obrazovky-s-vice-nez-milionem-divaku-40537714",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLpLcM9ushvavqXNlsLa41p69Wg0mgp7aypYhI5LUBLaQqJUsVN9QzlivB51s",
       "traffic": "5000++ hledání",
@@ -23,8 +23,18 @@
     },
     {
       "rank": 3,
+      "query": "barcelona – valencie",
+      "news_title": "Barcelona deklasovala Valencii 6:0, Rashford přihrál na gól",
+      "news_url": "https://www.bbc.com/sport/football/live/cnvr30e6gz3t",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA1nt_TzZiJBR237Y-_8EMcrjUmq-9cVgdBtwvzXrDJ1AooctB25lmnQHHY2Y",
+      "traffic": "5000++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=barcelona – valencie&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "barcelona",
-      "news_title": "Barcelona porazila Valencii 6:0, výsledek a góly",
+      "news_title": "Barcelona porazila Valencii 6:0, shrnutí a góly",
       "news_url": "https://as.com/futbol/barcelona-valencia-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOur7WvI_WqgmhtyoiQNNeKrFp7wuhX9rH2AqUHjhSSdqezDZcmKRLICkm9us",
       "traffic": "1000++ hledání",
@@ -32,19 +42,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=barcelona&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "vojta kotek",
-      "news_title": "Vojtěch Kotek o Zrádcích: Měl jsem strach, aby se mi nesmáli",
-      "news_url": "https://www.denik.cz/spolecnost/vojtech-kotek-zradci-druha-serie.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZ2TIYUrsl8o3_LWGdxXkToBf4qgG0Q1Ls8ID1_VfJy7HytAtmTYWkDJgzxo",
+      "rank": 5,
+      "query": "ac milán – bologna",
+      "news_title": "Milan: Leao kvůli svalovému zranění mimo hru až 42 dní",
+      "news_url": "https://sempremilan.com/leao-absence-expected-to-reach-42-days",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzDD_BWTI34gBSzTpfwL9O4eVXjUvQZDNrawhpLfIjYqtM1V9UreIrSq8BFvY",
       "traffic": "500++ hledání",
-      "source": "Deník.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=vojta kotek&geo=CZ"
+      "source": "SempreMilan",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ac milán – bologna&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "daniela brzobohatá",
-      "news_title": "Brzobohatá o Zrádcích: Prozradila víc, než měla?",
+      "news_title": "Prozradila po natáčení víc, než měla? Daniela Brzobohatá vysvětlila, jak je to s její účastí ve Zrádcích",
       "news_url": "https://www.stream.cz/super-cz/prozradila-po-nataceni-vic-nez-mela-daniela-brzobohata-vysvetlila-jak-je-to-s-jeji-ucasti-ve-zradcich-65351329",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8F6rEKAWmaYsIRunXw2wa-wjb-VZ0MZLfuwyCrrN6y1fLiFOHz8f7WDy56XQ",
       "traffic": "500++ hledání",
@@ -52,9 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=daniela brzobohatá&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "tom cruise",
-      "news_title": "Kultovní film s Tomem Cruisem vzdal hold mému milovanému sportu jako žádný jiný",
+      "news_title": "Tom Cruise ve filmu, který milovníci ragby ctí jako kultovní",
       "news_url": "https://screenrant.com/tom-cruise-days-of-thunder-stock-car-racing/",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrGGEsI-FsDZlE4iyVFfjvPPgMGRGNCtJ5mWLvmnEWjugNIQF2nsPCEHd2_no",
       "traffic": "500++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=tom cruise&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "query": "al nassr – al kholood",
-      "news_title": "Preview: Al-Nassr vs Al Kholood - tipy na sestavy a předpověď zápasu",
+      "news_title": "Preview: Al-Nassr vs Al Kholood - tipy, sestavy",
       "news_url": "https://www.sportsmole.co.uk/football/al-nassr/preview/al-nassr-vs-al-kholood-prediction-team-news-lineups_581381.html",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJRSS0jZ-qCGeCv_0RCaIhbLmA0KFFcvTMO76OYyJCDx2-5rZaFv6tUY6ojg4",
       "traffic": "500++ hledání",
       "source": "Sports Mole",
       "explore_url": "https://trends.google.cz/trends/explore?q=al nassr – al kholood&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "dennis schroder",
-      "news_title": "All-Star Five: Schröder, Dončić, Wagner, Antetokounmpo, Şengün",
-      "news_url": "https://www.fiba.basketball/en/events/fiba-eurobasket-2025/news/all-star-five-schroder-doncic-wagner-antetokounmpo-sengun",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm4SAhjZ6Sl4-s0rCWNDoC_gxIHEyE2YN32CBRsfj2oxnEHYyfZOdKmHK3vrA",
-      "traffic": "200++ hledání",
-      "source": "FIBA",
-      "explore_url": "https://trends.google.cz/trends/explore?q=dennis schroder&geo=CZ"
     }
   ]
 }
