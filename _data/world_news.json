@@ -1,54 +1,131 @@
 {
-  "last_updated": "2025-09-15T06:29:04",
+  "last_updated": "2025-09-15T07:18:53",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bílý dům žádá o 58 milionů dolarů na zvýšení bezpečnosti pro výkonnou a soudní moc po střelbě na Charlieho Kirka, uvádějí zdroje",
+      "title": "Canelo Alvarez vs. Terence Crawford: Výsledky, vítězové, highlights, karta zápasů, kompletní průvodce",
+      "original_title": "Canelo Alvarez vs. Terence Crawford fight: Results, winners, highlights, fight card, complete guide - CBS Sports",
+      "url": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-terence-crawford-fight-results-winners-highlights-fight-card-complete-guide/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/14/6a3db346-a152-413b-8d7f-f10578680d84/thumbnail/1200x675/ea77d9a33d49a255ec9892d5be3f4465/crawford-alvarez-celebrate.jpg",
+      "source": "CBS Sports",
+      "publishedAt": "2025-09-14T07:00:00Z",
+      "description": "Crawford se vítězstvím nad Álvarezem v sobotu stal nesporným šampionem ve třetí váhové kategorii"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Žaloba tvrdí, že USA deportovaly migranty do Ghany, aby se vyhnuly omezením",
+      "original_title": "Lawsuit says U.S. deported migrants to Ghana to sidestep restrictions - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/09/13/ghana-deportation-trump-migrants/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LU4C4HB7UY6ES7XSWJNPX2FC4.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-14T06:19:33Z",
+      "description": "Žaloba tvrdí, že pět migrantů bylo nezákonně deportováno do Ghany, aby se obešla omezení proti jejich návratu do vlasti."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Turecko se obává izraelských hrozeb po útoku na Hamás v Kataru",
+      "original_title": "Turkey wary of Israeli threat following airstrike on Hamas in Qatar - AP News",
+      "url": "https://apnews.com/article/hamas-turkey-israel-threat-b9207ce3ca90e2364c68d1eedb20175f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f663871/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2Ff6%2F74222487b40897028be84e74f999%2Fe92959470b5f4e05873627e7a04ed64c",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-14T05:01:00Z",
+      "description": "Izraelský úder na schůzku představitelů Hamásu v Kataru v Turecku vyvolal obavy, že by se mohlo stát dalším cílem"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Vdova po Charliem Kirkovi se poprvé vyjádřila hodiny poté, co Donald Trump oznámil, že je údajný střelec v policejní vazbě",
+      "original_title": "Charlie Kirk's widow breaks silence hours after Donald Trump announces alleged shooter in custody - Fox News",
+      "url": "https://www.foxnews.com/live-news/charlie-kirk-shooting-utah-valley-university-9-13-2025",
+      "urlToImage": "https://livenews.foxnews.com/images/2025/09/64a8889a2d631419316bacdef5a3b8c6.jpg",
+      "source": "Fox News",
+      "publishedAt": "2025-09-14T04:49:07Z",
+      "description": "Vdova po Charliem Erika Kirková promluvila poprvé od manželovy vraždy. Stála přitom za transparentem s nápisem „Ať je Charlie přijat do milosrdné náruče Ježíše, našeho milujícího spasitele.“"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Chris Martin povzbuzuje fanoušky, aby na koncertu Coldplay poslali lásku „rodině Charlie Kirka“",
+      "original_title": "Chris Martin Encourages Fans To Send Love “To Charlie Kirk’s Family” At Coldplay Concert - Deadline",
+      "url": "http://deadline.com/2025/09/chris-martin-send-love-charlie-kirk-family-coldplay-concert-1236530908/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Chris-Martin-Charlie-Kirk-2-shot.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-14T03:55:00Z",
+      "description": "Když vražda Charlieho Kirka vyvolala masivní stranické následky, zdá se, že Chris Martin se snaží udržet mír poselstvím lásky."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Německo aktualizuje: Porýní-Vestfálsko volí v klíčovém testu pro Merze",
+      "original_title": "Germany updates: NRW holds election in key test for Merz - DW",
+      "url": "https://www.dw.com/en/germany-updates-nrw-holds-election-in-key-test-for-merz/live-73986739",
+      "urlToImage": "https://static.dw.com/image/73985012_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-09-14T03:40:42Z",
+      "description": "Nejlidnatější spolková země Německa, Severní Porýní-Vestfálsko, v neděli koná komunální volby. Jsou považovány za první test pro křehkou koalici kancléře Merze. Sledujte DW pro nejnovější zprávy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zach Bryan se zdánlivě přehoupl přes plot, aby konfrontoval Gavina Adcocka na festivalu v Oklahomě",
+      "original_title": "Zach Bryan Appears to Scale Fence to Confront Gavin Adcock at Oklahoma Festival - Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-country/zach-bryan-confronts-gavin-adcock-born-and-raised-festival-1235426956/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/GettyImages-2222801671-2.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-14T02:58:36Z",
+      "description": "Zach Bryan zřejmě přelezl plot na festivalu Born and Raised v Oklahomě, aby konfrontoval Gavina Adcocka, který tohoto zpěváka veřejně kritizoval."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bílý dům žádá o 58 milionů dolarů na zvýšení bezpečnosti pro výkonnou a soudní moc po střelbě na Charlieho Kirka, uvádějí zdroje – cbsnews.com",
       "original_title": "White House requests $58 million to increase security for executive, judicial branches after Charlie Kirk shooting, sources say - cbsnews.com",
       "url": "https://www.cbsnews.com/news/white-house-requests-58-million-dollars-to-increase-security-executive-judicial-branches-after-charlie-kirk-shooting/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/14/332b1358-c77c-4543-add7-5a7c377ad4c1/thumbnail/1200x630/79041041adc0c6fec3e1d4fadce6d38a/gettyimages-2234387268.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-14T01:32:00Z",
-      "description": "Bílý dům potvrdil, že další prostředky půjdou americké justiční policii a posílí ochranu soudců nejvyššího soudu"
+      "description": "Bílý dům potvrdil, že dodatečné prostředky poputují americké justiční stráži a posílí ochranu soudců nejvyššího soudu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "První pohled na čtvrtou řadu „Čaroděje“: Geralta nahradil Liam Hemsworth po Henrym Cavillovi, Netflix oznámil říjnovou premiéru",
-      "original_title": "‘The Witcher’ Season 4 First Look: Liam Hemsworth Replaces Henry Cavill as Geralt, Netflix Sets October Release Date - Variety",
-      "url": "https://variety.com/2025/tv/news/witcher-season-4-liam-hemsworth-henry-cavill-release-date-netflix-1236299282/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/02/The-Witcher.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-14T01:30:00Z",
-      "description": "Liam Hemsworth hraje Geralta z Rivie v čtvrté řadě Netflixového Zaklínače a nahrazuje Henryho Cavilla. Premiéra je stanovena na 30. října."
+      "title": "Čína zahájila antidumpingové šetření proti některým americkým čipům",
+      "original_title": "China Launches Anti-Dumping Probe Against Some US Chips - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-13/china-launches-anti-dumpinng-probe-against-some-us-chips",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq.TYFPgivI4/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-14T01:22:00Z",
+      "description": "Čína zahájila dvě vyšetřování zaměřená na americký polovodičový sektor před plánovanými rozhovory mezi oběma zeměmi o obchodu a dalších otázkách."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Více než 100 000 lidí se zúčastnilo v Londýně mítinku organizovaného krajně pravicovým aktivistou, došlo ke střetům",
+      "title": "Více než 100 000 lidí se zúčastnilo londýnské demonstrace organizované krajně pravicovým aktivistou, došlo ke střetům",
       "original_title": "Over 100,000 attend London rally organized by far-right activist, clashes break out - NPR",
       "url": "https://www.npr.org/2025/09/13/g-s1-88663/london-protest-by-far-right-activist",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8278x4656+0+431/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F3e%2Fc661cb054b69b40bdfc6369ac1e6%2Fap25256469906641.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-14T00:23:20Z",
-      "description": "Pochod, který zorganizoval pravicový aktivista Tommy Robinson, přilákal v sobotu více než 110 tisíc lidí. Při střetech, které vypukly, bylo zraněno nejméně 26 policistů."
+      "description": "Pochod, který organizoval krajně pravicový aktivista Tommy Robinson, přilákal v sobotu více než 110 tisíc lidí. Při střetech, které vypukly, bylo zraněno nejméně 26 policistů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Otec bez dokladů zastřelený agentem ICE ve Franklin Parku neměl trestní záznam, tvrdí právník - cbsnews.com",
+      "title": "Otec bez dokumentů zastřelený agentem ICE ve Franklin Parku neměl žádný záznam v rejstříku trestů, tvrdí právník - cbsnews.com",
       "original_title": "Undocumented father killed by ICE agent in Franklin Park shooting had no criminal background, lawyer says - cbsnews.com",
       "url": "https://www.cbsnews.com/chicago/news/undocumented-father-killed-ice-agent-franklin-park-shooting/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/14/d0eb5e61-f8ef-4f73-b859-e7ff6f247a37/thumbnail/1200x630/1a7f07e6151e37a3df6d444c3e92393a/snapshot-2025-09-13t191532-577.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-14T00:21:00Z",
-      "description": "Nelegální imigrant zastřelený agentem ICE v Illinois měl pouze dopravní přestupky, žádný trestný rejstřík, uvádí právník"
+      "description": "Nelegální otec zastřelený agentem ICE v Illinois měl jen dopravní přestupky, tvrdí jeho právník"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Americký úředník uvedl, že personál z námořní lodi prohlédl venezuelský rybářský člun kvůli drogám",
+      "title": "Americký úředník: Personál z námořní lodi prohlédl venezuelský rybářský člun kvůli drogám",
       "original_title": "US official says personnel from Navy ship inspected Venezuelan fishing boat for drugs - ABC News",
       "url": "https://abcnews.go.com/International/us-official-personnel-navy-ship-inspected-venezuelan-fishing/story?id\\\\u003d125546298",
       "urlToImage": null,
@@ -59,29 +136,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kalifornští demokraté ukončili legislativní jednání s klimatickou dohodou – a vnitřními spory",
-      "original_title": "California Democrats end legislative session with climate deal – and infighting - CalMatters",
-      "url": "https://calmatters.org/politics/2025/09/california-legislature-end-of-session-2/",
-      "urlToImage": "https://calmatters.org/wp-content/uploads/2025/09/091225_End-Of-Session_FG_CM_05.jpg",
-      "source": "CALmatters",
-      "publishedAt": "2025-09-13T23:54:39Z",
-      "description": "Jednání se protáhlo do soboty kvůli dohodám o klimatu a energetice z poslední chvíle, což vyvolalo hlubokou frustraci mezi některými zákonodárci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trumpova administrativa spouští pilotní program pro urychlení zavádění elektrických létajících taxíků",
+      "title": "Trumpova administrativa spouští pilotní program pro urychlení zavádění elektrických létajících taxi",
       "original_title": "Trump administration launches trial program to fast-track electric air taxis - NPR",
       "url": "https://www.npr.org/2025/09/13/nx-s1-5540722/faa-air-taxi-pilot-program",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1998x1124+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fac%2F59%2F17e9bdde44fb89ad1dd0c07a1c65%2Fap24296658077207.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-13T23:38:26Z",
-      "description": "FAA hledá návrhy projektů zahrnujících pilotované i bezpilotní operace se zaměřením na elektrické air taxi, tzv. elektrická letadla pro vertikální vzlet a přistání."
+      "description": "FAA vyzývá k předkládání návrhů projektů zahrnujících pilotované i bezpilotní operace se zaměřením na elektrické vzdušné taxi, známé také jako elektrické letouny s kolmým vzletem a přistáním."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Co čekat od cen Emmy a jak sledovat slavnostní ceremoniál",
+      "title": "Co čekat od cen Emmy a jak sledovat ceremoniál",
       "original_title": "What to expect from the Emmys and how to watch the ceremony - BBC",
       "url": "https://www.bbc.com/news/articles/c1mxlm42l9vo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/895c/live/ac085ac0-8cc5-11f0-b391-6936825093bd.jpg",
@@ -92,57 +158,46 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trump žádá před zavedením amerických sankcí akci NATO proti ruské ropě",
+      "title": "Trump požaduje od NATO akci proti ruské ropě před případnými americkými sankcemi",
       "original_title": "Trump demands NATO action on Russian oil before any U.S. sanctions - The Washington Post",
       "url": "https://www.washingtonpost.com/politics/2025/09/13/trump-putin-russia-sanctions/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4CA4GJM2FNVLDP2FQSCVTCMQBQ.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-13T22:40:39Z",
-      "description": "Kritici uvedli, že komentáře mohou dále oddálit Trumpovy snahy přimět Putina ukončit válku na Ukrajině."
+      "description": "Kritici uvedli, že Trumpovy výroky mohou oddálit jeho snahu přimět Putina ukončit válku na Ukrajině."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Guvernérka Fedu Cooková žádá odvolací soud, aby zamítl snahu Bílého domu o její odvolání z představenstva Fedu",
-      "original_title": "Fed governor Cook asks appeals court to reject White House's bid to remove her from Fed board - CNBC",
-      "url": "https://www.cnbc.com/2025/09/13/trump-fed-lisa-cook-appeals-court.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192448-1756477319590-gettyimages-1258906734-SENATE_FED_NOMINATION.jpeg?v=1756477417&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-13T22:36:33Z",
-      "description": "Guvernérka Fedu Lisa Cooková žádá odvolací soud USA, aby zamítl nejnovější pokus Trumpovy administrativy o její odvolání z funkce."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Starosta Memphisu uvedl, že se o nasazení Národní gardy dozvěděl z televizních komentářů Donalda Trumpa",
+      "title": "Starosta Memphisu uvedl, že se o nasazení Národní gardy dozvěděl z Trumpových televizních komentářů",
       "original_title": "Memphis mayor says he got confirmation National Guard would be deployed from Trump's TV comments - AP News",
       "url": "https://apnews.com/article/memphis-national-guard-trump-29ffad97499a0995ea952f7a0e7b112c",
       "urlToImage": "https://dims.apnews.com/dims4/default/7bfda01/2147483647/strip/true/crop/4966x2793+0+362/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F7b%2Fea9061116e7fbc66904434d7b26a%2F7b9a699845fc4411be6b334d8d80dc16",
       "source": "Associated Press",
       "publishedAt": "2025-09-13T21:58:00Z",
-      "description": "Starosta Memphisu uvedl, že Trumpovo televizní oznámení bylo první jasné potvrzení, že vyšle Národní gardu kvůli kriminalitě"
+      "description": "Starosta Memphisu říká, že televizní vystoupení prezidenta Donalda Trumpa bylo pro něj první jasné potvrzení, že Trump vyšle Národní gardu, aby řešila zločinnost."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Lidé prý přicházejí o práci za údajné oslavy vraždy Charlieho Kirka. Vypadá to jako koordinovaná akce",
+      "title": "Guvernérka Fedu Cooková označila svůj dům v Atlantě za „rekreační“, ukazují dokumenty",
+      "original_title": "Fed Governor Cook declared her Atlanta property as ‘vacation home,’ documents show - CNN",
+      "url": "https://www.cnn.com/2025/09/13/business/lisa-cook-atlanta-house-fed",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1258902366-20250826154246204.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-13T21:16:25Z",
+      "description": "Odhad půjčky na dům v Atlantě, který koupila guvernérka Fedu Lisa Cooková obviněná Trumpovou administrativou z hypotéčního podvodu, ukazuje, že nemovitost označila za „rekreační“, vyplývá z dokumen..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Lidé prý dostávají výpověď za oslavování vraždy Charlie Kirka. Vypadá to jako koordinovaná akce.",
       "original_title": "People are getting fired for allegedly celebrating Charlie Kirk’s murder. It looks like a coordinated effort - CNN",
       "url": "https://www.cnn.com/2025/09/13/business/charlie-kirk-death-fired-comments",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25255111943391.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-13T19:39:45Z",
-      "description": "Desítky příspěvků a zpráv na sociálních sítích o vraždě Charlieho Kirka, včetně některých, které jeho smrt oslavovaly, jsou konzervativními aktivisty, republikánskými volenými představiteli a doxxi..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Coldplay v Londýně vyzvali k ‚odesílání lásky kamkoli‘, včetně rodiny Charlie Kirka",
-      "original_title": "Coldplay Say to ‘Send Love Anywhere,’ Charlie Kirk’s Family Included, at London Show - Rolling Stone",
-      "url": "http://www.rollingstone.com/music/music-news/coldplay-says-send-love-charlie-kirk-family-london-show-1235426924/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/ChrisMartinColdplay-1.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-13T19:27:53Z",
-      "description": "Coldplay na londýnském koncertě posílali lásku, včetně rodině Charlie Kirka: ‚Pošlete ji lidem, s nimiž nesouhlasíte… stejně jim pošlete lásku.‘"
+      "description": "Desítky příspěvků a zpráv na sociálních sítích o vraždě Charlie Kirka, včetně těch, které oslavovaly jeho smrt, jsou konzervativními aktivisty, republikánskými volenými představiteli a doxxingovou ..."
     },
     {
       "flag": "🌍",
@@ -153,18 +208,18 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3676x2068+0+192/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F9c%2F59c4861946b097fa2ff4d4a6946f%2Fap25255622751696.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-13T19:26:44Z",
-      "description": "Podle nemocnice Šifa bylo mezi mrtvými 12 dětí. Izrael v posledních dnech zničil několik výškových budov a obvinil Hamas z umístění sledovací techniky do nich."
+      "description": "Podle nemocnice Šifa bylo mezi mrtvými 12 dětí. Izrael v posledních dnech zničil několik výškových budov a obvinil Hamas, že v nich umístil sledovací zařízení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Cardi B a její dcera Kulture se oblékly do kožešiny na newyorský módní týden",
+      "title": "Cardi B a její dcera Kulture se oblékly do kožešin na newyorském Fashion Week",
       "original_title": "Cardi B and Daughter Kulture Dress in Fur For New York Fashion Week Event - TMZ",
       "url": "https://www.tmz.com/2025/09/13/cardi-b-daughter-kulture-new-york-fashion-week/",
       "urlToImage": "https://imagez.tmz.com/image/67/16by9/2025/09/13/67d9c02b684448fbb794eb3078c61d5d_xl.jpg",
       "source": "TMZ",
       "publishedAt": "2025-09-13T18:31:36Z",
-      "description": "Cardi B dává dceři Kulture rychlokurz vrcholné módy. Na newyorském týdnu módy v pátek večer byly jako dvojčata."
+      "description": "Cardi B dává dceři Kulture rychlokurz vrcholné módy. Na newyorském týdnu módy v pátek večer byly k nerozeznání."
     },
     {
       "flag": "🌍",
@@ -180,6 +235,17 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Trump brání Patelovou na pozadí kritiky vedení šéfa FBI při vyšetřování atentátu na Kirka",
+      "original_title": "Trump defends Patel amid scrutiny of FBI director’s leadership during Kirk assassination investigation - Politico",
+      "url": "https://www.politico.com/news/2025/09/13/trump-kash-patel-investigation-00563054",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F43%2F01%2F015faab6415bbcba19c40a83683b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2234248889",
+      "source": "Politico",
+      "publishedAt": "2025-09-13T18:17:53Z",
+      "description": "„Na FBI jsem velmi hrdý,“ řekl Trump."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Ruská loď Progress dorazila k ISS s 2,8 tunami nákladu",
       "original_title": "Russian Progress spacecraft arrives at the ISS with 2.8 tons of cargo - Space",
       "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-93-spacecraft-arrives-international-space-station",
@@ -187,17 +253,6 @@
       "source": "Space.com",
       "publishedAt": "2025-09-13T17:37:06Z",
       "description": "Nákladní loď Progress 93 odstartovala ve čtvrtek (11. září)."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Hlavní nepálské strany tvrdí, že rozpuštěný parlament musí být obnoven",
-      "original_title": "Nepal's major parties say dissolved parliament must be reinstated - BBC",
-      "url": "https://www.bbc.com/news/articles/c0q71jplqq0o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ec09/live/2869dcd0-90a7-11f0-84c8-99de564f0440.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-13T17:03:25Z",
-      "description": "Sněmovna reprezentantů byla rozpuštěna prezidentem země po smrtících protikorupčních protestech."
     },
     {
       "flag": "🌍",
@@ -208,62 +263,73 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.18.37.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-09-13T15:53:00Z",
-      "description": "Nejnovější model Apple Watch, Series 11, byl představen v úterý. Na první pohled se sice zdálo…"
+      "description": "Nejnovější model Apple Watch Series 11 byl představen v úterý. Na první pohled se zdálo…"
     },
     {
       "flag": "🌍",
       "country": "fr",
-      "title": "Apple láme rekordy v Číně díky vysokému počtu předobjednávek iPhonu 17",
+      "title": "Apple v Číně láme rekordy s vysokým počtem předobjednávek iPhonu 17",
       "original_title": "Apple breaks records in China with high iPhone 17 preorders - AppleInsider",
       "url": "https://appleinsider.com/articles/25/09/13/apple-breaks-records-in-china-with-high-iphone-17-preorders",
       "urlToImage": "https://photos5.appleinsider.com/gallery/65098-135891-iPhone-17-Pro-Max-display-xl.jpg",
       "source": "AppleInsider",
       "publishedAt": "2025-09-13T14:18:13Z",
-      "description": "Start iPhonu 17 je v Číně obrovský úspěch, předobjednávky nových modelů lámaly prodejní rekordy na tomto obvykle turbulentním trhu."
+      "description": "Spuštění iPhonu 17 je v Číně obrovský úspěch, předobjednávky nových modelů lámaly prodejní rekordy na tomto obvykle turbulentním trhu."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Královna mravenců rodí dva různé druhy",
+      "original_title": "Ant queen gives birth to two different species - CNN",
+      "url": "https://www.cnn.com/2025/09/13/science/iberian-harvester-ants-two-species",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/coverhorizontal.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-13T11:30:06Z",
+      "description": "Královna iberského mravence žne byla pozorována, jak plodí samce dvou různých druhů mravenců."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Chcete se nechat očkovat proti covidu? Tady je několik důležitých informací",
+      "title": "Chcete se nechat očkovat proti covidu? Víme, co potřebujete",
       "original_title": "Trying to get a COVID vaccine right now? Here's what to know - NPR",
       "url": "https://www.npr.org/2025/09/13/nx-s1-5540088/covid-vaccine-2025-cdc-fda-guidelines",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F35%2F9131809442e4834487ca20c6a6f0%2Fgettyimages-1720991107.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-13T11:00:00Z",
-      "description": "Pokud vám není přes 65 let nebo nemáte určité rizikové faktory, může být těžké vakcínu získat, ale ne nutně nemožné. Co je třeba vědět o matoucích a rychle se měnících pravidlech pro očkování."
+      "description": "Pokud vám není přes 65 let nebo nemáte určité rizikové faktory, může být obtížné vakcínu získat, ale ne nutně nemožné. Zde je přehled matoucích a rychle se měnících pravidel pro očkování."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vědecké novinky tohoto týdne: NASA našla nejlepší důkaz života na Marsu a vědci vytvořili viditelné časové krystaly",
+      "title": "Vědci objevili překvapivý nový varovný příznak demence",
+      "original_title": "Scientists discover surprising new dementia warning sign - Daily Express US",
+      "url": "https://www.the-express.com/news/us-news/183440/Scientists-discover-new-dementia-warning-sign",
+      "urlToImage": "https://cdn-images.the-express.com/img/dynamic/10/1200x630/431622.jpg",
+      "source": "The-express.com",
+      "publishedAt": "2025-09-13T11:00:00Z",
+      "description": "Studie na 733 osmdesátiletých ženách odhaluje, jak důležitý je spánek při určování příznaků demence."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Konzole Nintendo Switch 2 v edici Pokémon je konečně na Amazonu k předobjednání.",
+      "original_title": "Nintendo Switch 2 Pokemon Console Bundle Is Finally Up For Preorder At Amazon - GameSpot",
+      "url": "https://www.gamespot.com/articles/amazon-nintendo-switch-2-console-bundle-pokemon-legends-z-a-preorder/1100-6533331/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4536422-za-1.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-09-13T06:21:30Z",
+      "description": "Balíček za 500 dolarů vyjde 16. října a obsahuje digitální kopii hry Pokémon Legends: Z-A."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vědecké novinky tohoto týdne: NASA našla nejlepší důkazy života na Marsu a vědci vytvořili viditelné časové krystaly",
       "original_title": "Science news this week: NASA finds best evidence of life on Mars and and scientists invent visible time crystals - Live Science",
       "url": "https://www.livescience.com/health/surgery/science-news-this-week-nasa-finds-best-evidence-of-life-on-mars-and-and-scientists-invent-visible-time-crystals",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/PJiDHoNw5dPaUobfbybvaA.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-13T04:00:00Z",
-      "description": "13. září 2025: Týdenní přehled nejnovějších vědeckých zpráv a pár zajímavých článků na víkend."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Virtual Boy se přidává do Nintendo Switch Online",
-      "original_title": "Virtual Boy Is Being Added To Nintendo Switch Online - Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2025/09/virtual-boy-is-being-added-to-nintendo-switch-online",
-      "urlToImage": "https://images.nintendolife.com/c591590638be8/large.jpg",
-      "source": "Nintendo Life",
-      "publishedAt": "2025-09-13T00:28:36Z",
-      "description": "Je potvrzen i speciální příslušenství"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Guvernérka Millsová povoluje poskytovatelům zdravotní péče v Maine podávat letošní vakcínu proti COVID-19",
-      "original_title": "Gov. Mills authorizes Maine health care providers to administer this year’s COVID-19 vaccine - The Portland Press Herald",
-      "url": "https://www.pressherald.com/2025/09/12/gov-mills-authorizes-maine-doctors-to-administer-this-years-covid-19-vaccine/",
-      "urlToImage": "https://www.pressherald.com/wp-content/uploads/sites/4/2025/08/New_COVID_Shots_77867_c3fcbe.jpg",
-      "source": "Press Herald",
-      "publishedAt": "2025-09-12T16:47:07Z",
-      "description": "Doporučení očkování pro většinu obyvatel Maine starších 6 měsíců přichází po podobných krocích v dalších státech Nové Anglie, které se snaží obejít federální omezení ohledně toho, kdo se může necha..."
+      "description": "13. září 2025: Naše týdenní přehled nejnovějších vědeckých zpráv a pár fascinujících článků, které vás pobaví o víkendu."
     },
     {
       "flag": "🌍",
@@ -274,18 +340,7 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-02941-9/d41586-025-02941-9_51441050.jpg",
       "source": "Nature.com",
       "publishedAt": "2025-09-12T11:47:46Z",
-      "description": "Deset let poté, co pár observatoří poprvé zachytil gravitační vlny, vědci připravují ambiciózní plány pro jejich nástupce."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sluneční záře na snímku Hubbleova teleskopu komety 3I/ATLAS je desetkrát delší než širší – Avi Loeb",
-      "original_title": "The Sunward Glow in the Hubble Image of 3I/ATLAS is Ten Times Longer Than It is Wide - Avi Loeb – Medium",
-      "url": "https://avi-loeb.medium.com/the-sunward-glow-in-the-hubble-image-of-3i-atlas-is-ten-times-longer-than-it-is-wide-3a5cff257a94",
-      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*EqEVF2WYUy7CKmFX-6OAxg.png",
-      "source": "Medium",
-      "publishedAt": "2025-09-12T09:13:17Z",
-      "description": "V nové analýze (dostupné zde) snímku mezihvězdného objektu 3I/ATLAS z Hubbleova vesmírného dalekohledu, na které jsem se podílel se svým…"
+      "description": "Deset let po první detekci gravitačních vln představují vědci ambiciózní plány pro jejich nástupce."
     }
   ]
 }
