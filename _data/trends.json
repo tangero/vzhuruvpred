@@ -1,10 +1,20 @@
 {
-  "updated": "2025-09-15T09:29:31.043438",
+  "updated": "2025-09-15T12:54:07.034233",
   "trends": [
     {
       "rank": 1,
+      "query": "owen cooper",
+      "news_title": "Jsem jen míšenec z kirkybských sídlišť",
+      "news_url": "https://www.bbc.co.uk/news/articles/cx2rjgdwweyo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRnEc5EdRRF71DVmVfc0_j2-eJVAm7XYy-nD1xGfktLNTDRrfgjzkX3AlSSdU",
+      "traffic": "1000++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=owen cooper&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "ios 26 release date",
-      "news_title": "iPhone 17: První s AI čipem a kamerou pod displejem",
+      "news_title": "iPhone 17 přinese revoluční design s tenčím rámečkem a Selfie kamera pod displejem",
       "news_url": "https://www.apple.com/iphone-17/",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsLTpch2bbbF_d50JHZinqUCTILc5B-xRw6W0mhnaar3P6LRntOX5iSQPG10",
       "traffic": "1000++ hledání",
@@ -12,74 +22,64 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=ios 26 release date&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "barcelona",
-      "news_title": "Barcelona porazila Valencii 6:0",
-      "news_url": "https://as.com/futbol/barcelona-valencia-en-directo-laliga-ea-sports-hoy-en-vivo-n/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFFAG5II8VBbdwEijoBxmqezCQA2MYuY_TBp5x6FuWzpJlL9Y0uQLW4xpdULk",
-      "traffic": "1000++ hledání",
-      "source": "Diario AS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=barcelona&geo=CZ"
-    },
-    {
       "rank": 3,
-      "query": "owen cooper",
-      "news_title": "Emmys 2025: Adolescence, The Studio a The Pitt ovládly ceny",
-      "news_url": "https://www.bbc.com/news/live/czdjl3ngd70t",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQipUyB4PQMgT9vmbq5nvLs1mOAMOehqBWBV4Dz_pyHfAKtVcUzwvPSYz9YRBo",
-      "traffic": "500++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=owen cooper&geo=CZ"
-    },
-    {
-      "rank": 4,
       "query": "tornádo u hodonína",
-      "news_title": "Tornádo se opět prohnalo Moravou, záběry kolují na sítích",
-      "news_url": "https://www.stream.cz/extremni-pocasi/tornado-se-opet-prohnalo-moravou-zabery-jevu-se-objevily-na-sitich-65354491",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTR37OcmtEOe9XDiM2bCtt--HX_-UKi1yeZFq1yKEoJQ3KXLWSLxDWqVcHyLJo",
+      "news_title": "Malé tornádo u Hodonína",
+      "news_url": "https://www.novinky.cz/clanek/domaci-u-hodonina-se-objevilo-male-tornado-40538797",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqEEJjqBZD4_OcddDGZmh06T--VEHIH1i71lrxZ1mP_DvcUjLWVtDyClxn4UA",
       "traffic": "500++ hledání",
-      "source": "Stream.cz",
+      "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=tornádo u hodonína&geo=CZ"
     },
     {
+      "rank": 4,
+      "query": "bmw",
+      "news_title": "Řidič BMW po nehodě s úředníkem financí zatčen",
+      "news_url": "https://www.ndtv.com/india-news/woman-who-killed-finance-ministry-official-with-bmw-arrested-from-hospital-9279491",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCh4ZBX4p5eTITh1dH9jKHamlogfIzZvwX2pnM3PFgAe4Q23-NXwVlmhdJekA",
+      "traffic": "200++ hledání",
+      "source": "NDTV",
+      "explore_url": "https://trends.google.cz/trends/explore?q=bmw&geo=CZ"
+    },
+    {
       "rank": 5,
-      "query": "vojta kotek",
-      "news_title": "Vojta Kotek z Hradu Zrádců v roli farmáře",
-      "news_url": "https://www.prahanadlani.cz/clanek-zprava/1449410-hradni-pan-ze-zradcu-v-necekane-roli-vojta-kotek-farmarem-.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeb2hNQh52xvTEDyhOvdl73pDB2lH5665BfgjBdr3BTBvR1jlwVaNIrkaIZyA",
-      "traffic": "500++ hledání",
-      "source": "prahanadlani.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=vojta kotek&geo=CZ"
+      "query": "petr koukal",
+      "news_title": "Rozvod Soukalová vs. Koukal: Vrátit miliony a nemovitosti",
+      "news_url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/821939/rozvodova-valka-soukalova-vs-koukal-musi-ji-vratit-miliony-a-take-nemovitosti.html",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqR1JqQTyeV4fN63Fvf9LUbOR3Yy4s_RmK_RYQj0s1APVwG2SvPxdm1JxQMUo",
+      "traffic": "200++ hledání",
+      "source": "Blesk",
+      "explore_url": "https://trends.google.cz/trends/explore?q=petr koukal&geo=CZ"
     },
     {
       "rank": 6,
-      "query": "ac milán – bologna",
-      "news_title": "Milan: Leao bude kvůli zranění mimo hru až 42 dní",
-      "news_url": "https://sempremilan.com/leao-absence-expected-to-reach-42-days",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzDD_BWTI34gBSzTpfwL9O4eVXjUvQZDNrawhpLfIjYqtM1V9UreIrSq8BFvY",
-      "traffic": "500++ hledání",
-      "source": "SempreMilan",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ac milán – bologna&geo=CZ"
-    },
-    {
-      "rank": 7,
       "query": "emmy 2025",
-      "news_title": "Emmys: Sweeneyová, Ortega i Gomezová na červeném koberci",
-      "news_url": "https://www.bbc.com/news/articles/c79vdz35v0po",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMdxJH4m0FOwrkXmAAS329rXWwy4BxFvol6bEhYcGU6UAX-i6uNvHT50b04Kc",
+      "news_title": "Nejodvážnější look Emmy 2025: Jenna Ortega alias Wednesday",
+      "news_url": "https://www.novinky.cz/clanek/lifestyle-moda-kosmetika-saty-z-cen-emmy-2025-nejodvaznejsi-look-zvolila-jenna-ortega-alias-wednesday-40538847",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoqeO33HelDgew2B9s6dpUknHGHAe_3ppVz2vCW1hagDPY31kO_KJ7Jzan0gY",
       "traffic": "200++ hledání",
-      "source": "BBC",
+      "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=emmy 2025&geo=CZ"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "query": "jáchymovský potok",
-      "news_title": "Uhynula celá generace pstruhů na Karlovarsku po otravě potoka",
-      "news_url": "https://www.idnes.cz/karlovy-vary/zpravy/ekologie-havarie-jachymovsky-potok-ryby-uhyn-kontaminace-pala.A250915_100814_vary-zpravy_pkz",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyjmg3y3uFAajYVNkbe8tVMbVjqEjW1rV4Jp13ZkSKbOBVDVpvTpUy_M9ZOFo",
+      "news_title": "Znečištění Jáchymovského potoka: Hasiči varují před používáním vody",
+      "news_url": "https://www.irozhlas.cz/zpravy-domov/jachymovsky-potok-znecistila-neznama-latka-lide-nemeli-vodu-na-nic-pouzivat_2509141747_mkv",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2Hhr69h4s7l3lhvGzne9pooYKEgScjGvR4r_aBYtyq2HpbYIPpILtU7_Uvq8",
       "traffic": "200++ hledání",
-      "source": "iDNES.cz",
+      "source": "iROZHLAS",
       "explore_url": "https://trends.google.cz/trends/explore?q=jáchymovský potok&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "techmeme",
+      "news_title": "Tento ošklivý web řídí agendu šéfům Googlu i Mety",
+      "news_url": "https://cc.cz/je-to-web-ktery-urcuje-agendu-sefum-googlu-i-mety-a-pritom-je-osklivejsi-nez-vase-skolni-stranky/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2Qwr7RZZkOjONgAkhyg8fmsVaDpjOqC8zq-_IRil36uGSZjHYmVKvHFM7vU",
+      "traffic": "200++ hledání",
+      "source": "CzechCrunch",
+      "explore_url": "https://trends.google.cz/trends/explore?q=techmeme&geo=CZ"
     }
   ]
 }
