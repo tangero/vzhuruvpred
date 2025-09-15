@@ -1,50 +1,70 @@
 {
-  "updated": "2025-09-15T15:27:57.733848",
+  "updated": "2025-09-15T18:35:50.268576",
   "trends": [
     {
       "rank": 1,
-      "query": "owen cooper",
-      "news_title": "Emmys 2025: Adolescence, The Studio a The Pitt ovládli ceremoniál",
-      "news_url": "https://www.bbc.com/news/live/czdjl3ngd70t",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQipUyB4PQMgT9vmbq5nvLs1mOAMOehqBWBV4Dz_pyHfAKtVcUzwvPSYz9YRBo",
-      "traffic": "1000++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=owen cooper&geo=CZ"
-    },
-    {
-      "rank": 2,
-      "query": "ios 26",
-      "news_title": "iPhone 17 přinese revoluční Selfie kamery pod displejem",
-      "news_url": "https://www.apple.com/iphone-17/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsLTpch2bbbF_d50JHZinqUCTILc5B-xRw6W0mhnaar3P6LRntOX5iSQPG10",
-      "traffic": "1000++ hledání",
-      "source": "Apple",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ios 26&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "duplantis",
-      "news_title": "Armand Duplantis obhájil titul mistra světa a překonal světový rekord. K vítězství ho podnítil soupeř Emmanouil Karalis.",
-      "news_url": "https://www.lemonde.fr/sport/article/2025/09/15/armand-duplantis-ameliore-encore-son-record-du-monde-et-decroche-un-troisieme-titre-mondial-porte-par-la-concurrence-d-emmanouil-karalis_6641274_3242.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6rCQMuskV4xcVkJe5J4Ybs6RGNhx6HI6Gm3_cTKDV4tITarZE2ofQQ4FgaJo",
-      "traffic": "500++ hledání",
-      "source": "Le Monde.fr",
-      "explore_url": "https://trends.google.cz/trends/explore?q=duplantis&geo=CZ"
-    },
-    {
-      "rank": 4,
       "query": "opava – baník b",
-      "news_title": "ŽIVĚ: SFC Opava – Baník Ostrava B",
-      "news_url": "https://sport.ceskatelevize.cz/clanek/fotbal/2-liga/zive-druha-fotbalova-liga-sfc-opava-banik-ostrava-b/68c8220e04cd4bad8570d541",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUbKmhP7Xzx-GR0uy7qxb4NeoLFfk6-_1SXqPIqJDwgiPvPZ7aMKXr9goDt4Y",
-      "traffic": "200++ hledání",
-      "source": "ČT sport",
+      "news_title": "Opava porazila Ostravu 1:0, gól dal Ndiaye",
+      "news_url": "https://www.idnes.cz/fotbal/domaci-souteze/fotbalova-druha-liga-ostrava-opava.A250915_191959_fot_dsouteze_kazdt",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxU5Bbx4u9u3PgAw6tjimpeBFsTh8NzhaXL8R3mmF7NQJiX-v0nhzjWCDOn1Y",
+      "traffic": "1000++ hledání",
+      "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=opava – baník b&geo=CZ"
     },
     {
+      "rank": 2,
+      "query": "duplantis",
+      "news_title": "Švédský tyčkař Duplantis překonal vlastní světový rekord skokem 6,30 m",
+      "news_url": "https://www.lesoir.be/699112/article/2025-09-15/630-m-le-mondo-de-la-perche-continue-de-grandir",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToeZdRZJo73S949qaHZVR1yxARvg0-MO6z8V_s51OSGmnSE95yzvZvkWnWFEk",
+      "traffic": "1000++ hledání",
+      "source": "Le Soir",
+      "explore_url": "https://trends.google.cz/trends/explore?q=duplantis&geo=CZ"
+    },
+    {
+      "rank": 3,
+      "query": "owen cooper",
+      "news_title": "Emmy 2025: Nejdramatičtější seriál roku je The Pitt, nejlepší komedie The Studio",
+      "news_url": "https://www.nytimes.com/live/2025/09/14/arts/emmy-awards",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr0FFFRh1kM4MumKdo5VcnbOMxCeP0in19uyzcnNll7loJWy64EVx9eejEhhU",
+      "traffic": "1000++ hledání",
+      "source": "The New York Times",
+      "explore_url": "https://trends.google.cz/trends/explore?q=owen cooper&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "twitch",
+      "news_title": "Twitch zastavil platby v Keni. Co dál?",
+      "news_url": "https://www.pulselive.co.ke/articles/business/queenarrow-speaks-after-twitch-halted-monetisation-in-kenya-creators-are-weighing-options-2025091509275665849",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQo_GOLbg6wP9fp6If-U-oHNbjlcN02t354nT_z367LB35I1vEjh1cn-IJmVfo",
+      "traffic": "500++ hledání",
+      "source": "Pulselive Kenya",
+      "explore_url": "https://trends.google.cz/trends/explore?q=twitch&geo=CZ"
+    },
+    {
       "rank": 5,
+      "query": "petr koukal",
+      "news_title": "Soukalová vs. Koukal: Vrátit miliony a nemovitosti!",
+      "news_url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/821939/rozvodova-valka-soukalova-vs-koukal-musi-ji-vratit-miliony-a-take-nemovitosti.html",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqR1JqQTyeV4fN63Fvf9LUbOR3Yy4s_RmK_RYQj0s1APVwG2SvPxdm1JxQMUo",
+      "traffic": "500++ hledání",
+      "source": "Blesk",
+      "explore_url": "https://trends.google.cz/trends/explore?q=petr koukal&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "macos 26",
+      "news_title": "Apple vydává nový iOS, nezapomeňte si ho stáhnout",
+      "news_url": "https://www.idnes.cz/mobil/tech-trendy/ios26-system-iphony-nova-verze-stahujte.A250915_114207_mob_tech_oma",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi0ZFw_j4Bjzn82CLEz6nklCxruFGeikM4VnBarH6jR4VmD9nvn5clOmobrck",
+      "traffic": "200++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=macos 26&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "bmw",
-      "news_title": "Řidič BMW zadržen po nehodě, v níž zemřel úředník ministerstva financí",
+      "news_title": "Řidič BMW po nehodě s mrtvým úředníkem zatčen",
       "news_url": "https://www.ndtv.com/india-news/woman-who-killed-finance-ministry-official-with-bmw-arrested-from-hospital-9279491",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCh4ZBX4p5eTITh1dH9jKHamlogfIzZvwX2pnM3PFgAe4Q23-NXwVlmhdJekA",
       "traffic": "200++ hledání",
@@ -52,34 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=bmw&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "petr koukal",
-      "news_title": "Rozvod Soukalová vs. Koukal: Vracet miliony a nemovitosti",
-      "news_url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/821939/rozvodova-valka-soukalova-vs-koukal-musi-ji-vratit-miliony-a-take-nemovitosti.html",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqR1JqQTyeV4fN63Fvf9LUbOR3Yy4s_RmK_RYQj0s1APVwG2SvPxdm1JxQMUo",
-      "traffic": "200++ hledání",
-      "source": "Blesk",
-      "explore_url": "https://trends.google.cz/trends/explore?q=petr koukal&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "emmy 2025",
-      "news_title": "Owen Cooper: věk, původ a děkovná řeč",
-      "news_url": "https://www.bbc.co.uk/news/articles/cpw178d7yw2o",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3EQ-hxZ75rEox9HU5jZtWFroGge6bC7Owsa6XLqFKPMp4zFWVZWyphDqIQ8Q",
-      "traffic": "200++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=emmy 2025&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "jáchymovský potok",
-      "news_title": "Znečištění Jáchymovského potoka: Hasiči varují před používáním vody",
-      "news_url": "https://www.irozhlas.cz/zpravy-domov/jachymovsky-potok-znecistila-neznama-latka-lide-nemeli-vodu-na-nic-pouzivat_2509141747_mkv",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2Hhr69h4s7l3lhvGzne9pooYKEgScjGvR4r_aBYtyq2HpbYIPpILtU7_Uvq8",
+      "query": "emmy 2025",
+      "news_title": "Nejodvážnější look Emmy 2025: Jenna Ortega alias Wednesday",
+      "news_url": "https://www.novinky.cz/clanek/lifestyle-moda-kosmetika-saty-z-cen-emmy-2025-nejodvaznejsi-look-zvolila-jenna-ortega-alias-wednesday-40538847",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoqeO33HelDgew2B9s6dpUknHGHAe_3ppVz2vCW1hagDPY31kO_KJ7Jzan0gY",
       "traffic": "200++ hledání",
-      "source": "iROZHLAS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=jáchymovský potok&geo=CZ"
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=emmy 2025&geo=CZ"
     }
   ]
 }
