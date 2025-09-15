@@ -1,71 +1,115 @@
 {
-  "last_updated": "2025-09-15T14:18:40",
+  "last_updated": "2025-09-15T15:19:41",
   "articles": [
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Ricky Hatton je mrtvý: Šampion boxu byl nalezen mrtvý doma ve věku 46 let, příčina smrti není známa",
-      "original_title": "Ricky Hatton dead: Boxing champion found dead at home aged 46, cause of death unknown - latest updates - BBC",
-      "url": "https://www.bbc.com/news/live/c201x6891e8t",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/291b/live/ec78b890-916e-11f0-ad93-0969dd7e242d.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-14T14:26:15Z",
-      "description": "Ricky Hatton přezdívaný \"Hitman\" byl nalezen mrtvý ve svém domě v Manchesteru. Šestačtyřicetiletý boxer se měl v prosinci vrátit do ringu."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Střelba na Charlie Kirka: Guvernér Utahu Spencer Cox zveřejnil nové podrobnosti",
+      "original_title": "Charlie Kirk shooting: Utah Gov. Spencer Cox shares new details - CNBC",
+      "url": "https://www.cnbc.com/2025/09/14/charlie-kirk-shooting-utah-gov-cox-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197398-17575908412025-09-10t231633z_130351510_rc2apgacokou_rtrmadp_0_usa-utah-shooting-charlie-kirk.jpeg?v=1757590888&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-14T15:43:16Z",
+      "description": "Vyšetřovatelé stále pracují na zjištění motivu vraždy Charlie Kirka."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Historik Jon Meacham o politickém násilí a hrozbě pro americkou demokracii",
+      "title": "Co potřebujete vědět o událostech s únikem chemických látek v letadlech",
+      "original_title": "What You Need to Know About Fume Events on Airplanes - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/what-you-need-to-know-about-fume-events-on-airplanes-e79138c6",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-14T15:05:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "‚Hamnet‘ získává cenu diváků na Torontském filmovém festivalu, která předpovídá Oscary",
+      "original_title": "‘Hamnet’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award - Deadline",
+      "url": "http://deadline.com/2025/09/hamnet-toronto-film-festival-peoples-choice-award-1236530932/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/CZ_Hamnet_spread-17.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-14T15:00:00Z",
+      "description": "Hamnet získal cenu diváků na filmovém festivalu v Torontu 2025"
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Charli XCX a George Daniel se podruhé vzali na svatbě na Sicílii — s členem kapely Mattym Healym mezi hosty",
+      "original_title": "Charli xcx and George Daniel Marry for a Second Time During Sicily Wedding — with Bandmate Matty Healy in Attendance - AOL.com",
+      "url": "https://people.com/charli-xcx-george-daniel-marry-for-second-time-in-sicily-wedding-photos-8408314",
+      "urlToImage": "https://people.com/thmb/h9idEMJittqlsfp-4ZaUyTdc4eM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Charli-XCX-George-Daniel-wedding-091425-77589b882cd14cbfbbb9973170290cfa.jpg",
+      "source": "PEOPLE",
+      "publishedAt": "2025-09-14T14:05:42Z",
+      "description": "Charli XCX a George Daniel si řekli své druhé „ano“ 14. září"
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Rumunsko je druhou zemí NATO, která hlásí ruské drony ve svém vzdušném prostoru",
+      "original_title": "Romania becomes second Nato country to report Russian drones in airspace - BBC",
+      "url": "https://www.bbc.com/news/articles/c80g7g5rmlno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c439/live/a88b3800-9151-11f0-b391-6936825093bd.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-14T13:58:30Z",
+      "description": "Ukrajinský prezident Zelenskyj označil vpád za „zjevné rozšíření války ze strany Ruska“."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Historik Jon Meacham o politickém násilí a hrozbě pro americkou demokracii - cbsnews.com",
       "original_title": "Historian Jon Meacham on political violence and the threat to American democracy - cbsnews.com",
       "url": "https://www.cbsnews.com/news/historian-jon-meacham-on-political-violence-and-the-threat-to-american-democracy/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/14/aa837b5e-afce-4f0d-a06e-cbde9fe0403d/thumbnail/1200x630/15dbc1bfb2d67620fb210bb004a91324/jon-meacham-1280.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-14T13:31:20Z",
-      "description": "Vražda Charlie Kirka minulý týden navazuje na řadu násilných činů proti politickým cílům. Historik Jon Meacham hovoří o existenciálních otázkách, které nyní stojí před Amerikou."
+      "description": "Vražda Charlie Kirka minulý týden je další z řady násilných činů proti politickým cílům. Historik Jon Meacham hovoří o existenciálních otázkách, které nyní stojí před Amerikou."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Republikán McCaul nebude po 11 volebních obdobích znovu kandidovat",
-      "original_title": "Republican Rep. Michael McCaul won’t seek reelection after 11 terms - ABC News",
-      "url": "https://abcnews.go.com/Politics/republican-rep-michael-mccaul-wont-seek-reelection-after/story?id\\\\u003d125552752",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-14T13:07:30Z",
-      "description": ""
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Ministryně odsoudila výzvu Elona Muska Britům, aby ‚bojovali, nebo zemřeli‘",
-      "original_title": "Elon Musk call for Brits to ‘fight back or die’ denounced by minister - Financial Times",
-      "url": "https://www.ft.com/content/de9e83df-33bc-47f1-a833-f25fa66fba27",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d279323-d3d2-4ad2-8407-bec838113327.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-14T12:50:56Z",
-      "description": "Premiérovy komentáře následují po výzvě Elona Muska, aby Britové na pochodu organizovaném krajně pravicovým aktivistou „bojovali, nebo zemřeli“"
+      "title": "Podle ADL měl střelec z coloradské školy účet na stránce s „brutálním obsahem“ měsíce před útokem",
+      "original_title": "Colorado school teen shooter had an account on \"violent gore\" site months before shooting, ADL says - cbsnews.com",
+      "url": "https://www.cbsnews.com/news/colorado-school-shooter-violent-gore-site-adl/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/14/b0740b71-41a8-4d54-b0b7-4d8d37748c86/thumbnail/1200x630/5ae741704d198ddbe6319fface6e0894/gettyimages-2234949875.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-14T13:20:07Z",
+      "description": "Desmond Holly a několik dalších školních střelců z posledního roku byli aktivní na stejné webové stránce, uvádí ADL."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple má ještě 10 nových produktů v pipeline, zde je přehled toho, co nás čeká",
+      "title": "Po smrti Charlie Kirka se pracovníci dozvídají o limitech svobody projevu v zaměstnání i mimo něj",
+      "original_title": "After Charlie Kirk’s death, workers learn the limits of free speech in and out of their jobs - AP News",
+      "url": "https://apnews.com/article/charlie-kirk-workplace-speech-firing-29717a8612ccedebabc7cba29e7ef627",
+      "urlToImage": "https://dims.apnews.com/dims4/default/61a06de/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F02%2F9b%2F94430302657a506c040861355bbb%2F798609f793104c7dbff07323fb87d075",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-14T13:00:00Z",
+      "description": "Ve dnech po smrtelném zastřelení konzervativního aktivisty Charlieho Kirka přišla řada zaměstnanců kvůli svým komentářům o práci, mezi nimi i politický komentátor MSNBC Matthew Dowd. Nejedná se o p..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple má v zásobě ještě 10 nových produktů, zde je přehled toho, co přijde",
       "original_title": "Apple still has 10 more product launches in the pipeline, here’s what’s coming - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/14/apple-still-has-10-more-product-launches-in-the-pipeline-heres-whats-coming/",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/tim-cook-sjt-sep925.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-09-14T12:40:00Z",
-      "description": "Apple minulý týden ukončilo launch event iPhonu 17. Ačkoli šlo o nabitou (a neuvěřitelně rychle postupující) keynote,..."
+      "description": "Apple minulý týden ukončilo svou launchovací akci k iPhonu 17. Přestože šlo o nabitou (a neuvěřitelně rychle postupující) keynote,..."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Rumunsko je druhou zemí NATO, která hlásí ruský dron ve svém vzdušném prostoru",
-      "original_title": "Romania becomes second Nato country to report Russian drone in its airspace - BBC",
-      "url": "https://www.bbc.com/news/articles/c80g7g5rmlno",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c439/live/a88b3800-9151-11f0-b391-6936825093bd.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-14T12:07:42Z",
-      "description": "Ukrajinský prezident Zelenskyj označil vpád za „zjevné rozšiřování války ze strany Ruska“."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Po smrtících protestech vyzývá nový nepálský premiér ke klidu",
+      "original_title": "After deadly protests, Nepal’s new prime minister urges calm - Politico",
+      "url": "https://www.politico.com/news/2025/09/14/after-deadly-protests-nepals-new-prime-minister-urges-calm-00563168",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F5b%2F4c%2F74abcd3043c2b526d04e825117f8%2Fnepal-protest-64401.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-14T12:38:50Z",
+      "description": "Sushila Karková je první ženou v čele vlády v zemi."
     },
     {
       "flag": "🌍",
@@ -76,7 +120,7 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Installer-97.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-14T12:00:00Z",
-      "description": "iPhone 17, AirPods Pro 3, bezztrátový Spotify, Nikon ZR, streamování Jeopardy a další v novém čísle newsletteru Installer."
+      "description": "iPhone 17, AirPods Pro 3, Spotify v lossless kvalitě, Nikon ZR, streamování Jeopardy a další v novém čísle newsletteru Installer."
     },
     {
       "flag": "🌍",
@@ -92,35 +136,24 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trumpova snaha ovládnout Fed vyvolala politickou bouři",
+      "title": "Trumpova snaha o větší vliv na Fed vyvolala politickou bouři",
       "original_title": "Political turbulence engulfs the Fed as Trump pushes to assert control - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/09/14/federal-reserve-interest-rates-trump/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E5UUFYOCAW5JCZDWIR645XXTYE.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-14T11:31:42Z",
-      "description": "Agresivní kroky Donalda Trumpa k přetvoření Fedu se mohou výrazně projevit na tomto týdnu plánovaném zasedání americké centrální banky."
+      "description": "Agresivní kroky Donalda Trumpa k přetvoření Fedu se mohou výrazně projevit na tomto týdnu plánovaném zasedání o měnové politice."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak sledovat letošní udílení cen Emmy: čas začátku, moderátoři, kompletní seznam nominovaných a další",
-      "original_title": "How to watch the 2025 Emmys tonight: Start time, presenters, full nominee list and more - yahoo.com",
-      "url": "https://www.yahoo.com/entertainment/tv/article/how-to-watch-the-2025-emmys-tonight-start-time-presenters-full-nominee-list-and-more-181558446.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ttMzl3hdzjpy49LNY6Cw6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/5dec45a0-c212-11ef-b7dd-8702d6cc95f8",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-14T11:27:06Z",
-      "description": "Jste připraveni na 77. ročník předávání cen Emmy?"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Hypoteční sazby konečně klesají. Zde je důvod, proč se mohou měnit tak rychle.",
-      "original_title": "Mortgage Rates Are Finally Falling. Here’s Why They Can Move Fast. - The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/mortgage-rates-are-finally-falling-heres-why-they-can-move-fast-61fe57c4",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-14T11:00:00Z",
-      "description": ""
+      "title": "Musk volá po nové britské vládě na krajně pravicovém mítinku v Londýně",
+      "original_title": "Musk calls for new UK government at far-right rally in London - politico.eu",
+      "url": "https://www.politico.eu/article/musk-dissolve-uk-parliament-violence-far-rigth-rally-robinson-yaxley-lennon/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/14/london-far-right-rally-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-14T10:55:00Z",
+      "description": "„Bojujete, nebo zemřete,“ říká Musk přes videozáznamu na demonstraci organizované krajně pravicovým aktivistou Tommym Robinsonem."
     },
     {
       "flag": "🇺🇸",
@@ -131,117 +164,84 @@
       "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F63739792-e4a8-4612-bf01-0d8c855f3834.jpg?source=next-barrier-page",
       "source": "Financial Times",
       "publishedAt": "2025-09-14T10:43:47Z",
-      "description": "Americký ministr zahraničí bude jednat o válce v Gaze a snaze izraelských krajně pravicových ministrů o anexi částí Západního břehu"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Chcete pevnější kosti? Skočte si pro ně.",
-      "original_title": "Want stronger bones? Jumping exercises might help. - The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2025/09/14/jumping-bone-density-exercise/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QBD3EHHI6I5MSXINYPROIMRTNM.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-14T10:18:51Z",
-      "description": "Pro udržení nebo dokonce posílení kostí je třeba zatěžovat kostru dostatečnou silou."
+      "description": "Americký ministr zahraničí bude jednat o válce v Gaze a snaze izraelské krajní pravice anektovat části Západního břehu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Webbův teleskop pořídil svůj dosud nejlepší snímek – hvězdnatý vrcholek hory. Vesmírná fotografie týdne",
+      "title": "NASA oznamuje objev života na Marsu s vysokou mírou jistoty",
+      "original_title": "NASA announces discovery of life on Mars with high degree of confidence - Earth.com",
+      "url": "https://www.earth.com/news/nasa-announces-discovery-of-life-on-mars-with-high-degree-of-confidence/",
+      "urlToImage": "https://cff2.earth.com/uploads/2025/09/13180141/mars-life_olivine_leopard-spot_Cheyava-Falls_Perseverance-rover_NASA_1m.jpg",
+      "source": "Earth.com",
+      "publishedAt": "2025-09-14T10:26:43Z",
+      "description": "Marsovské vozítko NASA našlo v mudstonu organické signály připomínající mikrobiální aktivitu, což rozpoutalo novou debatu o životě na Rudé planetě."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Teleskop Jamese Webba pořídil svůj dosud nejlepší snímek — ‚hvězdnatý vrcholek hory‘ je vesmírnou fotkou týdne",
       "original_title": "James Webb telescope's 'starlit mountaintop' could be the observatory's best image yet — Space photo of the week - Live Science",
       "url": "https://www.livescience.com/space/astronomy/james-webb-telescopes-starlit-mountaintop-could-be-the-observatorys-best-image-yet-space-photo-of-the-week",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/nWWGtmv3JsN7wtHbMgKGLk.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-14T10:00:00Z",
-      "description": "Vesmírný teleskop Jamese Webba zachytil nově zrozené hvězdy, které v kupě Pismis 24 vyřezávají vrcholky z prachu a plynu."
+      "description": "Vesmírný teleskop Jamese Webba zachytil, jak v hvězdokupě Pismis 24 mladé hvězdy rýsují vrcholky z prachu a plynu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podivná závada na čerpadle paliva zapříčiňuje, že Corvetty za 100 000 dolarů vzplanou",
-      "original_title": "A Strange Gas-Pumping Defect Is Making $100,000 Corvettes Go Up in Flames - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/autos/a-strange-gas-pumping-defect-is-making-100-000-corvettes-go-up-in-flames-61d86797",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-14T09:30:00Z",
-      "description": ""
+      "title": "Prodeje iPhonu 17 mají v Číně silný start, zatímco uvedení iPhonu Air je blokováno - 9to5Mac",
+      "original_title": "iPhone 17 sales off to a strong start in China, while iPhone Air launch is blocked - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/14/iphone-17-sales-off-to-a-strong-chart/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-14T09:59:00Z",
+      "description": "iPhone 17 rezonuje u čínských spotřebitelů, předprodeje jsou zdánlivě silné"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nacistické Karen se snaží vyhodit kritiky Charlieho Kirka z práce v rámci cancel kultury",
-      "original_title": "'Nazi Karens' Go Full Cancel Culture on Charlie Kirk Critics By Trying to Get Them Fired - The Daily Beast",
-      "url": "https://www.thedailybeast.com/maga-karens-go-full-cancel-culture-on-charlie-kirk-critics-by-trying-to-get-them-fired/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/2Z373AV3AFGEBEAYC53Z4MMI6U.jpg?smart=true&auth=6e68a1be41ed52646e746c61ad67ccac85759cc52b38f71aced03a5fdd1fbe00&width=1200&height=630",
-      "source": "Daily Beast",
-      "publishedAt": "2025-09-14T06:45:00Z",
-      "description": "Pozůstalí fanoušci zavražděného pravicového aktivisty se snaží vyhodit z práce každého, kdo na něj kriticky promluví."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zach Bryan zřejmě přelezl plot, aby konfrontoval Gavina Adcocka na festivalu v Oklahomě",
-      "original_title": "Zach Bryan Appears to Scale Fence to Confront Gavin Adcock at Oklahoma Festival - Rolling Stone",
-      "url": "http://www.rollingstone.com/music/music-country/zach-bryan-confronts-gavin-adcock-born-and-raised-festival-1235426956/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/GettyImages-2222801671-2.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-14T02:58:36Z",
-      "description": "Zach Bryan údajně přelezl plot na festivalu Born and Raised v Oklahomě, aby konfrontoval Gavina Adcocka, který tohoto zpěváka veřejně kritizoval."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "V kolik hodin vydá Apple 15. září iOS 26, iPadOS 26 a watchOS 26 ve vašem časovém pásmu?",
-      "original_title": "What time will Apple release iOS 26, iPadOS 26 and watchOS 26 on September 15 in your time zone? - Cult of Mac",
-      "url": "https://www.cultofmac.com/news/ios-26-ipados-26-watchos-26-release-time",
-      "urlToImage": "https://cdn.cultofmac.com/wp-content/uploads/2025/09/ios-26-release-time.jpg.webp",
-      "source": "Cult of Mac",
-      "publishedAt": "2025-09-13T20:55:49Z",
-      "description": "Nejnovější aktualizace od Applu, iOS 26, iPadOS 26, watchOS 26 a macOS Tahoe, dorazí 15. září. Zjistěte, kdy se objeví na vašem zařízení."
+      "title": "Historie vědy: Zachyceny gravitační vlony, Einstein měl pravdu — 14. září 2015",
+      "original_title": "Science history: Gravitational waves detected, proving Einstein right — Sept. 14, 2015 - Live Science",
+      "url": "https://www.livescience.com/space/black-holes/science-history-gravitational-waves-detected-proving-einstein-right-sept-14-2015",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CCjVAaAcbDLbVsWARWWGoh.gif",
+      "source": "Live Science",
+      "publishedAt": "2025-09-14T09:51:00Z",
+      "description": "Když observatoř LIGO poprvé v dějinách vědy zachytila gravitační vlny ze srážky dvou černých děr, odstartovala tím zcela novou éru astronomie."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "„Je to nepřijatelné“: Rostoucí obavy z Patelova vedení FBI",
-      "original_title": "‘It’s unacceptable’: Inside growing concerns about Patel’s FBI leadership - CNN",
-      "url": "https://www.cnn.com/2025/09/13/politics/kash-patel-fbi-leadership-concerns",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-12t142332z-166211912-rc2eqgatchu1-rtrmadp-3-usa-shooting-kirk-20250912233512500.JPG?c=16x9&q=w_800,c_fill",
+      "title": "O vraždě Charlieho Kirka zůstávají klíčové otázky, i když se oznámil památník. Zde je to, co víme.",
+      "original_title": "Key questions remain about Charlie Kirk’s assassination as his memorial is announced. Here’s what we know - CNN",
+      "url": "https://www.cnn.com/2025/09/14/us/charlie-erika-kirk-tribute-vigils",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2234552030.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2025-09-13T19:59:39Z",
-      "description": "Ředitel FBI Kash Patel na páteční tiskové konferenci v Utahu bez otálení vysvětlil, co vedlo k dopadení podezřelého z vraždy konzervativního aktivisty Charlieho Kirka."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Trump je připraven uvalit na Rusko sankce, pokud země NATO přestanou kupovat jeho ropu",
-      "original_title": "Trump 'ready' to sanction Russia if Nato nations stop buying its oil - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EXzRqdVRMenI5X3pEazh1WXJnN2RhNVJXNVNIZUpHb0RoSVRKVWNiX244QmpkTmFod2tzaWYzUWF0dVZOdVF0THZHZldXS29UbGcyRWc0WTlyZ9IBX0FVX3lxTE41TVlWek9veUQwYmdldVA4c0xCcW5GZkdHZHdMclZwcEhwbHRUR0hCbERRd2l0ZXRJM1VpX1dwaW1QT2gxaWo5d2VhdG8tY2wzQ0h2OEtvYWhBUGh5ZjN3?oc=5",
-      "urlToImage": null,
-      "source": "Google News",
-      "publishedAt": "2025-09-13T19:46:49Z",
-      "description": ""
+      "publishedAt": "2025-09-14T08:00:05Z",
+      "description": "Sportovní stadion v Arizoně se chystá hostit masivní památník pro Charlie Kirka, zatímco vyšetřovatelé procházejí online zprávy a ryté nábojnice v pátrání po motivu střelby, která zabila jednoho z ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Režisér dokumentu ‚Aka Charlie Sheen‘ o hereckých šokujících odhaleních, neúčasti rodiny a o tom, jak dealer pomohl hvězdě ‚Dva a půl chlapa‘ skoncovat s crackem",
-      "original_title": "‘Aka Charlie Sheen’ Director On Actor’s Crazy Revelations, Why Family Didn’t Participate & How Drug Dealer Helped ‘2.5 Men’ Star Get Off Crack - Deadline",
-      "url": "http://deadline.com/2025/09/aka-charlie-sheen-director-explains-documentary-revelations-1236530783/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-2233775235.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-13T17:41:00Z",
-      "description": "Režisér dokumentu ‚Aka Charlie Sheen‘ o hereckých šokujících odhaleních, neúčasti rodiny a o tom, jak mu dealer pomohl přestat s crackem"
+      "title": "Čína před obchodními jednáními v Madridu zahájila vyšetřování zaměřená na americké polovodiče",
+      "original_title": "China launches probes targeting US semiconductors ahead of Madrid trade talks - AP News",
+      "url": "https://apnews.com/article/china-us-semiconductors-trade-investigations-madrid-fae364b02c32da4e37b645046a3c17db",
+      "urlToImage": "https://dims.apnews.com/dims4/default/30a43fb/2147483647/strip/true/crop/5360x3015+0+279/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F40%2Fb172868a732c6a8b59f5792e58c5%2F2b6f628e3fc14f08a7b80797c07d5fce",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-14T05:47:00Z",
+      "description": "Čína před obchodními jednáními ve Španělsku zahájila dvě vyšetřování namířená proti americkému sektoru polovodičů"
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ruská loď Progress dorazila k ISS s 2,8 tunami nákladu",
-      "original_title": "Russian Progress spacecraft arrives at the ISS with 2.8 tons of cargo - Space",
-      "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-93-spacecraft-arrives-international-space-station",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zstZv5S4Nm7Hjf4PHffgQm.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-13T17:37:06Z",
-      "description": "Nákladní loď Progress 93 odstartovala ve čtvrtek (11. září)."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "‚Čína nechystá války‘, reaguje ministr zahraničí Wang I na Trumpovo hrozbu 100% clem | Světové zprávy",
+      "original_title": "‘China doesn’t plot wars’: Foreign minister Wang Yi reacts to Trump's 100% tariff threat | World News - Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/china-doesn-t-plot-wars-foreign-minister-wang-yi-reacts-to-donald-trump-100-tariff-threat-101757821169160.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/14/1600x900/Slovenia-China-3_1757822619550_1757822653478.jpg",
+      "source": "Hindustan Times",
+      "publishedAt": "2025-09-14T04:11:54Z",
+      "description": "USA uvalily clo na Indii za nákup ruské ropy, Čínu však nepotrestaly, přestože Rusko považuje za blízkého strategického spojence. | Světové zprávy"
     },
     {
       "flag": "🌍",
@@ -256,47 +256,47 @@
     },
     {
       "flag": "🌍",
-      "country": "fr",
-      "title": "Apple v Číně láme rekordy s vysokým počtem předobjednávek iPhonu 17",
-      "original_title": "Apple breaks records in China with high iPhone 17 preorders - AppleInsider",
-      "url": "https://appleinsider.com/articles/25/09/13/apple-breaks-records-in-china-with-high-iphone-17-preorders",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65098-135891-iPhone-17-Pro-Max-display-xl.jpg",
-      "source": "AppleInsider",
-      "publishedAt": "2025-09-13T14:18:13Z",
-      "description": "Spuštění iPhonu 17 je v Číně obrovským úspěchem, předprodeje nových modelů lámaly prodejní rekordy na tomto obvykle turbulentním trhu."
+      "country": "global",
+      "title": "Jak mladá maminka po diagnóze nevyléčitelné rakoviny „žije, nejen přežívá“",
+      "original_title": "How a young mom is \"living, not just surviving\" after incurable cancer diagnosis - CBS News",
+      "url": "https://www.cbsnews.com/news/elissa-kalver-her2-positive-metastatic-breast-cancer-memorial-sloan-kettering-ucla/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/10/5169254d-a710-40d4-a9b6-309abacf8010/thumbnail/1200x630/1e19dedb113799d19299fad3574c12c2/screenshot-2025-09-10-at-3-01-08-pm.png",
+      "source": "CBS News",
+      "publishedAt": "2025-09-13T12:00:08Z",
+      "description": "Elisse Kalverové diagnostikovali ve 34 letech metastazující karcinom prsu s pozitivitou HER2. Od té doby založila neziskovou organizaci a usilovně žije naplno."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Chcete se nechat očkovat proti covidu? Tady je několik důležitých informací",
+      "title": "Chcete se nechat očkovat proti covidu? Tady je to, co potřebujete vědět",
       "original_title": "Trying to get a COVID vaccine right now? Here's what to know - NPR",
       "url": "https://www.npr.org/2025/09/13/nx-s1-5540088/covid-vaccine-2025-cdc-fda-guidelines",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F35%2F9131809442e4834487ca20c6a6f0%2Fgettyimages-1720991107.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-13T11:00:00Z",
-      "description": "Pokud nejste starší 65 let nebo nemáte určité rizikové faktory, může být obtížné vakcínu získat, ale ne nutně nemožné. Zde je to, co je třeba vědět o matoucích a rychle se měnících pravidlech pro j..."
+      "description": "Pokud nejste starší 65 let nebo nemáte určité rizikové faktory, může být obtížné vakcínu získat, ale ne nutně nemožné. Zde je přehled matoucích a rychle se měnících pravidel pro její získání."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vědecké novinky tohoto týdne: NASA našla nejlepší důkazy života na Marsu a vědci vytvořili viditelné časové krystaly",
-      "original_title": "Science news this week: NASA finds best evidence of life on Mars and and scientists invent visible time crystals - Live Science",
-      "url": "https://www.livescience.com/health/surgery/science-news-this-week-nasa-finds-best-evidence-of-life-on-mars-and-and-scientists-invent-visible-time-crystals",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PJiDHoNw5dPaUobfbybvaA.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-13T04:00:00Z",
-      "description": "13. září 2025: Přehled nejnovějších vědeckých zpráv za uplynulý týden a pár zajímavých článků na víkend."
+      "title": "Zpočátku jsem byl k technologii Dolby Vision 2 velmi skeptický, ale čím více se o ní dozvídám, tím více si myslím, že by mohla být skvělá",
+      "original_title": "I was very sceptical of Dolby Vision 2 at first, but the more I learn about it, the more I think it could be great - What Hi-Fi?",
+      "url": "https://www.whathifi.com/tv-home-cinema/dolby-vision-2-might-finally-solve-one-of-home-cinemas-biggest-problems",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sravZYf4V9Dveua2ciPSbK.jpg",
+      "source": "What Hi-Fi? US",
+      "publishedAt": "2025-09-13T06:00:00Z",
+      "description": "Jít s dobou"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "„Bolestná připomínka“: Dítě v Kalifornii zemřelo na vzácnou komplikaci spalniček",
+      "title": "„Bolestivá připomínka“: Kalifornské dítě zemřelo na vzácnou komplikaci spalniček",
       "original_title": "'A painful reminder': California child dies of rare measles complication - SFGATE",
       "url": "https://www.sfgate.com/bayarea/article/california-child-dies-measles-complication-21045056.php",
       "urlToImage": "https://s.hdnux.com/photos/01/54/42/06/28451204/3/rawImage.jpg",
       "source": "SFGate",
       "publishedAt": "2025-09-12T18:44:48Z",
-      "description": "Poté, co byly spalničky v roce 2000 v USA prohlášeny za vymýcené, úmrtí na tuto nemoc se stala velmi vzácnými."
+      "description": "Poté, co byly spalničky v roce 2000 v USA prohlášeny za eliminované, úmrtí na tuto nemoc se stala extrémně vzácnými."
     }
   ]
 }
