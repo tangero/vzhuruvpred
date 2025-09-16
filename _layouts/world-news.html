@@ -19,8 +19,19 @@ layout: default
                 {% for article in site.data.world_news.articles limit:20 %}
                 <article class="world-news-item">
                     {% if article.urlToImage %}
-                    <div class="news-image">
-                        <img src="{{ article.urlToImage }}" alt="{{ article.title }}" loading="lazy">
+                    <div class="news-image" data-fallback-flag="{{ article.flag | default: '📰' }}" data-fallback-description="{{ article.description | default: '' }}" data-fallback-source="{{ article.source | default: 'Světové zprávy' }}">
+                        <img src="{{ article.urlToImage }}" alt="{{ article.title }}" loading="lazy" onerror="handleImageError(this)">
+                    </div>
+                    {% else %}
+                    <div class="news-image news-placeholder">
+                        <div class="news-placeholder-content">
+                            <span class="news-placeholder-icon">{{ article.flag | default: "📰" }}</span>
+                            {% if article.description and article.description != "" %}
+                            <p class="news-placeholder-text">{{ article.description | truncate: 120 }}</p>
+                            {% else %}
+                            <p class="news-placeholder-text">{{ article.source | default: "Světové zprávy" }}</p>
+                            {% endif %}
+                        </div>
                     </div>
                     {% endif %}
                     
@@ -67,3 +78,29 @@ layout: default
         </div>
     </div>
 </div>
+
+<script>
+function handleImageError(img) {
+    const container = img.parentNode;
+    const flag = container.dataset.fallbackFlag || '📰';
+    const description = container.dataset.fallbackDescription;
+    const source = container.dataset.fallbackSource || 'Světové zprávy';
+    
+    // Rozhodni, co zobrazit - description nebo source
+    let fallbackText = source;
+    if (description && description.trim() !== '') {
+        fallbackText = description.length > 120 ? description.substring(0, 120) + '...' : description;
+    }
+    
+    // Nahraď obsah placeholderem
+    container.innerHTML = `
+        <div class="news-placeholder-content">
+            <span class="news-placeholder-icon">${flag}</span>
+            <p class="news-placeholder-text">${fallbackText}</p>
+        </div>
+    `;
+    
+    // Přidej CSS třídu pro styling
+    container.classList.add('news-placeholder');
+}
+</script>

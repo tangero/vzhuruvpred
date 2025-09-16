@@ -2,7 +2,17 @@
 title: "Vzhůru vpřed"
 description: "Nezávislý a progresivní zpravodajský portál zaměřený na společnost, politiku a moderní měnící se svět"
 baseurl: ""
-url: ""
+url: "https://vzhuruavpred.cz"  # Production URL for SEO
+
+# SEO Configuration
+logo: "/assets/images/logo.png"  # Site logo for structured data
+twitter:
+  username: vzhuruavpred  # Twitter handle for cards
+  card: summary_large_image
+facebook:
+  app_id: ""  # Facebook App ID (optional)
+  publisher: "https://facebook.com/vzhuruavpred"  # Facebook page URL
+  admins: ""  # Facebook admin IDs (optional)
 
 # Build settings
 markdown: kramdown
@@ -28,11 +38,13 @@ defaults:
     values:
       layout: "post"
       author: "Redakce"
+      image: "/assets/images/default-article.jpg"  # Default OG image for posts
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
+      image: "/assets/images/default-page.jpg"  # Default OG image for pages
 
 # Exclude from processing
 exclude:
@@ -49,6 +61,105 @@ exclude:
 lang: cs
 timezone: Europe/Prague
 future: true
+
+# SEO and Analytics
+google_analytics: ""  # Add Google Analytics ID when ready
+google_site_verification: ""  # Add Google Search Console verification
+bing_site_verification: ""  # Add Bing Webmaster verification
+
+# Additional SEO settings
+tagline: "Nezávislé zpravodajství pro svobodné občany"
+keywords: "zpravodajství, politika, společnost, česká republika, nezávislé noviny, progresivní, pirátské"
+
+# Weather Configuration
+weather:
+  enabled: true
+  api_url: "https://api.open-meteo.com/v1"
+  default_location:
+    name: "Praha"
+    latitude: 50.0755
+    longitude: 14.4378
+  cities:
+    - name: "Praha"
+      latitude: 50.0755
+      longitude: 14.4378
+    - name: "Brno" 
+      latitude: 49.1951
+      longitude: 16.6068
+    - name: "Ostrava"
+      latitude: 49.8209
+      longitude: 18.2625
+    - name: "Plzeň"
+      latitude: 49.7384
+      longitude: 13.3736
+    - name: "Liberec"
+      latitude: 50.7663
+      longitude: 15.0561
+    - name: "Olomouc"
+      latitude: 49.5938
+      longitude: 17.2509
+    - name: "Ústí nad Labem"
+      latitude: 50.6607
+      longitude: 14.0322
+    - name: "České Budějovice"
+      latitude: 48.9744
+      longitude: 14.4743
+    - name: "Hradec Králové"
+      latitude: 50.2103
+      longitude: 15.8327
+    - name: "Pardubice"
+      latitude: 50.0343
+      longitude: 15.7812
+    - name: "Zlín"
+      latitude: 49.2265
+      longitude: 17.6667
+    - name: "Kladno"
+      latitude: 50.1476
+      longitude: 14.1031
+    - name: "Most"
+      latitude: 50.5034
+      longitude: 13.6361
+    - name: "Karviná"
+      latitude: 49.8538
+      longitude: 18.5497
+    - name: "Frýdek-Místek"
+      latitude: 49.6835
+      longitude: 18.3484
+    - name: "Opava"
+      latitude: 49.9387
+      longitude: 17.9026
+    - name: "Děčín"
+      latitude: 50.7820
+      longitude: 14.2151
+    - name: "Teplice"
+      latitude: 50.6404
+      longitude: 13.8249
+    - name: "Chomutov"
+      latitude: 50.4607
+      longitude: 13.4178
+    - name: "Jihlava"
+      latitude: 49.3961
+      longitude: 15.5910
+    - name: "Přerov"
+      latitude: 49.4551
+      longitude: 17.4510
+    - name: "Jablonec nad Nisou"
+      latitude: 50.7242
+      longitude: 15.1712
+    - name: "Mladá Boleslav"
+      latitude: 50.4113
+      longitude: 14.9034
+    - name: "Prostějov"
+      latitude: 49.4719
+      longitude: 17.1119
+    - name: "Třebíč"
+      latitude: 49.2146
+      longitude: 15.8819
+    - name: "Brandýs nad Labem - Stará Boleslav"
+      latitude: 50.1865
+      longitude: 14.6634
+  update_interval: 1800000  # 30 minutes in milliseconds
+  cache_duration: 3600000   # 1 hour cache in localStorage
 
 # Navigation
 navigation:
@@ -74,3 +185,20 @@ social:
   instagram: "#"
   youtube: "#"
   github: "#"
+
+# Contact information
+contact:
+  email: "ahoj@vzhuruavpred.cz"
+  phone: "+420 123 456 789"
+  signal: "+420 123 456 789"
+  matrix: "@news:piraten.chat"
+  pgp_key: "https://keybase.io/vzhuruavpred/pgp_keys.asc"
+  address: "Praha, Česká republika"
+  office_hours: "Po-Pá 9:00-17:00"
+
+# Footer configuration
+footer:
+  copyright_text: "Obsah pod Creative Commons licencí."
+  encrypted_note: "Šifrované zprávy vítány 🔐"
+  license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
+  source_code_url: "https://github.com/tangero/vzhuruvpred"

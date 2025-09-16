@@ -1,0 +1,612 @@
+{% comment %}
+Weather Widget Component
+Uses Open-Meteo API for free weather data without API key
+{% endcomment %}
+
+{% if site.weather.enabled %}
+<div class="weather-widget" id="weather-widget">
+    <div class="weather-header">
+        <h3 class="weather-title">
+            <span class="weather-icon">🌤️</span>
+            Počasí
+        </h3>
+        <select class="weather-city-select" id="weather-city-select">
+            {% for city in site.weather.cities %}
+            <option value="{{ city.latitude }},{{ city.longitude }}" {% if city.name == site.weather.default_location.name %}selected{% endif %}>
+                {{ city.name }}
+            </option>
+            {% endfor %}
+        </select>
+    </div>
+    
+    <div class="weather-content" id="weather-content">
+        <div class="weather-loading">
+            <div class="weather-spinner"></div>
+            <span>Načítání...</span>
+        </div>
+    </div>
+    
+    <div class="weather-error" id="weather-error" style="display: none;">
+        <span class="weather-error-icon">⚠️</span>
+        <span class="weather-error-text">Nepodařilo se načíst počasí</span>
+        <button class="weather-retry-btn" onclick="loadWeatherData()">Zkusit znovu</button>
+    </div>
+    
+    <div class="weather-updated" id="weather-updated" style="display: none;">
+        <small>Aktualizováno: <span id="weather-last-update"></span></small>
+    </div>
+    
+    <div class="weather-detection-info" id="weather-detection-info" style="display: none;">
+        <small class="weather-detection-text">
+            <span class="weather-detection-icon">📍</span>
+            <span id="weather-detection-message"></span>
+        </small>
+    </div>
+</div>
+
+<script>
+// Weather Widget Configuration
+const WEATHER_CONFIG = {
+    apiUrl: "{{ site.weather.api_url }}",
+    defaultLocation: {
+        name: "{{ site.weather.default_location.name }}",
+        latitude: {{ site.weather.default_location.latitude }},
+        longitude: {{ site.weather.default_location.longitude }}
+    },
+    updateInterval: {{ site.weather.update_interval }},
+    cacheDuration: {{ site.weather.cache_duration }}
+};
+
+// Weather icons mapping
+const WEATHER_ICONS = {
+    0: '☀️',   // Clear sky
+    1: '🌤️',   // Mainly clear
+    2: '⛅',   // Partly cloudy
+    3: '☁️',   // Overcast
+    45: '🌫️',  // Fog
+    48: '🌫️',  // Depositing rime fog
+    51: '🌦️',  // Light drizzle
+    53: '🌦️',  // Moderate drizzle
+    55: '🌧️',  // Dense drizzle
+    56: '🌧️',  // Light freezing drizzle
+    57: '🌧️',  // Dense freezing drizzle
+    61: '🌧️',  // Slight rain
+    63: '🌧️',  // Moderate rain
+    65: '🌧️',  // Heavy rain
+    66: '🌧️',  // Light freezing rain
+    67: '🌧️',  // Heavy freezing rain
+    71: '🌨️',  // Slight snow fall
+    73: '🌨️',  // Moderate snow fall
+    75: '❄️',   // Heavy snow fall
+    77: '❄️',   // Snow grains
+    80: '🌦️',  // Slight rain showers
+    81: '🌧️',  // Moderate rain showers
+    82: '🌧️',  // Violent rain showers
+    85: '🌨️',  // Slight snow showers
+    86: '❄️',   // Heavy snow showers
+    95: '⛈️',   // Thunderstorm
+    96: '⛈️',   // Thunderstorm with slight hail
+    99: '⛈️'    // Thunderstorm with heavy hail
+};
+
+// Weather descriptions in Czech
+const WEATHER_DESCRIPTIONS = {
+    0: 'Jasno',
+    1: 'Převážně jasno',
+    2: 'Částečně oblačno',
+    3: 'Zataženo',
+    45: 'Mlha',
+    48: 'Námraza',
+    51: 'Slabé mrholení',
+    53: 'Mírné mrholení',
+    55: 'Husté mrholení',
+    56: 'Slabé mrznoucí mrholení',
+    57: 'Husté mrznoucí mrholení',
+    61: 'Slabý déšť',
+    63: 'Mírný déšť',
+    65: 'Silný déšť',
+    66: 'Slabý mrznoucí déšť',
+    67: 'Silný mrznoucí déšť',
+    71: 'Slabé sněžení',
+    73: 'Mírné sněžení',
+    75: 'Silné sněžení',
+    77: 'Sněhové zrno',
+    80: 'Slabé přeháňky',
+    81: 'Mírné přeháňky',
+    82: 'Silné přeháňky',
+    85: 'Slabé sněhové přeháňky',
+    86: 'Silné sněhové přeháňky',
+    95: 'Bouřka',
+    96: 'Bouřka s krupobitím',
+    99: 'Bouřka se silným krupobitím'
+};
+
+// Activity recommendations based on weather conditions
+function getActivityRecommendation(weatherCode, temperature, humidity, windSpeed) {
+    let score = 0;
+    let activity = '';
+    let reason = '';
+    
+    // Temperature scoring (ideal for programming: 18-24°C)
+    if (temperature >= 18 && temperature <= 24) {
+        score += 2;
+    } else if (temperature < 10 || temperature > 30) {
+        score -= 2;
+    } else {
+        score -= 1;
+    }
+    
+    // Weather condition scoring
+    const badWeatherCodes = [61, 63, 65, 66, 67, 71, 73, 75, 80, 81, 82, 85, 86, 95, 96, 99];
+    const goodWeatherCodes = [0, 1];
+    const okWeatherCodes = [2, 3, 45, 48, 51, 53, 55, 56, 57, 77];
+    
+    if (badWeatherCodes.includes(weatherCode)) {
+        score += 2; // Bad weather = good for programming
+    } else if (goodWeatherCodes.includes(weatherCode) && temperature >= 15 && temperature <= 28) {
+        score -= 2; // Beautiful weather = go outside
+    } else if (okWeatherCodes.includes(weatherCode)) {
+        score += 1;
+    }
+    
+    // Wind factor
+    if (windSpeed > 25) {
+        score += 1; // Windy = stay inside
+    }
+    
+    // Humidity factor
+    if (humidity > 80) {
+        score += 1; // High humidity = stay inside
+    } else if (humidity < 40) {
+        score -= 1; // Low humidity = nice outside
+    }
+    
+    // Determine recommendation
+    if (score >= 2) {
+        activity = '💻 Ideální pro programování!';
+        const reasons = [];
+        if (temperature >= 18 && temperature <= 24) reasons.push('příjemná teplota');
+        if (badWeatherCodes.includes(weatherCode)) reasons.push('špatné počasí venku');
+        if (humidity > 80) reasons.push('vysoká vlhkost');
+        if (windSpeed > 25) reasons.push('silný vítr');
+        
+        reason = reasons.length > 0 ? `${reasons.join(', ')}` : 'podmínky příznivé pro práci u počítače';
+    } else if (score <= -1) {
+        activity = '🌿 Čas jít ven!';
+        const reasons = [];
+        if (goodWeatherCodes.includes(weatherCode)) reasons.push('krásné počasí');
+        if (temperature >= 15 && temperature <= 28) reasons.push('příjemná teplota');
+        if (humidity < 40) reasons.push('nízká vlhkost');
+        
+        reason = reasons.length > 0 ? `${reasons.join(', ')}` : 'příznivé podmínky pro venkovní aktivity';
+    } else {
+        activity = '⚖️ Neutrální podmínky';
+        reason = 'ani výrazně pro coding, ani pro venkovní aktivity';
+    }
+    
+    return { activity, reason };
+}
+
+// Initialize weather widget on page load
+document.addEventListener('DOMContentLoaded', function() {
+    initWeatherWidget();
+});
+
+function initWeatherWidget() {
+    // Set up city selector change event
+    const citySelect = document.getElementById('weather-city-select');
+    if (citySelect) {
+        citySelect.addEventListener('change', function() {
+            const [lat, lon] = this.value.split(',');
+            const cityName = this.options[this.selectedIndex].text;
+            
+            // Save user selection to localStorage
+            savePreferredCity(cityName, parseFloat(lat), parseFloat(lon));
+            showDetectionInfo(`Ručně zvoleno město: ${cityName}`, 'manual');
+            loadWeatherData(parseFloat(lat), parseFloat(lon), cityName);
+        });
+    }
+    
+    // Smart city detection or load from localStorage
+    initializeLocation();
+    
+    // Set up automatic updates
+    setInterval(() => {
+        const location = getStoredLocation();
+        if (location) {
+            loadWeatherData(location.latitude, location.longitude, location.name);
+        } else {
+            loadWeatherData();
+        }
+    }, WEATHER_CONFIG.updateInterval);
+}
+
+function initializeLocation() {
+    const storedLocation = getStoredLocation();
+    
+    if (storedLocation) {
+        // User has visited before, use stored location
+        console.log('Using stored location:', storedLocation.name);
+        showDetectionInfo(`Použito uložené město: ${storedLocation.name}`, 'stored');
+        setSelectedCity(storedLocation.name, storedLocation.latitude, storedLocation.longitude);
+        loadWeatherData(storedLocation.latitude, storedLocation.longitude, storedLocation.name);
+    } else {
+        // First visit, try to detect location
+        console.log('First visit - attempting location detection');
+        showDetectionInfo('Detekuji polohu...', 'detecting');
+        detectUserLocation();
+    }
+}
+
+async function detectUserLocation() {
+    try {
+        // Try GeoIP detection using ipapi.co (free, no API key needed)
+        const response = await fetch('https://ipapi.co/json/');
+        
+        if (!response.ok) {
+            throw new Error('GeoIP service unavailable');
+        }
+        
+        const data = await response.json();
+        console.log('GeoIP data:', data); // Debug log
+        
+        // Check if we got a city in Czech Republic or Slovakia (our supported regions)
+        if (data.country_code === 'CZ' || data.country_code === 'SK') {
+            const detectedCity = findNearestSupportedCity(data.latitude, data.longitude, data.city);
+            
+            if (detectedCity) {
+                const isExactMatch = detectedCity.name.toLowerCase() === data.city.toLowerCase();
+                const message = isExactMatch 
+                    ? `Detekováno GeoIP: ${data.city} (${data.country_code})`
+                    : `GeoIP: ${data.city} → nejbližší: ${detectedCity.name} (${data.country_code})`;
+                
+                console.log('Detected location:', detectedCity.name, 'from GeoIP:', data.city);
+                showDetectionInfo(message, 'success');
+                savePreferredCity(detectedCity.name, detectedCity.latitude, detectedCity.longitude);
+                setSelectedCity(detectedCity.name, detectedCity.latitude, detectedCity.longitude);
+                loadWeatherData(detectedCity.latitude, detectedCity.longitude, detectedCity.name);
+                return;
+            } else {
+                throw new Error(`City ${data.city} not in supported list, distance > 100km`);
+            }
+        } else {
+            throw new Error(`Unsupported country: ${data.country_name} (${data.country_code})`);
+        }
+        
+    } catch (error) {
+        console.log('Location detection failed, using Prague as default:', error.message);
+        showDetectionInfo(`Detekce selhala (${error.message}), použita Praha`, 'fallback');
+        
+        // Fallback to Prague
+        const prague = { name: 'Praha', latitude: 50.0755, longitude: 14.4378 };
+        savePreferredCity(prague.name, prague.latitude, prague.longitude);
+        setSelectedCity(prague.name, prague.latitude, prague.longitude);
+        loadWeatherData(prague.latitude, prague.longitude, prague.name);
+    }
+}
+
+function findNearestSupportedCity(lat, lon, cityName) {
+    // Get cities from the config
+    const cities = {{ site.weather.cities | jsonify }};
+    
+    // First try exact city name match
+    const exactMatch = cities.find(city => 
+        city.name.toLowerCase() === cityName.toLowerCase() ||
+        city.name.toLowerCase().includes(cityName.toLowerCase()) ||
+        cityName.toLowerCase().includes(city.name.toLowerCase())
+    );
+    
+    if (exactMatch) {
+        return exactMatch;
+    }
+    
+    // Find nearest city by distance
+    let nearestCity = cities[0];
+    let minDistance = getDistance(lat, lon, cities[0].latitude, cities[0].longitude);
+    
+    for (let i = 1; i < cities.length; i++) {
+        const distance = getDistance(lat, lon, cities[i].latitude, cities[i].longitude);
+        if (distance < minDistance) {
+            minDistance = distance;
+            nearestCity = cities[i];
+        }
+    }
+    
+    // Only return if reasonably close (within 100km)
+    return minDistance <= 100 ? nearestCity : null;
+}
+
+function getDistance(lat1, lon1, lat2, lon2) {
+    const R = 6371; // Earth's radius in km
+    const dLat = (lat2 - lat1) * Math.PI / 180;
+    const dLon = (lon2 - lon1) * Math.PI / 180;
+    const a = 
+        Math.sin(dLat/2) * Math.sin(dLat/2) +
+        Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+        Math.sin(dLon/2) * Math.sin(dLon/2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    return R * c;
+}
+
+function savePreferredCity(name, latitude, longitude) {
+    const location = { name, latitude, longitude, timestamp: new Date().getTime() };
+    try {
+        localStorage.setItem('weather_preferred_city', JSON.stringify(location));
+    } catch (error) {
+        console.error('Failed to save preferred city:', error);
+    }
+}
+
+function getStoredLocation() {
+    try {
+        const stored = localStorage.getItem('weather_preferred_city');
+        if (!stored) return null;
+        
+        const location = JSON.parse(stored);
+        // Check if stored location is recent (within 30 days)
+        const thirtyDaysAgo = new Date().getTime() - (30 * 24 * 60 * 60 * 1000);
+        
+        if (location.timestamp > thirtyDaysAgo) {
+            return location;
+        } else {
+            // Old preference, remove it
+            localStorage.removeItem('weather_preferred_city');
+            return null;
+        }
+    } catch (error) {
+        console.error('Failed to get stored location:', error);
+        return null;
+    }
+}
+
+function setSelectedCity(cityName, latitude, longitude) {
+    const citySelect = document.getElementById('weather-city-select');
+    if (citySelect) {
+        const targetValue = `${latitude},${longitude}`;
+        const option = Array.from(citySelect.options).find(opt => opt.value === targetValue);
+        if (option) {
+            citySelect.value = targetValue;
+        }
+    }
+}
+
+async function loadWeatherData(lat, lon, cityName) {
+    const latitude = lat || WEATHER_CONFIG.defaultLocation.latitude;
+    const longitude = lon || WEATHER_CONFIG.defaultLocation.longitude;
+    const city = cityName || WEATHER_CONFIG.defaultLocation.name;
+    
+    const cacheKey = `weather_${latitude}_${longitude}`;
+    const cachedData = getCachedWeatherData(cacheKey);
+    
+    if (cachedData) {
+        displayWeatherData(cachedData, city);
+        return;
+    }
+    
+    showWeatherLoading();
+    
+    try {
+        const url = `${WEATHER_CONFIG.apiUrl}/forecast?latitude=${latitude}&longitude=${longitude}&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&hourly=temperature_2m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=Europe/Prague`;
+        
+        const response = await fetch(url);
+        
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+        
+        const data = await response.json();
+        
+        // Cache the data
+        cacheWeatherData(cacheKey, data);
+        
+        displayWeatherData(data, city);
+        hideWeatherError();
+        
+    } catch (error) {
+        console.error('Weather API error:', error);
+        showWeatherError();
+    }
+}
+
+function getCachedWeatherData(cacheKey) {
+    try {
+        const cached = localStorage.getItem(cacheKey);
+        if (!cached) return null;
+        
+        const { data, timestamp } = JSON.parse(cached);
+        const now = new Date().getTime();
+        
+        // Check if cache is still valid
+        if (now - timestamp < WEATHER_CONFIG.cacheDuration) {
+            return data;
+        } else {
+            localStorage.removeItem(cacheKey);
+            return null;
+        }
+    } catch (error) {
+        console.error('Cache error:', error);
+        return null;
+    }
+}
+
+function cacheWeatherData(cacheKey, data) {
+    try {
+        const cacheData = {
+            data: data,
+            timestamp: new Date().getTime()
+        };
+        localStorage.setItem(cacheKey, JSON.stringify(cacheData));
+    } catch (error) {
+        console.error('Cache save error:', error);
+    }
+}
+
+function displayWeatherData(data, cityName) {
+    const contentDiv = document.getElementById('weather-content');
+    const current = data.current;
+    const daily = data.daily;
+    
+    const currentIcon = WEATHER_ICONS[current.weather_code] || '🌤️';
+    const currentDescription = WEATHER_DESCRIPTIONS[current.weather_code] || 'Neznámé počasí';
+    
+    // Get activity recommendation
+    const recommendation = getActivityRecommendation(
+        current.weather_code,
+        current.temperature_2m,
+        current.relative_humidity_2m,
+        current.wind_speed_10m
+    );
+    
+    const html = `
+        <div class="weather-current">
+            <div class="weather-main">
+                <span class="weather-current-icon">${currentIcon}</span>
+                <div class="weather-temp-info">
+                    <span class="weather-temperature">${Math.round(current.temperature_2m)}°C</span>
+                    <span class="weather-description">${currentDescription}</span>
+                </div>
+            </div>
+            <div class="weather-details">
+                <div class="weather-detail">
+                    <span class="weather-detail-label">Vlhkost:</span>
+                    <span class="weather-detail-value">${current.relative_humidity_2m}%</span>
+                </div>
+                <div class="weather-detail">
+                    <span class="weather-detail-label">Vítr:</span>
+                    <span class="weather-detail-value">${Math.round(current.wind_speed_10m)} km/h</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="weather-recommendation">
+            <div class="weather-activity-tip">
+                <span class="weather-activity-icon">${recommendation.activity.split(' ')[0]}</span>
+                <div class="weather-activity-text">
+                    <strong>${recommendation.activity.substring(2)}</strong>
+                    <small>${recommendation.reason}</small>
+                </div>
+            </div>
+        </div>
+        
+        <div class="weather-forecast">
+            <h4 class="weather-forecast-title">Předpověď na 3 dny</h4>
+            <div class="weather-forecast-days">
+                ${daily.time.slice(1, 4).map((date, index) => {
+                    const dayIndex = index + 1;
+                    const dayName = getDayName(new Date(date));
+                    const icon = WEATHER_ICONS[daily.weather_code[dayIndex]] || '🌤️';
+                    const maxTemp = Math.round(daily.temperature_2m_max[dayIndex]);
+                    const minTemp = Math.round(daily.temperature_2m_min[dayIndex]);
+                    
+                    return `
+                        <div class="weather-forecast-day">
+                            <span class="weather-forecast-day-name">${dayName}</span>
+                            <span class="weather-forecast-icon">${icon}</span>
+                            <div class="weather-forecast-temps">
+                                <span class="weather-forecast-max">${maxTemp}°</span>
+                                <span class="weather-forecast-min">${minTemp}°</span>
+                            </div>
+                        </div>
+                    `;
+                }).join('')}
+            </div>
+        </div>
+    `;
+    
+    contentDiv.innerHTML = html;
+    
+    // Update last updated time
+    updateLastUpdateTime();
+    
+    hideWeatherLoading();
+}
+
+function getDayName(date) {
+    const today = new Date();
+    const tomorrow = new Date(today);
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    
+    if (date.toDateString() === tomorrow.toDateString()) {
+        return 'Zítra';
+    }
+    
+    const dayNames = ['Ne', 'Po', 'Út', 'St', 'Čt', 'Pá', 'So'];
+    return dayNames[date.getDay()];
+}
+
+function updateLastUpdateTime() {
+    const now = new Date();
+    const timeString = now.toLocaleTimeString('cs-CZ', { 
+        hour: '2-digit', 
+        minute: '2-digit' 
+    });
+    
+    const updateElement = document.getElementById('weather-last-update');
+    const updatedElement = document.getElementById('weather-updated');
+    
+    if (updateElement && updatedElement) {
+        updateElement.textContent = timeString;
+        updatedElement.style.display = 'block';
+    }
+}
+
+function showWeatherLoading() {
+    const contentDiv = document.getElementById('weather-content');
+    const errorDiv = document.getElementById('weather-error');
+    const updatedDiv = document.getElementById('weather-updated');
+    
+    if (contentDiv) {
+        contentDiv.innerHTML = `
+            <div class="weather-loading">
+                <div class="weather-spinner"></div>
+                <span>Načítání...</span>
+            </div>
+        `;
+    }
+    if (errorDiv) errorDiv.style.display = 'none';
+    if (updatedDiv) updatedDiv.style.display = 'none';
+}
+
+function hideWeatherLoading() {
+    // Loading is hidden when content is displayed
+}
+
+function showWeatherError() {
+    const errorDiv = document.getElementById('weather-error');
+    const contentDiv = document.getElementById('weather-content');
+    const updatedDiv = document.getElementById('weather-updated');
+    
+    if (errorDiv) errorDiv.style.display = 'block';
+    if (contentDiv) contentDiv.style.display = 'none';
+    if (updatedDiv) updatedDiv.style.display = 'none';
+}
+
+function hideWeatherError() {
+    const errorDiv = document.getElementById('weather-error');
+    const contentDiv = document.getElementById('weather-content');
+    
+    if (errorDiv) errorDiv.style.display = 'none';
+    if (contentDiv) contentDiv.style.display = 'block';
+}
+
+function showDetectionInfo(message, type) {
+    const detectionDiv = document.getElementById('weather-detection-info');
+    const messageSpan = document.getElementById('weather-detection-message');
+    
+    if (detectionDiv && messageSpan) {
+        messageSpan.textContent = message;
+        detectionDiv.className = `weather-detection-info weather-detection-${type}`;
+        detectionDiv.style.display = 'block';
+        
+        // Auto-hide detection info after 10 seconds for success/stored, keep fallback visible
+        if (type === 'success' || type === 'stored') {
+            setTimeout(() => {
+                detectionDiv.style.display = 'none';
+            }, 10000);
+        } else if (type === 'detecting') {
+            // Keep detecting message visible until replaced
+        }
+    }
+}
+</script>
+{% endif %}
