@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vzhůru a vpřed | Alarm Style</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        /* Alarm-Inspired Swiss Design Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            /* Alarm-inspired minimalist palette */
+            --alarm-black: #000000;
+            --alarm-white: #ffffff;
+            --alarm-purple: #8b5a9a;
+            --alarm-mauve: #b19bb5;
+            --alarm-gray-50: #fafafa;
+            --alarm-gray-100: #f5f5f5;
+            --alarm-gray-200: #eeeeee;
+            --alarm-gray-300: #e0e0e0;
+            --alarm-gray-400: #bdbdbd;
+            --alarm-gray-500: #9e9e9e;
+            --alarm-gray-600: #757575;
+            --alarm-gray-700: #616161;
+            --alarm-gray-800: #424242;
+            --alarm-gray-900: #212121;
+
+            /* Typography */
+            --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            --font-weight-light: 300;
+            --font-weight-normal: 400;
+            --font-weight-medium: 500;
+            --font-weight-semibold: 600;
+            --font-weight-bold: 700;
+            --font-weight-extrabold: 800;
+            --font-weight-black: 900;
+
+            /* Layout */
+            --container-max: 1200px;
+            --grid-gap: 1.5rem;
+            --border-radius: 8px;
+
+            /* Transitions */
+            --transition-fast: 0.15s ease;
+            --transition-normal: 0.25s ease;
+            --transition-slow: 0.35s ease;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: var(--font-primary);
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--alarm-gray-900);
+            background: var(--alarm-white);
+            font-weight: var(--font-weight-normal);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* Container */
+        .container {
+            max-width: var(--container-max);
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        /* Header - Alarm Style */
+        .header {
+            background: var(--alarm-white);
+            border-bottom: 1px solid var(--alarm-gray-200);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(8px);
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 1rem 0;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: var(--alarm-black);
+            font-weight: var(--font-weight-black);
+            font-size: 1.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .logo::before {
+            content: "✱";
+            margin-right: 0.5rem;
+            color: var(--alarm-purple);
+            font-size: 1.2rem;
+        }
+
+        /* Main Navigation */
+        .nav-main {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+        }
+
+        .nav-menu {
+            display: flex;
+            list-style: none;
+            gap: 2rem;
+            margin: 0;
+        }
+
+        .nav-menu a {
+            text-decoration: none;
+            color: var(--alarm-gray-700);
+            font-weight: var(--font-weight-medium);
+            font-size: 0.95rem;
+            transition: color var(--transition-fast);
+            padding: 0.5rem 0;
+        }
+
+        .nav-menu a:hover,
+        .nav-menu a.active {
+            color: var(--alarm-black);
+        }
+
+        .nav-actions {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .support-btn {
+            background: var(--alarm-purple);
+            color: var(--alarm-white);
+            padding: 0.5rem 1rem;
+            border-radius: var(--border-radius);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: var(--font-weight-medium);
+            transition: all var(--transition-normal);
+        }
+
+        .support-btn:hover {
+            background: var(--alarm-mauve);
+            transform: translateY(-1px);
+        }
+
+        /* Breaking News Banner */
+        .breaking-banner {
+            background: linear-gradient(135deg, var(--alarm-purple), var(--alarm-mauve));
+            color: var(--alarm-white);
+            padding: 0.75rem 0;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .breaking-banner::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            animation: shine 3s infinite;
+        }
+
+        @keyframes shine {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
+
+        .breaking-text {
+            font-weight: var(--font-weight-semibold);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .breaking-text::before {
+            content: "🚨 ";
+            margin-right: 0.5rem;
+        }
+
+        /* Hero Section - News Focused */
+        .hero-section {
+            padding: 2rem 0;
+            background: var(--alarm-gray-50);
+        }
+
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 2rem;
+        }
+
+        /* Featured Article */
+        .featured-article {
+            background: var(--alarm-white);
+            border-radius: var(--border-radius);
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            transition: all var(--transition-normal);
+        }
+
+        .featured-article:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+
+        .featured-image {
+            width: 100%;
+            height: 300px;
+            background: var(--alarm-gray-200);
+            background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="%23e0e0e0"><rect width="400" height="300" fill="%23f5f5f5"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="%23999" font-family="Arial, sans-serif" font-size="16">Featured Image</text></svg>');
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+
+        .article-category {
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            background: var(--alarm-purple);
+            color: var(--alarm-white);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: var(--font-weight-medium);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .featured-content {
+            padding: 1.5rem;
+        }
+
+        .featured-title {
+            font-size: 1.5rem;
+            font-weight: var(--font-weight-bold);
+            line-height: 1.3;
+            margin-bottom: 1rem;
+            color: var(--alarm-black);
+        }
+
+        .featured-title a {
+            text-decoration: none;
+            color: inherit;
+            transition: color var(--transition-fast);
+        }
+
+        .featured-title a:hover {
+            color: var(--alarm-purple);
+        }
+
+        .featured-excerpt {
+            font-size: 1rem;
+            color: var(--alarm-gray-700);
+            line-height: 1.5;
+            margin-bottom: 1rem;
+        }
+
+        .article-meta {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.9rem;
+            color: var(--alarm-gray-600);
+        }
+
+        .author {
+            font-weight: var(--font-weight-medium);
+        }
+
+        .date {
+            position: relative;
+            padding-left: 1rem;
+        }
+
+        .date::before {
+            content: '•';
+            position: absolute;
+            left: 0.5rem;
+        }
+
+        /* Sidebar Articles */
+        .sidebar-articles {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .sidebar-article {
+            background: var(--alarm-white);
+            border-radius: var(--border-radius);
+            padding: 1rem;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+            transition: all var(--transition-normal);
+            border-left: 3px solid transparent;
+        }
+
+        .sidebar-article:hover {
+            transform: translateX(2px);
+            border-left-color: var(--alarm-purple);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+
+        .sidebar-article .article-category {
+            position: static;
+            background: var(--alarm-gray-200);
+            color: var(--alarm-gray-700);
+            display: inline-block;
+            margin-bottom: 0.5rem;
+        }
+
+        .sidebar-title {
+            font-size: 1rem;
+            font-weight: var(--font-weight-semibold);
+            line-height: 1.4;
+            margin-bottom: 0.5rem;
+        }
+
+        .sidebar-title a {
+            text-decoration: none;
+            color: var(--alarm-black);
+            transition: color var(--transition-fast);
+        }
+
+        .sidebar-title a:hover {
+            color: var(--alarm-purple);
+        }
+
+        .sidebar-excerpt {
+            font-size: 0.9rem;
+            color: var(--alarm-gray-600);
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+        }
+
+        /* Main Content Grid */
+        .content-section {
+            padding: 3rem 0;
+        }
+
+        .content-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 3rem;
+        }
+
+        /* Articles List */
+        .articles-main {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .section-title {
+            font-size: 1.25rem;
+            font-weight: var(--font-weight-bold);
+            margin-bottom: 1.5rem;
+            color: var(--alarm-black);
+            position: relative;
+            padding-bottom: 0.5rem;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 3rem;
+            height: 2px;
+            background: var(--alarm-purple);
+        }
+
+        .article-card {
+            display: grid;
+            grid-template-columns: 200px 1fr;
+            gap: 1.5rem;
+            background: var(--alarm-white);
+            border-radius: var(--border-radius);
+            padding: 1rem;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+            transition: all var(--transition-normal);
+            border: 1px solid var(--alarm-gray-200);
+        }
+
+        .article-card:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+            border-color: var(--alarm-gray-300);
+        }
+
+        .article-image {
+            width: 100%;
+            height: 120px;
+            background: var(--alarm-gray-200);
+            border-radius: var(--border-radius);
+            background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="%23e0e0e0"><rect width="200" height="120" fill="%23f5f5f5"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="%23999" font-family="Arial, sans-serif" font-size="12">Image</text></svg>');
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+
+        .card-content {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-category {
+            background: var(--alarm-gray-100);
+            color: var(--alarm-gray-700);
+            padding: 0.2rem 0.6rem;
+            border-radius: 15px;
+            font-size: 0.75rem;
+            font-weight: var(--font-weight-medium);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            align-self: flex-start;
+            margin-bottom: 0.75rem;
+        }
+
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: var(--font-weight-semibold);
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            flex-grow: 1;
+        }
+
+        .card-title a {
+            text-decoration: none;
+            color: var(--alarm-black);
+            transition: color var(--transition-fast);
+        }
+
+        .card-title a:hover {
+            color: var(--alarm-purple);
+        }
+
+        .card-excerpt {
+            font-size: 0.9rem;
+            color: var(--alarm-gray-600);
+            line-height: 1.4;
+            margin-bottom: 1rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-meta {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.85rem;
+            color: var(--alarm-gray-500);
+            margin-top: auto;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .sidebar-section {
+            background: var(--alarm-white);
+            border-radius: var(--border-radius);
+            padding: 1.5rem;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+            border: 1px solid var(--alarm-gray-200);
+        }
+
+        .sidebar-section h3 {
+            font-size: 1.1rem;
+            font-weight: var(--font-weight-bold);
+            margin-bottom: 1rem;
+            color: var(--alarm-black);
+        }
+
+        .trending-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .trending-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+        }
+
+        .trending-number {
+            background: var(--alarm-purple);
+            color: var(--alarm-white);
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.8rem;
+            font-weight: var(--font-weight-bold);
+            flex-shrink: 0;
+        }
+
+        .trending-item a {
+            text-decoration: none;
+            color: var(--alarm-gray-700);
+            font-size: 0.9rem;
+            line-height: 1.4;
+            transition: color var(--transition-fast);
+        }
+
+        .trending-item a:hover {
+            color: var(--alarm-black);
+        }
+
+        /* Newsletter */
+        .newsletter-section {
+            background: var(--alarm-gray-50);
+            border-radius: var(--border-radius);
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .newsletter-section h3 {
+            font-size: 1.2rem;
+            font-weight: var(--font-weight-bold);
+            margin-bottom: 0.75rem;
+            color: var(--alarm-black);
+        }
+
+        .newsletter-section p {
+            color: var(--alarm-gray-600);
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
+        }
+
+        .newsletter-form {
+            display: flex;
+            gap: 0.5rem;
+            max-width: 300px;
+            margin: 0 auto;
+        }
+
+        .newsletter-input {
+            flex: 1;
+            padding: 0.75rem;
+            border: 1px solid var(--alarm-gray-300);
+            border-radius: var(--border-radius);
+            font-family: var(--font-primary);
+            font-size: 0.9rem;
+            transition: border-color var(--transition-fast);
+        }
+
+        .newsletter-input:focus {
+            outline: none;
+            border-color: var(--alarm-purple);
+        }
+
+        .newsletter-btn {
+            background: var(--alarm-purple);
+            color: var(--alarm-white);
+            border: none;
+            padding: 0.75rem 1rem;
+            border-radius: var(--border-radius);
+            font-family: var(--font-primary);
+            font-size: 0.9rem;
+            font-weight: var(--font-weight-medium);
+            cursor: pointer;
+            transition: all var(--transition-normal);
+        }
+
+        .newsletter-btn:hover {
+            background: var(--alarm-mauve);
+        }
+
+        /* Footer */
+        .footer {
+            background: var(--alarm-gray-900);
+            color: var(--alarm-white);
+            padding: 2rem 0 1rem;
+            margin-top: 3rem;
+        }
+
+        .footer-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .footer-section h4 {
+            font-size: 1rem;
+            font-weight: var(--font-weight-semibold);
+            margin-bottom: 1rem;
+            color: var(--alarm-white);
+        }
+
+        .footer-links {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .footer-links a {
+            color: var(--alarm-gray-400);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color var(--transition-fast);
+        }
+
+        .footer-links a:hover {
+            color: var(--alarm-white);
+        }
+
+        .footer-bottom {
+            border-top: 1px solid var(--alarm-gray-800);
+            padding-top: 1rem;
+            text-align: center;
+            color: var(--alarm-gray-500);
+            font-size: 0.85rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 968px) {
+            .hero-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .content-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .article-card {
+                grid-template-columns: 1fr;
+            }
+
+            .article-image {
+                height: 200px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .nav-menu {
+                display: none;
+            }
+
+            .header-content {
+                justify-content: space-between;
+            }
+
+            .newsletter-form {
+                flex-direction: column;
+                max-width: 100%;
+            }
+
+            .footer-content {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Loading Animation */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .animate-fade-up {
+            animation: fadeInUp 0.6s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <a href="/" class="logo">VZHŮRU</a>
+
+                <nav class="nav-main">
+                    <ul class="nav-menu">
+                        <li><a href="/aktualni-temata/" class="active">Aktuální témata</a></li>
+                        <li><a href="/technologie/">Technologie</a></li>
+                        <li><a href="/analyzy/">Analýzy</a></li>
+                        <li><a href="/kultura/">Kultura</a></li>
+                        <li><a href="/komunita/">Komunita</a></li>
+                    </ul>
+
+                    <div class="nav-actions">
+                        <a href="#support" class="support-btn">Podpořte nás</a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Breaking News Banner -->
+    <div class="breaking-banner">
+        <div class="container">
+            <div class="breaking-text">
+                Právě teď: EU schvaluje nová pravidla pro AI - co to znamená pro českou digitální ekonomiku?
+            </div>
+        </div>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="container">
+            <div class="hero-grid">
+                <!-- Featured Article -->
+                <article class="featured-article animate-fade-up">
+                    <div class="featured-image">
+                        <span class="article-category">Technologie</span>
+                    </div>
+                    <div class="featured-content">
+                        <h2 class="featured-title">
+                            <a href="#">Česká AI firma získala 50 milionů: Revoluce v automatizaci vzniká v Brně</a>
+                        </h2>
+                        <p class="featured-excerpt">
+                            Startup Cerebrum AI přitahuje pozornost evropských investorů svým přístupem k
+                            automatizaci výrobních procesů. Jejich řešení už testuje Škoda Auto a další
+                            české společnosti. Rozhovor s CEO o budoucnosti české AI scény.
+                        </p>
+                        <div class="article-meta">
+                            <span class="author">Pavel Novák</span>
+                            <span class="date">16. ledna 2025</span>
+                        </div>
+                    </div>
+                </article>
+
+                <!-- Sidebar Articles -->
+                <div class="sidebar-articles">
+                    <article class="sidebar-article animate-fade-up" style="animation-delay: 0.1s;">
+                        <span class="article-category">Analýzy</span>
+                        <h3 class="sidebar-title">
+                            <a href="#">Bitcoin překonává rekordy: Analýza důvodů růstu</a>
+                        </h3>
+                        <p class="sidebar-excerpt">
+                            Kryptoměny zaznamenávají historické maxima. Experti vysvětlují příčiny.
+                        </p>
+                        <div class="article-meta">
+                            <span class="date">15. ledna</span>
+                        </div>
+                    </article>
+
+                    <article class="sidebar-article animate-fade-up" style="animation-delay: 0.2s;">
+                        <span class="article-category">Kultura</span>
+                        <h3 class="sidebar-title">
+                            <a href="#">Streaming války 2025: Netflix vs. nové platformy</a>
+                        </h3>
+                        <p class="sidebar-excerpt">
+                            Konkurence v oblasti streamingu se zostřuje. Kam směřuje zábavní průmysl?
+                        </p>
+                        <div class="article-meta">
+                            <span class="date">14. ledna</span>
+                        </div>
+                    </article>
+
+                    <article class="sidebar-article animate-fade-up" style="animation-delay: 0.3s;">
+                        <span class="article-category">Společnost</span>
+                        <h3 class="sidebar-title">
+                            <a href="#">Digital detox: Mladí objevují život bez sociálních sítí</a>
+                        </h3>
+                        <p class="sidebar-excerpt">
+                            Generace Z začíná opouštět Instagram a TikTok. Jaké jsou důvody?
+                        </p>
+                        <div class="article-meta">
+                            <span class="date">13. ledna</span>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="content-section">
+        <div class="container">
+            <div class="content-grid">
+                <!-- Main Articles -->
+                <main class="articles-main">
+                    <h2 class="section-title">Nejnovější články</h2>
+
+                    <article class="article-card animate-fade-up">
+                        <div class="article-image"></div>
+                        <div class="card-content">
+                            <span class="card-category">Fintech</span>
+                            <h3 class="card-title">
+                                <a href="#">Revoluci v bankovnictví přináší české neobanky</a>
+                            </h3>
+                            <p class="card-excerpt">
+                                Jak digitální banky mění způsob, jakým mladí lidé spravují své finance.
+                                Analýza růstu českých fintechových řešení.
+                            </p>
+                            <div class="card-meta">
+                                <span class="author">Jana Svobodová</span>
+                                <span class="date">12. ledna 2025</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="article-card animate-fade-up" style="animation-delay: 0.1s;">
+                        <div class="article-image"></div>
+                        <div class="card-content">
+                            <span class="card-category">Věda</span>
+                            <h3 class="card-title">
+                                <a href="#">Kvantová revoluce: Co čekat od nové éry počítačů</a>
+                            </h3>
+                            <p class="card-excerpt">
+                                Kvantové počítače nejsou už jen teorií. Jak ovlivní naši budoucnost
+                                a kdy se stanou běžnou realitou?
+                            </p>
+                            <div class="card-meta">
+                                <span class="author">Dr. Martin Krejčí</span>
+                                <span class="date">11. ledna 2025</span>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="article-card animate-fade-up" style="animation-delay: 0.2s;">
+                        <div class="article-image"></div>
+                        <div class="card-content">
+                            <span class="card-category">Udržitelnost</span>
+                            <h3 class="card-title">
+                                <a href="#">Zelené technologie: České startupy bojují s klimatickou změnou</a>
+                            </h3>
+                            <p class="card-excerpt">
+                                Přehled nejzajímavějších českých projektů v oblasti cleantech.
+                                Kdo má šanci uspět na globálním trhu?
+                            </p>
+                            <div class="card-meta">
+                                <span class="author">Tomáš Procházka</span>
+                                <span class="date">10. ledna 2025</span>
+                            </div>
+                        </div>
+                    </article>
+                </main>
+
+                <!-- Sidebar -->
+                <aside class="sidebar">
+                    <!-- Trending Articles -->
+                    <div class="sidebar-section">
+                        <h3>Nejčtenější tento týden</h3>
+                        <ol class="trending-list">
+                            <li class="trending-item">
+                                <span class="trending-number">1</span>
+                                <a href="#">ChatGPT dostává nové funkce: Co umí verze 4.5?</a>
+                            </li>
+                            <li class="trending-item">
+                                <span class="trending-number">2</span>
+                                <a href="#">Elon Musk vs. EU: Boj o regulaci sociálních sítí</a>
+                            </li>
+                            <li class="trending-item">
+                                <span class="trending-number">3</span>
+                                <a href="#">Proč Apple zrušil projekt vlastního auta?</a>
+                            </li>
+                            <li class="trending-item">
+                                <span class="trending-number">4</span>
+                                <a href="#">České e-commerce růst 25%: Co stojí za úspěchem?</a>
+                            </li>
+                            <li class="trending-item">
+                                <span class="trending-number">5</span>
+                                <a href="#">Metaverse 2025: Realita nebo stále jen sen?</a>
+                            </li>
+                        </ol>
+                    </div>
+
+                    <!-- Newsletter -->
+                    <div class="sidebar-section newsletter-section">
+                        <h3>Newsletter Vzhůru a vpřed</h3>
+                        <p>Nejdůležitější technologické trendy každý pátek do emailu</p>
+                        <form class="newsletter-form">
+                            <input type="email" class="newsletter-input" placeholder="váš@email.cz" required>
+                            <button type="submit" class="newsletter-btn">Odebírat</button>
+                        </form>
+                    </div>
+
+                    <!-- Social/Support -->
+                    <div class="sidebar-section">
+                        <h3>Podpořte nezávislou žurnalistiku</h3>
+                        <p style="color: var(--alarm-gray-600); font-size: 0.9rem; margin-bottom: 1rem;">
+                            Váš příspěvek nám umožňuje psát o technologiích bez vlivu korporací
+                        </p>
+                        <a href="#" class="support-btn" style="display: block; text-align: center;">
+                            Podpořit ❤️
+                        </a>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Vzhůru a vpřed</h4>
+                    <ul class="footer-links">
+                        <li><a href="/o-nas/">O projektu</a></li>
+                        <li><a href="/redakce/">Redakce</a></li>
+                        <li><a href="/kontakt/">Kontakt</a></li>
+                        <li><a href="/inzerce/">Inzerce</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4>Obsah</h4>
+                    <ul class="footer-links">
+                        <li><a href="/technologie/">Technologie</a></li>
+                        <li><a href="/analyzy/">Analýzy</a></li>
+                        <li><a href="/kultura/">Kultura</a></li>
+                        <li><a href="/nazory/">Názory</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4>Služby</h4>
+                    <ul class="footer-links">
+                        <li><a href="/newsletter/">Newsletter</a></li>
+                        <li><a href="/rss.xml">RSS</a></li>
+                        <li><a href="/podkast/">Podcast</a></li>
+                        <li><a href="/events/">Události</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4>Právní</h4>
+                    <ul class="footer-links">
+                        <li><a href="/ochrana-soukromi/">Ochrana soukromí</a></li>
+                        <li><a href="/cookies/">Cookies</a></li>
+                        <li><a href="/vop/">VOP</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2025 Vzhůru a vpřed. Všechna práva vyhrazena.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Newsletter form
+            const newsletterForm = document.querySelector('.newsletter-form');
+            if (newsletterForm) {
+                newsletterForm.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    const email = this.querySelector('.newsletter-input').value;
+                    if (email) {
+                        const btn = this.querySelector('.newsletter-btn');
+                        const originalText = btn.textContent;
+                        btn.textContent = 'Děkujeme!';
+                        btn.style.background = 'var(--alarm-mauve)';
+
+                        setTimeout(() => {
+                            btn.textContent = originalText;
+                            btn.style.background = 'var(--alarm-purple)';
+                            this.reset();
+                        }, 2000);
+                    }
+                });
+            }
+
+            // Smooth scrolling
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                });
+            });
+
+            // Scroll-based animations
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, observerOptions);
+
+            // Observe all animated elements
+            document.querySelectorAll('.animate-fade-up').forEach(el => {
+                el.style.opacity = '0';
+                el.style.transform = 'translateY(20px)';
+                el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+                observer.observe(el);
+            });
+
+            console.log('Alarm-inspired design loaded! 📰');
+        });
+    </script>
+</body>
+</html>
