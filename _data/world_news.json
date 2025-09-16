@@ -1,82 +1,93 @@
 {
-  "last_updated": "2025-09-16T04:20:42",
+  "last_updated": "2025-09-16T05:17:22",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ceny Emmy: Seznam vítězů (Průběžně aktualizováno)",
-      "original_title": "Emmy Awards: Winners List (Updating Live) - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/lists/emmy-winners-2025-list/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/GettyImages-76887712-H-2022.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-15T01:15:00Z",
-      "description": "„The Studio“, „Adolescence“, „Hacks“, „Severance“, „Last Week Tonight with John Oliver“ a „The Late Show with Stephen Colbert“ patří mezi dosavadní velké vítěze večera."
+      "title": "Twenty One Pilots: Recenze alba Breach",
+      "original_title": "Twenty One Pilots: Breach Album Review - Pitchfork",
+      "url": "https://pitchfork.com/reviews/albums/twenty-one-pilots-breach/",
+      "urlToImage": "https://media.pitchfork.com/photos/68bef91e81f32eb660e16ab0/16:9/w_1280,c_limit/Twenty%20One%20Pilots:%20Breach.jpg",
+      "source": "Pitchfork",
+      "publishedAt": "2025-09-15T04:02:00Z",
+      "description": "Přečtěte si recenzi alba od Hannah Jocelyn"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kash Patel kritizován za své činy a příspěvky během vyšetřování střelby Charlie Kirka",
-      "original_title": "Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation - NBC News",
-      "url": "https://www.nbcnews.com/politics/justice-department/kash-patel-criticized-actions-posts-charlie-kirk-shooting-investigatio-rcna231043",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250914-patel-ch-1929-dbebb3.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-15T01:07:00Z",
-      "description": "Aktivity ředitele FBI Káše Patela během vyšetřování vraždy Charlieho Kirka vyvolávají otázky ohledně jeho rozhodování, uvedli současní i bývalí úředníci."
+      "title": "Emmys bez ocenění i překvapení: 'The Pitt', Britt Lowerová a Jeff Hiller vyhrávají, 'Bílý lotos' se nedočkal ničeho",
+      "original_title": "Emmys’ Snubs & Surprises: ‘The Pitt’, Britt Lower, Jeff Hiller Win, ‘White Lotus’ Shut Out - Deadline",
+      "url": "http://deadline.com/2025/09/emmys-2025-snubs-surprises-jeff-hiller-white-lotus-1236531917/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/R.-Scott-Gemmill-Katherine-LaNasa-Britt-Lower-Jeff-Hiller-Emmys.jpg?w=1000",
+      "source": "Deadline",
+      "publishedAt": "2025-09-15T03:52:00Z",
+      "description": "Mnohé z kategorií cen Emmy pro rok 2025 získali očekávaní favorité, přesto se večer neobešel bez několika překvapení a nečekaných vítězství."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Moderátor Emmy Nate Bargatze žertuje o televizním průmyslu, vymýšlí fintu, jak zkrátit projevy",
-      "original_title": "Emmys host Nate Bargatze jokes about the television industry, devises gag to keep speeches short - AP News",
-      "url": "https://apnews.com/article/nate-bargatze-2025-emmy-awards-c1e27164c0723c4b5c2988d4c586d99d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0133294/2147483647/strip/true/crop/5627x3165+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2F80%2F58dc499cd9ebe05da82e829cc877%2F14a9cb418da9409195e3033d0d0b1fc3",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-15T01:07:00Z",
-      "description": "Stand-up komik Nate Bargatze odstartoval 77. předávání cen Emmy v neděli komediální scénkou, která si utahovala z televizního průmyslu a poznamenal, že je to „svět, v němž ti nejlepší umělci vytvář..."
+      "title": "Čínské maloobchodní tržby a průmyslová produkce v srpnu zpomalily, nesplnily odhady kvůli prohlubujícímu se propadu nemovitostí",
+      "original_title": "China retail sales, industrial output slow in August, missing estimates as real estate slump worsens - CNBC",
+      "url": "https://www.cnbc.com/2025/09/15/china-retail-sales-industrial-output-slow-in-august-missing-estimates-as-real-estate-slump-worsens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166072-1751325393570-gettyimages-601908650-000103455483_Unapproved.jpeg?v=1757893030&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-15T02:12:00Z",
+      "description": "Čínské hospodářské zpomalení se v srpnu prohloubilo, řada klíčových ukazatelů nesplnila očekávání kvůli vlažné domácí poptávce a protivoluční kampani Pekingu."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "FBI zadržela dva podezřelé poté, co byl pod vozidlem televize FOX 13 nalezen zápalný prostředek - FOX 13 News Utah",
-      "original_title": "FBI arrests 2 after incendiary device left under FOX 13 News vehicle - FOX 13 News Utah",
-      "url": "https://www.fox13now.com/news/crime/fbi-arrests-2-after-incendiary-device-left-under-fox-13-news-vehicle",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/e80625c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2F75f%2Fef205c0e5ea14d77944cbd6904335118%2F75fdfc8ae94b4bcb88c7518d051534da%2Fposter_06f9a1a34fed4661a86834e898f3e350.jpeg",
-      "source": "fox13now.com",
-      "publishedAt": "2025-09-14T23:54:58Z",
-      "description": "Dva muži byli zatčeni poté, co údajně umístili zápalné zařízení pod vůz FOX 13 News a následně donutili k evakuaci čtvrť v Magně při domovní razi"
+      "title": "Hochulová a Van Hollen podpořili Zohrana Mamdaniho, zatímco senátor kritizoval ‚bezpáteřní‘ demokraty",
+      "original_title": "Hochul, Van Hollen back Zohran Mamdani as senator slams ‘spineless’ Democrats - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/14/van-hollen-democrats-mamdani-jeffries/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6IBG2XGUII6ZJBCCG53SHNTBM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-15T01:56:19Z",
+      "description": "Senátor Chris Van Hollen z Marylandu říká, že demokratičtí lídři musí podpořit kandidaturu Zohrana Mamdaniho na starostu New Yorku, pokud strana chce vyhrávat volby."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hannah Einbinder říká, že seriál ‚Hacks‘ skončí s pátou řadou: ‚Je hezké nepřekročit svou uvítací‘",
-      "original_title": "Hannah Einbinder Says ‘Hacks’ Will End With Season 5: ‘It’s Nice Not to Overstay Your Welcome’ - Variety",
-      "url": "https://variety.com/2025/tv/news/hacks-ending-season-5-hannah-einbinder-emmys-1236518434/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2235447443.jpg?crop=48px%2C74px%2C831px%2C467px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-09-14T23:39:00Z",
-      "description": "Hvězda seriálu Hacks Hannah Einbinder na červeném koberci Emmy potvrdila, že pátá řada této komediální série od HBO Max bude poslední."
+      "title": "Muž z Utahu zatčen poté, co pod vozidlem médií bylo nalezeno výbušné zařízení",
+      "original_title": "Utah man arrested after explosive device found under news media vehicle - ABC News",
+      "url": "https://abcnews.go.com/US/utah-man-arrested-after-explosive-device-found-news/story?id\\\\u003d125564512",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-15T00:11:15Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kdo je kdo: Členové nezávislé vyšetřovací komise pro povodně Marcose",
+      "original_title": "Who's who: Members of Marcos’ independent flood probe body - Philstar.com",
+      "url": "https://www.philstar.com/headlines/2025/09/15/2472763/whos-who-members-marcos-independent-flood-probe-body",
+      "urlToImage": "https://media.philstar.com/photos/2025/09/15/marcos-anti-graft-independent-commission-infrastructure2_2025-09-15_10-14-30.jpg",
+      "source": "Philippine Star",
+      "publishedAt": "2025-09-14T23:30:00Z",
+      "description": "(Aktualizováno) Prezident Ferdinand Marcos Jr. nařídil vytvoření Nezávislé komise pro infrastrukturu, která má vyšetřit možné zneužití finančních prostředků v souvislosti s údajnými nesrovnalostmi ..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Brian Kilmeade z Fox News nazval svůj komentář o zabíjení duševně nemocných bezdomovců ‚extrémně necitlivým‘",
+      "title": "Brian Kilmeade z Fox News označil komentář o zabíjení duševně nemocných bezdomovců za ‚extrémně bezcitný‘",
       "original_title": "Fox News’ Brian Kilmeade says comment about killing mentally ill homeless people an ‘extremely callous remark’ - CNN",
       "url": "https://www.cnn.com/2025/09/14/business/brian-kilmeade-fox-news-apology-homeless",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25257593360414.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-14T23:26:27Z",
-      "description": "Po šokujícím výroku o usmrcování duševně nemocných bezdomovců se moderátor Brian Kilmeade omluvil za „extrémně necitelnou poznámku“"
+      "description": "Po šokujícím výroku, že duševně nemocní bezdomovci by měli být usmrceni, se moderátor Fox News Brian Kilmeade v neděli omluvil za svůj „extrémně necitelný“ komentář."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Guvernérka New Yorku Kathy Hochulová podpořila Zohrana Mamdaniho v newyorské primárce na starostu",
-      "original_title": "New York Gov. Kathy Hochul endorses Zohran Mamdani in NYC mayoral race - CNN",
-      "url": "https://www.cnn.com/2025/09/14/politics/kathy-hochul-zohran-mamdani",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250914-hochul-mamdani.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-14T23:07:34Z",
-      "description": "Guvernérka New Yorku Kathy Hochulová v neděli podpořila newyorského demokratického kandidáta na starostu Zohrana Mamdaniho a označila jej za „lídra, který se soustředí na to, aby byl New York dostu..."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rep. McCaul odchází do důchodu, ale republikánský jestřáb se po ruské escalaci obává třetí světové války",
+      "original_title": "Rep. McCaul will retire, but GOP hawk worries about World War III after Russian escalation - AP News",
+      "url": "https://apnews.com/article/mccaul-ukraine-texas-trump-russia-poland-nato-bbe5fa808569842178879549d6ec2d9c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/ddd7a87/2147483647/strip/true/crop/4510x2537+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2Fa1%2Ffd10f337d56ba509f9f936be1493%2F7d0ef28fa6774fa8b4ba61ed3652a4f7",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-14T23:11:00Z",
+      "description": "Republikán McCaul z Texasu se obává, že eskalace ruské invaze na Ukrajinu může vést ke třetí světové válce"
     },
     {
       "flag": "🌍",
@@ -87,7 +98,18 @@
       "urlToImage": "https://images.axios.com/4_Cq6cVY3wuoR9meRYcRTOhcEe0=/0x0:5000x2813/1366x768/2025/09/14/1757886139340.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-14T22:41:15Z",
-      "description": "Ruská armáda přesně ví, kam jejich drony míří. To nemůže být náhoda, chyba, řekl Zelenskyj."
+      "description": "Ruská armáda přesně ví, kam jejich drony míří. Tohle nemůže být náhoda, omyl, řekl Zelenskyj."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rubio navštívil Izrael po útoku v Kataru",
+      "original_title": "Rubio visits Israel in wake of Qatar attack - Politico",
+      "url": "https://www.politico.com/news/2025/09/14/marco-rubio-israel-visit-qatar-gaza-00563456",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F3c%2F50%2F2a35fa544ba186ffdce202c6fb57%2Fisrael-us-33683.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-14T22:00:05Z",
+      "description": "Mezitím se izraelské údery na severu Gazy zesílily."
     },
     {
       "flag": "🇬🇧",
@@ -98,84 +120,73 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dcb8/live/885eafe0-91aa-11f0-9cf6-cbf3e73ce2b9.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-14T21:04:58Z",
-      "description": "Wayne Rooney označil smrt svého přítele a bývalého mistra světa v boxu Rickyho Hattona za „zdrcující“."
+      "description": "Wayne Rooney označil smrt svého přítele a bývalého boxerského mistra světa Rickyho Hattona za zdrcující."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Očkování proti ebole začalo na jihu Konga",
-      "original_title": "Ebola vaccination begins in southern Congo - NBC News",
-      "url": "https://www.nbcnews.com/world/africa/ebola-vaccination-begins-southern-congo-rcna231173",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250914-ebola-vl-322p-506e9e.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-14T19:45:13Z",
-      "description": "Očkování pro osoby vystavené viru Ebola a zdravotníky první linie začalo v jižní provincii Kasai, oznámila v neděli Světová zdravotnická organizace."
+      "title": "Trump po skandálu s razií vítá zahraniční odborníky, oznámil po pobouření v Jižní Koreji",
+      "original_title": "Trump says foreign experts welcome after South Korean outrage over raid - Axios",
+      "url": "https://www.axios.com/2025/09/14/trump-hyundai-south-korea-georgia-ice",
+      "urlToImage": "https://images.axios.com/fKu-CLgYmVintAsUXnc4jvn73cs=/0x0:6305x3547/1366x768/2025/09/14/1757876809658.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-14T20:07:22Z",
+      "description": "Zásah ICE 4. září v továrně v Georgii ohrozil desítky miliard dolarů v investicích."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Útok ukrajinského dronu zapálil jednu z největších ruských ropných rafinerií",
+      "title": "Očkování proti ebole začalo v jižním Kongu během nejnovějšího výskytu",
+      "original_title": "Ebola vaccination begins in southern Congo amid latest outbreak - PBS",
+      "url": "https://www.pbs.org/newshour/world/ebola-vaccination-begins-in-southern-congo-amid-latest-outbreak",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T171037Z_1005936980_RC24LGAZ71P0_RTRMADP_3_HEALTH-EBOLA-CONGO-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-14T19:42:49Z",
+      "description": "Očkování pro osoby vystavené viru Ebola a zdravotníky v první linii začalo v jižní provincii Kasai, oznámila v neděli Světová zdravotnická organizace."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Útok ukrajinského dronu zapálil jeden z největších ruských ropných rafinerií",
       "original_title": "Ukrainian drone strike sparks fire at one of Russia’s top oil refineries - PBS",
       "url": "https://www.pbs.org/newshour/world/ukrainian-drone-strike-sparks-fire-at-one-of-russias-top-oil-refineries",
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-07-17T050052Z_655252093_RC228EA581OD_RTRMADP_3_UKRAINE-CRISIS-DEFENCES-1024x692.jpg",
       "source": "PBS",
       "publishedAt": "2025-09-14T19:37:59Z",
-      "description": "Noční úder na ropnou rafinérii v Kirishi v Leningradské oblasti následuje po týdnech ukrajinských útoků na ruskou ropnou infrastrukturu"
+      "description": "Noční úder na ropnou rafinérii v Kirishi v Leningradské oblasti následuje po týdnech ukrajinských útoků na ruskou ropnou infrastrukturu, která podle Kyjeva pohání válečné úsilí Moskvy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trh s bydlením: nejdůležitější ukazatel pro předpovídání recesí je na nejnižší úrovni od pandemie",
-      "original_title": "Housing market: the 'most critical' variable for predicting recessions is at lowest since pandemic - Fortune",
-      "url": "https://fortune.com/2025/09/14/housing-market-recession-warning-building-permits-residential-investment-zandi/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2229115477-e1757871936432.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-14T19:09:00Z",
-      "description": "Moodyho vlastní hlavní ekonomický ukazatel využívající strojové učení odhadl, že pravděpodobnost recese v příštích 12 měsících je nyní 48 %."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trhy se připravují na sérií škrtů Fedu, rizikem jsou býčí sázky",
+      "title": "Trhy se připravují na sérii škrtů Fedu, rizikem jsou býčí sázky",
       "original_title": "Markets Gear Up for Series of Fed Cuts With Bullish Bets at Risk - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-09-14/markets-gear-up-for-series-of-fed-cuts-with-bullish-bets-at-risk",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUd2qBRDCJ40/v1/1200x800.jpg",
       "source": "Bloomberg",
       "publishedAt": "2025-09-14T19:00:00Z",
-      "description": "Klíčovou otázkou pro investory tento týden je, zda představitelé Fedu odmítnou sázky trhu na sérii snížení úrokových sazeb pokračující v příštím roce."
+      "description": "Klíčovou otázkou pro investory tento týden je, zda představitelé Fedu zchladí sázky trhů na sérii snížení úrokových sazeb pokračující i v příštím roce."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Obavy z blížících se rozhodnutí panelu RFK Jr. o očkování dětí",
-      "original_title": "Fear over RFK Jr. vaccine panel’s looming decisions on childhood shots - Politico",
-      "url": "https://www.politico.com/news/2025/09/14/rfk-jr-s-vaccine-panel-to-consider-major-changes-to-childhood-shots-00563165",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4c%2F24%2F1d43b9504ea6a5c22131199e8cd3%2Fu-s-congress-66894.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-14T18:00:00Z",
-      "description": "Panel bude diskutovat vakcíny proti covidu-19, hepatitidě B a spalničkám, příušnicím, zarděnkám a planým neštovicím, stejně jako očkování proti RSV."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "iPhone 17 vs iPhone 16 Pro: Podobné displeje, výrazně odlišné balíčky",
+      "title": "iPhone 17 vs iPhone 16 Pro: Podobné displeje, zásadně odlišné provedení - 9to5Mac",
       "original_title": "iPhone 17 vs iPhone 16 Pro: Similar displays, distinctly different packages - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/14/apple-iphone-17-vs-iphone-16-pro-comparison-buyers-guide/",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-vs-16-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-09-14T17:10:00Z",
-      "description": "Apple se základním iPhonem 17 opravdu trefilo do černého, je to jeden z nejlepších produktů společnosti…"
+      "description": "Společnost Apple se základem iPhonu 17 opravdu trefila do černého a vytvořila jeden ze svých nejlepších…"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trump tlačí na větší kontrolu nad Fedem, který zachvátila politická turbulence",
+      "title": "Politická turbulence pohltila Fed, zatímco Trump usiluje o prosazení kontroly",
       "original_title": "Political turbulence engulfs the Fed as Trump pushes to assert control - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/09/14/federal-reserve-interest-rates-trump/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E5UUFYOCAW5JCZDWIR645XXTYE.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-14T17:00:18Z",
-      "description": "Agresivní kroky Donalda Trumpa k přetvoření Fedu se mohou dramaticky projevit na tomto týdnu plánovaném zasedání"
+      "description": "Agresivní kroky Donalda Trumpa k přetvoření Fedu se mohou dramaticky projevit na tomto týdnu plánovaném zasedání americké centrální banky."
     },
     {
       "flag": "🌍",
@@ -186,29 +197,18 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/researchers-uncover-po-2.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-14T15:50:02Z",
-      "description": "Nová studie spolunapsaná geologem z Texaské univerzity A&amp;M doktorem Michaelem Ticem odhalila potenciální chemické stopy dávného marsovského mikrobiálního života ve vzorcích zkoumaných vozítkem ..."
+      "description": "Nový výzkum, na kterém se podílel geolog z Texas A&amp;M University Dr. Michael Tice, odhalil potenciální chemické stopy po starověkém marsovském mikrobiálním životě ve vzorcích zkoumaných vozítkem..."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Rubio navštívil Izrael po útoku v Kataru, zatímco izraelské údery zesilují v severním Gaze",
-      "original_title": "Rubio visits Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza - PBS",
-      "url": "https://www.pbs.org/newshour/world/rubio-visits-israel-in-wake-of-qatar-attack-as-israeli-strikes-intensify-in-northern-gaza",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-14T130011Z_467642462_RC2PRGACZT32_RTRMADP_3_ISRAEL-PALESTINIANS-USA-RUBIO-1024x698.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-14T15:44:24Z",
-      "description": "Americký ministr zahraničí Marco Rubio byl v Izraeli v neděli, kdy jeho armáda zesílila útoky na severní Gazu, srovnala se zemí několik výškových budov a zabila nejméně 13 Palestinců."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Po Virtual Boy už nic nebrání tomu, aby Nintendo vrátilo svůj nejlepší handheld",
-      "original_title": "After the Virtual Boy, There’s No Reason Why Nintendo Can’t Bring Back Its Best Handheld - Gizmodo",
-      "url": "https://gizmodo.com/after-the-virtual-boy-theres-no-reason-why-nintendo-cant-bring-back-its-best-handheld-2000658275",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-size-comparison-01-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-09-14T12:00:08Z",
-      "description": "Herní režim s dvěma obrazovkami by se mohl a měl vrátit v éře Switch 2."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Letecké společnosti suspendovaly zaměstnance za příspěvky o střelbě na Charlie Kirka",
+      "original_title": "Airlines suspend workers for posts about shooting of Charlie Kirk - CNN",
+      "url": "https://www.cnn.com/2025/09/14/us/airlines-suspend-workers",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153859673.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-14T14:46:24Z",
+      "description": "Delta Air Lines, American Airlines a United Airlines pozastavily práci zaměstnancům za příspěvky na sociálních sítích o loňském týdnu střelbě na Charlieho Kirka."
     },
     {
       "flag": "🌍",
@@ -219,45 +219,34 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/LEb27HseD2QYTH9weTakmN.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-14T12:00:00Z",
-      "description": "Start zásobovací mise NG-23 je naplánován na dnešních 18:11 ET (14. září)."
+      "description": "Start zásobovací mise NG-23 je naplánován na dnešní den (14. září) na 18:11 východoamerického času."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dějiny vědy: Zachyceny gravitační vlony, Einstein měl pravdu — 14. září 2015",
+      "title": "Historie vědy: Zachyceny gravitační vlny, Einstein měl pravdu — 14. září 2015",
       "original_title": "Science history: Gravitational waves detected, proving Einstein right — Sept. 14, 2015 - Live Science",
       "url": "https://www.livescience.com/space/black-holes/science-history-gravitational-waves-detected-proving-einstein-right-sept-14-2015",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/CCjVAaAcbDLbVsWARWWGoh.gif",
       "source": "Live Science",
       "publishedAt": "2025-09-14T09:51:00Z",
-      "description": "Když LIGO poprvé v historii vědy zachytilo gravitační vlny vyvolané srážkou dvou černých děr, odstartovalo tím zcela novou éru astronomie."
+      "description": "Když observatoř LIGO poprvé v dějinách vědy zachytila gravitační vlny vyvolané srážkou dvou černých děr, odstartovala tím zcela novou éru astronomie."
+    },
+    {
+      "flag": "🌍",
+      "country": "fr",
+      "title": "Apple Watch Ultra 3 vs Apple Watch Ultra 2 — Stejné tělo, lepší obrazovka",
+      "original_title": "Apple Watch Ultra 3 vs Apple Watch Ultra 2 — Same body, better screen - AppleInsider",
+      "url": "https://appleinsider.com/inside/apple-watch-ultra-3/vs/apple-watch-ultra-3-vs-apple-watch-ultra-2----same-body-better-screen",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/65100-135894-applewatchultra3ultra2-xl.jpg",
+      "source": "AppleInsider",
+      "publishedAt": "2025-09-13T18:16:00Z",
+      "description": "Apple Watch Ultra 3 přidává k dobrodružnému nositelnému zařízení větší displej, delší výdrž baterie a funkci Nouzové volání SOS přes satelit. Zde je přehled novinek oproti Apple Watch Ultra 2."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Viceprezidentka produktu v Googlu prozrazuje jedinou otázku, kterou si klade před změnou zaměstnání",
-      "original_title": "A VP of product at Google shares the one question she asks herself before changing jobs - Business Insider",
-      "url": "https://www.businessinsider.com/google-vp-shares-question-she-asks-before-every-job-switch-2025-9",
-      "urlToImage": "https://i.insider.com/68c2fd9057d362d375e7fb73?width=1066&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-09-14T09:03:00Z",
-      "description": "Mnoho lidí si vybírá práci podle názvu pozice nebo platu. Yulie Kwon Kim z Googlu říká, že jí s rozhodnutím pomohla jedna otázka."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Společnosti od Delty po Office Depot trestají zaměstnance za jejich veřejné komentáře k úmrtí Charlie Kirka",
-      "original_title": "Companies from Delta to Office Depot are disciplining employees for their public comments on Charlie Kirk's death - Business Insider",
-      "url": "https://www.businessinsider.com/charlie-kirk-microsoft-nasdaq-delta-office-depot-employees-public-comments-2025-9",
-      "urlToImage": "https://i.insider.com/68c5d959183847aa39d6bc41?width=1200&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-09-14T01:15:00Z",
-      "description": "Zaměstnavatelé jako Microsoft a Delta se vypořádávají s pracovníky, kteří komentovali Charlieho Kirka, čímž porušili firemní hodnoty."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ruská nákladní loď Progress dorazila k ISS s 2,8 tunami nákladu",
+      "title": "Ruská loď Progress dorazila k ISS s 2,8 tunami nákladu",
       "original_title": "Russian Progress spacecraft arrives at the ISS with 2.8 tons of cargo - Space",
       "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-93-spacecraft-arrives-international-space-station",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/zstZv5S4Nm7Hjf4PHffgQm.jpg",
@@ -274,29 +263,29 @@
       "urlToImage": "//www.upi.com/img/upi-fb.png",
       "source": "UPI.com",
       "publishedAt": "2025-09-13T16:35:15Z",
-      "description": "UPI přináší nejnovější zprávy z celého světa: Hlavní události, Zábava, Zdraví, Byznys, Věda a Sportovní novinky - United Press International"
+      "description": "UPI přináší nejnovější zprávy z celého světa: Hlavní zprávy, Zábava, Zdraví, Byznys, Věda a Sportovní novinky - United Press International"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Právě se chcete nechat očkovat proti covidu? Co byste měli vědět",
+      "title": "Chcete se nechat očkovat proti covidu? Tady je to, co potřebujete vědět",
       "original_title": "Trying to get a COVID vaccine right now? Here's what to know - NPR",
       "url": "https://www.npr.org/2025/09/13/nx-s1-5540088/covid-vaccine-2025-cdc-fda-guidelines",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F35%2F9131809442e4834487ca20c6a6f0%2Fgettyimages-1720991107.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-13T11:00:00Z",
-      "description": "Pokud nejste starší 65 let nebo nemáte určité rizikové faktory, může být obtížné vakcínu získat, ale ne nutně nemožné. Zde je přehled matoucích a rychle se měnících pravidel pro její získání."
+      "description": "Pokud vám není přes 65 let nebo nemáte určité rizikové faktory, může být obtížné vakcínu získat, ale ne nutně nemožné. Zde je to, co potřebujete vědět o matoucích a rychle se měnících pravidlech pr..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Je čas řešit nespavost – podle studie by vás tak mohla ochránit před demencí",
+      "title": "Je čas řešit nespavost – mohlo by vás to ochránit před demencí, uvádí studie",
       "original_title": "It’s time to address your insomnia — doing so could protect you against dementia, study says - CNN",
       "url": "https://www.cnn.com/2025/09/11/health/insomnia-dementia-study-wellness",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1390552613.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-11T18:00:06Z",
-      "description": "Nespavost je běžný problém, který se ne vždy bere dost vážně. Podle nového výzkumu však může být vaše převalování spojeno se stárnutím mozku."
+      "description": "Nespavost je běžný problém, kterému se ne vždy věnuje dost pozornosti. Podle nového výzkumu však může být vaše převalování spojeno se stárnutím mozku."
     }
   ]
 }
