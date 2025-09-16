@@ -1,60 +1,93 @@
 {
-  "last_updated": "2025-09-16T08:24:53",
+  "last_updated": "2025-09-16T09:19:58",
   "articles": [
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Sloupek | Ptá se Eric: Sousední zahradník nechce o zahradě diskutovat",
-      "original_title": "Column | Asking Eric: Neighborhood gardener doesn’t want to chat about garden - The Washington Post",
-      "url": "https://www.washingtonpost.com/advice/2025/09/15/asking-eric-garden-neighbor-peace/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-15T05:31:50Z",
-      "description": "Čtenáři čas na zahradění kazí upovídaní sousedé."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zákulisí: Čtyři zlověstné trendy, které rozervaly Ameriku",
+      "original_title": "Behind the Curtain: Four ominous trends tearing America apart - Axios",
+      "url": "https://www.axios.com/2025/09/15/charlie-kirk-political-violence-trends",
+      "urlToImage": "https://images.axios.com/kyQn_EpYcPlIr4Ttx0zglmMQp1c=/1366x768/smart/2023/11/03/145215-1699023135521.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-15T09:56:57Z",
+      "description": "Je těžké si představit, že volání po zabití Charlie Kirka a výhrůžky odvetou od druhých skončí dobře."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zákonodárci zvažují návrh zákona o práci na farmách. Farmáři z Pensylvánie je vyzývají, aby si pospíšili.",
+      "original_title": "Lawmakers are weighing a farm labor bill. Pennsylvania's farmers are telling them to hurry up. - Politico",
+      "url": "https://www.politico.com/news/2025/09/15/farm-labor-shortage-pennsylvania-trump-immigration-00560820",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe1%2F8a%2Fb6666b67456394745a6e25fe15da%2Fimg-1704-2.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-15T08:45:00Z",
+      "description": "Potřebujeme lidi na práce, na které jsou Američané příliš rozmazlení,\" řekl majitel ekologické mléčné farmy John Painter."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nový nabíječka iPhonu od Applu je první svého druhu.",
+      "original_title": "Apple’s new iPhone charger is a first of its kind - The Verge",
+      "url": "https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/iphone-charger-40w.png?quality=90&strip=all&crop=0%2C11.739830849778%2C100%2C76.520338300443&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-15T08:14:59Z",
+      "description": "Je dynamický!"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Xiaomi urychluje uvedení vlajkového smartphonu, aby konkuroval iPhonu 17",
+      "original_title": "Xiaomi Hastens Flagship Smartphone Release to Take On iPhone 17 - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-15/xiaomi-hastens-flagship-smartphone-release-to-take-on-iphone-17",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic26G0qNJGHQ/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-15T06:17:00Z",
+      "description": "Společnost Xiaomi Corp. uvede svůj další vlajkový smartphone tento měsíc a aktualizuje svou značku v rámci snahy konkurovat společnosti Apple Inc. o podíl na prémiovém trhu se smartphony."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Colbertův „Late Show“ vyhrál Emmy dva měsíce poté, co ho CBS zrušila",
+      "original_title": "Colbert's \"Late Show\" wins Emmy 2 months after CBS cancels show - Axios",
+      "url": "https://www.axios.com/2025/09/15/stephen-colbert-emmy-award-speech-ovation",
+      "urlToImage": "https://images.axios.com/Lqgpxj64sEEk1GMuBp2NwpJ7GVY=/0x0:5000x2813/1366x768/2025/09/15/1757908113973.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-15T05:46:25Z",
+      "description": "Nikdo nenabírá? žertoval Colbert, když sklidil první ze dvou ovací při předávání ceny dříve během večera."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Komedianta z Oaklandu nešetřil ostrá reakce na Kirkovu vraždu: ‚Nenechám se gaslightovat‘",
+      "title": "Komedianta z Oaklandu se nechal slyšet k Kirkově zabití: ‚Nenechám se mást‘",
       "original_title": "Oakland comedian’s blunt response to Charlie Kirk’s killing: ‘I won’t be gaslit’ - San Francisco Chronicle",
       "url": "https://www.sfchronicle.com/entertainment/article/kamau-bell-charlie-kirk-shooting-21047895.php",
       "urlToImage": "https://s.hdnux.com/photos/01/54/43/13/28455658/3/rawImage.jpg",
       "source": "San Francisco Chronicle",
       "publishedAt": "2025-09-15T05:26:15Z",
-      "description": "Komik W. Kamau Bell z East Bay nepláče po zastřeleném Charliem Kirkovi a volá po zdravorozumové reformě zbraní."
+      "description": "Komik z East Bay W. Kamau Bell říká, že po střelbě v Utahu nebude truchlit pro Charlieho Kirka, a volá po reformě zbraní založené na zdravém rozumu."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Zvuk černé díry 'kopnuté' vesmírem poprvé zachycen",
+      "original_title": "Sound of a Black Hole 'Kicked' Through Space Heard in a Stunning First - ScienceAlert",
+      "url": "https://www.sciencealert.com/sound-of-a-black-hole-kicked-through-space-heard-in-a-stunning-first",
+      "urlToImage": "https://www.sciencealert.com/images/2025/09/black-hole-yeet.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-09-15T05:25:32Z",
+      "description": "Zpětný ráz při srážce černých děr byl poprvé změřen pomocí gravitačních vln."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dva muži zatčeni v Utahu poté, co byl pod novinovým vozem nalezen výbušný systém",
+      "title": "Dva muži zatčeni v Utahu poté, co byl pod novinovým vozem nalezen výbušný mechanismus",
       "original_title": "2 men arrested in Utah after explosive device found under news vehicle - Axios",
       "url": "https://www.axios.com/2025/09/15/utah-arrest-explosive-device-fox-13-media-vehicle",
       "urlToImage": "https://images.axios.com/lIKqiv09Sr3JX0Mm72LThkFG0pI=/0x449:7630x4740/1366x768/2025/09/15/1757905438666.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-15T05:16:12Z",
-      "description": "Zařízení svítilo, ale „nefungovalo“, uvedla stanice Fox 13, pobočka Fox News ze Salt Lake City, která byla cílem útoku."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Emmys 2025: Colbertův triumf sklidil potlesk vestoje, ceremoniál byl však bez politiky",
-      "original_title": "Emmys 2025: Colbert Win Gets Standing Ovation But Ceremony Light On Politics - Forbes",
-      "url": "https://www.forbes.com/sites/siladityaray/2025/09/15/emmys-2025-colbert-win-gets-standing-ovation-but-ceremony-light-on-politics/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c792e35cfccac9877d860e/0x0.jpg?format=jpg&crop=1832,1031,x0,y54,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-09-15T04:26:00Z",
-      "description": "Ceremonie předávání cen Emmy proběhla za zvýšených bezpečnostních opatření po atentátu na Charlieho Kirka a politika byla zmíněna jen velmi málo."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Twenty One Pilots: Recenze alba Breach",
-      "original_title": "Twenty One Pilots: Breach Album Review - Pitchfork",
-      "url": "https://pitchfork.com/reviews/albums/twenty-one-pilots-breach/",
-      "urlToImage": "https://media.pitchfork.com/photos/68bef91e81f32eb660e16ab0/16:9/w_1280,c_limit/Twenty%20One%20Pilots:%20Breach.jpg",
-      "source": "Pitchfork",
-      "publishedAt": "2025-09-15T04:02:00Z",
-      "description": "Přečtěte si recenzi alba od Hannah Jocelyn."
+      "description": "Zařízení bylo zapáleno, ale „nefungovalo“, uvedla Fox 13, pobočka Fox News se sídlem v Salt Lake City, která uvedla, že byla cílem."
     },
     {
       "flag": "🌍",
@@ -65,12 +98,34 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP25256641663745-1-1757896182_1e98ec-1757896293.jpg?resize=1200%2C630&quality=80",
       "source": "Al Jazeera English",
       "publishedAt": "2025-09-15T03:36:40Z",
-      "description": "Guvernér Spencer Cox říká, že dvaadvacetiletý podezřelý trávil čas na ‚temných místech‘ online."
+      "description": "Guvernér Spencer Cox říká, že 22letý podezřelý trávil čas v ‚temných koutech‘ internetu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Phylicia Rashadová vzdává hold kolegovi ze seriálu 'Cosby Show' Malcomu Jamaal-Warnerovi v části In Memoriam cen Emmy, ale segment opomíjí Hulka Hogana, Polly Hollidayovou a další.",
+      "original_title": "Phylicia Rashad Salutes ‘Cosby Show’ Castmate Malcom Jamaal-Warner In Emmys’ In Memoriam, But Segment Omits Hulk Hogan, Polly Holliday & More - Deadline",
+      "url": "http://deadline.com/2025/09/emmys-2025-in-memoriam-1236531803/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Emmys-In-Memoriam-2025.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-15T03:04:00Z",
+      "description": "Phylicia Rashadová představila během nedělního předávání cen Emmy segment „in memoriam“ a vzdala tak hold své kolegyni ze seriálu Cosby Show Malcom-Jamal Warner."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Renck: Obviňovat rozhodčí z prohry Broncos s Colts je prostě pitomost. Tahle vina padá na Denver",
+      "original_title": "Renck: Blaming refs for Broncos’ loss to Colts is just plain dumb. This one’s on Denver - The Denver Post",
+      "url": "https://www.denverpost.com/2025/09/14/broncos-colts-loss-referees-week-2/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/09/TDP-L-BRONCOS-COLTS_JAC5843.jpg?w=1024&h=800",
+      "source": "The Denver Post",
+      "publishedAt": "2025-09-15T02:44:13Z",
+      "description": "Payton si zakládá na sestavování kádru plného chytrých, disciplinovaných a soutěživých hráčů. Proti Colts trefili tu soutěživou část."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Živě z Emmy 2025: Hvězda seriálu Adolescence Owen Cooper vítězí",
+      "title": "Emmys 2025: Živě. Hvězda seriálu Adolescence Owen Cooper zvítězil",
       "original_title": "Emmys 2025 live updates: Adolescence star Owen Cooper wins - BBC",
       "url": "https://www.bbc.com/news/live/czdjl3ngd70t",
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f270/live/07da80e0-91d4-11f0-9cf6-cbf3e73ce2b9.jpg",
@@ -79,37 +134,26 @@
       "description": "Owen Cooper (15) se zapsal do historie, seriály Severance, The Pitt a The Studio také slaví úspěch na 77. předávání cen Emmy"
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Akcie zůstávají blízko rekordu, pozornost se upírá na jednání Fedu: Přehled trhů",
-      "original_title": "Stocks Hold Near Record as Focus Turns to Fed Meet: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-14/dollar-steady-as-traders-turn-focus-to-fed-meeting-markets-wrap",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iETNjyswQBXo/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-15T02:17:00Z",
-      "description": "Akcie se držely blízko rekordních maxim a dolar stabilizoval s počátkem nového týdne, investoři se soustředí na nadcházející rozhodnutí Fedu o měnové politice."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Obchodní rozhovory USA a Číny pokračují druhý den, zatímco se blíží lhůta pro TikTok",
-      "original_title": "US-China trade talks set for day two as TikTok deadline looms - BBC",
-      "url": "https://www.bbc.com/news/articles/cj9zedgkm21o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4fa6/live/40252060-91d2-11f0-a890-15f1094420c9.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-15T02:14:41Z",
-      "description": "Jednání je nejnovějším pokusem ukončit obchodní válku mezi dvěma největšími ekonomikami světa."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Hochulová a Van Hollen podpořili Zohrana Mamdaniho, zatímco senátor kritizoval ‚bezkrevné‘ demokraty",
+      "original_title": "Hochul, Van Hollen back Zohran Mamdani as senator slams ‘spineless’ Democrats - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/14/van-hollen-democrats-mamdani-jeffries/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6IBG2XGUII6ZJBCCG53SHNTBM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-15T01:56:19Z",
+      "description": "Senátor Chris Van Hollen z Marylandu říká, že demokratičtí lídři musí podpořit kandidaturu Zohrana Mamdaniho na starostu New Yorku, pokud strana chce vyhrávat volby."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podle JPM poptávka po iPhonu 17 předčí model 16 na základě dodacích lhůt",
+      "title": "Podle JPM poptávka po iPhonu 17 předstihne šestnáctky díky kratším dodacím lhůtám",
       "original_title": "Apple iPhone 17 demand tracking to surpass 16 based on delivery lead times- JPM - Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/apple-iphone-17-demand-tracking-to-surpass-16-based-on-delivery-lead-times-jpm-4237869",
       "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEK460T8_L.jpg",
       "source": "Investing.com",
       "publishedAt": "2025-09-15T01:55:30Z",
-      "description": "JPM: Poptávka po iPhonu 17 by měla překonat model 16 na základě dodacích lhůt"
+      "description": "JPM: Zájem o Apple iPhone 17 podle dodacích lhůt překoná model 16"
     },
     {
       "flag": "🇺🇸",
@@ -125,18 +169,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Guvernérka New Yorku Kathy Hochulová podpořila Zohrana Mamdaniho na post starosty New Yorku",
-      "original_title": "N.Y. Gov. Kathy Hochul endorses Zohran Mamdani for NYC mayor - Axios",
-      "url": "https://www.axios.com/2025/09/15/ny-governor-hochul-endorses-mamdani-nyc-mayor",
-      "urlToImage": "https://images.axios.com/PzcUr0xpnvmp2efRbeVht5RauLk=/0x0:2400x1350/1366x768/2025/09/15/1757897110215.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-15T01:31:03Z",
-      "description": "Hochulová „potřebovala vědět, že příští starosta nebude někdo, kdo by se Trumpovi byť jen o píď podvolil,“ napsala v komentáři pro NYT."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kash Patel čelí kritice za své činy a příspěvky během vyšetřování střelby Charlie Kirka",
+      "title": "Kash Patel kritizován za své činy a příspěvky během vyšetřování střelby Charlie Kirka",
       "original_title": "Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation - NBC News",
       "url": "https://www.nbcnews.com/politics/justice-department/kash-patel-criticized-actions-posts-charlie-kirk-shooting-investigatio-rcna231043",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250914-patel-ch-1929-dbebb3.jpg",
@@ -145,114 +178,81 @@
       "description": "Aktivity ředitele FBI Káše Patela během vyšetřování vraždy Charlieho Kirka vyvolávají otázky ohledně jeho rozhodování, uvedli současní i bývalí úředníci."
     },
     {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nejlépe oblečené hvězdy na předávání cen Emmy 2025",
+      "original_title": "The Best Dressed Stars at the 2025 Emmys - Vogue",
+      "url": "https://www.vogue.com/slideshow/best-dressed-stars-2025-emmys-red-carpet",
+      "urlToImage": "https://assets.vogue.com/photos/68c7597c6e1cd14e592b2d4f/16:9/w_2580,c_limit/PhotoFunia-1757895006.jpg",
+      "source": "Vogue",
+      "publishedAt": "2025-09-15T00:25:51Z",
+      "description": "Tradiční glamour starého Hollywoodu — a riskantní současné modely také — zvítězily na Emmy 2025."
+    },
+    {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Katarský premiér vyzývá svět, aby skončil s „dvojím metrem“ a Izrael volal k odpovědnosti",
+      "title": "Katarský premiér vyzývá svět, aby skončil s „dvojím metrem“ a aby Izrael odpovídal za své činy",
       "original_title": "Qatar PM urges world to end 'double standards' and hold Israel accountable - France 24",
       "url": "https://www.france24.com/en/middle-east/20250915-qatar-world-israel-hamas-israel",
       "urlToImage": "https://s.france24.com/media/display/5f3635f6-91b5-11f0-893a-005056a90284/w:1280/p:16x9/000-73XT9AG.jpg",
       "source": "FRANCE 24 English",
       "publishedAt": "2025-09-15T00:00:58Z",
-      "description": "Katarský premiér vyzval mezinárodní společenství, aby odmítlo dvojí metr"
+      "description": "Katarský premiér vyzval mezinárodní společenství, aby odmítlo dvojí metr a Izrael odpověděl za úder na členy Hamásu v Dauhá"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX vyslala nákladní loď Northrop Grumman k Mezinárodní vesmírné stanici",
+      "title": "Rumunsko je druhým členem NATO během týdne, který hlásil ruský dron ve svém vzdušném prostoru",
+      "original_title": "Romania 2nd NATO nation in a week to report Russian drone in its airspace - Axios",
+      "url": "https://www.axios.com/2025/09/14/russia-romania-drone-ukraine-nato-eu",
+      "urlToImage": "https://images.axios.com/4_Cq6cVY3wuoR9meRYcRTOhcEe0=/0x0:5000x2813/1366x768/2025/09/14/1757886139340.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-15T00:00:00Z",
+      "description": "Ruská armáda přesně ví, kam jejich drony míří. To nemůže být náhoda, chyba, řekl Zelenskyj."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Brian Kilmeade z Fox News označil komentář o zabíjení duševně nemocných bezdomovců za ‚extrémně bezcitný‘",
+      "original_title": "Fox News’ Brian Kilmeade says comment about killing mentally ill homeless people an ‘extremely callous remark’ - CNN",
+      "url": "https://www.cnn.com/2025/09/14/business/brian-kilmeade-fox-news-apology-homeless",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25257593360414.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-14T23:26:27Z",
+      "description": "Po šokujícím výroku, že duševně nemocní bezdomovci by měli být usmrceni, se moderátor Fox News Brian Kilmeade v neděli omluvil za svůj „extrémně bezcitný“ komentář."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "SpaceX vypustila nákladní loď Northrop Grumman k Mezinárodní vesmírné stanici",
       "original_title": "SpaceX launches Northrop Grumman cargo ship to International Space Station - CBS News",
       "url": "https://www.cbsnews.com/news/spacex-launches-northrop-grumman-cargo-ship-to-international-space-station/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/14/f1fe56d4-c165-47b4-9234-b9d7a6ad07a5/thumbnail/1200x630/3b3a496038451d94a62c9d08ce9ce8ab/091425-launch.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-14T23:22:14Z",
-      "description": "Vylepšená kosmická loď Cygnus veze více než 5 tun vybavení a zásob, včetně svátečních jídel pro posádku laboratoře."
+      "description": "Vylepšená kosmická loď Cygnus veze více než pět tun vybavení a zásob včetně svátečního jídla pro posádku laboratoře."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Očkování proti ebole začalo na jihu Konga během nejnovějšího výskytu",
+      "title": "Očkování proti ebole začalo na jihu Konga během nejnovějšího výskytu nemoci",
       "original_title": "Ebola vaccination begins in southern Congo amid latest outbreak - PBS",
       "url": "https://www.pbs.org/newshour/world/ebola-vaccination-begins-in-southern-congo-amid-latest-outbreak",
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-04T171037Z_1005936980_RC24LGAZ71P0_RTRMADP_3_HEALTH-EBOLA-CONGO-1024x683.jpg",
       "source": "PBS",
       "publishedAt": "2025-09-14T19:42:49Z",
-      "description": "Očkování pro osoby vystavené viru ebola a zdravotníky v první linii začalo v jižní provincii Kasai, oznámila v neděli Světová zdravotnická organizace."
+      "description": "Očkování pro osoby vystavené viru Ebola a zdravotníky v první linii začalo v jižní provincii Kasai, oznámila v neděli Světová zdravotnická organizace."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova administrativa obnovuje snahu o odvolání guvernérky Fedu Lisy Cookové před klíčovým hlasováním",
-      "original_title": "Trump administration renews push to fire Fed governor Lisa Cook ahead of key vote - AP News",
-      "url": "https://apnews.com/article/trump-lisa-cook-federal-reserve-85fca8a405faa66e11c9567a193468e3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3a8128a/2147483647/strip/true/crop/5400x3038+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2Fed%2F0174f24b867f4b6532b1b09745b9%2F9ba952c0838c4d4c90d4fc12bc578d08",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-14T19:20:00Z",
-      "description": "Administrace prezidenta Donalda Trumpa obnovila žádost o odvolání Lisy Cookové z rady guvernérů Federálního rezervního systému."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Izrael zasáhl výškové budovy v Gaze, kabinet bude jednat o riziku pozemní operace pro rukojmí",
-      "original_title": "Israel strikes high-rises in Gaza City, ahead of cabinet meeting to discuss risk of ground operation to hostages - CNN",
-      "url": "https://www.cnn.com/2025/09/14/middleeast/gaza-strike-israel-hostages-meeting-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25257465869088.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-14T16:11:14Z",
-      "description": "Izraelská armáda v neděli zasáhla několik výškových budov v Gaze poté, co varovala lidi k opuštění několika čtvrtí. Jde o nejnovější vlnu ničení od chvíle, kdy Izrael na začátku týdne nařídil úplno..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "EU odsuzuje průnik ruského dronu do vzdušného prostoru Rumunska",
-      "original_title": "EU decries Russian drone’s breach of Romanian airspace - politico.eu",
-      "url": "https://www.politico.eu/article/eu-top-diplomat-decries-russias-breach-of-romanian-airspace/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/14/Kaja-Kallas-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-14T16:07:00Z",
-      "description": "„Toto pokračující bezohledné stupňování ohrožuje regionální bezpečnost,“ uvedla šéfka zahraniční politiky Kaja Kallasová."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Data z roveru Perseverance naznačují přítomnost minulého mikrobiálního života na Marsu",
+      "title": "Data z roveru Perseverance naznačují přítomnost dřívějšího mikrobiálního života na Marsu",
       "original_title": "Mars Perseverance rover data suggests presence of past microbial life - Phys.org",
       "url": "https://phys.org/news/2025-09-mars-perseverance-rover-presence-microbial.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/researchers-uncover-po-2.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-14T15:50:02Z",
-      "description": "Nový výzkum za účasti geologa z Texas A&amp;M University odhaluje potenciální chemické stopy po starověkém marsovském mikrobiálním životě"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Aerolinky suspendovaly zaměstnance za příspěvky o střelbě na Charlie Kirka",
-      "original_title": "Airlines suspend workers for posts about shooting of Charlie Kirk - CNN",
-      "url": "https://www.cnn.com/2025/09/14/us/airlines-suspend-workers",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153859673.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-14T14:46:24Z",
-      "description": "Delta Air Lines, American Airlines a United Airlines dočasně odvolaly zaměstnance za příspěvky na sociálních sítích o loňském středečním zastřelení Charlieho Kirka."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tato klíčová zpráva o iPhonu 17 Pro se nenaplnila, ale má k tomu dobrý důvod",
-      "original_title": "This key iPhone 17 Pro rumor didn’t come to fruition, but there’s a good reason for it - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/14/iphone-17-pro-rumor-didnt-come-to-fruition/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-14T14:12:00Z",
-      "description": "U iPhonu 17 Pro kolovala jedna velká spekulace, na kterou se mnoho fanoušků Applu těšilo…"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Čína se ohrazuje proti Trumpově hrozbě 100% cl: ‚My se toho neúčastníme…‘ | Zprávy ze světa",
-      "original_title": "China hits back at Trump's 100% tariffs threat: ‘We don’t participate in…' | World News - Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/china-wang-yi-hits-back-at-trumps-100-tariffs-threat-we-don-t-participate-in-101757843474788.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/09/14/1600x900/Slovenia-China-7_1757843865497_1757843919096.jpg",
-      "source": "Hindustan Times",
-      "publishedAt": "2025-09-14T13:48:35Z",
-      "description": "Wang Yi na tiskové konferenci v Lublani uvedl, že války problémy neřeší a sankce je jen komplikují. | Světové zprávy"
+      "description": "Nový výzkum s texaským geologem dokazuje možné stopy po mikrobiálním životě na Marsu"
     },
     {
       "flag": "🌍",
@@ -274,40 +274,29 @@
       "urlToImage": "//www.upi.com/img/upi-fb.png",
       "source": "UPI.com",
       "publishedAt": "2025-09-13T16:35:15Z",
-      "description": "UPI přináší nejnovější zprávy z celého světa: Hlavní události, Zábava, Zdraví, Podnikání, Věda a Sportovní novinky - United Press International"
+      "description": "UPI přináší nejnovější zprávy z celého světa: Hlavní události, Zábava, Zdraví, Byznys, Věda a Sportovní novinky - United Press International"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pixel 10 Pro nabízí konkurenční výhodu ve fotografování mobilem",
-      "original_title": "The Pixel 10 Pro offers a competitive edge in smartphone photography - Android Central",
-      "url": "https://www.androidcentral.com/phones/google-pixel/theres-one-key-reason-the-pixel-10-pro-is-my-main-camera-for-work",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Zuj8LqtCSzyHiLNWTHPmgb.jpg",
-      "source": "Android Central",
-      "publishedAt": "2025-09-13T15:17:00Z",
-      "description": "Myslel jsem si, že to této funkci chybí. Ukázalo se, že to Google dělá nejlíp."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chcete se nechat očkovat proti covidu? Zde je to, co byste měli vědět",
+      "title": "Chcete se nechat očkovat proti covidu? Tady je několik důležitých informací",
       "original_title": "Trying to get a COVID vaccine right now? Here's what to know - NPR",
       "url": "https://www.npr.org/2025/09/13/nx-s1-5540088/covid-vaccine-2025-cdc-fda-guidelines",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F35%2F9131809442e4834487ca20c6a6f0%2Fgettyimages-1720991107.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-13T11:00:00Z",
-      "description": "Pokud nejste starší 65 let nebo nemáte určité rizikové faktory, může být obtížné vakcínu získat, ale ne nutně nemožné. Zde je přehled matoucích a rychle se měnících pravidel pro její získání."
+      "description": "Pokud nejste starší 65 let nebo nemáte určité rizikové faktory, může být obtížné vakcínu získat, ale ne nutně nemožné. Zde je to, co je třeba vědět o matoucích a rychle se měnících pravidlech pro j..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Je čas řešit nespavost – může vás ochránit před demencí, uvádí studie",
+      "title": "Je čas řešit vaši nespavost – mohlo by vás to ochránit před demencí, tvrdí studie",
       "original_title": "It’s time to address your insomnia — doing so could protect you against dementia, study says - CNN",
       "url": "https://www.cnn.com/2025/09/11/health/insomnia-dementia-study-wellness",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1390552613.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-11T18:00:06Z",
-      "description": "Nespavost je běžný problém, který není vždy brán dostatečně vážně. Nový výzkum však ukazuje, že vaše převalování může souviset se stárnutím mozku."
+      "description": "Nespavost je běžný problém, kterému se ne vždy věnuje dostatečná pozornost. Nový výzkum však ukazuje, že váš neklidný spánek může souviset se stárnutím mozku."
     }
   ]
 }
