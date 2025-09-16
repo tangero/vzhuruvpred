@@ -1,0 +1,1209 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vzhůru a vpřed | Enhanced Swiss Style</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        /* Enhanced Swiss Style Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            /* Enhanced Swiss-inspired color palette */
+            --swiss-black: #000000;
+            --swiss-white: #ffffff;
+            --swiss-red: #ff0000;
+            --swiss-blue: #0066cc;
+            --swiss-yellow: #ffcc00;
+            --swiss-gray-50: #fafafa;
+            --swiss-gray-100: #f5f5f5;
+            --swiss-gray-200: #e8e8e8;
+            --swiss-gray-300: #d3d3d3;
+            --swiss-gray-400: #a3a3a3;
+            --swiss-gray-500: #737373;
+            --swiss-gray-600: #525252;
+            --swiss-gray-700: #404040;
+            --swiss-gray-800: #262626;
+            --swiss-gray-900: #1a1a1a;
+
+            /* Enhanced Typography - Modular Scale */
+            --font-primary: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+            --font-size-xs: 0.7rem;
+            --font-size-sm: 0.8rem;
+            --font-size-base: 1rem;
+            --font-size-lg: 1.25rem;
+            --font-size-xl: 1.5rem;
+            --font-size-2xl: 2rem;
+            --font-size-3xl: 2.5rem;
+            --font-size-4xl: 3rem;
+            --font-size-5xl: 4rem;
+            --font-size-6xl: 6rem;
+
+            /* Grid system */
+            --grid-gap: 2rem;
+            --container-max: 1400px;
+            --border-radius: 0; /* Pure Swiss = no border radius */
+
+            /* Timing functions */
+            --ease-swiss: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            --ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: var(--font-primary);
+            font-size: var(--font-size-base);
+            line-height: 1.6;
+            color: var(--swiss-black);
+            background: var(--swiss-white);
+            font-weight: 400;
+            overflow-x: hidden;
+        }
+
+        /* Enhanced Swiss Grid Container */
+        .swiss-container {
+            max-width: var(--container-max);
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Geometric Background Patterns */
+        .swiss-bg-pattern {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+            opacity: 0.02;
+        }
+
+        .swiss-grid-lines {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background:
+                linear-gradient(90deg, var(--swiss-black) 1px, transparent 1px),
+                linear-gradient(0deg, var(--swiss-black) 1px, transparent 1px);
+            background-size: 50px 50px;
+        }
+
+        /* Enhanced Header */
+        .swiss-header {
+            position: sticky;
+            top: 0;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(20px);
+            border-bottom: 2px solid var(--swiss-black);
+            z-index: 100;
+            transition: all 0.3s var(--ease-swiss);
+        }
+
+        .swiss-header.scrolled {
+            border-bottom-color: var(--swiss-red);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .swiss-nav {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            align-items: center;
+            padding: 1.5rem 0;
+            gap: var(--grid-gap);
+        }
+
+        .swiss-logo {
+            font-size: var(--font-size-xl);
+            font-weight: 900;
+            letter-spacing: -0.03em;
+            text-decoration: none;
+            color: var(--swiss-black);
+            position: relative;
+            transition: all 0.3s var(--ease-swiss);
+        }
+
+        .swiss-logo::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 0;
+            height: 3px;
+            background: var(--swiss-red);
+            transition: width 0.3s var(--ease-swiss);
+        }
+
+        .swiss-logo:hover::after {
+            width: 100%;
+        }
+
+        .swiss-menu {
+            display: flex;
+            list-style: none;
+            gap: 3rem;
+            justify-content: center;
+        }
+
+        .swiss-menu a {
+            text-decoration: none;
+            color: var(--swiss-black);
+            font-weight: 500;
+            font-size: var(--font-size-sm);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            position: relative;
+            transition: all 0.3s var(--ease-swiss);
+            padding: 0.5rem 0;
+        }
+
+        .swiss-menu a::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -10px;
+            width: 0;
+            height: 100%;
+            background: var(--swiss-yellow);
+            z-index: -1;
+            transition: width 0.3s var(--ease-swiss);
+        }
+
+        .swiss-menu a:hover {
+            color: var(--swiss-black);
+            transform: translateX(5px);
+        }
+
+        .swiss-menu a:hover::before {
+            width: calc(100% + 20px);
+        }
+
+        .swiss-cta {
+            text-align: right;
+        }
+
+        /* Enhanced Buttons */
+        .swiss-btn {
+            background: var(--swiss-black);
+            color: var(--swiss-white);
+            border: 2px solid var(--swiss-black);
+            padding: 1rem 2rem;
+            font-family: var(--font-primary);
+            font-weight: 600;
+            font-size: var(--font-size-sm);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            cursor: pointer;
+            transition: all 0.3s var(--ease-swiss);
+            text-decoration: none;
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .swiss-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: var(--swiss-red);
+            transition: left 0.3s var(--ease-swiss);
+            z-index: -1;
+        }
+
+        .swiss-btn:hover {
+            color: var(--swiss-white);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+        }
+
+        .swiss-btn:hover::before {
+            left: 0;
+        }
+
+        /* Dynamic Hero Section */
+        .swiss-hero {
+            padding: 8rem 0 6rem;
+            position: relative;
+            min-height: 90vh;
+            display: flex;
+            align-items: center;
+        }
+
+        .swiss-hero::before {
+            content: '';
+            position: absolute;
+            top: 10%;
+            right: 5%;
+            width: 300px;
+            height: 300px;
+            background: linear-gradient(45deg,
+                transparent 30%,
+                var(--swiss-blue) 30%,
+                var(--swiss-blue) 35%,
+                transparent 35%,
+                transparent 65%,
+                var(--swiss-yellow) 65%,
+                var(--swiss-yellow) 70%,
+                transparent 70%
+            );
+            opacity: 0.1;
+            transform: rotate(12deg);
+            animation: float 20s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: rotate(12deg) translateY(0px); }
+            50% { transform: rotate(12deg) translateY(-20px); }
+        }
+
+        .swiss-hero-grid {
+            display: grid;
+            grid-template-columns: 3fr 2fr;
+            grid-template-rows: auto auto auto;
+            gap: var(--grid-gap);
+            align-items: center;
+        }
+
+        .swiss-hero-main {
+            grid-column: 1;
+            grid-row: 1 / 4;
+            z-index: 2;
+        }
+
+        .swiss-hero-title {
+            font-size: clamp(var(--font-size-4xl), 10vw, var(--font-size-6xl));
+            font-weight: 900;
+            line-height: 0.85;
+            letter-spacing: -0.04em;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+
+        .swiss-hero-title .word {
+            display: inline-block;
+            opacity: 0;
+            transform: translateY(100px) rotate(5deg);
+            animation: wordReveal 0.8s var(--ease-bounce) forwards;
+        }
+
+        .swiss-hero-title .word:nth-child(1) { animation-delay: 0.1s; }
+        .swiss-hero-title .word:nth-child(2) { animation-delay: 0.3s; color: var(--swiss-red); }
+        .swiss-hero-title .word:nth-child(3) { animation-delay: 0.5s; color: var(--swiss-blue); }
+
+        @keyframes wordReveal {
+            to {
+                opacity: 1;
+                transform: translateY(0) rotate(0deg);
+            }
+        }
+
+        .swiss-hero-subtitle {
+            font-size: var(--font-size-xl);
+            font-weight: 200;
+            color: var(--swiss-gray-600);
+            margin-bottom: 3rem;
+            max-width: 600px;
+            line-height: 1.4;
+            opacity: 0;
+            animation: fadeInUp 1s var(--ease-swiss) 0.8s forwards;
+        }
+
+        .swiss-hero-actions {
+            display: flex;
+            gap: 1.5rem;
+            align-items: center;
+            opacity: 0;
+            animation: fadeInUp 1s var(--ease-swiss) 1s forwards;
+        }
+
+        .swiss-btn-outline {
+            background: transparent;
+            color: var(--swiss-black);
+            border: 2px solid var(--swiss-black);
+            padding: 1rem 2rem;
+            font-family: var(--font-primary);
+            font-weight: 600;
+            font-size: var(--font-size-sm);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            cursor: pointer;
+            transition: all 0.3s var(--ease-swiss);
+            text-decoration: none;
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .swiss-btn-outline::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: var(--swiss-blue);
+            transition: left 0.3s var(--ease-swiss);
+            z-index: -1;
+        }
+
+        .swiss-btn-outline:hover {
+            color: var(--swiss-white);
+            border-color: var(--swiss-blue);
+            transform: translateY(-2px);
+        }
+
+        .swiss-btn-outline:hover::before {
+            left: 0;
+        }
+
+        /* Enhanced Stats with Animations */
+        .swiss-hero-stats {
+            grid-column: 2;
+            grid-row: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+            padding: 2rem 0;
+        }
+
+        .swiss-stat {
+            text-align: right;
+            opacity: 0;
+            transform: translateX(50px);
+            animation: slideInRight 0.8s var(--ease-swiss) forwards;
+        }
+
+        .swiss-stat:nth-child(1) { animation-delay: 1.2s; }
+        .swiss-stat:nth-child(2) { animation-delay: 1.4s; }
+        .swiss-stat:nth-child(3) { animation-delay: 1.6s; }
+
+        @keyframes slideInRight {
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .swiss-stat-number {
+            font-size: var(--font-size-3xl);
+            font-weight: 900;
+            color: var(--swiss-red);
+            display: block;
+            line-height: 1;
+            transition: all 0.3s var(--ease-swiss);
+        }
+
+        .swiss-stat:hover .swiss-stat-number {
+            color: var(--swiss-blue);
+            transform: scale(1.1);
+        }
+
+        .swiss-stat-label {
+            font-size: var(--font-size-xs);
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--swiss-gray-600);
+            font-weight: 600;
+            margin-top: 0.5rem;
+        }
+
+        /* Dynamic Geometric Elements */
+        .swiss-hero-visual {
+            grid-column: 2;
+            grid-row: 2 / 4;
+            background: var(--swiss-gray-50);
+            position: relative;
+            overflow: hidden;
+            min-height: 300px;
+        }
+
+        .swiss-geometric {
+            position: absolute;
+            transition: all 0.3s var(--ease-swiss);
+        }
+
+        .swiss-geometric-1 {
+            background: var(--swiss-red);
+            width: 100px;
+            height: 100px;
+            top: 20%;
+            left: 20%;
+            transform: rotate(45deg);
+            animation: rotate360 20s linear infinite;
+        }
+
+        .swiss-geometric-2 {
+            background: var(--swiss-blue);
+            width: 60px;
+            height: 60px;
+            bottom: 30%;
+            right: 25%;
+            clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+            animation: pulse 3s ease-in-out infinite;
+        }
+
+        .swiss-geometric-3 {
+            border: 4px solid var(--swiss-yellow);
+            background: transparent;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            top: 60%;
+            left: 60%;
+            animation: bounce 4s ease-in-out infinite;
+        }
+
+        @keyframes rotate360 {
+            from { transform: rotate(45deg); }
+            to { transform: rotate(405deg); }
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.2); }
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        /* Interactive Content Grid */
+        .swiss-content {
+            padding: 6rem 0;
+        }
+
+        .swiss-content-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: var(--grid-gap);
+        }
+
+        .swiss-article {
+            border: 2px solid transparent;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            position: relative;
+            transition: all 0.3s var(--ease-swiss);
+            cursor: pointer;
+            background: var(--swiss-white);
+        }
+
+        .swiss-article::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, transparent 0%, var(--swiss-gray-50) 100%);
+            opacity: 0;
+            transition: opacity 0.3s var(--ease-swiss);
+            z-index: -1;
+        }
+
+        .swiss-article:hover {
+            border-color: var(--swiss-red);
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .swiss-article:hover::before {
+            opacity: 1;
+        }
+
+        .swiss-article:nth-child(even):hover {
+            border-color: var(--swiss-blue);
+        }
+
+        .swiss-article:nth-child(3n):hover {
+            border-color: var(--swiss-yellow);
+        }
+
+        .swiss-article-category {
+            font-size: var(--font-size-xs);
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--swiss-red);
+            font-weight: 700;
+            margin-bottom: 1rem;
+            position: relative;
+        }
+
+        .swiss-article-category::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 30px;
+            height: 2px;
+            background: currentColor;
+        }
+
+        .swiss-article-title {
+            font-size: var(--font-size-lg);
+            font-weight: 700;
+            line-height: 1.3;
+            margin-bottom: 1rem;
+            color: var(--swiss-black);
+            transition: color 0.3s var(--ease-swiss);
+        }
+
+        .swiss-article-title a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .swiss-article:hover .swiss-article-title {
+            color: var(--swiss-red);
+        }
+
+        .swiss-article:nth-child(even):hover .swiss-article-title {
+            color: var(--swiss-blue);
+        }
+
+        .swiss-article-excerpt {
+            font-size: var(--font-size-base);
+            color: var(--swiss-gray-600);
+            line-height: 1.5;
+            margin-bottom: 1.5rem;
+        }
+
+        .swiss-article-meta {
+            font-size: var(--font-size-sm);
+            color: var(--swiss-gray-500);
+            font-weight: 500;
+        }
+
+        /* Featured Article Enhancement */
+        .swiss-article-featured {
+            grid-column: 1 / -1;
+            border: 3px solid var(--swiss-black);
+            padding: 3rem;
+            background: var(--swiss-gray-50);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .swiss-article-featured::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 100px;
+            height: 100px;
+            background: var(--swiss-red);
+            clip-path: polygon(100% 0, 0 0, 100% 100%);
+        }
+
+        .swiss-article-featured .swiss-article-title {
+            font-size: var(--font-size-2xl);
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+        }
+
+        .swiss-article-featured .swiss-article-excerpt {
+            font-size: var(--font-size-lg);
+            max-width: 800px;
+        }
+
+        /* Revolutionary Newsletter Design */
+        .swiss-newsletter {
+            background: var(--swiss-black);
+            color: var(--swiss-white);
+            padding: 8rem 0;
+            margin: 6rem 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .swiss-newsletter::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -10%;
+            width: 120%;
+            height: 200%;
+            background:
+                repeating-linear-gradient(
+                    45deg,
+                    transparent,
+                    transparent 50px,
+                    rgba(255, 255, 255, 0.02) 50px,
+                    rgba(255, 255, 255, 0.02) 100px
+                );
+            animation: slide 30s linear infinite;
+        }
+
+        @keyframes slide {
+            0% { transform: translateX(-100px); }
+            100% { transform: translateX(100px); }
+        }
+
+        .swiss-newsletter-content {
+            position: relative;
+            z-index: 2;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 4rem;
+            align-items: center;
+        }
+
+        .swiss-newsletter-left h2 {
+            font-size: var(--font-size-4xl);
+            font-weight: 900;
+            margin-bottom: 2rem;
+            line-height: 1;
+            letter-spacing: -0.02em;
+        }
+
+        .swiss-newsletter-left p {
+            font-size: var(--font-size-lg);
+            color: var(--swiss-gray-300);
+            line-height: 1.4;
+        }
+
+        .swiss-form {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .swiss-input {
+            padding: 1.5rem;
+            border: 2px solid var(--swiss-white);
+            background: transparent;
+            color: var(--swiss-white);
+            font-family: var(--font-primary);
+            font-size: var(--font-size-base);
+            font-weight: 500;
+            transition: all 0.3s var(--ease-swiss);
+        }
+
+        .swiss-input::placeholder {
+            color: var(--swiss-gray-400);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-size: var(--font-size-sm);
+        }
+
+        .swiss-input:focus {
+            outline: none;
+            border-color: var(--swiss-red);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .swiss-form .swiss-btn {
+            background: var(--swiss-red);
+            border-color: var(--swiss-red);
+            color: var(--swiss-white);
+            padding: 1.5rem;
+            font-size: var(--font-size-base);
+            font-weight: 700;
+        }
+
+        .swiss-form .swiss-btn::before {
+            background: var(--swiss-white);
+        }
+
+        .swiss-form .swiss-btn:hover {
+            color: var(--swiss-black);
+        }
+
+        /* Enhanced Footer */
+        .swiss-footer {
+            border-top: 3px solid var(--swiss-black);
+            padding: 4rem 0 2rem;
+            margin-top: 6rem;
+            background: var(--swiss-gray-50);
+        }
+
+        .swiss-footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr;
+            gap: var(--grid-gap);
+        }
+
+        .swiss-footer-brand {
+            font-size: var(--font-size-xl);
+            font-weight: 900;
+            margin-bottom: 1rem;
+            letter-spacing: -0.02em;
+        }
+
+        .swiss-footer-text {
+            color: var(--swiss-gray-600);
+            font-size: var(--font-size-base);
+            line-height: 1.5;
+        }
+
+        .swiss-footer-links {
+            list-style: none;
+        }
+
+        .swiss-footer-links li {
+            margin-bottom: 0.75rem;
+        }
+
+        .swiss-footer-links a {
+            text-decoration: none;
+            color: var(--swiss-gray-600);
+            font-size: var(--font-size-base);
+            font-weight: 500;
+            transition: all 0.3s var(--ease-swiss);
+            position: relative;
+        }
+
+        .swiss-footer-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--swiss-red);
+            transition: width 0.3s var(--ease-swiss);
+        }
+
+        .swiss-footer-links a:hover {
+            color: var(--swiss-black);
+        }
+
+        .swiss-footer-links a:hover::after {
+            width: 100%;
+        }
+
+        /* Advanced Responsive Design */
+        @media (max-width: 1200px) {
+            .swiss-newsletter-content {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+        }
+
+        @media (max-width: 768px) {
+            :root {
+                --grid-gap: 1.5rem;
+            }
+
+            .swiss-nav {
+                grid-template-columns: 1fr;
+                text-align: center;
+                gap: 1rem;
+            }
+
+            .swiss-menu {
+                gap: 1.5rem;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            .swiss-hero {
+                padding: 4rem 0;
+            }
+
+            .swiss-hero-grid {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+
+            .swiss-hero-stats {
+                grid-column: 1;
+                flex-direction: row;
+                justify-content: space-between;
+                padding: 2rem 0;
+            }
+
+            .swiss-content-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .swiss-article-featured {
+                padding: 2rem;
+            }
+
+            .swiss-newsletter {
+                padding: 4rem 0;
+            }
+
+            .swiss-newsletter-content {
+                gap: 2rem;
+            }
+
+            .swiss-footer-grid {
+                grid-template-columns: 1fr;
+                text-align: center;
+                gap: 2rem;
+            }
+
+            .swiss-form {
+                max-width: 400px;
+                margin: 0 auto;
+            }
+        }
+
+        /* Advanced Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .swiss-article {
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        .swiss-article:nth-child(1) { animation-delay: 0.1s; }
+        .swiss-article:nth-child(2) { animation-delay: 0.2s; }
+        .swiss-article:nth-child(3) { animation-delay: 0.3s; }
+        .swiss-article:nth-child(4) { animation-delay: 0.4s; }
+
+        /* Scroll-triggered animations */
+        .animate-on-scroll {
+            opacity: 0;
+            transform: translateY(50px);
+            transition: all 0.8s var(--ease-swiss);
+        }
+
+        .animate-on-scroll.animated {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <!-- Background Pattern -->
+    <div class="swiss-bg-pattern">
+        <div class="swiss-grid-lines"></div>
+    </div>
+
+    <!-- Enhanced Swiss Header -->
+    <header class="swiss-header" id="main-header">
+        <nav class="swiss-container">
+            <div class="swiss-nav">
+                <a href="/" class="swiss-logo">VZHŮRU</a>
+
+                <ul class="swiss-menu">
+                    <li><a href="/technologie/">Tech</a></li>
+                    <li><a href="/analyzy/">Analýzy</a></li>
+                    <li><a href="/kultura/">Kultura</a></li>
+                    <li><a href="/nazory/">Názory</a></li>
+                </ul>
+
+                <div class="swiss-cta">
+                    <a href="#newsletter" class="swiss-btn">Newsletter</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Enhanced Hero Section -->
+    <section class="swiss-hero">
+        <div class="swiss-container">
+            <div class="swiss-hero-grid">
+                <div class="swiss-hero-main">
+                    <h1 class="swiss-hero-title">
+                        <span class="word">DIGITÁLNÍ</span>
+                        <span class="word">REVOLUCE</span>
+                        <span class="word">2025</span>
+                    </h1>
+                    <p class="swiss-hero-subtitle">
+                        Nezávislé zpravodajství o technologiích, inovacích a digitální transformaci
+                        pro generaci, která tvoří budoucnost.
+                    </p>
+                    <div class="swiss-hero-actions">
+                        <a href="#content" class="swiss-btn">Objevit články</a>
+                        <a href="/prednasky/" class="swiss-btn-outline">Sledovat přednášky</a>
+                    </div>
+                </div>
+
+                <div class="swiss-hero-stats">
+                    <div class="swiss-stat">
+                        <span class="swiss-stat-number">5.2K</span>
+                        <span class="swiss-stat-label">Aktivní čtenáři</span>
+                    </div>
+                    <div class="swiss-stat">
+                        <span class="swiss-stat-number">250+</span>
+                        <span class="swiss-stat-label">Publikovaných článků</span>
+                    </div>
+                    <div class="swiss-stat">
+                        <span class="swiss-stat-number">∞</span>
+                        <span class="swiss-stat-label">Možností budoucnosti</span>
+                    </div>
+                </div>
+
+                <div class="swiss-hero-visual">
+                    <div class="swiss-geometric swiss-geometric-1"></div>
+                    <div class="swiss-geometric swiss-geometric-2"></div>
+                    <div class="swiss-geometric swiss-geometric-3"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Enhanced Content Grid -->
+    <section class="swiss-content animate-on-scroll" id="content">
+        <div class="swiss-container">
+            <div class="swiss-content-grid">
+                <!-- Featured Article -->
+                <article class="swiss-article swiss-article-featured">
+                    <div class="swiss-article-category">Budoucnost technologií</div>
+                    <h2 class="swiss-article-title">
+                        <a href="#">Kvantové počítačstvo: Jak kvantové technologie přepisují pravidla kyberbezpečnosti</a>
+                    </h2>
+                    <p class="swiss-article-excerpt">
+                        Zatímco svět se připravuje na post-kvantovou kryptografii, mladí experti už dnes modelují
+                        bezpečnostní protokoly pro éru, kdy současné šifrovací metody budou obsoletní.
+                        Exclusive rozhovor s českými kvantovými pionýry.
+                    </p>
+                    <div class="swiss-article-meta">16.01.2025 • 12 min čtení • Exkluzivně</div>
+                </article>
+
+                <!-- Regular Articles -->
+                <article class="swiss-article">
+                    <div class="swiss-article-category">AI & Práce</div>
+                    <h3 class="swiss-article-title">
+                        <a href="#">Automatizace vs. Kreativita: Které profese přežijí AI revoluci?</a>
+                    </h3>
+                    <p class="swiss-article-excerpt">
+                        Studie MIT odhaluje překvapivé trendy na trhu práce. Které dovednosti investovat v roce 2025?
+                    </p>
+                    <div class="swiss-article-meta">15.01.2025 • 6 min</div>
+                </article>
+
+                <article class="swiss-article">
+                    <div class="swiss-article-category">Fintech</div>
+                    <h3 class="swiss-article-title">
+                        <a href="#">DeFi 3.0: Jak decentralizované finance řeší problémy reálného světa</a>
+                    </h3>
+                    <p class="swiss-article-excerpt">
+                        Od mikroúvěrů v rozvojových zemích po carbon credits trading. DeFi není jen o spekulacích.
+                    </p>
+                    <div class="swiss-article-meta">14.01.2025 • 8 min</div>
+                </article>
+
+                <article class="swiss-article">
+                    <div class="swiss-article-category">Společnost</div>
+                    <h3 class="swiss-article-title">
+                        <a href="#">Digital Wellness: Jak mladí bojují s technologickou únavou</a>
+                    </h3>
+                    <p class="swiss-article-excerpt">
+                        Generace Z objevuje digital detox. Trend či nutnost pro mentální zdraví?
+                    </p>
+                    <div class="swiss-article-meta">13.01.2025 • 5 min</div>
+                </article>
+
+                <article class="swiss-article">
+                    <div class="swiss-article-category">Klimatech</div>
+                    <h3 class="swiss-article-title">
+                        <a href="#">Carbon Capture 2.0: Startups, které zachrání planetu</a>
+                    </h3>
+                    <p class="swiss-article-excerpt">
+                        České a slovenské firmy v popředí boje s klimatickou změnou pomocí pokročilých technologií.
+                    </p>
+                    <div class="swiss-article-meta">12.01.2025 • 10 min</div>
+                </article>
+
+                <article class="swiss-article">
+                    <div class="swiss-article-category">Web3</div>
+                    <h3 class="swiss-article-title">
+                        <a href="#">Metaverse Reality Check: Co zůstalo z velkých slibů?</a>
+                    </h3>
+                    <p class="swiss-article-excerpt">
+                        Dva roky po Meta rebrandingu: kritická analýza současného stavu virtuálních světů.
+                    </p>
+                    <div class="swiss-article-meta">11.01.2025 • 7 min</div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- Revolutionary Newsletter -->
+    <section class="swiss-newsletter animate-on-scroll" id="newsletter">
+        <div class="swiss-container">
+            <div class="swiss-newsletter-content">
+                <div class="swiss-newsletter-left">
+                    <h2>BUDOUCNOST<br>ZAČÍNÁ TEĎKA</h2>
+                    <p>
+                        Každý pátek ti pošleme nejdůležitější trendy, průlomové technologie
+                        a příběhy lidí, kteří mění svět. Žádný spam, jen čistá inspirace.
+                    </p>
+                </div>
+                <div class="swiss-newsletter-right">
+                    <form class="swiss-form">
+                        <input type="email" class="swiss-input" placeholder="TVŮJ@EMAIL.CZ" required>
+                        <button type="submit" class="swiss-btn">PŘIHLÁSIT SE</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Enhanced Footer -->
+    <footer class="swiss-footer animate-on-scroll">
+        <div class="swiss-container">
+            <div class="swiss-footer-grid">
+                <div>
+                    <div class="swiss-footer-brand">VZHŮRU A VPŘED</div>
+                    <p class="swiss-footer-text">
+                        Nezávislý zpravodajský portál zaměřený na digitální transformaci,
+                        technologické inovace a jejich dopad na společnost 21. století.
+                    </p>
+                </div>
+
+                <div>
+                    <h4 style="margin-bottom: 1rem; font-weight: 700; color: var(--swiss-black);">Obsah</h4>
+                    <ul class="swiss-footer-links">
+                        <li><a href="/technologie/">Technologie</a></li>
+                        <li><a href="/analyzy/">Analýzy</a></li>
+                        <li><a href="/kultura/">Kultura</a></li>
+                        <li><a href="/nazory/">Názory</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 style="margin-bottom: 1rem; font-weight: 700; color: var(--swiss-black);">Info</h4>
+                    <ul class="swiss-footer-links">
+                        <li><a href="/o-nas/">O projektu</a></li>
+                        <li><a href="/kontakt/">Kontakt</a></li>
+                        <li><a href="/rss.xml">RSS Feed</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 style="margin-bottom: 1rem; font-weight: 700; color: var(--swiss-black);">Sociální sítě</h4>
+                    <ul class="swiss-footer-links">
+                        <li><a href="#">Twitter/X</a></li>
+                        <li><a href="#">LinkedIn</a></li>
+                        <li><a href="#">YouTube</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Enhanced JavaScript functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            // Header scroll effect
+            const header = document.getElementById('main-header');
+            let lastScrollY = window.scrollY;
+
+            window.addEventListener('scroll', () => {
+                const currentScrollY = window.scrollY;
+
+                if (currentScrollY > 100) {
+                    header.classList.add('scrolled');
+                } else {
+                    header.classList.remove('scrolled');
+                }
+
+                lastScrollY = currentScrollY;
+            });
+
+            // Smooth scrolling for internal links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                });
+            });
+
+            // Newsletter form handling with animation
+            document.querySelector('.swiss-form').addEventListener('submit', function(e) {
+                e.preventDefault();
+                const email = this.querySelector('.swiss-input').value;
+                if (email) {
+                    // Create success animation
+                    const button = this.querySelector('.swiss-btn');
+                    const originalText = button.textContent;
+
+                    button.textContent = 'ÚSPĚŠNĚ PŘIHLÁŠEN!';
+                    button.style.background = 'var(--swiss-blue)';
+
+                    setTimeout(() => {
+                        button.textContent = originalText;
+                        button.style.background = 'var(--swiss-red)';
+                        this.reset();
+                    }, 3000);
+                }
+            });
+
+            // Scroll-triggered animations
+            const animateElements = document.querySelectorAll('.animate-on-scroll');
+
+            const animateOnScroll = () => {
+                animateElements.forEach(element => {
+                    const elementTop = element.getBoundingClientRect().top;
+                    const elementVisible = 150;
+
+                    if (elementTop < window.innerHeight - elementVisible) {
+                        element.classList.add('animated');
+                    }
+                });
+            };
+
+            window.addEventListener('scroll', animateOnScroll);
+            animateOnScroll(); // Initial check
+
+            // Interactive geometric elements
+            const geometrics = document.querySelectorAll('.swiss-geometric');
+
+            geometrics.forEach(element => {
+                element.addEventListener('mouseenter', function() {
+                    this.style.transform += ' scale(1.2)';
+                });
+
+                element.addEventListener('mouseleave', function() {
+                    this.style.transform = this.style.transform.replace(' scale(1.2)', '');
+                });
+            });
+
+            // Dynamic color theme based on time
+            const hour = new Date().getHours();
+            if (hour < 6 || hour > 20) {
+                document.documentElement.style.setProperty('--swiss-gray-50', '#fafafa');
+                document.documentElement.style.setProperty('--swiss-gray-100', '#f0f0f0');
+            }
+
+            console.log('Enhanced Swiss Design loaded successfully! 🇨🇭✨');
+        });
+
+        // Advanced parallax effect for hero section
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const parallax = document.querySelector('.swiss-hero::before');
+            const geometrics = document.querySelectorAll('.swiss-geometric');
+
+            geometrics.forEach((geo, index) => {
+                const speed = 0.1 + (index * 0.05);
+                geo.style.transform += ` translateY(${scrolled * speed}px)`;
+            });
+        });
+    </script>
+</body>
+</html>
