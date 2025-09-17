@@ -1,28 +1,48 @@
 {
-  "updated": "2025-09-17T12:53:40.438872",
+  "updated": "2025-09-17T15:26:23.813429",
   "trends": [
     {
       "rank": 1,
       "query": "dji mini 5 pro",
-      "news_title": "DJI Mini 5 Pro oficiálně: 1\" senzor i rekordní výdrž baterie v malém dronu",
-      "news_url": "https://www.theverge.com/news/779339/dji-mini-5-pro-official-1-inch-sensors-come-to-small-drones-plus-the-longest-battery-life-yet",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTohlEirHuzzi_wLtU2AYTv9x_lVBbPyHgLPxSJNb0_aaIRPNDilJH6zLF_ij4",
-      "traffic": "200++ hledání",
-      "source": "The Verge",
+      "news_title": "DJI v pondělí představí novinky, které USA zřejmě nedostanou",
+      "news_url": "https://dronedj.com/2025/09/15/whatever-dji-announces-monday-still-likely-wont-come-to-the-us/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkENZcsF_brkXd_b5T1t6A9nZXJV_TcRCEv3c3cY0wQLZ-xb33pqbQGTDZj9U",
+      "traffic": "500++ hledání",
+      "source": "DroneDJ",
       "explore_url": "https://trends.google.cz/trends/explore?q=dji mini 5 pro&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "amálie švábíková",
-      "news_title": "MS v atletice 2025 ONLINE: Švábíková ve finále, Vadlejch v kvalifikaci",
-      "news_url": "https://www.idnes.cz/sport/atletika/ms-v-atletice-tokio-2025.A250917_094759_atletika_kazdt",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1LOxwRZ50yz8MNBqRv_aR7F4-7iFHIVC6cEE9SdoWiX1qZJiGafnY4VVCwB0",
+      "query": "полісся – шахтар",
+      "news_title": "Nazaryna, Izaki, Lukáš, Hluščenko a Fesjun – základ Šachtaru na pohár proti Polesí",
+      "news_url": "https://ua.tribuna.com/football/1000000279915-nazaryna-izaki-lukas-hlushchenko-ta-fesyun-v-osnovi-shak/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf0RedxNeRVl6HjsdCHo26hfHdEhs_DcJyZoDS20AQZ6icylhYN2tKhjdp5_4",
       "traffic": "200++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=amálie švábíková&geo=CZ"
+      "source": "Tribuna.com",
+      "explore_url": "https://trends.google.cz/trends/explore?q=полісся – шахтар&geo=CZ"
     },
     {
       "rank": 3,
+      "query": "krystyna pyszková",
+      "news_title": "Miss World Krystyna Pyszková je maminkou, porod utajila",
+      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/krystyna-pyszkova-miss-world-modelka-tehotenstvi-hodnoty.A250908_100654_lidicky_potu",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr5KbOlPqkVEOAmPY5sKg644eeax4OsdEkWDG0ffzPjxrrz7wCww3hYJRT3Fk",
+      "traffic": "200++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=krystyna pyszková&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "amálie švábíková",
+      "news_title": "Švábíková bez medaile, Vadlejch postupuje do finále hodu oštěpem",
+      "news_url": "https://www.sport.cz/clanek/atletika-svabikova-zabojuje-ve-svetovem-finale-forma-vadlejcha-s-otaznikem-5294056",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTwLriKeW2yvK9vp5HP3YTwzCRIxAPwsv-La0BMH24abty-9K1ekb2opRAwX4",
+      "traffic": "200++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=amálie švábíková&geo=CZ"
+    },
+    {
+      "rank": 5,
       "query": "zdeněk vocásek",
       "news_title": "Znalec u soudu: Vrah, který unikl trestu smrti, už není nebezpečný",
       "news_url": "https://www.novinky.cz/clanek/krimi-soud-rozhoduje-o-propusteni-nejdele-vezneneho-vraha-vocaska-ktery-unikl-trestu-smrti-40539250",
@@ -32,7 +52,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk vocásek&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "query": "rsbc",
       "news_title": "RSBC míří k bankrotu, v pozadí číhají dravci",
       "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-skupina-rsbc-se-chysta-na-oficialni-bankrot-v-pozadi-uz-cihaji-dravci-286205",
@@ -42,9 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=rsbc&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "query": "minimální mzda",
-      "news_title": "Roste minimální mzda. Kdo na tom vydělá a jaké to bude mít důsledky?",
+      "news_title": "Minimální mzda roste: Kdo na tom vydělá a jaké to bude mít důsledky?",
       "news_url": "https://www.idnes.cz/finance/prace-a-podnikani/minimalni-mzda-2026-odovdy-dopady.A250916_123430_podnikani_sov",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1P-uTmZcGSMTHL61F8wlBiT9bf2gEproNxVjs6BibW_Xc7974BSHGlUAwZDU",
       "traffic": "200++ hledání",
@@ -52,34 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=minimální mzda&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "krystyna pyszková",
-      "news_title": "Miss World Krystyna Pyszková porodila dítě. Porod ve Švýcarsku měsíc tajila.",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/krystyna-pyszkova-miss-world-modelka-tehotenstvi-hodnoty.A250908_100654_lidicky_potu",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr5KbOlPqkVEOAmPY5sKg644eeax4OsdEkWDG0ffzPjxrrz7wCww3hYJRT3Fk",
-      "traffic": "100++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=krystyna pyszková&geo=CZ"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "query": "nvidia stock",
-      "news_title": "Čína zakazuje firmám nákup AI čipů od Nvidie",
+      "news_title": "Čína zakázala firmám nákup AI čipů od Nvidie.",
       "news_url": "https://www.ft.com/content/12adf92d-3e34-428a-8d61-c9169511915c",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbCZAx83gOejMQsHeQsrzB-mO63EmRLDyI7EYTanwJggEQblDJgmj1x10uvYU",
       "traffic": "100++ hledání",
       "source": "Financial Times",
       "explore_url": "https://trends.google.cz/trends/explore?q=nvidia stock&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "dny nato",
-      "news_title": "Na Dny NATO nejlépe na kole. Parkování střeží bezplatně strážníci.",
-      "news_url": "https://polar.cz/zpravy/ostrava/ostrava-mesto/11000050613/na-dny-nato-nejlepe-na-kole-strezit-je-budou-bezplatne-straznici",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4QMS21hMIw3UVlyywax-DMQkPYl7tXpV5jusybzplDOAemYfAakHiuk3FUk",
-      "traffic": "100++ hledání",
-      "source": "Televize POLAR",
-      "explore_url": "https://trends.google.cz/trends/explore?q=dny nato&geo=CZ"
     }
   ]
 }
