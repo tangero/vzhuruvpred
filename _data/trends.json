@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-17T06:38:02.518758",
+  "updated": "2025-09-17T09:27:24.561589",
   "trends": [
     {
       "rank": 1,
       "query": "františek prachař",
-      "news_title": "Líbat se s klukem sestry je lepší než se sparťanem, říká nejmladší Prachařová",
+      "news_title": "Líbat se s klukem sestry je v pohodě, říká nejmladší Prachař",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/frantisek-prachar-linda-rybova-david-prachar-7-padu-honzy-dedka.A250916_104124_lidicky_nh",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhzGmK82cOFoh17LC5uxEUyTrluCdQoOd3c2l0oh0SiAXvA1QvjY4cJaDFZOI",
       "traffic": "1000++ hledání",
@@ -13,26 +13,6 @@
     },
     {
       "rank": 2,
-      "query": "juventus – bvb",
-      "news_title": "Kovac sauer! BVB-Stars se přou o penaltu v Champions League",
-      "news_url": "https://www.bild.de/sport/fussball/champions-league-niko-kovac-sauer-bvb-stars-streiten-sich-um-elfer-68c9cc52677ecd7137104a0d",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAOctLnMLRHaxCS2X8fU1l4_Vxm9eWml3T-TxVv55lfi7ZtyoobYx8rJB2Qo",
-      "traffic": "1000++ hledání",
-      "source": "BILD",
-      "explore_url": "https://trends.google.cz/trends/explore?q=juventus – bvb&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "real madrid",
-      "news_title": "Od hurikánu k přeživšímu",
-      "news_url": "https://as.com/futbol/primera/otra-vez-superviviente-n/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW3fv0zqs9NVseMWySEljYgoY2XhzThuya7aRsyB3Msj4l0JhRfBESFTy-cx0",
-      "traffic": "1000++ hledání",
-      "source": "Diario AS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=real madrid&geo=CZ"
-    },
-    {
-      "rank": 4,
       "query": "martina šimkovičová",
       "news_title": "Slovenská ministryně kultury byla hospitalizována",
       "news_url": "https://www.novinky.cz/clanek/zahranicni-slovenska-ministryne-kultury-musela-byt-nahle-hospitalizovana-40539218",
@@ -42,29 +22,29 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=martina šimkovičová&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "query": "jitka smutná",
-      "news_title": "Ulice slaví 20 let, Krausová s Novákovou nakrojily dort",
-      "news_url": "https://www.cervenykoberec.cz/2699021/serial-ulice-oslavil-20-narozeniny-a-sarka-krausova-se-sandrou-novakovou-nakrojily-dort/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUqN9qWmOeYtPOgv57H2Jn2ftBw-W94VqBuoa4UlCyijOO1RYAEEF3O4xK9g",
+      "news_title": "Sestra vzpomíná na bratra. Jitka Smutná s úsměvem i láskou",
+      "news_url": "https://zeny.iprima.cz/jitka-smutna-vzpomina-na-bratra-485774",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScrNwZxec8mBDNkD5Swud7XK3tNZnxIf4jB6iUVK_qFcnvjgyupTei9seGobk",
       "traffic": "500++ hledání",
-      "source": "Červenýkoberec.cz",
+      "source": "Prima Ženy",
       "explore_url": "https://trends.google.cz/trends/explore?q=jitka smutná&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "query": "roblox",
-      "news_title": "Přátelství z Robloxu získalo děsivý rozměr",
-      "news_url": "https://www.nytimes.com/2025/09/12/technology/roblox-lawsuit-child-safety.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEhJJMKowoMV8jwbhlpeq3T8DRwbiIPtTGc0Rt8TyBK7LZoqf8SQ6BIEY2PMI",
+      "news_title": "Roblox a Discord žalovány kvůli online zneužití chlapce, který spáchal sebevraždu",
+      "news_url": "https://www.nbcnews.com/news/us-news/roblox-discord-sued-15-year-old-boy-was-allegedly-groomed-online-died-rcna231049",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSy1Q7NzHDeeDx_jeEjN7-A9-dMdyJaFkqm3kpoSiKOuHO6eMF-Kjbo1JYEsiU",
       "traffic": "500++ hledání",
-      "source": "The New York Times",
+      "source": "NBC News",
       "explore_url": "https://trends.google.cz/trends/explore?q=roblox&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "query": "real madrid vs marseille",
-      "news_title": "Real Madrid poráží Marseille 2:1. Mbappe dvakrát skóroval z penalty.",
+      "news_title": "Real Madrid 2-1 Marseille: Mbappe dvěma penalty rozhodl o obratu domácích",
       "news_url": "https://www.bbc.com/sport/football/live/cjw72dnl36dt",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJssnJgLLXsjLYdRoiG7-mnGGipO9h1Ak3welq7JMCZcMeG-WaZI7GOu1IOD4",
       "traffic": "200++ hledání",
@@ -72,14 +52,34 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=real madrid vs marseille&geo=CZ"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "query": "brentford – aston villa",
-      "news_title": "Brentford vyřadil Aston Villu po penaltách a postupuje v Carabao Cupu",
+      "news_title": "Brentford vyhrál po penaltách a postupuje dál v Carabao Cupu",
       "news_url": "https://www.bbc.com/sport/football/live/cvg4wdnxg70t",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1E_RfLEaUog1KpmwyJwj4iU3Q5omS0X4OGQ-NMP_KshV1k6qj47O6AWtSFpw",
       "traffic": "200++ hledání",
       "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=brentford – aston villa&geo=CZ"
+    },
+    {
+      "rank": 7,
+      "query": "minimální mzda",
+      "news_title": "Roste minimální mzda. Kdo na tom vydělá a jaké to bude mít důsledky?",
+      "news_url": "https://www.idnes.cz/finance/prace-a-podnikani/minimalni-mzda-2026-odovdy-dopady.A250916_123430_podnikani_sov",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1P-uTmZcGSMTHL61F8wlBiT9bf2gEproNxVjs6BibW_Xc7974BSHGlUAwZDU",
+      "traffic": "100++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=minimální mzda&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "dny nato",
+      "news_title": "Dny NATO tento víkend: místo konání, vstupné a doprava",
+      "news_url": "https://www.idnes.cz/ostrava/zpravy/dny-nato-2025-se-vraceji-po-rocni-pauze-kdy-se-konaji-jake-je-vstupne-a-lakadla.A250909_123541_ostrava-zpravy_wall",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkzkygY_jkdXNdg65AZr98vqcqJ4DpiNpCihY3Cae_XHANF8RE1ZQ9-2v9xik",
+      "traffic": "100++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=dny nato&geo=CZ"
     }
   ]
 }
