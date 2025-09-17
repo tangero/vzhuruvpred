@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-17T01:53:26.260899",
+  "updated": "2025-09-17T03:32:19.294404",
   "trends": [
     {
       "rank": 1,
       "query": "real – marseille",
-      "news_title": "Real Madrid 2-1 OM: Marseille v Lize mistrů těsně padla",
+      "news_title": "Real Madrid 2-1 OM: Marseille těsně podlehla v Lize mistrů",
       "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/real-madrid-om-live/685493",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuAszaAEdK4i2PhnhscJMCsHLZyVGGHrJTacprgXy8EJBQRaAC0TM9nfRVJZg",
       "traffic": "2000++ hledání",
@@ -13,8 +13,18 @@
     },
     {
       "rank": 2,
+      "query": "tottenham – villarreal",
+      "news_title": "Tottenham poráží Villarreal 1:0 vlastním gólem Luize Juniora",
+      "news_url": "https://www.bbc.com/sport/football/live/cn76vydrlrmt",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyJYhg5IwkRmMSqhwWh9CLJeMJ0gUpwV0V3NXx5toeoIO7aAH4q3U-BUdYcIY",
+      "traffic": "2000++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tottenham – villarreal&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "františek prachař",
-      "news_title": "František Prachař",
+      "news_title": "František Prachař: Jak se změnil od dob, kdy hrál v Comebacku?",
       "news_url": "https://www.google.com/search?q=františek prachař&tbm=nws",
       "picture": null,
       "traffic": "1000++ hledání",
@@ -22,9 +32,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=františek prachař&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "query": "juventus – bvb",
+      "news_title": "BVB remizuje 4:4 s Juventusem Turín po restartu",
+      "news_url": "https://www.kicker.de/juventus-gegen-dortmund-2025-champions-league-5170101/ticker",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxyn1L8InJ46nRNWIjY_JvLTCoZokQIEAPAq3upHGhV3sFDiYGnW9Llk43hvQ",
+      "traffic": "1000++ hledání",
+      "source": "Kicker",
+      "explore_url": "https://trends.google.cz/trends/explore?q=juventus – bvb&geo=CZ"
+    },
+    {
+      "rank": 5,
       "query": "real madrid",
-      "news_title": "Od hurikánu k supervivientovi",
+      "news_title": "Od hurikánu k přeživšímu",
       "news_url": "https://as.com/futbol/primera/otra-vez-superviviente-n/",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW3fv0zqs9NVseMWySEljYgoY2XhzThuya7aRsyB3Msj4l0JhRfBESFTy-cx0",
       "traffic": "1000++ hledání",
@@ -32,17 +52,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=real madrid&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "tottenham – villarreal",
-      "news_title": "Tottenham poráží Villarreal 1:0 vlastním gólem Luize Juniora",
-      "news_url": "https://www.bbc.com/sport/football/live/cn76vydrlrmt",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyJYhg5IwkRmMSqhwWh9CLJeMJ0gUpwV0V3NXx5toeoIO7aAH4q3U-BUdYcIY",
-      "traffic": "1000++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=tottenham – villarreal&geo=CZ"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "query": "jitka smutná",
       "news_title": "Ulice slaví 20 let, Krausová s Novákovou nakrojily dort",
       "news_url": "https://www.cervenykoberec.cz/2699021/serial-ulice-oslavil-20-narozeniny-a-sarka-krausova-se-sandrou-novakovou-nakrojily-dort/",
@@ -52,9 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jitka smutná&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "roblox",
-      "news_title": "Přátelství z Robloxu získalo děsivý rozměr",
+      "news_title": "Poznal kamaráda na Robloxu. Jejich přátelství nabralo děsivý obrat.",
       "news_url": "https://www.nytimes.com/2025/09/12/technology/roblox-lawsuit-child-safety.html",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEhJJMKowoMV8jwbhlpeq3T8DRwbiIPtTGc0Rt8TyBK7LZoqf8SQ6BIEY2PMI",
       "traffic": "500++ hledání",
@@ -62,19 +72,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=roblox&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "juventus – bvb",
-      "news_title": "Juventus - Dortmund 4:4, napínavá remíza v úvodu Champions League",
-      "news_url": "https://www.kicker.de/juventus-gegen-dortmund-2025-champions-league-5170101/ticker",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh2Yx3By2lRFupS2TsPv-AGP6rhkjZ838PkOktt8QtRT80_ptTzaqBAK_9es8",
-      "traffic": "500++ hledání",
-      "source": "Kicker",
-      "explore_url": "https://trends.google.cz/trends/explore?q=juventus – bvb&geo=CZ"
-    },
-    {
       "rank": 8,
       "query": "real madrid vs marseille",
-      "news_title": "Real Madrid 2-1 Marseille: Mbappe dvěma penalty rozhodl o obratu",
+      "news_title": "Real Madrid poráží Marseille 2:1. Mbappe dvakrát skóroval z penalty.",
       "news_url": "https://www.bbc.com/sport/football/live/cjw72dnl36dt",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJssnJgLLXsjLYdRoiG7-mnGGipO9h1Ak3welq7JMCZcMeG-WaZI7GOu1IOD4",
       "traffic": "200++ hledání",
