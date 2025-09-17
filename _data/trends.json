@@ -1,48 +1,28 @@
 {
-  "updated": "2025-09-17T03:32:19.294404",
+  "updated": "2025-09-17T06:38:02.518758",
   "trends": [
     {
       "rank": 1,
-      "query": "real – marseille",
-      "news_title": "Real Madrid 2-1 OM: Marseille těsně podlehla v Lize mistrů",
-      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/real-madrid-om-live/685493",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuAszaAEdK4i2PhnhscJMCsHLZyVGGHrJTacprgXy8EJBQRaAC0TM9nfRVJZg",
-      "traffic": "2000++ hledání",
-      "source": "L'Équipe",
-      "explore_url": "https://trends.google.cz/trends/explore?q=real – marseille&geo=CZ"
-    },
-    {
-      "rank": 2,
-      "query": "tottenham – villarreal",
-      "news_title": "Tottenham poráží Villarreal 1:0 vlastním gólem Luize Juniora",
-      "news_url": "https://www.bbc.com/sport/football/live/cn76vydrlrmt",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyJYhg5IwkRmMSqhwWh9CLJeMJ0gUpwV0V3NXx5toeoIO7aAH4q3U-BUdYcIY",
-      "traffic": "2000++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=tottenham – villarreal&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "františek prachař",
-      "news_title": "František Prachař: Jak se změnil od dob, kdy hrál v Comebacku?",
-      "news_url": "https://www.google.com/search?q=františek prachař&tbm=nws",
-      "picture": null,
+      "news_title": "Líbat se s klukem sestry je lepší než se sparťanem, říká nejmladší Prachařová",
+      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/frantisek-prachar-linda-rybova-david-prachar-7-padu-honzy-dedka.A250916_104124_lidicky_nh",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhzGmK82cOFoh17LC5uxEUyTrluCdQoOd3c2l0oh0SiAXvA1QvjY4cJaDFZOI",
       "traffic": "1000++ hledání",
-      "source": null,
+      "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=františek prachař&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "query": "juventus – bvb",
-      "news_title": "BVB remizuje 4:4 s Juventusem Turín po restartu",
-      "news_url": "https://www.kicker.de/juventus-gegen-dortmund-2025-champions-league-5170101/ticker",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxyn1L8InJ46nRNWIjY_JvLTCoZokQIEAPAq3upHGhV3sFDiYGnW9Llk43hvQ",
+      "news_title": "Kovac sauer! BVB-Stars se přou o penaltu v Champions League",
+      "news_url": "https://www.bild.de/sport/fussball/champions-league-niko-kovac-sauer-bvb-stars-streiten-sich-um-elfer-68c9cc52677ecd7137104a0d",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAOctLnMLRHaxCS2X8fU1l4_Vxm9eWml3T-TxVv55lfi7ZtyoobYx8rJB2Qo",
       "traffic": "1000++ hledání",
-      "source": "Kicker",
+      "source": "BILD",
       "explore_url": "https://trends.google.cz/trends/explore?q=juventus – bvb&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "query": "real madrid",
       "news_title": "Od hurikánu k přeživšímu",
       "news_url": "https://as.com/futbol/primera/otra-vez-superviviente-n/",
@@ -52,7 +32,17 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=real madrid&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "query": "martina šimkovičová",
+      "news_title": "Slovenská ministryně kultury byla hospitalizována",
+      "news_url": "https://www.novinky.cz/clanek/zahranicni-slovenska-ministryne-kultury-musela-byt-nahle-hospitalizovana-40539218",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqkHVuZ2-HyE43LmzpRW26JC8qvyU_t97se-yiISn7j5MmwJYm6NXLLbWe4DQ",
+      "traffic": "500++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=martina šimkovičová&geo=CZ"
+    },
+    {
+      "rank": 5,
       "query": "jitka smutná",
       "news_title": "Ulice slaví 20 let, Krausová s Novákovou nakrojily dort",
       "news_url": "https://www.cervenykoberec.cz/2699021/serial-ulice-oslavil-20-narozeniny-a-sarka-krausova-se-sandrou-novakovou-nakrojily-dort/",
@@ -62,9 +52,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jitka smutná&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "query": "roblox",
-      "news_title": "Poznal kamaráda na Robloxu. Jejich přátelství nabralo děsivý obrat.",
+      "news_title": "Přátelství z Robloxu získalo děsivý rozměr",
       "news_url": "https://www.nytimes.com/2025/09/12/technology/roblox-lawsuit-child-safety.html",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEhJJMKowoMV8jwbhlpeq3T8DRwbiIPtTGc0Rt8TyBK7LZoqf8SQ6BIEY2PMI",
       "traffic": "500++ hledání",
@@ -72,7 +62,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=roblox&geo=CZ"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "query": "real madrid vs marseille",
       "news_title": "Real Madrid poráží Marseille 2:1. Mbappe dvakrát skóroval z penalty.",
       "news_url": "https://www.bbc.com/sport/football/live/cjw72dnl36dt",
@@ -80,6 +70,16 @@
       "traffic": "200++ hledání",
       "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=real madrid vs marseille&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "brentford – aston villa",
+      "news_title": "Brentford vyřadil Aston Villu po penaltách a postupuje v Carabao Cupu",
+      "news_url": "https://www.bbc.com/sport/football/live/cvg4wdnxg70t",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1E_RfLEaUog1KpmwyJwj4iU3Q5omS0X4OGQ-NMP_KshV1k6qj47O6AWtSFpw",
+      "traffic": "200++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=brentford – aston villa&geo=CZ"
     }
   ]
 }
