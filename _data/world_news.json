@@ -1,32 +1,87 @@
 {
-  "last_updated": "2025-09-17T04:21:03",
+  "last_updated": "2025-09-17T05:17:36",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Britští politici odsuzují Muskův výrok na protimigračním mítinku",
-      "original_title": "British politicians condemn Elon Musk’s comments at anti-migrant rally - AP News",
-      "url": "https://apnews.com/article/elon-musk-britain-migrants-protest-b1f272511ff0c5bc6a8d7bf308063343",
-      "urlToImage": "https://dims.apnews.com/dims4/default/49f2f42/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F07%2Fb0%2Fb6539943556fe8c04b1529894499%2F461798e5dddb4a98afc4505f1f67bdd7",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-16T00:57:00Z",
-      "description": "Britský premiér odsoudil nebezpečné výroky Muska, který na shromáždění varoval před násilím"
+      "title": "Asijské akcie na otevření posilují po růstu na Wall Street: Shrnutí trhů",
+      "original_title": "Asian Stocks Gain at Open After Wall Street Rally: Markets Wrap - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-15/asian-futures-show-cautious-optimism-ahead-of-fed-markets-wrap",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGUBGnwNjLMg/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-16T04:18:00Z",
+      "description": "Asijské akcie atakují rekord poté, co Wall Street zaznamenala nová maxima, investoři vsází na snížení úrokových sazeb Fedem tento týden."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Odvolací soud: Lisa Cooková může zatím zůstat guvernérkou Fedu, zamítnuto Trumpovo úsilí o její odvolání",
-      "original_title": "Appeals court says Lisa Cook can remain Fed governor for now, rejecting Trump bid to remove her - CBS News",
-      "url": "https://www.cbsnews.com/news/lisa-cook-federal-reserve-ruling-trump-firing-appeals-court-fomc/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/28/9664f498-8877-46e4-91aa-dabc5e877748/thumbnail/1200x630g2/a8882f92ec8ce1c243e2753da75cef4a/gettyimages-2097696733.jpg",
+      "title": "Donald Trump v úzkých: Seznam útoků pravicových skupin na demokraty",
+      "original_title": "Donald Trump Cornered With List of Right-Wing Attacks on Democrats - The Daily Beast",
+      "url": "https://www.thedailybeast.com/donald-trump-cornered-with-list-of-right-wing-attacks-on-democrats/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/4DB3TOEYPVB2DJHF3Y4547O6XM.jpg?smart=true&auth=7301e1917297951bdd0cf56d61da9ff085c38cddee9c0446478c53ad4282f2b3&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2025-09-16T00:46:00Z",
+      "description": "Prezident, který se pokoušel politické násilí svalit na „levici“, v pondělí narazil na realitu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump posílá Národní gardu do Memphisu, Chicago je „pravděpodobně další“",
+      "original_title": "Trump sending National Guard to Memphis, says Chicago's \"probably next\" - Axios",
+      "url": "https://www.axios.com/2025/09/15/trump-national-guard-memphis-chicago-dc-crime",
+      "urlToImage": "https://images.axios.com/x9qvcv_XkC72prkItJfe_4qn25Y=/0x0:5812x3269/1366x768/2025/09/15/1757977224507.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-15T23:48:26Z",
+      "description": "Trump zřídil pro Memphis pracovní skupinu, která bude podle něj kopií mimořádně úspěšného projektu z Washingtonu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zvažování přínosů a rizik hormonální terapie při menopauze, zatímco FDA zvažuje odstranění \"black box\" varování",
+      "original_title": "Weighing the benefits and risks of hormone therapy for menopause as FDA considers removing \"black box\" warnings - CBS News",
+      "url": "https://www.cbsnews.com/news/hrt-for-menopause-risks-benefits-fda-black-box-warnings/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/15/3f0246d9-5961-4c72-b64c-b03d43981a5b/thumbnail/1200x630/119162325b50e3cc8dbe8062286b8d38/cbsn-fusion-menopause-hormone-therapy-gets-fresh-look-from-regulators-thumbnail.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-09-16T00:15:00Z",
-      "description": "Odvolací soud v USA zamítl žádost Trumpovy administrativy o okamžité povolení k odvolání Cookové z funkce."
+      "publishedAt": "2025-09-15T23:46:00Z",
+      "description": "Výzkum hormonální terapie pro ženy v menopauze se za poslední dvě desetiletí změnil. Zde je, co vědět, než FDA odstraní zdravotní varování u některých léčebných postupů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Northrop Grummanova nová kosmická loď je pořádný macek",
+      "title": "Generální prokurátorka Pam Bondi tvrdí, že Charlieho Kirka zabili ‚levicoví radikálové‘",
+      "original_title": "Attorney General Pam Bondi claims 'left-wing radicals' killed Charlie Kirk - ABC News",
+      "url": "https://abcnews.go.com/US/attorney-general-pam-bondi-claims-left-wing-radicals/story?id\\\\u003d125604411",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-15T23:03:45Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "J.D. Vance dnes v podcastu Charlieho Kirka řekl poměrně závažné věci",
+      "original_title": "J.D. Vance Said Some Pretty Serious Things on Charlie Kirk’s Podcast Today - Slate",
+      "url": "https://slate.com/news-and-politics/2025/09/charlie-kirk-jd-vance-show-podcast-death.html",
+      "urlToImage": "https://compote.slate.com/images/6f65d83b-8c7a-4e5b-8766-5d8b6256083a.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "source": "Slate Magazine",
+      "publishedAt": "2025-09-15T22:57:00Z",
+      "description": "„Toto není problém obou stran,“ řekla viceprezidentka. „Jedna strana má mnohem větší a zhoubný problém.“"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Recenze filmu ‚Normal‘: Bob Odenkirk je v naprosté formě v dechberoucí přestřelce Bena Wheatleyho",
+      "original_title": "‘Normal’ Review: Bob Odenkirk Fires on All Cylinders in Ben Wheatley’s Jaw-Droppingly Excessive Blast of a Crime Caper - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-reviews/normal-review-bob-odenkirk-ben-wheatley-1236368911/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/Normal-TIFF-Key-Still-Credit_-Allen-Fraser.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-15T22:33:53Z",
+      "description": "Na festivalu TIFF měl premiéru neowestern o dočasném šerifovi, který ve městečku v Minnesotě vycítí, že je něco v nepořádku. Hrají v něm i Henry Winkler a Lena Headey."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nový kosmický letoun od Northrop Grumman je pořádný macek",
       "original_title": "Northrop Grumman’s new spacecraft is a real chonker - Ars Technica",
       "url": "https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23encap1-1152x648.jpg",
@@ -37,29 +92,40 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump znovu hrozí převzetím policie v DC kvůli vymáhání přistěhovaleckých zákonů",
-      "original_title": "Trump threatens to take over DC police again over immigration enforcement - AP News",
-      "url": "https://apnews.com/article/trump-dc-washington-law-enforcement-1b5c79e8fc7211349651959bce908ab0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e74c331/2147483647/strip/true/crop/5528x3110+0+288/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F67%2F04faf503b93f0e3e27f9a4a71393%2Ffecdf179118a4d4b91c3b4660e8afda3",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-15T21:41:00Z",
-      "description": "Prezident Donald Trump znovu pohrozil federalizací policie ve Washingtonu, D.C."
+      "title": "Generální prokurátorka Floridy prohlásila nošení zbraní na veřejnosti za ‚zákon státu‘",
+      "original_title": "Florida attorney general declares open carry of guns ‘law of the state’ - Politico",
+      "url": "https://www.politico.com/news/2025/09/15/florida-attorney-general-declares-open-carry-of-guns-law-of-the-state-00564385",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd9%2F1f%2F3a2c5dce4bfeb6dab4f9dadb8953%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2232927711",
+      "source": "Politico",
+      "publishedAt": "2025-09-15T22:06:14Z",
+      "description": "James Uthmeier svůj postoj zveřejnil uprostřed přetahované mezi různými policejními složkami o tom, jak řešit případy nošení zbraní na veřejnosti."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpova administrativa oznámila, že dosáhla „rámcové“ dohody o zachování provozu TikToku v USA",
+      "original_title": "Trump administration says it’s reached ‘framework’ deal to keep TikTok running in US - Politico",
+      "url": "https://www.politico.com/news/2025/09/15/trump-china-tiktok-deal-00563750",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd4%2F60%2Ffd51825e453aa3f52d13f99300f6%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2207896917",
+      "source": "Politico",
+      "publishedAt": "2025-09-15T21:54:08Z",
+      "description": "Ministr financí Scott Bessent uvedl, že USA a Čína se dohodly na rámci, který umožní TikTok fungovat v USA poté, co jej Kongres loni zakázal."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "„Byl jsem to já“: Podezřelý ze střelby na Charlie Kirka se v chatu na Discordu přiznal",
+      "title": "‚Byl jsem to já‘: Podezřelý ze střelby na Charlie Kirka se v chatu na Discordu přiznal",
       "original_title": "‘It was me’: Suspect in Charlie Kirk shooting appeared to confess in Discord chat - The Washington Post",
       "url": "https://www.washingtonpost.com/investigations/2025/09/15/charlie-kirk-shooter-suspect-discord-chat/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDJAODFZAYZXYIQIQOV7AKXITM_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-15T21:39:17Z",
-      "description": "„Omlouvám se za to všechno,“ stálo v zprávě z účtu podezřelého, uvedli dva lidé obeznámení se zprávou a snímky obrazovky, které má The Post k dispozici."
+      "description": "„Omlouvám se za všechno,“ stálo v zprávě z účtu podezřelého, uvedli dva lidé obeznámení se zprávou a snímky obrazovky, které má The Post k dispozici."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nový výzkum ze Stanfordu přináší ještě více důvodů nenávidět letní čas",
+      "title": "Nový výzkum ze Stanfordu přináší další důvody, proč nenávidět letní čas",
       "original_title": "New Stanford study has even more reasons to hate daylight saving time - SFGATE",
       "url": "https://www.sfgate.com/bayarea/article/stanford-daylight-saving-time-health-21049551.php",
       "urlToImage": "https://s.hdnux.com/photos/01/54/16/54/28371771/3/rawImage.jpg",
@@ -70,73 +136,40 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Do poradního panelu CDC pro očkování přibylo 5 nových členů před klíčovým zasedáním",
+      "title": "Do poradního panelu CDC pro očkování přibylo před klíčovým zasedáním 5 nových členů",
       "original_title": "5 new members added to CDC vaccine advisory panel ahead of key meeting - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/15/nx-s1-5542390/cdc-vaccine-advisers-committee",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fc6%2Fdbd53c404a5e8b88821be0f6b734%2Fgettyimages-2221377707.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-15T21:04:32Z",
-      "description": "Ministr zdravotnictví Robert F. Kennedy Jr. jmenoval další nové poradce pro očkování v CDC několik dní před dvoudenním jednáním o vakcínách proti covidu a žloutence typu B."
+      "description": "Ministr zdravotnictví Robert F. Kennedy Jr. jmenoval další nové poradce pro očkování v CDC, několik dní před dvoudenním jednáním o vakcínách proti covidu a žloutence typu B."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kluby chlapců a dívek v Americe stále těží z kontroverzního vystoupení Natea Bargatzeho na cenách Emmy.",
-      "original_title": "The Boys & Girls Clubs of America are still benefiting from Nate Bargatze's controversial Emmys bit - AP News",
-      "url": "https://apnews.com/article/emmys-nate-bargatze-boys-girls-clubs-c8044e0c16997fa159219ac0c092a92e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9107d68/2147483647/strip/true/crop/4885x2748+0+255/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2F25%2Fce140439c3c772bdb692a534b4ed%2Fc69ac9eeec7749a58c1e617a80fea8d3",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-15T20:59:00Z",
-      "description": "Americké kluby pro chlapce a dívky zaznamenaly nárůst darů po kontroverzním fundraisingovém triku na cenách Emmy."
+      "title": "Akcie Tesly se dostávají do kladných čísel pro rok 2025 poté, co Elon Musk nakoupil akcie za zhruba 1 miliardu dolarů",
+      "original_title": "Tesla Stock Turns Positive for 2025 as Elon Musk Buys About $1B of Shares - Investopedia",
+      "url": "https://www.investopedia.com/tesla-stock-turns-positive-for-2025-as-elon-musk-buys-about-usd1b-of-shares-11809853",
+      "urlToImage": "https://www.investopedia.com/thmb/SJAIn4RQ4fzamMvEaT5irN0voFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2226916507-612bc2981bdf4d069c0ad3ca1ea91088.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-09-15T20:07:33Z",
+      "description": "Elon Musk minulý týden nakoupil asi 2,57 milionu akcií Tesly, čímž poslal akcie do kladných čísel za letošní rok."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Investoři očekávající snížení sazeb Fedu tento týden: Pozor na nezamýšlené dopady pro americké trhy a ekonomiku",
-      "original_title": "Investors eyeing a Fed rate cut this week: Beware the unintended fallout for U.S. markets and the economy - MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-eyeing-a-fed-rate-cut-this-week-beware-the-unintended-fallout-for-u-s-markets-and-the-economy-c8218c82",
-      "urlToImage": "https://images.mktw.net/im-74536765/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-15T20:49:00Z",
-      "description": "Podle Leuthold Group může snížení sazeb Fedem z roku 2007 napovědět, jak se situace tentokrát vyvine"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "TikTok si po prodeji zachová „čínské charakteristiky“, říká Bessent",
-      "original_title": "TikTok will retain \"Chinese characteristics\" after sale, Bessent says - Axios",
-      "url": "https://www.axios.com/2025/09/15/tiktok-ban-sale-china-deal-bessent",
-      "urlToImage": "https://images.axios.com/Kop94bN27k15sr78q-5TetXdcVA=/0x0:3500x1969/1366x768/2025/09/15/1757966285519.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-15T20:24:01Z",
-      "description": "Poslední prodloužení zákazu aplikace mělo vypršet tuto středu."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Dlouhodobá nezaměstnanost je na úrovni od konce pandemie nejvyšší a zatěžuje pracovníky i ekonomiku",
-      "original_title": "Long-term unemployment at post-pandemic high, straining workers and economy - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/15/long-term-unemployment-workers-jobs/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBVF3E4T5MMBQNQIZM76Q5JJNA_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-15T20:16:01Z",
-      "description": "Americká ekonomika zaznamenává nárůst dlouhodobé nezaměstnanosti, více než 1,9 milionu Američanů je bez práce 27 týdnů a déle, což vyvolává obavy ohledně trhu práce."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Britský aristokrat a jeho partnerka dostali 14 let za vraždu dcery",
+      "title": "Britský aristokrat a jeho partnerka dostali 14 let za zabití dcery",
       "original_title": "UK aristocrat, partner jailed 14 years for killing daughter - DW",
       "url": "https://www.dw.com/en/uk-aristocrat-partner-jailed-14-years-for-killing-daughter/a-74005007",
       "urlToImage": "https://static.dw.com/image/74004929_6.jpg",
       "source": "DW (English)",
       "publishedAt": "2025-09-15T19:08:10Z",
-      "description": "Constance Martenová a Mark Gordon byli sedm týdnů na začátku roku 2023 předmětem celostátního pátrání. Pár byl odhodlaný si ponechat své páté dítě poté, co jejich první čtyři děti byly svěřeny do p..."
+      "description": "Constance Martenová a Mark Gordon byli předmětem celostátního pátrání sedm týdnů počátkem roku 2023. Pár byl odhodlán si své páté dítě ponechat poté, co jejich první čtyři děti byly umístěny do péče."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Patel nelituje svého příspěvku o případu Charlie Kirka, který se ukázal jako nepravdivý",
+      "title": "Patel nelituje svého příspěvku o případu Charlieho Kirka, který se ukázal jako nepravdivý",
       "original_title": "Patel says he doesn't regret social media post about Charlie Kirk case that turned out to be wrong - CBS News",
       "url": "https://www.cbsnews.com/news/fbi-director-kash-patels-social-media-messaging-charlie-kirk-investigation/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/15/57b09ed7-cf53-405c-a63e-a497212e6906/thumbnail/1200x630/bad5960015c71acb925f56cafd992cf1/gettyimages-2234343330-1.jpg",
@@ -153,7 +186,7 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2235472222.jpg?w=1000&h=563&crop=1",
       "source": "Variety",
       "publishedAt": "2025-09-15T18:49:00Z",
-      "description": "Nedělní udílení cen Emmy s 7,4 milionu diváků bylo nejsledovanějším ceremoniálem od roku 2021."
+      "description": "Nedělní udílení cen Emmy sledovalo 7,4 milionu diváků, šlo o nejsledovanější ceremoniál od roku 2021."
     },
     {
       "flag": "🌍",
@@ -164,29 +197,29 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8093x4552+0+279/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F64%2F2a4c29e14b29b975cff9751619f2%2Fgettyimages-2210704057.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-15T18:34:22Z",
-      "description": "Prezident Trump chce, aby firmy hlásily zisky méně často. Šéfové firem to dlouho požadují, ale někteří finanční experti varují, že by to dopadlo špatně."
+      "description": "Trump by chtěl, aby firmy hlásily zisky méně často. Šéfové firem to dlouho požadují, ale někteří odborníci varují, že by to mohlo dopadnout špatně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "iOS 26 s novým designem Liquid Glass je nyní dostupné všem",
+      "title": "Apple iOS 26 s novým designem Liquid Glass je nyní dostupný všem",
       "original_title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch",
       "url": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-15-at-4.08.52PM.jpg?w=1034",
       "source": "TechCrunch",
       "publishedAt": "2025-09-15T17:45:19Z",
-      "description": "Mezi další funkce patří asistent pro screening hovorů, nová aplikace pro hraní her a náhledy, překlady v aplikacích napříč systémem a aktualizace aplikací Genmoji a Image Playground."
+      "description": "Mezi další funkce patří asistent pro screening hovorů, nová aplikace pro hraní her a náhledy, překlad v aplikacích napříč systémem a aktualizace aplikací Genmoji a Image Playground."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sonda: Netanjahu mluvil s Trumpem předtím, než Izrael bombardoval Katar",
-      "original_title": "Scoop: Netanyahu spoke to Trump before Israel bombed Qatar - Axios",
-      "url": "https://www.axios.com/2025/09/15/trump-netanyahu-call-israel-strike-qatar",
-      "urlToImage": null,
-      "source": "Axios",
-      "publishedAt": "2025-09-15T17:40:57Z",
-      "description": ""
+      "title": "Hannah Einbinder o svém virálním projevu na Emmy a novém účesu pro 5. řadu seriálu ‚Hacks‘",
+      "original_title": "Hannah Einbinder on Her Viral Emmy Speech and Fresh Haircut for Season 5 of ‘Hacks’ - Vogue",
+      "url": "https://www.vogue.com/article/hannah-einbinder-post-emmys-2025-interview",
+      "urlToImage": "https://assets.vogue.com/photos/68c84827c617539f416e8ee5/16:9/w_1280,c_limit/2234988884",
+      "source": "Vogue",
+      "publishedAt": "2025-09-15T17:14:39Z",
+      "description": "„Bylo pro mě důležité pokusit se mluvit o věcech, na kterých mi nejvíc záleží, a to jsou filadelfští Eagles a boj proti fašismu,“ říká Einbinderová o svém projevu na udílení cen Emmy."
     },
     {
       "flag": "🇺🇸",
@@ -197,45 +230,45 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQ6OYH5EGMZZSWE774XBA44PXU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-15T16:40:11Z",
-      "description": "Rozsáhlý průzkum deníku Washington Post a KFF podrobně popisuje, kdo má tendenci odmítat doporučení ohledně očkování a jaké k tomu má důvody."
+      "description": "Rozsáhlý průzkum deníku Washington Post a KFF popisuje, kdo odmítá očkování a proč."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak klimatičtí vědci viděli budoucnost dřív, než nastala",
+      "title": "Nejlepší beauty looks: 23 nezapomenutelných celebritních okamžiků z Emmy Awards 2025",
+      "original_title": "Best Beauty Looks: 23 Unforgettable Celebrity Glam Moments From the 2025 Emmy Awards - Cosmopolitan",
+      "url": "https://www.cosmopolitan.com/style-beauty/beauty/g66089574/best-emmy-beauty-looks-2025/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/jenna-ortega-attends-the-77th-primetime-emmy-awards-at-news-photo-1757943825.pjpeg?crop=1.00xw:0.335xh;0,0.0908xh&resize=1200:*",
+      "source": "Cosmopolitan.com",
+      "publishedAt": "2025-09-15T15:27:00Z",
+      "description": "Nejlepší účesy na předávání cen Emmy 2025: Od Jenny Ortega po Halsey"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jak klimatičtí vědci viděli budoucnost dříve, než nastala",
       "original_title": "How Climate Scientists Saw the Future Before It Arrived - Quanta Magazine",
       "url": "https://www.quantamagazine.org/how-climate-scientists-saw-the-future-before-it-arrived-20250915/",
       "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2025/09/04-MODELING-EARTH-cr.Mark-Belan-Social.jpg",
       "source": "Quanta Magazine",
       "publishedAt": "2025-09-15T15:18:54Z",
-      "description": "Za posledních 60 let se vědcům z velké části podařilo vytvořit počítačový model Země, aby zjistili, co přinese budoucnost. Jeden z nejambicióznějších projektů, jaké kdy lidstvo podniklo, nyní dosáh..."
+      "description": "Za posledních 60 let se vědcům z velké části podařilo vytvořit počítačový model Země, aby zjistili, co přinese budoucnost. Jeden z nejambicióznějších projektů, který lidstvo kdy podniklo, nyní dosá..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Gemini předstihl ChatGPT na vlně AI generovaných 3D figurek",
-      "original_title": "Gemini leapfrogs ChatGPT on a wave of AI-generated 3D figurines - The Verge",
-      "url": "https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Gemini_Generated_Rob_Verge.png?quality=90&strip=all&crop=0,36.595336221168,100,38.205745012028",
-      "source": "The Verge",
-      "publishedAt": "2025-09-15T14:59:52Z",
-      "description": "Po virální vlně AI je Gemini před ChatGPT v žebříčcích obchodů s aplikacemi."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Váš počítač s Windows 10 dosáhne konce životnosti za 30 dní. Zde jsou vaše možnosti",
-      "original_title": "Your Windows 10 PC is reaching its end in 30 days. Here are your options - PCWorld",
-      "url": "https://www.pcworld.com/article/2909284/your-windows-10-pc-is-reaching-its-end-in-30-days-here-are-your-options.html",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/monticello-Shutterstock.com_-1.jpg?quality=50&strip=all&w=1024",
-      "source": "PCWorld",
-      "publishedAt": "2025-09-15T14:38:00Z",
-      "description": "Microsoft nedávno „připomněl“ všem uživatelům Windows 10, že tento operační systém již nebude podporován."
+      "title": "Akcie Applu rostou díky silným předobjednávkám iPhonu 17 - Investor's Business Daily",
+      "original_title": "Apple Stock Rises Amid Strong iPhone 17 Preorders - Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-17-preorders/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/Stock-Apple-iPhone17color-company-1.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-09-15T14:58:00Z",
+      "description": "Akcie Applu v pondělí posílily poté, co analytici z Wall Street zaznamenali silné předobjednávky chytrých telefonů řady iPhone 17."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Zvuk černé díry 'kopnuté' vesmírem poprvé zachycen",
+      "title": "Zvuk černé díry 'kopnuté' vesmírem poprvé zachycen v úchvatném záznamu",
       "original_title": "Sound of a Black Hole 'Kicked' Through Space Heard in a Stunning First - ScienceAlert",
       "url": "https://www.sciencealert.com/sound-of-a-black-hole-kicked-through-space-heard-in-a-stunning-first",
       "urlToImage": "https://www.sciencealert.com/images/2025/09/black-hole-yeet.jpg",
@@ -246,35 +279,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V Africe propukla nová epidemie eboly. Co potřebujete vědět",
-      "original_title": "There’s a new outbreak of Ebola in Africa. Here’s what you need to know - The Conversation",
-      "url": "https://theconversation.com/theres-a-new-outbreak-of-ebola-in-africa-heres-what-you-need-to-know-264896",
-      "urlToImage": "https://images.theconversation.com/files/690757/original/file-20250915-56-rxugxu.jpg?ixlib=rb-4.1.0&rect=0%2C75%2C994%2C497&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source": "The Conversation Africa",
-      "publishedAt": "2025-09-15T02:56:00Z",
-      "description": "Vypuknutí epidemie v Demokratické republice Kongo si vyžádalo 28 životů, včetně čtyř zdravotníků. Co to znamená pro místní obyvatele i zbytek světa."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nejlépe oblečené hvězdy na udílení cen Emmy 2025",
-      "original_title": "The Best Dressed Stars at the 2025 Emmys - Vogue",
-      "url": "https://www.vogue.com/slideshow/best-dressed-stars-2025-emmys-red-carpet",
-      "urlToImage": "https://assets.vogue.com/photos/68c7597c6e1cd14e592b2d4f/16:9/w_2580,c_limit/PhotoFunia-1757895006.jpg",
-      "source": "Vogue",
-      "publishedAt": "2025-09-15T00:25:51Z",
-      "description": "Tradiční glamour starého Hollywoodu i riskantní současné modely vyhrály noc na Emmy 2025"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Data z roveru Perseverance naznačují přítomnost dávného mikrobiálního života na Marsu",
+      "title": "Data z roveru Perseverance naznačují přítomnost minulého mikrobiálního života na Marsu",
       "original_title": "Mars Perseverance rover data suggests presence of past microbial life - Phys.org",
       "url": "https://phys.org/news/2025-09-mars-perseverance-rover-presence-microbial.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/researchers-uncover-po-2.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-14T15:50:02Z",
-      "description": "Nový výzkum s texaským geologem dokazuje, že rover Perseverance možná našel stopy po dávném životu na Marsu"
+      "description": "Nová studie geologa z Texas A&amp;M University odhaluje potenciální stopy života na Marsu v horninách zkoumaných vozítkem Perseverance."
     }
   ]
 }
