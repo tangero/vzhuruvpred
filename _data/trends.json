@@ -1,20 +1,70 @@
 {
-  "updated": "2025-09-17T15:26:23.813429",
+  "updated": "2025-09-17T18:35:54.946920",
   "trends": [
     {
       "rank": 1,
-      "query": "dji mini 5 pro",
-      "news_title": "DJI v pondělí představí novinky, které USA zřejmě nedostanou",
-      "news_url": "https://dronedj.com/2025/09/15/whatever-dji-announces-monday-still-likely-wont-come-to-the-us/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkENZcsF_brkXd_b5T1t6A9nZXJV_TcRCEv3c3cY0wQLZ-xb33pqbQGTDZj9U",
-      "traffic": "500++ hledání",
-      "source": "DroneDJ",
-      "explore_url": "https://trends.google.cz/trends/explore?q=dji mini 5 pro&geo=CZ"
+      "query": "slavia",
+      "news_title": "Slavia - Bodö/Glimt 1:0, Mbodji skóroval po přihrávce Provoda",
+      "news_url": "https://www.idnes.cz/fotbal/pohary/liga-mistru-1-kolo-slavia-bodo-glimt-slavia-online.A250917_152021_fot_pohary_tals",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0kuETImnmwlFPjwAxuuhf01hVye0ZkNg2kJlTSXeifn4gNfziR5Ao5q5gSw",
+      "traffic": "5000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=slavia&geo=CZ"
     },
     {
       "rank": 2,
+      "query": "ea fc 26 web app",
+      "news_title": "Předstažení EA FC 26 na PS5 a PS4 spuštěno: 62 GB, hra dostupná první den",
+      "news_url": "https://www.fifaultimateteam.it/en/ea-fc-26-pre-download-opens-on-ps5-and-ps4-62gb-install-full-access-on-day-one/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8f6YnmmjqRg6OoVovpvzF8Moq3yEird-aA6pzbuNWHvyDF2JuPjWJ1F7szI",
+      "traffic": "500++ hledání",
+      "source": "FifaUltimateTeam.it",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ea fc 26 web app&geo=CZ"
+    },
+    {
+      "rank": 3,
+      "query": "bayern – chelsea",
+      "news_title": "Bayern vs. Chelsea: Proč může hrát Jackson",
+      "news_url": "https://www.espn.com/soccer/story/_/id/46289611/nicolas-jackson-loan-bayern-munich-striker-play-chelsea",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXoyCowoxRcFiL74TyzWYRMZyIVfAze3Q-xyYa_xCdk7g7W9iXGEZYxQPDO4",
+      "traffic": "200++ hledání",
+      "source": "ESPN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=bayern – chelsea&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "liverpool – atlético madrid",
+      "news_title": "Bayern vs. Chelsea, Liverpool vs. Atlético v Lize mistrů",
+      "news_url": "https://www.sport.cz/clanek/fotbal-liga-mistru-bayern-v-lize-mistru-vyzve-chelsea-liverpool-se-predstavi-proti-atletiku-5294079",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCl0KZMPULpcXV4oMOjcjiIyVoIUxWuuLXAmMAKvcd8WLI6kzmMWHviiYdr40",
+      "traffic": "200++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=liverpool – atlético madrid&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "fed",
+      "news_title": "Fed po devíti měsících snížil sazby",
+      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-americky-fed-po-deviti-mesicich-povolil-kohoutky-a-snizil-sazby-286293",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOi8yyYPAygSsIxlWkjfYh9lf_4jL-fYbW5tgKok1lZYbtAW3WdQ-CVeRDiIw",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=fed&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "divadlo járy cimrmana",
+      "news_title": "Skládá pro děti, písně zpívají i dospělí. Uhlíř křtí knihu rozhovorů",
+      "news_url": "https://www.seznamzpravy.cz/clanek/kultura-uz-dlouho-slapu-po-svete-jaroslav-uhlir-kniha-286272",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGOvDngpJJM0tXEY91DNXJvnM4lavG8YXLS8ZVd1zMm1oqtWBO04YqRuBVhyQ",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=divadlo járy cimrmana&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "полісся – шахтар",
-      "news_title": "Nazaryna, Izaki, Lukáš, Hluščenko a Fesjun – základ Šachtaru na pohár proti Polesí",
+      "news_title": "Nazaryna, Izaki, Lukas, Hlushchenko a Fesyun v sestavě Šachtaru na pohár proti Polissji",
       "news_url": "https://ua.tribuna.com/football/1000000279915-nazaryna-izaki-lukas-hlushchenko-ta-fesyun-v-osnovi-shak/",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf0RedxNeRVl6HjsdCHo26hfHdEhs_DcJyZoDS20AQZ6icylhYN2tKhjdp5_4",
       "traffic": "200++ hledání",
@@ -22,64 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=полісся – шахтар&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "krystyna pyszková",
-      "news_title": "Miss World Krystyna Pyszková je maminkou, porod utajila",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/krystyna-pyszkova-miss-world-modelka-tehotenstvi-hodnoty.A250908_100654_lidicky_potu",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr5KbOlPqkVEOAmPY5sKg644eeax4OsdEkWDG0ffzPjxrrz7wCww3hYJRT3Fk",
-      "traffic": "200++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=krystyna pyszková&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "amálie švábíková",
-      "news_title": "Švábíková bez medaile, Vadlejch postupuje do finále hodu oštěpem",
-      "news_url": "https://www.sport.cz/clanek/atletika-svabikova-zabojuje-ve-svetovem-finale-forma-vadlejcha-s-otaznikem-5294056",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTwLriKeW2yvK9vp5HP3YTwzCRIxAPwsv-La0BMH24abty-9K1ekb2opRAwX4",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=amálie švábíková&geo=CZ"
-    },
-    {
-      "rank": 5,
-      "query": "zdeněk vocásek",
-      "news_title": "Znalec u soudu: Vrah, který unikl trestu smrti, už není nebezpečný",
-      "news_url": "https://www.novinky.cz/clanek/krimi-soud-rozhoduje-o-propusteni-nejdele-vezneneho-vraha-vocaska-ktery-unikl-trestu-smrti-40539250",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7RZOj73Bq5LdTpzL0WX6NJTKM4hsALjXdkrFRdgaMMuCwg6n8Kue_kdVCSwo",
-      "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk vocásek&geo=CZ"
-    },
-    {
-      "rank": 6,
-      "query": "rsbc",
-      "news_title": "RSBC míří k bankrotu, v pozadí číhají dravci",
-      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-skupina-rsbc-se-chysta-na-oficialni-bankrot-v-pozadi-uz-cihaji-dravci-286205",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxvI9x6uFTp2aIpJHz2vhnnDFlnUyemFT6wzDCI7FrorMrwaWhcMWfk35m0QE",
-      "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=rsbc&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "minimální mzda",
-      "news_title": "Minimální mzda roste: Kdo na tom vydělá a jaké to bude mít důsledky?",
-      "news_url": "https://www.idnes.cz/finance/prace-a-podnikani/minimalni-mzda-2026-odovdy-dopady.A250916_123430_podnikani_sov",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1P-uTmZcGSMTHL61F8wlBiT9bf2gEproNxVjs6BibW_Xc7974BSHGlUAwZDU",
-      "traffic": "200++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=minimální mzda&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "nvidia stock",
-      "news_title": "Čína zakázala firmám nákup AI čipů od Nvidie.",
-      "news_url": "https://www.ft.com/content/12adf92d-3e34-428a-8d61-c9169511915c",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbCZAx83gOejMQsHeQsrzB-mO63EmRLDyI7EYTanwJggEQblDJgmj1x10uvYU",
+      "query": "олександрія – динамо київ",
+      "news_title": "Nazaryna, Izaki, Lukas, Glushchenko a Fesyun v sestavě Šachtaru na pohár proti Polesí",
+      "news_url": "https://ua.tribuna.com/football/1000000279915-nazaryna-izaki-lukas-hlushchenko-ta-fesyun-v-osnovi-shak/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf0RedxNeRVl6HjsdCHo26hfHdEhs_DcJyZoDS20AQZ6icylhYN2tKhjdp5_4",
       "traffic": "100++ hledání",
-      "source": "Financial Times",
-      "explore_url": "https://trends.google.cz/trends/explore?q=nvidia stock&geo=CZ"
+      "source": "Tribuna.com",
+      "explore_url": "https://trends.google.cz/trends/explore?q=олександрія – динамо київ&geo=CZ"
     }
   ]
 }
