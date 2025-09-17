@@ -1,16 +1,71 @@
 {
-  "last_updated": "2025-09-17T16:22:44",
+  "last_updated": "2025-09-17T17:15:26",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Šéf FBI pod palbou kritiky vyzývá senátory: „Pojďte na to“",
-      "original_title": "FBI chief, under fire, tells senators to ‘bring it on’ - Politico",
-      "url": "https://www.politico.com/live-updates/2025/09/16/congress/patel-testimony-underway-00565306",
-      "urlToImage": "https://www.politico.com/dims4/default/a09197f/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fa6%2F2f%2F875a9d6e418cb9d0c6a8f6911896%2Fpatel-senate-judiciary-002-25559.jpg",
+      "title": "Bondi čelí kritice za výrok, že ministerstvo spravedlnosti bude ‚stíhat‘ každého, kdo se dopustí ‚nenávistného projevu‘",
+      "original_title": "Bondi faces criticism for saying DOJ will 'target' anyone who engages in 'hate speech' - ABC News",
+      "url": "https://abcnews.go.com/Politics/bondi-faces-criticism-doj-target-engages-hate-speech/story?id\\\\u003d125621716",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-16T15:00:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump žaluje „zvrhlé“ New York Times o 15 miliard dolarů",
+      "original_title": "Trump sues ‘degenerate’ New York Times for $15B - Politico",
+      "url": "https://www.politico.com/news/2025/09/16/donald-trump-sues-new-york-times-15-billion-dollars-00565191",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffa%2F31%2F75ec71464ba48c1520b700772db1%2Ftrump-07268.jpg",
       "source": "Politico",
-      "publishedAt": "2025-09-16T14:12:00Z",
-      "description": "Kash Patel nyní vypovídá před senátním soudním výborem."
+      "publishedAt": "2025-09-16T14:37:27Z",
+      "description": "„New York Times mi byl příliš dlouho dovoleno svobodně lhát, pomlouvat a hanobit mě, a tohle skončí, OKAMŽITĚ!“ uvedl prezident v příspěvku na Truth Social."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Společnost Eli Lilly postaví ve Virginii zařízení za 5 miliard dolarů na zvýšení produkce cílených léků proti rakovině a dalších léčiv",
+      "original_title": "Eli Lilly to build $5 billion Virginia facility to boost production of targeted cancer drugs, other treatments - CNBC",
+      "url": "https://www.cnbc.com/2025/09/16/eli-lilly-to-build-5-billion-virginia-manufacturing-facility.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184894-17550206822025-08-12t173750z_397057516_rc26lz9i31dr_rtrmadp_0_usa-texas-eli-lilly.jpeg?v=1758034387&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-16T14:30:01Z",
+      "description": "Závod Eli Lilly je první ze čtyř plánovaných výrobních míst v USA, která by měla začít vyrábět léky do pěti let."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Ředitel FBI Kash Patel čelí v Kongresu dotazům ohledně vyšetřování Charlieho Kirka",
+      "original_title": "Kash Patel, FBI director, facing questions on Charlie Kirk investigation at Congress - BBC",
+      "url": "https://www.bbc.com/news/live/c04qenww53pt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c082/live/f657e7f0-92fe-11f0-97fb-076dbede0ddc.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-16T14:26:15Z",
+      "description": "Patel ve středu oznámil, že „předmět“ je v péči úřadů, než svá slova přehodnotil – později řekl, že to mohl „formulovat lépe“."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "OSN obviňuje Izrael z genocidy v Gaze, přidává se k rostoucímu počtu hlasů",
+      "original_title": "A U.N. inquiry accuses Israel of genocide in Gaza, joining a rising chorus - NPR",
+      "url": "https://www.npr.org/2025/09/16/g-s1-89014/israel-gaza-genocide-un-inquiry",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+86/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F5d%2F35b5de064771b44ee6e365ab53a8%2Fap25259231905262.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-16T14:26:15Z",
+      "description": "Zpráva OSN vyzývá k ukončení genocidy a potrestání viníků"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Izraelská armáda zahájila pozemní invazi do Gazy",
+      "original_title": "Israeli military begins ground invasion of Gaza City - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/16/israel-gaza-city-ground-invasion/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CGAQOGGHGIWC4GACEKP6ZRF5AI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-16T14:11:20Z",
+      "description": "Gaza zažila těžké bombardování, komise OSN obvinila Izrael z genocidy, ten to odmítá"
     },
     {
       "flag": "🌍",
@@ -18,191 +73,169 @@
       "title": "Obyvatelé východního Polska se obávají, že se k nim ruská válka na Ukrajině přiblíží",
       "original_title": "Residents of Eastern Poland Fear Russia’s War in Ukraine Is Coming to Them - The Wall Street Journal",
       "url": "https://www.wsj.com/world/europe/poland-reactions-russia-ukraine-war-cf53ca4c",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-75522737/social",
       "source": "The Wall Street Journal",
       "publishedAt": "2025-09-16T14:10:38Z",
+      "description": "Dny poté, co drony pronikly hluboko na polské území, se místní obávají, že by se hybridní kampaň Ruska mohla změnit v vojenskou konfrontaci"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Potápěči poprvé vyzvedli artefakty z Titaniku sesterské lodi Britannic",
+      "original_title": "Divers recover artifacts from the Titanic’s sister ship Britannic for the first time - AP News",
+      "url": "https://apnews.com/article/britannic-titanic-shipwreck-recovery-9a525f9831bc0d67c1c9604cc7155765",
+      "urlToImage": "https://dims.apnews.com/dims4/default/22f9ac1/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2F45%2Ffed1a7e26a32af88b47dd33a9fbf%2F93fda4c44caf45a997c019e66aec7ee0",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-16T13:02:00Z",
+      "description": "Potápěči poprvé vyzvedli artefakty ze sesterské lodi Titanicu, Britanniku"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "iOS 26: Všechny nové možnosti přizpůsobení zamykací obrazovky iPhonu",
+      "original_title": "iOS 26: All the New iPhone Lock Screen Customizations - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/16/ios-26-whats-new-iphone-lock-screen/",
+      "urlToImage": "https://images.macrumors.com/t/t-rJlXlgi6lzWD8ZvrdwO1HRuig=/2151x/article-new/2024/11/ios-26-lock-screen-time.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-16T12:56:55Z",
+      "description": "Apple vydal iOS 26 ke stažení pro kompatibilní modely iPhonů. Co je nového"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zemřel oscarový herec, režisér a aktivista Robert Redford, bylo mu 89 let",
+      "original_title": "Oscar-winning actor, director and activist Robert Redford passes away at 89 - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/16/oscar-winning-actor-director-and-activist-robert-redford-passes-away-at-89",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AFP__20211029__9QN2WG__v1__HighRes__MonacoEnvironmentAward-1758025903.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-16T12:43:24Z",
+      "description": "Redford byl liberální aktivista a kmotr nezávislé kinematografie ve jménu jedné ze svých nejoblíbenějších postav."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "United Airlines najme v rámci snahy o obrat 2 500 zaměstnanců v Newarku",
+      "original_title": "United Airlines to Hire 2,500 Newark Employees in Turnaround Effort - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/united-airlines-to-hire-2-500-newark-employees-in-turnaround-effort-f7386d34",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-16T12:00:00Z",
       "description": ""
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Soudce zamítl teroristická obvinění proti Luigimu Mangionemu",
-      "original_title": "Judge dismisses terrorism charges against Luigi Mangione - BBC",
-      "url": "https://www.bbc.com/news/articles/cj4y2p8qq5qo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5fed/live/c0e29970-9309-11f0-9cf6-cbf3e73ce2b9.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-16T14:02:19Z",
-      "description": "Soudce Gregory Carro také rozhodl, že obvinění Mangioneho z vrahta druhého stupně může zůstat v platnosti, a to během úterního jednání."
-    },
-    {
       "flag": "🌍",
       "country": "global",
-      "title": "Americké maloobchodní tržby překonaly odhady, naznačují silné letní výdaje",
-      "original_title": "US Retail Sales Beat Forecasts in Sign of Solid Summer Spending - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-16/us-retail-sales-rise-more-than-expected-in-broad-advance",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH8bQfGLjkmc/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-16T13:57:44Z",
-      "description": "Americké maloobchodní tržby v srpnu potřetí za sebou vzrostly v širokém záběru a završily tak léto odolné spotřeby."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Izrael zahájil pozemní ofenzívu k okupaci Gazy",
-      "original_title": "Israel launches ground offensive to occupy Gaza City - Axios",
-      "url": "https://www.axios.com/2025/09/15/israel-gaza-city-occupation-ground-offensive",
-      "urlToImage": "https://images.axios.com/iayaRwvjtnYz8V5OAbqiMDSFKq8=/0x0:5897x3317/1366x768/2025/09/15/1757971421543.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-16T12:26:11Z",
-      "description": "Trumpova administrativa pozemní operaci podporuje, ale chce, aby co nejdříve skončila."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Čína vypálila vodní děla po střetu s filipínskou lodí",
-      "original_title": "China Fires Water Cannons After Collision With Philippine Ship - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-16/chinese-coast-guard-targets-philippine-ships-near-disputed-shoal",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKPDYRJkp..8/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-16T12:08:06Z",
-      "description": "Filipínská a čínská plavidla se srazila u sporného útesu v Jihočínském moři, čínské hlídky použily vodní děla"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Meta představí nové chytré brýle tento týden",
+      "title": "Nové chybré brýle od společnosti Meta dorazí tento týden",
       "original_title": "Meta’s new smart glasses are coming this week - The Verge",
       "url": "https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257856_Meta_Oakley_HSTN_AKrales_0053.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-16T12:00:00Z",
-      "description": "Mark Zuckerberg vystoupí na Meta Connect 2025 ve středu ve 20:00 ET, očekávají se zprávy o AI a chytrých brýlích."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Atentát na Charlieho Kirka: Ředitel FBI Kash Patel odhaluje nové podrobnosti o podezřelém",
-      "original_title": "Charlie Kirk assassination: FBI Director Kash Patel reveals new details about suspect - Fox News",
-      "url": "https://www.foxnews.com/live-news/charlie-kirk-shooting-suspect-tyler-robinson-arraignment-9-16-2025",
-      "urlToImage": "https://livenews.foxnews.com/images/2025/09/ff65c9cf6d48548a62136fc9fc6d5b51.jpg",
-      "source": "Fox News",
-      "publishedAt": "2025-09-16T11:34:42Z",
-      "description": "Ředitel FBI Kash Patel odhalil nové informace o stíhání Tylera Robinsona a v pořadu stanice Fox News Channel „Hannity“ uvedl, že orgány činné v trestním řízení procházejí Robinsonovu digitální stop..."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Únik informací o novém obalu Galaxy S26 Ultra odhaluje design telefonu",
-      "original_title": "New Galaxy S26 Ultra case leak sheds light on phone's design - SamMobile",
-      "url": "https://www.sammobile.com/news/new-galaxy-s26-ultra-case-leak-sheds-light-phones-design/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/09/Galaxy-S25-FE-official-cases-1-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2025-09-16T11:02:00Z",
-      "description": "Před pár dny unikl design nadcházejícího Samsung Galaxy S26 Ultra. Dnes máme fotku jednoho z obalů, která nám telefon ukazuje zblízka."
+      "description": "Mark Zuckerberg vystoupí ve středu v 8 hodin ET na Meta Connect 2025 s hlavním projevem, ve kterém očekáváme novinky o AI a chytrých brýlích."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podle vědců mohou být zakouřená lidská těla z Asie nejstarší známé mumie na světě",
-      "original_title": "Smoke-dried human remains found in Asia may be world's oldest known mummies, researchers say - CBS News",
-      "url": "https://www.cbsnews.com/news/oldest-mummies-smoke-dried-found-asia-study/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/16/5a83dd3a-3b06-4f15-b063-fefebb93958e/thumbnail/1200x630/efbaaaf12df4f08ece6c5f1047fb1170/ap25258574698002.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-16T10:59:00Z",
-      "description": "Některé starověké asijské společnosti mumifikovaly mrtvé pomocí kouře tisíce let před Egypťany, zjistil výzkum"
+      "title": "Lidé jsou propouštěni za správné citování Charlieho Kirka, zatímco Trump útočí na ‚obrovskou‘ liberální síť",
+      "original_title": "People being fired for quoting Charlie Kirk correctly as Trump targets ‘vast’ liberal network - AL.com",
+      "url": "https://www.al.com/politics/2025/09/people-being-fired-for-quoting-charlie-kirk-correctly-as-trump-targets-vast-liberal-network.html",
+      "urlToImage": "https://www.al.com/resizer/v2/6XLFJBEJ7BBN3A2S57BPYEDBCU.JPG?auth=c6fcedf8e435112235e3afb1444defa11e1b968e7ccbc7fa50563122712a5303&width=1280&quality=90",
+      "source": "AL.com",
+      "publishedAt": "2025-09-16T11:18:00Z",
+      "description": "Kampaň se rozšířila o ty, jejichž výroky byly kritické vůči Kirkovi, aniž by oslavovaly jeho atentát."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Co je jinak na propouštění v Charlie Kirkově organizaci",
+      "title": "Zvláštní volby o křeslo zavražděné poslankyně Melissy Hortmanové poukazují na problém politického násilí",
+      "original_title": "Special election to fill slain lawmaker Melissa Hortman's seat shines light on political violence - ABC News",
+      "url": "https://abcnews.go.com/Politics/special-election-fill-slain-minnesota-lawmakers-seat-shines/story?id\\\\u003d125588419",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-16T11:03:45Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Co je jinak na propouštění v případě Charlie Kirka",
       "original_title": "What's different about the Charlie Kirk firings - Axios",
       "url": "https://www.axios.com/2025/09/16/charlie-kirk-show-fired-delta-american-airlines",
       "urlToImage": "https://images.axios.com/rLcYmbQVrQkA2wikh9-3js6VU5I=/0x0:1920x1080/1366x768/2025/09/15/1757958040528.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-16T10:03:57Z",
-      "description": "Podle právníků nejde zřejmě o nezákonná propuštění, ukazují však rychle se měnící normy svobody projevu."
+      "description": "Podle právníků nejde pravděpodobně o nezákonná propuštění, ale ukazují, jak se rychle mění normy ohledně svobody projevu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Muž odsouzen za pokus předat Rusku utajované informace o systémech amerického letectva",
-      "original_title": "Man convicted for attempting to give classified information on US Air Force systems to Russia - ABC News",
-      "url": "https://abcnews.go.com/US/man-convicted-giving-classified-information-us-air-force/story?id\\\\u003d125612157",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-16T09:14:56Z",
-      "description": ""
+      "title": "Emmys zaznamenaly čtyřleté maximum v počtu diváků",
+      "original_title": "Emmys hit four-year viewership high - Axios",
+      "url": "https://www.axios.com/2025/09/16/emmys-hit-four-year-viewership-high",
+      "urlToImage": "https://images.axios.com/T8lBIzU9VWVdOx13XpMXIv2qMgQ=/0x0:1344x756/1366x768/2025/09/16/1757988579598.png",
+      "source": "Axios",
+      "publishedAt": "2025-09-16T09:58:09Z",
+      "description": "Naposledy, kdy pořad sledovalo 7,4 milionu diváků, byl také vysílán na CBS."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kennedyho vakcinační panel zřejmě doporučí odložit očkování dětí proti žloutence typu B",
-      "original_title": "Kennedy's vaccine panel expected to recommend delaying hepatitis B shot in children - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/16/nx-s1-5542405/rfk-jr-acip-vaccine-advisory-panel-vote-delay-hepatitis-b-shot-in-infants",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2214+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F5a%2Ff321a94740ed862db24e9f32fc07%2Fap25253623716598.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-16T09:00:00Z",
-      "description": "Poradní sbor pro očkování vybraný R. F. Kennedym ml. zřejmě odhlasuje odklad očkování novorozenců proti žloutence typu B. Lékaři varují, že by to mohlo vést k návratu choroby, která byla u americký..."
+      "title": "Vaše horoskopy od Madame Clairevoyant na 16. září 2025",
+      "original_title": "Your Daily Horoscope by Madame Clairevoyant: September 16, 2025 - The Cut",
+      "url": "http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-sept-16-2025.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/f23/7a8/a4049ef50c2bf16dbee1181c76617ab5c9-coco-rocha-virgo-weekly.1x.rsocial.w1200.jpg",
+      "source": "The Cut",
+      "publishedAt": "2025-09-16T09:00:25Z",
+      "description": "Každý všední den astroložka magazínu The Cut Claire Comstock-Gay (známá také jako Madame Clairevoyant) čte horoskop pro každé znamení zvěrokruhu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "FED zřejmě letos poprvé sníží sazby. Co to znamená pro kreditní karty a bydlení",
+      "title": "FED pravděpodobně poprvé od začátku roku sníží úrokové sazby. Zde je návod, co to znamená pro náklady na bydlení a úvěry.",
       "original_title": "The Fed is likely to cut rates for the first time this year. Here's what that means for credit cards and housing costs - Business Insider",
       "url": "https://www.businessinsider.com/what-rate-cut-means-for-americans-credit-cards-savings-mortgages-2025-9",
       "urlToImage": "https://i.insider.com/68c81dbc183847aa39d6c35f?width=1024&format=jpeg",
       "source": "Business Insider",
       "publishedAt": "2025-09-16T08:01:00Z",
-      "description": "Ekonomové očekávají, že Fed tento týden oznámí první letošní snížení sazeb. Zde je přehled dopadů na spoření, hypotéky a další oblasti."
+      "description": "Ekonomové očekávají, že Fed tento týden oznámí první letošní snížení sazeb. Co to znamená pro spoření, hypotéky a další oblasti"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Gaza: Nezávislá vyšetřovací komise tvrdí, že Izrael spáchal genocidu",
-      "original_title": "Gaza: Top independent rights probe alleges Israel committed genocide - UN News",
-      "url": "https://news.un.org/en/story/2025/09/1165856",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-08-2025-UNRWA-Gaza-07.jpg/image770x420cropped.jpg",
-      "source": "UN News",
-      "publishedAt": "2025-09-16T07:30:07Z",
-      "description": "Nezávislí vyšetřovatelé práv jmenovaní Radou pro lidská práva ve středu obvinili Izrael z genocidy v Gaze, což Tel Aviv kategoricky odmítl."
+      "title": "Podezřelý z vraždy Charlie Kirka se na Discordu přiznal k zabití, tvrdí společnost",
+      "original_title": "Charlie Kirk murder suspect appeared to confess to killing on Discord, company says - CBS News",
+      "url": "https://www.cbsnews.com/news/charlie-kirk-suspect-discord-messages/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/15/104f850d-fd90-4c79-bff0-8d02eae69009/thumbnail/1200x630/75fa4099ce768cca5b9cc6b60ce6ca70/gettyimages-2234976697.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-16T02:53:00Z",
+      "description": "„Byl jsem to já,“ uvedl údajně několik hodin před zatčením útočníka obviněného ze střelby na Charlie Kirka účet na Discordu patřící Tyleru Robinsonovi, uvedl mluvčí společnosti."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Horoskop na úterý 16. září 2025 - Chicago Sun",
-      "original_title": "Horoscope for Tuesday, September 16, 2025 - Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/horoscopes/2025/09/16/horoscopes-today-tuesday-september-16-2025",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2025-09-16T05:01:00Z",
-      "description": ""
+      "title": "Varování NASA! Obrovský asteroid 2025 FA22, větší než Qutub Minar, proletí kolem Země rychlostí 38 624 km/h; měli bychom se bát?",
+      "original_title": "NASA warning! Huge asteroid 2025 FA22, taller than Qutub Minar, to fly past Earth at 24,000 mph; should w - Times of India",
+      "url": "https://timesofindia.indiatimes.com/science/nasa-warning-huge-asteroid-2025-fa22-taller-than-qutub-minar-to-fly-past-earth-at-24000-mph-shouldwebeconcerned/articleshow/123906604.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123906761,width-1070,height-580,imgsize-77302,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "source": "The Times of India",
+      "publishedAt": "2025-09-16T01:30:00Z",
+      "description": "Vědecké zprávy: Asteroid 2025 FA22, výrazně větší než Dillíský Kutub Minár, se 18. září 2025 přiblíží k Zemi. NASA potvrzuje, že"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mapování vesmíru rychleji a se stejnou přesností",
-      "original_title": "Mapping the universe, faster and with the same accuracy - Phys.org",
-      "url": "https://phys.org/news/2025-09-universe-faster-accuracy.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mapping-the-universe-f.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-16T04:00:01Z",
-      "description": "Pokud si myslíte, že galaxie je velká, porovnejte ji s vesmírem: je to jen nepatrná tečka, která spolu s obrovským množstvím dalších nepatrných teček tvoří kupy, jež se shlukují do nadkup, a ty se ..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zvažování přínosů a rizik hormonální terapie při menopauze, zatímco FDA zvažuje zrušení „black box“ varování",
+      "title": "Zvažování přínosů a rizik hormonální terapie při menopauze, zatímco FDA zvažuje odstranění „black box“ varování",
       "original_title": "Weighing the benefits and risks of hormone therapy for menopause as FDA considers removing \"black box\" warnings - CBS News",
       "url": "https://www.cbsnews.com/news/hrt-for-menopause-risks-benefits-fda-black-box-warnings/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/15/3f0246d9-5961-4c72-b64c-b03d43981a5b/thumbnail/1200x630/119162325b50e3cc8dbe8062286b8d38/cbsn-fusion-menopause-hormone-therapy-gets-fresh-look-from-regulators-thumbnail.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-15T23:46:00Z",
-      "description": "Výzkum hormonální terapie pro ženy v menopauze se za poslední dvě desetiletí změnil. Zde je, co vědět, než FDA zváží odstranění zdravotních varování u některých léčebných postupů."
+      "description": "Výzkum hormonální terapie pro ženy v menopauze se za poslední dvě desetiletí změnil. Zde je to, co je třeba vědět, když se FDA rozhoduje o odstranění zdravotních varování u některých léčebných post..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nová kosmická loď Northrop Grumman je pořádný macek.",
+      "title": "Northrop Grummanova nová kosmická loď je pořádný macek",
       "original_title": "Northrop Grumman’s new spacecraft is a real chonker - Ars Technica",
       "url": "https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23encap1-1152x648.jpg",
@@ -213,35 +246,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "RFK Jr. přidal pět členů do klíčového vakcinologického panelu ACIP několik dní před jeho zasedáním - statnews.com",
-      "original_title": "RFK Jr. adds five members to ACIP, key vaccine panel, days ahead of meeting - statnews.com",
-      "url": "https://www.statnews.com/2025/09/15/kennedy-names-new-acip-members-cdc-vaccine-advisers/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/AP25239448870898-1024x576.jpg",
-      "source": "STAT",
-      "publishedAt": "2025-09-15T19:43:02Z",
-      "description": "Federální zdravotní úředníci oznámili jmenování pěti nových členů do ACIP, klíčového poradního panelu CDC pro otázky očkování."
+      "title": "Vědci poprvé změřili ‚porodní kopanec‘, který vymrštil černou díru do vesmíru",
+      "original_title": "Scientists measure the 'natal kick' that sent a baby black hole careening through space for the first time - Live Science",
+      "url": "https://www.livescience.com/space/black-holes/scientists-measure-the-natal-kick-that-sent-a-baby-black-hole-careening-through-space-for-the-first-time",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CCjVAaAcbDLbVsWARWWGoh.gif",
+      "source": "Live Science",
+      "publishedAt": "2025-09-15T17:10:30Z",
+      "description": "Dvě černé díry splynuly 2,4 miliardy světelných let od Země a vědci právě zjistili, jak rychle se novorozená odrazila a kterým směrem."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple iOS 26 s novým designem Liquid Glass je nyní dostupný všem",
-      "original_title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-15-at-4.08.52PM.jpg?w=1034",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-15T17:45:19Z",
-      "description": "Mezi další funkce patří asistent pro vytřídění hovorů, nová aplikace pro hraní her a náhledy, překlad v aplikacích v rámci systému a aktualizace aplikací Genmoji a Image Playground."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Emmys 2025: Triumf charakterních herců, odmítnutí hvězd první ligy a milníky v diverzitě",
-      "original_title": "Emmys 2025: Character Actors Triumph, A-List Stars Rejected and Diversity Milestones - variety.com",
-      "url": "https://variety.com/2025/tv/awards/emmys-2025-analysis-character-actors-diversity-wins-1236519400/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/4-Split-3x2-Layout-2-4.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-15T16:35:00Z",
-      "description": "Na cenách Emmy dominovalo „The Studio“, „The Bear“ propadlo a hvězdy ztratily, když večer definovali charakterní herci a historické milníky v diverzitě."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Proč každý šestý americký rodič odmítá očkování doporučené lékaři",
+      "original_title": "Why 1 in 6 U.S. parents are rejecting vaccine recommendations - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/15/childhood-vaccines-parents-post-kff-poll/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQ6OYH5EGMZZSWE774XBA44PXU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-15T16:40:11Z",
+      "description": "Rozsáhlý průzkum deníku Washington Post a KFF podrobně popisuje, kdo má tendenci odmítat doporučení očkování a jaká je jejich motivace."
     },
     {
       "flag": "🌍",
@@ -252,7 +274,7 @@
       "urlToImage": "https://bigthink.com/wp-content/uploads/2025/09/PIA26401_WEB.jpg?resize=1200,630",
       "source": "Big Think",
       "publishedAt": "2025-09-15T06:00:00Z",
-      "description": "Rudá planeta Mars možná kdysi překypovala životem stejně jako dnes Země. Nalezení \"organických látek\" na Marsu však neznamená život."
+      "description": "Rudá planeta Mars mohla kdysi překypovat životem stejně jako Země dnes. Nalezení \"organických látek\" na Marsu však neznamená život."
     }
   ]
 }
