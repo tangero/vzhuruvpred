@@ -1,20 +1,10 @@
 {
-  "updated": "2025-09-18T03:33:41.804839",
+  "updated": "2025-09-18T06:37:21.229903",
   "trends": [
     {
       "rank": 1,
-      "query": "liverpool – atlético madrid",
-      "news_title": "Simeone: Výhra Liverpoolu? Fanoušci mě uráželi celý zápas",
-      "news_url": "https://www.theguardian.com/football/2025/sep/17/simeone-blames-flare-up-after-liverpool-winner-on-getting-insulted-all-game",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtubsXKaL5pmSTHMi8mZaU5afMP_SsK9GL5oaib2mREv0pP7-E0SdXSY__l8k",
-      "traffic": "2000++ hledání",
-      "source": "The Guardian",
-      "explore_url": "https://trends.google.cz/trends/explore?q=liverpool – atlético madrid&geo=CZ"
-    },
-    {
-      "rank": 2,
       "query": "bayern – chelsea",
-      "news_title": "Liverpool v závěru vyhrál, Bayern zdolal Chelsea, slaví i PSG",
+      "news_title": "Liverpool v závěru vyhrál, Bayern porazil Chelsea, slaví i PSG",
       "news_url": "https://www.idnes.cz/fotbal/pohary/liga-mistru-1-kolo-online-zpravodajstvi-souhrn.A250917_160201_fot_pohary_tals",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn_Z0TGhOoF7mo4aM7Yw2JHoO_NaYEuwo38XLHyUzSJXnHah94yoIBhtq_HSM",
       "traffic": "2000++ hledání",
@@ -22,64 +12,74 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=bayern – chelsea&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "zdeněk pohlreich",
-      "news_title": "Pohlreich: Hosté koukají do mobilu a fotí jídla",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/show-jana-krause-zdenek-pohlreich-ano-sefe.A250915_122041_lidicky_nh",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8Ae4_o363yQP70MlRbnC3MubYThtvWTN68Nr-l5brhLjfvWY54D4e12_j-go",
-      "traffic": "500++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk pohlreich&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "ajax – inter",
-      "news_title": "Heitinga bez Berghuise na Inter: \"Nestihne to\"",
-      "news_url": "https://www.ad.nl/voetbal/ajax-trainer-john-heitinga-moet-het-in-cl-tegen-inter-doen-zonder-steven-berghuis-hij-gaat-het-niet-redden~ad773706/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kjDBvW6xjOKTcjjxEzRz5R9KSgfwIFYY4oIObfQFD46Cjg8APApm_NzRe6M",
-      "traffic": "500++ hledání",
-      "source": "AD.nl",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ajax – inter&geo=CZ"
-    },
-    {
-      "rank": 5,
-      "query": "liverpool",
-      "news_title": "Salah blízko k překonání několika Ligy mistrů rekordů",
-      "news_url": "https://sports.yahoo.com/article/champions-league-records-within-mohamed-144500034.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbTAnGoGL41dpZk4rQXhpjfiq6jIjsGsVNRqYsg4XJ34i2SPJyGtxcPDAABY4",
-      "traffic": "500++ hledání",
-      "source": "Yahoo Sports",
-      "explore_url": "https://trends.google.cz/trends/explore?q=liverpool&geo=CZ"
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "query": "al nassr – istiklol",
-      "news_title": "Ronaldo chybí v sestavě Al-Nassr na úvod Lize mistrů AFC",
+      "news_title": "Ronaldo nezačne v prvním zápase Al-Nassr v Lize mistrů AFC",
       "news_url": "https://foot-africa.com/en/news/ronaldo-is-out-of-the-starting-lineup-for-al-nassrs-first-match-in-the-afc-champions-league-2-883152/",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXTRpOrcszFQm48EW2iTBUBSBw-qMwEH6A4SowAfLSnWY7h3Qcn0jK6DxXYs",
-      "traffic": "500++ hledání",
+      "traffic": "1000++ hledání",
       "source": "Foot Africa",
       "explore_url": "https://trends.google.cz/trends/explore?q=al nassr – istiklol&geo=CZ"
     },
     {
+      "rank": 3,
+      "query": "jimmy kimmel",
+      "news_title": "Jimmy Kimmel dočasně stažen z vysílání kvůli komentářům o Charlie Kirkovi",
+      "news_url": "https://www.bbc.com/news/articles/c203n52x1y9o",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2cGPodt-QGb3rVsBIqMf-OWUXO3shVMQX3GulSASjvxgnypxWJOYyhnlRx3s",
+      "traffic": "500++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jimmy kimmel&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "zdeněk pohlreich",
+      "news_title": "Pohlreich: Alkohol a drogy v gastru? Je to horší než dřív",
+      "news_url": "https://www.reflex.cz/clanek/prostor-x/132038/zdenek-pohlreich-alkohol-a-kokain-v-gastru-je-to-horsi-nez-kdykoliv-predtim-ja-mel-za-zivot-tak-dva-speky.html",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkKUzw_n1jfmD7r3Bz-y49z9pDDKHbMtaJWj5cgVU-1-OJjKIriq-pyBxyU2Q",
+      "traffic": "500++ hledání",
+      "source": "Reflex.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk pohlreich&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "ajax – inter",
+      "news_title": "Godts baalt van gemiste kans: 'Ander duel als ik scoor'",
+      "news_url": "https://www.nu.nl/voetbal/6369415/ajacied-godts-baalt-van-gemiste-kans-tegen-inter-wordt-ander-duel-als-ik-scoor.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzYWrHYwVdY_dDaVtXBU7VqnqZo-jUYbo50JugeQF-VV_o8haJ21IVdmNUx6I",
+      "traffic": "500++ hledání",
+      "source": "NU",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ajax – inter&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "dny nato 2025",
+      "news_title": "Dny NATO tento víkend: místo konání, vstupné a doprava",
+      "news_url": "https://www.idnes.cz/ostrava/zpravy/dny-nato-2025-se-vraceji-po-rocni-pauze-kdy-se-konaji-jake-je-vstupne-a-lakadla.A250909_123541_ostrava-zpravy_wall",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkzkygY_jkdXNdg65AZr98vqcqJ4DpiNpCihY3Cae_XHANF8RE1ZQ9-2v9xik",
+      "traffic": "200++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=dny nato 2025&geo=CZ"
+    },
+    {
       "rank": 7,
       "query": "rsbc",
-      "news_title": "RSBC se chystá na bankrot, v pozadí číhají dravci",
-      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-skupina-rsbc-se-chysta-na-oficialni-bankrot-v-pozadi-uz-cihaji-dravci-286205",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxvI9x6uFTp2aIpJHz2vhnnDFlnUyemFT6wzDCI7FrorMrwaWhcMWfk35m0QE",
+      "news_title": "Poradci z 4fin nabízeli investice do RSBC",
+      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-treti-velka-rana-vedle-poradci-z-4fin-nabizeli-lidem-i-investice-do-rsbc-286302",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NGHqXsvYMQMqaqZfLdRwmhiC0XaCFau1scC9rydJ0c9Bp2HUIQ53r5hsmcQ",
       "traffic": "200++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=rsbc&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "fed",
-      "news_title": "Fed po devíti měsících snížil sazby",
-      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-americky-fed-po-deviti-mesicich-povolil-kohoutky-a-snizil-sazby-286293",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOi8yyYPAygSsIxlWkjfYh9lf_4jL-fYbW5tgKok1lZYbtAW3WdQ-CVeRDiIw",
+      "query": "d4vd",
+      "news_title": "V Tesla nalezeny ostatky spojené se zpěvákem D4vd",
+      "news_url": "https://www.bbc.com/news/articles/cp98npjkje2o",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0F4figWNkzB1NBLR79c_y9EMjdi6SVc8Evs2NY073kjDL2DwcKYgGzjvmUdo",
       "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=fed&geo=CZ"
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=d4vd&geo=CZ"
     }
   ]
 }
