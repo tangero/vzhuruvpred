@@ -1,38 +1,71 @@
 {
-  "last_updated": "2025-09-17T23:15:43",
+  "last_updated": "2025-09-18T01:18:47",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "MAGA diskutuje o tom, jak reagovat na Kirkovu vraždu",
-      "original_title": "MAGA debates how to respond to Kirk’s killing - Politico",
-      "url": "https://www.politico.com/news/2025/09/16/maga-debates-how-to-respond-to-kirks-killing-00567687",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa4%2F46%2F8c241eb8473d8237ec1ecf998e1f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235248688",
+      "title": "NASA oznamuje „převratný objev“ života na Marsu",
+      "original_title": "NASA announces \"groundbreaking discovery\" of life on Mars - Earth.com",
+      "url": "https://www.earth.com/news/nasa-announces-discovery-of-life-on-mars-with-high-degree-of-confidence/",
+      "urlToImage": "https://cff2.earth.com/uploads/2025/09/13180141/mars-life_olivine_leopard-spot_Cheyava-Falls_Perseverance-rover_NASA_1m.jpg",
+      "source": "Earth.com",
+      "publishedAt": "2025-09-17T02:05:49Z",
+      "description": "Marsovské vozítko NASA objevilo v jílovci organické signály připomínající mikrobiální aktivitu, což rozpoutalo novou debatu o životě na Rudé planetě."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bývalí funkcionáři Republikánské strany se obávají, že údery USA proti údajným pašerákům drog jsou nezákonné",
+      "original_title": "Former GOP officials fear US strikes on alleged drug smugglers aren't legal - Politico",
+      "url": "https://www.politico.com/news/2025/09/16/trump-gop-officials-strikes-venezuela-00567212",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F71%2F5e%2Fb6f783b94d819b1f70b0517d2e50%2Ftrump-84653.jpg",
       "source": "Politico",
-      "publishedAt": "2025-09-16T23:43:51Z",
-      "description": "Téměř týden poté, co prezident Donald Trump vyzval k útokům na „organizace“ a vinu za smrt svalil na „radikální levici“, je politická reakce stále velmi v pohybu."
+      "publishedAt": "2025-09-17T00:52:06Z",
+      "description": "Nařízením k odstřelu lodí s podezřením na drogy Trump opět testuje hranice výkonné moci."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Loni bylo v Latinské Americe zabito nebo zmizelo 120 obránců půdy a životního prostředí, uvádí zpráva",
-      "original_title": "120 land and environmental defenders killed or disappeared in Latin America last year, report finds - AP News",
-      "url": "https://apnews.com/article/environmental-defenders-report-global-witness-latin-america-a1852340a1e5cb0b21da155eb3469981",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ea506be/2147483647/strip/true/crop/4134x2325+0+213/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Faa%2F8397498033964fd57ac91c197240%2F8b20860f0e0e40d6bdd25af5efa8772b",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-16T23:05:00Z",
-      "description": "Zpráva odhaluje, že v roce 2024 bylo po celém světě zabito nebo zmizelo nejméně 146 obránců půdy a životního prostředí. Více než 80 % těchto případů se stalo v Latinské Americe."
+      "title": "Raleigh překonal Mantlea a vyrovnal Griffeyho s 55 a 56",
+      "original_title": "Raleigh passes Mantle, ties Griffey with 55, 56 - ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/46286502/raleigh-hits-hrs-no-55-56-pass-mantle-tie-mariners-mark",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0917%2Fr1546777_1024x576_16%2D9.jpg",
+      "source": "ESPN",
+      "publishedAt": "2025-09-17T00:50:00Z",
+      "description": "Seattleský Cal Raleigh překonal rekrad Mickeyho Mantlea v home runech od přepínačů, když proti pravákovi Michaelu Wachovi z Royals zaznamenal padesátý pátý homer sezóny."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vypnutí motorů zpozdilo setkání nákladní lodi Cygnus s vesmírnou stanicí",
-      "original_title": "Engine shutdowns delay Cygnus cargo ship's rendezvous with space station - CBS News",
-      "url": "https://www.cbsnews.com/news/engine-shutdowns-delay-cygnus-cargo-ships-rendezvous-with-space-station/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/16/86b22e59-f267-4942-aad4-db5edc9598a3/thumbnail/1200x630/2a461816a9dcd6923e02425a0d32efac/091626-cygnus-file.jpg",
+      "title": "Rekordní zásoby nedorazí k Mezinárodní vesmírné stanici podle plánu",
+      "original_title": "A record supply load won’t reach the International Space Station as scheduled - Ars Technica",
+      "url": "https://arstechnica.com/space/2025/09/a-record-supply-load-wont-reach-the-international-space-station-as-scheduled/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/53859480979_df0a011fa7_k-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-16T23:13:28Z",
+      "description": "Problém nastal časně v úterý, když se hlavní motor kosmické lodi vypnul dříve, než se očekávalo."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Podezřelý ze střelby na Charlie Kirka obviněn z vraždy s přitěžujícími okolnostmi, hrozí mu trest smrti",
+      "original_title": "Charlie Kirk shooting suspect charged with aggravated murder, could face death penalty - CBS News",
+      "url": "https://www.cbsnews.com/live-updates/charlie-kirk-shooting-tyler-robinson-charges-court-hearing-utah/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/16/919ca59d-ab03-4075-800d-7fffe4041e14/thumbnail/1200x630/9471a57cbc34c0e62bff9e1e65aded9c/gettyimages-2235105081.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-09-16T22:29:27Z",
-      "description": "Dva plánované zážehy motorů byly předčasně ukončeny, uvedla NASA, což pozdrželo přiblížení nákladní lodi Cygnus ke vesmírné stanici."
+      "publishedAt": "2025-09-16T22:44:00Z",
+      "description": "Tyler Robinson obviněný z atentátu na konzervativního aktivistu Charlie Kirka v Utahu byl obžalován z vraždy s přitěžujícími okolnostmi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rodiče dospívajících, kteří spáchali sebevraždu po interakci s chatbotem s umělou inteligencí, vypovídají v Kongresu",
+      "original_title": "Parents of teens who died by suicide after AI chatbot interactions testify to Congress - AP News",
+      "url": "https://apnews.com/article/ai-chatbot-teens-congress-chatgpt-character-ce3959b6a3ea1a4997bf1ccabb4f0de2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/65844e4/2147483647/strip/true/crop/1735x976+0+90/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2F39%2Fca22e87e9d00c1053586a9093852%2Fae8a552521114a618cac2fa5095ce3ff",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-16T22:39:00Z",
+      "description": "Rodiče teenagerů, kteří spáchali sebevraždu po interakci s AI chatboty, vypovídali před Kongresem."
     },
     {
       "flag": "🌍",
@@ -40,43 +73,32 @@
       "title": "Rivian staví továrnu v Georgii navzdory poklesu zájmu o elektromobily",
       "original_title": "Rivian Is Building a Georgia Factory in the Face of an EV Slump - The Wall Street Journal",
       "url": "https://www.wsj.com/business/autos/rivian-is-building-a-georgia-factory-in-the-face-of-an-ev-slump-d18da2c3",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-03133637/social",
       "source": "The Wall Street Journal",
       "publishedAt": "2025-09-16T22:12:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Více zaměstnavatelů propouští zaměstnance za příspěvky na serveru Kirk, tlak z pravice sílí",
-      "original_title": "More employers fire workers over Kirk posts as pressure from right mounts - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/16/employee-firings-charlie-kirk-shooting-social-media/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BPATARTDQZ7Q7HEZQWHWSUTMRU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-16T21:46:42Z",
-      "description": "Postupy zaměstnavatelů rozvířily debatu o právech zaměstnanců na projev, roli nátlakových kampaní a podobě vhodné veřejné debaty po násilném činu."
+      "description": "Závod, jehož otevření je plánováno na rok 2028, by podpořil výrobu sportovně-užitkového vozu R2 a menšího crossoveru R3."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Vraha Charlie Kirka Tylera Robinsona soudí, žalobci žádají trest smrti",
-      "original_title": "Charlie Kirk murder suspect Tyler Robinson appears in court, with prosecutors seeking death penalty - BBC",
-      "url": "https://www.bbc.com/news/live/c04qenww53pt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efff/live/882c25b0-9340-11f0-af4a-f13787547f9c.png",
+      "title": "Zítra bude velký den, říká Trump po příletu do Británie na druhou státní návštěvu",
+      "original_title": "'Tomorrow is going to be a big day,' Trump says as he arrives in UK for second state visit - BBC",
+      "url": "https://www.bbc.com/news/live/cx2q200d2vnt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0942/live/4f03ad80-933b-11f0-b391-6936825093bd.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-09-16T21:22:30Z",
-      "description": "Robinson, který se připojil na dálku, čelí sedmi obviněním včetně vraždy s přitěžujícími okolnostmi a ovlivňování svědků."
+      "publishedAt": "2025-09-16T21:45:00Z",
+      "description": "Americký prezident a první dáma Melania Trumpová se připojí ke králi Karlovi na zámku Windsor na dvoudenní akce."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Američtí investoři a Trump se blíží k dohodě o TikToku s Čínou",
-      "original_title": "U.S. Investors, Trump Close In on TikTok Deal With China - The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-16T21:10:00Z",
-      "description": ""
+      "title": "Scarlett Johansson oceňuje štědrost Roberta Redforda jako režiséra i kolegy",
+      "original_title": "Scarlett Johansson Celebrates Robert Redford’s ‘Generosity’ as Director, Co-Star - Rolling Stone",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/scarlett-johansson-robert-redford-tribute-1235428839/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/scarjo-redford-tribute.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-16T20:43:39Z",
+      "description": "Scarlett Johansson uctila památku svého kolegy z filmu 'Zaříkávač koní' Roberta Redforda dojemným prohlášením."
     },
     {
       "flag": "🌍",
@@ -92,13 +114,13 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Palestinci prchají z Gazy, Izrael zahájil pozemní útok navzdory světovému pobouření",
+      "title": "Palestinci prchají z Gazy, Izrael zahájil pozemní útok navzdory mezinárodnímu pobouření",
       "original_title": "Palestinians flee Gaza City as Israel says it launched ground assault amid global outcry - CNN",
       "url": "https://www.cnn.com/2025/09/16/middleeast/israel-launches-gaza-ground-assault-intl-latam",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-16t151940z-1639450672-rc2wsgapmjib-rtrmadp-3-israel-palestinians-gaza.JPG?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-16T19:55:13Z",
-      "description": "Izrael uvedl, že v pondělí zahájil rozšířený pozemní útok na Gazu v rozporu s mezinárodním odsouzením, zatímco Palestinci prchali z enklávy největší městské oblasti ve vlnách kvůli eskalaci bombard..."
+      "description": "Izrael v pondělí navzdory mezinárodnímu odsouzení rozšířil pozemní útok na Gazu, Palestinci prchají z enklávy vlnami kvůli eskalaci bombardování"
     },
     {
       "flag": "🌍",
@@ -109,23 +131,23 @@
       "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
       "source": "Whitehouse.gov",
       "publishedAt": "2025-09-16T19:49:53Z",
-      "description": "Prezident Donald J. Trump rázně nasazuje federální zdroje v Memphisu, což je mocný krok vpřed v snaze učinit město opět bezpečným"
+      "description": "Prezident Donald J. Trump odvážně nasadil federální zdroje v Memphisu, což je mocný krok vpřed v boji za opětovné zajištění bezpečnosti města"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Charlie Kirk podle šokujících textů naznačil motiv: ‚Už toho jeho hnusu máme dost‘",
-      "original_title": "Charlie Kirk Suspect Hinted at Motive in Shocking Texts: ‘Enough of His Hatred’ - The Daily Beast",
-      "url": "https://www.thedailybeast.com/charlie-kirk-suspect-hinted-at-motive-in-shocking-texts-to-roommate/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/AGA5SKPYOBGVDD6G5FSO5PGIPE.png?smart=true&auth=6c28f9c269e76609de1cc59db4eb8773bf3f304c7ed1479317d7744e87958d1f&width=1200&height=630",
-      "source": "Daily Beast",
+      "title": "Toto jsou všechny nové funkce v iOS 26, iPadOS 26 a macOS Tahoe",
+      "original_title": "Here are all the new features in iOS 26, iPadOS 26, macOS Tahoe - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/16/here-are-all-the-new-features-in-ios-26-ipados-26-macos-tahoe/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-apps-icons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
       "publishedAt": "2025-09-16T19:24:00Z",
-      "description": "Dvaadvacetiletý Tyler Robinson je obviněn, že po vraždě poslal spolubydlícímu zprávu."
+      "description": "iOS 26, iPadOS 26 a macOS Tahoe jsou tady a Apple zveřejnil podrobný seznam jejich nových funkcí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kash Patel říká, že další osoby jsou předmětem vyšetřování v případu střelby Charlieho Kirka",
+      "title": "Kash Patel říká, že další osoby jsou předmětem vyšetřování v případu střelby na Charlie Kirka",
       "original_title": "Kash Patel says others under investigation in Charlie Kirk shooting probe - ABC News",
       "url": "https://abcnews.go.com/Politics/patel-face-questions-charlie-kirk-investigation-congressional-hearings/story?id\\\\u003d125585288",
       "urlToImage": null,
@@ -142,23 +164,23 @@
       "urlToImage": "https://a.mortgagenewsdaily.com/dsocial/68c9bb4171263d0df7687508/68c9bb4171263d0df7687508_0_202509162055.jpg?provider=facebook",
       "source": "Mortgage News Daily",
       "publishedAt": "2025-09-16T19:18:00Z",
-      "description": "Hypoteční sazby dnes prudce klesly, průměrný poskytovatel je na úrovni nejnižších hodnot od konce roku 2022."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Po ztrátě syna rodiče naléhají na Senát, aby zakročil proti AI chatbotům",
-      "original_title": "After losing their son, parents urge Senate to take action on AI chatbots - Mashable",
-      "url": "https://mashable.com/article/chat-gpt-teen-wrongful-death-testimony",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03UEzupRaaNmh7nXaNYD6Rn/hero-image.fill.size_1200x675.v1758047361.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-09-16T18:48:35Z",
-      "description": "Přečtěte si první veřejné vyjádření rodiny od podání žaloby na OpenAI."
+      "description": "Mortgage rates dropped sharply lower today relative to the amount of movement in the underlying bond market with the average lender right in line with the lowest levels since late 2022. Because rates "
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bengals posílají Joea Burrowa na seznam zraněných a podepisují Bretta Rypiena",
+      "title": "Druhá řada ‚Wednesday‘ nahradila třetí řadu ‚Stranger Things‘ v první desítce nejsledovanějších anglických seriálů Netflixu se 94,5 miliony zhlédnutí",
+      "original_title": "‘Wednesday’ Season 2 Replaces ‘Stranger Things’ Season 3 as Netflix’s No. 10 Biggest English-Language TV Title Ever With 94.5 Million Views So Far - Variety",
+      "url": "https://variety.com/2025/tv/news/wednesday-season-2-stranger-things-3-record-1236520800/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/WEDNESDAY_206_Unit_02407RC.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-16T19:00:00Z",
+      "description": "Druhá řada „Wednesday“ předstihla třetí sérii „Stranger Things“ a stala se 10. nejpopulárnějším anglicky mluveným seriálem Netflixu všech dob."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bengals posílají Burrowa na IR a podepisují Rypiena",
       "original_title": "Bengals place Joe Burrow on IR, sign Brett Rypien to 53-man roster - NBC Sports",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-place-joe-burrow-on-ir-sign-brett-rypien-to-53-man-roster",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f6102d8/2147483647/strip/true/crop/3900x2194+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2F7e%2Fe27b928f48b58893e09330bec74f%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27081901",
@@ -169,57 +191,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump podal na New York Times žalobu za 15 miliard dolarů kvůli zpravodajství o kampani",
-      "original_title": "Trump files $15 billion lawsuit against New York Times over campaign coverage - NBC News",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-files-15-billion-lawsuit-new-york-campaign-coverage-rcna231554",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250916-nyt-rs-a5f4ee.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-16T18:36:26Z",
-      "description": "Prezident Donald Trump podal žalobu na deník The New York Times, čtyři jeho reportéry a nakladatelství Penguin Random House za údajnou pomluvu"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "USA nařizují Delty a Aeromexicu ukončit partnerství kvůli obavám z nerovných podmínek v Mexiku",
-      "original_title": "US orders Delta and Aeromexico to dissolve their partnership over fairness concerns in Mexico - AP News",
-      "url": "https://apnews.com/article/delta-aeromexico-duffy-mexico-united-states-trade-b78a20954e62fe677266ba5524befcb6",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9cd80a7/2147483647/strip/true/crop/2000x1125+0+755/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2F69%2F9d04c1367f316649ea7538fae20f%2F16bd87c937f8408582f6049153f0ff45",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-16T18:29:00Z",
-      "description": "Ministr dopravy USA nařídil Delty a Aeroméxicu ukončit dlouholeté partnerství"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Google představuje novou desktopovou aplikaci pro Windows s nástrojem podobným Spotlightu",
-      "original_title": "Google rolls out new Windows desktop app with Spotlight-like search tool - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-2.10.31PM.png?resize=1200,688",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-16T18:24:22Z",
-      "description": "Aplikace umožní lidem používat klávesovou zkratku Alt + Mezerník k okamžitému vyhledávání informací z jejich počítačových souborů, nainstalovaných aplikací, souborů na Google Disku a z webu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Try Guy, který podváděl manželku, má teď podcast",
-      "original_title": "The Try Guy Who Cheated on His Wife Has a Podcast Now - The Cut",
-      "url": "http://www.thecut.com/article/try-guy-ned-fulmer-launches-podcast-after-cheating-scandal.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/694/d23/d17d26f1f0491e830ec70963bf43368ab1-Ned-Fulmer.1x.rsocial.w1200.jpg",
-      "source": "The Cut",
-      "publishedAt": "2025-09-16T18:20:15Z",
-      "description": "Ned Fulmer v roce 2022 přiznal nevěru své ženě a opustil skupinu BuzzFeedových youtuberů známou jako Try Guys. Vrací se s podcastem — a je stále ženatý."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Carrie Ann Inaba kvůli nemoci vynechá premiéru 34. řady ‚Dancing With The Stars‘; Náhrada za porotkyni není zvolena",
+      "title": "Carrie Ann Inaba kvůli nemoci vynechá premiéru 34. řady ‚Dancing With The Stars‘; Náhrada za porotkyni není jmenována",
       "original_title": "Carrie Ann Inaba To Miss ‘Dancing With The Stars’ Season 34 Premiere Due To Illness; No Replacement Judge Set - Deadline",
       "url": "http://deadline.com/2025/09/carrie-ann-inaba-sick-dwts-season-34-premiere-1236545698/",
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-2233258072.jpg?w=1000",
       "source": "Deadline",
       "publishedAt": "2025-09-16T18:10:00Z",
-      "description": "Carrie Ann Inaba nebude kvůli nemoci v sále na premiéře 34. řady Dancing with the Stars"
+      "description": "Carrie Ann Inaba nebude v tanečním sále na premiéře 34. řady Dancing with the Stars kvůli nemoci"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Republikáni představili sedmitýdenní rozpočtový návrh, demokraté varují před hrozícím výpadkem financování",
+      "original_title": "Republicans release 7-week spending bill as Democrats warn of a potential shutdown - NPR",
+      "url": "https://www.npr.org/2025/09/16/nx-s1-5543189/house-republican-stopgap-shutdown",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5636x3170+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F28%2F21f6c0a74d1fa9846a6d7eaf3144%2Fgettyimages-2235610230.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-16T16:27:33Z",
+      "description": "Republikáni ve Sněmovně představili krátkodobý rozpočtový návrh na financování vlády do konce listopadu, demokraté však požadují další změny."
     },
     {
       "flag": "🌍",
@@ -230,45 +219,12 @@
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/15/7c827503-1e85-48a6-a596-b3414f8ccd1b/thumbnail/1200x630/4636c741d107318b51b86df427c48bfc/gaza-explosion-2234798379.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-16T15:30:00Z",
-      "description": "Expert OSN: Izrael pokračuje v genocidě v Gaze, podle Izraele jde o lži Hamásu"
+      "description": "Expert OSN: Izrael pokračuje v genocidě v Gaze, podle Izraele jsou zprávy lži Hamásu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Objevily známky dávného života na Marsu NASA, nebo jde o další planý poplach?",
-      "original_title": "Did NASA Find Signs of Ancient Life on Mars—or Is It Another False Alarm? - The Wall Street Journal",
-      "url": "https://www.wsj.com/science/space-astronomy/nasa-mars-ancient-life-study-6031449f",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-16T15:00:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Kate Middleton znovu obléká oslnivý perlový náhrdelník, který nosila královna Alžběta i princezna Diana",
-      "original_title": "Kate Middleton Rewears Dazzling Pearl Necklace Worn by Queen Elizabeth and Princess Diana - instyle.com",
-      "url": "https://www.instyle.com/kate-middleton-duchess-of-kent-funeral-pearl-jewelry-11810889",
-      "urlToImage": "https://www.instyle.com/thmb/q_WtJP86zX8uBvLZKTNK7NLLtWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/KateWilliamSocial-0cd60b62d4ec45ea8ca62aefa868eee2.jpg",
-      "source": "InStyle",
-      "publishedAt": "2025-09-16T14:57:26Z",
-      "description": "Kate Middletonová na pohřeb vévodkyně z Kentu oblékla symbolické perlové šperky včetně čtyřřadého japonského perlového náhrdelníku, který dříve nosila královna Alžběta a princezna Diana."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Hands-On: Apple Watch Series 11, Ultra 3 a SE 3",
-      "original_title": "Hands-On: The Apple Watch Series 11, Ultra 3, and SE 3 - Hodinkee",
-      "url": "https://www.hodinkee.com/articles/the-apple-watch-series-11-ultra-3-and-se-3",
-      "urlToImage": "https://hodinkee.imgix.net/uploads/images/378b9e90-800a-4026-aedf-6e0b34a70e74/tan2h-apple-watch-2025-handson-05123-header.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-      "source": "HODINKEE",
-      "publishedAt": "2025-09-16T12:00:00Z",
-      "description": "Pár dní s aktualizacemi nejprodávanějších hodinek na světě pro rok 2025"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nové chybré brýle od společnosti Meta dorazí tento týden",
+      "title": "Meta představí nové chytré brýle tento týden",
       "original_title": "Meta’s new smart glasses are coming this week - The Verge",
       "url": "https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257856_Meta_Oakley_HSTN_AKrales_0053.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -277,48 +233,59 @@
       "description": "Mark Zuckerberg vystoupí na Meta Connect 2025 ve středu ve 20:00 ET, očekávají se novinky o AI a chytrých brýlích."
     },
     {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Xiaomi má vychytávku na iPhone 17: druhý displej na zadní straně",
+      "original_title": "Xiaomi 's iPhone 17 killer has a secondary display on the back - Mashable",
+      "url": "https://mashable.com/article/xiaomi-17-pro-dual-screen",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05DXb6nWArlmIPwMUeMz32d/hero-image.fill.size_1200x675.v1758019742.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-16T11:13:22Z",
+      "description": "No proč ne?"
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Lékař z Maui, který propagoval pochybné léčby covidu, se připojil k vakcinologické komisi RFK Jr.",
+      "title": "Lékař z Maui, který propagoval pochybné léčebné postupy na covid, se připojil k vakcínové komisi RFK",
       "original_title": "Maui Doctor Who Promoted Dubious Covid Treatments Joins RFK’s Vaccine Panel - Honolulu Civil Beat",
       "url": "http://www.civilbeat.org/2025/09/maui-doctor-who-promoted-dubious-covid-treatments-named-to-rfks-vaccine-panel/",
       "urlToImage": "https://d1l18ops95qbzp.cloudfront.net/wp-content/2021/07/28103404/COVID19-Pfizer-vaccine-Hawaii-Pacific-Health-bus-Ilima-Intermediate-School-vaccination-scaled-e1631126924143.jpg",
       "source": "Honolulu Civil Beat",
       "publishedAt": "2025-09-16T10:01:00Z",
-      "description": "Poradní výbor doporučuje CDC, jaká očkování by měla americká veřejnost každoročně podstoupit."
+      "description": "Poradní výbor dává CDC doporučení ohledně toho, jaká očkování by měla americká veřejnost každý rok podstoupit."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vědci objevili tvora, který šokujícím způsobem rodí dva různé druhy",
+      "title": "Co si generální ředitelé myslí o plánu SEC „upřednostnit“ Trumpův návrh na zrušení čtvrtletního reportování veřejných společností",
+      "original_title": "What CEOs think about the SEC ‘prioritizing’ Trump’s plan to end quarterly reporting for public companies - Fortune",
+      "url": "https://fortune.com/2025/09/16/ceos-sec-prioritizing-trump-quarterly-reporting/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/01/BradJacobsGavel.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-16T09:11:40Z",
+      "description": "Také: Všechny novinky a kancelářské drby z Fortune."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vědci objevili tvora, který překvapivě rodí dva různé druhy",
       "original_title": "Scientists Found a Creature That Shockingly Gives Birth to 2 Different Species - yahoo.com",
       "url": "https://www.popularmechanics.com/science/animals/a66015866/2-different-species/",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8sx.SEzS127N31fjOXIKDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_mechanics_642/c7344c9cb890f63ece9cdd201773c12a",
       "source": "Popular Mechanics",
       "publishedAt": "2025-09-15T18:00:00Z",
-      "description": "Královna mravenců se dokáže spářit s samečky jiného druhu a klonovat je, čímž produkuje vajíčka zcela odlišného druhu."
+      "description": "Královny mravenců se dokážou spářit s samci jiného druhu a naklonovat je, takže kladou vajíčka zcela odlišného druhu."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Proč každý šestý americký rodič odmítá očkování doporučené lékaři",
+      "title": "Proč každý šestý americký rodič odmítá očkovací doporučení",
       "original_title": "Why 1 in 6 U.S. parents are rejecting vaccine recommendations - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/09/15/childhood-vaccines-parents-post-kff-poll/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQ6OYH5EGMZZSWE774XBA44PXU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-15T16:40:11Z",
-      "description": "Rozsáhlý průzkum deníku Washington Post a KFF podrobně popisuje, kdo má tendenci odmítat očkování a jaké jsou jeho důvody."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Avataři pro zdraví astronautů poletí na misi NASA Artemis II – Věda NASA (.gov)",
-      "original_title": "Avatars for Astronaut Health to Fly on NASA’s Artemis II - NASA Science (.gov)",
-      "url": "https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/",
-      "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/precision-health/tissue-chips/EMULATE_Emulate_Organ-Chip_blue_2.jpg",
-      "source": "NASA",
-      "publishedAt": "2025-09-15T11:56:34Z",
-      "description": "Studie AVATAR pomocí čipů s lidskými buňkami prozkoumá vliv radiace a mikrogravitace na zdraví astronautů"
+      "description": "Rozsáhlý průzkum Washington Post-KFF podrobně popisuje, kdo má tendenci odmítat doporučení očkování a jejich zdůvodnění."
     }
   ]
 }
