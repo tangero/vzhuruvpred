@@ -1,20 +1,10 @@
 {
-  "updated": "2025-09-18T01:54:13.625986",
+  "updated": "2025-09-18T03:33:41.804839",
   "trends": [
     {
       "rank": 1,
-      "query": "bayern – chelsea",
-      "news_title": "Liga mistrů: Chelsea prohrává, PSG a Liverpool vedou",
-      "news_url": "https://www.idnes.cz/fotbal/pohary/liga-mistru-1-kolo-online-zpravodajstvi-souhrn.A250917_160201_fot_pohary_tals",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGIrangbz1LO1Uf_Z1TUgeh-_ylD_Oy-gzk0z1-chGSGxLP_w_Vccyzlay9tk",
-      "traffic": "2000++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=bayern – chelsea&geo=CZ"
-    },
-    {
-      "rank": 2,
       "query": "liverpool – atlético madrid",
-      "news_title": "Simeone blames fan row after Liverpool winner on ‘getting insulted all game’",
+      "news_title": "Simeone: Výhra Liverpoolu? Fanoušci mě uráželi celý zápas",
       "news_url": "https://www.theguardian.com/football/2025/sep/17/simeone-blames-flare-up-after-liverpool-winner-on-getting-insulted-all-game",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtubsXKaL5pmSTHMi8mZaU5afMP_SsK9GL5oaib2mREv0pP7-E0SdXSY__l8k",
       "traffic": "2000++ hledání",
@@ -22,17 +12,17 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=liverpool – atlético madrid&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "ea fc 26 web app",
-      "news_title": "TOTW 1 v EA Sports FC 26: kompletní seznam hráčů",
-      "news_url": "https://www.si.com/soccer/ea-sports-fc-26-team-of-the-week-1-full-list",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtoo1y_aECEjRO34q19GMIU3Aba5jaJSGB5tuwIC5wdIs2LVNnei8p0ixyDLY",
-      "traffic": "1000++ hledání",
-      "source": "Sports Illustrated",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ea fc 26 web app&geo=CZ"
+      "rank": 2,
+      "query": "bayern – chelsea",
+      "news_title": "Liverpool v závěru vyhrál, Bayern zdolal Chelsea, slaví i PSG",
+      "news_url": "https://www.idnes.cz/fotbal/pohary/liga-mistru-1-kolo-online-zpravodajstvi-souhrn.A250917_160201_fot_pohary_tals",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn_Z0TGhOoF7mo4aM7Yw2JHoO_NaYEuwo38XLHyUzSJXnHah94yoIBhtq_HSM",
+      "traffic": "2000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=bayern – chelsea&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "query": "zdeněk pohlreich",
       "news_title": "Pohlreich: Hosté koukají do mobilu a fotí jídla",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/show-jana-krause-zdenek-pohlreich-ano-sefe.A250915_122041_lidicky_nh",
@@ -42,9 +32,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk pohlreich&geo=CZ"
     },
     {
+      "rank": 4,
+      "query": "ajax – inter",
+      "news_title": "Heitinga bez Berghuise na Inter: \"Nestihne to\"",
+      "news_url": "https://www.ad.nl/voetbal/ajax-trainer-john-heitinga-moet-het-in-cl-tegen-inter-doen-zonder-steven-berghuis-hij-gaat-het-niet-redden~ad773706/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kjDBvW6xjOKTcjjxEzRz5R9KSgfwIFYY4oIObfQFD46Cjg8APApm_NzRe6M",
+      "traffic": "500++ hledání",
+      "source": "AD.nl",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ajax – inter&geo=CZ"
+    },
+    {
       "rank": 5,
       "query": "liverpool",
-      "news_title": "Sáhl si Mohamed Salah v Lize mistrů na rekordy?",
+      "news_title": "Salah blízko k překonání několika Ligy mistrů rekordů",
       "news_url": "https://sports.yahoo.com/article/champions-league-records-within-mohamed-144500034.html",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbTAnGoGL41dpZk4rQXhpjfiq6jIjsGsVNRqYsg4XJ34i2SPJyGtxcPDAABY4",
       "traffic": "500++ hledání",
@@ -54,7 +54,7 @@
     {
       "rank": 6,
       "query": "al nassr – istiklol",
-      "news_title": "Ronaldo nezačne v prvním zápase Al-Nassr v Lize mistrů AFC",
+      "news_title": "Ronaldo chybí v sestavě Al-Nassr na úvod Lize mistrů AFC",
       "news_url": "https://foot-africa.com/en/news/ronaldo-is-out-of-the-starting-lineup-for-al-nassrs-first-match-in-the-afc-champions-league-2-883152/",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXTRpOrcszFQm48EW2iTBUBSBw-qMwEH6A4SowAfLSnWY7h3Qcn0jK6DxXYs",
       "traffic": "500++ hledání",
@@ -63,13 +63,13 @@
     },
     {
       "rank": 7,
-      "query": "ajax – inter",
-      "news_title": "Ajax-trainer John Heitinga moet het in CL tegen Inter doen zonder Steven Berghuis: ‘Hij gaat het niet redden’",
-      "news_url": "https://www.ad.nl/voetbal/ajax-trainer-john-heitinga-moet-het-in-cl-tegen-inter-doen-zonder-steven-berghuis-hij-gaat-het-niet-redden~ad773706/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kjDBvW6xjOKTcjjxEzRz5R9KSgfwIFYY4oIObfQFD46Cjg8APApm_NzRe6M",
+      "query": "rsbc",
+      "news_title": "RSBC se chystá na bankrot, v pozadí číhají dravci",
+      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-skupina-rsbc-se-chysta-na-oficialni-bankrot-v-pozadi-uz-cihaji-dravci-286205",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxvI9x6uFTp2aIpJHz2vhnnDFlnUyemFT6wzDCI7FrorMrwaWhcMWfk35m0QE",
       "traffic": "200++ hledání",
-      "source": "AD.nl",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ajax – inter&geo=CZ"
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=rsbc&geo=CZ"
     },
     {
       "rank": 8,
