@@ -1,16 +1,71 @@
 {
-  "last_updated": "2025-09-18T20:19:55",
+  "last_updated": "2025-09-18T21:16:07",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sněmovna zvažuje páteční hlasování o prozatímním rozpočtu, zatímco se vyhrocují stranické spory",
-      "original_title": "House eyes Friday vote on stopgap as partisan tensions flare - Politico",
-      "url": "https://www.politico.com/news/2025/09/17/shutdown-house-cr-vote-timing-00568998",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F91%2F68%2Fb811acbf4e1fab96a36f28d7d9f1%2Fu-s-congress-94788.jpg",
+      "title": "Dow uzavřel v růstu o 250 bodů, S&P 500 mírně klesl poté, co Fed oznámil široce očekávané snížení sazeb: Živé aktualizace",
+      "original_title": "Dow closes up 250 points, S&P 500 inches lower after Fed delivers widely expected rate cut: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/09/16/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200287-17581391152025-09-17t193757z_59868325_rc2vtgaf0e4n_rtrmadp_0_usa-markets-fed.jpeg?v=1758139425&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-17T20:18:00Z",
+      "description": "Akcie uzavřely smíšené po dlouho očekávaném rozhodnutí Fedu o měnové politice"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Film ‚Jak jsem zezelenala‘ bude na Amazonu po finále seriálu",
+      "original_title": "‘Summer I Turned Pretty’ Movie Set at Amazon Following Series Finale - Variety",
+      "url": "https://variety.com/2025/tv/news/summer-i-turned-pretty-finale-movie-amazon-1236522383/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/07/The-Summer-I-Turned-Pretty-Season-3.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-17T19:24:00Z",
+      "description": "Příběh seriálu „Kráska z pláže“ ještě nekončí. Amazon Prime Video oficiálně schválil celovečerní film, který příběh uzavře."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump a Vance vystoupí na vzpomínkové akci Charlie Kirka",
+      "original_title": "Trump, Vance to headline Charlie Kirk memorial - Politico",
+      "url": "https://www.politico.com/news/2025/09/17/charlie-kirk-memorial-trump-vance-00569225",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0e%2Fdc%2F675f2c4546519ecfe453108fd1b0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235097411",
       "source": "Politico",
-      "publishedAt": "2025-09-17T17:47:10Z",
-      "description": "Vedení Republikánů věří, že bude muset respektovat 72hodinovou lhůtu pro přezkum návrhů zákonů."
+      "publishedAt": "2025-09-17T19:01:51Z",
+      "description": "Několik členů Trumpovy administrativy vystoupí na akci na počest zavražděného politického organizátora."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Disney dal zelenou filmu ‘Camp Rock 3’ s Jonas Brothers a Demi Lovato jako výkonnou producentkou",
+      "original_title": "‘Camp Rock 3’ Gets Disney Greenlight With Jonas Brothers Reprising Their Roles & Demi Lovato Exec Producing - Deadline",
+      "url": "http://deadline.com/2025/09/camp-rock-3-disney-jonas-brothers-demi-lovato-1236547074/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-2229542531.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-17T19:00:00Z",
+      "description": "Disney+ a Disney Channel dávají zelenou snímku 'Camp Rock 3', Jonas Brothers se vracejí ke svým rolím a Demi Lovato bude výkonnou producentkou."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bodový graf vysvětlen: Jak Fed předpovídá úrokové sazby",
+      "original_title": "The Dot Plot, Explained: How the Fed Forecasts Interest Rates - Bloomberg",
+      "url": "https://www.bloomberg.com/explainers/the-dot-plot-explained-how-the-fed-forecasts-interest-rates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im7wWwqrw6yI/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-17T18:48:06Z",
+      "description": "Každé tři měsíce centrální banka aktualizuje bodový graf, který ukazuje, kam podle jejích špičkových představitelů míří sazby. Ne každý je však fanouškem anonymních prognóz."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Tisíce lidí protestují proti druhým státním návštěvám Trumpa ve Velké Británii",
+      "original_title": "Thousands protest against Trump's second UK state visit - BBC",
+      "url": "https://www.bbc.com/news/articles/cj9zve281k3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fc4e/live/cd0bcf30-93f1-11f0-b391-6936825093bd.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-17T17:40:59Z",
+      "description": "Koalice více než 50 skupin zorganizovala v centru Londýna pochod na protest proti návštěvě."
     },
     {
       "flag": "🌍",
@@ -26,57 +81,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "StubHub IPO: Akcie STUB Mírně Posilují Při Debutu Na Trhu Vstupenek - Investor's Business Daily",
-      "original_title": "StubHub IPO: STUB Stock Nudges Higher In Ticket Marketplace's Debut - Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/stubhub-ipo-raises-800-million-what-to-know-as-ticket-reseller-set-to-begin-trading/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/Stock-StubHub-Window-shut.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-17T16:53:00Z",
-      "description": "StubHub získala z IPO 800 milionů dolarů a její hodnota před vstupem na burzu činí 8,6 miliardy dolarů."
+      "title": "Nejméně 8 vojáků potrestáno za komentáře na sociálních sítích k smrti Charlie Kirka",
+      "original_title": "At least 8 troops punished for social media comments about Charlie Kirk’s death - Task & Purpose",
+      "url": "http://taskandpurpose.com/news/military-kirk-punished/",
+      "urlToImage": "https://taskandpurpose.com/wp-content/uploads/2025/09/kirk2-e1758126330773.jpg",
+      "source": "Task & Purpose",
+      "publishedAt": "2025-09-17T16:37:55Z",
+      "description": "Ministr obrany Pete Hegseth uvedl, že vojáci a civilní zaměstnanci americké armády, kteří oslavují Kirkovu smrt, ponesou následky."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Louisianské zdravotníky varují: pátým obětem „masožravé“ bakterie Vibrio",
-      "original_title": "‘Flesh-eating’ Vibrio kills fifth Louisiana resident, health officials warn - NOLA.com",
-      "url": "https://www.nola.com/news/healthcare_hospitals/louisiana-flesh-eating-bacteria-vibrio-cases-2025/article_139bbeb3-7cec-4db0-bc32-f1ba7f4d8448.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/97/297fde0c-d297-51a7-87e4-30a7d0557302/60df35bf292f5.image.jpg?crop=1657%2C870%2C0%2C190&resize=1200%2C630&order=crop%2Cresize",
-      "source": "NOLA.com",
-      "publishedAt": "2025-09-17T16:50:00Z",
-      "description": "V Louisianě letos zabil pět lidí bakterie požírající maso, která číhá v pobřežních vodách a ústřicích. Podle zdravotníků může být i malé říznutí smrtelné."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Koroner identifikoval dospívající dívku, jejíž tělo bylo nalezeno v autě zpěváka D4vda",
-      "original_title": "Coroner IDs teen girl whose body was found in singer D4vd's car - kare11.com",
-      "url": "https://www.kare11.com/article/news/nation-world/body-found-in-singer-d4vd-car-identified-as-missing-girl/507-549a22b1-d682-4068-85bd-49cdeba4ddd1",
-      "urlToImage": "https://media.kare11.com/assets/CCT/images/d5d4cd1f-744c-4d43-9d55-069d497a02c4/20250909T161743/d5d4cd1f-744c-4d43-9d55-069d497a02c4_1140x641.jpg",
-      "source": "KARE11.com",
-      "publishedAt": "2025-09-17T16:46:00Z",
-      "description": "Poblíž Los Angeles objevili ostatky dívky ve voze, který zapáchal"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sledujte živě: Ředitel FBI Kash Patel vypovídá na slyšení v Kongresu po atentátu na Charlieho Kirka",
-      "original_title": "Watch Live: FBI Director Kash Patel testifies at House hearing in aftermath of Charlie Kirk assassination - CBS News",
-      "url": "https://www.cbsnews.com/live-updates/kash-patel-hearing-house-judiciary-committee-charlie-kirk-epstein-files/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/17/82d53cc7-3071-43ac-9dc4-638ffd9c59b5/thumbnail/1200x630g2/b529238d30ddb6d6e3ac7fab68fe3060/ap25260514707884.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-17T16:10:00Z",
-      "description": "Ředitel FBI Kash Patel se ve středu podruhé objeví před justičním výborem Sněmovny reprezentantů k výslechu zákonodárci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump v Británii přivítán králem a tisíci demonstrantů",
-      "original_title": "Trump greeted by king, thousands of protesters in UK visit - ABC News",
-      "url": "https://abcnews.go.com/Politics/trump-begin-historic-uk-state-visit-royal-reception/story?id\\\\u003d125651147",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-17T16:07:30Z",
-      "description": ""
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Izraelské tanky obklíčily Gazu před pozemní invazí, EU navrhuje sankce v reakci na celosvětový odpor",
+      "original_title": "Israeli tanks surround Gaza City ahead of ground incursion as EU proposes sanctions amid global outcry - CNN",
+      "url": "https://www.cnn.com/2025/09/17/middleeast/israel-gaza-ground-assault-satellite-imagery-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sep16-idfnorthofshaticamp.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-17T16:12:51Z",
+      "description": "Izraelské tanky se ve středu podle očitých svědků a satelitních snímků usadily na okraji Gazy před plánovanou pozemní operací v největším městě enklávy."
     },
     {
       "flag": "🌍",
@@ -92,40 +114,29 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bessent stejně jako guvernér Fedu činil protichůdné hypotéční závazky",
-      "original_title": "Bessent, Like Fed Governor, Made Contradictory Mortgage Pledges - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-17/bessent-like-fed-governor-made-contradictory-mortgage-pledges",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixjP71D_T5to/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-17T15:55:12Z",
-      "description": "Ministr financí USA Bessent si jako „hlavní bydliště“ zapsal dvě nemovitosti zároveň, ukazují hypotéky"
+      "title": "Kopulovitá pachycefalosaur z rané křídy Mongolska",
+      "original_title": "A domed pachycephalosaur from the early Cretaceous of Mongolia - Nature",
+      "url": "https://www.nature.com/articles/s41586-025-09213-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09213-6/MediaObjects/41586_2025_9213_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2025-09-17T15:11:15Z",
+      "description": "Pachycefalosaurid Zavacephale rinpoche z rané křídy Mongolska poskytuje klíčové poznatky o rané evoluci dinosauří s kopulovitou lebkou, včetně vývoje frontoparietální klenby a oddělení sociosexuáln..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Byl jsem pěkně nezkrotné dítě.\" Pořad Fresh Air nahlédl do zákulisí s Robertem Redfordem",
-      "original_title": "'I was quite a maverick kid' — 'Fresh Air' went behind the scenes with Robert Redford - NPR",
-      "url": "https://www.npr.org/2025/09/17/nx-s1-5543292/robert-redford-fresh-air",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3952x2224+0+405/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2Ff8%2Fafaf29b24c6894e70c95c206dbad%2Fgettyimages-2661980.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-17T15:51:40Z",
-      "description": "Legendární herec zemřel v úterý v 89 letech. „Neučil jsem se tak, jak jsem se měl učit…“ vysvětloval v roce 2013. „Došlo mi, že mé vzdělání začne, až vyjdu do světa.“"
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Recenze One Battle After Another: Leonardo DiCaprio září v ‚oslnivé‘ akční komediální dramatu",
-      "original_title": "One Battle After Another review: Leonardo DiCaprio stars in a 'dazzler' of a comedy-action-drama - BBC",
-      "url": "https://www.bbc.com/culture/article/20250917-one-battle-after-another-review",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0m3bw5x.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-17T15:49:35Z",
-      "description": "„Virtuózní“ Jeden boj za druhým je „děsivý a přitom směšně vtipný“. Je vzácné vidět tak ambiciózní film, který funguje tak hladce."
+      "title": "MacBook za 599 dolarů s čipem iPhonu by měl letos začít vyrábět",
+      "original_title": "$599 MacBook With iPhone Chip Expected to Enter Production This Year - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/17/macbook-with-iphone-chip-production-rumor/",
+      "urlToImage": "https://images.macrumors.com/t/SvVZeW6SQG72NSNE0rNqpAVMGXk=/2680x/article-new/2025/07/Low-Cost-MacBook-Feature-A18-Pro.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-17T14:59:37Z",
+      "description": "Analytik z řetězce dodavatelů Applu Ming-Chi Kuo dnes zopakoval, že dostupnější MacBook poháněný procesorem z iPhonu má vstoupit do masové"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "To je roztomilé\": Šéf Frontieru se vymezil proti šéfovi United, který prohlásil model níkonákladových aerolinek za mrtvý",
+      "title": "To je roztomilé\": Šéf Frontieru se vymezil proti prohlášení šéfa United, že model nízkonákladových aerolinek je mrtvý",
       "original_title": "'That's cute': Frontier CEO fires back at United CEO declaring discount airline model dead - CNBC",
       "url": "https://www.cnbc.com/2025/09/17/frontier-united-discount-airlines-barry-biffle.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108199984-1758121298742-gettyimages-1397823023-dsc_3547_dd85c899-8e00-47cc-9ec6-be38f2f6a125.jpeg?v=1758121406&w=1920&h=1080",
@@ -136,29 +147,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "USCIS představuje první změny v naturalizačním testu jako součást vícekrokové revize standardů amerického občanství - USCIS (.gov)",
-      "original_title": "USCIS Unveils First Changes to Naturalization Test in Multi-Step Overhaul of American Citizenship Standards - USCIS (.gov)",
-      "url": "https://www.uscis.gov/newsroom/news-releases/uscis-unveils-first-changes-to-naturalization-test-in-multi-step-overhaul-of-american-citizenship",
-      "urlToImage": "https://www.uscis.gov/sites/default/files/images/social-media/SM_Rollout_WebLink_NewsRelease_CivicsTest_FB_1200x630.jpg",
-      "source": "Uscis.gov",
-      "publishedAt": "2025-09-17T14:16:34Z",
-      "description": "Americký úřad pro občanství a imigraci dnes zveřejnil v Úředním věstníku oznámení o zavedení občanského testu pro naturalizaci pro rok 2025."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Android 16 se předvádí s redesignem, režimem ‚Extra Dark‘ a více AI [Video]",
-      "original_title": "Nothing shows off Android 16 update with redesign, ‘Extra Dark’ mode, more AI [Video] - 9to5Google",
-      "url": "http://9to5google.com/2025/09/17/nothing-shows-off-android-16-update-with-redesign-extra-dark-mode-more-ai-video/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/nothing-os-4-android-16-teaser-10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-17T14:15:00Z",
-      "description": "V novém videu společnost Nothing představuje první pohled na svou aktualizaci Android 16, Nothing OS 4.0, která se „brzy“ spustí v betě."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Porucha motoru nutí Northrop Grumman odložit dodávku základ na Mezinárodní vesmírnou stanici",
+      "title": "Porucha motoru nutí Northrop Grumman odložit dodávku zásob na Mezinárodní vesmírnou stanici",
       "original_title": "Engine trouble forces Northrop Grumman to delay supply delivery to International Space Station - AP News",
       "url": "https://apnews.com/article/northrop-grumman-nasa-space-station-1c616fa4fb267c2f5bd4306095515e3f",
       "urlToImage": "https://dims.apnews.com/dims4/default/f7277be/2147483647/strip/true/crop/5877x3306+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Fbc%2Ff0cd9f13d0ebd199f679881377ea%2Faef98c56a01e42ffa670270e7891c4bd",
@@ -169,24 +158,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Cardi B potvrdila spekulace, že čeká první dítě se Stefonem Diggsem",
-      "original_title": "Cardi B confirms weeks of speculation that she is pregnant with her first child with Stefon Diggs - AP News",
-      "url": "https://apnews.com/article/cardi-b-stefon-diggs-baby-85548f92749dddc25e5a4ccf04235b04",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5f16484/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F32%2Fe58d8af063647e75e7dbf8bdd046%2Fad8af70d53d04df2aaec4cd6fb2b5d95",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-17T13:59:00Z",
-      "description": "Cardi B čeká dítě. Držitelka ceny Grammy to oznámila ve středu v rozhovoru pro „CBS Mornings“."
+      "title": "Ministerstvo spravedlnosti by mohlo pokračovat v demokratické odvetě za snahu o odsouzení Ilhan Omarové",
+      "original_title": "DOJ impeachments could continue Democratic retaliation against Ilhan Omar censure push - Politico",
+      "url": "https://www.politico.com/live-updates/2025/09/17/congress/democrats-eye-more-censure-retaliation-00567992",
+      "urlToImage": "https://www.politico.com/dims4/default/ee8fe02/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F1d%2Fb6%2F0fae363e45c7af2fb38163696b0c%2Fus-election-2026-texas-redistricting-70554.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-17T14:02:54Z",
+      "description": "Rep. Marc Veasey cílí na ministryni spravedlnosti Pam Bondi a ředitele FBI Kashe Patela."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Skupina velkých zdravotních pojišťoven tvrdí, že jejich klienti budou mít i nadále hrazena očkování, což může zmírnit obavy z dostupnosti - statnews.com",
+      "original_title": "Major health insurer group says members will continue to cover vaccines, a step that may ease anxiety over access - statnews.com",
+      "url": "https://www.statnews.com/2025/09/17/ahip-vaccine-insurance-acip-coverage/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/Vaccine_BandAid-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2025-09-17T13:52:45Z",
+      "description": "Kvůli obavám z přístupu Američanů k vakcínám pojišťovny přislíbily plné hrazení všech doporučených očkování"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Vdova po Navalném tvrdí, že nové laboratorní důkazy potvrzují, že byl ve větr otráven",
+      "title": "Vdova po Navalném tvrdí, že nové laboratorní důkazy potvrzují, že byl ve vězení otráven",
       "original_title": "Navalny’s widow says new lab evidence proves he was poisoned in prison - The Washington Post",
       "url": "https://www.washingtonpost.com/world/2025/09/17/navalny-poisoned-russia-yulia-navalnaya/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3NLTTYVFWA2Z7457RQVTS6GXPM_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-17T13:44:11Z",
-      "description": "Dva laboratoře otestovaly Navalného vzorky, které byly propašovány ze země, a došly k závěru, že byl otráven, řekla jeho manželka. Jako oficiální příčina smrti bylo uvedeno onemocnění."
+      "description": "Dva laboratoře otestovaly Navalného vzorky, které byly propašovány ze země, a došly k závěru, že byl otráven, uvedla jeho manželka. Jako oficiální příčina smrti bylo uvedeno onemocnění."
     },
     {
       "flag": "🌍",
@@ -197,62 +197,29 @@
       "urlToImage": "https://images.macrumors.com/t/_BM3WvQmnhsAKgHBPyn6qOWsvN4=/1958x/article-new/2025/09/iphone-air-thinness.jpg",
       "source": "MacRumors",
       "publishedAt": "2025-09-17T13:25:58Z",
-      "description": "Nový iPhone Air od Applu s ultratenkým designem, který v nejtenčím místě měří jen 5,6 mm, předčí iPhone 6 jako nejtenčí iPhone vůbec."
+      "description": "S ultra tenkým designem, který v nejtenčím místě měří jen 5,6 mm, předstihl nový iPhone Air iPhone 6 a stal se nejtenčím iPhonem všech dob."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova hrozba zacílením na ‚radikální levici‘ po Kirkově vraždě vyvolává obavy, že se snaží umlčet oponenty",
+      "title": "Trumpova hrozba útokem na ‚radikální levici‘ po vraždě Kirka vyvolává obavy, že se snaží umlčet oponenty",
       "original_title": "Trump’s threat to target ‘radical left’ after Kirk killing raises fears he’s trying to silence foes - AP News",
       "url": "https://apnews.com/article/trump-charlie-kirk-radical-left-political-opposition-3875efd0674ed2a22a719dfb42ace6ab",
       "urlToImage": "https://dims.apnews.com/dims4/default/203aa13/2147483647/strip/true/crop/3891x2189+0+203/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2F56%2F5db4ae46edb34541befa44983e9c%2F14a4ba99db8246a1af575f0e06d0712b",
       "source": "Associated Press",
       "publishedAt": "2025-09-17T13:08:00Z",
-      "description": "Prezident Donald Trump po atentátu na konzervativního aktivistu Charlieho Kirka stupňuje hrozby takzvané „radikální levici“. Jeho republikánská administrativa zvažuje zařazení některých skupin mezi..."
+      "description": "Prezident Donald Trump po atentátu na konzervativního aktivistu Charlieho Kirka stupňuje hrozby takzvané „radikální levici“. Republikánská administrativa zvažuje zařazení některých skupin mezi domá..."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Lillyho perorální GLP-1 orforglipron překonal v přímé studii perorální semaglutid",
-      "original_title": "Lilly's oral GLP-1, orforglipron, superior to oral semaglutide in head-to-head trial - Eli Lilly and Company",
-      "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-orforglipron-superior-oral-semaglutide-head",
-      "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
-      "source": "Lilly.com",
-      "publishedAt": "2025-09-17T13:03:10Z",
-      "description": "Webové stránky pro vztahy s investory obsahují informace o podnikání společnosti Eli Lilly and Company pro akcionáře, potenciální investory a finanční analytiky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Republikáni uctívají památku Charlieho Kirka tím, že vyhlašují válku prvním dodatku ústavy",
-      "original_title": "Republicans are honoring Charlie Kirk’s memory by declaring war on the First Amendment - The Verge",
-      "url": "https://www.theverge.com/policy/779799/republican-charlie-kirk-first-amendment-crackdown-continues",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKS519_FREE_SPEECH_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-17T13:00:00Z",
-      "description": "Prezident Donald Trump, zákonodárci a jeho administrativa opustili základní principy svobody projevu po Kirkově vraždě v Utahu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Modely iPhone 17 Pro od Applu vám dají přesně to, co chcete",
-      "original_title": "Apple’s iPhone 17 Pro Models Give You Exactly What You Want - WIRED",
-      "url": "https://www.wired.com/review/apple-iphone-17-pro-and-iphone-17-pro-max/",
-      "urlToImage": "https://media.wired.com/photos/68ca3201a98a6eae5b8efa33/191:100/w_1280,c_limit/Apple%20iPhone%2017%20Pro%20and%20Pro%20Max%20SOURCE%20Julian%20Chokkattu(1).jpg",
-      "source": "Wired",
-      "publishedAt": "2025-09-17T12:00:00Z",
-      "description": "Velké výkonné baterie znamenají, že už nemusíte nabíjet svůj iPhone každý den."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Německý podezřelý z zmizení Madeleine McCann byl propuštěn po odpykání trestu v nepříbuzném případě",
-      "original_title": "German suspect in Madeleine McCann disappearance is released after serving time in unrelated case - AP News",
-      "url": "https://apnews.com/article/madeleine-mccann-germany-britain-934182f2432be4e089e82bfc1767acd5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/859e5ca/2147483647/strip/true/crop/3204x1802+0+167/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F08%2F388a82f893b9fb2b94f49c30f666%2Fb3905c866e5c43498ae05e0a81309060",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-17T11:24:00Z",
-      "description": "Němec podezřelý ze zmizení Madeleine McCann byl po odpykání trestu propuštěn z vězení"
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Černošského studenta našli oběšeného na stromě. Podle policie nejsou známky cizího zavinění.",
+      "original_title": "A Black student was found hanging from a tree. Police say there’s no sign of foul play - CNN",
+      "url": "https://www.cnn.com/2025/09/17/us/mississippi-hanging-delta-state-university-black-student-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-697223122.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-17T11:21:10Z",
+      "description": "Policie vyšetřuje smrt černošského studenta nalezeného oběšeného na kampusu mississippské univerzity"
     },
     {
       "flag": "🌍",
@@ -263,40 +230,40 @@
       "urlToImage": "https://c02.purpledshub.com/uploads/sites/48/2025/09/asteroid-close-to-earth.jpg?w=1200",
       "source": "Skyatnightmagazine.com",
       "publishedAt": "2025-09-17T08:52:09Z",
-      "description": "Asteroid 2025 FA22, který měl malou šanci zasáhnout Zemi v roce 2089, mine naši planetu 18. září 2025."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Demokrat vyhrál zvláštní volby o křeslo po zavražděné zákonodárkyni z Minnesoty",
-      "original_title": "Democrat wins special election for seat held by slain Minnesota lawmaker Melissa Hortman - NBC News",
-      "url": "https://www.nbcnews.com/politics/elections/democrat-wins-special-election-seat-held-slain-minnesota-lawmaker-rcna231458",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250915-melissa-hortman-se-316p-e7fb9b.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-17T01:43:00Z",
-      "description": "Voliči v Minnesotě v úterý zvolili demokratického nástupce do křesla ve státním parlamentu po Melisse Hortmanové, která byla v červnu zavražděna"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "RFK Jr. tažení proti vakcínám vstupuje do akční fáze",
-      "original_title": "RFK Jr.’s Crusade Against Vaccines Hits Its Action Phase - The Bulwark",
-      "url": "https://www.thebulwark.com/p/rfk-jr-kennedy-acip-crusade-against-vaccines-hepatitis-b",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!0bAG!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb1dc79f-e08c-4aa8-a5ab-e2e61993e421_7200x4050.jpeg",
-      "source": "The Bulwark",
-      "publishedAt": "2025-09-16T23:43:33Z",
-      "description": "Jeho provakcinační poradní výbor složený z odpůrců očkování pravděpodobně reviduje pravidla pro život zachraňující vakcínu proti žloutence typu B."
+      "description": "Asteroid 2025 FA22, který měl podle předpovědí malou šanci zasáhnout Zemi v roce 2089, mine naši planetu 18. září 2025."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Nemoc z líbajících se brouků je v USA natrvalo, tvrdí experti. Zde je důvod, proč se šíří",
+      "title": "Obavy z odstávky vlády sílí, když demokraté stupňují odhodlání zablokovat republikánský návrh rozpočtu",
+      "original_title": "Government shutdown fears intensify as Democrats stiffen resolve to block GOP spending bill - CNN",
+      "url": "https://www.cnn.com/2025/09/17/politics/government-shutdown-congress",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235231472.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-17T06:00:05Z",
+      "description": "Líbor menšiny v Senátu Chuck Schumer v březnu učinil zásadní rozhodnutí: Hlasoval pro to, aby vláda zůstala v provozu, a přesvědčil dostatek demokratů, aby ho následovali – a sklidil za to zuřivou ..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Robert Redford bude připomínán pro svůj hluboký odkaz v environmentálním aktivismu a advokacii práv domorodých Američanů",
+      "original_title": "Robert Redford remembered for his deep legacy in environmental activism and Native American advocacy - AP News",
+      "url": "https://apnews.com/article/robert-redford-activism-463aa0494ead81081cba6caefffb9047",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8cda4ad/2147483647/strip/true/crop/2962x1666+0+154/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F85%2Ff5%2Ff8df2a360ced41955d1d5f7a4a4d%2F56b09784698c49389b8161ed86cd5202",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-17T05:34:00Z",
+      "description": "Robert Redford, který v úterý zemřel ve věku 89 let, byl známý svým hlubokým závazkem k aktivismu, zejména pro práva domorodých Američanů a životní prostředí. V 70. letech, když hrál ve filmech jak..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Nemoc z líbání je v USA natrvalo, tvrdí experti. Zde je důvod, proč se šíří",
       "original_title": "‘Kissing bug’ disease is here to stay in the US, experts say. Here’s why it’s spreading - CNN",
       "url": "https://www.cnn.com/2025/09/16/health/kissing-bug-chagas-endemic-us",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-129374499.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-16T10:00:05Z",
-      "description": "Chagasova choroba by měla být podle expertů nyní považována za endemickou v USA, varují před nebezpečným parazitem z přenašečů polibkových brouků."
+      "description": "Chagasova choroba by měla být podle expertů považována za endemickou v USA"
     }
   ]
 }
