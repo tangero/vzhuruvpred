@@ -1,40 +1,70 @@
 {
-  "updated": "2025-09-18T18:36:28.048282",
+  "updated": "2025-09-18T21:23:32.470494",
   "trends": [
     {
       "rank": 1,
       "query": "newcastle – barcelona",
-      "news_title": "LIVE: Man City vs Napoli & Newcastle vs Barcelona - skóre a rádio",
-      "news_url": "https://www.bbc.com/sport/football/live/c1le008q4z2t",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4B2gh3dynpp-eimD3aJZMapwUYe5uD6KSzq33p1bewEh_sjfDY2g5T209jfs",
-      "traffic": "500++ hledání",
+      "news_title": "Barcelona porazila Newcastle 2:1, Rashford zářil",
+      "news_url": "https://www.bbc.com/sport/football/live/cm2zxd3182rt",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSbgzuc8Vwik8c7T_emo5XWsgSTOfLeGZqvSJzlPoKweANT0cCWFx8dxCPSQE",
+      "traffic": "2000++ hledání",
       "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=newcastle – barcelona&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "twitch",
-      "news_title": "Phasmophobia: Twitch Drops a odměny k 5. výročí",
-      "news_url": "https://www.allout-gaming.com/news/what-you-need-know-new-1394398",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa1PcsFYaXWc8zIrofy5XRUg2dpJr4_1kl_zIul3UDp7EEws6FPjSQUMw3IhI",
-      "traffic": "500++ hledání",
-      "source": "www.allout-gaming.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=twitch&geo=CZ"
+      "query": "barcelona",
+      "news_title": "Newcastle - Barcelona: přímý přenos Ligy mistrů",
+      "news_url": "https://as.com/futbol/champions/newcastle-barcelona-en-directo-ultima-hora-de-la-fase-liga-de-la-champions-league-hoy-en-vivo-n/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTwptIDrf-ZsU97ADFTaJxJ8nHPDAwhm-PFhzPcUnz8h8ymW7pOfaMEIVSyfk",
+      "traffic": "1000++ hledání",
+      "source": "Diario AS",
+      "explore_url": "https://trends.google.cz/trends/explore?q=barcelona&geo=CZ"
     },
     {
       "rank": 3,
       "query": "man city – neapol",
-      "news_title": "De Bruyne se vrací? City čelí Neapoli",
-      "news_url": "https://www.bbc.com/sport/football/articles/cx20ql96dx5o",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG_sApqquz9G5u_7VIwu_4qMsKYtnmvkl4snLyhiHbgAkBlcQgggyeisGInxQ",
-      "traffic": "200++ hledání",
-      "source": "BBC",
+      "news_title": "Man City - Neapol 0:0, Liga mistrů",
+      "news_url": "https://www.idnes.cz/fotbal/online-manchester-city-fc-neapol.BU529989",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMm5TyW2NNO9TTT1mAY9jJQvyGu6pSpuAixCn4SuUAjpVSvdlKck55tT3y9Q",
+      "traffic": "1000++ hledání",
+      "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=man city – neapol&geo=CZ"
     },
     {
       "rank": 4,
+      "query": "newcastle",
+      "news_title": "Man City vs Napoli, Newcastle vs Barcelona - živě",
+      "news_url": "https://www.bbc.com/sport/football/live/c1le008q4z2t",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJzmj4EZfYlm7Y5Fu4HnzuGDCIChJCrzJrA3T1VY09J2sK8cUNpKHxPZRK8w",
+      "traffic": "500++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=newcastle&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "galatasaray",
+      "news_title": "Yunus Akgün poprvé od Ümita Karan dal gól za Galatasaray v Německu.",
+      "news_url": "https://www.fanatik.com.tr/galatasaray/galatasarayda-yunus-akgun-sahnede-almanyada-nefis-gol-umit-karandan-sonra-bir-ilk-2594836",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1KQIaGocr_JWkbsSDlthTyZFXi84my_1dwKEt_Ohw4Jrn7q_XVZNTqoVd2Ls",
+      "traffic": "200++ hledání",
+      "source": "Fanatik",
+      "explore_url": "https://trends.google.cz/trends/explore?q=galatasaray&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "cameron diaz",
+      "news_title": "Cameron Diaz po roce s manželem venku se synem",
+      "news_url": "https://www.dailymail.co.uk/tvshowbiz/article-15089697/Cameron-Diaz-53-husband-46-seen-public-time-ONE-YEAR-son-out.html",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuEdDE-D7BtWm4BaMsWS7vLTG39Sg5rjG3lLpJd_nq91y4BznwwI5nV9GvtjE",
+      "traffic": "200++ hledání",
+      "source": "Daily Mail",
+      "explore_url": "https://trends.google.cz/trends/explore?q=cameron diaz&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "jarmila kratochvílová",
-      "news_title": "Americká hvězda překonala slavný triumf Kratochvílové a má smělý plán.",
+      "news_title": "Americká hvězda překonala slavný triumf Kratochvílové",
       "news_url": "https://www.sport.cz/clanek/atletika-slavny-triumf-kratochvilove-prekonan-americka-hvezda-ma-ted-smely-plan-5295110",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiYQE7FKnkBUrW8ozEKoElTT-LkrwutL8Ys_2YBhcmTABT3CjIN1bbbRpPb-w",
       "traffic": "200++ hledání",
@@ -42,44 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jarmila kratochvílová&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "volby 2025",
-      "news_title": "Voličský průkaz 2025: Jak a do kdy o něj požádat a kde ho použít",
-      "news_url": "https://zpravy.aktualne.cz/domaci/volicsky-prukaz-2025-volby-do-poslanecke-snemovny-okrsky/r~e974703290d611f080bfac1f6b220ee8/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdDf_gZazytwI4OfgvhcRIKbBvrflSciCFFv-ifC1ExHb1MJdfCsg4TFzyQJI",
-      "traffic": "200++ hledání",
-      "source": "Aktuálně",
-      "explore_url": "https://trends.google.cz/trends/explore?q=volby 2025&geo=CZ"
-    },
-    {
-      "rank": 6,
-      "query": "dying light the beast",
-      "news_title": "Dying Light: The Beast – Recenze",
-      "news_url": "https://www.ign.com/articles/dying-light-the-beast-review",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLm68L52-N_iBuxth3FarwlWcnhQIYWtZznQVM88lPsLeKZIgDLMRE-aGmOxY",
-      "traffic": "200++ hledání",
-      "source": "IGN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=dying light the beast&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "kick",
-      "news_title": "Komedička Judy Gold zahájí Borscht Belt Film Fest v Ellenville",
-      "news_url": "https://www.dailyfreeman.com/2025/09/18/comedian-judy-gold-to-kick-off-borscht-belt-film-fest-in-ellenville/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1hS5W3Hcjaazl7jrZoXP7I8ROD1jNaXsen2KQ8r3KuBGLjOvRH_ZDmCh5TGo",
-      "traffic": "200++ hledání",
-      "source": "Daily Freeman",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kick&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "masaryk",
-      "news_title": "Češi netrpělivě čekají, až archiv otevře 20 let zapečetěnou obálku",
-      "news_url": "https://www.cnn.com/2025/09/17/europe/tgm-letter-czech-republic-scli-intl",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiqjBbRqWeGR5D6PVJJhamfFyuwKbIfNk0WaGE8aOfHwVz3H5-VIMqBUAa2fk",
+      "query": "ньюкасл юнайтед – барселона",
+      "news_title": "Newcastle vs. Barcelona 18.9.2025: kdy začíná a kde sledovat",
+      "news_url": "https://sportmail.ru/article/football-eurocups/67946221/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNr6bUX6YhnhnrKaiPbuqXD5XfbJiG9jcMsXOlHm9UMaQSCl9VpIUfeTFaxWU",
       "traffic": "100++ hledání",
-      "source": "CNN",
-      "explore_url": "https://trends.google.cz/trends/explore?q=masaryk&geo=CZ"
+      "source": "Спорт Mail",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ньюкасл юнайтед – барселона&geo=CZ"
     }
   ]
 }
