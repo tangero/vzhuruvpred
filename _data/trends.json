@@ -1,50 +1,60 @@
 {
-  "updated": "2025-09-18T12:52:40.844616",
+  "updated": "2025-09-18T15:26:55.762225",
   "trends": [
     {
       "rank": 1,
-      "query": "jimmy kimmel",
-      "news_title": "Jimmy Kimmel dočasně stáhnut z vysílání kvůli kontroverzním výrokům o Charliem Kirkovi",
-      "news_url": "https://www.bbc.com/news/articles/c203n52x1y9o",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2cGPodt-QGb3rVsBIqMf-OWUXO3shVMQX3GulSASjvxgnypxWJOYyhnlRx3s",
+      "query": "stihacky nad prahou",
+      "news_title": "Stíhačky přeletěly Karlův most",
+      "news_url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-prelet-stihacek-nad-karlovym-mostem-40539495",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRch2lEjg3lR8KyCuEPHmClHQVNnrrGYQAvdfVs1PEAjN4LH9D3hP31P5edI6E",
       "traffic": "2000++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=jimmy kimmel&geo=CZ"
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=stihacky nad prahou&geo=CZ"
     },
     {
       "rank": 2,
       "query": "dny nato 2025",
-      "news_title": "Dny NATO tento víkend: místo, vstupné a doprava",
+      "news_title": "Dny NATO tento víkend: místo konání, vstupné a doprava",
       "news_url": "https://www.idnes.cz/ostrava/zpravy/dny-nato-2025-program-vstupne-doprava-parkovani.A250909_123541_ostrava-zpravy_wall",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkzkygY_jkdXNdg65AZr98vqcqJ4DpiNpCihY3Cae_XHANF8RE1ZQ9-2v9xik",
-      "traffic": "1000++ hledání",
+      "traffic": "2000++ hledání",
       "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=dny nato 2025&geo=CZ"
     },
     {
       "rank": 3,
-      "query": "brigitte macron",
-      "news_title": "Brigitte Macron předloží u soudu v USA fotodůkazy, že je žena, uvádí její právník.",
-      "news_url": "https://www.lindependant.fr/2025/09/18/infox-transphobe-sur-brigitte-macron-la-premiere-dame-prevoit-de-presenter-des-preuves-photographiques-devant-un-tribunal-americain-pour-prouver-12938095.php",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-D4iPbXyD8X6e4qafwUh4lUHfdZQ2bPV4Uk2VHFvro011uVgRRRzEewwQHw",
-      "traffic": "500++ hledání",
-      "source": "L'Indépendant",
-      "explore_url": "https://trends.google.cz/trends/explore?q=brigitte macron&geo=CZ"
+      "query": "jimmy kimmel",
+      "news_title": "ABC stahuje Kimmelův pořad po výhrůžkách od Trumpova šéfa FCC",
+      "news_url": "https://www.cnn.com/2025/09/17/media/jimmy-kimmel-charlie-kirk-trump-fcc-brendan-carr",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyTX_sn_b35kxQc8P_ezAR3WAEh54OmIniGvJNmLxWWXDYbnqcbXk5Hscl8-M",
+      "traffic": "2000++ hledání",
+      "source": "CNN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jimmy kimmel&geo=CZ"
     },
     {
       "rank": 4,
-      "query": "intel stock",
-      "news_title": "Nvidia a Intel oznamují společný čip s grafikou RTX, Nvidia kupuje akcie Intelu za 5 miliard",
-      "news_url": "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUIiZlFxjVUQOAP4GQSZxBzzYjFGYQBdDlC1CnVQanuV76Z2E4eQb0iFXdunY",
-      "traffic": "200++ hledání",
-      "source": "Tom's Hardware",
-      "explore_url": "https://trends.google.cz/trends/explore?q=intel stock&geo=CZ"
+      "query": "brigitte macron",
+      "news_title": "Brigitte Macron musí před americkým soudem prokázat, že je žena",
+      "news_url": "https://www.ladepeche.fr/2025/09/18/brigitte-macron-va-devoir-prouver-quelle-est-une-femme-devant-un-tribunal-americain-12938298.php",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtqd4OTHD17jixHTip5FvfCJIcOea-64Jw_wx6q3S0MR5i_YFh1FTSu5uaFCc",
+      "traffic": "1000++ hledání",
+      "source": "ladepeche.fr",
+      "explore_url": "https://trends.google.cz/trends/explore?q=brigitte macron&geo=CZ"
     },
     {
       "rank": 5,
+      "query": "intel stock",
+      "news_title": "NVIDIA a Intel spojí síly ve vývoji AI infrastruktury a PC produktů",
+      "news_url": "http://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZMB8vDopIOIOr7JrVpUUBmVzrshYa3uhyuJ-n7IqqBVS7SxIJ3z_P9WhCywc",
+      "traffic": "500++ hledání",
+      "source": "NVIDIA Newsroom",
+      "explore_url": "https://trends.google.cz/trends/explore?q=intel stock&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "jan skopeček",
-      "news_title": "Růst platů limituje rozpočet, míní Skopeček. Nacher: Učitelé nedostali přidáno.",
+      "news_title": "Platy limitují rozpočet, učitelé bez navýšení, míní Skopeček a Nacher",
       "news_url": "https://ct24.ceskatelevize.cz/clanek/domaci/rust-platu-limituje-rozpocet-mini-skopecek-nacher-pripomnel-nenavyseni-u-ucitelu-365158",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjVnxrTEwtWM6OLXN5GPrcbjVBtvfwiGyMyFAoyBH4ygBlMbQArkQzxs2oFA8",
       "traffic": "200++ hledání",
@@ -52,29 +62,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jan skopeček&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "spolu",
-      "news_title": "Debakl pro Spolu se rýsuje i na Fialově jižní Moravě",
-      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-exkluzivni-pruzkum-debakl-pro-spolu-se-rysuje-i-na-fialove-domovske-jizni-morave-40539327",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1d_NvTz5O7itc5gCHmdHL8Lpf4hQtTklv5amUhIYK7YH4ze9JmL7CcxkiKrk",
+      "news_title": "Demonstranti v Plzni skandovali na Fialu \"Táhni do Kyjeva\"",
+      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-tahni-do-kyjeva-rvali-na-fialu-v-plzni-40539374",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHGBSjWb7PcHSdFFWUHE7bLQvKakkM1__WHqmwReAvmsA806_0FaLrTLjCEdc",
       "traffic": "200++ hledání",
       "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=spolu&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "red arrows",
-      "news_title": "Nad Prahou proletí stíhačky s akrobatickou skupinou RAF Red Arrows",
-      "news_url": "https://www.mo.gov.cz/informacni-servis/zpravodajstvi/nad-prahou-opet-proleti-stihacky--tentokrat-v-doprovodu-akrobaticke-skupiny-raf-red-arrows-260296/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREqNBAQBfdBKOlgYVxtN0sPmOsOpmWWqkK6bQqBgX21-ehXnliUbq0hcYLufc",
-      "traffic": "100++ hledání",
-      "source": "Ministerstvo obrany a Armáda České republiky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=red arrows&geo=CZ"
-    },
-    {
       "rank": 8,
       "query": "vykolejení",
-      "news_title": "Vykolejení nákladního vlaku u České Třebové, poškozená trať",
+      "news_title": "Vykolejení nákladního vlaku u České Třebové, poškozena trať",
       "news_url": "https://www.idnes.cz/pardubice/zpravy/vlaky-nakladni-doprava-koridor-nz-rail-drazni-inspekce.A250918_081713_pardubice-zpravy_mvo",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3DZ2X9rgw0iYYFnPdRIjWOHIP-yrz7ckku53Mj2aMmeLevBthuPczxDP6148",
       "traffic": "100++ hledání",
