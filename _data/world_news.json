@@ -1,71 +1,104 @@
 {
-  "last_updated": "2025-09-19T14:17:26",
+  "last_updated": "2025-09-19T15:18:18",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trhy dnes: Dow roste po Fedu, Intel letí vzhůru díky dohodě s Nvidií — živě",
-      "original_title": "Stock Market Today: Dow Rises After Fed; Intel Surges on Nvidia Deal — Live Updates - The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2025",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-18T14:14:00Z",
-      "description": ""
+      "title": "Základ pro deportaci dětí z Guatemaly se podle soudce Trumpovy administrativy rozpadl jako domeček z karet",
+      "original_title": "Trump admin’s basis for deporting Guatemalan kids ‘crumbled like a house of cards,’ judge rules - Politico",
+      "url": "https://www.politico.com/news/2025/09/18/guatemalan-children-deportation-ruling-00570828",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F68%2F0a%2F634ee1bd4b0c8d6a843779365e20%2Ftrump-migrant-children-deportation-05195.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-18T15:56:02Z",
+      "description": "Americký soudce Tim Kelly, jmenovaný Trumpem, vytkl administrativě nedostatky a zablokoval deportaci stovek dětí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak snížení sazeb Fedu ovlivňuje hypotéční sazby",
-      "original_title": "How the Fed’s rate cut impacts mortgage rates - AP News",
-      "url": "https://apnews.com/article/mortgage-rates-housing-federal-reserve-rate-cut-9351815c29cea1e27b531dec88d3e4da",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b9d4b03/2147483647/strip/true/crop/2540x1429+0+132/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F27%2F34064df8028fb0ba4984def875ca%2F296e0269769e437392cd88ab6870ed28",
+      "title": "Objev hmyzu uvězněného v jantaru přináší nové poznatky o prastarém amazonském deštném pralese",
+      "original_title": "Discovery of insects trapped in amber sheds light on ancient Amazon rainforest - AP News",
+      "url": "https://apnews.com/article/prehistoric-amber-insects-ecuador-evolution-gondwana-85cc378ddc1f4ac55160dff08e5c4e68",
+      "urlToImage": "https://dims.apnews.com/dims4/default/92e0ae5/2147483647/strip/true/crop/3998x2249+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F21%2F7c6ef59b6fc88e8c79ad2e75cd42%2Fd1dd3f8d1fdf4dbc97443cc9cf94ecd6",
       "source": "Associated Press",
-      "publishedAt": "2025-09-18T13:10:00Z",
-      "description": "Federální rezervní systém právě snížil základní úrokovou sazbu poprvé od loňska, ale to nezaručuje, že hypoteční sazby budou dál klesat. Hypoteční sazby klesají od konce července, průměrná třicetil..."
+      "publishedAt": "2025-09-18T15:06:00Z",
+      "description": "Vědci poprvé objevili v Jižní Americe prehistorický hmyz uchovaný v jantaru."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Madonna oznámila nové taneční album, které vyjde příští rok. Vrací se k Warner Records.",
+      "title": "Julia Roberts a tým ‚After the Hunt‘ to uvádí na pravou míru: Není to #MeToo film",
+      "original_title": "Julia Roberts, 'After the Hunt' Team Tell All: It's Not a #MeToo Movie - Variety",
+      "url": "https://variety.com/2025/film/features/julia-roberts-after-the-hunt-interview-metoo-movie-1236521870/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/After-the-Hunt-Variety-Cover-Story-2.jpg?crop=0px%2C339px%2C1500px%2C842px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2025-09-18T15:00:00Z",
+      "description": "Julia Roberts a její kolegové z filmu ‚After the Hunt‘ Andrew Garfield a Ayo Edebiri se připojili k magazínu Variety, aby probrali nejkontroverznější film roku."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Steve Ballmer a Clippers údajně dali Aspiration 118 milionů dolarů v souvislosti s smlouvou Kawhi Leonarda",
+      "original_title": "Steve Ballmer, Clippers Reportedly Gave Aspiration $118M amid Kawhi Leonard Contract - Bleacher Report",
+      "url": "https://bleacherreport.com/articles/25250422-steve-ballmer-clippers-reportedly-gave-aspiration-118m-amid-kawhi-leonard-contract",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2210472138_large_cropped_0.jpg?w=3800&h=2000",
+      "source": "Bleacher Report",
+      "publishedAt": "2025-09-18T14:56:53Z",
+      "description": "Jak Steve Ballmer a Los Angeles Clippers trvají na tom, že se nepokoušeli obejít platový strop u smlouvy Kawhiho Leonarda, detaily o zapojení organizace do Aspiration se stále hromadí."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Situace v Gaze je kataklyzmatická, uvedl úředník OSN během postupu izraelských tanků",
+      "original_title": "'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance - BBC",
+      "url": "https://www.bbc.com/news/articles/c5y8l46m5evo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ee9/live/26a8c990-9491-11f0-b391-6936825093bd.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-18T14:46:49Z",
+      "description": "Nepřetržitý proud Palestinců prchá na jih, zatímco izraelské tanky podle zpráv postupují dál do největšího městského centra Gazy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trhy dnes: Dow roste po snížení sazeb a zprávách z trhu práce, Nvidia letí vzhůru kvůli podílu v Intelu, Oklo překračuje 100 (průběžné zpravodajství) - Investor's Business Daily",
+      "original_title": "Stock Market Today: Dow Up After Rate Cut, Jobless Data; Nvidia Jumps On Intel Stake, Oklo Crosses 100 (Live Coverage) - Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-stock-nvda-intel-intc/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/10/stock-wall-street-flags-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-09-18T14:42:00Z",
+      "description": "Burzy dnes: Index Dow Jones ve čtvrtek klesl po překvapivých týdenních údajích o žádostech o podporu v nezaměstnanosti. Akcie Nvidie poskočily kvůli podílu ve společnosti Intel."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nákladní loď Northrop Grumman dorazila k Mezinárodní vesmírné stanici s denním zpožděním kvůli problému s motorem",
+      "original_title": "Northrop Grumman cargo ship reaches the International Space Station a day late after engine issue - ABC News",
+      "url": "https://abcnews.go.com/Business/wireStory/northrop-grumman-cargo-ship-reaches-international-space-station-125698312",
+      "urlToImage": "https://i.abcnewsfe.com/a/7c618d87-c264-4f2c-8bdd-212af906b197/wirestory_bfee7282cf40a8808dad174c43f803ab_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-09-18T13:06:22Z",
+      "description": "Zásobovací loď dorazila k Mezinárodní vesmírné stanici po dni zpoždění kvůli předčasnému vypnutí motoru"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Madonna oznámila nové taneční album na příští rok, vrací se k Warner Records",
       "original_title": "Madonna Reveals New Dance Album Coming Next Year as She Returns to Warner Records - Variety",
       "url": "https://variety.com/2025/music/news/madonna-new-dance-album-next-year-warner-records-1236523184/",
       "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Photo-credit-Ricardo-Gomes.jpeg?w=1000&h=563&crop=1",
       "source": "Variety",
       "publishedAt": "2025-09-18T12:59:00Z",
-      "description": "Madonna is returning to the dancefloor with a new dance record as she resigns with Warner Records."
+      "description": "Madonna se vrací na taneční parket s novým tanečním singlem, podepsala novou smlouvu s Warner Records."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "US jobless aid applications retreat to 231,000 after surging to nearly 4-year high a week earlier",
-      "original_title": "US jobless aid applications retreat to 231,000 after surging to nearly 4-year high a week earlier - ABC News",
-      "url": "https://abcnews.go.com/Business/wireStory/us-jobless-aid-applications-retreat-231000-after-surging-125698685",
-      "urlToImage": "https://i.abcnewsfe.com/a/0a3261e4-6c0b-4880-b181-076cb650f880/wirestory_2106a9631d17b6bd9c7a55edcf210837_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-09-18T12:57:09Z",
-      "description": "The number of Americans applying for jobless aid last week retreated significantly after surging to a nearly four-year high a week earlier"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Návštěvník Epic Universe zemřel po jízdě na horské dráze v parku na Floridě",
-      "original_title": "Epic Universe visitor dies after riding roller coaster at Florida park - NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/epic-universe-visitor-dies-riding-roller-coaster-florida-park-rcna232083",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250918-Stardust-Racers-Universal-mb-1249-867ea5.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-18T12:43:19Z",
-      "description": "A guest at Universal's Epic Universe in Orlando died on Wednesday after riding a roller coaster at the new theme park, park officials said in a statement."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kdo byla Celeste Rivasová, pohřešovaná dospívající dívka nalezená mrtvá v Tesle zpěváka d4vda?",
+      "title": "Kdo byla Celeste Rivas, pohřešovaná dospívající dívka nalezená mrtvá v Tesle zpěváka d4vda?",
       "original_title": "Who was Celeste Rivas, the missing teen found dead in singer d4vd’s Tesla? - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2025/9/18/who-was-celeste-rivas-the-missing-teen-found-dead-in-singer-d4vds-tesla",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/afp_68cbe1ee8e64-1758192110.jpg?resize=1920%2C1440",
       "source": "Al Jazeera English",
       "publishedAt": "2025-09-18T12:28:18Z",
-      "description": "LAPD identifikovalo tělo dívky v autě zpěváka Romantic Homicide d4vda. V roce 2024 jí bylo 13 let a byla pohřešována."
+      "description": "LAPD identifikovalo tělo dívky v autě zpěváka Romantic Homicide d4vda. V roce 2024 zmizela, bylo jí 13 let."
     },
     {
       "flag": "🇬🇧",
@@ -79,26 +112,37 @@
       "description": "The event comes as Meta faces ongoing scrutiny over the impact of its products, particularly on children."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump přijíždí na Chequers na setkání se Starmerem během druhého dne státní návštěvy v Británii",
-      "original_title": "Trump arrives at Chequers to meet with Starmer on day 2 of UK state visit - ABC News",
-      "url": "https://abcnews.go.com/Politics/trump-leave-windsor-castle-meet-starmer-day-2/story?id\\\\u003d125692018",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-18T11:15:00Z",
-      "description": ""
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Nothing Ear (3) oficiálně představeny se ‘Super Mic’ a novým zvukovým profilem za 179 dolarů - 9to5Google",
+      "original_title": "Nothing Ear (3) officially launches with ‘Super Mic’ and new sound profile for $179 - 9to5Google",
+      "url": "http://9to5google.com/2025/09/18/nothing-ear-3-price-super-mic-feature/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/nothing-ear-3-colors-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-18T12:00:00Z",
+      "description": "Nové sluchátka Nothing Ear (3) vycházejí s vylepšeným hardwarem a novou funkcí „Super Mic“ za vyšší cenu 179 dolarů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "American Express zvyšuje poplatek za Platinum kartu na 895 dolarů a přidává výhody od Resy a Lululemon",
+      "title": "Android 16 nyní vytváří silnější prvotní dojem s Material 3 Expressive v nejnovější betaverzi QPR",
+      "original_title": "Android 16 now makes a stronger Material 3 Expressive first impression with latest QPR beta - Android Authority",
+      "url": "https://www.androidauthority.com/android-16-qpr2-beta-2-setup-wizard-material-3-expressive-refresh-3598892/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/11/Android-16-logo-on-smartphone-05.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-09-18T11:42:26Z",
+      "description": "Android 16 QPR2 Beta 2 přináší nový expresivní design Material 3 do průvodce nastavením, což je vylepšení, které si většina uživatelů pravděpodobně nevšimne."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Amex zvyšuje poplatek za Platinum na 895 dolarů a přidává výhody od Resy a Lululemon",
       "original_title": "Amex Boosts Platinum Fee to $895, Adds Resy and Lululemon Perks - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-09-18/amex-boosts-platinum-fee-to-895-adds-resy-and-lululemon-perks",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSlYaF6jRBRg/v1/1200x777.jpg",
       "source": "Bloomberg",
       "publishedAt": "2025-09-18T11:00:00Z",
-      "description": "American Express Co. is boosting the annual fee for its Platinum consumer credit card to $895 — a $200 increase — and adding about $1,500 of potential perks to help customers get over the sticker shoc"
+      "description": "Společnost American Express Co. zvyšuje roční poplatek za svou spotřebitelskou kreditní kartu Platinum na 895 dolarů – což je nárůst o 200 dolarů – a přidává zhruba 1500 dolarů potenciálních benefi..."
     },
     {
       "flag": "🌍",
@@ -109,172 +153,139 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250918-dome-headed-dino-rs-a510a2.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-18T10:51:54Z",
-      "description": "Scientists have unearthed in Mongolia the oldest and most complete fossil of a pachycephalosaur, a group of dinosaurs known for their dome-shaped skulls, according to a new study published Wednesday i"
+      "description": "Vědci v Mongolsku objevili nejstarší a nejkompletnější fosilii pachycefalosaura, skupiny dinosaurů známých pro své kopulovité lebky, uvádí nová studie zveřejněná ve středu v časopise Nature."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Poradci RFK Jr. se znovu zaměří na vakcínu proti hepatitidě B po narození",
-      "original_title": "RFK Jr. advisers to revisit hepatitis B vaccine at birth - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/09/18/hepatitis-b-infant-vaccine-recommendation/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SX3MYUMK24Z2YBM3ATD56ROW2M.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-18T10:14:13Z",
-      "description": "The CDC is reviewing guidance for newborns to receive the hepatitis B vaccine, potentially the first major shift on routine childhood shots under Robert F. Kennedy Jr."
+      "title": "Co víme o střelci, který údajně postřelil pět policistů v York County",
+      "original_title": "What we know about the shooter who reportedly shot five police officers in York County - fox43.com",
+      "url": "https://www.fox43.com/article/news/local/york-county/what-we-know-about-shooter-who-reportedly-shot-five-police-officers-in-york-county/521-188e2f42-82ec-4ae6-896b-b41ae8b7f124",
+      "urlToImage": "https://media.tegna-media.com/assets/WPMT/images/bf409c6d-3356-444d-ba01-cb9831f7a286/20250918T132422/bf409c6d-3356-444d-ba01-cb9831f7a286_1140x641.jpg",
+      "source": "FOX43.com",
+      "publishedAt": "2025-09-18T10:28:00Z",
+      "description": "Muž obviněný z vraždy tří policistů a zranění dvou dalších v Pensylvánii byl prý bývalý přítel ženy bydlící v domě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Střelba policie v Pensylvánii: Co se stalo a kdo jsou podezřelý a oběti?",
-      "original_title": "Pennsylvania police shooting: What happened, who are the suspect, victims? - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/18/pennsylvania-shooting-what-happened-what-we-know-about-suspect-victims",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP25261110496369-1758182249.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-18T09:36:08Z",
-      "description": "Three officers killed, two in critical but stable condition, in one of the deadliest recent attacks on the US police."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Starosta Londýna Sadiq Khan označil situaci v Gaze za genocidu",
-      "original_title": "Mayor of London Sadiq Khan describes Gaza situation as genocide - BBC",
-      "url": "https://www.bbc.com/news/articles/cx2pj14ylm6o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/22e6/live/ea2eb200-9462-11f0-ac86-19361839f74f.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-18T09:18:31Z",
-      "description": "Sir Sadiq Khan na debatě prohlásil, že to, co se děje v Gaze, je podle něj genocida."
+      "title": "Co rozhodne o dalším vývoji hypotečních sazeb",
+      "original_title": "What Decides Where Mortgage Rates Go From Here - The Wall Street Journal",
+      "url": "https://www.wsj.com/economy/housing/what-decides-where-mortgage-rates-go-from-here-b5b09e35",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-18T09:30:00Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Demokraté ve Sněmovně reprezentantů zuří kvůli hlasování o poctě pro Charlie Kirka: „Je to past, úplně nás nastražili“",
+      "title": "Demokraté ve Sněmovně zuří kvůli hlasování o poctě pro Charlie Kirka: \"Je to past",
       "original_title": "House Democrats fume about vote to honor Charlie Kirk: \"We're being totally set up\" - Axios",
       "url": "https://www.axios.com/2025/09/18/charlie-kirk-house-democrats-vote-condemn-honor",
       "urlToImage": "https://images.axios.com/kCwghIgAjEQKZEdHMzVtDdIwDD8=/0x630:4896x3384/1366x768/2025/09/18/1758162471027.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-18T09:00:20Z",
-      "description": "The vote has been the topic of frenzied discussions in Democrats' closed-door meeting this week."
+      "description": "Hlasování bylo tématem zběsilých diskuzí na tomto týdnu uzavřeném zasedání demokratů."
     },
     {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Aktualizace Galaxy S25 na One UI 8 se začala rozesílat po celém světě",
-      "original_title": "Galaxy S25 One UI 8 update is now rolling out worldwide - SamMobile",
-      "url": "https://www.sammobile.com/news/galaxy-s25-one-ui-8-update-worldwide-rollout/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/05/One-UI-8-Galaxy-S25-Ultra-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2025-09-18T05:48:45Z",
-      "description": "Samsung slíbil, že stabilní verzi One UI 8 spustí v září, a společnost svůj slib dodržela. Již 15. září se Jižní Korea stala první zemí, která obdržela stabilní aktualizaci One UI 8 pro řadu Galaxy..."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Starmer zbrojí, než Trump odjede domů",
+      "original_title": "Starmer goes big before Trump goes home - politico.eu",
+      "url": "https://www.politico.eu/article/keir-starmer-donald-trump-go-home/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/17/GettyImages-2235066440-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-18T07:30:00Z",
+      "description": "Po královském přijetí ve Windsoru obdaruje premiér amerického prezidenta dary, když se snaží zajistit politické úspěchy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump označuje Antifu za hlavní teroristickou organizaci",
+      "original_title": "Trump says he's designating antifa as \"a major terrorist organization\" - Axios",
+      "url": "https://www.axios.com/2025/09/18/trump-antifa-terrorist-designation",
+      "urlToImage": "https://images.axios.com/5N-ojHg-Of_q3GtN8rMVjv4ZXzg=/0x0:6000x3375/1366x768/2025/09/18/1758156891380.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-18T02:05:36Z",
+      "description": "Trump: \"Doporučí, aby ti, kdo financují Antifu, byli důkladně prověřeni v souladu s nejvyššími právními standardy."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Effort to censure Rep. Ilhan Omar over Charlie Kirk comments fails",
+      "title": "Snaha o cenzuru poslankyně Ilhan Omar za výroky o Charliem Kirkovi neuspěla",
       "original_title": "Effort to censure Rep. Ilhan Omar over Charlie Kirk comments fails - The Washington Post",
       "url": "https://www.washingtonpost.com/politics/2025/09/17/effort-censure-rep-ilhan-omar-over-charlie-kirk-comments-fails/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L2VPPNRNJY3UUW646ZLH43IKOE_size-normalized.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-18T01:58:58Z",
-      "description": "The effort was part of a GOP campaign to punish individuals Republicans accuse of posthumously smearing Kirk."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Machu Picchu is at risk of losing its ‘credibility’ as one of the New 7 Wonders of the World. What’s happening?",
-      "original_title": "Machu Picchu is at risk of losing its ‘credibility’ as one of the New 7 Wonders of the World. What’s happening? - CNN",
-      "url": "https://www.cnn.com/2025/09/17/travel/machu-picchu-new-7-wonders-latam-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2222452164.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-17T20:40:00Z",
-      "description": "Almost two decades after Peru’s Machu Picchu was voted one of the New 7 Wonders of the World, the project that organized the vote warns that the Inca site is at risk of losing its “credibility” as one"
+      "description": "Snaha byla součástí kampaně Republikánů, která měla potrestat jednotlivce obviněné z posmrtné pomluvy Kirka."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Po Trumpově politizaci CDC západní státy vydaly jednotná doporučení ohledně vakcín — Kalifornie se novým zákonem odklání od budoucích federálních směrnic - Guvernér Kalifornie (.gov)",
-      "original_title": "Following Trump’s politicization of CDC, West Coast states issue unified vaccine recommendations — California breaks from future federal guidance with new law - Governor of California (.gov)",
-      "url": "https://www.gov.ca.gov/2025/09/17/following-trumps-politicization-of-cdc-west-coast-states-issue-unified-vaccine-recommendations-california-breaks-from-future-federal-guidance-with-new-law/",
-      "urlToImage": "https://www.gov.ca.gov/wp-content/uploads/2025/09/FOLLOW1.jpg",
-      "source": "Ca.gov",
-      "publishedAt": "2025-09-17T20:37:30Z",
-      "description": ""
+      "title": "Fotograf Tyler Stalman recenzuje fotoaparáty iPhonu 17, iPhone Air a iPhonu 17 Pro - 9to5Mac",
+      "original_title": "Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/17/photographer-tyler-stalman-reviews-the-iphone-17-iphone-air-and-iphone-17-pro-cameras/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.56.28.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-17T23:39:00Z",
+      "description": "V novém videu natočeném výhradně na iPhone 17 Pro se podrobně podíval na fotoaparáty nové řady iPhonu 17. A tohle zjistil."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Satelitní snímky ukazují hromadnou evakuaci ze severu Gazy během izraelské pozemní ofenzivy v Gaze",
-      "original_title": "Satellite images show mass evacuation from northern Gaza amid Israeli ground offensive in Gaza City - ABC News",
-      "url": "https://abcnews.go.com/International/satellite-images-show-mass-evacuation-northern-gaza-amid/story?id\\\\u003d125669600",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-17T20:26:15Z",
-      "description": ""
+      "title": "Demokraté předložili protinávrh, aby odvrátili odstávku, zatímco Sněmovna pokračuje v plánu republikánů",
+      "original_title": "Democrats release counteroffer to avert shutdown while House moves ahead on GOP plan - CBS News",
+      "url": "https://www.cbsnews.com/news/democrats-plan-government-shutdown/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/17/55ee5016-bc30-4c2b-947f-6932eba897c4/thumbnail/1200x630/b39e36e37b096216ff5657b09133816f/gettyimages-2235231472.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-17T23:27:00Z",
+      "description": "Republikáni ve Sněmovně reprezentantů ve středu postoupili vlastní plán, čímž se přiblížili financování vlády bez ustanovení požadovaných demokraty."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "iOS 26 Sparks Massive Battery Drain Complaints As Apple Explains Why iPhones Feel Slower And Hotter After The Latest Update",
-      "original_title": "iOS 26 Sparks Massive Battery Drain Complaints As Apple Explains Why iPhones Feel Slower And Hotter After The Latest Update - Wccftech",
-      "url": "https://wccftech.com/ios-26-sparks-massive-battery-drain-complaints-as-apple-explains-why-iphones-feel-slower-and-hotter-after-the-latest-update/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/Screenshot-2025-09-15-at-6.08.25-PM-e1757941850808-1.png",
-      "source": "Wccftech",
-      "publishedAt": "2025-09-17T19:00:00Z",
-      "description": "Uživatelé iOS 26 hlásí rychlé vybíjení baterie, lagy a zamrzávání aplikací. Apple vysvětluje, proč po velkých aktualizacích klesá výkon."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "USA investují do Británie 150 miliard liber a slibují tisíce pracovních míst",
+      "original_title": "US to invest £150bn in UK, promising thousands of jobs - BBC",
+      "url": "https://www.bbc.com/news/articles/cx2nllgl3q7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8102/live/3536f7e0-93f9-11f0-8750-ed240c52ff67.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-17T21:30:05Z",
+      "description": "Britská vláda označuje tuto dohodu za největší obchodní dohodu svého druhu a očekává, že vytvoří více než 7600 „vysoce kvalitních pracovních míst“."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Kdo může dostat vakcínu proti covidu-19 v Ohiu? FDA omezuje způsobilost",
+      "title": "Kdo může dostat vakcínu proti COVID-19 v Ohiu? FDA omezuje způsobilost",
       "original_title": "Who can get a COVID-19 vaccine in Ohio? FDA restricts eligibility - Cleveland.com",
       "url": "https://www.cleveland.com/metro/2025/09/who-can-get-a-covid-19-vaccine-in-ohio-fda-restricts-eligibility.html",
       "urlToImage": "https://www.cleveland.com/resizer/v2/LNLQ2AYBMBBHVAJY5AOMLMSR7U.jpeg?auth=87431ab64b058cc3eb28772b40f6addb4e0e1030647a7894e8b6840d1da3f58e&width=1280&quality=90",
       "source": "cleveland.com",
       "publishedAt": "2025-09-17T17:24:00Z",
-      "description": "New guidelines limit shots to adults 65+ and those with underlying conditions, though Cleveland area pharmacies are making access easier than in other regions."
+      "description": "Nové směrnice omezují očkování na dospělé nad 65 let a osoby s přidruženými nemocemi, lékárny v Clevelandu však umožňují přístup snadněji než v jiných regionech."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‘Groundbreaking’ NASA Discovery Is ‘Closest We Have Ever Come’ to Finding Life on Mars",
-      "original_title": "‘Groundbreaking’ NASA Discovery Is ‘Closest We Have Ever Come’ to Finding Life on Mars - Good News Network",
-      "url": "https://www.goodnewsnetwork.org/groundbreaking-nasa-discovery-is-closest-we-have-ever-come-to-finding-life-on-mars/",
-      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/09/Credit-NASAJPL-CaltechMSSS.jpg",
-      "source": "Good News Network",
-      "publishedAt": "2025-09-17T15:30:26Z",
-      "description": "Velkou otázkou bude, zda vědci dokážou prokázat, že ke vzniku greigitu a vivianitu je zapotřebí biologický život."
+      "title": "Missourské „kousavé ploštice“ šíří velmi vzácnou parazitární chorobu, která už tu zůstane, uvádí CDC",
+      "original_title": "Missouri's 'kissing bugs' are spreading an incredibly rare parasitic disease that's here to stay, CDC says - KSDK",
+      "url": "https://www.ksdk.com/article/news/local/missouri-kissing-bugs-chagas-disease-cdc-incredibly-rare/63-4e7577f6-a015-4a49-bfbd-99b64d2bf4d4",
+      "urlToImage": "https://media.ksdk.com/assets/KSDK/images/bd3f9e5f-3daa-4d4a-82a4-8c566352db8b/20250912T154328/bd3f9e5f-3daa-4d4a-82a4-8c566352db8b_1140x641.jpg",
+      "source": "KSDK.com",
+      "publishedAt": "2025-09-17T17:19:00Z",
+      "description": "Zpráva CDC by neměla vyvolávat paniku, nemoc je stále velmi vzácná, říká odborník na infekční choroby"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Engine trouble forces Northrop Grumman to delay supply delivery to International Space Station",
-      "original_title": "Engine trouble forces Northrop Grumman to delay supply delivery to International Space Station - AP News",
-      "url": "https://apnews.com/article/northrop-grumman-nasa-space-station-1c616fa4fb267c2f5bd4306095515e3f",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f7277be/2147483647/strip/true/crop/5877x3306+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Fbc%2Ff0cd9f13d0ebd199f679881377ea%2Faef98c56a01e42ffa670270e7891c4bd",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-17T14:14:00Z",
-      "description": "A newly launched supply ship has run into engine trouble that is preventing it from reaching the International Space Station. Northrop Grumman's capsule rocketed into orbit Sunday from Florida aboard "
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ohne se iPhone Air? Tento extrémní test odhaluje odpověď",
-      "original_title": "Will the iPhone Air Bend? This Extreme Test Reveals the Answer - MacRumors",
-      "url": "https://www.macrumors.com/2025/09/17/iphone-air-bend-test/",
-      "urlToImage": "https://images.macrumors.com/t/_BM3WvQmnhsAKgHBPyn6qOWsvN4=/1958x/article-new/2025/09/iphone-air-thinness.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-17T13:25:58Z",
-      "description": "With an ultra-thin design that measures just 5.6mm at its thinnest point, Apple's new iPhone Air tops the iPhone 6 as the thinnest iPhone ever..."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Look Up This Week to See a Rare Triple Conjunction 'Smiling' Down",
-      "original_title": "Look Up This Week to See a Rare Triple Conjunction 'Smiling' Down - ScienceAlert",
-      "url": "https://www.sciencealert.com/look-up-this-week-to-see-a-rare-triple-conjunction-smiling-down",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/triple_conjunction_header.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-17T13:02:17Z",
-      "description": "The grinning Moon slides by Regulus and Venus later this week, in a complex event."
+      "title": "‚Vzácný‘ předek odhaluje, jak se obrovské nelétavé ptáky dostaly do vzdálených zemí",
+      "original_title": "'Rare' ancestor reveals how huge flightless birds made it to faraway lands - Live Science",
+      "url": "https://www.livescience.com/animals/birds/rare-ancestor-reveals-how-huge-flightless-birds-made-it-to-faraway-lands",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bbdk8F5BwKkkRdhLxk9b9Q.png",
+      "source": "Live Science",
+      "publishedAt": "2025-09-17T15:23:06Z",
+      "description": "Záhada, jak příbuzní nelétaví ptáci skončili tak daleko od sebe na různých kontinentech, možná byla vyřešena."
     }
   ]
 }
