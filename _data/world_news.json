@@ -1,208 +1,197 @@
 {
-  "last_updated": "2025-09-19T18:25:15",
+  "last_updated": "2025-09-19T19:13:52",
   "articles": [
     {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Poradci CDC prozkoumají vakcíny podávané během těhotenství a dětství",
+      "original_title": "CDC advisers to scrutinize vaccines given during pregnancy, childhood - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/18/hepatitis-b-infant-vaccine-recommendation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SX3MYUMK24Z2YBM3ATD56ROW2M.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-18T20:32:31Z",
+      "description": "ACIP CDC přezkoumává vakcíny proti hepatitidě B pro novorozence a očkování během těhotenství, což zvyšuje tlak na dlouhodobou zdravotní politiku Roberta F. Kennedyho Jr."
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie dnes: Dow a Nasdaq rostou po snížení sazeb Fedu, akcie Intelu posilují po dohodě s Nvidií — živě",
+      "title": "Zákrok proti kritikům Charlie Kirka rozpoutal debatu o svobodě slova. Podle právních expertů vytváří nebezpečný precedens.",
+      "original_title": "The crackdown on Charlie Kirk critics has ignited a free speech debate. Legal experts say it sets a dangerous precedent. - CBS News",
+      "url": "https://www.cbsnews.com/news/trump-charlie-kirk-free-speech-first-amendment/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/17/be598a7a-af17-4210-9f1d-096c48798424/thumbnail/1200x630/b3807420737930b99cc1f41d340faed9/gettyimages-2234095207.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-18T19:28:11Z",
+      "description": "Představitelé Trumpovy administrativy slíbili, že se postaví každému, kdo zesměšňuje nebo oslavuje Kirkovu smrt, což znepokojuje zastánce Prvního dodatku."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Saúdská Arábie podepisuje pakt o vzájemné obraně s jaderně vyzbrojeným Pákistánem po izraelském útoku na Katar",
+      "original_title": "Saudi Arabia signs a mutual defense pact with nuclear-armed Pakistan after Israel's attack on Qatar - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/17/pakistan-saudi-arabia-defense-israel-india/feaf8ccc-943f-11f0-8336-4757e168ec2a_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVMCW4EUJYI7BAZWI5L6C2HMFI.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-18T19:12:59Z",
+      "description": "Saúdská Arábie podepsala s jaderně vyzbrojeným Pákistánem obranný pakt, obě země se zavázaly, že útok na jednu z nich bude považován za útok na obě"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Poruchu zpozdilo softwarové selhání, nikoliv problém s motorem: kritická dodávka pro ISS",
+      "original_title": "A software glitch—not an engine failure—delayed a critical ISS cargo delivery - Ars Technica",
+      "url": "https://arstechnica.com/space/2025/09/a-software-glitch-not-an-engine-failure-delayed-a-critical-iss-cargo-delivery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23issarrival-1152x648-1758218367.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-18T18:38:54Z",
+      "description": "Předčasné vypínání motorů spustila konzervativní softwarová pojistka."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Erika Kirková jmenována novou ředitelkou Turning Point USA po smrti Charlieho Kirka",
+      "original_title": "Erika Kirk named new Turning Point USA CEO after Charlie Kirk's death - Axios",
+      "url": "https://www.axios.com/2025/09/18/erika-kirk-charlie-kirks-widow-turning-point-ceo",
+      "urlToImage": "https://images.axios.com/bxj3GF1U_9GuHZch0zKtXEqpog8=/0x0:5400x3038/1366x768/2025/09/18/1758214339524.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-18T18:29:20Z",
+      "description": "Organizace uvedla, že „Charlie několika představitelům řekl, že si to přeje v případě své smrti."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie dnes: Dow a Nasdaq rostou po snížení sazeb Fedu, akcie Intelu posilují kvůli dohodě s Nvidií — živě",
       "original_title": "Stock Market Today: Dow, Nasdaq Rise After Fed Rate Cut; Intel Shares Surge on Nvidia Deal — Live Updates - The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2025",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-925349/social",
       "source": "The Wall Street Journal",
       "publishedAt": "2025-09-18T18:21:00Z",
-      "description": ""
+      "description": "Nvidia investuje 5 miliard dolarů do Intelu. Trumpova cla stále ovlivňují globální ekonomiku a úrokové sazby. Sledujte živé aktualizace z indexů Dow, S&P 500, Nasdaq a dalších trhů."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trumpova administrativa žádá Nejvyšší soud, aby umožnil odvolání členky rady Fedu Lisy Cookové",
-      "original_title": "Trump officials ask Supreme Court to allow firing of Fed governor Lisa Cook - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/18/trump-cook-federal-reserve-interest-rates/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZXFBDNMFD5U4VO6QNNZGMZXKIQ_size-normalized.jpg&w=1440",
+      "title": "Starostka Bowserová a přední úředníci z D.C. na Kapitolu k výslechu ohledně kriminality",
+      "original_title": "Mayor Bowser, top D.C. officials on Capitol Hill for grilling on crime - The Washington Post",
+      "url": "https://www.washingtonpost.com/dc-md-va/2025/09/18/dc-mayor-bowser-house-oversight-crime/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PS625FPYL3HNKBXQ3XOJHN5MDE.JPG&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-09-18T17:20:22Z",
-      "description": "Případ je jedním ze tří před nejvyšším soudem, které prověří prezidentovo tvrzení o rozsáhlé pravomoci nad ekonomikou a federálními výdaji."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vila v Hollywood Hills, kde pobýval D4vd, byla prohledána poté, co bylo v jeho Tesle nalezeno tělo: Zdroje - ABC7 Los Angeles",
-      "original_title": "Hollywood Hills home where D4vd has stayed is searched after body found in singer's Tesla: Sources - ABC7 Los Angeles",
-      "url": "https://abc7.com/post/hollywood-hills-home-where-d4vd-has-stayed-is-searched-body-teen-girl-celeste-rivas-found-singers-tesla-sources-say/17842387/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/17836208_celeste-davd.jpg?w=1600",
-      "source": "KABC-TV",
-      "publishedAt": "2025-09-18T17:03:45Z",
-      "description": "Pátrání bylo zahájeno poté, co bylo v Tesle registrované na zpěváka nalezeno tělo dospívající dívky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Google přináší Gemini v prohlížeči Chrome uživatelům v USA, odhaluje agentní procházení a další",
-      "original_title": "Google brings Gemini in Chrome to US users, unveils agentic browsing capabilities, and more - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/18/google-brings-gemini-in-chrome-to-us-users-unveils-agentic-browsing-capabilities-and-more/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-18T17:00:00Z",
-      "description": "Google tvrdí, že asistent s umělou inteligencí dokáže uživatelům vyřizovat úmorné úkoly, jako je objednání účesu nebo týdenního nákupu potravin."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Fotograf Austin Mann recenzuje fotoaparáty iPhonu 17 Pro - 9to5Mac",
-      "original_title": "Photographer Austin Mann reviews the iPhone 17 Pro cameras - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/18/photographer-austin-mann-reviews-the-iphone-17-pro-cameras/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/austin-mann-iphone-17-pro-review.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-18T16:45:00Z",
-      "description": "Recenze fotoaparátů iPhonu 17 Pro od Austina Manna je tu a nabízí skvělý přehled toho, co lze od nového modelu očekávat."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Erika Kirk jmenována generální ředitelkou Turning Point USA",
-      "original_title": "Erika Kirk named CEO of Turning Point USA - CNN",
-      "url": "https://www.cnn.com/2025/09/18/politics/erika-kirk-turning-point-ceo",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2234103824.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-18T16:43:27Z",
-      "description": "Erika Kirková byla jmenována generální ředitelkou Turning Point USA, přebírá organizaci, kterou její manžel Charlie Kirk založil a vedl až do svého atentátu minulý týden."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump říká, že se USA ‚snaží‘ získat zpět leteckou základnu Bagram",
-      "original_title": "Trump says US ‘trying’ to get Bagram airbase back - Politico",
-      "url": "https://www.politico.com/news/2025/09/18/trump-says-us-trying-to-get-afghan-airbase-back-00570698",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F25%2F63%2F29ae0d2c4be1868641f71480a7cf%2Faptopix-trump-britain-25351.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-18T16:20:25Z",
-      "description": "První Trumpova administrativa vyjednala stažení Američanů z Afghánistánu do roku 2021 a nezmiňovala udržení základny."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trumpova administrativa neměla pro deportaci dětí z Guatemaly žádný podklad, rozhodl soudce",
-      "original_title": "Trump admin’s basis for deporting Guatemalan kids ‘crumbled like a house of cards,’ judge rules - Politico",
-      "url": "https://www.politico.com/news/2025/09/18/guatemalan-children-deportation-ruling-00570828",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F68%2F0a%2F634ee1bd4b0c8d6a843779365e20%2Ftrump-migrant-children-deportation-05195.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-18T15:56:02Z",
-      "description": "Americký soudce Tim Kelly jmenovan Trumpem vytkl administrativě nedostatky a zablokoval deportaci stovek dětí."
+      "publishedAt": "2025-09-18T18:17:11Z",
+      "description": "Starosta, generální prokurátor a předseda rady žádají sněmovní dozorčí výbor o více federálních zdrojů, zatímco zákonodárci z GOP oslavují Trumpův nedávný zásah."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Královští, příznivci Maga a šéfové technologických firem: Co jsme se dozvěděli ze seznamu hostů na státní večeři",
+      "title": "Co je Antifa a proč ji cílí Donald Trump?",
+      "original_title": "What is Antifa and why is Donald Trump targeting it? - BBC",
+      "url": "https://www.bbc.com/news/articles/ced5gqn0p6jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/66c8/live/34720180-94ba-11f0-9cf6-cbf3e73ce2b9.png",
+      "source": "BBC News",
+      "publishedAt": "2025-09-18T17:29:39Z",
+      "description": "Prezident Trump označil Antifu za teroristickou organizaci, právníci ale zpochybňují, zda je to možné."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple vydává nové sestavení iOS 26.0 pro modely iPhone 17 – 9to5Mac",
+      "original_title": "Apple releases new iOS 26.0 build for iPhone 17 models - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/18/apple-releases-new-ios-26-0-build-for-iphone-17-models/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPhone-17-Pro-iPhone-Air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-18T17:29:00Z",
+      "description": "Společnost Apple vydala novou revidovanou verzi iOS 26 určenou výhradně pro modely iPhone 17. Co přináší?"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nancy Maceová a Cory Mills se střetli kvůli neúspěšnému hlasování o důtce",
+      "original_title": "Nancy Mace and Cory Mills clash over failed censure vote - Politico",
+      "url": "https://www.politico.com/live-updates/2025/09/18/congress/mace-vs-mills-00571398",
+      "urlToImage": "https://www.politico.com/dims4/default/cba9a0e/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fbd%2F0b%2F6fc0b99041309587b01b0b3e14d2%2Fwhite-house-24411.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-18T17:22:58Z",
+      "description": "Dva republikánští poslanci se střetli online poté, co se Maceová pokusila odsoudit poslankyni Ilhan Omarovou."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Průměrná úroková sazba u 30letého hypoték opět klesla, na nejnižší úroveň od začátku října",
+      "original_title": "Average rate on a 30-year mortgage falls again, dips to lowest level since early October - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/average-rate-30-mortgage-falls-160404849.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xfP0hi5S58qddCzx7p7Nsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/4c97e65aba7b714e31a54512ba5ba7ff",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-18T16:04:04Z",
+      "description": "Průměrná úroková sazba 30leté hypotéky v USA tento týden opět klesla, což odráží pokles výnosů dlouhodobých dluhopisů americké státní pokladny před zasedáním Federálního rezervního systému..."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Královští, příznivci Magy a šéfové technologických firem: Co jsme se dozvěděli ze seznamu hostů státní večeře",
       "original_title": "Royals, Maga and tech CEOs: What we learned from state banquet guest list - BBC",
       "url": "https://www.bbc.com/news/articles/cp98031vyjko",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e9bc/live/2915b140-9499-11f0-8e88-0f11af0637c1.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-18T15:34:16Z",
-      "description": "Událost je stejně tak o diplomacii jako o gurmánském zážitku."
+      "description": "Akce je stejně tak o diplomacii jako o gurmánském zážitku."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sněmovna zamítla snahu o odsouzení poslankyně Ilhan Omarové za výroky o Charliem Kirkovi",
-      "original_title": "House turns back effort to censure Rep. Ilhan Omar over remarks about Charlie Kirk - PBS",
-      "url": "https://www.pbs.org/newshour/politics/house-turns-back-effort-to-censure-rep-ilhan-omar-over-remarks-about-charlie-kirk",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-08-28T202557Z_1544398399_RC2IGGAYS4WY_RTRMADP_3_USA-MINNEAPOLIS-SHOOTING-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-18T15:13:37Z",
-      "description": "Jmenovací hlasování 214:213 odložilo rezoluci republikánky Nancy Maceové z Jižní Karolíny, která navrhovala odsoudit demokratku Ilhan Omarovou z Minnesoty a odvolat ji ze dvou výborů Sněmovny repre..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Hyundai investuje 2,7 miliardy dolarů do továrny v Georgii zasažené razii ICE",
-      "original_title": "Hyundai to invest $2.7 billion in Georgia factory hit by ICE raid - The Verge",
-      "url": "https://www.theverge.com/news/780980/hyundai-investor-day-erev-hybrid-metaplant",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Large-64277-HMGMAReveals2026IONIQ9asNewestProductionVehicle.jpg?quality=90&strip=all&crop=0%2C10.730898395945%2C100%2C78.53820320811&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-18T15:08:20Z",
-      "description": "Automobilka také rozšiřuje svou elektrifikovanou řadu, včetně nových hybridů a elektromobilů s prodlouženým dojezdem."
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "První recenze iPhonu 17 Pro Max jsou tu: Co říkají první testovači",
+      "original_title": "The first iPhone 17 Pro Max reviews are in: What the early testers are saying - Mashable",
+      "url": "https://mashable.com/article/iphone-17-pro-max-review-roundup",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02mRTi1am13qacrpOpthFXg/hero-image.fill.size_1200x675.v1758123422.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-18T15:22:30Z",
+      "description": "Zdá se, že Apple znovu narazil na zlatou žílu."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Situace v Gaze je „kataklyzmatická“, uvedl představitel OSN během postupu izraelských tanků",
+      "title": "„Kataklyzmatická“ situace v Gaze, říká úředník OSN, zatímco izraelské tanky postupují",
       "original_title": "'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance - BBC",
       "url": "https://www.bbc.com/news/articles/c5y8l46m5evo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ee9/live/26a8c990-9491-11f0-b391-6936825093bd.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-18T14:46:49Z",
-      "description": "Konstantní proud Palestinců prchá na jih, zatímco izraelské tanky podle zpráv postupují dále do největšího městského centra Gazy."
+      "description": "Do jižní části Gazy prchá stále více Palestinců, izraelské tanky údajně postupují dál do největšího městského centra."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podezřelý z zabití tří příslušníků policie v Pensylvánii byl čtyřiadvacetiletý muž hledaný pro obvinění ze stalkingu",
+      "title": "VIDEO: Raketa SpaceX Falcon 9 byla ve čtvrtek ráno vidět nad Syrakusami",
+      "original_title": "WATCH: SpaceX Falcon 9 seen over Syracuse Thursday AM - WSYR",
+      "url": "https://www.localsyr.com/news/local-news/watch-spacex-falcon-9-seen-over-syracuse-thursday-am/",
+      "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/09/Falcon9-Robert-Scales.jpg?w=1280",
+      "source": "WSYR",
+      "publishedAt": "2025-09-18T14:41:59Z",
+      "description": "SpaceX vypustilo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země, což zachytila kamera SkyNET 9 Energy Savers ze zoo Rosamond Gifford v Syracuse."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Podezřelý z vraždy tří policistů v Pensylvánii byl čtyřiadvacetiletý muž hledaný pro obvinění ze stalkingu",
       "original_title": "Suspect in killing of 3 Pennsylvania officers was a 24-year-old being sought on stalking charges - PBS",
       "url": "https://www.pbs.org/newshour/politics/suspect-in-killing-of-3-pennsylvania-officers",
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-18T013841Z_1654843155_RC2OTGANCBDT_RTRMADP_3_USA-SHOOTING-PENNSYLVANIA-1024x682.jpg",
       "source": "PBS",
       "publishedAt": "2025-09-18T14:35:04Z",
-      "description": "Obvinění proti Matthewovi Jamesovi Ruthovi byla podána ve středu, ve stejný den, kdy se policie vrátila na farmu ve venkovském okresu York, aby ho našla."
+      "description": "Obvinění proti Matthewovi Jamesovi Ruthovi byla podána ve středu, ve stejný den, kdy se policie vrátila na farmu v okrese York, aby ho našla."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Esej | Proč si Putin nemůže dovolit nechat Ukrajinu vzkvétat",
-      "original_title": "Essay | Why Putin Can’t Afford to Let Ukraine Prosper - The Wall Street Journal",
-      "url": "https://www.wsj.com/world/europe/why-putin-cant-afford-to-let-ukraine-prosper-9854e35e",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-18T14:08:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Americká karta Platinum zdražuje a přidává nové výhody, včetně 400dolarového kreditu na stravování",
+      "title": "Platinová karta American Express zdražuje a přidává nové výhody, včetně 400dolarového kreditu na stravování",
       "original_title": "American Express Platinum Card gets pricier and adds new perks, including a $400 dining credit - AP News",
       "url": "https://apnews.com/article/american-express-platinum-card-sapphire-reserve-credit-cards-79d024a08941a14d6afed5a77621d8d5",
       "urlToImage": "https://dims.apnews.com/dims4/default/dee26d3/2147483647/strip/true/crop/4128x2322+0+215/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fd5%2F90c1da9dfa7490b90ffcf9a8f529%2Fe19949184de7418b856c5f209840a18d",
       "source": "Associated Press",
       "publishedAt": "2025-09-18T13:58:00Z",
-      "description": "Americká Express představila novou verzi prémiové Platinum karty s ročním poplatkem 895 dolarů"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nákladní loď Northrop Grumman dorazila k Mezinárodní vesmírné stanici s denním zpožděním kvůli poruše motoru",
-      "original_title": "Northrop Grumman cargo ship reaches the International Space Station a day late after engine issue - ABC News",
-      "url": "https://abcnews.go.com/Business/wireStory/northrop-grumman-cargo-ship-reaches-international-space-station-125698312",
-      "urlToImage": "https://i.abcnewsfe.com/a/7c618d87-c264-4f2c-8bdd-212af906b197/wirestory_bfee7282cf40a8808dad174c43f803ab_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-09-18T13:06:22Z",
-      "description": "Zásobovací loď dorazila k Mezinárodní vesmírné stanici po dni zpoždění kvůli předčasnému vypnutí motoru"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Madonna oznámila nové taneční album, které vyjde příští rok, a vrací se k Warner Records",
-      "original_title": "Madonna Reveals New Dance Album Coming Next Year as She Returns to Warner Records - Variety",
-      "url": "https://variety.com/2025/music/news/madonna-new-dance-album-next-year-warner-records-1236523184/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Photo-credit-Ricardo-Gomes.jpeg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-18T12:59:00Z",
-      "description": "Madonna se vrací na taneční parket s novým tanečním singlem, podepsala novou smlouvu s Warner Records."
+      "description": "Nejnovější aktualizace prémiové karty Platinum od American Express přináší více výhod, ale i vyšší roční poplatek 895 dolarů"
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Co víme o americkém hnutí antifa, které chce Trump podle svých slov zakázat",
-      "original_title": "What we know about the US antifa movement which Trump says he wants to ban - BBC",
-      "url": "https://www.bbc.com/news/live/cvgje507pn2t",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b60/live/f0f6cdc0-947b-11f0-9cf6-cbf3e73ce2b9.png",
-      "source": "BBC News",
-      "publishedAt": "2025-09-18T12:33:45Z",
-      "description": "Nejnovější zprávy od odborníků BBC na ověřování faktů, kontrolu videí a boj proti dezinformacím."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Majitel Facebooku Meta představil nové chytré brýle s umělou inteligencí",
+      "title": "Majitel Facebooku Meta představuje nové chybré brýle s umělou inteligencí",
       "original_title": "Facebook owner Meta unveils new AI-powered smart glasses - BBC",
       "url": "https://www.bbc.com/news/articles/c5y599yz0l3o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11aa/live/fd922290-942c-11f0-a173-75b0baa9f7ee.jpg",
@@ -219,62 +208,29 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250918-dome-headed-dino-rs-a510a2.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-18T10:51:54Z",
-      "description": "Vědci v Mongolsku objevili nejstarší a nejkompletnější fosilii pachycefalosaura, skupiny dinosaurů známých pro své kopulovité lebky, uvádí nová studie zveřejněná ve středu v časopise Nature."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mediální přeměna v duchu MAGA",
-      "original_title": "Media's MAGA makeover - Axios",
-      "url": "https://www.axios.com/2025/09/18/trump-maga-media-cnn-cbs-ellison-tiktok",
-      "urlToImage": "https://images.axios.com/skcFZ3rcQfSNPOiysn1FKIZNzjA=/0x0:1920x1080/1366x768/2025/09/17/1758140932594.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-09-18T09:02:52Z",
-      "description": "Mediální krajina roku 2016 je k nepoznání."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "iOS 26 vyvolává masivní vlny stížností na vybíjení baterie. Apple vysvětluje, proč jsou iPhony po nejnovější aktualizaci pomalejší a teplejší",
-      "original_title": "iOS 26 Sparks Massive Battery Drain Complaints As Apple Explains Why iPhones Feel Slower And Hotter After The Latest Update - Wccftech",
-      "url": "https://wccftech.com/ios-26-sparks-massive-battery-drain-complaints-as-apple-explains-why-iphones-feel-slower-and-hotter-after-the-latest-update/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/Screenshot-2025-09-15-at-6.08.25-PM-e1757941850808-1.png",
-      "source": "Wccftech",
-      "publishedAt": "2025-09-17T19:00:00Z",
-      "description": "Uživatelé iOS 26 hlásí rychlé vybíjení baterie, lagy a zamrzávání aplikací. Apple vysvětluje, proč po velkých aktualizacích klesá výkon."
+      "description": "Vědci v Mongolsku objevili nejstarší a nejkompletnější fosilii pachycefalosaura, skupiny dinosaurů známých pro své kopulovité lebky."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Kdo může dostat vakcínu proti covidu-19 v Ohiu? FDA omezuje způsobilost",
+      "title": "Kdo může dostat vakcínu proti COVID-19 v Ohiu? FDA omezuje způsobilost",
       "original_title": "Who can get a COVID-19 vaccine in Ohio? FDA restricts eligibility - Cleveland.com",
       "url": "https://www.cleveland.com/metro/2025/09/who-can-get-a-covid-19-vaccine-in-ohio-fda-restricts-eligibility.html",
       "urlToImage": "https://www.cleveland.com/resizer/v2/LNLQ2AYBMBBHVAJY5AOMLMSR7U.jpeg?auth=87431ab64b058cc3eb28772b40f6addb4e0e1030647a7894e8b6840d1da3f58e&width=1280&quality=90",
       "source": "cleveland.com",
       "publishedAt": "2025-09-17T17:24:00Z",
-      "description": "Nové pokyny omezují očkování na osoby nad 65 let a chronicky nemocné, lékárny v Clevelandu však přístup usnadňují více než v jiných regionech."
+      "description": "Nové směrnice omezují očkování na osoby nad 65 let a chronicky nemocné, lékárny v Clevelandu však přístup usnadňují více než v jiných oblastech."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Missourské „kissing bugs“ šíří velmi vzácnou parazitární nemoc, která tu zůstane, uvádí CDC",
-      "original_title": "Missouri's 'kissing bugs' are spreading an incredibly rare parasitic disease that's here to stay, CDC says - KSDK",
-      "url": "https://www.ksdk.com/article/news/local/missouri-kissing-bugs-chagas-disease-cdc-incredibly-rare/63-4e7577f6-a015-4a49-bfbd-99b64d2bf4d4",
-      "urlToImage": "https://media.ksdk.com/assets/KSDK/images/bd3f9e5f-3daa-4d4a-82a4-8c566352db8b/20250912T154328/bd3f9e5f-3daa-4d4a-82a4-8c566352db8b_1140x641.jpg",
-      "source": "KSDK.com",
-      "publishedAt": "2025-09-17T17:19:00Z",
-      "description": "Podle odborníka na infekční nemoci by zpráva CDC neměla vyvolávat paniku, nákaza je stále extrémně vzácná"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vzácný' předek odhaluje, jak se obří nelétaví ptáci dostali do vzdálených zemí",
+      "title": "Vzácný předek odhaluje, jak se obří nelétaví ptáci dostali do vzdálených zemí",
       "original_title": "'Rare' ancestor reveals how huge flightless birds made it to faraway lands - Live Science",
       "url": "https://www.livescience.com/animals/birds/rare-ancestor-reveals-how-huge-flightless-birds-made-it-to-faraway-lands",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bbdk8F5BwKkkRdhLxk9b9Q.png",
       "source": "Live Science",
       "publishedAt": "2025-09-17T15:23:06Z",
-      "description": "Záhada, jak příbuzní nelétaví ptáci skončili tak daleko od sebe na různých kontinentech, byla možná vyřešena."
+      "description": "Záhadu, jak příbuzní nelétaví ptáci skončili tak daleko od sebe na různých kontinentech, se možná podařilo vyřešit."
     }
   ]
 }
