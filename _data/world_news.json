@@ -1,10 +1,54 @@
 {
-  "last_updated": "2025-09-18T23:16:10",
+  "last_updated": "2025-09-19T01:21:05",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pět policistů postřeleno, tři zemřeli v Pensylvánii",
+      "title": "Trump označuje Antifu za hlavní teroristickou organizaci",
+      "original_title": "Trump announces he's designating antifa as a \"major terrorist organization\" - CBS News",
+      "url": "https://www.cbsnews.com/news/trump-antifa-major-terrorist-organization/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/15/04d2347e-3da3-4716-8b4d-daee356c4552/thumbnail/1200x630/0d7bcb6e51028f06bd911461e874ff56/gettyimages-2235633457.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-18T01:06:00Z",
+      "description": "Prezident Trump ve středu pozdě večer vyzval k prošetření údajných sponzorů hnutí antifa."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Předseda senátu pro migraci nařídil deportaci Mahmouda Khalila do Alžírska nebo Sýrie",
+      "original_title": "Immigration judge orders Mahmoud Khalil to be deported to Algeria or Syria - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/immigration-judge-orders-mahmoud-khalil-deported-algeria-syria-rcna232049",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250917-Mahmoud-Khalil-ac-841p-c07458.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-18T01:05:00Z",
+      "description": "Podle soudních dokumentů podaných ve středu nařídil imigrační soud deportovat Mahmouda Khalila do Alžírska nebo Sýrie s odůvodněním, že ve své žádosti o zelenou kartu zamlčel informace."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rada D.C. dala konečný souhlas s návratem Washington Commanders na místo stadionu RFK",
+      "original_title": "DC Council gives final approval to the Washington Commanders' return to the RFK Stadium site - AP News",
+      "url": "https://apnews.com/article/washington-commanders-stadium-07a16a77ea4152f469c0143c055a9d15",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2cfa694/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2Ff1%2Fd8a2c32c8595fb824f5bcf1c219d%2Fe2acf8cde75a4c44a9c2ce0352d348f1",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-18T00:10:00Z",
+      "description": "Plán Washingtonu Commanders vrátit se na místo svého bývalého domova na stadionu RFK překonal poslední překážku v místní legislativě."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Fotograf Tyler Stalman recenzuje fotoaparáty iPhonu 17, iPhone Air a iPhone 17 Pro - 9to5Mac",
+      "original_title": "Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/17/photographer-tyler-stalman-reviews-the-iphone-17-iphone-air-and-iphone-17-pro-cameras/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.56.28.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-17T23:39:00Z",
+      "description": "V novém videu natočeném kompletně na iPhone 17 Pro podrobně zkoumá fotoaparáty nové řady iPhonu 17. A tohle zjistil."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pět policistů postřeleno, tři smrtelně, v Pensylvánii",
       "original_title": "Five police officers shot, three fatally, in Pennsylvania - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2025/9/17/five-police-officers-shot-three-fatally-in-pennsylvania",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-09-17T195513Z_1581307047_RC2OTGANCBDT_RTRMADP_3_USA-SHOOTING-PENNSYLVANIA-1758149246.jpg?resize=1808%2C1080",
@@ -15,112 +59,134 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Snaha o odsouzení poslankyně Ilhan Omarové ztroskotala kvůli odpadlictví v GOP.",
+      "title": "Ten, díky komu jsem se stala krásnou: Film | Prime Video – Tiskový web Amazon MGM Studios",
+      "original_title": "The Summer I Turned Pretty The Movie | Prime Video - Amazon MGM Studios Press Site",
+      "url": "http://press.amazonmgmstudios.com/us/en/press-release/well-see-you-back-in-cousins-beach-prime-video-ann",
+      "urlToImage": null,
+      "source": "Amazonmgmstudios.com",
+      "publishedAt": "2025-09-17T22:36:22Z",
+      "description": "Příběh pokračuje závěrečnou kapitolou Bellyiny cesty"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Republikáni zmařili snahu o odsouzení poslankyně Ilhan Omarové",
       "original_title": "GOP defections sink effort to censure Rep. Ilhan Omar - Politico",
       "url": "https://www.politico.com/live-updates/2025/09/17/congress/house-sinks-omar-censure-00570054",
       "urlToImage": "https://www.politico.com/dims4/default/78accf6/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F17%2Ff8%2F1d6b4b8547a8b847ec3606effa5f%2Fu-s-congress-34992.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-17T22:31:54Z",
-      "description": "Poslankyně Nancy Maceová předložila návrh s odvoláním na reakci minnesotské demokratky na smrt Charlieho Kirka."
+      "description": "Poslankyně Nancy Maceová předložila návrh s odvoláním na reakci minnesotské demokratky na smrt Charlie Kirka."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Díky DNA vyvinuté u ryb se můžete držet za zadek",
+      "original_title": "You can hold on to your butts thanks to DNA that evolved in fish - Ars Technica",
+      "url": "https://arstechnica.com/science/2025/09/distinct-digits-may-have-evolved-by-using-dna-that-makes-the-cloaca/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1280616637-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-17T22:19:24Z",
+      "description": "Tvorba prstů zřejmě zahrnuje genovou aktivitu potřebnou k vytvoření kloaky."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Odvolání Engardia: Mohla by San Francisco skutečně znovu otevřít Velkou dálnici?",
+      "original_title": "Engardio recall: Could San Francisco really reopen the Great Highway? - San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/sf/article/sf-recall-engardio-reopen-great-highway-21053460.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/44/76/28462982/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2025-09-17T22:07:30Z",
+      "description": "Přes vítězství kampaně za odvolání by znovuotevření Great Highway v San Franciscu byla dlouhá a obtížná bitva."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Největší zásah RFK Jr. do vakcinační politiky teprve přijde - vox.com",
+      "original_title": "RFK Jr.’s biggest disruption yet to vaccine policy is coming - vox.com",
+      "url": "https://www.vox.com/health/461858/cdc-susan-monarez-rfk-jr-vaccine-guidelines",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/GettyImages-2235970360.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "Vox",
+      "publishedAt": "2025-09-17T21:50:00Z",
+      "description": "Expertní poradní výbor by mohl změnit očkovací pokyny pro hepatitidu B, spalničky, Covid a další. Monarez uvedl, že rozhodnutí nejsou vedena kvalitní vědou."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "USA investují do Británie 150 miliard liber a slibují tisíce pracovních míst",
+      "title": "USA investují 150 miliard liber do Británie a slibují tisíce pracovních míst",
       "original_title": "US to invest £150bn in UK, promising thousands of jobs - BBC",
       "url": "https://www.bbc.com/news/articles/cx2nllgl3q7o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8102/live/3536f7e0-93f9-11f0-8750-ed240c52ff67.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-17T21:30:05Z",
-      "description": "Britská vláda hovoří o největší obchodní dohodě svého druhu a očekává, že vytvoří více než 7600 „vysoce kvalitních pracovních míst“."
+      "description": "Britská vláda označuje dohodu za největší obchodní transakci svého druhu a očekává, že vytvoří více než 7600 „vysoce kvalitních pracovních míst“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Spoluzakladatel Ben & Jerry's Jerry Greenfield rezignoval kvůli sporu s vlastníkem Unileverem",
+      "title": "Spoluzakladatel Ben & Jerry's Jerry Greenfield rezignoval kvůli sporu s majitelem Unilever",
       "original_title": "Ben & Jerry's co-founder Jerry Greenfield resigns over dispute with owner Unilever - NPR",
       "url": "https://www.npr.org/2025/09/17/nx-s1-5544283/ben-jerrys-jerry-greenfield-resigns-unilever",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2225x1251+136+226/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F86%2F8bc338d9410394148f8462207526%2Fgettyimages-91014224.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-17T21:19:28Z",
-      "description": "Greenfield uvedl, že výrobce zmrzliny z Vermontu byl podle Unileveru „umlčen a odsunut stranou ze strachu, že by rozhněval ty u moci“"
+      "description": "Greenfield uvedl, že vermontského výrobce zmrzliny Unilever „umlčel a odsunul stranou ze strachu, že by rozhněval ty u moci“."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vojenský personál suspendován kvůli příspěvkům na sociálních sítích v souvislosti se smrtí Charlieho Kirka",
-      "original_title": "Military personnel suspended for social media posts tied to Charlie Kirk's death - ABC News",
-      "url": "https://abcnews.go.com/Politics/military-personnel-suspended-social-media-posts-tied-charlie/story?id\\\\u003d125678845",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-17T21:04:19Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Takto funguje parní komora v iPhonu 17 Pro - 9to5Mac",
-      "original_title": "Here’s how the iPhone 17 Pro vapor chamber actually works - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/17/heres-how-the-iphone-17-pro-vapor-chamber-actually-works/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-vapor-chamber.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-17T20:40:00Z",
-      "description": "Pokud jste se nikdy pořádně nepodívali na to, jak tato součástka pro odvod tepla funguje, ve videu níže se dozvíte vše, co potřebujete vědět."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Akcie Cracker Barrel klesají po oznámení rozporuplných výsledků společnosti v souvislosti s rebrandingem",
-      "original_title": "Cracker Barrel stock falls as company reports mixed earnings after rebrand controversy - CNBC",
-      "url": "https://www.cnbc.com/2025/09/17/cracker-barrel-q4-2025-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108191579-1756325780992-gettyimages-2232416729-dji_20250827140040_0492_d_xhdlqvmk.jpeg?v=1756325844&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-17T20:35:01Z",
-      "description": "Cracker Barrel ve středu po uzavření trhů oznámil výsledky za čtvrté čtvrtletí."
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Google nasazuje Android 16 QPR2 Beta 2 pro telefony Pixel – 9to5Google",
+      "original_title": "Google rolling out Android 16 QPR2 Beta 2 for Pixel - 9to5Google",
+      "url": "http://9to5google.com/2025/09/17/android-16-qpr2-beta-2-pixel/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Android-16-QPR1-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-17T20:02:00Z",
+      "description": "Program Android 16 Beta pokračuje i dnes verzí QPR2 Beta 2 pro zařízení Google, včetně řady Pixel 10."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Rand Paul zpovídá bývalou ředitelku CDC Susan Monarezovou o očkování šestiměsíčních dětí",
-      "original_title": "Rand Paul grills former CDC Director Susan Monarez on vaccine requirements for 6-month-olds - New York Post",
-      "url": "https://nypost.com/2025/09/17/us-news/rand-paul-grills-former-cdc-director-susan-monarez-on-vaccine-requirements-for-6-month-olds/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/u-s-rep-rand-paul-111598219.jpg?quality=75&strip=all&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-09-17T19:49:00Z",
-      "description": "Senátor Rand Paul (R-Ky.) vyslýchal bývalou ředitelku CDC Susan Monarez a tvrdí, že byla propuštěna za ochranu byrokratů toužících očkovat…"
+      "title": "Vdova po Navalném tvrdí, že nové laboratorní testy dokazují, že byl ve vězení otráven",
+      "original_title": "Navalny’s widow says new lab evidence proves he was poisoned in prison - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/17/navalny-poisoned-russia-yulia-navalnaya/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3NLTTYVFWA2Z7457RQVTS6GXPM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-17T19:12:17Z",
+      "description": "Dva laboratoře otestovaly Navalného vzorky, které byly propašovány z Ruska, a dospěly k závěru, že byl otráven, řekla jeho žena. Jako oficiální příčina smrti bylo uvedeno onemocnění."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump a Vance vystoupí na vzpomínkové akci Charlie Kirka",
-      "original_title": "Trump, Vance to headline Charlie Kirk memorial - Politico",
-      "url": "https://www.politico.com/news/2025/09/17/charlie-kirk-memorial-trump-vance-00569225",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0e%2Fdc%2F675f2c4546519ecfe453108fd1b0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235097411",
-      "source": "Politico",
-      "publishedAt": "2025-09-17T19:01:51Z",
-      "description": "Několik členů Trumpovy administrativy vystoupí na akci na počest zavražděného politického organizátora."
+      "title": "‚Camp Rock 3‘ se natáčí s Jonas Brothers v hlavních rolích a Demi Lovato jako producentkou",
+      "original_title": "‘Camp Rock 3’ Now Filming With Jonas Brothers Starring and Demi Lovato Producing - Variety",
+      "url": "https://variety.com/2025/tv/news/camp-rock-3-jonas-brothers-demi-lovato-1236522255/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/TCDCARO_EC069-1.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-17T19:07:00Z",
+      "description": "Disney natáčí třetí díl Camp Rocku, Jonas Brothers se vracejí ke svým rolím a Demi Lovato je výkonnou producentkou."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Rusko podrobuje ukrajinské děti vojenskému výcviku a převýchově, zjistili výzkumníci z Yale",
+      "title": "Bills vs. Dolphins představuje soudržnost/chaos v budování týmu",
+      "original_title": "Bills vs. Dolphins represents cohesion/disarray in team building - Buffalo Rumblings",
+      "url": "https://www.buffalorumblings.com/116148/bills-vs-dolphins-represents-cohesion-disarray-in-team-building",
+      "urlToImage": "https://platform.buffalorumblings.com/wp-content/uploads/sites/51/2025/09/gettyimages-1449971327.jpg?quality=90&strip=all&crop=0%2C10.738783586608%2C100%2C78.522432826784&w=1200",
+      "source": "Buffalo Rumblings",
+      "publishedAt": "2025-09-17T19:05:40Z",
+      "description": "Bills a Dolphins míří opačnými směry."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ruští vojáci cvičí a převychovávají ukrajinské děti, zjistili výzkumníci z Yale",
       "original_title": "Russia gives Ukrainian kids military training and reeducation, Yale researchers find - NPR",
       "url": "https://www.npr.org/2025/09/17/nx-s1-5544256/russia-ukraine-war-children-military-training-reeducation-yale",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F5c%2Fd57175a846829f450f0e4bd5b78d%2Fgettyimages-2217550099.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-17T18:48:05Z",
-      "description": "Laboratoř pro humanitární výzkum Yale tvrdí, že ruská síť zařízení pro ukrajinské děti je větší, než se dosud myslelo, a programy zahrnují vojenský výcvik i pro děti od osmi let."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jak sledovat 34. řadu ‚StarDance‘: Kde vysílají, obsazení a další informace",
-      "original_title": "How to watch ‘Dancing With the Stars’ Season 34: Where to stream, cast and more - yahoo.com",
-      "url": "https://www.yahoo.com/entertainment/tv/article/how-to-watch-dancing-with-the-stars-season-34-where-to-stream-cast-and-more-204011655.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MXIxNghj_cPG3svvMNz9OQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTk7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/dd542d50-926c-11f0-afdb-7f5b4df3b908",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-17T18:29:39Z",
-      "description": "Jste připraveni sledovat Roberta Irwina, Jordan Chiles, Jen Affleck a další hvězdy v nové sezóně „StarDance“?"
+      "description": "Laboratoř pro humanitární výzkum Yale tvrdí, že ruská síť zařízení pro ukrajinské děti je větší, než se myslelo, a programy zahrnují vojenský výcvik i pro děti od osmi let."
     },
     {
       "flag": "🌍",
@@ -131,56 +197,56 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F6d%2Fda64a63b4840a02fc3c066ac8167%2Fap25219590138446.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-17T18:28:05Z",
-      "description": "Ministerstvo spravedlnosti stupňuje požadavky na citlivá data od volebních úředníků a žaluje dva státy pod demokratickou kontrolou, které dosud žádosti ministerstva odmítaly."
+      "description": "Ministerstvo spravedlnosti stupňuje požadavky na citlivá data od volebních úředníků a žaluje dva státy pod demokratickou kontrolou, které dosud žádosti úřadu odmítaly."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ředitel FBI tvrdí, že s Trumpem nikdy nemluvil o Epsteinových dokumentech",
-      "original_title": "FBI director says he's never spoken to Trump about the Epstein files - Axios",
-      "url": "https://www.axios.com/2025/09/17/kash-patel-never-spoken-trump-epstein-files",
-      "urlToImage": "https://images.axios.com/Bjv9pn_cS4Q9hUchYvN3rY-XEVs=/0x78:5854x3371/1366x768/2025/09/17/1758124479664.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-17T17:57:15Z",
-      "description": "Patel také řekl, že neví, kolikrát se Trumpovo jméno objevuje v Epsteinových dokumentech."
+      "title": "Odsazená ředitelka CDC vypovídá, že byla propuštěna za odolávání nátlaku od RFK Jr.",
+      "original_title": "Ousted CDC director testifies she was fired for resisting pressure from RFK Jr. - NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/09/17/nx-s1-5544143/cdc-director-susan-monarez-testimony-rfk",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2Fd0%2F8ec3319140d1986b5b1142c135f7%2Fgettyimages-2235936726.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-17T18:11:24Z",
+      "description": "Susan Monarezová říká, že RFK Jr. jí řekl, aby se zavazovala k rozhodnutím předem, bez posouzení důkazů a aby odmítala odborníky na vakcíny."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sledujte, jak kolem Země proletí asteroid velikosti Washingtonova monumentu. Živě 18. září (video)",
-      "original_title": "Watch an asteroid the size of the Washington Monument zoom past Earth live on Sept. 18 (video) - Space",
-      "url": "https://www.space.com/stargazing/watch-asteroid-size-of-washington-monument-zoom-past-earth-live-sept-18-2025-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4KmnddGHu3TfPw8SkRVcd6.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-17T16:15:10Z",
-      "description": "Sledujte živě, jak se 18. září nebezpečný asteroid přiblíží k Zemi."
+      "title": "Apple představuje novinky iOS 26: screening hovorů, živý překlad, AutoMix a další",
+      "original_title": "Apple Details iOS 26 Features Like Call Screening, Live Translation, AutoMix, and More - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/17/apple-details-ios-26-features/",
+      "urlToImage": "https://images.macrumors.com/t/p817t4gw5ljW1ROSxfadhn3mJew=/2500x/article-new/2025/06/iOS-26-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-17T17:11:18Z",
+      "description": "Společnost Apple aktualizovala příručku pro uživatele iPhonu a zveřejnila řadu podpůrných dokumentů s podrobnostmi o široké škále nových funkcí iOS 26."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Izraelské tanky obklíčily Gazu před pozemním útokem, EU navrhuje sankce v reakci na celosvětový odpor",
+      "title": "Izraelské tanky obklíčily Gazu před pozemní invazí, EU navrhuje sankce v reakci na celosvětový odpor",
       "original_title": "Israeli tanks surround Gaza City ahead of ground incursion as EU proposes sanctions amid global outcry - CNN",
       "url": "https://www.cnn.com/2025/09/17/middleeast/israel-gaza-ground-assault-satellite-imagery-intl",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sep16-idfnorthofshaticamp.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-17T16:12:51Z",
-      "description": "Izraelské tanky se ve středu podle očitých svědků a satelitních snímků shromáždily na okraji Gazy před plánovanou pozemní operací v největším městě enklávy."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Recenze: Jeden boj za druhým. Leonardo DiCaprio září v ‚oslnivé‘ komediální akční dramatu",
-      "original_title": "One Battle After Another review: Leonardo DiCaprio stars in a 'dazzler' of a comedy-action-drama - BBC",
-      "url": "https://www.bbc.com/culture/article/20250917-one-battle-after-another-review",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0m3bw5x.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-17T15:49:35Z",
-      "description": "„Virtuózní“ Jeden boj za druhým je „děsivý a přitom k smíchu“. Je vzácné vidět tak ambiciózní film, který funguje tak hladce."
+      "description": "Izraelské tanky se ve středu podle očitých svědků a satelitních snímků shromáždily na okraji Gazy před plánovanou pozemní operací do největšího městského prostoru enklávy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Převratný objev NASA je nejblíž, co jsme kdy byli k nalezení života na Marsu",
+      "title": "Byl jsem pěkně nezkrotné dítě\" — pořad 'Fresh Air' nahlédl do zákulisí s Robertem Redfordem",
+      "original_title": "'I was quite a maverick kid' — 'Fresh Air' went behind the scenes with Robert Redford - NPR",
+      "url": "https://www.npr.org/2025/09/17/nx-s1-5543292/robert-redford-fresh-air",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3952x2224+0+405/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2Ff8%2Fafaf29b24c6894e70c95c206dbad%2Fgettyimages-2661980.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-17T15:51:40Z",
+      "description": "Legendární herec zemřel v úterý ve věku 89 let. „Neučil jsem se tak, jak jsem se měl učit…“ vysvětloval v roce 2013. „Došlo mi, že mé vzdělání začne, až vyjdu do světa.“"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "„Průlomový“ objev NASA je „nejblíže, co jsme kdy byli“ k nalezení života na Marsu",
       "original_title": "‘Groundbreaking’ NASA Discovery Is ‘Closest We Have Ever Come’ to Finding Life on Mars - Good News Network",
       "url": "https://www.goodnewsnetwork.org/groundbreaking-nasa-discovery-is-closest-we-have-ever-come-to-finding-life-on-mars/",
       "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/09/Credit-NASAJPL-CaltechMSSS.jpg",
@@ -197,62 +263,40 @@
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09213-6/MediaObjects/41586_2025_9213_Fig1_HTML.png",
       "source": "Nature.com",
       "publishedAt": "2025-09-17T15:11:15Z",
-      "description": "Pachycefalosaurid Zavacephale rinpoche z rané křídy Mongolska poskytuje klíčové poznatky o rané evoluci dinosauřích „kupolohlavců“, včetně vývoje frontoparietální klenby a oddělení sociosexuálního ..."
+      "description": "Pachycefalosaurid Zavacephale rinpoche z rané křídy Mongolska poskytuje klíčové poznatky o rané evoluci dinosaurů s kupolovitou hlavou, včetně vývoje frontoparietální klenby a oddělení sociosexuáln..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Experimentální kosmická loď letící k vesmírné stanici neočekávaně selhala",
-      "original_title": "Experimental Spacecraft Headed to Space Station Suddenly Shuts Down - Futurism",
-      "url": "https://futurism.com/the-byte/spacecraft-space-station-shuts-down",
-      "urlToImage": "https://wordpress-assets.futurism.com/2025/09/engine-shuts-down-spacecraft-headed-space-station.jpg",
-      "source": "Futurism",
-      "publishedAt": "2025-09-17T14:12:32Z",
-      "description": "11 tisíc liber zásob a vědeckých přístrojů je na cestě k ISS, ale hlavní motor vesmírné lodi se nečekaně vypnul."
+      "title": "Republikán Brad Raffensperger bude kandidovat na guvernéra Georgie poté, co se ve volbách 2020 postavil Trumpovi",
+      "original_title": "Republican Brad Raffensperger to run for Georgia governor after defying Trump over 2020 election - AP News",
+      "url": "https://apnews.com/article/secretary-brad-raffensperger-georgia-republican-governor-2026-7c19e8f80d90d0fb7aad0e30b42a97a1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8c200a6/2147483647/strip/true/crop/7246x4076+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F89%2F10%2F40f175342faa15b84fed508e289d%2F6af9f5f0e4bd42669a409da8c0d50e07",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-17T14:44:00Z",
+      "description": "Georgský ministr zahraničí Brad Raffensperger oznámil kandidaturu na guvernéra v roce 2026"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ohne se iPhone Air? Tento extrémní test odhaluje odpověď",
-      "original_title": "Will the iPhone Air Bend? This Extreme Test Reveals the Answer - MacRumors",
-      "url": "https://www.macrumors.com/2025/09/17/iphone-air-bend-test/",
-      "urlToImage": "https://images.macrumors.com/t/_BM3WvQmnhsAKgHBPyn6qOWsvN4=/1958x/article-new/2025/09/iphone-air-thinness.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-17T13:25:58Z",
-      "description": "S ultra tenkým designem, který v nejtenčím místě měří jen 5,6 mm, předstihl nový iPhone Air iPhone 6 a stal se nejtenčím iPhonem v historii."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Černocha našli oběšeného na stromě. Podle policie nejsou známky cizího zavinění",
-      "original_title": "A Black student was found hanging from a tree. Police say there’s no sign of foul play - CNN",
-      "url": "https://www.cnn.com/2025/09/17/us/mississippi-hanging-delta-state-university-black-student-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-697223122.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-17T11:21:10Z",
-      "description": "Policie vyšetřuje smrt černošského studenta nalezeného oběšeného na kampusu mississippské univerzity"
+      "title": "Porucha motoru donutila Northrop Grumman odložit zásobovací misi k Mezinárodní vesmírné stanici",
+      "original_title": "Engine trouble forces Northrop Grumman to delay supply delivery to International Space Station - AP News",
+      "url": "https://apnews.com/article/northrop-grumman-nasa-space-station-1c616fa4fb267c2f5bd4306095515e3f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f7277be/2147483647/strip/true/crop/5877x3306+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Fbc%2Ff0cd9f13d0ebd199f679881377ea%2Faef98c56a01e42ffa670270e7891c4bd",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-17T14:14:00Z",
+      "description": "Nově vypuštěná zásobovací loď má potíže s motorem, které jí brání dosáhnout Mezinárodní vesmírné stanice."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Robert Redford zemřel na svém oblíbeném místě a jeho dojemnému poslednímu přání bylo vyhověno",
-      "original_title": "Robert Redford’s touching final wish granted as he died in his favorite place - The Mirror US",
-      "url": "https://www.themirror.com/entertainment/robert-redford-dies-final-wish-1394502",
-      "urlToImage": "https://i2-prod.themirror.com/article1392910.ece/ALTERNATES/s1200/2_Day-One-Press-Conference-2016-Sundance-Film-Festival.jpg",
-      "source": "Themirror.com",
-      "publishedAt": "2025-09-17T11:04:00Z",
-      "description": "Herehollywoodský herec Robert Redford, hvězda klasických filmů jako Butch Cassidy a Sundance Kid, zemřel ve věku 89 let obklopen svými blízkými, což zarmoutilo fanoušky"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jak opravit „nakloněné“ ikony aplikací v tmavém režimu v iOS 26",
-      "original_title": "How to Fix 'Tilted' Dark Mode App Icons in iOS 26 - Lifehacker",
-      "url": "https://lifehacker.com/tech/how-to-fix-tilted-dark-mode-app-icons-in-ios-26",
-      "urlToImage": "https://lifehacker.com/imagery/articles/01K5A4WSPKV5RBXJX07X91NPGQ/hero-image.fill.size_1200x675.png",
-      "source": "Lifehacker.com",
-      "publishedAt": "2025-09-16T21:30:15Z",
-      "description": "Apple pravděpodobně pracuje na řešení, mezitím ale můžete udělat něco vy."
+      "title": "Skupina velkých zdravotních pojišťoven uvedla, že jejich členové budou i nadále hradit očkování, což může zmírnit obavy z dostupnosti - statnews.com",
+      "original_title": "Major health insurer group says members will continue to cover vaccines, a step that may ease anxiety over access - statnews.com",
+      "url": "https://www.statnews.com/2025/09/17/ahip-vaccine-insurance-acip-coverage/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/Vaccine_BandAid-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2025-09-17T13:52:45Z",
+      "description": "Mezi obavami z dostupnosti vakcín pro Američany sdružení zdravotních pojišťoven oznámilo, že jeho členské pojišťovny nadále plně hradí všechna očkování doporučená poradním výborem ACIP."
     }
   ]
 }
