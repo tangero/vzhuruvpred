@@ -1,71 +1,170 @@
 {
-  "last_updated": "2025-09-19T16:21:38",
+  "last_updated": "2025-09-19T17:15:06",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Základ pro deportaci guatemalských dětí se podle soudce Trumpovy administrativy rozsypal jako domeček z karet",
+      "title": "Akcie dnes: Dow a Nasdaq rostou po snížení sazeb Fedu, akcie Intelu posilují po dohodě s Nvidií — živě",
+      "original_title": "Stock Market Today: Dow, Nasdaq Rise After Fed Rate Cut; Intel Shares Surge on Nvidia Deal — Live Updates - The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2025",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-18T18:21:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpova administrativa žádá Nejvyšší soud, aby umožnil propuštění členky rady Fedu Lisy Cookové",
+      "original_title": "Trump officials ask Supreme Court to allow firing of Fed governor Lisa Cook - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/18/trump-cook-federal-reserve-interest-rates/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZXFBDNMFD5U4VO6QNNZGMZXKIQ_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-18T17:20:22Z",
+      "description": "Případ je jedním ze tří před nejvyšším soudem, které prověří prezidentovy nároky na rozsáhlou pravomoc nad ekonomikou a federálními výdaji."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "V domě v Hollywood Hills, kde pobýval D4vd, provedli prohlídku poté, co bylo v jeho Tesle nalezeno tělo: Zdroje - ABC7 Los Angeles",
+      "original_title": "Hollywood Hills home where D4vd has stayed is searched after body found in singer's Tesla: Sources - ABC7 Los Angeles",
+      "url": "https://abc7.com/post/hollywood-hills-home-where-d4vd-has-stayed-is-searched-body-teen-girl-celeste-rivas-found-singers-tesla-sources-say/17842387/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17836208_celeste-davd.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2025-09-18T17:03:45Z",
+      "description": "Pátrání bylo zahájeno po objevení těla dospívající dívky v Tesle registrované na zpěváka."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Google přináší Gemini v prohlížeči Chrome uživatelům v USA, představuje agentní procházení a další novinky",
+      "original_title": "Google brings Gemini in Chrome to US users, unveils agentic browsing capabilities, and more - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/18/google-brings-gemini-in-chrome-to-us-users-unveils-agentic-browsing-capabilities-and-more/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-18T17:00:00Z",
+      "description": "Google tvrdí, že asistent s umělou inteligencí dokáže za uživatele plnit úmorné úkoly, jako je objednání účesu nebo týdenní nákup potravin."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Fotograf Austin Mann recenzuje fotoaparáty iPhonu 17 Pro - 9to5Mac",
+      "original_title": "Photographer Austin Mann reviews the iPhone 17 Pro cameras - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/18/photographer-austin-mann-reviews-the-iphone-17-pro-cameras/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/austin-mann-iphone-17-pro-review.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-18T16:45:00Z",
+      "description": "Recenze fotoaparátů iPhone 17 Pro od Austina Manna je tu a nabízí skvělý přehled toho, co lze od nového modelu očekávat."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Erika Kirk jmenována generální ředitelkou Turning Point USA",
+      "original_title": "Erika Kirk named CEO of Turning Point USA - CNN",
+      "url": "https://www.cnn.com/2025/09/18/politics/erika-kirk-turning-point-ceo",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2234103824.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-18T16:43:27Z",
+      "description": "Erika Kirková byla jmenována generální ředitelkou Turning Point USA, přebírá tak vedení organizace, kterou založil a vedl její manžel Charlie Kirk, dokud nebyl minulý týden zavražděn."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump říká, že se USA ‚snaží‘ získat zpět leteckou základnu Bagram",
+      "original_title": "Trump says US ‘trying’ to get Bagram airbase back - Politico",
+      "url": "https://www.politico.com/news/2025/09/18/trump-says-us-trying-to-get-afghan-airbase-back-00570698",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F25%2F63%2F29ae0d2c4be1868641f71480a7cf%2Faptopix-trump-britain-25351.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-18T16:20:25Z",
+      "description": "První Trumpova administrativa vyjednala stažení Američanů z Afghánistánu do roku 2021 a nezmiňovala ponechání základny."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Základ pro deportaci dětí z Guatemaly se podle soudce Trumpovy administrativy „rozsypal jako domeček z karet“",
       "original_title": "Trump admin’s basis for deporting Guatemalan kids ‘crumbled like a house of cards,’ judge rules - Politico",
       "url": "https://www.politico.com/news/2025/09/18/guatemalan-children-deportation-ruling-00570828",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F68%2F0a%2F634ee1bd4b0c8d6a843779365e20%2Ftrump-migrant-children-deportation-05195.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-18T15:56:02Z",
-      "description": "Federální soudce Tim Kelly, kterého jmenoval Trump, vytkl administrativě přehnanou horlivost a pozastavil deportaci stovek dětí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Objev hmyzu uvězněného v jantaru přináší nové poznatky o prastarém amazonském deštném pralese",
-      "original_title": "Discovery of insects trapped in amber sheds light on ancient Amazon rainforest - AP News",
-      "url": "https://apnews.com/article/prehistoric-amber-insects-ecuador-evolution-gondwana-85cc378ddc1f4ac55160dff08e5c4e68",
-      "urlToImage": "https://dims.apnews.com/dims4/default/92e0ae5/2147483647/strip/true/crop/3998x2249+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F21%2F7c6ef59b6fc88e8c79ad2e75cd42%2Fd1dd3f8d1fdf4dbc97443cc9cf94ecd6",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-18T15:06:00Z",
-      "description": "Scientists have discovered prehistoric insects preserved in amber in South America for the first time. This amber was found at a quarry in Ecuador and contains ancient insects, pollen, and tree leaves"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Julia Robertsová a tým filmu ‚After the Hunt‘ vysvětlují: Není to #MeToo snímek",
-      "original_title": "Julia Roberts, 'After the Hunt' Team Tell All: It's Not a #MeToo Movie - Variety",
-      "url": "https://variety.com/2025/film/features/julia-roberts-after-the-hunt-interview-metoo-movie-1236521870/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/After-the-Hunt-Variety-Cover-Story-2.jpg?crop=0px%2C339px%2C1500px%2C842px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-09-18T15:00:00Z",
-      "description": "Julia Roberts and her 'After the Hunt' co-stars Andrew Garfield and Ayo Edebiri join Variety to discuss the year's most controversial film."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Steve Ballmer a Clippers údajně poskytli společnosti Aspiration 118 milionů dolarů v souvislosti s Kawhi Leonardovou smlouvou",
-      "original_title": "Steve Ballmer, Clippers Reportedly Gave Aspiration $118M amid Kawhi Leonard Contract - Bleacher Report",
-      "url": "https://bleacherreport.com/articles/25250422-steve-ballmer-clippers-reportedly-gave-aspiration-118m-amid-kawhi-leonard-contract",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2210472138_large_cropped_0.jpg?w=3800&h=2000",
-      "source": "Bleacher Report",
-      "publishedAt": "2025-09-18T14:56:53Z",
-      "description": "Jak Steve Ballmer a Los Angeles Clippers trvají na tom, že se nepokoušeli obejít salary cap u smlouvy Kawhiho Leonarda, přibývá detailů o zapojení organizace do Aspiration."
+      "description": "Americký soudce Tim Kelly, kterého jmenoval Trump, vytkl administrativě, že zablokoval deportaci stovek dětí."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Situace v Gaze je kataklyzmatická, uvedl úředník OSN během postupu izraelských tanků",
+      "title": "Královská rodina, příznivci Maga a šéfové technologických firem: Co jsme se dozvěděli ze seznamu hostů na státní večeři",
+      "original_title": "Royals, Maga and tech CEOs: What we learned from state banquet guest list - BBC",
+      "url": "https://www.bbc.com/news/articles/cp98031vyjko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e9bc/live/2915b140-9499-11f0-8e88-0f11af0637c1.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-18T15:34:16Z",
+      "description": "Akce se týká diplomacie stejně jako gurmánského zážitku."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Sněmovna odmítla snahu o cenzuru poslankyně Ilhan Omar za její výroky o Charliem Kirkovi",
+      "original_title": "House turns back effort to censure Rep. Ilhan Omar over remarks about Charlie Kirk - PBS",
+      "url": "https://www.pbs.org/newshour/politics/house-turns-back-effort-to-censure-rep-ilhan-omar-over-remarks-about-charlie-kirk",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-08-28T202557Z_1544398399_RC2IGGAYS4WY_RTRMADP_3_USA-MINNEAPOLIS-SHOOTING-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-18T15:13:37Z",
+      "description": "Jmenovací hlasování 214:213 odložilo rezoluci republikánské poslankyně Nancy Maceové z Jižní Karolíny, která navrhovala odsoudit demokratickou poslankyni Ilhan Omarovou z Minnesoty a odvolat ji ze ..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Hyundai investuje 2,7 miliardy dolarů do továrny v Georgii postižené zátokem na migranty",
+      "original_title": "Hyundai to invest $2.7 billion in Georgia factory hit by ICE raid - The Verge",
+      "url": "https://www.theverge.com/news/780980/hyundai-investor-day-erev-hybrid-metaplant",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Large-64277-HMGMAReveals2026IONIQ9asNewestProductionVehicle.jpg?quality=90&strip=all&crop=0%2C10.730898395945%2C100%2C78.53820320811&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-18T15:08:20Z",
+      "description": "Automobilka také rozšiřuje svou elektrifikovanou nabídku včetně nových hybridů a elektromobilů s prodlouženým dojezdem."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Situace v Gaze je kataklyzmatická, říká úředník OSN, zatímco izraelské tanky postupují",
       "original_title": "'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance - BBC",
       "url": "https://www.bbc.com/news/articles/c5y8l46m5evo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ee9/live/26a8c990-9491-11f0-b391-6936825093bd.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-18T14:46:49Z",
-      "description": "Nepřetržitý proud Palestinců prchá na jih, zatímco izraelské tanky podle zpráv postupují dál do největšího městského centra Gazy."
+      "description": "Konstantní proud Palestinců prchá na jih, zatímco izraelské tanky podle zpráv postupují dál do největšího městského centra Gazy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trh dnes: Dow roste po snížení sazeb a datech z trhu práce, Nvidia skáče kvůli podílu v Intelu, Oklo překračuje 100 (živé zpravodajství) - Investor's Business Daily",
-      "original_title": "Stock Market Today: Dow Up After Rate Cut, Jobless Data; Nvidia Jumps On Intel Stake, Oklo Crosses 100 (Live Coverage) - Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-stock-nvda-intel-intc/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/10/stock-wall-street-flags-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-18T14:42:00Z",
-      "description": "Akcie dnes: Index Dow Jones klesal ve čtvrtek po překvapivých týdenních údajích o žádostech o podporu v nezaměstnanosti. Akcie Nvidie poskočily kvůli podílu ve společnosti Intel."
+      "title": "Podezřelý z vraždy 3 policistů v Pensylvánii byl 24letý muž hledaný pro obvinění ze stalkingu",
+      "original_title": "Suspect in killing of 3 Pennsylvania officers was a 24-year-old being sought on stalking charges - PBS",
+      "url": "https://www.pbs.org/newshour/politics/suspect-in-killing-of-3-pennsylvania-officers",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-18T013841Z_1654843155_RC2OTGANCBDT_RTRMADP_3_USA-SHOOTING-PENNSYLVANIA-1024x682.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-18T14:35:04Z",
+      "description": "Obvinění proti Matthew James Ruthovi byla podána ve středu, ve stejný den, kdy se policie vrátila na farmu v venkovské oblasti York County, aby ho našla."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Esej | Proč si Putin nemůže dovolit nechat Ukrajinu prosperovat",
+      "original_title": "Essay | Why Putin Can’t Afford to Let Ukraine Prosper - The Wall Street Journal",
+      "url": "https://www.wsj.com/world/europe/why-putin-cant-afford-to-let-ukraine-prosper-9854e35e",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-18T14:08:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Americká karta Platinum od American Express zdražuje a přidává nové výhody, včetně stravovacího kreditu 400 dolarů",
+      "original_title": "American Express Platinum Card gets pricier and adds new perks, including a $400 dining credit - AP News",
+      "url": "https://apnews.com/article/american-express-platinum-card-sapphire-reserve-credit-cards-79d024a08941a14d6afed5a77621d8d5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dee26d3/2147483647/strip/true/crop/4128x2322+0+215/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fd5%2F90c1da9dfa7490b90ffcf9a8f529%2Fe19949184de7418b856c5f209840a18d",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-18T13:58:00Z",
+      "description": "Nejnovější aktualizace prémiové karty Platinum od American Express přináší více výhod a roční poplatek 895 dolarů"
     },
     {
       "flag": "🌍",
@@ -76,7 +175,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/7c618d87-c264-4f2c-8bdd-212af906b197/wirestory_bfee7282cf40a8808dad174c43f803ab_16x9.jpg?w=1600",
       "source": "ABC News",
       "publishedAt": "2025-09-18T13:06:22Z",
-      "description": "Zásobovací loď dorazila k Mezinárodní vesmírné stanici po dni zpoždění kvůli předčasnému vypnutí motoru"
+      "description": "Zásobovací loď dorazila k Mezinárodní vesmírné stanici s denním zpožděním kvůli předčasnému vypnutí motoru"
     },
     {
       "flag": "🌍",
@@ -87,18 +186,18 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Photo-credit-Ricardo-Gomes.jpeg?w=1000&h=563&crop=1",
       "source": "Variety",
       "publishedAt": "2025-09-18T12:59:00Z",
-      "description": "Madonna se vrací na taneční parket s novým tanečním singlem, podepsala novou smlouvu s Warner Records."
+      "description": "Madonna se vrací na taneční parket s novým tanečním singlem, když znovu podepisuje smlouvu s Warner Records."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kdo byla Celeste Rivas, pohřešovaná dospívající dívka nalezená mrtvá v Tesle zpěváka d4vda?",
-      "original_title": "Who was Celeste Rivas, the missing teen found dead in singer d4vd’s Tesla? - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/18/who-was-celeste-rivas-the-missing-teen-found-dead-in-singer-d4vds-tesla",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/afp_68cbe1ee8e64-1758192110.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-18T12:28:18Z",
-      "description": "LAPD identifikovalo tělo dívky v autě zpěváka Romantic Homicide d4vd. Ztratila se v roce 2024 ve věku 13 let."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Co víme o americkém hnutí antifa, které chce Trump zakázat",
+      "original_title": "What we know about the US antifa movement which Trump says he wants to ban - BBC",
+      "url": "https://www.bbc.com/news/live/cvgje507pn2t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b60/live/f0f6cdc0-947b-11f0-9cf6-cbf3e73ce2b9.png",
+      "source": "BBC News",
+      "publishedAt": "2025-09-18T12:33:45Z",
+      "description": "Nejnovější aktualizace od specialistů BBC na ověřování faktů, kontrolu videí a boj proti dezinformacím."
     },
     {
       "flag": "🇬🇧",
@@ -109,40 +208,7 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11aa/live/fd922290-942c-11f0-a173-75b0baa9f7ee.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-18T12:25:49Z",
-      "description": "Událost přichází v době, kdy Meta čelí neustálému dohledu nad dopadem svých produktů, zejména na děti."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Sluchátka Nothing Ear (3) oficiálně představena s „Super Mic“ a novým zvukovým profilem za 179 dolarů",
-      "original_title": "Nothing Ear (3) officially launches with ‘Super Mic’ and new sound profile for $179 - 9to5Google",
-      "url": "http://9to5google.com/2025/09/18/nothing-ear-3-price-super-mic-feature/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/nothing-ear-3-colors-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-18T12:00:00Z",
-      "description": "Nové sluchátko Nothing Ear (3) vychází s aktualizovaným hardwarem a novou funkcí „Super Mic“ za vyšší cenu 179 dolarů."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Android 16 nyní vytváří silnější expresivní první dojem s Material 3 v nejnovější betaverzi QPR",
-      "original_title": "Android 16 now makes a stronger Material 3 Expressive first impression with latest QPR beta - Android Authority",
-      "url": "https://www.androidauthority.com/android-16-qpr2-beta-2-setup-wizard-material-3-expressive-refresh-3598892/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/11/Android-16-logo-on-smartphone-05.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-09-18T11:42:26Z",
-      "description": "Android 16 QPR2 Beta 2 přináší nový expresivní design Material 3 do průvodce nastavením, což je vylepšení, které si většina uživatelů pravděpodobně nevšimne."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Amex zvyšuje poplatek za Platinum kartu na 895 dolarů a přidává výhody od Resy a Lululemon",
-      "original_title": "Amex Boosts Platinum Fee to $895, Adds Resy and Lululemon Perks - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-18/amex-boosts-platinum-fee-to-895-adds-resy-and-lululemon-perks",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSlYaF6jRBRg/v1/1200x777.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-18T11:00:00Z",
-      "description": "Společnost American Express zvyšuje roční poplatek za Platinum kreditní kartu na 895 dolarů a přidává nové výhody za 1500 dolarů"
+      "description": "Událost přichází v době, kdy Meta čelí neustálému dohledu kvůli dopadu svých produktů, zejména na děti."
     },
     {
       "flag": "🌍",
@@ -156,103 +222,26 @@
       "description": "Vědci v Mongolsku objevili nejstarší a nejkompletnější fosilii pachycefalosaura, skupiny dinosaurů známých pro své kopulovité lebky, uvádí nová studie zveřejněná ve středu v časopise Nature."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Co víme o střelci, který podle zpráv postřelil pět policistů v York County",
-      "original_title": "What we know about the shooter who reportedly shot five police officers in York County - fox43.com",
-      "url": "https://www.fox43.com/article/news/local/york-county/what-we-know-about-shooter-who-reportedly-shot-five-police-officers-in-york-county/521-188e2f42-82ec-4ae6-896b-b41ae8b7f124",
-      "urlToImage": "https://media.tegna-media.com/assets/WPMT/images/bf409c6d-3356-444d-ba01-cb9831f7a286/20250918T132422/bf409c6d-3356-444d-ba01-cb9831f7a286_1140x641.jpg",
-      "source": "FOX43.com",
-      "publishedAt": "2025-09-18T10:28:00Z",
-      "description": "Muž obviněný ze zabití 3 policistů a zranění 2 dalších v Pensylvánii byl údajně bývalý přítel ženy bydlící v domě."
-    },
-    {
       "flag": "🌍",
       "country": "global",
-      "title": "Co rozhodne o dalším směru hypotéčních úrokových sazeb",
-      "original_title": "What Decides Where Mortgage Rates Go From Here - The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/housing/what-decides-where-mortgage-rates-go-from-here-b5b09e35",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-18T09:30:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Demokraté ve Sněmovně reprezentantů zuří kvůli hlasování o poctě Charlie Kirkovi: „Jsme naprosto nastraženi“",
-      "original_title": "House Democrats fume about vote to honor Charlie Kirk: \"We're being totally set up\" - Axios",
-      "url": "https://www.axios.com/2025/09/18/charlie-kirk-house-democrats-vote-condemn-honor",
-      "urlToImage": "https://images.axios.com/kCwghIgAjEQKZEdHMzVtDdIwDD8=/0x630:4896x3384/1366x768/2025/09/18/1758162471027.jpeg",
+      "title": "Mediální přeměna v duchu MAGA",
+      "original_title": "Media's MAGA makeover - Axios",
+      "url": "https://www.axios.com/2025/09/18/trump-maga-media-cnn-cbs-ellison-tiktok",
+      "urlToImage": "https://images.axios.com/skcFZ3rcQfSNPOiysn1FKIZNzjA=/0x0:1920x1080/1366x768/2025/09/17/1758140932594.jpg",
       "source": "Axios",
-      "publishedAt": "2025-09-18T09:00:20Z",
-      "description": "Hlasování bylo tématem zběsilých diskusí na uzavřeném zasedání demokratů tento týden."
+      "publishedAt": "2025-09-18T09:02:52Z",
+      "description": "Mediální krajina roku 2016 je k nepoznání."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Starmer zbrojí, než Trump odjede domů",
-      "original_title": "Starmer goes big before Trump goes home - politico.eu",
-      "url": "https://www.politico.eu/article/keir-starmer-donald-trump-go-home/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/17/GettyImages-2235066440-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-18T07:30:00Z",
-      "description": "Po královském přijetí ve Windsoru obdaruje premiér amerického prezidenta dary, když se snaží zajistit politické úspěchy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump označuje Antifu za hlavní teroristickou organizaci",
-      "original_title": "Trump says he's designating antifa as \"a major terrorist organization\" - Axios",
-      "url": "https://www.axios.com/2025/09/18/trump-antifa-terrorist-designation",
-      "urlToImage": "https://images.axios.com/5N-ojHg-Of_q3GtN8rMVjv4ZXzg=/0x0:6000x3375/1366x768/2025/09/18/1758156891380.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-18T02:05:36Z",
-      "description": "Trump řekl, že doporučí, aby „ti, kdo financují Antifu, byli důkladně prošetřeni v souladu s nejvyššími právními standardy“."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Snaha o cenzuru poslankyně Ilhan Omarové za výroky o Charliem Kirkovi neuspěla",
-      "original_title": "Effort to censure Rep. Ilhan Omar over Charlie Kirk comments fails - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/17/effort-censure-rep-ilhan-omar-over-charlie-kirk-comments-fails/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L2VPPNRNJY3UUW646ZLH43IKOE_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-18T01:58:58Z",
-      "description": "Snaha byla součástí kampaně Republikánů, která měla potrestat jednotlivce obviněné z posmrtné pomluvy Kirka."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Fotograf Tyler Stalman recenzuje fotoaparáty iPhonu 17, iPhone Air a iPhonu 17 Pro - 9to5Mac",
-      "original_title": "Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/17/photographer-tyler-stalman-reviews-the-iphone-17-iphone-air-and-iphone-17-pro-cameras/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.56.28.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-17T23:39:00Z",
-      "description": "V novém videu natočeném kompletně na iPhonu 17 Pro se podrobně podíval na fotoaparáty nové řady iPhonů 17. A tohle zjistil."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Demokraté předložili protinávrh, aby odvrátili odstávku, zatímco Sněmovna pokračuje v plánu republikánů",
-      "original_title": "Democrats release counteroffer to avert shutdown while House moves ahead on GOP plan - CBS News",
-      "url": "https://www.cbsnews.com/news/democrats-plan-government-shutdown/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/17/55ee5016-bc30-4c2b-947f-6932eba897c4/thumbnail/1200x630/b39e36e37b096216ff5657b09133816f/gettyimages-2235231472.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-17T23:27:00Z",
-      "description": "Republikáni ve Sněmovně reprezentantů ve středu předložili vlastní plán a postoupili o krok blíže ke schválení rozpočtu bez požadavků demokratů."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "USA investují do Británie 150 miliard liber a slibují tisíce pracovních míst",
-      "original_title": "US to invest £150bn in UK, promising thousands of jobs - BBC",
-      "url": "https://www.bbc.com/news/articles/cx2nllgl3q7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8102/live/3536f7e0-93f9-11f0-8750-ed240c52ff67.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-17T21:30:05Z",
-      "description": "Britská vláda označuje tuto dohodu za největší obchodní transakci svého druhu a očekává, že vytvoří více než 7600 „kvalitních pracovních míst“."
+      "title": "iOS 26 způsobuje masivní výdrž baterie, Apple vysvětluje, proč jsou iPhony po aktualizaci pomalejší a teplejší",
+      "original_title": "iOS 26 Sparks Massive Battery Drain Complaints As Apple Explains Why iPhones Feel Slower And Hotter After The Latest Update - Wccftech",
+      "url": "https://wccftech.com/ios-26-sparks-massive-battery-drain-complaints-as-apple-explains-why-iphones-feel-slower-and-hotter-after-the-latest-update/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/Screenshot-2025-09-15-at-6.08.25-PM-e1757941850808-1.png",
+      "source": "Wccftech",
+      "publishedAt": "2025-09-17T19:00:00Z",
+      "description": "Uživatelé iOS 26 hlásí rychlé vybíjení baterie, lagy a zamrzání aplikací. Apple vysvětluje, proč po velkých aktualizacích klesá výkon."
     },
     {
       "flag": "🇫🇷",
@@ -263,12 +252,12 @@
       "urlToImage": "https://www.cleveland.com/resizer/v2/LNLQ2AYBMBBHVAJY5AOMLMSR7U.jpeg?auth=87431ab64b058cc3eb28772b40f6addb4e0e1030647a7894e8b6840d1da3f58e&width=1280&quality=90",
       "source": "cleveland.com",
       "publishedAt": "2025-09-17T17:24:00Z",
-      "description": "Nové směrnice omezují očkování na osoby nad 65 let a chronicky nemocné, lékárny v Clevelandu však umožňují snadnější přístup než jiné regiony."
+      "description": "Nové směrnice omezují očkování na osoby nad 65 let a chronicky nemocné, lékárny v Clevelandu však umožňují snazší přístup než v jiných regionech."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Missourské „kissing bugs“ šíří velmi vzácnou parazitární nemoc, která tu zůstane, uvádí CDC",
+      "title": "Missourské 'polibkové ploštice' šíří extrémně vzácnou parazitární chorobu, která už tu zůstane, uvádí CDC",
       "original_title": "Missouri's 'kissing bugs' are spreading an incredibly rare parasitic disease that's here to stay, CDC says - KSDK",
       "url": "https://www.ksdk.com/article/news/local/missouri-kissing-bugs-chagas-disease-cdc-incredibly-rare/63-4e7577f6-a015-4a49-bfbd-99b64d2bf4d4",
       "urlToImage": "https://media.ksdk.com/assets/KSDK/images/bd3f9e5f-3daa-4d4a-82a4-8c566352db8b/20250912T154328/bd3f9e5f-3daa-4d4a-82a4-8c566352db8b_1140x641.jpg",
@@ -285,7 +274,7 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bbdk8F5BwKkkRdhLxk9b9Q.png",
       "source": "Live Science",
       "publishedAt": "2025-09-17T15:23:06Z",
-      "description": "The mystery of how related flightless birds ended up so far apart on different continents may have been solved."
+      "description": "Záhada, jak příbuzní nelétaví ptáci skončili tak daleko od sebe na různých kontinentech, možná byla vyřešena."
     }
   ]
 }
