@@ -1,40 +1,20 @@
 {
-  "updated": "2025-09-19T03:36:21.490164",
+  "updated": "2025-09-19T06:37:13.327526",
   "trends": [
     {
       "rank": 1,
-      "query": "newcastle – barcelona",
-      "news_title": "Barcelona porazila Newcastle 2:1 díky brilantnímu Rashfordovi",
-      "news_url": "https://www.bbc.com/sport/football/live/cm2zxd3182rt",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2WqGW9Q5j4GZ2ipXu2GkYnl3VC3Akme4x8sImE5Cgw7PsVf5RNFqXtDJiorI",
-      "traffic": "5000++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=newcastle – barcelona&geo=CZ"
+      "query": "tomas garrigue masaryk",
+      "news_title": "Češi napjatí: Archiv otevře po 20 letech tajemnou obálku",
+      "news_url": "https://www.cnn.com/2025/09/17/europe/tgm-letter-czech-republic-scli-intl",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiqjBbRqWeGR5D6PVJJhamfFyuwKbIfNk0WaGE8aOfHwVz3H5-VIMqBUAa2fk",
+      "traffic": "500++ hledání",
+      "source": "CNN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tomas garrigue masaryk&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "man city – neapol",
-      "news_title": "Manchester City - Neapol 2:0, Liga mistrů",
-      "news_url": "https://www.idnes.cz/fotbal/online-manchester-city-fc-neapol.BU529989",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMm5TyW2NNO9TTT1mAY9jJQvyGu6pSpuAixCn4SuUAjpVSvdlKck55tT3y9Q",
-      "traffic": "2000++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=man city – neapol&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "barcelona",
-      "news_title": "Newcastle 1-2 Barcelona: výsledek a goly Champions League",
-      "news_url": "https://as.com/futbol/champions/newcastle-barcelona-en-directo-ultima-hora-de-la-fase-liga-de-la-champions-league-hoy-en-vivo-n/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnLmmcMl24SPszVQNmYCW0hv2TXjjL2G-9PE5oOJgKux84VFIiwKkVXpLpfig",
-      "traffic": "1000++ hledání",
-      "source": "Diario AS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=barcelona&geo=CZ"
-    },
-    {
-      "rank": 4,
       "query": "eintracht – galatasaray",
-      "news_title": "Galatasaray oznámil tři změny v sestavě",
+      "news_title": "Galatasaray'da 3 değişiklik",
       "news_url": "https://www.fanatik.com.tr/galatasaray/galatasarayda-3-degisiklik-2594759",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkfr_vGdGzQjC9_ieqVnkX4AO1bAXYRTHvSCtAoB4C47JOXX5A6nmOeXsW6Pg",
       "traffic": "500++ hledání",
@@ -42,44 +22,64 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=eintracht – galatasaray&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "cameron diaz",
-      "news_title": "Julia Roberts potvrdila jednání o pokračování filmu 'Má nejlepší svatba'",
-      "news_url": "https://variety.com/2025/film/news/julia-roberts-my-best-friends-wedding-sequel-talks-confirmed-1236521964/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRylJDQ2hFj7svaU6xltvCRd1mkBhBmIru_Xb4A1oFO_cxE3lKQbKOldYxvvk",
+      "rank": 3,
+      "query": "radiožurnál",
+      "news_title": "Emisní cíle vyžadují kompromis všech zemí, říká Nerudová",
+      "news_url": "https://www.irozhlas.cz/zpravy-svet/evropska-komise-slibuje-vzdusne-zamky-emisni-cile-vyzaduji-kompromis-vsech-zemi_2509181927_jho",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbnSiVfn00Y9N3VskxrD-id-Av9Eds2FWlEyLXI5rTqPiyf6ls3C0thXBp50Y",
       "traffic": "200++ hledání",
-      "source": "Variety",
-      "explore_url": "https://trends.google.cz/trends/explore?q=cameron diaz&geo=CZ"
+      "source": "iROZHLAS",
+      "explore_url": "https://trends.google.cz/trends/explore?q=radiožurnál&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "spolu",
+      "news_title": "Kupka: Mrzí mě, že neumíme lidem ukázat, že se společnosti daří",
+      "news_url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-stojim-pevne-za-petrem-fialou-jde-nam-o-smerovani-zeme-rika-kupka-286329",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmvcbvdZcX4Jx8Jl0B46rYufd5hvIjpZ-rW_NXPxLsmxjJ0ntOaZ3RpZLXG40",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=spolu&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "barcelona vs newcastle",
+      "news_title": "Haaland nejrychleji v historii dosáhl na 50 gólů v Lize mistrů",
+      "news_url": "https://www.espn.com.sg/soccer/story/_/id/46305779/man-city-erling-haaland-record-50-champions-league-goals",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnZTm8i6CxR6hq33Q4ONTmC5rPyTnnRB9ZMVi7nmjZVeTBM0bX4diio18gO10",
+      "traffic": "200++ hledání",
+      "source": "ESPN Singapore",
+      "explore_url": "https://trends.google.cz/trends/explore?q=barcelona vs newcastle&geo=CZ"
     },
     {
       "rank": 6,
-      "query": "jarmila kratochvílová",
-      "news_title": "Americká hvězda překonala slavný triumf Kratochvílové a má smělý plán.",
-      "news_url": "https://www.sport.cz/clanek/atletika-slavny-triumf-kratochvilove-prekonan-americka-hvezda-ma-ted-smely-plan-5295110",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiYQE7FKnkBUrW8ozEKoElTT-LkrwutL8Ys_2YBhcmTABT3CjIN1bbbRpPb-w",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=jarmila kratochvílová&geo=CZ"
+      "query": "irozhlas",
+      "news_title": "Šéf BIS Koudelka vyhodil důstojníka kvůli lživým odpovědím. Kauzou se zabýval Ústavní soud.",
+      "news_url": "https://www.irozhlas.cz/zpravy-domov/sef-bis-koudelka-vyhodil-dustojnika-ktery-neprosel-detektorem-lzi-do-kauzy-ted_2509190500_hrk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2I71q-StNi8n5LOUKgsPK4n1J7SdzsPMDnK3gm9zCMJLMwsDy-6RjB9Yeg7s",
+      "traffic": "100++ hledání",
+      "source": "iROZHLAS",
+      "explore_url": "https://trends.google.cz/trends/explore?q=irozhlas&geo=CZ"
     },
     {
       "rank": 7,
-      "query": "masaryk dopis",
-      "news_title": "Nejdůležitější ženy v Masarykově životě a jejich vliv",
-      "news_url": "https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-nejdulezitejsi-zeny-v-zivote-prezidenta-masaryka-ktera-ho-ovlivnila-nejvic-100398",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt51ys9kfG0Ay_C1jgL9COZRI7ntO4-uu-wzkeNopeA900UO5nYRbo--VS_I8",
-      "traffic": "200++ hledání",
-      "source": "Proženy.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=masaryk dopis&geo=CZ"
+      "query": "český rozhlas",
+      "news_title": "Český rozhlas letos čeká z navýšení poplatků 197 milionů korun navíc",
+      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-cesky-rozhlas-letos-z-navyseni-poplatku-ocekava-do-rozpoctu-197-milionu-navic-286271",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSyDrXs-pPOpO50O2b0My8o8OC_yuypgBCUnprJPAdOqPtd5D9-3foFXB2K7M",
+      "traffic": "100++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=český rozhlas&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "studentské volby 2025",
-      "news_title": "Studentské volby vyhrálo Spolu, ANO až páté. Babiš mladé neoslovil.",
-      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-studentske-volby-vyhrala-tesne-koalice-spolu-mezi-mladymi-propadlo-ano-i-spd-286393",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2O9ZPN5N9i0wlClFHwyfSAVtOxU-Jr742vcYfpvZvOCvYdH36eMzk_vcYtWc",
-      "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=studentské volby 2025&geo=CZ"
+      "query": "drake",
+      "news_title": "LeBron James o důchodu, Drakovi a víc v rozhovoru",
+      "news_url": "https://www.espn.com/nba/story/_/id/46305892/lebron-james-speedy-morman-360-speedy-interview",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTke8iDCiYb0KNMSrkDS2k3Tfpo9i1PdPpZCo4eEYKB36xJ3tEXBOB6AGqXP7Y",
+      "traffic": "100++ hledání",
+      "source": "ESPN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=drake&geo=CZ"
     }
   ]
 }
