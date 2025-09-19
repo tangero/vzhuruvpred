@@ -1,40 +1,60 @@
 {
-  "updated": "2025-09-19T15:26:20.209424",
+  "updated": "2025-09-19T18:34:54.962915",
   "trends": [
     {
       "rank": 1,
       "query": "andrea železná",
-      "news_title": "Oštěpařky bez šance, Slovensko má bronz",
-      "news_url": "https://www.sport.cz/clanek/atletika-zelezna-se-sicakovou-zabojuji-o-svetove-osteparske-finale-5295238",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvAVOKjkRZobzeswymEYsU-UXNYNm-IG029nrluIrqwMxPGRX0qk_iHtN4hI",
-      "traffic": "1000++ hledání",
+      "news_title": "České oštěpařky přiznaly průšvih, Sičaková litovala parťačku",
+      "news_url": "https://www.sport.cz/clanek/atletika-prusvih-neomluvitelne-priznaly-ceske-osteparky-sicakova-litovala-hvezdnou-partacku-5295548",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaqZbbwYfgzl2NA5BvfnbIkgBPYtB-OElXudaBDg2W5mrMwdn-fNsbQ7hEbUo",
+      "traffic": "2000++ hledání",
       "source": "Sport.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=andrea železná&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "ct",
-      "news_title": "ČT může v příštích 5 letech přidat maximálně jeden program",
-      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ct-bude-v-pristich-peti-letech-moci-pridat-nejvyse-jeden-program-286508",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3JS5gJ05A3PyaWvvkDqm0kg-c3I6uiXaKL6k-TyOGweIFFGQhWUuhMQJrYOc",
-      "traffic": "1000++ hledání",
+      "query": "kfc",
+      "news_title": "KFC v Liberci dostalo pokutu za prošlé maso",
+      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-inspekce-na-popud-novinare-zkontrolovala-kfc-v-liberci-padla-pokuta-286514",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKBHVG7WCezjWhMgYgiTi92ax2uuohBbtG1seZYOeu49S8HSlJgMfjHMEP5PU",
+      "traffic": "500++ hledání",
       "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ct&geo=CZ"
+      "explore_url": "https://trends.google.cz/trends/explore?q=kfc&geo=CZ"
     },
     {
       "rank": 3,
-      "query": "zdeněk vocásek",
-      "news_title": "Nejdéle vězněný vrah se po propuštění neobejde bez asistence",
-      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-bez-asistence-netrefi-ani-na-zastavku-nejdele-vezneneho-vraha-ceka-sok-286522",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqlPLbhdzCHEhAJGo1Ub563LSILo-2vUgjEJUB7jf8xAYECMCfyeeA-93LDaI",
-      "traffic": "1000++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk vocásek&geo=CZ"
+      "query": "estonsko",
+      "news_title": "Estonsko aktivovalo článek 4 NATO",
+      "news_url": "https://www.novinky.cz/clanek/valka-na-ukrajine-estonsko-aktivovalo-clanek-ctyri-40539798",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz4dLDeFGo1Dmnq3HRi3CKM7IBgaBFOxG_xqoRy98QJZAGlQ9WbruJqg4q5nI",
+      "traffic": "500++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=estonsko&geo=CZ"
     },
     {
       "rank": 4,
+      "query": "melnicke vinobrani",
+      "news_title": "Mělnické vinobraní začalo: kolik letos stojí jídlo a pití",
+      "news_url": "https://melnicky.denik.cz/zpravy_region/melnik-vinobrani-obcerstveni-jidlo-piti.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIJXz0VVmay_jQHInEHv0LRCnusSM1TcI1k7bn2YYCXWBAhJht4xR2-tbXxEo",
+      "traffic": "500++ hledání",
+      "source": "Mělnický deník",
+      "explore_url": "https://trends.google.cz/trends/explore?q=melnicke vinobrani&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "miroslav hanuš",
+      "news_title": "Marek Lambora žije s Jindřiškou, dcerou herce z Ulice",
+      "news_url": "https://medium.seznam.cz/clanek/talkie-s-kym-zije-marek-lambora-nova-laska-jindriska-je-dcerou-herce-z-ulice-hrala-i-v-policii-modrava-189545",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD1_zT7WZo6Enc7PYCb1EpFKrLT3NNQKPoNaHv3YLTxiZmBTDPUSbkdhJMcr0",
+      "traffic": "500++ hledání",
+      "source": "Médium.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=miroslav hanuš&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "jan železný",
-      "news_title": "Železný: Nikdy se nemá nic vzdávat. Syn by byl v Tokiu nešťastný",
+      "news_title": "Nikdy se nemá nic vzdávat, říká Železný o manželce. Syn by byl v Tokiu nešťastný",
       "news_url": "https://www.sport.cz/clanek/atletika-nikdy-se-nema-nic-vzdavat-rika-zelezny-o-manzelce-syn-by-byl-v-tokiu-nestastny-5292813",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA0ZE7JeCUTqcg1ikhlF122Z5AiSR32YEGeXWl5wN0NCvxpIL02Zw1mxTf9Fk",
       "traffic": "500++ hledání",
@@ -42,44 +62,24 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jan železný&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "ct 24",
-      "news_title": "Tři ruské migy nad Estonskem",
-      "news_url": "https://www.novinky.cz/clanek/valka-na-ukrajine-tri-ruske-migy-nad-estonskem-40539777",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeN8wf-NA0DwvbBpKovQgmAt6VFDSufGLIaLkz1aoQ4303YdOsl1JjMCeyzlk",
-      "traffic": "500++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ct 24&geo=CZ"
-    },
-    {
-      "rank": 6,
-      "query": "čt24",
-      "news_title": "Ukrajinský dron zničil obří ruský teleskop",
-      "news_url": "https://ct24.ceskatelevize.cz/clanek/veda/ukrajinsky-dron-znicil-obri-rusky-teleskop-365219",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNGntvXnSL_afUsyPrtEui0owDooBV4dOJhWb_uoAFrHe9EV-0dkEojJoNl6Q",
-      "traffic": "500++ hledání",
-      "source": "ČT24",
-      "explore_url": "https://trends.google.cz/trends/explore?q=čt24&geo=CZ"
-    },
-    {
       "rank": 7,
-      "query": "miroslav hanuš",
-      "news_title": "Marek Lambora žije s Jindřiškou, dcerou herce z Ulice",
-      "news_url": "https://medium.seznam.cz/clanek/talkie-s-kym-zije-marek-lambora-nova-laska-jindriska-je-dcerou-herce-z-ulice-hrala-i-v-policii-modrava-189545",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD1_zT7WZo6Enc7PYCb1EpFKrLT3NNQKPoNaHv3YLTxiZmBTDPUSbkdhJMcr0",
+      "query": "lyon – angers",
+      "news_title": "OL: Morton a Descamps mají v pátek ranní trénink",
+      "news_url": "https://www.olympique-et-lyonnais.com/ol-seance-matinale-pour-morton-et-descamps-ce-vendredi,380678.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrKKk2TxJKUh9-wagBpi5lc2NNO7sYrGslwLXUU4Be7ZDjH6zhO6ZzySXW6E",
       "traffic": "200++ hledání",
-      "source": "Médium.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=miroslav hanuš&geo=CZ"
+      "source": "Olympique & Lyonnais",
+      "explore_url": "https://trends.google.cz/trends/explore?q=lyon – angers&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "cro",
-      "news_title": "S Ondřejem Suchým v Tobogánu (ČRo i žití). Svět Tomáše Koloce",
-      "news_url": "https://www.krajskelisty.cz/kultura/33876-s-ondrejem-suchym-v-toboganu-cro-i-ziti-svet-tomase-koloce.htm",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq5oNnsv-TbA0S73g1ToOBwx3os-vHtGZ1KJZcUmeQq65bkg-OTAeRmgFbDW8",
+      "query": "o2 arena",
+      "news_title": "Hanuščinová s klisnou vystoupí v O2 areně",
+      "news_url": "https://www.sport.cz/clanek/ostatni-zlata-vstupenka-pro-hanuscinovou-se-svou-klisnou-se-predstavi-v-o2-arene-5295275",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxRAVZlie8CcUpoGeTCv4o-JGXC3G8eNIpihNK65EgTMG45EudNX61ECxj9d8",
       "traffic": "200++ hledání",
-      "source": "Krajské listy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=cro&geo=CZ"
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=o2 arena&geo=CZ"
     }
   ]
 }
