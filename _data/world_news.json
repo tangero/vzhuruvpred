@@ -1,27 +1,82 @@
 {
-  "last_updated": "2025-09-20T20:17:04",
+  "last_updated": "2025-09-20T21:13:55",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dow a S&P 500 uzavřely na nových maximech, za týden výrazně posílily po snížení sazeb Fedem: Živé aktualizace",
+      "title": "Senát zamítl zákony obou stran, které měly odvrátit odstávku, další kroky jsou nejisté",
+      "original_title": "Senate rejects both parties' bills to avoid a shutdown, leaving next steps uncertain - NBC News",
+      "url": "https://www.nbcnews.com/politics/congress/house-passes-gop-bill-avert-shutdown-senate-likely-reject-rcna232242",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250915-capitol-building-se-144p-6138e5.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-19T22:27:38Z",
+      "description": "Republikány ovládaná Sněmovna reprezentantů schválila návrh zákona, který má odvrátit zastavení činnosti vlády, a postoupila jej Senátu, který jej má před zářijovým termínem zamítnout."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Harvard získal federální granty ve výši 46 milionů dolarů, čímž skončilo čtyřměsíční zmrazení financí",
+      "original_title": "Harvard Receives $46 Million in Federal Grants, Ending 4-Month Freeze - The Harvard Crimson",
+      "url": "https://www.thecrimson.com/article/2025/9/20/harvard-grants-return/",
+      "urlToImage": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2025/09/19/181743_1380363.jpg.2000x1333_q95_crop-smart_upscale.jpg",
+      "source": "Harvard Crimson",
+      "publishedAt": "2025-09-19T21:47:19Z",
+      "description": "Miliony dolarů z federálních grantů od Národních ústavů zdraví začaly v pátek proudit na Harvard, první grantové peníze vrácené univerzitě od zrušení rozsáhlého zmrazení financí Trumpovy administra..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ted Cruz: MAGA „bude litovat“, co provedlo Jimmymu Kimmelovi",
+      "original_title": "Ted Cruz: MAGA \"will regret\" what it did to Jimmy Kimmel - Axios",
+      "url": "https://www.axios.com/2025/09/19/ted-cruz-jimmy-kimmel-fcc-brendan-carr",
+      "urlToImage": "https://images.axios.com/HyVKUSZznkLmxlgnw5s9zAIqm-I=/0x228:3000x1916/1366x768/2025/09/19/1758309050982.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-19T21:00:14Z",
+      "description": "To je jako z filmu Goodfellas."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump a Si požehnali dlouho očekávané dohodě o oddělení amerického TikToku",
+      "original_title": "Trump and Xi bless long-awaited deal to spin off U.S. TikTok - The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2025/09/19/tiktok-sale-us-trump-china/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D6WE5ZAP7LYPZRM37MVOK6G4DU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-19T20:55:35Z",
+      "description": "Americká verze oblíbené aplikace bude částečně vlastněna konsorciem investorů napojených na Trumpa, uvedli lidé obeznámení s dohodou, která tak obchází zákonem nařízený zákaz, jenž prezident opakov..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Těla nalezená v Tesle zpěváka D4vda jsou identifikována jako pohřešovaný teenager",
+      "original_title": "Body Discovered Inside Singer D4vd’s Tesla Identified as Teen Missing for Over a Year - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/news/general-news/d4vd-tesla-body-discovered-celeste-rivas-1236376153/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/241121_d4vd_Withering0057-Edit_R-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-19T20:26:15Z",
+      "description": "Celeste Rivasová byla pohřešována téměř 18 měsíců, než byly její ostatky 8. září nalezeny v Hollywood Tow. Od identifikace ostatků je zpěvaččino turné zrušeno."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dow a S&P 500 uzavřely na nových rekordech, za týden výrazně posílily po snížení sazeb Fedu: Živé aktualizace",
       "original_title": "Dow, S&P 500 close at fresh records, log big gains for the week after Fed rate cut: Live updates - CNBC",
       "url": "https://www.cnbc.com/2025/09/18/stock-market-today-live-updates.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189903-17558955762025-08-22t203935z_2146127310_rc2jcgak3q81_rtrmadp_0_usa-stocks.jpeg?v=1756135424&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-09-19T20:14:00Z",
-      "description": "Akcie v pátek posílily po vítězné seanci, která poslala indexy k novým rekordům, poté co se v myslích investorů usadilo rozhodnutí Fedu snížit úrokové sazby."
+      "description": "Akcie v pátek posílily po vítězném zasedání, které poslalo indexy na nová maxima, poté co se v myslích investorů usadilo rozhodnutí Fedu snížit úrokové sazby."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Poradci CDC odhlasovali nová pravidla pro vakcíny proti covidu, která mohou odradit od očkování",
-      "original_title": "CDC advisers vote to add new COVID vaccines rules that could discourage uptake - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545946/cdc-covid-vaccine-acip-recommendations",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F9e%2F9ae34f094b61b335280f58507ebf%2Fgettyimages-2235563712.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-19T20:05:47Z",
-      "description": "Skupina odhlasovala povinné informování o přínosech a rizicích vakcíny proti covidu, ale těsným výsledkem nepřijala změnu vyžadující předpis."
+      "title": "Atlanta Falcons propustili Younghoe Koo",
+      "original_title": "Atlanta Falcons release Younghoe Koo - Atlanta Falcons",
+      "url": "https://www.atlantafalcons.com/news/younghoe-koo-released-parker-romo-signed",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/rl2pmquvmk73gdoi52yv",
+      "source": "AtlantaFalcons.com",
+      "publishedAt": "2025-09-19T20:03:38Z",
+      "description": "Organizace podepsala Parkera Roma do aktivního kádru 53 hráčů."
     },
     {
       "flag": "🌍",
@@ -32,51 +87,29 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/16/ae108847-7e12-4710-9470-f32fef2db934/thumbnail/1200x630/a47b0f074e03c63a3246a297a6675db8/cbsn-fusion-trump-heads-to-u-k-for-second-state-visit-thumbnail.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-19T19:21:00Z",
-      "description": "Trumpova administrativa se zaměřuje na víza hojně využívaná technologickými firmami a dalšími zaměstnavateli k najímání zahraničních pracovníků."
+      "description": "Trumpova administrativa se zaměřuje na vízum hojně využívané technologickými firmami a dalšími zaměstnavateli při najímání zahraničních pracovníků."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sněmovna schválila rezoluci Charlie Kirka s dvoustrannou podporou",
-      "original_title": "House approves Charlie Kirk resolution on bipartisan vote - Politico",
-      "url": "https://www.politico.com/live-updates/2025/09/19/congress/house-approves-kirk-resolution-00572967",
-      "urlToImage": "https://www.politico.com/dims4/default/e6c458a/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd0%2Fd3%2Fe671df6b463db5e4b2f522f15131%2Fu-s-congress-43470.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-19T18:52:12Z",
-      "description": "Návrh rozdělil demokraty, z nichž mnozí podpořili alternativní návrh odsuzující veškeré politické násilí."
+      "title": "Federální soudce na Floridě zamítl Trumpovu 15miliardovou žalobu za pomluvu proti The New York Times",
+      "original_title": "Florida federal judge tosses Trump’s $15B defamation lawsuit against The New York Times - AP News",
+      "url": "https://apnews.com/article/trump-lawsuit-new-york-times-3141806904f4f70e9a986b787599c6a8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/43bfc6b/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2Fb8%2Ffb4679646224ab82b3d5583a1e22%2F7f876ff3096549ea8992b85ccdbc1fba",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-19T18:53:00Z",
+      "description": "Floridský federální soudce zamítl žalobu Donalda Trumpa na 15 miliard dolarů proti The New York Times"
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump chce propustit prokurátora, který neobžaloval jeho politickou sokyni Letitii Jamesovou z hypotéčního podvodu",
-      "original_title": "Trump intends to fire US attorney who didn’t charge political enemy Letitia James with mortgage fraud - CNN",
-      "url": "https://www.cnn.com/2025/09/19/politics/trump-letitia-james-fire-us-attorney",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25086510036421.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-19T18:38:03Z",
-      "description": "Prezident Donald Trump chce odvolat amerického prokurátora Erika Sieberta, který byl pod tlakem, aby obvinil newyorskou ministryni spravedlnosti Letitii Jamesovou z hypotéčního podvodu, uvedla CNN ..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "ICE použila chemické látky proti protestujícím v Broadview: Aktuální zpravodajství - Chicago Sun",
-      "original_title": "ICE fires chemical agents at Broadview protest: Live updates - Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/live/ice-agent-broadview-facility-protest-today",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/a8f4a91/2147483647/strip/true/crop/3717x2122+0+178/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F01%2F566f16ab4d4ebfc2b5618b5847f5%2Fice-092025-22.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2025-09-19T18:22:30Z",
-      "description": "Nejméně dva lidé byli zatčeni po zásahu agentů ICE a pohraniční stráže proti demonstrantům. Podle protestujících neviděli zatčené od doby, co je odvezli do procesního střediska Broadview."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Prezident Texas A&M rezignoval po propuštění instruktora kvůli výuce o genderu",
-      "original_title": "Texas A&M president resigns after instructor’s firing over gender teachings - The Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2025/09/18/texasam-president-resign-mark-welsh-gender/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/256435FIKP7QP2DO4P4Z4RN4UA_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-19T18:13:09Z",
-      "description": "Prezident Mark A. Welsh III rezignuje poté, co video se studentem obviňujícím instruktora z nelegální výuky „genderové ideologie“ vedlo k jeho propuštění."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Fanoušci Taylor Swift zaplavili aplikaci AMC kvůli nákupu vstupenek na film 'Showgirl",
+      "original_title": "Taylor Swift Fans Flood AMC App From Buying 'Showgirl' Release Tickets - Variety",
+      "url": "https://variety.com/2025/music/news/taylor-swift-fans-amc-app-showgirl-tickets-1236524461/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2197311646.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-19T18:30:00Z",
+      "description": "Swifties zaplavili v pátek aplikaci AMC Theatres ve snaze koupit lístky na 'Taylor Swift: Oficiální afterparty showmanka'."
     },
     {
       "flag": "🇬🇧",
@@ -90,81 +123,81 @@
       "description": "Estonsko uvedlo, že tři ruské stíhačky MiG-31 zůstaly v jeho vzdušném prostoru 12 minut."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Vše, co potřebujete vědět o nemoci zvané „líbací štěnice“ v USA",
-      "original_title": "Everything you need to know about ‘kissing bug’ disease in the US - CNN",
-      "url": "https://www.cnn.com/2025/09/19/health/video/gupta-kissing-bug-chagas-endemic-us-digvid",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sanjay-still.png?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-19T17:29:13Z",
-      "description": "Experti varují: „Líbací“ brouci jsou nyní endemičtí v USA a šíří nemoc Chagas. Dr. Sanjay Gupta z CNN vysvětluje, jak se nemoc diagnostikuje a léčí."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trumpův mediální hlídač si užívá svou chvilku slávy u Jimmyho Kimmela",
-      "original_title": "Trump’s media enforcer is relishing his Jimmy Kimmel moment - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/19/trumps-media-enforcer-is-relishing-his-jimmy-kimmel-moment/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EHQWSPMK5FFXHR6QDANJ7FXEJA.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-19T17:00:26Z",
-      "description": "Brendan Carr ztělesňuje prezidentovu křížovou výpravu proti mainstreamovým médiím a teprve začíná."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Domovská obrazovka Google TV se konečně dočká dlouho očekávané aktualizace",
+      "original_title": "Your Google TV home screen might finally be about to get a long-overdue refresh - Android Authority",
+      "url": "https://www.androidauthority.com/google-tv-home-screen-redesign-testing-3599399/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/01/Google-TV-logo-at-CES-2025-Stock-photo-2.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-09-19T17:36:22Z",
+      "description": "Přepracovaná domovská obrazovka Google TV je zřejmě v testování, nabízí nové ovládání a upravené nabídky profilů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Technický ředitel Meta vysvětluje, proč selhaly ukázky chytrých brýlí na Meta Connect — a nebylo to kvůli Wi-Fi",
+      "title": "Jak tajný záznam přednášky o genderové identitě rozvrátil Texas A&M",
+      "original_title": "How a secret recording of a gender identity lecture upended Texas A&M - The Texas Tribune",
+      "url": "https://www.texastribune.org/2025/09/19/texas-a-m-welsh-firing-professor-gender-mccoul/",
+      "urlToImage": "https://thumbnails.texastribune.org/PKa5iSS1d3tIJbyfH8GdqumBejc=/1200x630/filters:quality(95):focal(4x0:3200x1678)/static.texastribune.org/media/files/4c4144480d2a063afb3cd56406923911/20250919%20TAMU%20Firing%20AT%2011.jpg",
+      "source": "The Texas Tribune",
+      "publishedAt": "2025-09-19T17:32:32Z",
+      "description": "Úředníci nedokázali podrobně vysvětlit přesné důvody propuštění profesorky z A&M, uvedli technický problém s popisem jejího kurzu. Fakulta tvrdí, že šlo o politicky motivovaný krok."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rada bezpečnosti OSN před lhůtou hlasovala proti zrušení sankcí vůči Íránu",
+      "original_title": "UN Security Council votes against lifting Iran ‘snapback’ sanctions ahead of deadline - AP News",
+      "url": "https://apnews.com/article/iran-snapback-sanctions-nuclear-united-nations-e01bdcaf62c4144ff56731fed8144915",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4bdadd5/2147483647/strip/true/crop/5472x3078+0+141/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2F8b%2Ff0a55a5b033bb1a5ca5e4a451836%2Fbfc1530f312540eaa73a5a112854b011",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-19T17:10:00Z",
+      "description": "Rezoluce Rady bezpečnosti OSN, která měla zabránit opětovnému uvalení sankcí na Írán kvůli jeho jadernému programu, neprošla."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Colin Kaepernick zaplatí nezávislou pitvu studenta Delta State University nalezeného mrtvého v kampusu",
+      "original_title": "Colin Kaepernick to pay for independent autopsy for Delta State University student found dead on campus - localmemphis.com",
+      "url": "https://www.localmemphis.com/article/news/local/colin-kaepernick-to-pay-for-independent-autopsy-for-delta-state-student/522-dd596dca-1988-4e2c-9bdd-4fc525dae31a",
+      "urlToImage": "https://media.tegna-media.com/assets/WXIA/images/d86ee79e-28aa-434e-8fcc-7aa43201e456/20250916T030237/d86ee79e-28aa-434e-8fcc-7aa43201e456_1140x641.jpg",
+      "source": "Localmemphis.com",
+      "publishedAt": "2025-09-19T17:09:00Z",
+      "description": "Právník pro občanská práva Ben Crump to oznámil v pátek 19. září s tím, že rodina Treyho Reeda má vážné obavy."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Věk pro odchod do důchodu by se mohl výrazně zvýšit, Bílý dům zvažuje možnosti",
+      "original_title": "Social Security retirement age could jump as White House considers options - FOX 4 News Dallas-Fort Worth",
+      "url": "https://www.livenowfox.com/news/social-security-retirement-age-possible-jump",
+      "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/09/1280/720/social-security-checks.jpg?ve=1&tl=1",
+      "source": "Livenowfox.com",
+      "publishedAt": "2025-09-19T16:22:15Z",
+      "description": "Šéf správy sociálního zabezpečení řekl, že se „zvažuje vše“, když se ho v rozhovoru ptali na zvýšení důchodového věku."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Technologický ředitel Mety vysvětluje, proč selhaly ukázky chytrých brýlí na Meta Connect — a nebylo to Wi-Fi",
       "original_title": "Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn't the Wi-Fi - TechCrunch",
       "url": "https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173597965.jpg?resize=1200,800",
       "source": "TechCrunch",
       "publishedAt": "2025-09-19T16:04:11Z",
-      "description": "Technický ředitel Meta Andrew Bosworth se vyjádřil k neúspěšným demo ukázkám na konferenci pro vývojáře"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Šéfka EU navrhuje sankce proti ruskému LNG kvůli zvýšení tlaku na Moskvu v souvislosti s válkou na Ukrajině",
-      "original_title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/10/2021-07-20T111526Z_438137596_RC2VKO9OTECQ_RTRMADP_3_RUSSIA-SAKHALIN-LNG.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-19T16:01:58Z",
-      "description": "Předsedkyně Evropské komise Ursula von der Leyenová vyzývá členské státy, aby podpořily nové sankce proti příjmům Ruska z fosilních paliv."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Taylor Swift: Oficiální afterparty showbyznysmenky získá kinopremiéru v říjnu včetně premiéry klipu Fate of Ophelia a komentáře k albu (EXCLUSIVE)",
-      "original_title": "‘Taylor Swift: The Official Release Party of a Showgirl’ to Hit Theaters in October With ‘Fate of Ophelia’ Music Video Premiere and Album Commentary (EXCLUSIVE) - Variety",
-      "url": "https://variety.com/2025/music/news/taylor-swift-film-theaters-october-showgirl-1236524158/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2197381242.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-19T16:00:00Z",
-      "description": "Taylor Swift: Oficiální afterparty showmanka zasáhne velká plátna u příležitosti vydání jejího alba The Life of a Showgirl."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Šéf sociálního zabezpečení za Trumpa říká, že ‚všechno‘ je na stole a důchod se dočká ‚nových pravidel‘",
-      "original_title": "Trump’s social security chief says ‘everything’ is on the table and retirement is about to get a ‘different set of rules’ - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/trump-social-security-chief-says-153358732.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mB5bmMMDNIRI3u8wv_j9TA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/a89240b752825642c25ab310ea914899",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-19T15:33:58Z",
-      "description": "Podle komisaře Bisignana jsou kvůli předpokládanému vyčerpání sociálního zabezpečení do roku 2032 na stole možnosti jako zvýšení důchodového věku"
+      "description": "Technický ředitel Meta Andrew Bosworth vysvětlil neúspěchy z demonstrací na konferenci vývojářů, kde představili nové chytré brýle."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Únik informací o One UI 8.5 ukazuje vizuály inspirované iOS, které přijdou spolu se Samsungem Galaxy S26",
+      "title": "Únik informací o One UI 8.5 ukazuje vizuály inspirované iOS, které přijdou spolu s Galaxy S26",
       "original_title": "One UI 8.5 leak shows off some iOS-inspired visuals coming alongside the Galaxy S26 - 9to5Google",
       "url": "http://9to5google.com/2025/09/19/one-ui-8-5-leak-shows-off-ios-inspired-visuals-coming-alongside-galaxy-s26/",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/One-UI-interface-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
       "publishedAt": "2025-09-19T14:45:00Z",
-      "description": "Nový únik dat odhaluje první pohled na nový vizuální design Samsungu, který se nápadně podobá Apple Liquid Glass."
+      "description": "Nový únik dat ukazuje první pohled na nový vizuální design Samsungu, který se trochu podobá Liquid Glass od Applu."
     },
     {
       "flag": "🌍",
@@ -180,7 +213,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hlavní lékařka státu Dr. Natasha Bagdasarian vydává trvalé doporučení k vakcínám proti COVID-19 - Stát Michigan (.gov)",
+      "title": "Hlavní lékařská ředitelka státu Dr. Natasha Bagdasarianová vydává stálé doporučení k vakcínám proti COVID-19 – stát Michigan (.gov)",
       "original_title": "State’s Chief Medical Executive Dr. Natasha Bagdasarian makes Standing Recommendation on COVID-19 vaccines - State of Michigan (.gov)",
       "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2025/09/19/standing-rec",
       "urlToImage": "https://www.michigan.gov/mdhhs/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=AB633EB32EAC06E3350AD79FEAA67FCD",
@@ -191,40 +224,62 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "OpenAI loví u Applu talenty na hardware a výrobní partnery",
+      "title": "OpenAI přetahuje z Applu talenty pro hardware a výrobní partnery",
       "original_title": "OpenAI Raids Apple for Hardware Talent, Manufacturing Partners - The Information",
       "url": "https://www.theinformation.com/articles/openai-raids-apple-hardware-talent-manufacturing-partners",
       "urlToImage": "https://tii.imgix.net/production/articles/15782/52d00441-5421-46f2-ab1c-e9371b390057.png?fm=jpg&auto=compress&w=1200&frame=0",
       "source": "The Information",
       "publishedAt": "2025-09-19T13:00:00Z",
-      "description": "Jak se plány OpenAI na výrobu zařízení s umělou inteligencí blíží realitě, firma si stále více bere talenty z nejúspěšnějšího výrobce zařízení v Silicon Valley: z Applu."
+      "description": "Jak se plány OpenAI na výrobu zařízení s umělou inteligencí blíží realitě, společnost si stále více přetahuje talenty z nejúspěšnějšího výrobce zařízení v Silicon Valley: z Applu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Marsovské vozítko Curiosity řeší záhadu zajímavého vzorce „boxwork“ na fotografii dne pro 19. září 2025",
-      "original_title": "Curiosity Mars rover puzzles over intriguing 'boxwork' pattern photo of the day for Sept. 19, 2025 - Space",
-      "url": "https://www.space.com/space-exploration/mars-rovers/curiosity-mars-rover-puzzles-over-intriguing-boxwork-pattern-space-photo-of-the-day-for-sept-19-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YReCbKYvBPp4wJ3yYMEmyK.jpg",
+      "title": "Asteroid Apophis boha chaosu mine Zemi v dubnu 2029 — a tyto 3 vesmírné sondy jej budou sledovat",
+      "original_title": "'God of Chaos' asteroid Apophis will fly by Earth in April 2029 — and these 3 space probes will be watching - Space",
+      "url": "https://www.space.com/astronomy/asteroids/god-of-chaos-asteroid-apophis-will-fly-by-earth-in-april-2029-and-these-3-space-probes-will-be-watching",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2YWna38BTfWJyKKPY5mLFL.png",
       "source": "Space.com",
-      "publishedAt": "2025-09-19T12:00:00Z",
-      "description": "Vzorec boxwork, který z vesmíru vypadá jako pavučina, nabízí stopy k vodní minulosti Marsu."
+      "publishedAt": "2025-09-19T13:00:00Z",
+      "description": "Ramses, DESTINY+ a OSIRIS-APEX budou mít z první řady místo k pozorování setkání, pokud vše půjde podle plánu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Historie říká, že si Kansas City Chiefs nemůže dovolit prohrát třetí zápas v řadě",
+      "original_title": "History says the Kansas City Chiefs can’t afford to go 0-3 - Andscape",
+      "url": "https://andscape.com/features/history-says-the-kansas-city-chiefs-cant-afford-to-go-0-3/",
+      "urlToImage": "https://andscape.com/wp-content/uploads/2025/09/GettyImages-2235831908-e1758202130968.jpg",
+      "source": "Andscape.com",
+      "publishedAt": "2025-09-19T12:19:01Z",
+      "description": "KANSAS CITY, Mo. – Při svém netypicky špatném vstupu do sezóny vyprodukovali Kansas City Chiefs některá tristní čísla. Tohle je jedno z těch, která se budou snažit udržet n…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dohoda Intelu a Nvidie může mít dopad na Astera Labs, uvádí Morgan Stanley (ALAB:NASDAQ)",
+      "original_title": "Intel, Nvidia deal may have implications for Astera Labs, Morgan Stanley says (ALAB:NASDAQ) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4496528-intel-nvidia-deal-may-have-implications-for-astera-labs-morgan-stanley-says",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2226824933/image_2226824933.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "publishedAt": "2025-09-19T12:14:44Z",
+      "description": "Dohoda Intelu (INTC) s Nvidií (NVDA) o společném vývoji čipů pro PC a datová centra by mohla mít zásadní dopad na Astera Labs (ALAB), uvedla Morgan Stanley."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Takto vám zatmění Slunce ve znamení Panny může o víkendu rozhodit tělo",
+      "title": "Takto vám nedělní zatmění Slunce ve znamení Panny může rozhodit tělo",
       "original_title": "Here’s how this weekend’s solar eclipse in Virgo can mess with your body - New York Post",
       "url": "https://nypost.com/2025/09/19/astrology/heres-how-the-solar-eclipse-in-virgo-can-mess-with-your-body/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-tvvv3fevq-1758146879587.jpg?quality=75&strip=all&1758132836&w=1024",
       "source": "New York Post",
       "publishedAt": "2025-09-19T11:00:00Z",
-      "description": "Částečné zatmění Slava v Panně dorazí 21. září na karmických 29° — a tato kosmická událost se může odehrávat v našich tělech a skrze ně."
+      "description": "Částečné zatmění Slava v Panně přichází 21. září na karmických 29° — a tato kosmická událost se může odehrávat v našich tělech a skrze ně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Francie po šesti letech od ničivého požáru oficiálně znovuotevřela katedrální věže Notre Dame",
+      "title": "Francie oficiálně znovuotevřela katedrálu Notre Dame 6 let po ničivém požáru",
       "original_title": "France officially reopens Notre Dame's cathedral towers 6 years after devastating fire - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/International/france-officially-reopens-notre-dames-cathedral-towers-6/story?id\\\\u003d125726918",
       "urlToImage": null,
@@ -245,36 +300,25 @@
     },
     {
       "flag": "🌍",
-      "country": "fr",
-      "title": "Nejnovější iPhone, Apple Watch a AirPods dorazily do prodejen Apple Store",
-      "original_title": "The latest iPhone, Apple Watch, and AirPods arrive in Apple Store locations - Apple",
-      "url": "https://www.apple.com/newsroom/2025/09/the-latest-iphone-apple-watch-and-airpods-arrive-in-apple-store-locations/",
-      "urlToImage": "https://www.apple.com/newsroom/images/2025/09/the-latest-iphone-apple-watch-and-airpods-arrive-in-apple-store-locations/tile/Apple-Sydney-customers-holding-iPhone-17-Pro-250919-lp.jpg.og.jpg?202509190505",
-      "source": "Apple Newsroom",
-      "publishedAt": "2025-09-19T02:48:08Z",
-      "description": "V pátek 19. září představil Apple svůj nejnovější sortiment produktů v prodejnách Apple Store po celém světě."
-    },
-    {
-      "flag": "🌍",
       "country": "global",
-      "title": "VIDEO: Raketa SpaceX Falcon 9 byla vidět nad Syrakusami ve čtvrtek ráno",
+      "title": "Sledujte: Raketa SpaceX Falcon 9 byla vidět nad Syracusami ve čtvrtek ráno",
       "original_title": "WATCH: SpaceX Falcon 9 seen over Syracuse Thursday AM - WSYR",
       "url": "https://www.localsyr.com/news/local-news/watch-spacex-falcon-9-seen-over-syracuse-thursday-am/",
       "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/09/Falcon9-Robert-Scales.jpg?w=1280",
       "source": "WSYR",
       "publishedAt": "2025-09-18T14:41:59Z",
-      "description": "SpaceX vypustilo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země, což zachytila kamera Energy Savers’ SkyNET 9 z Rosamond Gifford Zoo v Syracuse."
+      "description": "SpaceX vyslalo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu, což zachytila kamera SkyNET 9 Energy Savers ze zoo Rosamond Gifford v Syracuse."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Největší nákladní loď Northrop Grumman dorazila na ISS při své první misi",
+      "title": "Největší nákladní loď Northrop Grumman dorazila k ISS na své první misi",
       "original_title": "Northrop Grumman's biggest-ever cargo spacecraft arrives at ISS on its debut mission - Space",
       "url": "https://www.space.com/space-exploration/international-space-station/northrop-grumman-biggest-ever-cargo-spacecraft-cygnus-xl-arrives-at-iss",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/SHWHA9Dc7CsQoTzK3Q3kx7.png",
       "source": "Space.com",
       "publishedAt": "2025-09-18T14:16:03Z",
-      "description": "Nový nadměrný nákladní modul Cygnus dopravil na obíhající laboratoř zhruba 11 tisíc liber nákladu."
+      "description": "Nový nadrozměrný Cygnus dnes ráno (18. září) doručil na orbitální laboratoř asi 5000 kilogramů nákladu."
     }
   ]
 }
