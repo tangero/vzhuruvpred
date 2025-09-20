@@ -1,43 +1,76 @@
 {
-  "last_updated": "2025-09-20T06:24:36",
+  "last_updated": "2025-09-20T07:15:32",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Asijské akcie rostou, když globální ukazatel dosahuje nového vrcholu: shrnutí trhů",
+      "original_title": "Asian Stocks Rise as Global Gauge Hits New Peak: Markets Wrap - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-18/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifYrqMknkL40/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-19T07:30:14Z",
+      "description": "Rekordní rally na globálních akciových trzích ztratila dech poté, co rozhodnutí Banky Japonska začít prodávat své masivní fondy obchodované na burze stáhlo asijské akcie níže."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Izraelský útok zhatil Kataru sázku na přátelství se všemi",
+      "original_title": "Israel’s Attack Blew Up Qatar’s Bet on Being Friends With Everyone - The Wall Street Journal",
+      "url": "https://www.wsj.com/world/middle-east/israel-qatar-relationship-hamas-strike-abc40be3",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-19T07:29:00Z",
+      "description": ""
+    },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Střelec, který zabil 3 policisty v Pensylvánii, byl podle úřadů obviněn ze stalkingu bývalé partnerky",
-      "original_title": "Shooter who killed 3 Pa. officers was accused of stalking ex, officials say - The Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2025/09/18/matthew-ruth-york-pennsylvania-shooting/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SBUCXVE3L6VNJ7ATYLAZAOWNJ4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-19T04:20:31Z",
-      "description": "Matthew J. Ruth přepadl strážníky záludně, když přijeli k domu, kde se podle úředních osob a soudních dokumentů díval dalekohledem do oken své bývalé přítelkyně matky."
+      "title": "Podle úřadů byly nalezeny ostatky muže obviněného z vraždy tří dcer, patrně Travise Deckera",
+      "original_title": "Human remains found believed to be Travis Decker, man accused of killing his 3 daughters, officials say - CNN",
+      "url": "https://www.cnn.com/2025/09/19/us/travis-decker-remains-believed-found-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25154773089052.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-19T04:05:44Z",
+      "description": "V Chelanském okrese byly nalezeny lidské pozůstatky, o nichž se předpokládá, že patří Travisi Deckerovi z Washingtonu, který je obviněn z vraždy svých tří dcer, oznámil šerifův úřad."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Otec z Washingtonu obviněný z vraždy tří dcer byl po pátrání dopaden",
-      "original_title": "Washington dad accused of killing 3 daughters is found after manhunt - NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/travis-decker-washington-accused-killing-3-daughters-remains-found-rcna211319",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250603-travis-decker-daughters-se-356p-23c8d2.jpg",
-      "source": "NBC News",
+      "title": "Střelba policie v Pensylvánii: Co se stalo a kdo jsou podezřelý a oběti?",
+      "original_title": "Pennsylvania police shooting: What happened, who are the suspect, victims? - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/18/pennsylvania-shooting-what-happened-what-we-know-about-suspect-victims",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP25261110496369-1758182249.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-19T04:00:55Z",
+      "description": "Tři policisté zabiti, dva v kritickém, ale stabilním stavu. Jeden z nejtragičtějších útoků na americkou policii v poslední době."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Cardi B je zpět a na singlu ‚Am I the Drama?‘ jde po krvi",
+      "original_title": "Cardi B Is Back and Out For Blood on ‘Am I the Drama?’ - Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-album-reviews/cardi-b-am-i-the-drama-review-1235430895/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/cardi-b-album-review.jpg?crop=0px%2C84px%2C1800px%2C1015px&resize=1600%2C900",
+      "source": "Rolling Stone",
       "publishedAt": "2025-09-19T04:00:00Z",
-      "description": "Poblíž Seattlu byly nalezeny ostatky muže podezřelého z vraždy tří dcer, oznámily úřady"
+      "description": "Recenze Cardi B: ‚Am I the Drama?‘ – Superstar je zpět a jde si pro krk"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Poradci CDC poprvé upravili očkování pro děti",
+      "original_title": "CDC advisers make their first childhood vaccine edit - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/18/hepatitis-b-infant-vaccine-recommendation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SX3MYUMK24Z2YBM3ATD56ROW2M.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-19T03:03:00Z",
+      "description": "Výbor poměrem hlasů 8:3 doporučil odložit používání vakcíny proti spalničkám, příušnicím, zarděnkám a planým neštovicím, kterou dostává asi 15 procent dětí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Panel podporovaný RFK Jr. doporučuje proti kombinované vakcíně MMRV pro malé děti",
-      "original_title": "RFK Jr.-Backed Panel Advises Against MMRV Combo Vaccine for Young Children - The Wall Street Journal",
-      "url": "https://www.wsj.com/health/rfk-jr-backed-vaccine-panel-advises-against-mmrv-vaccine-for-young-children-da3de064",
-      "urlToImage": "https://images.wsj.net/im-56291105/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-19T03:15:00Z",
-      "description": "Noví členové klíčového výboru upravili rutinní očkovací doporučení pro děti, zatímco některé státy a pojišťovny si volí vlastní cestu"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump se chystá propustit amerického státního zástupce za odpor vůči snaze obžalovat newyorskou generální prokurátorku Letitii Jamesovou: Zdroje",
+      "title": "Trump se chystá odvolat amerického žalobce za odpor ke snaze obvinit newyorskou generální prokurátorku Letitii Jamesovou: Zdroje",
       "original_title": "Trump poised to fire US attorney for resisting effort to charge NY AG Letitia James: Sources - ABC News",
       "url": "https://abcnews.go.com/US/trump-poised-fire-us-attorney-resisting-effort-charge/story?id\\\\u003d125700904",
       "urlToImage": null,
@@ -46,9 +79,31 @@
       "description": ""
     },
     {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpova administrativa žádá Nejvyšší soud, aby umožnil odvolání členky rady Fedu Lisy Cookové",
+      "original_title": "Trump officials ask Supreme Court to allow firing of Fed governor Lisa Cook - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/18/trump-cook-federal-reserve-interest-rates/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZXFBDNMFD5U4VO6QNNZGMZXKIQ_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-19T02:39:54Z",
+      "description": "Případ je jedním ze tří před nejvyšším soudem, které prověří prezidentovy nároky na rozsáhlou pravomoc nad ekonomikou a federálními výdaji."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Rakovina tlustého střeva: TENTO volně prodejný lék snižuje riziko recidivy kolorektálního karcinomu na polovinu",
+      "original_title": "Colon cancer: THIS common over-the-counter medication slashes risk of colorectal cancer recurrence in hal - Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/colon-cancer-this-common-over-the-counter-medication-slashes-risk-of-colorectal-cancer-recurrence-in-half/articleshow/123988065.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-123988049,width-1070,height-580,imgsize-22276,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "source": "The Times of India",
+      "publishedAt": "2025-09-19T02:21:00Z",
+      "description": "Průlomová studie odhaluje, že denní nízká dávka aspirinu může snížit riziko recidivy kolorektálního karcinomu přibližně o 55 %."
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Zemětřesení o síle 7,8 stupně otřáslo ruským Dálným východem, vyhlášen varování před tsunami",
+      "title": "Zemětřesení o síle 7,8 stupně otřáslo ruským Dálným východem, vyhlášena tsunami výstraha",
       "original_title": "Magnitude 7.8 quake shakes Russia’s Far East region, prompts tsunami alert - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2025/9/19/magnitude-7-8-quake-shakes-russias-far-east-region-prompts-tsunami-alert",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/13230731-1753866666.jpg?resize=1920%2C1440",
@@ -59,24 +114,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Snížení sazeb Fedem připravilo půdu pro další vlnu uvolňování v Asii vzhledem k obchodním tlakům",
-      "original_title": "Fed cut sets stage for Asia’s next easing wave amid trade strains - CNBC",
-      "url": "https://www.cnbc.com/2025/09/19/fed-cut-sets-stage-for-asias-next-easing-wave-amid-trade-strains.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201052-1758243734575-gettyimages-2176833526-AFP_36JL3GP.jpeg?v=1758243794&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-19T01:09:00Z",
-      "description": "Uvolňování Fedu může přimět k dalšímu uvolňování některé asijské země, zejména ty čelící větším domácím protivětřím."
+      "title": "Trump zuřivě útočí na Omara a Somálsko po neúspěšném pokusu Sněmovny o cenzuru",
+      "original_title": "Trump slams Omar and Somalia after House censure fails - The Hill",
+      "url": "https://thehill.com/homenews/administration/5511627-trump-criticizes-somalia-omar/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/09/AP25261356419293.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2025-09-19T00:44:00Z",
+      "description": "Prezident Trump ve čtvrtek tvrdě kritizoval kongresmanku Ilhan Omarovou (za Minnesotu za Demokraty) a Somálsko, den poté, co se ve Sněmovně reprezentantů nezdařilo přijetí rezoluce, která by ji for..."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Chris Mason: Vláda je nadšená a cítí úlevu po státní návštěvě Trumpa",
+      "title": "Chris Mason: Vláda pociťuje potěšení a úlevu po Trumpově státní návštěvě",
       "original_title": "Chris Mason: Delight and relief in government after Trump state visit - BBC",
       "url": "https://www.bbc.com/news/articles/cvgn3445655o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e33b/live/8cb62fd0-94ef-11f0-9cf6-cbf3e73ce2b9.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-19T00:24:23Z",
-      "description": "Trumpovy neshody se sirem Keirem byly nějak vedeny kolem něj, nikoliv na něj, píše politický redaktor BBC."
+      "description": "Trumpovy neshody se sirem Keirem byly nějak směrovány kolem něj, nikoli na něj, píše politický redaktor BBC."
     },
     {
       "flag": "🌍",
@@ -87,29 +142,29 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/8b67547/2147483647/strip/true/crop/3960x2228+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F6b%2F818e62628ff9cfada9105c4d50b7%2F57ed70f406c64a70be883d80fd12a40e",
       "source": "Associated Press",
       "publishedAt": "2025-09-18T23:08:00Z",
-      "description": "Spojené státy znovu vetovaly rezoluci Rady bezpečnosti OSN požadující okamžité a trvalé příměří v Gaze a propuštění rukojmích"
+      "description": "Spojené státy znovu vetovaly rezoluci Rady bezpečnosti OSN požadující okamžité a trvalé příměří v Gaze a propuštění rukojmích. Rezoluce také vyjadřovala znepokojení nad nedávnou zprávou o hladomoru..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bezpečnostní opatření budou přísná při pietním aktu pro Charlieho Kirka na State Farm Stadium",
+      "title": "Bezpečnostní opatření budou přísná při pietním aktu pro Charlie Kirka na stadionu State Farm",
       "original_title": "Security will be tight for the Charlie Kirk memorial at State Farm Stadium - Axios",
       "url": "https://www.axios.com/local/phoenix/2025/09/18/security-state-farm-phoenix-stadium-charlie-kirk-memorial",
       "urlToImage": "https://images.axios.com/p9mxFB16AR28HmP0DLE9yRGQALs=/0x0:3623x2038/1366x768/2025/09/18/1758207386739.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-18T23:04:32Z",
-      "description": "Americké ministerstvo vnitřní bezpečnosti události přiřadilo hodnocení SEAR 1. úrovně."
+      "description": "Americké ministerstvo vnitřní bezpečnosti události přidělilo hodnocení SEAR 1. úrovně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Oregonští mohou nyní přijít do místních lékáren a nechat se naočkovat proti covidu. Zde je důvod",
+      "title": "Oregonské lékárny nyní nabízejí vakcíny proti covidu. Proč tomu tak je",
       "original_title": "Oregonians can now walk into local pharmacies to get a COVID shot. Here’s why - OregonLive.com",
       "url": "https://www.oregonlive.com/health/2025/09/oregonians-can-now-walk-into-local-pharmacies-to-get-a-covid-shot-heres-why.html",
       "urlToImage": "https://www.oregonlive.com/resizer/v2/D3IPF357KNBDDEC5L2CYHT6M54.jpg?auth=c1dd5029d917f8ae26c4a7cb968255afabf36e001d2d2ae465a133849f395e02&width=1280&smart=true&quality=90",
       "source": "OregonLive",
       "publishedAt": "2025-09-18T22:43:00Z",
-      "description": "Většina obyvatel Oregonu může nyní získat novou vakcínu proti covidu-19 v lékárnách bez předpisu."
+      "description": "Většina obyvatel Oregonu může nyní dostat novou vakcínu proti COVID-19 v lékárnách bez předpisu."
     },
     {
       "flag": "🌍",
@@ -120,62 +175,51 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24063952/2022_03_30_20_10_00.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-18T22:23:42Z",
-      "description": "„Dárek.“"
+      "description": "„Complimentary.“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dnes večer jsme všichni Jimmy Kimmel, říká Stephen Colbert a Trumpa označuje za ,autokrata",
-      "original_title": "'Tonight, we are all Jimmy Kimmel,' Stephen Colbert says, calling Trump an 'autocrat' - CNBC",
-      "url": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-kirk-colbert-letterman-trump.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106187739-1571331290739gettyimages-1158652595.jpeg?v=1758238336&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-18T21:49:06Z",
-      "description": "ABC stáhlo pořad „Jimmy Kimmel Live!“ z vysílání na dobu neurčitou kvůli výrokům jeho moderátora o údajném vrahovi Charlie Kirka."
+      "title": "První černá díra vyfotografovaná přímo se za pouhé čtyři roky 'dramaticky' změnila, zjistila nová studie",
+      "original_title": "First-ever black hole to be directly imaged has changed 'dramatically' in just 4 years, new study finds - Live Science",
+      "url": "https://www.livescience.com/space/black-holes/first-ever-black-hole-to-be-directly-imaged-has-changed-dramatically-in-just-4-years-new-study-finds",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/C7XW6sDtc2KFj7NAGZiy5W.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-09-18T21:01:55Z",
+      "description": "Polarizační vzor kolem černé díry M87* se změnil a vědci netuší proč"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nová funkce baterie v iOS 26 dokáže zachránit vybíjející se iPhone - 9to5Mac",
-      "original_title": "iOS 26’s new Battery feature can help save a draining iPhone - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/18/ios-26s-new-battery-feature-can-help-save-a-draining-iphone/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/ios-26-battery-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Trumpovy kroky proti médiím kopírují postupy autoritářských vůdců k umlčení nesouhlasu",
+      "original_title": "Trump's moves against the media mirror approaches by authoritarian leaders to silence dissent - AP News",
+      "url": "https://apnews.com/article/trump-dictators-media-putin-russia-orban-hungary-2de4b920e9d7952eed132d38e1934ce5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e0055ed/2147483647/strip/true/crop/5108x2873+0+266/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F00%2F36c2f24916975a11ef1d92aa4a17%2F340bc863c274444a9704fdbe9d63fd81",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-18T20:45:00Z",
+      "description": "Od nástupu do úřadu vede Trump proti médiím agresivní kampaň"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "První předobjednávky iPhonu 17 se zákazníkům začaly dodávat - 9to5Mac",
+      "original_title": "First iPhone 17 pre-orders now arriving to customers - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/18/first-iphone-17-pre-orders-now-arriving-customers/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
-      "publishedAt": "2025-09-18T20:31:00Z",
-      "description": "iOS 26 má v Nastavení přepracovanou obrazovku s informacemi o baterii, díky které je snazší identifikovat a vyřešit její nadměrné vybíjení."
+      "publishedAt": "2025-09-18T20:11:00Z",
+      "description": "První předobjednávky na iPhone 17, iPhone Air, Apple Watch Series 11, Apple Watch Ultra 3 a AirPods Pro 3 jsou..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Soudce brání vládě deportovat nezletilé bez doprovodu do Guatemaly",
-      "original_title": "Judge blocks administration from deporting unaccompanied minors to Guatemala - ABC News",
-      "url": "https://abcnews.go.com/US/judge-blocks-administration-deporting-unaccompanied-minors-guatemala/story?id\\\\u003d125712992",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-18T20:26:15Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "FedEx posiluje po překonání očekávání zisku a aktualizaci ohledně rozdělení podnikání; UPS také výše (FDX:NYSE)",
-      "original_title": "FedEx rallies after topping profit expectations, updating on business split; UPS also higher (FDX:NYSE) - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4496347-fedex-rallies-after-topping-profit-expectations-updating-on-business-split-ups-also-higher",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/483290419/image_483290419.jpg?io=getty-c-w750",
-      "source": "Seeking Alpha",
-      "publishedAt": "2025-09-18T20:14:23Z",
-      "description": "FedEx hlásí smíšené výsledky za čtvrté čtvrtletí, stanovuje střízlivý výhled na fiskální rok 2026 a pokračuje v plánu oddělení nákladní divize."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "První objednávky iPhonu Air, iPhonu 17 a iPhonu 17 Pro se zákazníkům již začaly doručovat",
-      "original_title": "First iPhone Air, iPhone 17, and iPhone 17 Pro Orders Now Arriving to Customers - MacRumors",
-      "url": "https://www.macrumors.com/2025/09/18/first-iphone-17-orders-arriving/",
-      "urlToImage": "https://images.macrumors.com/t/_BM3WvQmnhsAKgHBPyn6qOWsvN4=/1958x/article-new/2025/09/iphone-air-thinness.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-18T20:11:53Z",
-      "description": "Zákazníci Applu v Austrálii a na Novém Zélandu začínají dostávat své objednávky iPhonu Air, iPhonu 17, iPhonu 17 Pro a iPhonu 17 Pro Max, poté co..."
+      "title": "Sousedové Roberta Redforda odhalují jeho tichý a ‚smutný‘ život v kalifornském městečku",
+      "original_title": "Robert Redford’s neighbors reveal his quiet, ‘sad’ life in Bay Area town - The Mercury News",
+      "url": "https://www.mercurynews.com/2025/09/18/robert-redfords-quiet-sad-life-in-bay-area-town/",
+      "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/Redfordwife.jpg?w=1024&h=683",
+      "source": "The Mercury News",
+      "publishedAt": "2025-09-18T19:41:31Z",
+      "description": "Redfordovi sousedé z Tiburonu na něj vzpomínají jako na laskavého muže, kterému chyběl syn. Ten žil nedaleko a zemřel v roce 2020."
     },
     {
       "flag": "🌍",
@@ -191,79 +235,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Starmer se chystá uznat palestinský stát před summitem OSN",
-      "original_title": "Starmer prepares to recognize Palestinian state before UN summit - politico.eu",
-      "url": "https://www.politico.eu/article/keir-starmer-palestinian-statehood-un-general-assembly/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/GettyImages-2235534655-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-18T18:40:00Z",
-      "description": "Britský premiér kráčí po diplomatickém laně — doma i v zahraničí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mark Zuckerberg viní špatné Wi-Fi poté, co se živé demo jeho nových brýlí za 800 dolarů příšerně pokazilo",
+      "title": "Mark Zuckerberg viní špatné Wi-Fi poté, co se živé demo jeho nových brýlí za 800 dolarů strašlivě pokazilo",
       "original_title": "Mark Zuckerberg blames bad Wi-Fi after the live demo of his new $800 smart glasses goes horribly wrong - Fortune",
       "url": "https://fortune.com/2025/09/18/mark-zuckerberg-live-demo-smart-glasses-meta-ray-ban-display-flop/",
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2235448062.jpg?resize=1200,600",
       "source": "Fortune",
       "publishedAt": "2025-09-18T17:49:00Z",
-      "description": "Kritici jsou nadšení z nových nositelných zařízení od Meta. Ale Zuckerbergova živá ukázka brýlí Ray-Ban Display za 799 dolarů byla pořádný průšvih."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Situace v Gaze je kataklyzmatická, říká představitel OSN během postupu izraelských tanků",
-      "original_title": "'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance - BBC",
-      "url": "https://www.bbc.com/news/articles/c5y8l46m5evo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ee9/live/26a8c990-9491-11f0-b391-6936825093bd.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-18T14:46:49Z",
-      "description": "Konstantní proud Palestinců prchá na jih, zatímco izraelské tanky údajně postupují dále do největšího městského centra Gazy."
+      "description": "Kritici jsou nadšení z nových nositelných zařízení od společnosti Meta. Ale Zuckebergova živá ukázka displeje Ray-Ban za 799 dolarů byla docela propadák."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "VIDĚNO: Raketa SpaceX Falcon 9 byla vidět nad Syracuse ve čtvrtek ráno",
+      "title": "Aktualizace iOS 26 je povinná pro všechny modely iPhone 17 již od prvního dne",
+      "original_title": "Day One iOS 26 Updates Required for All iPhone 17 Models - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/18/ios-26-day-one-updates-required/",
+      "urlToImage": "https://images.macrumors.com/t/Bj3ZKPorEIWXaGF-hHSmAKz1G7o=/2500x/article-new/2025/08/iOS-26-Glass-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-18T17:38:56Z",
+      "description": "Apple dnes vydal novou verzi iOS 26 (23A345) dostupnou pro iPhone 17 Pro a iPhone 17 Pro Max. Recenzenti, kteří již mají..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "VIDEO: Raketa SpaceX Falcon 9 byla ve čtvrtek ráno vidět nad Syrakusami",
       "original_title": "WATCH: SpaceX Falcon 9 seen over Syracuse Thursday AM - WSYR",
       "url": "https://www.localsyr.com/news/local-news/watch-spacex-falcon-9-seen-over-syracuse-thursday-am/",
       "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/09/Falcon9-Robert-Scales.jpg?w=1280",
       "source": "WSYR",
       "publishedAt": "2025-09-18T14:41:59Z",
-      "description": "SpaceX vyslalo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země, což zachytila kamera Energy Savers’ SkyNET 9 ze zoo Rosamond Gifford v Syracuse."
+      "description": "SpaceX vypustilo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země, což zachytila kamera Energy Savers’ SkyNET 9 z Rosamond Gifford Zoo v Syracuse."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Největší nákladní loď Northrop Grumman dorazila na ISS při své premiérové misi",
+      "title": "Northrop Grumman's biggest-ever cargo spacecraft arrives at ISS on its debut mission",
       "original_title": "Northrop Grumman's biggest-ever cargo spacecraft arrives at ISS on its debut mission - Space",
       "url": "https://www.space.com/space-exploration/international-space-station/northrop-grumman-biggest-ever-cargo-spacecraft-cygnus-xl-arrives-at-iss",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/SHWHA9Dc7CsQoTzK3Q3kx7.png",
       "source": "Space.com",
       "publishedAt": "2025-09-18T14:16:03Z",
-      "description": "Nový jumbo modul Cygnus dnes ráno (18. září) dopravil na orbitální laboratoř asi 11 000 liber nákladu."
+      "description": "Nový obří Cygnus dnes ráno (18. září) dopravil na orbitální laboratoř asi 5000 kilogramů nákladu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Štěnice zákeřnice v Ohiu: Co vědět o hmyzu přenášejícím potenciálně smrtelné onemocnění - 10tv.com",
-      "original_title": "Kissing bugs in Ohio: What to know about the insects linked to a potentially life-threatening disease - 10tv.com",
-      "url": "https://www.10tv.com/article/news/health/kissing-bugs-insects-potentially-life-threatening-chagas-disease/530-2fc21333-d260-41e7-9beb-fdfd7f22b5d1",
-      "urlToImage": "https://media.tegna-media.com/assets/WBNS/images/310d144e-486f-4ced-82de-6f2b563ad197/20250917T215841/310d144e-486f-4ced-82de-6f2b563ad197_1140x641.jpg",
-      "source": "10TV",
-      "publishedAt": "2025-09-17T22:57:00Z",
-      "description": "CDC varuje před Chagasovou chorobou, kterou přenášejí zákeřnice, v Ohiu vzácné, ale s vážnými zdravotními riziky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Podívejte se, jak iPhone Air vydrží tlak 59 kilogramů v extrémním testu ohybem - Tom's Guide",
-      "original_title": "Watch the iPhone Air survive 130 pounds of pressure in extreme bend test - Tom's Guide",
-      "url": "https://www.tomsguide.com/phones/iphones/apples-iphone-durability-test-clips-show-how-it-made-sure-the-iphone-air-and-iphone-17-series-are-built-to-last",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PNCcWJTGMfecrS7Ci3HRRA.jpg",
-      "source": "Tom's Guide",
-      "publishedAt": "2025-09-17T19:55:34Z",
-      "description": "Pusť to, poškrabej to, ohni to."
+      "title": "Trump označí Antifu za teroristickou organizaci, tvrdí",
+      "original_title": "Trump says he will label antifa as a terrorist organization - Politico",
+      "url": "https://www.politico.com/news/2025/09/17/trump-antifa-terrorist-organization-00570555",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1b%2F2f%2Fdf6ec1824107ad84632c911028e6%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235383735",
+      "source": "Politico",
+      "publishedAt": "2025-09-18T01:57:36Z",
+      "description": "Prezidentovy komentáře přicházejí v době hluboké polarizace a pozornosti na svobodu slova po smrti Charlieho Kirka."
     }
   ]
 }
