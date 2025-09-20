@@ -1,21 +1,21 @@
 {
-  "last_updated": "2025-09-20T08:21:21",
+  "last_updated": "2025-09-20T09:17:09",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Asijské akcie rostou, světový index dosáhl nového rekordu: Přehled trhů",
-      "original_title": "Asian Stocks Rise as Global Gauge Hits New Peak: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-18/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifYrqMknkL40/v0/1200x675.png",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-19T07:30:14Z",
-      "description": "Rekordní rally na globálních akciových trzích polevila poté, co rozhodnutí Banky Japonska začít prodávat své masivní fondy obchodované na burze stáhlo asijské akcie níže."
+      "title": "Republikáni v Senátu se kroutí nad připomínkami FCC k pořadu Jimmyho Kimmela",
+      "original_title": "Senate Republicans squirm over FCC comments on Jimmy Kimmel - Axios",
+      "url": "https://www.axios.com/2025/09/18/senate-republicans-jimmy-kimmel-fcc-charlie-kirk",
+      "urlToImage": "https://images.axios.com/0sBIGjkUXDSLFO9h8l9YUaVrN1Q=/0x0:5000x2813/1366x768/2025/09/18/1758237841375.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-19T09:00:28Z",
+      "description": "Reakce vytvářejí další pozoruhodný rozštěp v době Trumpa."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Izraelský útok zhatil Kataru sázku na přátelství se všemi",
+      "title": "Izraelský útok zhatil katarskou sázku na přátelství se všemi",
       "original_title": "Israel’s Attack Blew Up Qatar’s Bet on Being Friends With Everyone - The Wall Street Journal",
       "url": "https://www.wsj.com/world/middle-east/israel-qatar-relationship-hamas-strike-abc40be3",
       "urlToImage": null,
@@ -24,26 +24,59 @@
       "description": ""
     },
     {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ray Dalio říká, že americký měnový řád je v ohrožení kvůli rostoucímu dluhu",
+      "original_title": "Ray Dalio Says US Monetary Order Is at Risk as Debt Mounts - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-19/ray-dalio-says-us-monetary-order-is-at-risk-as-debt-mounts",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK1g3tklhttc/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-19T07:02:23Z",
+      "description": "Ray Dalio řekl, že USA nejsou schopné omezit nekontrolované výdaje, které hromadí dluh a ohrožují měnový řád."
+    },
+    {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Podle úřadů nalezené ostatky patří Traviši Deckerovi, muži obviněnému z vraždy tří dcer",
-      "original_title": "Human remains found believed to be Travis Decker, man accused of killing his 3 daughters, officials say - CNN",
-      "url": "https://www.cnn.com/2025/09/19/us/travis-decker-remains-believed-found-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25154773089052.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-19T04:05:44Z",
-      "description": "V Chelanském okrese byly nalezeny ostatky muže, o nichž se předpokládá, že patří Travisi Deckerovi z Washingtonu, který je obviněn z vraždy svých tří dcer."
+      "title": "Prezident Texas A&M rezignoval po propuštění instruktora kvůli výuce o genderu",
+      "original_title": "Texas A&M president resigns after instructor’s firing over gender teachings - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/09/18/texasam-president-resign-mark-welsh-gender/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/256435FIKP7QP2DO4P4Z4RN4UA_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-19T05:54:00Z",
+      "description": "Prezident Mark A. Welsh III rezignuje poté, co video se studentem obviňujícím instruktora z nelegální výuky „genderové ideologie“ vedlo k jeho propuštění."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Střelba v Pensylvánii: Co se stalo a kdo jsou oběti a podezřelý?",
+      "title": "Úřady našly ostatky, o kterých se domnívají, že patří uprchlíku Travisi Deckerovi obviněnému z vraždy svých tří dcer ve státě Washington, uvedli představitelé",
+      "original_title": "Authorities find remains they think are fugitive Travis Decker, accused of killing his 3 daughters in Washington state, officials say - CBS News",
+      "url": "https://www.cbsnews.com/news/travis-decker-human-remains-washington-state-murder-3-daughters/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/30/3ab96f67-b153-49af-b9ca-753ec99845c6/thumbnail/1200x630/488d21cd9b14c88f60a4a1184f023afe/travis-decker.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-19T05:21:00Z",
+      "description": "Úřady hledaly Travise Deckera od 30. května, kdy nevrátil své tři dcery do domu jejich matky ve Wenatchee ve státě Washington."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pozůstatky ženy nalezené v Oregonu v roce 1976 byly identifikovány po 49 letech díky DNA",
+      "original_title": "A woman's remains were found in Oregon in 1976. They've been identified 49 years later thanks to DNA - AP News",
+      "url": "https://apnews.com/article/oregon-missing-woman-remains-identified-9f2a2fee5fdff8e135bca606714f83bc",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4d0ab94/2147483647/strip/true/crop/5376x3024+0+280/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd6%2F57%2F9677357aded2f9e3a0d2ad0b475a%2Fe20cfbaa79ef4f76818a167b5d169f8b",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-19T04:08:00Z",
+      "description": "Oregonské úřady identifikovaly pomocí DNA ostatky ženy po 49 letech"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Střelba v Pensylvánii: Co se stalo a kdo jsou podezřelý a oběti?",
       "original_title": "Pennsylvania police shooting: What happened, who are the suspect, victims? - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2025/9/18/pennsylvania-shooting-what-happened-what-we-know-about-suspect-victims",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP25261110496369-1758182249.jpg?resize=1920%2C1440",
       "source": "Al Jazeera English",
       "publishedAt": "2025-09-19T04:00:55Z",
-      "description": "Tři policisté zabiti, dva v kritickém, ale stabilním stavu v jednom z nejtragičtějších nedávných útoků na americkou policii."
+      "description": "Tři policisté zabiti, dva v kritickém, ale stabilním stavu. Jeden z nejtragičtějších útoků na americkou policii v poslední době."
     },
     {
       "flag": "🌍",
@@ -54,23 +87,23 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/cardi-b-album-review.jpg?crop=0px%2C84px%2C1800px%2C1015px&resize=1600%2C900",
       "source": "Rolling Stone",
       "publishedAt": "2025-09-19T04:00:00Z",
-      "description": "Recenze Cardi B a její písně „Am I the Drama?“: Superhvězda je zpět a jde si pro krk"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Poradci CDC poprvé upravili očkování dětí",
-      "original_title": "CDC advisers make their first childhood vaccine edit - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/09/18/hepatitis-b-infant-vaccine-recommendation/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SX3MYUMK24Z2YBM3ATD56ROW2M.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-19T03:03:00Z",
-      "description": "Výbor poměrem hlasů 8:3 doporučil odložit používání vakcíny proti spalničkám, příušnicím, zarděnkám a planým neštovicím, kterou dostává asi 15 procent dětí."
+      "description": "Recenze Cardi B v „Am I the Drama?“: Superhvězda je zpět a jde po krvi"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump se chystá odvolat amerického žalobce za odpor k snaze obvinit newyorskou generální prokurátorku Letitii Jamesovou: Zdroje",
+      "title": "Asijští dodavatelé Intelu letí vzhůru díky nadějím na posílení investic Nvidie",
+      "original_title": "Asia’s Intel Suppliers Soar on Hopes of Nvidia Investment Boost - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-19/asia-s-intel-suppliers-soar-on-hopes-of-nvidia-investment-boost",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irEBv2nhfdkM/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-19T03:28:00Z",
+      "description": "Akcie asijských dodavatelů společnosti Intel ve čtvrtek posílily po zprávě o investici Nvidie"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump se chystá propustit amerického žalobce za odpor vůči snaze obvinit newyorskou prokurátorku Letitii Jamesovou: Zdroje",
       "original_title": "Trump poised to fire US attorney for resisting effort to charge NY AG Letitia James: Sources - ABC News",
       "url": "https://abcnews.go.com/US/trump-poised-fire-us-attorney-resisting-effort-charge/story?id\\\\u003d125700904",
       "urlToImage": null,
@@ -81,18 +114,7 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trumpova administrativa žádá Nejvyšší soud o povolení propustit guvernérku Fedu Lisu Cookovou",
-      "original_title": "Trump officials ask Supreme Court to allow firing of Fed governor Lisa Cook - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/18/trump-cook-federal-reserve-interest-rates/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZXFBDNMFD5U4VO6QNNZGMZXKIQ_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-19T02:39:54Z",
-      "description": "Případ je jedním ze tří u nejvyššího soudu, které prověří prezidentovo tvrzení o rozsáhlé pravomoci nad ekonomikou a federálními výdaji."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Rakovina tlustého střeva: Tento VOLNĚ PRODEJNÝ lék snižuje riziko návratu kolorektálního karcinomu na polovinu",
+      "title": "Rakovina tlustého střeva: Tento běžný volně prodejný lék snižuje riziko recidivy kolorektálního karcinomu na polovinu",
       "original_title": "Colon cancer: THIS common over-the-counter medication slashes risk of colorectal cancer recurrence in hal - Times of India",
       "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/colon-cancer-this-common-over-the-counter-medication-slashes-risk-of-colorectal-cancer-recurrence-in-half/articleshow/123988065.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-123988049,width-1070,height-580,imgsize-22276,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
@@ -101,37 +123,59 @@
       "description": "Průlomová studie odhaluje, že denní nízká dávka aspirinu může snížit riziko recidivy kolorektálního karcinomu přibližně o 55 %."
     },
     {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump po královském přijetí v Británii potvrzuje ‚nesmrtelné pouto‘",
+      "original_title": "Trump affirms ‘immortal bonds’ after royal treatment in U.K. - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/18/trump-starmer-us-uk-policy/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ZGHDM5D5ZFZNGNICHKYWLNZPU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-19T02:13:27Z",
+      "description": "Trumpova cesta plná pompéznosti a okázalosti začala přehlídkou v areálu Windsorského zámku a skončila obchodními dohodami a jednáním o obchodu."
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Zemětřesení o síle 7,8 stupně otřáslo ruským Dálným východem a vyhlásilo varování před tsunami",
+      "title": "Zemětřesení o síle 7,8 stupně otřáslo ruským Dálným východem, vyhlášen varování před tsunami",
       "original_title": "Magnitude 7.8 quake shakes Russia’s Far East region, prompts tsunami alert - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2025/9/19/magnitude-7-8-quake-shakes-russias-far-east-region-prompts-tsunami-alert",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/13230731-1753866666.jpg?resize=1920%2C1440",
       "source": "Al Jazeera English",
       "publishedAt": "2025-09-19T02:07:57Z",
-      "description": "Americká geologická služba popsala zemětřesení jako ‚dotřes‘ po obřím zemětřesení o síle 8,8, které udeřilo v červenci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump zuřivě útočí na Omara a Somálsko po neúspěšném pokusu Sněmovny o cenzuru",
-      "original_title": "Trump slams Omar and Somalia after House censure fails - The Hill",
-      "url": "https://thehill.com/homenews/administration/5511627-trump-criticizes-somalia-omar/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/09/AP25261356419293.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2025-09-19T00:44:00Z",
-      "description": "Prezident Trump ve čtvrtek tvrdě kritizoval kongresmanku Ilhan Omarovou (za Minnesotu z Demokratické strany) a Somálsko, den poté, co Sněmovna reprezentantů zamítla rezoluci, která ji měla oficiáln..."
+      "description": "Americká geologická služba popsala zemětřesení jako ‚dotřes‘ z obřího zemětřesení o síle 8,8, které udeřilo v červenci."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Chris Mason: Radost a úleva ve vládě po státní návštěvě Trumpa",
+      "title": "Chris Mason: Radost a úleva ve vládě po Trumpově státní návštěvě",
       "original_title": "Chris Mason: Delight and relief in government after Trump state visit - BBC",
       "url": "https://www.bbc.com/news/articles/cvgn3445655o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e33b/live/8cb62fd0-94ef-11f0-9cf6-cbf3e73ce2b9.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-19T00:24:23Z",
-      "description": "Trumpovy neshody se sirem Keirem byly nějak vedeny okolo něj, nikoliv na něj, píše politický redaktor BBC."
+      "description": "Trumpovy neshody se sirem Keirem byly nějak vedeny kolem něj, nikoli na něj, píše politický editor BBC."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Team Cherry vysvětluje \"strmou obtížnost\" hry Hollow Knight: Silksong",
+      "original_title": "Team Cherry Explains Hollow Knight: Silksong's \"Steep Difficulty\" - Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2025/09/team-cherry-explains-hollow-knight-silksongs-steep-difficulty",
+      "urlToImage": "https://images.nintendolife.com/eaea1e2008977/large.jpg",
+      "source": "Nintendo Life",
+      "publishedAt": "2025-09-19T00:19:23Z",
+      "description": "Dovolujeme vám jít zcela vlastní cestou"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rostoucí ceny potravin mohou vést ke zmenšování balení, říká potravinářský analytik",
+      "original_title": "Rising grocery prices could lead to shrinkflation, food industry analyst says - CBS News",
+      "url": "https://www.cbsnews.com/news/rising-grocery-prices-could-lead-to-shrinkflation-food-industry-analyst-says/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/18/86578dd6-577c-4591-ba92-790525221685/thumbnail/1200x630/f20318163787db91f13a1dc244a72b8b/1758239751385.png",
+      "source": "CBS News",
+      "publishedAt": "2025-09-18T23:57:00Z",
+      "description": "Ceny potravin celkově v srpnu 2025 vzrostly o 2,7 % ve srovnání s předchozím rokem, uvádí index spotřebitelských cen amerického Úřadu pro statistiku práce."
     },
     {
       "flag": "🌍",
@@ -142,89 +186,89 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/8b67547/2147483647/strip/true/crop/3960x2228+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F6b%2F818e62628ff9cfada9105c4d50b7%2F57ed70f406c64a70be883d80fd12a40e",
       "source": "Associated Press",
       "publishedAt": "2025-09-18T23:08:00Z",
-      "description": "Spojené státy podruhé zablokovaly rezoluci Rady bezpečnosti OSN požadující okamžité a trvalé příměří v Gaze a propuštění rukojmích"
+      "description": "Spojené státy znovu vetovaly rezoluci Rady bezpečnosti OSN požadující okamžité a trvalé příměří v Gaze a propuštění rukojmích"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bezpečnostní opatření budou během vzpomínkové akce na Charlieho Kirka na State Farm Stadium přísná.",
+      "title": "„Nevím, co se stalo“: Chytré brýle selhaly během Zuckerbergovy keynote na Meta Connect",
+      "original_title": "‘I don’t know what happened’: AI glasses fail during Zuckerberg’s Meta Connect keynote - KRON4",
+      "url": "https://www.kron4.com/news/technology-ai/i-dont-know-what-happened-ai-glasses-fail-during-zuckerbergs-meta-connect-keynote/",
+      "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2025/09/GettyImages-2235448062.jpg?w=1280",
+      "source": "KRON4",
+      "publishedAt": "2025-09-18T23:05:56Z",
+      "description": "(KRON) — Chytré brýle s umělou inteligencí, které generální ředitel Mety Mark Zuckerberg označuje za „novou generaci brýlí Meta Ray-Ban“, byly během jeho úvodního projevu na každoroční konferenci s..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bezpečnostní opatření budou na památníku Charlieho Kirka na stadionu State Farm přísná",
       "original_title": "Security will be tight for the Charlie Kirk memorial at State Farm Stadium - Axios",
       "url": "https://www.axios.com/local/phoenix/2025/09/18/security-state-farm-phoenix-stadium-charlie-kirk-memorial",
       "urlToImage": "https://images.axios.com/p9mxFB16AR28HmP0DLE9yRGQALs=/0x0:3623x2038/1366x768/2025/09/18/1758207386739.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-18T23:04:32Z",
-      "description": "Americké ministerstvo vnitřní bezpečnosti události přidělilo hodnocení SEAR 1. úrovně."
+      "description": "Ministerstvo vnitřní bezpečnosti USA události přidělilo hodnocení SEAR na nejvyšší úrovni 1."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Oregonští mohou nyní přijít do místních lékaren na očkování proti covidu. Zde je důvod",
+      "title": "Obyvatelé Oregonu mohou nyní přijít do místních lékáren na očkování proti covidu. Zde je důvod, proč",
       "original_title": "Oregonians can now walk into local pharmacies to get a COVID shot. Here’s why - OregonLive.com",
       "url": "https://www.oregonlive.com/health/2025/09/oregonians-can-now-walk-into-local-pharmacies-to-get-a-covid-shot-heres-why.html",
       "urlToImage": "https://www.oregonlive.com/resizer/v2/D3IPF357KNBDDEC5L2CYHT6M54.jpg?auth=c1dd5029d917f8ae26c4a7cb968255afabf36e001d2d2ae465a133849f395e02&width=1280&smart=true&quality=90",
       "source": "OregonLive",
       "publishedAt": "2025-09-18T22:43:00Z",
-      "description": "Většina obyvatel Oregonu může nyní dostat novou vakcínu proti COVID-19 v lékárnách bez předpisu."
+      "description": "Většina obyvatel Oregonu může nyní získat novou vakcínu proti COVID-19 v lékárnách bez předpisu."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Zdravotní úředníci z 10 severovýchodních států se oficiálně spojili. New Hampshire zůstává mimo.",
+      "original_title": "Health officials from 10 Northeast states officially band together. New Hampshire remains out. - New Hampshire Bulletin",
+      "url": "https://newhampshirebulletin.com/2025/09/18/health-officials-from-10-northeast-states-officially-band-together-new-hampshire-remains-out/",
+      "urlToImage": "https://newhampshirebulletin.com/wp-content/uploads/2024/10/vaxnurse-2048x1366.jpeg",
+      "source": "Newhampshirebulletin.com",
+      "publishedAt": "2025-09-18T21:35:48Z",
+      "description": "Po měsících neformálních jednání představitelé zdravotnictví z 10 severovýchodních států oznámili vytvoření bloku Northeast Public Health Collaborative"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Intel tvrdí, že grafické karty Arc budou žít dál i po dohodě s Nvidií",
-      "original_title": "Intel says Arc GPUs will live on after Nvidia deal - The Verge",
-      "url": "https://www.theverge.com/news/781635/intel-says-arc-gpus-will-live-on-after-nvidia-deal",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24063952/2022_03_30_20_10_00.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-18T22:23:42Z",
-      "description": "„Doplněk zdarma.“"
+      "title": "První objednávky iPhonu Air, iPhonu 17 a iPhonu 17 Pro se zákazníkům již začaly doručovat",
+      "original_title": "First iPhone Air, iPhone 17, and iPhone 17 Pro Orders Now Arriving to Customers - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/18/first-iphone-17-orders-arriving/",
+      "urlToImage": "https://images.macrumors.com/t/_BM3WvQmnhsAKgHBPyn6qOWsvN4=/1958x/article-new/2025/09/iphone-air-thinness.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-18T20:11:53Z",
+      "description": "Zákazníci Applu v Austrálii a na Novém Zélandu začínají dostávat své objednávky iPhonu Air, iPhonu 17, iPhonu 17 Pro a iPhonu 17 Pro Max, protože..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "První přímo vyfotografovaná černá díra se za pouhé čtyři roky 'dramaticky' změnila, zjistila nová studie",
-      "original_title": "First-ever black hole to be directly imaged has changed 'dramatically' in just 4 years, new study finds - Live Science",
-      "url": "https://www.livescience.com/space/black-holes/first-ever-black-hole-to-be-directly-imaged-has-changed-dramatically-in-just-4-years-new-study-finds",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/C7XW6sDtc2KFj7NAGZiy5W.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-18T21:01:55Z",
-      "description": "Polarizační vzorec kolem černé díry M87* se změnil a vědci netuší proč"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trumpovy kroky proti médiím kopírují postupy autoritářských vůdců k umlčení kritiky",
-      "original_title": "Trump's moves against the media mirror approaches by authoritarian leaders to silence dissent - AP News",
-      "url": "https://apnews.com/article/trump-dictators-media-putin-russia-orban-hungary-2de4b920e9d7952eed132d38e1934ce5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e0055ed/2147483647/strip/true/crop/5108x2873+0+266/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F00%2F36c2f24916975a11ef1d92aa4a17%2F340bc863c274444a9704fdbe9d63fd81",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-18T20:45:00Z",
-      "description": "Od svého nástupu do úřadu vede Trump proti médiím agresivní kampaň"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "První předobjednávky iPhonu 17 se zákazníkům začaly dodávat - 9to5Mac",
-      "original_title": "First iPhone 17 pre-orders now arriving to customers - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/18/first-iphone-17-pre-orders-now-arriving-customers/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-18T20:11:00Z",
-      "description": "První předobjednávky iPhonu 17, iPhonu Air, Apple Watch Series 11, Apple Watch Ultra 3 a AirPods Pro 3 jsou…"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sousedé Roberta Redforda popisují jeho tichý a ‚smutný‘ život v kalifornském městečku",
+      "title": "Sousedové Roberta Redforda odhalují jeho tichý a „smutný“ život v kalifornském městečku",
       "original_title": "Robert Redford’s neighbors reveal his quiet, ‘sad’ life in Bay Area town - The Mercury News",
       "url": "https://www.mercurynews.com/2025/09/18/robert-redfords-quiet-sad-life-in-bay-area-town/",
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/Redfordwife.jpg?w=1024&h=683",
       "source": "The Mercury News",
       "publishedAt": "2025-09-18T19:41:31Z",
-      "description": "Redfordovi sousedé z Tiburonu na něj vzpomínají jako na milého muže, kterému chyběl syn žijící nedaleko a zemřelý roku 2020."
+      "description": "Redfordovi sousedé z Tiburonu na něj vzpomínají jako na laskavého muže, kterému chyběl syn. Ten žil nedaleko a zemřel v roce 2020."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump říká, že USA pracují na převzetí základny Bagram od Tálibánu",
+      "original_title": "Trump says US working to take back Bagram Air Base from Taliban - Military Times",
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2025/09/18/trump-says-us-working-to-take-back-bagram-air-base-from-taliban/",
+      "urlToImage": "https://www.armytimes.com/resizer/v2/3KX6KBDUWVB25FRGI5VB4YTJG4.jpg?width=1200&auth=42b690c0b94c5960be5bccdf3d8accd2f10544d3ddbd02d86f12c2693cef178b",
+      "source": "Military Times",
+      "publishedAt": "2025-09-18T19:33:04Z",
+      "description": "Prezident Donald Trump naznačil, že pracuje na obnovení americké přítomnosti na letecké základně Bagram v Afghánistánu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Proč hypoteční sazby po snížení úrokových sazeb Fedem vlastně rostou",
+      "title": "Proč hypoteční sazby ve skutečnosti rostou poté, co Fed snížil úrokové sazby",
       "original_title": "Why mortgage rates are actually going up after the Fed cut interest rates - MarketWatch",
       "url": "https://www.marketwatch.com/story/why-mortgage-rates-are-actually-going-up-after-the-fed-cut-interest-rates-87c712bd",
       "urlToImage": "https://images.mktw.net/im-37282588/social",
@@ -235,57 +279,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mark Zuckerberg viní špatné Wi-Fi po tom, co se živé demo jeho nových brýlí za 800 dolarů strašně pokazilo",
-      "original_title": "Mark Zuckerberg blames bad Wi-Fi after the live demo of his new $800 smart glasses goes horribly wrong - Fortune",
-      "url": "https://fortune.com/2025/09/18/mark-zuckerberg-live-demo-smart-glasses-meta-ray-ban-display-flop/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2235448062.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-18T17:49:00Z",
-      "description": "Kritici jsou nadšení z nových nositelných zařízení od společnosti Meta. Ale Zuckebergova živá ukázka brýlí Ray-Ban Display za 799 dolarů byla docela velký propadák."
+      "title": "Apple vydává nové sestavení iOS 26.0 pro modely iPhone 17 – 9to5Mac",
+      "original_title": "Apple releases new iOS 26.0 build for iPhone 17 models - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/18/apple-releases-new-ios-26-0-build-for-iphone-17-models/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPhone-17-Pro-iPhone-Air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-18T17:29:00Z",
+      "description": "Apple vydal nové revidované sestavení iOS 26 výhradně pro modely iPhone 17. Co od něj čekat."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Aktualizace iOS 26 je povinná pro všechny modely iPhone 17 již od prvního dne",
-      "original_title": "Day One iOS 26 Updates Required for All iPhone 17 Models - MacRumors",
-      "url": "https://www.macrumors.com/2025/09/18/ios-26-day-one-updates-required/",
-      "urlToImage": "https://images.macrumors.com/t/Bj3ZKPorEIWXaGF-hHSmAKz1G7o=/2500x/article-new/2025/08/iOS-26-Glass-Feature.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-18T17:38:56Z",
-      "description": "Apple dnes vydal novou verzi iOS 26 (23A345) dostupnou pro iPhone 17 Pro a iPhone 17 Pro Max. Recenzenti, kteří již mají..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "VIDĚLI JSTE: Raketa SpaceX Falcon 9 byla vidět nad Syrakusami ve čtvrtek ráno",
+      "title": "VIDEO: Raketa SpaceX Falcon 9 byla vidět nad Syracuse ve čtvrtek ráno",
       "original_title": "WATCH: SpaceX Falcon 9 seen over Syracuse Thursday AM - WSYR",
       "url": "https://www.localsyr.com/news/local-news/watch-spacex-falcon-9-seen-over-syracuse-thursday-am/",
       "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/09/Falcon9-Robert-Scales.jpg?w=1280",
       "source": "WSYR",
       "publishedAt": "2025-09-18T14:41:59Z",
-      "description": "SpaceX vypustilo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země, což zachytila kamera Energy Savers’ SkyNET 9 ze zoo Rosamond Gifford v Syracuse."
+      "description": "SpaceX vypustilo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země, což zachytila kamera SkyNET 9 Energy Savers ze zoo Rosamond Gifford v Syracuse."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Největší nákladní loď Northrop Grumman v historii dorazila na ISS při své premiérové misi",
+      "title": "Největší nákladní loď Northrop Grumman dorazila na ISS při své premiérové misi",
       "original_title": "Northrop Grumman's biggest-ever cargo spacecraft arrives at ISS on its debut mission - Space",
       "url": "https://www.space.com/space-exploration/international-space-station/northrop-grumman-biggest-ever-cargo-spacecraft-cygnus-xl-arrives-at-iss",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/SHWHA9Dc7CsQoTzK3Q3kx7.png",
       "source": "Space.com",
       "publishedAt": "2025-09-18T14:16:03Z",
-      "description": "Nový jumbo modul Cygnus dopravil na obíhající laboratoř zhruba 5000 kilogramů nákladu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump označí Antifu za teroristickou organizaci",
-      "original_title": "Trump says he will label antifa as a terrorist organization - Politico",
-      "url": "https://www.politico.com/news/2025/09/17/trump-antifa-terrorist-organization-00570555",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1b%2F2f%2Fdf6ec1824107ad84632c911028e6%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235383735",
-      "source": "Politico",
-      "publishedAt": "2025-09-18T01:57:36Z",
-      "description": "Prezidentovy poznámky přicházejí v době hluboké polarizace a pozornosti věnované svobodě slova po smrti Charlieho Kirka."
+      "description": "Nový obří Cygnus dnes ráno (18. září) dopravil na orbitální laboratoř zhruba 5000 kilogramů nákladu."
     }
   ]
 }
