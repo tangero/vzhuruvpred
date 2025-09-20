@@ -1,104 +1,203 @@
 {
-  "last_updated": "2025-09-20T16:19:20",
+  "last_updated": "2025-09-20T17:12:56",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Lyles znovu vítězem na dvoustovce, Jeffersonová-Woodenová double",
-      "original_title": "Lyles wins 200 again; Jefferson-Wooden sweeps - ESPN",
-      "url": "https://www.espn.com/olympics/trackandfield/story/_/id/46312399/noah-lyles-tops-200-jefferson-wooden-gets-historic-sweep",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0919%2Fr1547929_1296x729_16%2D9.jpg",
-      "source": "ESPN",
-      "publishedAt": "2025-09-19T13:42:00Z",
-      "description": "Noah Lyles předstihl Kennyho Bednarka a v závěru ho udržel, aby získal svůj čtvrtý světový titul na 200 metrů, zatímco Melissa Jeffersonová-Woodenová dokončila první ženský double na 100 a 200 metr..."
+      "title": "Sledujte živě: Poradní panel CDC diskutuje o rizicích vakcíny proti covidu-19, střetává se s externími odborníky kvůli procesu",
+      "original_title": "Watch Live: CDC advisory panel discusses COVID-19 vaccine risks, spars with outside experts over process - CBS News",
+      "url": "https://www.cbsnews.com/live-updates/cdc-vaccine-advisory-panel-covid-19-hepatitis-b-vaccines/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/04/f317b34f-b673-4a06-9c32-1fbbdaeec067/thumbnail/1200x630/ef4009cd827a30d05f833eca5e08402c/gettyimages-2217713943.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-19T16:23:39Z",
+      "description": "Poradní výbor CDC pro očkovací praxi, jehož členy jmenoval RFK Jr., se schází, aby projednal a odhlasoval doporučení týkající se vakcíny proti COVID-19."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Taylor Swift chystá pro AMC utajený film o životě showbyznysové hvězdy",
+      "original_title": "Taylor Swift Secret ‘Life Of A Showgirl’ Movie Eyes Release Via AMC Theatres - Deadline",
+      "url": "http://deadline.com/2025/09/taylor-swift-secret-life-of-a-showgirl-movie-amc-1236549334/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/08/The-Life-of-A-Showgirl-Red-Champagne.jpg?w=1000",
+      "source": "Deadline",
+      "publishedAt": "2025-09-19T15:46:00Z",
+      "description": "Tajemství Taylor Swift spojené s vydáním jejího nového alba 'The Life of a Showgirl' dorazí na plátna kin AMC 3. října."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Při chaotickém začátku schůze poradci CDC odložili hlasování o vakcíně proti hepatitidě B a odhlasovali o nové vakcíně MMRV.",
-      "original_title": "In chaotic start to meeting, CDC vaccine advisers delay hepatitis B vaccine vote, cast new MMRV vaccine vote - CNN",
-      "url": "https://www.cnn.com/2025/09/19/health/cdc-acip-hepatitis-mmrv-covid-vaccine",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235551156.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-19T13:18:26Z",
-      "description": "Poradci pro očkování amerického Centra pro kontrolu a prevenci nemocí odložili hlasování o změnách u vakcíny proti hepatitidě B pro novorozence"
+      "title": "Trump tvrdí, že dohoda o TikToku byla schválena po telefonátu se Si Ťin-pchingem",
+      "original_title": "Trump claims TikTok deal approved after call with Xi - Financial Times",
+      "url": "https://www.ft.com/content/9fc9e921-5dbb-4464-a89f-55273b0ac84e",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ae3d0ec-703e-4d24-8ec1-2d24e3bce7cc.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-19T15:23:26Z",
+      "description": "Trump tvrdí, že jeho čínský protějšek schválil prodej amerických operací videoaplikace"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "EU zasahuje Putina a lichotí Trumpovi novými sankcemi proti Rusku zaměřenými na Čínu",
-      "original_title": "EU hammers Putin and charms Trump by targeting China in new Russia sanctions - politico.eu",
-      "url": "https://www.politico.eu/article/eu-commission-approves-new-russia-sanctions-package-to-hit-putins-war-chest/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/13351580-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-19T12:16:00Z",
-      "description": "Kreml „ukázal v plné míře své pohrdání diplomacií a mezinárodním právem,“ říká Ursula von der Leyenová."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Program jednání Kongresu: návrhy průběžného financování se dostávají na pořad jednání",
-      "original_title": "Capitol agenda: CRs hit the floor - Politico",
-      "url": "https://www.politico.com/live-updates/2025/09/19/congress/shutdown-deadline-continuing-resolution-funding-emmer-00572645",
-      "urlToImage": "https://www.politico.com/dims4/default/a62a58b/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F4a%2Fae%2F8d6b4b974f41998fac033d45e147%2Fu-s-congress-72623.jpg",
+      "title": "Sněmovna schválila rezoluci Charlie Kirka s dvoustrannou podporou",
+      "original_title": "House approves Charlie Kirk resolution on bipartisan vote - Politico",
+      "url": "https://www.politico.com/live-updates/2025/09/19/congress/house-approves-kirk-resolution-00572967",
+      "urlToImage": "https://www.politico.com/dims4/default/e6c458a/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd0%2Fd3%2Fe671df6b463db5e4b2f522f15131%2Fu-s-congress-43470.jpg",
       "source": "Politico",
+      "publishedAt": "2025-09-19T15:00:52Z",
+      "description": "Návrh rozdělil demokraty, z nichž mnozí podpořili alternativní usnesení odsuzující veškeré politické násilí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zpěvák a skladatel country hudby známý hitem ‚Jesus, Take the Wheel‘ zemřel při leteckém neštěstí v horách Severní Karolíny",
+      "original_title": "'Jesus, Take the Wheel' country music singer, song­writer dies in plane crash in N.C. mountains - Spectrum News",
+      "url": "https://spectrumlocalnews.com/nc/charlotte/news/2025/09/19/3--including-country-music-singer--die-in-plane-crash",
+      "urlToImage": "https://s7d2.scene7.com/is/image/TWCNews/james-brett-country-music-hall-of-fame",
+      "source": "Spectrum News",
+      "publishedAt": "2025-09-19T14:55:00Z",
+      "description": "Mezi mrtvými byl i 58letý countryový textař Brett James, uvedla síň slávy nashvillských skladatelů."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "NATO zachytilo ruské vojenské letouny porušující estonský vzdušný prostor",
+      "original_title": "Nato intercepts Russian warplanes violating Estonian airspace - BBC",
+      "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-19T14:51:52Z",
+      "description": "Estonsko uvedlo, že tři ruské stíhačky MiG-31 zůstaly v jeho vzdušném prostoru 12 minut."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "D4vd ruší turné v USA během vyšetřování mrtvoly v autě zaregistrovaném na něj",
+      "original_title": "D4vd Cancels U.S. Tour Amid Investigation Into Dead Body in Car Registered to Him - Variety",
+      "url": "https://variety.com/2025/music/news/d4vd-cancels-tour-investigation-dead-body-car-1236523556/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-1470607119-e1758221678293.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-19T14:34:00Z",
+      "description": "D4vd zrušil své americké turné kvůli vyšetřování mrtvého těla v autě registrovaném na zpěváka."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nejvyšší soud neokamžitě nezareagoval na Trumpův návrh na odvolání Cooka",
+      "original_title": "Supreme Court Doesn’t Immediately Act on Trump Bid to Fire Cook - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-19/supreme-court-doesn-t-immediately-act-on-trump-bid-to-fire-cook",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBJZmz0RU5AE/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-19T14:31:11Z",
+      "description": "Předseda nejvyššího soudu John Roberts požádal guvernérku Federálního rezervního systému Lisu Cookovou o vyjádření k žádosti Donalda Trumpa o její okamžité odvolání z funkce do 25. září, přičemž je..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie Tesly získaly upgrade. Proč je tento analytik považuje za nákup kvůli umělé inteligenci. - Barron's",
+      "original_title": "Tesla Stock Gets Upgrade. Why This Analyst Says Its an AI Buy. - Barron's",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-buy-rating-upgrade-d12ae507",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-09-19T14:11:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ženy s zátěžovými vestami jsou voličky na vážkách roku 2026.",
+      "original_title": "Weighted vest women are the 2026 swing voters - Politico",
+      "url": "https://www.politico.com/news/2025/09/19/weighted-vest-women-are-the-2026-swing-voters-00572657",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4f%2Fb9%2F6d6e249f4cda92c69695bad4ba9f%2Fcorrection-be-well-weighted-vests-01607.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-19T14:00:00Z",
+      "description": "Představujeme nové voliče, kteří mohou rozhodnout volby: V roce 2024 dali hlas Donaldu Trumpovi, v roce 2026 jsou nevyzpytatelní – a po celém vašem okolí chodí ve vypolstrovaných vestách."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Sledujte přímý přenos: Sněmovna bude hlasovat o návrhu republikánů na financování vlády a odvrácení jejího zastavení",
+      "original_title": "Watch Live: House to vote on GOP bill to fund the government and avoid shutdown - CBS News",
+      "url": "https://www.cbsnews.com/news/house-vote-government-shutdown/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/18/934ab30c-b0a3-4dd4-9b3c-f4b9c94785fa/thumbnail/1200x630g2/cec07cfe9563b3782e82fa1a2c05a484/gettyimages-2235377467.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-19T13:29:11Z",
+      "description": "Sněmovna reprezentantů v pátek schválila republikánský návrh na financování vlády do 21. listopadu, čímž připravila půdu pro boj v Senátu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bojovník MMA Raja Jackson zatčen na základě obvinění z trestného činu po napadení wrestlera na srpnové show",
+      "original_title": "MMA fighter Raja Jackson arrested on felony charge after assault of pro wrestler at August show - NBC News",
+      "url": "https://www.nbcnews.com/sports/mixed-martial-arts/mma-fighter-raja-jackson-arrested-felony-charge-assault-wrestler-augus-rcna232369",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250919-raja-jackson-mb-1308-a056b8.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-19T12:50:36Z",
+      "description": "Raja Jackson, syn bývalého šampiona UFC Quentona „Rampage“ Jacksona, byl zatčen v Los Angeles kvůli obvinění z trestného činu necelý měsíc poté, co napadl profesionálního wrestlera na show."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Úřady našly ostatky, o nichž se domnívají, že patří Travisi Deckerovi, hledanému kvůli zavraždění jeho tří malých dcer",
+      "original_title": "Officials find remains they believe are Travis Decker, wanted in killings of his 3 young daughters - AP News",
+      "url": "https://apnews.com/article/travis-decker-search-daughters-killed-washington-8c2efb7a8d0fc9e119ea309ffb739cf3",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5160f1f/2147483647/strip/true/crop/6000x3375+0+282/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F16%2Fd908e8004ff4d7a13b6638b47418%2F0fb45b9a6fce438695041eb22b8bc4db",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-19T12:06:00Z",
+      "description": "Úřady našly ostatky, o nichž se domnívají, že patří Travisi Deckerovi, bývalému vojákovi hledanému v souvislosti se smrtí jeho tří dcer."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vozítko Curiosity na Marsu řeší záhadu zajímavého vzorce „boxwork“ na fotografii dne pro 19. září 2025",
+      "original_title": "Curiosity Mars rover puzzles over intriguing 'boxwork' pattern photo of the day for Sept. 19, 2025 - Space",
+      "url": "https://www.space.com/space-exploration/mars-rovers/curiosity-mars-rover-puzzles-over-intriguing-boxwork-pattern-space-photo-of-the-day-for-sept-19-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YReCbKYvBPp4wJ3yYMEmyK.jpg",
+      "source": "Space.com",
       "publishedAt": "2025-09-19T12:00:00Z",
-      "description": "Zákonodárci by měli v pátek hlasovat o konkurenčních návrzích prozatímních rozpočtů v době blížícího se uzavření vlády."
+      "description": "Boxwork, vzor připomínající z vesmíru pavučinu, nabízí stopy k vodní minulosti Marsu."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trumpův mediální vykonavatel si užívá svůj okamžik Jimmyho Kimmela",
+      "title": "Trumpův mediální hlídač si užívá svůj okamžik Jimmyho Kimmela",
       "original_title": "Trump’s media enforcer is relishing his Jimmy Kimmel moment - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/09/19/trumps-media-enforcer-is-relishing-his-jimmy-kimmel-moment/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EHQWSPMK5FFXHR6QDANJ7FXEJA.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-19T11:32:03Z",
-      "description": "Brendan Carr ztělesňuje prezidentovu křížovou výpravu proti mainstreamovým médiím a teprve začíná."
+      "description": "Brendan Carr se stal ztělesněním prezidentovy křížové výpravy proti mainstreamovým médiím a teprve začíná."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hlavní kalifornské zdravotní pojišťovny se přidaly k Newsomovi a lékařským skupinám, aby hradily očkování proti COVIDu",
+      "title": "Hlavní kalifornské zdravotní pojišťovny se přidávají k Newsomovi a lékařským skupinám, aby hradily očkování proti COVIDu",
       "original_title": "Major California health insurers side with Newsom and medical groups to cover COVID shots - The Mercury News",
       "url": "https://www.mercurynews.com/2025/09/18/major-california-health-insurers-side-with-newsom-and-medical-groups-to-cover-covid-shots/",
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/09/SJM-L-VACCINE-0906-3.jpg?w=1024&h=683",
       "source": "The Mercury News",
       "publishedAt": "2025-09-19T11:26:36Z",
-      "description": "Kaiser, Aetna a další giganti uvedli, že budou hradit posilující vakcíny proti covidu až do roku 2026, a to i přesto, že je panel CDC pod přísným dohledem"
+      "description": "Kaiser, Aetna a další giganti uvedli, že budou hradit posilující vakcíny proti covidu-19 až do roku 2026, a to i přesto, že je panel CDC podrobuje přísnému zkoumání"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trump a Si se dnes čeká, že finalizují dlouho připravovanou dohodu o TikToku",
-      "original_title": "Trump and Xi are expected to finalize a long-sought TikTok deal today - CNN",
-      "url": "https://www.cnn.com/2025/09/19/tech/tiktok-sale-trump-xi",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250428-xi-trump-0425.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-19T11:00:05Z",
-      "description": "Prezident Donald Trump a čínský vůdce Si Ťin-pching mají v pátek dokončit dohodu o prodeji většiny amerických aktiv TikToku americkým investorům. Dohoda, pokud bude uzavřena, by ukončila několikale..."
+      "title": "Takto vám může víkendové zatmění Slunce ve znamení Panny rozhodit tělo",
+      "original_title": "Here’s how this weekend’s solar eclipse in Virgo can mess with your body - New York Post",
+      "url": "https://nypost.com/2025/09/19/astrology/heres-how-the-solar-eclipse-in-virgo-can-mess-with-your-body/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-tvvv3fevq-1758146879587.jpg?quality=75&strip=all&1758132836&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-09-19T11:00:00Z",
+      "description": "Částečné zatmění Slava v Panně dorazí 21. září na karmických 29° — a tato kosmická událost se může odehrávat v našich tělech a skrze ně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ray Dalio říká, že svět ztrácí zájem kupovat americký dluh, ale Amerika není schopna omezit své výdaje",
-      "original_title": "Ray Dalio says the world is running out of interest in buying U.S. debt—but America is unable to cut back its spending - Fortune",
-      "url": "https://fortune.com/2025/09/19/ray-dalio-national-debt-demand-supply-imbalance/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2211650152-e1758275480694.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-19T10:14:00Z",
-      "description": "Podle Dalia však USA nejsou v pozici, aby mohly omezit své výdaje"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Exkluzivně: První pohled na přepracovanou zkušenost s Google Home od Gemini",
-      "original_title": "Exclusive: Here's your first look at the redesigned Google Home experience powered by Gemini - Android Authority",
-      "url": "https://www.androidauthority.com/google-home-app-gemini-redesign-first-look-3599245/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-10.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-09-19T09:27:08Z",
-      "description": "V aplikaci Google Home se chystá redesign, přináší Geminii pro domácnost a nové uživatelské rozhraní pro lepší ovládání chytré domácnosti."
+      "title": "Akcie dnes: Futures na Dow kolísají; očekává se hovor Si-Trump — živě",
+      "original_title": "Stock Market Today: Dow Futures Waver; Xi-Trump Call Expected — Live Updates - The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-19-2025",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-19T11:00:00Z",
+      "description": ""
     },
     {
       "flag": "🌍",
@@ -109,62 +208,7 @@
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbb%2F12%2Fd61ec40a48dab073c9f9013ee392%2F2025-0909-maha-francis-10-1.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-19T09:00:00Z",
-      "description": "Jeden právník proti očkování označil povinnost za „nástroj tyranů, zločinců a diktátorů“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "V USA mají nový, delší test občanství s více otázkami z historie; vyzkoušejte si některé z nich v našem kvízu.",
-      "original_title": "There's a new, longer U.S. citizenship test with more history questions; here's a quiz with some of them. - NBC News",
-      "url": "https://www.nbcnews.com/data-graphics/new-citizenship-test-longer-uscis-civics-quiz-rcna230744",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250918-citizenship-ceremony-se-329p-7392b2.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-19T09:00:00Z",
-      "description": "Žadatelé o občanství budou v rámci přírodního testu občanské nauky pro rok 2025 odpovídat až na 20 náhodně vybraných otázek ze 128; své znalosti si můžete otestovat v našem upraveném kvízu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Maďarsko po vzoru Trumpa označí Antifu za teroristickou organizaci, říká Orbán",
-      "original_title": "Hungary, following Trump, will designate antifa a terrorist organization, Orbán says - AP News",
-      "url": "https://apnews.com/article/hungary-antifa-terrorist-organization-trump-orban-5d4e2041f82acc603f9b1c78375b25d7",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0b6cf17/2147483647/strip/true/crop/3500x1969+0+181/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2F67%2Fd815f71bd5c5350f88e1217239d9%2F9ce2f4c366224160b9f23cfaa02bdbd6",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-19T07:53:00Z",
-      "description": "Maďarsko plánuje označit Antifu za teroristickou organizaci, následuje podobné oznámení amerického prezidenta Trumpa. Premiér Viktor Orbán v pátek vyjádřil podporu Trumpovu rozhodnutí. Antifa, zkra..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Podle úřadů našly úřady ostatky, o kterých se domnívají, že patří uprchlíku Travisi Deckerovi obviněnému z vraždy tří dcer ve státě Washington",
-      "original_title": "Authorities find remains they think are fugitive Travis Decker, accused of killing his 3 daughters in Washington state, officials say - CBS News",
-      "url": "https://www.cbsnews.com/news/travis-decker-human-remains-washington-state-murder-3-daughters/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/30/3ab96f67-b153-49af-b9ca-753ec99845c6/thumbnail/1200x630/488d21cd9b14c88f60a4a1184f023afe/travis-decker.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-19T05:21:00Z",
-      "description": "Úřady hledaly Travise Deckera od 30. května, kdy nevrátil své tři dcery k matce do domova ve Wenatchee ve státě Washington."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Cardi B je zpět a na singlu ‚Am I the Drama?‘ jde po krvi",
-      "original_title": "Cardi B Is Back and Out For Blood on ‘Am I the Drama?’ - Rolling Stone",
-      "url": "http://www.rollingstone.com/music/music-album-reviews/cardi-b-am-i-the-drama-review-1235430895/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/cardi-b-album-review.jpg?crop=0px%2C84px%2C1800px%2C1015px&resize=1600%2C900",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-19T04:00:00Z",
-      "description": "Recenze Cardi B v 'Am I the Drama?': Superhvězda je zpět a jde si pro krk"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump se chystá propustit amerického žalobce za odpor k snaze obvinit newyorskou generální prokurátorku Letitii Jamesovou: Zdroje",
-      "original_title": "Trump poised to fire US attorney for resisting effort to charge NY AG Letitia James: Sources - ABC News",
-      "url": "https://abcnews.go.com/US/trump-poised-fire-us-attorney-resisting-effort-charge/story?id\\\\u003d125700904",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-19T03:00:58Z",
-      "description": ""
+      "description": "Jeden právník odmítající očkování označil povinnost za „nástroj tyranů, zločinců a diktátorů“."
     },
     {
       "flag": "🌍",
@@ -175,29 +219,18 @@
       "urlToImage": "https://www.apple.com/newsroom/images/2025/09/the-latest-iphone-apple-watch-and-airpods-arrive-in-apple-store-locations/tile/Apple-Sydney-customers-holding-iPhone-17-Pro-250919-lp.jpg.og.jpg?202509190505",
       "source": "Apple Newsroom",
       "publishedAt": "2025-09-19T02:48:08Z",
-      "description": "V pátek 19. září představil Apple svůj nejnovější sortiment produktů v prodejnách Apple Store po celém světě."
+      "description": "V pátek 19. září představil Apple svou nejnovější řadu produktů v prodejnách Apple Store po celém světě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Futures na akcie se po zisku nových maxim mění jen málo: Živé aktualizace",
-      "original_title": "Stock futures are little changed after market rallies to all-time highs: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/09/18/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200758-1758208985156-Traders-Photo-CB-MW-20250918-PRESS-4.jpg?v=1758209187&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-18T23:20:00Z",
-      "description": "Hlavní indexy ve čtvrtek vzrostly na rekordní maxima."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Oregonští mohou nyní přijít do místních lékaren na očkování proti covidu. Zde je důvod",
+      "title": "Oregonští mohou nyní přijít do místních lékáren na očkování proti covidu. Zde je důvod",
       "original_title": "Oregonians can now walk into local pharmacies to get a COVID shot. Here’s why - OregonLive.com",
       "url": "https://www.oregonlive.com/health/2025/09/oregonians-can-now-walk-into-local-pharmacies-to-get-a-covid-shot-heres-why.html",
       "urlToImage": "https://www.oregonlive.com/resizer/v2/D3IPF357KNBDDEC5L2CYHT6M54.jpg?auth=c1dd5029d917f8ae26c4a7cb968255afabf36e001d2d2ae465a133849f395e02&width=1280&smart=true&quality=90",
       "source": "OregonLive",
       "publishedAt": "2025-09-18T22:43:00Z",
-      "description": "Většina obyvatel Oregonu může nyní získat novou vakcínu proti COVID-19 v lékárnách bez předpisu."
+      "description": "Většina obyvatel Oregonu může nyní dostat novou vakcínu proti COVID-19 v lékárnách bez předpisu."
     },
     {
       "flag": "🌍",
@@ -208,7 +241,7 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-18T19:27:58Z",
-      "description": "Budoucnost prohlížeče Chrome jako prohlížeče s umělou inteligencí začíná dnes."
+      "description": "Budoucnost Chrome jako prohlížeče s umělou inteligencí začíná dnes."
     },
     {
       "flag": "🌍",
@@ -224,46 +257,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "VIDEO: Raketa SpaceX Falcon 9 byla vidět nad Syrakusami ve čtvrtek ráno",
-      "original_title": "WATCH: SpaceX Falcon 9 seen over Syracuse Thursday AM - WSYR",
-      "url": "https://www.localsyr.com/news/local-news/watch-spacex-falcon-9-seen-over-syracuse-thursday-am/",
-      "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/09/Falcon9-Robert-Scales.jpg?w=1280",
-      "source": "WSYR",
-      "publishedAt": "2025-09-18T14:41:59Z",
-      "description": "SpaceX vypustilo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu, což zachytila kamera Energy Savers’ SkyNET 9 ze zoo Rosamond Gifford v Syracuse."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Největší nákladní loď Northrop Grummanu poprvé dorazila k ISS",
-      "original_title": "Northrop Grumman's biggest-ever cargo spacecraft arrives at ISS on its debut mission - Space",
-      "url": "https://www.space.com/space-exploration/international-space-station/northrop-grumman-biggest-ever-cargo-spacecraft-cygnus-xl-arrives-at-iss",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SHWHA9Dc7CsQoTzK3Q3kx7.png",
-      "source": "Space.com",
-      "publishedAt": "2025-09-18T14:16:03Z",
-      "description": "Nový jumbo Cygnus dnes ráno (18. září) doručil na orbitální laboratoř zhruba 5000 kilogramů nákladu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nejstarší a nejkompletnější fosilie dinosaura s kupolovitou hlavou byla nalezena v Mongolsku",
-      "original_title": "Oldest and most complete fossil of a dome-headed dinosaur is found in Mongolia - NBC News",
-      "url": "https://www.nbcnews.com/world/asia/oldest-complete-fossil-dome-headed-dinosaur-found-mongolia-rcna232070",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250918-dome-headed-dino-rs-a510a2.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-18T10:51:54Z",
-      "description": "Vědci v Mongolsku objevili nejstarší a nejkompletnější fosilii pachycefalosaura, skupiny dinosaurů známých pro své kopulovité lebky."
+      "title": "Nákladní loď Northrop Grumman dorazila k Mezinárodní vesmírné stanici s denním zpožděním kvůli poruše motoru",
+      "original_title": "Northrop Grumman cargo ship reaches the International Space Station a day late after engine issue - ABC News",
+      "url": "https://abcnews.go.com/Business/wireStory/northrop-grumman-cargo-ship-reaches-international-space-station-125698312",
+      "urlToImage": "https://i.abcnewsfe.com/a/7c618d87-c264-4f2c-8bdd-212af906b197/wirestory_bfee7282cf40a8808dad174c43f803ab_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-09-18T13:06:22Z",
+      "description": "Zásobovací loď dorazila k Mezinárodní vesmírné stanici po dni zpoždění kvůli předčasnému vypnutí motoru"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Tiché příznaky, že vaše játra mohou být v ohrožení: Změny na těle, na které si dát pozor, a každodenní návyky, které je způsobují",
+      "title": "Tiché signály, že vaše játra mohou mít potíže: Tělesné změny, na které si dát pozor, a každodenní návyky, které je způsobují",
       "original_title": "Silent signs your liver may be struggling: Body changes to watch for and the everyday habits behind it - The Times of India",
       "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/silent-signs-your-liver-may-be-struggling-body-changes-to-watch-for-and-the-everyday-habits-behind-it/photostory/123960262.cms",
       "urlToImage": "https://static.toiimg.com/photo/123960274.cms",
       "source": "The Times of India",
       "publishedAt": "2025-09-18T01:33:52Z",
       "description": "Většina z nás o svých játrech příliš nepřemýšlí, dokud se něco nepokazí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zobrazování frekvenčně závislé anizotropie fononů na atomární úrovni",
+      "original_title": "Atomic-scale imaging of frequency-dependent phonon anisotropy - Nature",
+      "url": "https://www.nature.com/articles/s41586-025-09511-z",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09511-z/MediaObjects/41586_2025_9511_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2025-09-17T16:10:20Z",
+      "description": "Nový typ spektroskopie elektronových energetických ztrát s výběrem hybnosti umožňuje zobrazování frekvenčně a symetrii závislých vibračních anizotropií s rozlišením na atomy s prvkovým rozlišením."
     }
   ]
 }
