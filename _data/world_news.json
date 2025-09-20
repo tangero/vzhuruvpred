@@ -1,27 +1,49 @@
 {
-  "last_updated": "2025-09-20T02:53:06",
+  "last_updated": "2025-09-20T03:26:44",
   "articles": [
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Poradní panel CDC pro vakcíny s novými členy vybranými RFK Jr. hlasuje o vakcíně proti spalničkám",
-      "original_title": "CDC's vaccine advisory panel, with new members picked by RFK Jr., votes on measles shot - CBS News",
-      "url": "https://www.cbsnews.com/live-updates/cdc-vaccine-advisory-committee-rfk-jr-vote-measles-hepatitis-b/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/18/39e25e22-727b-4254-9df9-1d584fdfc335/thumbnail/1200x630g2/18d63e6468d814fd551bca3107180330/ap25259066459094.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-18T23:52:04Z",
-      "description": "Poradní výbor CDC pro očkovací praktiky se ve čtvrtek sešel, aby projednal a odhlasoval doporučení pro vakcíny proti hepatitidě B a MMRV (spalničky, příušnice, zarděnky a plané neštovice) pro děti."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Poradci CDC poprvé upravili očkování pro děti",
+      "original_title": "CDC advisers make their first childhood vaccine edit - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/18/hepatitis-b-infant-vaccine-recommendation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SX3MYUMK24Z2YBM3ATD56ROW2M.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-19T02:32:31Z",
+      "description": "Výbor poměrem hlasů 8:3 doporučil odložit používání vakcíny proti spalničkám, příušnicím, zarděnkám a planým neštovicím, kterou dostává asi 15 procent dětí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Senát schválil „Národní den památky Charlieho Kirka“",
-      "original_title": "Senate passes \"National Day of Remembrance for Charlie Kirk\" - Axios",
-      "url": "https://www.axios.com/2025/09/18/charlie-kirk-national-day-remembrance-senate",
-      "urlToImage": "https://images.axios.com/TYFFt5b2qbBVZOdCgXiTZKtrZgY=/0x0:6635x3732/1366x768/2025/09/18/1758230394175.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-18T23:32:47Z",
-      "description": "Rezoluce navrhuje vyhlásit 14. říjen, den Kirkových narozenin, jako den památky."
+      "title": "Zvolení představitelé zatčeni během protestů proti imigrační policii, které eskalují před Federálním komplexem č. 26",
+      "original_title": "Elected officials arrested as anti-ICE protests escalate at 26 Federal Plaza - Politico",
+      "url": "https://www.politico.com/news/2025/09/18/ice-nyc-protest-00572418",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F14%2F99%2Fdb0ae23b4f809d719859b521326b%2Fimg-1555.JPG",
+      "source": "Politico",
+      "publishedAt": "2025-09-18T23:35:33Z",
+      "description": "Newyorští demokraté požadují prověřit podmínky zadržovaných migrantů poté, co federální soudce zmínil přeplněnost a nedostatek hygieny."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "USA vetovaly rezoluci Rady bezpečnosti OSN požadující okamžité příměří v Gaze a propuštění rukojmích",
+      "original_title": "US vetoes UN Security Council resolution demanding immediate Gaza ceasefire and hostage release - AP News",
+      "url": "https://apnews.com/article/gaza-resolution-israel-hamas-hostages-ceasefire-f11ff1d39387062455c0b0bf4bdea1e4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8b67547/2147483647/strip/true/crop/3960x2228+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F6b%2F818e62628ff9cfada9105c4d50b7%2F57ed70f406c64a70be883d80fd12a40e",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-18T23:08:00Z",
+      "description": "Spojené státy podruhé zablokovaly rezoluci Rady bezpečnosti OSN požadující okamžité a trvalé příměří v Gaze"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Prezident Texas A&M Mark A. Welsh III odstoupí po týdnu nepokojů kvůli virálnímu videu z výuky",
+      "original_title": "Texas A&M President Mark A. Welsh III to step down after a week of turmoil over viral classroom video - The Texas Tribune",
+      "url": "https://www.texastribune.org/2025/09/18/texas-am-university-president-mark-welsh-resigns/",
+      "urlToImage": "https://thumbnails.texastribune.org/3-S90O4YGe2klQA0tl-MsiuoSxY=/1200x630/filters:quality(95):focal(0x0:3200x2133)/static.texastribune.org/media/files/650397cf02231d060d2400d5e2727284/Mark%20Welsh%20TAMU%20MS%2007%20-%20CROPPED.jpg",
+      "source": "The Texas Tribune",
+      "publishedAt": "2025-09-18T23:05:05Z",
+      "description": "Výzvy k odvolání Welshe sílily kvůli jeho postupu při stížnosti studentky na diskusi o genderové identitě v hodině dětské literatury."
     },
     {
       "flag": "🇺🇸",
@@ -32,23 +54,23 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GVNEAN7D7S56AJBTAMPORQGY6I_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-18T22:47:11Z",
-      "description": "Republikáni na slyšení v rámci výboru pro dohled chválili Trumpův zákrok, kdy úředníci z D.C. uznali, že federální zásah pomohl „urychlit“ pokles kriminality, ale bránili své politiky."
+      "description": "Republikáni na slyšení v přehledovém výboru Sněmovny chválili Trumpův zásah, kdy úředníci D.C. uznali, že federální intervence pomohla „urychlit“ pokles kriminality, ale bránili své politiky."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Buttigieg Harrisové: Vybrat si mě jako svého viceprezidenta by nebylo příliš riskantní",
+      "title": "Buttigieg Harrisové: Vybrat si mě jako svou viceprezidentku by nebylo příliš riskantní",
       "original_title": "Buttigieg to Harris: It wouldn’t have been too risky to pick me as your running mate - Politico",
       "url": "https://www.politico.com/news/2025/09/18/buttigieg-harris-runing-mate-107-days-00571954",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F3f%2F29%2F7ece8e1f492a97da808978de54a7%2Fus-election-2026-redistricting-indiana-96445.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-18T22:41:28Z",
-      "description": "Bývalý ministr dopravy reagoval na pasáž z nové knihy bývalé viceprezidentky, která vysvětlovala, proč si ho nevybrala za svého viceprezidenta."
+      "description": "Bývalý ministr dopravy reagoval na pasáž z nové knihy bývalé viceprezidentky, v níž vysvětlila, proč si ho nevybrala jako svého viceprezidenta."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Stephen Colbert podpořil Jimmyho Kimmela, nazval Trumpa ‚autokratem‘",
+      "title": "Stephen Colbert podpořil Jimmyho Kimmela a označil Trumpa za ‚autokratu‘",
       "original_title": "Stephen Colbert supports Jimmy Kimmel, calls Trump an 'autocrat' - CNBC",
       "url": "https://www.cnbc.com/2025/09/18/jimmy-kimmel-kirk-colbert-letterman-trump.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106187739-1571331290739gettyimages-1158652595.jpeg?v=1758238336&w=1920&h=1080",
@@ -59,40 +81,40 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Absolvent Harvard Business School zatčen za podvod, jímž vylákal od spoluabsolventů přes 4 miliony dolarů",
+      "title": "Absolvent Harvard Business School zatčen za podvod s kolegy absolventy o více než 4 miliony dolarů",
       "original_title": "Harvard Business School graduate arrested on charges he cheated fellow alums out of over $4 million - AP News",
       "url": "https://apnews.com/article/harvard-business-ponzi-scheme-86afe045d4d0f65e86989c165a1eab70",
       "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
       "source": "Associated Press",
       "publishedAt": "2025-09-18T21:45:00Z",
-      "description": "Federální úřady zatkly absolventa Harvard Business School s obviněním, že vyloupil své kolegy z prestižní školy o více než 4 miliony dolarů."
+      "description": "Federální úřady zatkly absolventa Harvard Business School s obviněním, že vylákal od spolužáků z prestižní školy přes 4 miliony dolarů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Federálové zatkli 11 volených úředníků v manhattanském zařízení ICE – THE CITY",
-      "original_title": "Feds Arrests 11 Elected Officials Inside Manhattan ICE Facility - THE CITY - NYC News",
-      "url": "https://www.thecity.nyc/2025/09/18/dhs-arrests-brad-lander-democratic-lawmakers-26-federal-plaza/",
-      "urlToImage": "https://www.thecity.nyc/wp-content/uploads/2025/09/091825_26_fed_sit_in-2.jpg",
-      "source": "THE CITY",
-      "publishedAt": "2025-09-18T21:07:40Z",
-      "description": "Skupinu tvořilo 10 zákonodárců, všichni demokraté, spolu s městským kontrolorem Bradem Landerem."
+      "title": "Vzácného hybridního ptáka identifikovali v Texasu",
+      "original_title": "A grue jay? Rare hybrid bird identified in Texas - Phys.org",
+      "url": "https://phys.org/news/2025-09-grue-jay-rare-hybrid-bird.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-grue-jay-rare-hybrid.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-09-18T21:03:04Z",
+      "description": "Biologové z Texaské univerzity v Austinu hlásí objev ptáka, který je přirozeným výsledkem páření zelené sojky a modré sojky. Tvrdí, že by mohl jít o jeden z prvních příkladů hybridního živočicha ex..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Senát najednou potvrdil 48 Trumpových nominantů včetně Kimberly Guilfoyleové a Callisty Gingrichové",
-      "original_title": "Senate confirms 48 Trump nominees at once, including Kimberly Guilfoyle and Callista Gingrich - NBC News",
-      "url": "https://www.nbcnews.com/politics/congress/senate-confirms-48-trump-nominees-kimberly-guilfoyle-callista-gingrich-rcna231946",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250917-donald-trump-vl-303p-db4a56.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-18T21:04:16Z",
-      "description": "Senát schválil 48 Trumpových nominantů v balíčku poté, co republikánská většina spustila „jadernou možnost“ k zásadní změně pravidel."
+      "title": "Zemětřesení o síle 7,8 stupně udeřilo u pobřeží Ruska",
+      "original_title": "Magnitude 7.8 earthquake strikes off Russia's coast - CBS News",
+      "url": "https://www.cbsnews.com/news/magnitude-7-8-earthquake-russia-tsunami-advisory-alaska/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/18/979931ad-a2ba-4975-8fdf-c42f56ed32b3/thumbnail/1200x630/738411cf18c663e0db9c14e8b5f02627/tsunami.png",
+      "source": "CBS News",
+      "publishedAt": "2025-09-18T20:58:00Z",
+      "description": "Byla vydána výstraha před tsunami pro Aleutské ostrovy na Aljašce, přičemž podle USGS může k tsunami aktivitě dojít v Shemya na Aljašce v 12:25 místního času (AKDT)."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podezřelý z vraždy policistů v Pensylvánii byl čtyřiadvacetiletý muž hledaný pro obvinění ze stalkingu",
+      "title": "Podezřelý z vraždy pensylvánských strážníků byl čtyřiadvacetiletý muž hledaný pro stalkování",
       "original_title": "Suspect in killing of Pennsylvania officers was a 24-year-old being sought on stalking charges - PBS",
       "url": "https://www.pbs.org/newshour/nation/suspect-in-killing-of-3-pennsylvania-officers",
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-18T013841Z_1654843155_RC2OTGANCBDT_RTRMADP_3_USA-SHOOTING-PENNSYLVANIA-1024x682.jpg",
@@ -103,13 +125,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nvidia investuje 5 miliard dolarů do Intelu a vyvine čipy s bývalým rivalem",
-      "original_title": "Nvidia to invest $5B in Intel and develop chips with onetime rival - NBC News",
-      "url": "https://www.nbcnews.com/business/business-news/nvidia-invest-5-billion-intel-develop-chips-one-time-rival-rcna232094",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250731-Nvidia-rs-d7a2f1.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-18T20:33:08Z",
-      "description": "Nvidia, společnost pohánějící revoluci v umělé inteligenci, kupuje podíl v hodnotě 5 miliard dolarů v problémovém rivalovi Intelu"
+      "title": "FTC žaluje Ticketmaster a Live Nation kvůli přeprodávání vstupenek",
+      "original_title": "Ticketmaster, Live Nation Sued by FTC Over Ticket Resales - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-18/ticketmaster-live-nation-sued-by-ftc-over-ticket-resales",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW32EWcAaA24/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-18T20:37:48Z",
+      "description": "Americká Federální obchodní komise a sedm států žalovaly Live Nation Entertainment a její dceřinou společnost Ticketmaster za nedostatečné potírání automatických botů a rozsáhlých přeprodejních ope..."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Sledujte, jak brýle Meta Ray-Ban Display selžou v trapné živé ukázce Marka Zuckerberga",
+      "original_title": "Watch the Meta Ray-Ban Display glasses fail in Mark Zuckerberg's painful live demo - Mashable",
+      "url": "https://mashable.com/article/mark-zuckerberg-failed-demo-meta-ray-ban-display-glasses",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0708qTO9oXnOTQWyXeAll0p/hero-image.fill.size_1200x675.v1758207916.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-18T20:37:30Z",
+      "description": "To je tak trapné."
     },
     {
       "flag": "🌍",
@@ -120,51 +153,18 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-09-18T20:11:00Z",
-      "description": "První předobjednávky iPhonu 17, iPhonu Air, Apple Watch Series 11, Apple Watch Ultra 3 a AirPods Pro 3 jsou…"
+      "description": "První předobjednávky iPhonu 17, iPhonu Air, Apple Watch Series 11, Apple Watch Ultra 3 a AirPods Pro 3 jsou..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump navrhuje odebrat vysílací licence stanicím, které ho kritizují",
-      "original_title": "Trump floats stripping networks critical of him of their broadcast licenses - Politico",
-      "url": "https://www.politico.com/news/2025/09/18/trump-floats-stripping-networks-critical-of-him-of-their-broadcast-licenses-00571953",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd5%2Fd3%2F898d0aa944c4bd41fea9fbb077ec%2F2025-pre-grammy-gala-42283.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-18T20:05:07Z",
-      "description": "„Dávají na mě tak špatné zprávy a oni získají licenci,“ řekl prezident."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nákladní loď Northrop Grumman dorazila k Mezinárodní vesmírné stanici s denním zpožděním kvůli poruše motoru",
-      "original_title": "Northrop Grumman cargo ship reaches the International Space Station a day late after engine issue - ABC News",
-      "url": "https://abcnews.go.com/Business/wireStory/northrop-grumman-cargo-ship-reaches-international-space-station-125698312",
-      "urlToImage": "https://i.abcnewsfe.com/a/7c618d87-c264-4f2c-8bdd-212af906b197/wirestory_bfee7282cf40a8808dad174c43f803ab_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-09-18T19:58:53Z",
-      "description": "Zásobovací loď dorazila k Mezinárodní vesmírné stanici po jednodenním zpoždění způsobeném předčasným vypnutím motoru"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "FTC žaluje Live Nation a Ticketmaster za údajně nezákonné praktiky přeprodeje vstupenek",
-      "original_title": "FTC sues Live Nation and Ticketmaster alleging illegal resale tactics - NPR",
-      "url": "https://www.npr.org/2025/09/18/g-s1-89496/ftc-live-nation-ticketmaster-lawsuit-ticket-resales",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Fce%2Fbf3329cf4b9f8bb5f228c62969d6%2Fgettyimages-2155131900.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-18T19:44:08Z",
-      "description": "Federální obchodní komise podala žalobu na Ticketmaster a jeho mateřskou společnost Live Nation"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Google oznamuje masivní rozšíření funkcí umělé inteligence v prohlížeči Chrome",
-      "original_title": "Google announces massive expansion of AI features in Chrome - Ars Technica",
-      "url": "https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-18T19:27:58Z",
-      "description": "Budoucnost prohlížeče Chrome jakožto prohlížeče s umělou inteligencí začíná dnes."
+      "title": "Akcie FedEx rostou díky lepším než očekávaným ziskům",
+      "original_title": "FedEx stock rises on better-than-expected earnings - CNBC",
+      "url": "https://www.cnbc.com/2025/09/18/fedex-fdx-q1-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108199653-1758060723077-gettyimages-2235807871-emaz-1_em29470.jpeg?v=1758060843&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-18T20:10:50Z",
+      "description": "FedEx překonal odhady zisku i tržeb ve zprávě za první fiskální čtvrtletí."
     },
     {
       "flag": "🇺🇸",
@@ -175,51 +175,40 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVMCW4EUJYI7BAZWI5L6C2HMFI.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-18T19:12:59Z",
-      "description": "Saúdská Arábie podepsala s jadernou Pákistánem obranný pakt. Útok na jednu zemi bude považován za útok na obě"
+      "description": "Saúdská Arábie podepsala obranný pakt s jaderně vyzbrojeným Pákistánem, přičemž se zavázala, že jakýkoli útok na jednu ze zemí bude považován za útok na obě"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mark Zuckerberg byl ponížen, když debut brýlí s AI selhal před obrovským davem",
-      "original_title": "Mark Zuckerberg Humiliated as AI Glasses Debut Fails in Front of Huge Crowd - Futurism",
-      "url": "https://futurism.com/mark-zuckerberg-ai-glasses-demo-fails",
-      "urlToImage": "https://wordpress-assets.futurism.com/2025/09/mark-zuckerberg-ai-glasses-demo-fails.jpg",
-      "source": "Futurism",
-      "publishedAt": "2025-09-18T19:03:58Z",
-      "description": "Několikeré dema nových chytrých brýlí od šéfa Mety Marka Zuckerberga selhala, což vedlo k trapným pohledům, hlučnému tichu a tlumenému smíchu."
+      "title": "Trump říká, že ho Putin ‚zklamal‘, spojenci musí přestat nakupovat ropu",
+      "original_title": "Trump Says Putin ‘Let Me Down,’ Allies Must Stop Buying Oil - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-18/trump-says-putin-let-me-down-after-meeting-starmer-on-ukraine",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuHdIUBGdVeQ/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-18T18:49:22Z",
+      "description": "Trump: Putin mě „opravdu zklamal“, ale USA budou více tlačit na Kreml jen, pokud spojenci přestanou kupovat ruskou ropu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Proč hypoteční sazby ve skutečnosti rostou po snížení úrokových sazeb Fedem",
-      "original_title": "Why mortgage rates are actually going up after the Fed cut interest rates - MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-mortgage-rates-are-actually-going-up-after-the-fed-cut-interest-rates-87c712bd",
-      "urlToImage": "https://images.mktw.net/im-37282588/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-18T18:42:00Z",
-      "description": "‚Skutečně jsme předpokládali možnost, že sazby po oznámení Fedu mírně vzrostou,‘ říká ekonom"
+      "title": "Poruchu softwaru, nikoliv motoru, způsobil zpoždění kritické dodávky pro ISS",
+      "original_title": "A software glitch—not an engine failure—delayed a critical ISS cargo delivery - Ars Technica",
+      "url": "https://arstechnica.com/space/2025/09/a-software-glitch-not-an-engine-failure-delayed-a-critical-iss-cargo-delivery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23issarrival-1152x648-1758218367.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-18T18:38:54Z",
+      "description": "Předčasné vypnutí motorů spustila konzervativní softwarová pojistka."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Starmer se chystá uznat palestinský stát před summitem OSN",
-      "original_title": "Starmer prepares to recognize Palestinian state before UN summit - politico.eu",
-      "url": "https://www.politico.eu/article/keir-starmer-palestinian-statehood-un-general-assembly/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/GettyImages-2235534655-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-09-18T18:40:00Z",
-      "description": "Britský premiér kráčí po diplomatickém laně — doma i v zahraničí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Děje se něco velmi podivného na horizontu událostí této supermasivní černé díry",
-      "original_title": "Something Extremely Strange Is Happening at the Event Horizon of This Supermassive Blackhole - Gizmodo",
-      "url": "https://gizmodo.com/something-extremely-strange-happening-event-horizon-supermassive-blackhole-2000660888",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/black-hole-m87-evolution-event-horizon-telescope-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-09-18T18:05:21Z",
-      "description": "Nová pozorování černé díry M87* odhalila, že v poslední dekádě prošla několika magnetickými převraty."
+      "title": "Aktualizace iOS 26 je povinná pro všechny modely iPhone 17 již první den",
+      "original_title": "Day One iOS 26 Updates Required for All iPhone 17 Models - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/18/ios-26-day-one-updates-required/",
+      "urlToImage": "https://images.macrumors.com/t/Bj3ZKPorEIWXaGF-hHSmAKz1G7o=/2500x/article-new/2025/08/iOS-26-Glass-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-18T17:38:56Z",
+      "description": "Apple dnes vydal novou verzi iOS 26 (23A345) dostupnou pro iPhone 17 Pro a iPhone 17 Pro Max"
     },
     {
       "flag": "🌍",
@@ -230,95 +219,51 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/gem-sharing-gemini.jpg?resize=1200,754",
       "source": "TechCrunch",
       "publishedAt": "2025-09-18T17:35:13Z",
-      "description": "Funkce spuštěná loni byla původně součástí placeného předplatného Gemini Advanced a umožňovala uživatelům psát instrukce pro vytváření chatbotů pro různé scénáře."
+      "description": "Funkce spuštěná loni zpočátku jako součást placeného předplatného Gemini Advanced umožňovala uživatelům psát instrukce k vytvoření AI chatu pro různé scénáře."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Poslední záblesk prastaré černé díry by mohl vyřešit záhadu neutrin",
+      "title": "Poslední záblesk prvotní černé díry může vyřešit záhadu neutrin",
       "original_title": "Primordial black hole's final burst may solve neutrino mystery - Phys.org",
       "url": "https://phys.org/news/2025-09-primordial-black-hole-neutrino-mystery.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/black-holes-final-burs.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-18T17:32:14Z",
-      "description": "Poslední výdech prastaré černé díry může být zdrojem dosud nejenergetičtější „fantomové částice“, navrhuje nová studie MIT."
+      "description": "Poslední vzdech prastaré černé díry může být zdrojem dosud nejenergičtější detekované „částice duchů“, navrhuje nová studie MIT."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hvězdy seriálu ‚Kráska‘ Lola Tung a Chris Briney o konci 3. řady: „Aspoň jsou tentokrát upřímní“",
-      "original_title": "‘The Summer I Turned Pretty’ Stars Lola Tung And Chris Briney Reflect On Season 3’s Ending: “At Least They’re Honest About It This Time” - Deadline",
-      "url": "http://deadline.com/2025/09/summer-i-turned-pretty-season-3-lola-tung-chris-briney-end-1236548183/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/photo_2_3000.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-18T17:23:00Z",
-      "description": "Hvězdy třetí série \"To léto, kdy jsem zezelenala\" Lola Tung a Christopher Briney rozebírají finále seriálu a pokrok ve vývoji filmu."
+      "title": "VIDEO: Raketa SpaceX Falcon 9 byla vidět nad Syrakusami ve čtvrtek ráno",
+      "original_title": "WATCH: SpaceX Falcon 9 seen over Syracuse Thursday AM - WSYR",
+      "url": "https://www.localsyr.com/news/local-news/watch-spacex-falcon-9-seen-over-syracuse-thursday-am/",
+      "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/09/Falcon9-Robert-Scales.jpg?w=1280",
+      "source": "WSYR",
+      "publishedAt": "2025-09-18T14:41:59Z",
+      "description": "SpaceX vypustilo raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země, což zachytila kamera Energy Savers’ SkyNET 9 ze zoo Rosamond Gifford v Syracuse."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Fotografie ‚Zbičovaná záda‘ odhalila hrůzy otroctví. Teď je v centru debaty o cenzuře v USA",
+      "original_title": "‘Scourged Back’ exposed the horror of slavery. Now it’s embroiled in America’s censorship debate - CNN",
+      "url": "https://www.cnn.com/2025/09/18/style/scourged-back-peter-trump-censorship",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/the-scourged-back-2018-95-2-crop.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-18T13:30:37Z",
+      "description": "Tvrzení, že federální úředníci nařídili odstranění nechvalně známého obrazu z roku 1863, vyvolalo obavy nad snahami Trumpovy administrativy vymýtit to, čemu říká „korozivní ideologie“, a to navzdor..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "WHO: Vypuknutí eboly v DR Kongo si vyžádalo 31 obětí",
-      "original_title": "WHO says Ebola outbreak in DR Congo kills 31 - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/18/who-says-ebola-outbreak-in-congo-kills-31",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/08/99fc78265b584c6a89209e029a4022dc_18.jpeg?resize=1200%2C675",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-18T16:31:05Z",
-      "description": "Agentura OSN potvrzuje 48 případů od vypuknutí epidemie vyhlášeného začátkem měsíce."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Podrobnosti o Burrowově operaci: Hvězda Bengals doufá v návrat v této sezóně",
-      "original_title": "Details on Joe Burrow's Surgery Revealed, Bengals Star Hopes to Return This Season - Sports Illustrated",
-      "url": "https://www.si.com/nfl/bengals/news/details-joe-burrow-surgery-revealed-bengals-star-hopes-return-this-season",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2371,h_1333,x_476,y_1390/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_bengals/01k5etdtvqb1fak6v6ft.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-09-18T16:29:23Z",
-      "description": "Podrobnosti o Burrowově operaci: Hvězda Bengals doufá, že se vrátí ještě v této sezóně"
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Pracovníci po celé Francii stávkují proti plánům na rozpočtové škrty",
-      "original_title": "Workers across France strike over budget cut plans - BBC",
-      "url": "https://www.bbc.com/news/articles/cj9zvg03elzo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3556/live/49ed7770-9496-11f0-84c8-99de564f0440.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-18T15:39:00Z",
-      "description": "Rozsáhlé stávky přicházejí méně než čtrnáct dní po pádu vlády kvůli navrhovanému rozpočtu."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Situace v Gaze je kataklyzmatická, říká představitel OSN, zatímco izraelské tanky postupují",
-      "original_title": "'Cataclysmic' situation in Gaza City, UN official says, as Israeli tanks advance - BBC",
-      "url": "https://www.bbc.com/news/articles/c5y8l46m5evo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ee9/live/26a8c990-9491-11f0-b391-6936825093bd.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-18T14:46:49Z",
-      "description": "Nepřetržitý proud Palestinců prchá na jih, zatímco izraelské tanky podle zpráv postupují dále do největšího městského centra Gazy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Štěnice zákeřné v Ohiu: Co vědět o hmyzu spojovaném s potenciálně smrtelnou nemocí - 10tv.com",
+      "title": "Polibkové štěnice v Ohiu: Co vědět o hmyzu spojeném s potenciálně smrtelnou nemocí - 10tv.com",
       "original_title": "Kissing bugs in Ohio: What to know about the insects linked to a potentially life-threatening disease - 10tv.com",
       "url": "https://www.10tv.com/article/news/health/kissing-bugs-insects-potentially-life-threatening-chagas-disease/530-2fc21333-d260-41e7-9beb-fdfd7f22b5d1",
       "urlToImage": "https://media.tegna-media.com/assets/WBNS/images/310d144e-486f-4ced-82de-6f2b563ad197/20250917T215841/310d144e-486f-4ced-82de-6f2b563ad197_1140x641.jpg",
       "source": "10TV",
       "publishedAt": "2025-09-17T22:57:00Z",
-      "description": "CDC varuje před Chagasovou chorobou, šířenou líbacími plošticemi, které jsou v Ohiu vzácné, ale mohou nést vážná zdravotní rizika."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vzácní předci odhalují, jak se obrovské nelétavé ptáky dostaly do vzdálených zemí",
-      "original_title": "'Rare' ancestor reveals how huge flightless birds made it to faraway lands - Live Science",
-      "url": "https://www.livescience.com/animals/birds/rare-ancestor-reveals-how-huge-flightless-birds-made-it-to-faraway-lands",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bbdk8F5BwKkkRdhLxk9b9Q.png",
-      "source": "Live Science",
-      "publishedAt": "2025-09-17T15:23:06Z",
-      "description": "Záhada, jak příbuzní nelétaví ptáci skončili tak daleko od sebe na různých kontinentech, byla možná vyřešena."
+      "description": "CDC varuje před Chagasovou chorobou, zdůrazňuje její šíření polibkovými brouky, kteří jsou v Ohiu vzácní, ale mohou nést vážná zdravotní rizika."
     }
   ]
 }
