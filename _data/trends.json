@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-19T21:22:32.327110",
+  "updated": "2025-09-20T01:51:59.646538",
   "trends": [
     {
       "rank": 1,
       "query": "miroslav etzler",
-      "news_title": "Zuzana Bydžovská: Půvabná, dnes nepoznávaná, šediny neskrývá",
+      "news_title": "Bydžovská byla půvabná, dnes ji skoro nikdo nepozná. Šediny neskrývá a sluší jí to",
       "news_url": "https://medium.seznam.cz/clanek/honky-tonky-zuzana-bydzovska-byla-puvabna-dnes-by-ji-poznal-malokdo-stale-ji-to-slusi-sediny-neskryva-189007",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvPBkkLyGlDngOoiEtN6_m_Pang1OAcbYzCdarIv_OnZaEDn3P3do9vlbaRto",
       "traffic": "1000++ hledání",
@@ -14,27 +14,47 @@
     {
       "rank": 2,
       "query": "lyon – angers",
-      "news_title": "OL porazilo Angers 1:0 v Ligue 1 (19. 9. 2025)",
-      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2025-2026/lyon-angers-live/675837",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRhNAqt_QtS5u8Rd81RztkGU3h13XvfVCzX7s1shEOsQJO-AMRHE-e6WbCuaY",
+      "news_title": "After Foot (19. 9. 2025) – celý záznam",
+      "news_url": "https://rmcsport.bfmtv.com/replay-emissions/after-foot/l-integrale-de-l-after-foot-du-vendredi-19-septembre-2025_EN-202509190937.html",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSus3q6dyD2NBUDgGpXPi4HbWLfUceWuanIZtwI97CqyN7pOk5TeE7VMesvFpE",
       "traffic": "1000++ hledání",
-      "source": "L'Équipe",
+      "source": "RMC Sport",
       "explore_url": "https://trends.google.cz/trends/explore?q=lyon – angers&geo=CZ"
     },
     {
       "rank": 3,
-      "query": "betis – real sociedad",
-      "news_title": "Betis porazil Real Sociedad 3:1 v zápase LaLigy",
-      "news_url": "https://as.com/futbol/primera/betis-real-sociedad-en-directo-laliga-ea-sports-hoy-en-vivo-n-3/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxUSD4Dg2zaryjK8g3F2HR1AymVzEiT3ZMxXfLlIMvixje5oWqi3kQ8IOHdbs",
-      "traffic": "500++ hledání",
-      "source": "Diario AS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=betis – real sociedad&geo=CZ"
+      "query": "kfc",
+      "news_title": "KFC v Liberci dostalo pokutu za prošlé maso",
+      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-inspekce-na-popud-novinare-zkontrolovala-kfc-v-liberci-padla-pokuta-286514",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKBHVG7WCezjWhMgYgiTi92ax2uuohBbtG1seZYOeu49S8HSlJgMfjHMEP5PU",
+      "traffic": "1000++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=kfc&geo=CZ"
     },
     {
       "rank": 4,
+      "query": "laver cup",
+      "news_title": "Yannick Noah on Sinner-Alcaraz rivalry: 'You don't know what show you're going to see'",
+      "news_url": "https://www.atptour.com/en/news/noah-alcaraz-laver-cup-preview-2025",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEv8LPR0skAjfew-yU0niiHoazh1ruqAtHC8vZMIHoLlZE1eJ2wd8JMIQYFYU",
+      "traffic": "500++ hledání",
+      "source": "ATP Tour",
+      "explore_url": "https://trends.google.cz/trends/explore?q=laver cup&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "betis – real sociedad",
+      "news_title": "Betis ukázal kvalitu a zvítězil 3-1 v Seville",
+      "news_url": "https://mundobetis.com/2025/09/19/el-betis-demuestra-su-calidad-con-una-victoria-de-efecto-en-la-cartuja-3-1/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8xMAwPfmrInEI8d4wAGH-2Cp_bNmqO82CHjTV_XN5rFj8InpEVNtgJpu2P1s",
+      "traffic": "500++ hledání",
+      "source": "MundoBetis",
+      "explore_url": "https://trends.google.cz/trends/explore?q=betis – real sociedad&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "belmondo",
-      "news_title": "Než dnes večer přepnete na nesmysl",
+      "news_title": "Než dnes přepnete na nesmysl",
       "news_url": "https://www.kinotip2.cz/clanky/nepropasnete-tohle-spionazni-drama-profesional-20250919-14391.html",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYKn4wXCh-9jJ9QDgo5hfkMDJf9Ztro447ZMScO2hqMyXJkc2RlKvFSClrqPQ",
       "traffic": "500++ hledání",
@@ -42,7 +62,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=belmondo&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "query": "o2 arena",
       "news_title": "Hanuščinová se svou klisnou vystoupí v O2 areně",
       "news_url": "https://www.sport.cz/clanek/ostatni-zlata-vstupenka-pro-hanuscinovou-se-svou-klisnou-se-predstavi-v-o2-arene-5295275",
@@ -52,34 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=o2 arena&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "query": "kalin",
-      "news_title": "MİT Başkanı Kalın jednal s izraelským ministrem obrany Şarou",
+      "news_title": "MİT Başkanı Kalın, Şara ile görüştü",
       "news_url": "https://www.msn.com/tr-tr/haber/gundem/m%C4%B0t-ba%C5%9Fkan%C4%B1-kal%C4%B1n-%C5%9Fara-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BC/ar-AA1MMMIK",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC7a5zs8TyNPUSYApt8vbgBaaMm_VnMShIDL05FmODQS02EJofQywqsEu2mlc",
       "traffic": "200++ hledání",
       "source": "MSN",
       "explore_url": "https://trends.google.cz/trends/explore?q=kalin&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "lucie bílá",
-      "news_title": "Lucie Bílá schytala hejt, utajená svatba českého páru dojala",
-      "news_url": "https://www.stream.cz/super-cz/flashback-lucie-bila-schytala-poradny-hejt-a-utajena-svatba-slavneho-ceskeho-paru-dojala-vsechny-65358242",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcpOJJQHVp7rslYL_xEeq23KRXugRnzSeR5JZo2QanahumRDHSqtYbY001tnY",
-      "traffic": "200++ hledání",
-      "source": "Stream.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=lucie bílá&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "laver cup",
-      "news_title": "Laver Cup 2025: program, Menšík, výsledky, kde sledovat",
-      "news_url": "https://www.idnes.cz/sport/tenis/laver-cup-program.A250916_093038_tenis_ald",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWOTfrJ_Tadk91UuktGu9gHABJ8cgYYETZXBmMdytD6ZYLsnV_ayujhYIMTho",
-      "traffic": "100++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=laver cup&geo=CZ"
     }
   ]
 }
