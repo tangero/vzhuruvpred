@@ -1,43 +1,54 @@
 {
-  "last_updated": "2025-09-21T12:33:26",
+  "last_updated": "2025-09-21T13:21:04",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kybernetický útok narušil systémy odbavení na velkých evropských letištích",
-      "original_title": "Cyberattack disrupts check-in systems at major European airports - AP News",
-      "url": "https://apnews.com/article/europe-airports-cyberattack-29b6d890baf7ac3a22f0f2b2f169b890",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3f077fa/2147483647/strip/true/crop/5660x3184+0+295/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6d%2F94%2F07dd3884e8a19ba98b453f091c6d%2Ff2e131ae65ff47e68c6ccf5364b2f329",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-20T09:19:00Z",
-      "description": "Kybernetický útok narušil provoz na několika evropských letištích"
+      "title": "Chytré brýle od Mety vám možná přidají na inteligenci. Rozhodně ale budete působit trapně.",
+      "original_title": "Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward - WIRED",
+      "url": "https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/",
+      "urlToImage": "https://media.wired.com/photos/68cda3213e66f0d9fd315ce2/191:100/w_1280,c_limit/Meta-Ray-Ban-Display-Gear-Meta-AI.jpg",
+      "source": "Wired",
+      "publishedAt": "2025-09-20T10:00:00Z",
+      "description": "Šéf Mety Mark Zuckerberg tvrdí, že každý, kdo nebude nosit chytré brýle, bude v budoucnu v „kognitivní nevýhodě“. Za tu přidanou inteligenci ale zaplatíte vysokou sociální cenu."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Laver Cup 2025: Carlos Alcaraz pomohl týmu Evropa k vítěznému startu nad týmem Svět",
+      "original_title": "Laver Cup 2025: Carlos Alcaraz helps Team Europe make winning start over Team World - BBC",
+      "url": "https://www.bbc.com/sport/tennis/articles/cp3v7ejyd52o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea5a/live/3baccf00-9601-11f0-89a4-0f12d2f11e3f.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-20T09:29:19Z",
+      "description": "Carlos Alcaraz pomáhá týmu Evropa závodit k vedení 3:1 nad týmem Svět v první den Laver Cupu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zbraň, kterou měl údajně použít Kirkův vrah, byla výkonná, stará a obtížně dohledatelná",
+      "title": "Zbraň, kterou měl údajně použít Kirkův vrah, byla výkonná, stará a těžko dohledatelná",
       "original_title": "Kirk assassin’s alleged gun was powerful, vintage and hard to trace - NBC News",
       "url": "https://www.nbcnews.com/news/us-news/kirk-assassins-alleged-gun-was-powerful-vintage-hard-trace-rcna231334",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250911-charlie-kirk-investigation-mn-1241-a18d95.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-20T09:00:00Z",
-      "description": "V hektických hodinách po atentátu na Charlieho Kirka objevili vyšetřovatelé zbraň v lesnaté oblasti poblíž místa činu na severu Utahu."
+      "description": "V hektických hodinách po atentátu na Charlie Kirka objevili vyšetřovatelé zbraň v lesnaté oblasti poblíž místa činu v severním Utahu."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Kyberútok narušil provoz na evropských letištích včetně Heathrow a Bruselu",
+      "original_title": "Cyberattack disrupts operations at European airports including Heathrow, Brussels - CNN",
+      "url": "https://www.cnn.com/2025/09/20/travel/europe-airports-cyber-attack-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25263288260536.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-20T08:44:48Z",
+      "description": "Kybernetický útok na poskytovatele služeb pro check-in a boardingové systémy narušil provoz na několika velkých evropských letištích včetně londýnského Heathrow, Bruselu a Berlína, což v sobotu způ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak sledovat pietní akt Charlie Kirka – ABC News – Nejnovější zprávy, aktuální zpravodajství a videa",
-      "original_title": "How to watch the Charlie Kirk memorial service - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/how-watch-charlie-kirk-memorial-service/story?id\\\\u003d125735217",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-20T08:58:24Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Rusko podniklo ‚masivní‘ útok po celé Ukrajině – ABC News – Nejnovější zprávy, aktuální zpravodajství a videa",
+      "title": "Rusko podniklo ‚masivní‘ útok po celé Ukrajině - ABC News - Nejnovější zprávy a videa",
       "original_title": "Russia carries out 'massive' attack across Ukraine - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/International/russia-carries-massive-attack-ukraine/story?id\\\\u003d125760730",
       "urlToImage": null,
@@ -46,15 +57,15 @@
       "description": ""
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Pohrobek Bretta Kavanaugha z Nejvyššího soudu se identifikuje jako trans žena: soudní dokumenty",
-      "original_title": "Supreme Court Justice Brett Kavanaugh’s would-be assassin now identifies as trans woman: court docs - New York Post",
-      "url": "https://nypost.com/2025/09/19/us-news/brett-kavanaughs-would-be-assassin-now-identifies-as-trans-woman-court-docs/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/kavanaugh-would-be-killer-now-trans-women.jpg?quality=75&strip=all&1758324277&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-09-20T03:26:00Z",
-      "description": "Sophie Roske, která se v dubnu přiznala k pokusu o vraždu Kavanaugha, bude od nynějška advokáty označována jako „Sophie Roske“."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpovi nařízeno podat žalobu na New York Times znovu, soudce ji zamítl pro příliš složitost",
+      "original_title": "Trump told to refile New York Times lawsuit judge dismissed as too wordy - Axios",
+      "url": "https://www.axios.com/2025/09/19/trump-new-york-times-lawsuit-dismissed",
+      "urlToImage": "https://images.axios.com/V9I2RyExJ_MZeysmRTcuS9xRy7M=/0x339:5196x3262/1366x768/2025/09/19/1758299054788.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-20T06:36:11Z",
+      "description": "Soudce označil původní žalobu za zbytečně dlouhou a „rozhodně nevhodnou“."
     },
     {
       "flag": "🌍",
@@ -65,45 +76,34 @@
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd9%2F63%2F390af3794e0998ca49fce9ac0313%2Ftrump-tariffs-07704.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-20T02:09:40Z",
-      "description": "Ministerstvo spravedlnosti žádá o pozastavení rozhodnutí federálního soudce, že vláda chybně ukončila dočasný chráněný status pro více než 300 000 Venezuelanů."
+      "description": "Ministerstvo spravedlnosti žádá o pozastavení rozhodnutí federálního soudce, že vláda chybně ukončila dočasnou ochranu pro více než 300 000 Venezuelanů."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Americká armáda provedla třetí smrtící úder proti údajnému plavidlu pašujícímu drogy",
+      "title": "Americká armáda provedla třetí smrtící úder na údajnou loď pašující drogy.",
       "original_title": "US military conducts third fatal strike on alleged drug smuggling vessel - Financial Times",
       "url": "https://www.ft.com/content/c4cff377-5c2a-4f2f-8a75-f30499e32a35",
       "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe091337a-b5fe-47c8-8499-11e6523f6735.jpg?source=next-barrier-page",
       "source": "Financial Times",
       "publishedAt": "2025-09-20T01:25:23Z",
-      "description": "Dřívější útoky cílily na údajné venezuelské kartely, které podle Trumpa pašovaly drogy"
+      "description": "Předchozí útoky cílily na údajné venezuelské kartely, které podle Trumpa pašovaly drogy"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ted Cruz kritizuje šéfa FCC jmenovaného Trumpem za výzvu k „akci“ proti Jimmymu Kimmelovi: „Přímo z filmu Goodfellas“",
-      "original_title": "Ted Cruz criticizes Trump-appointed FCC chair for urging \"action\" on Jimmy Kimmel: \"Right out of Goodfellas\" - CBS News",
-      "url": "https://www.cbsnews.com/news/ted-cruz-fcc-brendan-carr-jimmy-kimmel-goodfellas-trump/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/17/fb9e9eee-b946-42da-aa14-9e970c085d4d/thumbnail/1200x630/48457b0e3b447b3d3463465b403dd15a/ap25167801559617.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-19T23:51:52Z",
-      "description": "Republikánský senátor Ted Cruz z Texasu ostře kritizoval předsedu FCC Brendana Carra za jeho výroky o Jimmy Kimmelovi, označil je za „sakramentsky nebezpečné“ a jeho postup přirovnal k mafiánskému ..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Poradci RFK Jr. pro očkování přidávají překážku k získání vakcíny proti covidu",
-      "original_title": "RFK Jr.'s vaccine advisers add hurdle to getting covid shots - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/09/19/cdc-covid-vaccine-vote-acip/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3E5IWRDSFCYIORFJ4D33R6ZDHQ.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-19T23:32:17Z",
-      "description": "Poradci CDC pro očkování v ACIP doporučili konzultaci s lékařem před podáním vakcíny proti covidu, což je změna oproti univerzálnímu doporučení pro osoby od 6 měsíců věku."
+      "title": "Jak hlasoval poradní panel CDC vybraný R. F. Kennedym ml. o vakcínách proti covidu a dalších otázkách",
+      "original_title": "How RFK Jr.’s hand-picked CDC advisory panel voted on COVID vaccines and more - PBS",
+      "url": "https://www.pbs.org/newshour/health/how-rfk-jr-s-hand-picked-cdc-advisory-panel-voted-on-covid-vaccines-and-more",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/GettyImages-2235757926-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-20T00:08:43Z",
+      "description": "Nepředvídatelné jednání následovalo po razantní personální změně ministra zdravotnictví Roberta F. Kennedyho ml., který tak chtěl expertní poradní panel očistit od toho, co označuje za korporátní z..."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Brett James: Autor písně „Jesus, Take the Wheel“ zemřel při leteckém neštěstí v Severní Karolíně",
+      "title": "Brett James, autor písně „Jesus, Take the Wheel“, zemřel při leteckém neštěstí v Severní Karolíně",
       "original_title": "Brett James: 'Jesus, Take the Wheel' songwriter dies in plane crash in North Carolina - BBC",
       "url": "https://www.bbc.com/news/articles/c24rzgrez59o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/750f/live/3250ead0-95ad-11f0-8b02-ff721f50dc42.jpg",
@@ -114,35 +114,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "VIPER žije! Blue Origin Jeffa Bezose dopraví na Měsíc v roce 2027 ledem lovící rover NASA",
-      "original_title": "VIPER lives! Jeff Bezos' Blue Origin will land ice-hunting NASA rover on the moon in 2027 - Space",
-      "url": "https://www.space.com/astronomy/moon/viper-lives-jeff-bezos-blue-origin-will-land-ice-hunting-nasa-rover-on-the-moon-in-2027",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YfTDowQg7iWoSgGkqKoA8o.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-19T22:03:00Z",
-      "description": "VIPER se na Měsíc sveze na landeru Blue Moon od Blue Origin"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "‚Zrada‘: Progresivní zuří, když Trumpův úředník přizná, že ‚se zvažuje‘ zvýšení důchodového věku",
+      "title": "‚Zrada‘: Pokrokáři útočí, když Trumpův úředník říká, že se ‚zvažuje‘ zvýšení důchodového věku",
       "original_title": "'Betrayal': Progressives Pounce as Trump Official Says Raising Retirement Age 'Being Considered' - Common Dreams",
       "url": "https://www.commondreams.org/news/trump-raise-retirement-age",
       "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=56527669&width=1200&height=600&coordinates=0%2C300%2C0%2C300",
       "source": "Common Dreams",
       "publishedAt": "2025-09-19T21:17:48Z",
-      "description": "Progresivní kritizují Trumpem jmenovaného komisaře SSA za zvažování zvýšení důchodového věku, což odporuje Trumpovému volebnímu slibu."
+      "description": "Progresivní kritizují Trumpem jmenovaného komisaře SSA za zvažování zvýšení důchodového věku, což je v rozporu s Trumpovým předvolebním slibem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Těla objevená v Tesle zpěváka D4vda jsou identifikována jako pohřešovaný teenager",
+      "title": "Těla nalezená v Tesle zpěváka D4vda jsou identifikována jako pohřešovaný teenager",
       "original_title": "Body Discovered Inside Singer D4vd’s Tesla Identified as Teen Missing for Over a Year - The Hollywood Reporter",
       "url": "http://www.hollywoodreporter.com/news/general-news/d4vd-tesla-body-discovered-celeste-rivas-1236376153/",
       "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/241121_d4vd_Withering0057-Edit_R-H-2025.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
       "publishedAt": "2025-09-19T20:26:15Z",
-      "description": "Celeste Rivasová byla pohřešována téměř 18 měsíců, než byly její ostatky 8. září nalezeny v Hollywood Tow. Od identifikace ostatků je zpěvaččino turné zrušeno."
+      "description": "Po téměř 18 měsících byly 8. září v Hollywood Tow nalezeny ostatky Celeste Rivas. Od identifikace pozůstatků zpěvačky byla zrušena její turné."
     },
     {
       "flag": "🌍",
@@ -153,40 +142,18 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/it8vJ5FgQSXrYVx33mFX64.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-19T20:00:00Z",
-      "description": "Reese's Peanut Butter Cups, Mike & Ike bonbony a také korejské slané pochoutky!"
+      "description": "Reese's arašídové koule, Mike & Ike bonbony a také korejské slané pochoutky!"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ikony katedrály Notre Dame se po šesti letech od ničivého požáru znovu otevírají veřejnosti",
-      "original_title": "Notre Dame Cathedral's iconic towers reopen 6 years after devastating fire - CBS News",
-      "url": "https://www.cbsnews.com/news/notre-dame-cathedral-towers-reopen-fire/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/19/e8dd8e55-722a-47ec-8763-b918c192be71/thumbnail/1200x630/a24b1faf92afe9d2fb757f1462737dff/gettyimages-2235667498.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-19T19:46:02Z",
-      "description": "Znovuotevření ikonických věží Notre Dame v Paříži je jedním z posledních kroků obrovské rekonstrukce katedrály po ničivém požáru v roce 2019."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Technický ředitel Mety vysvětluje, proč ukázky chytrých brýlí na Meta Connect selhaly — a nebylo to Wi-Fi",
-      "original_title": "Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn't the Wi-Fi - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173597965.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-19T16:04:11Z",
-      "description": "Technický ředitel Meta Andrew Bosworth komentoval neúspěchy z demonstrace na konferenci pro vývojáře, kde společnost představila nové chytré brýle."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„Tuto schopnost musíme nahradit nyní.“ Nová družice NOAA pro nahrazení stárnoucích strážců vesmírného počasí odstartuje 23. září",
+      "title": "Tuto schopnost musíme nahradit nyní\": Nová družice NOAA nahradí stárnoucí strážce vesmírného počasí, startuje 23. září",
       "original_title": "'We must replace this capability now': New NOAA satellite to replace aging space weather sentinels launches Sept. 23 - Space",
       "url": "https://www.space.com/space-exploration/satellites/we-must-replace-this-capability-now-new-noaa-satellite-to-replace-aging-space-weather-sentinels-launches-sept-23",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pfhcrC7Kzov9Werftk2QKn.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-19T15:00:00Z",
-      "description": "Po desetiletích spoléhání na stárnoucí satelity vysílá NOAA do vesmíru speciální sondu pro sledování Slunce."
+      "description": "Po desetiletích spoléhání na stárnoucí satelity vypouští NOAA speciální družici pro sledování Slunce."
     },
     {
       "flag": "🌍",
@@ -197,73 +164,51 @@
       "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2236259510/image_2236259510.jpg?io=getty-c-w750",
       "source": "Seeking Alpha",
       "publishedAt": "2025-09-19T14:46:19Z",
-      "description": "Recenzenti iPhonu 17 (AAPL) se shodli, že jeho výběr „už neznamená přijít o důležité funkce“"
+      "description": "Apple (AAPL) iPhone 17 lineup reviewers seemed to agree that choosing the iPhone 17 \"no longer means missing out,\" as the company brought most of the important features to it."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejvyšší soud neokamžitě nezareagoval na Trumpův návrh na odvolání Cooka",
-      "original_title": "Supreme Court Doesn’t Immediately Act on Trump Bid to Fire Cook - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-19/supreme-court-doesn-t-immediately-act-on-trump-bid-to-fire-cook",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBJZmz0RU5AE/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-19T14:31:11Z",
-      "description": "Předseda Nejvyššího soudu John Roberts požádal guvernérku Federálního rezervního systému Lisu Cookovou o vyjádření k žádosti prezidenta Donalda Trumpa o její okamžité odvolání z funkce do 25. září,..."
+      "title": "Vypreparovaný dinosaurus s kupolovitou hlavou z mongolské pouště je nejstarší svého druhu",
+      "original_title": "Exquisite dome-headed dinosaur unearthed in Mongolian desert is oldest ever found - BBC Wildlife Magazine",
+      "url": "https://www.discoverwildlife.com/dinosaurs/zavacephale-rinpoche-gobi-desert-mongolia",
+      "urlToImage": "https://c02.purpledshub.com/uploads/sites/62/2025/09/Z.-rinpoche-skull.jpeg?w=1200",
+      "source": "Discoverwildlife.com",
+      "publishedAt": "2025-09-19T14:08:29Z",
+      "description": "Lebka nově popsaného druhu dinosaura byla nalezena „obnažená na útesu jako kabošonový drahokam“ ve Východní poušti Gobi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Snížení sazeb Fedu bylo „přísnější, než se očekávalo,“ říká Moody’s Zandi a varuje, že to nebude stačit",
+      "title": "Srazila Fedu byla podle Moodyho Zandiho „překvapivě dravčí“ a varuje, že to nebude stačit",
       "original_title": "The Fed’s cut was 'more hawkish than anticipated,' Moody’s Zandi says — and warns it won’t be enough - Fortune",
       "url": "https://fortune.com/2025/09/19/feds-cut-was-hawkish-than-expected-jobs-recessionzandi/",
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2235418395-e1758226126547.jpg?resize=1200,600",
       "source": "Fortune",
       "publishedAt": "2025-09-19T10:05:00Z",
-      "description": "Trh nedostal jemný signál, který očekával."
+      "description": "Trh nedostal dvořilý signál, který očekával."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "„Tyto vakcíny fungují,“ říká oregonský zdravotník o pokynech pro očkování proti covidu-19 na západním pobřeží",
+      "title": "Nejlepší pouzdra pro iPhone 17, která si právě teď můžete koupit 9to5Mac",
+      "original_title": "All of the best iPhone 17 cases you can purchase right now 9to5Mac - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/20/best-iphone-17-cases/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Best-iPhone-17-Cases-delivery-day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-19T07:01:00Z",
+      "description": "Předobjednávky iPhonů 17 jsou spuštěny, první kusy už dorážejí k zákazníkům a my máme…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "„Tyto vakcíny fungují,“ říká oregonský zdravotník o pokynech k očkování proti covidu-19 na západním pobřeží – Oregon Public Broadcasting",
       "original_title": "‘These vaccines work’: Oregon’s health officer on West Coast COVID-19 vaccine guidelines - Oregon Public Broadcasting - OPB",
       "url": "https://www.opb.org/article/2025/09/18/west-coast-covid-19-vaccine-guidelines-oregon-health-officer/",
       "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/XYNJ2MSULNBKJBQ4QRCPZ7ELGA.jpg?auth=e59d3b54fc7655dc06e37473536e98633e4bf9193bea5c7743f2af0f177e1f70&width=1200&height=675&smart=true",
       "source": "OPB News",
       "publishedAt": "2025-09-19T00:18:52Z",
-      "description": "Dr. Dean Sidelinger mluvil pro OPB o nových doporučeních pro vakcínu proti COVID-19 od Western States Health Alliance a o tom, co by měli vědět obyvatelé Oregonu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vypuknutí eboly v Demokratické republice Kongo - Centrum pro kontrolu a prevenci nemocí | CDC (.gov)",
-      "original_title": "Ebola Outbreak in the Democratic Republic of the Congo - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://www.cdc.gov/han/php/notices/han00524.html",
-      "urlToImage": "https://www.cdc.gov/han/media/images/2025/03/HAN-Health-Advisory.png?_=90468",
-      "source": "Cdc.gov",
-      "publishedAt": "2025-09-18T21:13:13Z",
-      "description": "Nový výskyt viru Ebola v Demokratické republice Kongo"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Strategie pro balíčky Mega Evolution Battle Pass v Pokémon TCG",
-      "original_title": "Pokémon TCG: Mega Evolution Battle Pass Deck Strategies - Pokemon.com",
-      "url": "https://www.pokemon.com/us/strategy/pokemon-tcg-mega-evolution-battle-pass-deck-strategies",
-      "urlToImage": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me01/tcgl/battle-pass/deck-strategy/me01-tcgl-169-en.png",
-      "source": "Pokemon.com",
-      "publishedAt": "2025-09-18T16:03:34Z",
-      "description": "Objevte, jak využít potenciál dvou ničivých Mega Evolution decků v Pokémon TCG Live."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Fotky: Start SpaceX byl vidět v Claytonu, Knightdale a Raleighu",
-      "original_title": "Photos: SpaceX launch visible in Clayton, Knightdale, Raleigh - WRAL.com",
-      "url": "https://www.wral.com/photos-spacex-launch-visible-in-clayton-knightdale-raleigh/22164180/",
-      "urlToImage": "https://wwwcache.wral.com/asset/share/2025/09/18/22164110/68cbd7c2-0c4a-d46b-545a-05cf1a0d4460-DMID1-68d1i01je-640x480.jpg",
-      "source": "WRAL.com",
-      "publishedAt": "2025-09-18T11:50:25Z",
-      "description": "Start rakety SpaceX Falcon 9 z Floridy byl ve čtvrtek brzy ráno vidět na obloze v Severní Karolíně."
+      "description": "Dr. Dean Sidelinger hovořil pro OPB o nových doporučeních Western States Health Alliance ohledně vakcíny proti COVID-19 a o tom, co by měli vědět obyvatelé Oregonu."
     }
   ]
 }
