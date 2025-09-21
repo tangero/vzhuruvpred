@@ -1,14 +1,14 @@
 {
-  "updated": "2025-09-21T03:40:58.849924",
+  "updated": "2025-09-21T06:35:49.047608",
   "trends": [
     {
       "rank": 1,
       "query": "počasí zítra",
-      "news_title": "Závan z Afriky přinese neobvyklé počasí, pak deštivý podzim",
-      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-zavan-z-afriky-prinese-do-ceska-neobvykle-pocasi-pak-zacne-destivy-podzim-286361",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnA5QfD85zH4Re4ps-a7y5SUFwJtAPiDWcEaGvFdTB-sQ8gxehUTtnPKHNwaA",
+      "news_title": "Do Česka dorazí africký vzduch a přinese tropy.",
+      "news_url": "https://www.novinky.cz/clanek/pocasi-do-ceska-prijde-vzduch-z-afriky-a-prinese-tropy-40539358",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB9aU1lTxP-g-z3Hqj1dcTp7_JsKi0YvMw-QCnLnwtpX96RQNXTBpMzc70K1U",
       "traffic": "20000++ hledání",
-      "source": "Seznam Zprávy",
+      "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=počasí zítra&geo=CZ"
     },
     {
@@ -23,6 +23,16 @@
     },
     {
       "rank": 3,
+      "query": "inter miami – dc united",
+      "news_title": "Messiho góly drží Miami v boji o MLS Supporters' Shield",
+      "news_url": "https://www.mlssoccer.com/news/lionel-messi-s-golden-boot-form-keeps-miami-in-shield-race",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGLusKAVgmnOrZBPOwfUUlD61Vg1O8n1-z4bxr5ceIxTe_ixLfUX1uv0gJRAg",
+      "traffic": "200++ hledání",
+      "source": "MLSsoccer.com",
+      "explore_url": "https://trends.google.cz/trends/explore?q=inter miami – dc united&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "jakub vágner",
       "news_title": "Jakub Vágner ulovil na Vranově sumce přes 2,5 metru",
       "news_url": "https://znojemsky.denik.cz/zpravy_region/jakub-vagner-kapitalni-ulovek-vranov-zari-2025-sumec-255-centimetru-splneny-sen.html",
@@ -32,17 +42,17 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jakub vágner&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "query": "udinese – ac milán",
-      "news_title": "Runjaic: Milan byl ve všech ohledech lepší než Udinese",
-      "news_url": "https://football-italia.net/runjaic-confession-milan-better-in-all-aspects/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUPLA5d7WP41OGiKXQPJzfiagCVGc12OP-HFT8UaIMzCcKsX4hxMeXCBJh-i0",
+      "news_title": "Landucci po výhře nad Udine: Duch týmu je plodem tvrdé práce",
+      "news_url": "https://sempremilan.com/landucci-praises-milan-spirit-fruits-work",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAXyhsgcqY7RX217dzigaB6go5qS9ESIu-d6ZHstCPuhpMf5fhXxVyhM6ti4",
       "traffic": "200++ hledání",
-      "source": "Football Italia",
+      "source": "SempreMilan",
       "explore_url": "https://trends.google.cz/trends/explore?q=udinese – ac milán&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "fulham – brentford",
       "news_title": "Iwobi září, Fulham poráží Brentford",
       "news_url": "https://www.bbc.com/sport/football/live/cr4qzexl95dt",
@@ -52,9 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=fulham – brentford&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "premier league",
-      "news_title": "Krejčímu první gól zhořkl, Liverpool vyhrál derby a vede tabulku",
+      "news_title": "Krejčího gól nepomohl, Liverpool vyhrál derby",
       "news_url": "https://www.idnes.cz/fotbal/zahranici/premier-league-anglicka-liga-5-kolo-liverpool-everton.A250919_124118_fot_zahranici_min",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmyEG2Aw_7jwO_ZlyiCGa1M9ek1mSVS1CZ-nYZiyZ2KhrY_3o6Y2nkCccTSGA",
       "traffic": "200++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=premier league&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "rachel karnizova",
-      "news_title": "Rachel z Love Islandu porodila syna Ariese.",
-      "news_url": "https://tv.nova.cz/porad/love-island/clanek/629569-rachel-z-love-islandu-se-stala-maminkou-partnerovi-porodila-chlapecka",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2TOLkQsSyojMR8vBOb3uez8OK5WXCZgvIeGWiM672ZjvUL5XI6InVvZly7u8",
-      "traffic": "100++ hledání",
-      "source": "TV Nova",
-      "explore_url": "https://trends.google.cz/trends/explore?q=rachel karnizova&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "keanu reeves",
-      "news_title": "Jonathan Groff odhaluje, jak vznikl virální moment s Keanu Reevesem na Tony Awards",
-      "news_url": "https://www.hollywoodreporter.com/lifestyle/arts/jonathan-groff-viral-keanu-reeves-tony-awards-moment-1236375931/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0CoJ75PqQIOdbqfm12lcaeWgs6c0GDYE9yFljcYZCKQpU16NmqZVmHnYQRd4",
+      "query": "copak je to za vojáka",
+      "news_title": "Copak je to za vojáka... 2: Langmajer se vrací v pokračování komedie",
+      "news_url": "https://www.idnes.cz/kultura/film-televize/copak-je-to-za-vojaka-druhy-dil-langmajer.A250920_190259_filmvideo_ts",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSz9VMljb-jwS1WiaePbeXm9zS9WF3TgExlFQAXVDGF-KykM5np5AC-aQ90u8k",
       "traffic": "100++ hledání",
-      "source": "The Hollywood Reporter",
-      "explore_url": "https://trends.google.cz/trends/explore?q=keanu reeves&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=copak je to za vojáka&geo=CZ"
     }
   ]
 }
