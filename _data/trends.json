@@ -1,20 +1,30 @@
 {
-  "updated": "2025-09-22T12:55:04.532265",
+  "updated": "2025-09-22T18:35:28.666179",
   "trends": [
     {
       "rank": 1,
       "query": "tylenol",
-      "news_title": "Trumpova administrativa spojuje Tylenol s rizikem autismu",
-      "news_url": "https://www.washingtonpost.com/health/2025/09/21/trump-autism-announcement-tylenol-leucovorin/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShoNNEBK3gOKjlNFxy33crX8OVCM0Wb1-eeihVuLtmsdUJdWCdoLwIfvnjn1c",
-      "traffic": "1000++ hledání",
-      "source": "The Washington Post",
+      "news_title": "Trump v hlavním oznámení představí objev, který označuje za ‚odpověď na autismus‘",
+      "news_url": "https://www.foxnews.com/politics/trump-reveal-medical-finding-he-calls-answer-autism-major-announcement",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9QejTkgLETiOqEw9MvlvaSasfnR-M6d5s7gnfR1melSQDnB24VyVVAeJS24",
+      "traffic": "2000++ hledání",
+      "source": "Fox News",
       "explore_url": "https://trends.google.cz/trends/explore?q=tylenol&geo=CZ"
     },
     {
       "rank": 2,
+      "query": "marseille – psg",
+      "news_title": "OM-PSG (Ligue 1 2025-2026) ONLINE PŘENOS",
+      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-1/2025-2026/om-psg-live/675838",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHFGUmyWYD6B9mas1SzFRM5rprscb5Qc2u_vfQ_QF8XmhZVe8O9M1g-fVjY5w",
+      "traffic": "1000++ hledání",
+      "source": "L'Équipe",
+      "explore_url": "https://trends.google.cz/trends/explore?q=marseille – psg&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "be-12",
-      "news_title": "Záběry ukazují útok dronu na ruská obojživelná letadla na Krymu",
+      "news_title": "Záznam ukazuje útok dronu na ruské výsadkové letouny na Krymu",
       "news_url": "https://www.bbc.com/news/live/cgj1ydq0g49t",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-QVHrI3qKCQ6TnkNMPvqhgNOlhHySd_YlGeTOae7Kiz-aP9cN5x8tXwt5Ra8",
       "traffic": "1000++ hledání",
@@ -22,64 +32,54 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=be-12&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "ballon d'or 2025",
-      "news_title": "Ceremonie Zlatého míče 2025: kdy, kde, nominace a kritéria výběru",
-      "news_url": "https://www.uefa.com/uefachampionsleague/news/029d-1ec2c3cf6f25-45f93870ea1c-1000--2025-ballon-d-or-ceremony-when-and-where-all-the-nominees-h/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFGh9JhaE91EoyAvGKfJzOl35dKHD_YtzjbTOBnUmPuLUjD4630m5wm-FzyA",
-      "traffic": "1000++ hledání",
-      "source": "UEFA.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ballon d'or 2025&geo=CZ"
-    },
-    {
       "rank": 4,
-      "query": "ladislav hojer",
-      "news_title": "Markovič navazoval osobní vztahy s brutálními vrahy, zachoval si lidskost.",
-      "news_url": "https://www.idnes.cz/xman/styl/jiri-markovic-vysetrovatel-detektiv-ladislav-hojer.A250910_125131_xman-styl_bury",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTG5-xhn1L-N6Mp_dI9HQmbISYbyPF79Qv36AYeJoUrO6ySG8nZqfCCMeK5Xiw",
-      "traffic": "1000++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ladislav hojer&geo=CZ"
+      "query": "tn.cz",
+      "news_title": "Ruský generál varuje: Putin chce zaútočit na Polsko před Vánoci",
+      "news_url": "https://tn.nova.cz/zpravodajstvi/clanek/629697-putin-chce-zautocit-na-polsko-uz-pred-vanoci-varuje-rusky-general",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-8XrIcjIPr2cYwBL1FNQnjtM0-lJ7w7VoKsGupgdMf5hstjzXzVBqqr9WwG0",
+      "traffic": "500++ hledání",
+      "source": "TN.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tn.cz&geo=CZ"
     },
     {
       "rank": 5,
-      "query": "počasí praha",
-      "news_title": "Nedělní bouřky vrhaly stíny až 200 km",
-      "news_url": "https://www.novinky.cz/clanek/pocasi-nedelni-bourky-vrhaly-stiny-az-200-kilometru-40539950",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR79rt6H_xKb8gK8hLK71zve_s4ECwvarW1nKNUt6j-HTdRNvrz1aHraDP_mv0",
+      "query": "zlaty mic 2025",
+      "news_title": "Komár na scénu! Vyhraje Zlatý míč favorit, nebo dojde k překvapení?",
+      "news_url": "https://www.idnes.cz/fotbal/zahranici/komar-na-scenu-vyhraje-zlaty-mic-favorit-nebo-se-dockame-prekvapeni.A250921_190220_fot_zahranici_mama",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYBpAqf6wxRSLCqoijDAFbwNWireqq_TqBZY_jwyBZFV2On_bV3EpEnqzEVuU",
       "traffic": "500++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=počasí praha&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=zlaty mic 2025&geo=CZ"
     },
     {
       "rank": 6,
-      "query": "daniela brzobohatá",
-      "news_title": "Brzobohatý ve Zrádcích: Manželka konsternovaná z izolace",
-      "news_url": "https://www.stream.cz/super-cz/ondrej-brzobohaty-promluvil-o-manzelce-daniele-ve-zradcich-byla-konsternovana-ze-socialni-izolace-65359334",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_J_iGZTrTsxFz6V3o13CkqvkSJGp8TIAQL24WCOPh31u1wQVNIEBGQRSt1es",
+      "query": "kauza dozimetr",
+      "news_title": "Svědek: TOP 09 a STAN se dělily o úplatky, Redl bral podíl od STAN",
+      "news_url": "https://www.idnes.cz/zpravy/domaci/dozimetr-matej-augustin-michal-redl-top-0p-stan.A250922_182453_volby_pari",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTufpnMGS1EehcRl3h5K3ec5R4qfC8hzIkcPEoucfboGAq7x8DSs6kGJQiXjwc",
       "traffic": "500++ hledání",
-      "source": "Stream.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=daniela brzobohatá&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=kauza dozimetr&geo=CZ"
     },
     {
       "rank": 7,
-      "query": "inter – sassuolo",
-      "news_title": "Inter-Sassuolo 2:1, góly Carlos Augusto a Dimarco rozhodly finále",
-      "news_url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/21-09-2025/inter-sassuolo-live-diretta.shtml",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvBJpkvyxRNAKPRz1uN75Dn1qw5fiImHnZyXC8RrQBFNueqC_v5oLoq7S02z0",
-      "traffic": "500++ hledání",
-      "source": "La Gazzetta dello Sport",
-      "explore_url": "https://trends.google.cz/trends/explore?q=inter – sassuolo&geo=CZ"
+      "query": "laďka něrgešová",
+      "news_title": "Laďka Něrgešová poprvé před objektivem odložila paruku. Bez vlasů je to skvělé, říká",
+      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/ladka-nergesova-showtime-paruka-vlasy-nador-glioblastom.A250922_154505_lidicky_nh",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWjUT_dxIvhO2UEMYjMbsjEKlaWwWdAuIu4xunTiY7BQo6KVoFjQE5NJA8_xE",
+      "traffic": "200++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=laďka něrgešová&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "kauza dozimetr",
-      "news_title": "Soud řeší kauzu Dozimetr, Redl žádá výpověď Pospíšila",
-      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-online-soud-zacal-resit-obzalobu-v-kauze-dozimetr-na-redla-a-spol-286503",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVNypbwgmd8AQgovx7EnACsTXD_g4tif00p_y_en4074g3eNtzECVIncxkyak",
+      "query": "динамо київ – олександрія",
+      "news_title": "Моргун, Бражко, Шола и Герреро v sestavě Dynama na zápas s Alexandrií",
+      "news_url": "https://ua.tribuna.com/football/1000000281201-morhun-brazhko-shola-ta-herrero-u-startovomu-skladi-dyna/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl5w8mwVh6qWtNoByJ4TjW9aGq5HOWdFME1vSnqbpE_CdgdBATMfnOPijAHVE",
       "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kauza dozimetr&geo=CZ"
+      "source": "Tribuna.com",
+      "explore_url": "https://trends.google.cz/trends/explore?q=динамо київ – олександрія&geo=CZ"
     }
   ]
 }
