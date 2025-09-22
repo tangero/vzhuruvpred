@@ -1,27 +1,170 @@
 {
-  "last_updated": "2025-09-22T16:23:23",
+  "last_updated": "2025-09-22T17:14:49",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Británie uznala palestinský stát 108 let po Balfourově deklaraci",
+      "title": "Pamětní bohoslužba za Charlieho Kirka se koná v neděli, promluví Trump a Vance - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Charlie Kirk memorial service set for Sunday with Trump, Vance to speak - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/charlie-kirk-memorial-service-set-sunday-trump-vance/story?id\\\\u003d125735564",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-21T17:37:26Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump’s H-1B visa fee to hit US employers with $14bn annual bill",
+      "original_title": "Trump’s H-1B visa fee to hit US employers with $14bn annual bill - Financial Times",
+      "url": "https://www.ft.com/content/c51fc02c-0859-4908-9c3d-c3c1d12550c4",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffeb7f6eb-0ca8-4842-b128-d932e1f1f65e.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-21T17:25:22Z",
+      "description": "Lawyers anticipate the surprise move could face a court challenge"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump o omezeních Pentagonu pro tisk: ‚Reportéry nic nezastaví‘",
+      "original_title": "Trump on Pentagon restrictions for the press: 'Nothing stops reporters' - Politico",
+      "url": "https://www.politico.com/news/2025/09/21/trump-pentagon-restrictions-press-00574539",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F06%2F1e%2Fe32ecf3d48f9aa3a27be4126b505%2Ftrump-39251.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-21T16:53:44Z",
+      "description": "Reagoval na otázku týkající se omezení oznámených v pátek."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Cesta k diktatuře\": Demokraté zuří nad Trumpovým veřejným nátlakem na Bondiovou",
+      "original_title": "\"Path to a dictatorship\": Democrats flame Trump's public pressure on Bondi - Axios",
+      "url": "https://www.axios.com/2025/09/21/trump-bondi-schumer-murphy",
+      "urlToImage": "https://images.axios.com/31g8a21NBbxXsr77UOPd_u9XUYg=/0x0:4000x2250/1366x768/2025/09/21/1758469086125.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-21T16:23:07Z",
+      "description": "Demokraté v neděli vyzvali své republikánské kolegy, aby se postavili Trumpovi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Cestopis z Číny odhaluje seznam neinvestovatelných aktiv na Západě",
+      "original_title": "China Road Trip Exposes List of Uninvestable Assets in the West - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-21/china-road-trip-exposes-list-of-uninvestable-assets-in-the-west",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu0pz63IFnJM/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-21T16:00:00Z",
+      "description": "Rizikoví kapitalisté v čistých technologiích začínají nahlas říkat to, co již delší dobu tušili: Čínská dominance učinila klíčová odvětví na Západě neinvestovatelnými."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Desítky zatčených a zraněných při střetech s policií u filipínského prezidentského paláce",
+      "original_title": "Dozens arrested and hurt in clashes with police near Philippine presidential palace - AP News",
+      "url": "https://apnews.com/article/philippines-flood-control-corruption-protests-f5bdeafaf4772e579d71cdc17b630846",
+      "urlToImage": "https://dims.apnews.com/dims4/default/ae0c525/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2Fa1%2Fdeb49db6ec3aff651501f31baa1a%2Ff5bc212d42a8404a8c673a9bc7aa5284",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-21T15:40:00Z",
+      "description": "Filipínská policie zadržela 49 lidí podezřelých z útoku na strážníky při násilných střetech u prezidentského paláce"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tržby: ‚Demon Slayer‘ sesadil z prvního místa film ‚To‘ a celosvětově vydělal přes 550 milionů dolarů",
+      "original_title": "Box Office: ‘Demon Slayer’ Tops ‘Him’ for No. 1, Passes $550M Globally - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/box-office-demon-slayer-edging-out-him-for-no-1-1236376666/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Still-2-Copyright_-Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-21T15:33:45Z",
+      "description": "Zatím romantická fantazie Margot Robbie a Colina Farrella ‚Velká odvážná krásná cesta‘ propadla s 3,5 miliony dolarů."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Přepis: Francouzský prezident Emmanuel Macron v pořadu „Face the Nation“ s Margaret Brennanovou, 21. září 2025",
+      "original_title": "Transcript: French President Emmanuel Macron on \"Face the Nation with Margaret Brennan,\" Sept. 21, 2025 - CBS News",
+      "url": "https://www.cbsnews.com/news/french-president-emmanuel-macron-face-the-nation-transcript-09-21-2025/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/19/83a77745-88ba-424c-8e65-bda50f60c59c/thumbnail/1200x630/a6a0f2905a5d93883330d74ba8a02453/0919-cmo-macron.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-21T14:51:00Z",
+      "description": "Následuje úplný přepis rozhovoru s francouzským prezidentem Emmanuelem Macronem, jehož část byla odvysílána v pořadu „Face the Nation s Margaret Brennan“ dne 21. září 2025."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bad Bunny se loučí s Portorikem na posledním koncertě po historickém rezidenčním pobytu",
+      "original_title": "Bad Bunny says goodbye to Puerto Rico in one final concert after a historic residency - AP News",
+      "url": "https://apnews.com/article/puerto-rico-bad-bunny-concert-46e33b429e8ea4a08f52b0ae53b42d30",
+      "urlToImage": "https://dims.apnews.com/dims4/default/316c9b1/2147483647/strip/true/crop/4812x2707+0+251/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2F0e%2Ffc59d5989d13543f69aaefe1766d%2Fddf5a80b91164f9098e2ba8049dc7935",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-21T14:27:00Z",
+      "description": "Fanoušci Bad Bunnyho připomněli výročí hurikánu Maria mocným koncertem v Portoriku"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "AirPods Pro 3 Get First Discount on Amazon",
+      "original_title": "AirPods Pro 3 Get First Discount on Amazon - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/21/airpods-pro-3-first-discount/",
+      "urlToImage": "https://images.macrumors.com/t/EpsHSG5KMHBYGwuG9Zct9roxjCQ=/2500x/article-new/2025/09/airpods-pro-3-purple.jpeg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-21T14:04:00Z",
+      "description": "Apple just launched the AirPods Pro 3, and today Amazon introduced the first discount on the earbuds at $10 off their original price. You can get..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "UK recognises Palestinian statehood 108 years after Balfour Declaration",
       "original_title": "UK recognises Palestinian statehood 108 years after Balfour Declaration - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2025/9/21/uk-pm-starmer-to-recognise-palestinian-statehood-before-unga-meeting",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AFP__20250918__74YU4NJ__v1__HighRes__BritainUsDiplomacy-1758465915.jpg?resize=1920%2C1440",
       "source": "Al Jazeera English",
       "publishedAt": "2025-09-21T14:03:45Z",
-      "description": "Rozhodnutí oznámené spolu s Kanadou a Austrálií přichází v době, kdy Izrael pokračuje ve smrtících ničivých akcích v Gaze."
+      "description": "The decision, announced alongside Canada and Australia, comes as Israel continues its deadly destruction in Gaza."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump nechal americké velvyslanectví z velké části bez vedení a často se strachem",
+      "title": "Trump opustil americké velvyslanectví, zanechal je bez vedení a často ve strachu",
       "original_title": "Trump has left US embassies largely leaderless and often fearful - Politico",
       "url": "https://www.politico.com/news/2025/09/21/trump-embassies-ambassadors-00573848",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff3%2F2b%2Fb3154b114dada859895b5828ca38%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F907091356",
       "source": "Politico",
       "publishedAt": "2025-09-21T14:00:00Z",
-      "description": "Více než 60 velvyslanectví stále nemá kandidáta, přičemž diplomaté jsou hodnoceni na základě „loajality“."
+      "description": "Více než 60 velvyslaneckých postů nemá ani kandidáta, zatímco diplomatům je řečeno, že jsou hodnoceni na základě své „loajality“."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Kalifornie zakazuje většině donucovacích orgánů včetně ICE nošení masek",
+      "original_title": "California bans most law enforcement including ICE from wearing masks - BBC",
+      "url": "https://www.bbc.com/news/articles/cy8rrprv90xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27f0/live/2c717450-96e7-11f0-ac8b-5db7e7839031.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-21T13:48:41Z",
+      "description": "Strážníci se budou muset při výkonu služby prokazovat jménem a číslem"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vědci našli v poušti 7000 let staré mumie, které nesdílejí DNA s moderními lidmi",
+      "original_title": "Scientists Found 7,000-Year-Old Mummies in the Desert That Don’t Share DNA With Modern Humans - Yahoo",
+      "url": "https://www.popularmechanics.com/science/a67986155/saharan-mummies-dna-humans/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gran-canaria-royalty-free-image-1744031556.pjpeg?crop=1xw:0.75035xh;center,top&resize=1200:*",
+      "source": "Popular Mechanics",
+      "publishedAt": "2025-09-21T13:45:00Z",
+      "description": "Dvě 7000 let staré mumie z skalního přístřešku Takarkori na Sahaře pocházejí z dosud neznámé genetické skupiny."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Za „sexy“ nastaveními Groku skrývá práce s explicitním a znepokojivým obsahem",
+      "original_title": "Behind Grok's 'sexy' settings, workers review explicit and disturbing content - Business Insider",
+      "url": "https://www.businessinsider.com/elon-musk-grok-explicit-content-data-annotation-2025-9",
+      "urlToImage": "https://i.insider.com/689cf073cfc04e97619b5efd?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-21T13:22:00Z",
+      "description": "Zaměstnanci tvrdí, že se setkali s explicitním obsahem, zatímco xAI propagovalo Groka jako záměrně provokativního. Expertní varují, že by měla být společnost opatrná."
     },
     {
       "flag": "🌍",
@@ -32,40 +175,18 @@
       "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/warning-nasas-deep-space-mission-faces-catastrophic-failure-total-communication-loss-within-48-hours.jpg",
       "source": "Rudebaguette.com",
       "publishedAt": "2025-09-21T13:11:11Z",
-      "description": "Mezinárodní vesmírná stanice (ISS) je důkazem lidské vynalézavosti a spolupráce. Již více než dvě desetiletí obíhá Zemi dechberoucí"
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Meghan Markle v námořnické modři a s rozhalenkou sdílí milý okamžik s princem Harrym",
-      "original_title": "Meghan Markle Dons a Backless Navy Sundress as She Shares Sweet PDA Moment With Prince Harry - AOL.com",
-      "url": "https://www.instyle.com/meghan-markle-navy-sundress-pda-outing-prince-harry-11814180",
-      "urlToImage": "https://www.instyle.com/thmb/cYc0fu-8bTXjMHm3asKaQ2lSvSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meg-8e6e73003efe4849a49373a72dcb3505.jpg",
-      "source": "InStyle",
-      "publishedAt": "2025-09-21T12:32:44Z",
-      "description": "Meghan Markleová a princ Harry učinili vzácnou účast na koncertu One805LIVE! 2025 ve prospěch záchranářů v Kalifornii 20. září. Sdíleli několik milých něžných okamžiků a měli sladěné námořnické mod..."
+      "description": "Mezinárodní vesmírná stanice (ISS) je důkazem lidské vynalézavosti a spolupráce. Po více než dvě desetiletí obíhá Zemi dechberoucí"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Izrael zabil 34 lidí v Gaze, uvádějí zdravotníci, před schůzkou OSN",
-      "original_title": "Israel kills 34 people in Gaza, say health officials, ahead of UN meeting - AP News",
-      "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-09-21-2025-6697b72cb308da276e6e4c9409fcf5c9",
-      "urlToImage": null,
-      "source": "Associated Press",
-      "publishedAt": "2025-09-21T12:19:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jeden mrtvý a dva zranění při střelbě v country klubu v New Hampshire; podezřelý zadržen",
-      "original_title": "1 dead, 2 wounded in shooting at New Hampshire country club; suspect arrested - CBS News",
-      "url": "https://www.cbsnews.com/boston/news/nashua-new-hampshire-shooting-sky-meadow-country-club/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/21/6bac2933-bbb4-4b75-819c-8cba159de5d5/thumbnail/1200x630/3e75e067c9da7d97307818618c5ca9aa/ap25264071969468.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-21T12:07:28Z",
-      "description": "Při střelbě v golfovém klubu v Nashua zemřel jeden člověk a několik bylo zraněno"
+      "title": "Přední ekonomové a Jerome Powell se shodují, že noční můra Gen Z při hledání práce je skutečná — a není to kvůli umělé inteligenci",
+      "original_title": "Top economists and Jerome Powell agree that Gen Z's hiring nightmare is real—and it's not about AI e - Fortune",
+      "url": "https://fortune.com/2025/09/21/why-gen-z-unemployment-hiring-nightmare-jerome-powell-top-economists/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2235991263.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-21T12:30:00Z",
+      "description": "Zkušenost s americkým trhem práce je zvláštní,\" napsal Paul Donovan z UBS v analýze, v níž se ptá: \"Jsou děti v pořádku?"
     },
     {
       "flag": "🇬🇧",
@@ -76,238 +197,95 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b835/live/defcfcc0-96c9-11f0-aaa5-6b36db6f2a24.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-21T10:32:49Z",
-      "description": "Celoevropský technický problém stále ovlivňuje systémy odbavení a nastupování některých aerolinek."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "H-1B: Muž utratil 8 000 dolarů za letenky, aby se po obavách z víz vrátil do USA",
-      "original_title": "H-1B: Man spent $8,000 on flights to get back to the US after visa fears - BBC",
-      "url": "https://www.bbc.com/news/articles/cn4wwwz2p1po",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1925/live/ede34c00-96c7-11f0-aaa5-6b36db6f2a24.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-21T10:31:32Z",
-      "description": "Američtí úředníci později upřesnili, že současní držitelé víz H-1B se opatření netýká, imigrační právníci však již lidem radili, aby se vrátili."
+      "description": "A \"Europe-wide technical issue\" is still impacting some airline's check in and boarding systems."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tálibán odmítá Trumpův návrh na opětovné obsazení letecké základny Bagram v Afghánistánu",
-      "original_title": "The Taliban reject Trump’s bid to retake Bagram Air Base in Afghanistan - AP News",
-      "url": "https://apnews.com/article/afghanistan-taliban-bagram-trump-airbase-122225b702aa6b788c3a9836add60db1",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5d8e5cf/2147483647/strip/true/crop/6589x3706+0+343/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2Fa1%2Ffdc14d213bc61ba0e583a4750cd5%2Fcfc502ef4ff147a393024479cf820d8a",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-21T10:19:00Z",
-      "description": "Tálibánská vláda odmítla výzvu amerického prezidenta Donalda Trumpa k opětovnému obsazení letecké základny Bagram v Afghánistánu. Trump navrhl obnovení americké přítomnosti na základně, ale neposky..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump nominoval svého blízkého spolupracovníka na post nejvyššího žalobce úřadu, který vyšetřuje Letitii Jamesovou",
+      "title": "Trump nominoval svého blízkého spolupracovníka na post nejvyššího federálního prokurátora, který dohlíží na kancelář vyšetřující Letitii Jamesovou",
       "original_title": "Trump nominates White House aide to be top US prosecutor for office probing Letitia James - NPR",
       "url": "https://www.npr.org/2025/09/21/nx-s1-5549086/trump-nominates-white-house-aide-top-us-prosecutor-probing-letitia-james",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5258x2958+0+274/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F21%2Fb81510fa482e8832f5f08295ecc6%2Fap25264063869898.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-21T10:06:39Z",
-      "description": "Prezident Donald Trump v sobotu oznámil, že navrhne na post nejvyšší federální prokurátorky ve Virginii svou vrchnou poradkyni Lindsaye Halliganovou"
+      "description": "President Donald Trump said Saturday that he would be nominating senior White House aide Lindsey Halligan to serve as the top federal prosecutor for the Virginia office that was thrown into turmoil wh"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jaká povolání nahradí umělá inteligence a která jsou v bezpečí?",
-      "original_title": "What jobs will AI replace, and which are safe? - USA Today",
-      "url": "https://www.usatoday.com/story/money/2025/09/21/what-jobs-will-ai-replace/86240472007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/19/USAT/86246671007-getty-images-2191084357-copy.jpg?crop=7814,4396,x0,y477&width=3200&height=1801&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-09-21T09:11:41Z",
-      "description": "Zjistěte, které profese jsou podle expertů ohroženy nahrazením umělou inteligencí a automaty – a které zůstávají v bezpečí."
+      "title": "How to watch New England Patriots vs. Pittsburgh Steelers in Week 3",
+      "original_title": "How to watch New England Patriots vs. Pittsburgh Steelers in Week 3 - CBS News",
+      "url": "https://www.cbsnews.com/boston/news/patriots-steelers-week-3-nfl-205/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/19/e885fe69-aa63-4d27-88e7-e12a99b8e71e/thumbnail/1200x630g2/6278926d99c5e03bd92f991fc3f68b0b/maye-rodgers.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-21T09:00:00Z",
+      "description": "New England Patriots v neděli na Gillette Stadium přivítají Pittsburgh Steelers v souboji třetího týdne."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Fed nemá ‚dvojí‘ mandát – Jerome Powell a Stephen Miran mluví o třetím",
-      "original_title": "The Fed doesn't have a 'dual' mandate—Jerome Powell and Stephen Miran are talking about the third - Fortune",
-      "url": "https://fortune.com/2025/09/21/fed-dual-triple-mandate-long-term-rates-financial-stability-economists-miran-powell/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2235972392-e1758277058764.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-09-21T08:03:00Z",
-      "description": "Někteří odborníci řekli magazínu Fortune, že zcela zapomněli na pravidlo dlouhodobých úrokových sazeb."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chcete lepší kognitivní zdraví? Podle fascinující nové harvardské studie je nejdůležitější tato jedna změna",
+      "title": "Chcete lepší kognitivní zdraví? Podle nové fascinující studie z Harvardu na tom nejvíc záleží tato jedna změna",
       "original_title": "Want Better Cognitive Health? A Fascinating New Harvard Study Says This 1 Change Matters Most - Inc.com",
       "url": "https://www.inc.com/bill-murphy-jr/want-better-cognitive-health-a-fascinating-new-harvard-study-says-this-1-change-matters-most/91242688",
       "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/08/brain-health-inc-1133618377.jpg",
       "source": "Inc.",
       "publishedAt": "2025-09-21T07:38:30Z",
-      "description": "Vše naznačuje jednoduchý a přímočarý způsob, jak zlepšit kognitivní zdraví."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Kalifornie zakazuje masky agentům ICE, když Newsom vrací Trumpovi úder v deportacích",
-      "original_title": "California bans masks on ICE officers as Newsom strikes back at Trump on deportations - San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/politics/article/newsom-ice-masks-immigration-21053479.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/46/53/28469967/5/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-09-21T06:33:45Z",
-      "description": "Kalifornie zakazuje masky agentům imigrační policie, když guvernér Gavin Newsom udeřil na prezidenta Donalda Trumpa kvůli masovým deportacím."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Trump vyzývá ministerstvo spravedlnosti, aby obvinilo prominentní demokratické nepřátele",
-      "original_title": "Trump urges US Justice Department to charge prominent Democratic enemies - France 24",
-      "url": "https://www.france24.com/en/americas/20250921-trump-urges-us-justice-department-to-charge-prominent-democratic-enemies",
-      "urlToImage": "https://s.france24.com/media/display/e11bcfae-96b0-11f0-993d-005056a90284/w:1280/p:16x9/000-74LP6GP.jpg",
-      "source": "FRANCE 24 English",
-      "publishedAt": "2025-09-21T06:26:08Z",
-      "description": "Americký prezident Donald Trump veřejně vyzval svou ministryni spravedlnosti Pam Bondiovou, aby podnikla kroky proti jeho prominentním politickým nepřátelům, kalifornskému senátorovi Adamu Schiffov..."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Verizon rozdává iPhone 17 Pro zdarma s touto štědrou výkupní nabídkou",
-      "original_title": "Verizon is giving away the iPhone 17 Pro for free with this generous trade-in offer - Mashable",
-      "url": "https://mashable.com/article/sept-19-free-iphone-17-pro-deal",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/035rjXsFkDpwKmUxbGpqvTu/hero-image.fill.size_1200x675.v1758287679.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-09-21T06:23:22Z",
-      "description": "Ano, tento obchod je legitímní."
+      "description": "Vše nasvědčuje tomu, že existuje jednoduchý a přímočarý způsob, jak zlepšit kognitivní zdraví."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nizozemsko: Na protipřistěhovalecké protestní akci vypuklo násilí",
-      "original_title": "Netherlands: Violence erupts at anti-immigration protest - DW",
-      "url": "https://www.dw.com/en/netherlands-violence-erupts-at-anti-immigration-protest/a-74076883",
-      "urlToImage": "https://static.dw.com/image/74076788_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-09-21T05:28:45Z",
-      "description": "V Haagu se demonstranti střetli s policií na mítinku požadujícím přísnější migrační politiku. Nizozemský vůdce krajní pravice Geert Wilders nepokoje odsoudil a účastníky nazval „idioty“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Bad Bunny zakončil historické působení v Portoriku s Marcem Anthonym, RaiNao a dalšími hosty",
-      "original_title": "Bad Bunny Closes Historic Puerto Rico Residency With Marc Anthony, RaiNao, and More Guests - Rolling Stone",
-      "url": "http://www.rollingstone.com/music/music-latin/bad-bunny-closes-puerto-rico-residency-una-mas-show-1235431826/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/bad-bunny-concert-puerto-rico.jpg?crop=0px%2C16px%2C1798px%2C1014px&resize=1600%2C900",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-21T04:20:29Z",
-      "description": "Bad Bunny ukončil své působení v El Choli 'No Me Quiero Ir de Aquí' hvězdným livestreamem Amazon Music s Marcem Anthonym a dalšími."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Christopher Nolan zvolen prezidentem Asociace režisérů Ameriky",
-      "original_title": "Christopher Nolan Elected President of Directors Guild of America - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/business/business-news/christopher-nolan-elected-president-directors-guild-1236376890/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-2198557024.jpg?crop=0px%2C238px%2C4686px%2C2622px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-21T03:33:45Z",
-      "description": "Oscarový režisér filmů ‚Temný rytíř‘ a ‚Oppenheimer‘ byl zvolen do čela více než 19 tisíc členné unie bez protikandidáta."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Rychlé zprávy: Indiana č. 19 zahanbila Illinois č. 9 poměrem 63:10 v nejhorší prohře éry Breta Bielemy",
-      "original_title": "Quick hits: No. 19 Indiana embarrasses No. 9 Illinois 63-10 in worst loss of Bret Bielema's tenure - 247Sports",
-      "url": "https://247sports.com/college/illinois/article/illinois-fighting-illini-football-indiana-hoosiers-recap-quick-hits-reaction-254336970/",
-      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/6/297/13297006.jpeg?width=1200&height=628&crop=1.91:1&fit=cover",
-      "source": "247Sports",
-      "publishedAt": "2025-09-21T03:05:12Z",
-      "description": "Indiana deklasovala Illinois v úvodním zápase Big Ten pro oba týmy"
+      "title": "Man arrested after drive-by shooting at ABC TV station in Sacramento",
+      "original_title": "Man arrested after drive-by shooting at ABC TV station in Sacramento - NPR",
+      "url": "https://www.npr.org/2025/09/20/nx-s1-5548558/abc10-shooting-arrest",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1493x840+367+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fd8%2Fba36864e49c684a23a5256ef688c%2Fimage-9-20-25-at-6-59-pm.jpeg",
+      "source": "NPR",
+      "publishedAt": "2025-09-20T23:19:38Z",
+      "description": "Podle sacramentské policie bylo na stanici vystřeleno nejméně tři kulky. Úřady vyšetřují možné motivy."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Sonda Curiosity pořídila úchvatné snímky krajiny na Marsu",
+      "title": "Sonda Curiosity pořídila dechberoucí snímky marsovské krajiny",
       "original_title": "Curiosity rover snaps breathtaking photos of the Martian landscape - Mashable",
       "url": "https://mashable.com/article/nasa-mars-curiosity-peace-vallis-images",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/07GPEltzKFOfHeU4EbwpBys/hero-image.fill.size_1200x675.v1758228115.jpg",
       "source": "Mashable",
       "publishedAt": "2025-09-20T22:13:27Z",
-      "description": "Podívejte se na línou řeku."
+      "description": "Check out the lazy river."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie realitních společností klesají navzdory snížení úrokových sazeb (XLRE:NYSEARCA)",
-      "original_title": "Real estate stocks decline despite interest rate cut (XLRE:NYSEARCA) - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4496785-real-estate-stocks-decline-despite-interest-rate-cut",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154752387/image_2154752387.jpg?io=getty-c-w750",
-      "source": "Seeking Alpha",
-      "publishedAt": "2025-09-20T16:00:34Z",
-      "description": "Akcie realitních společností klesaly v týdnu, kdy hlavní tržní průměry posílily, poté co investoři konečně obdrželi dlouho očekávané snížení úrokových sazeb od Federálního rezervního systému."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Meta ukázala katastrofální demo chytrých brýlí. Je to ještě horší, než jsme si mysleli.",
-      "original_title": "Meta's Disastrous Smart Glasses Demo Even Worse Than We Thought - Futurism",
-      "url": "https://futurism.com/meta-disastrous-smart-glasses-demo-worse",
-      "urlToImage": "https://wordpress-assets.futurism.com/2025/09/meta-disastrous-smart-glasses-demo-worse.jpg",
-      "source": "Futurism",
-      "publishedAt": "2025-09-20T15:15:50Z",
-      "description": "Zuckerbergova keynote na MetaConnect 2025 se rychle změnila v ponižující podívanou. Bylo to ještě horší, než jsme čekali."
+      "title": "A major iPhone feature breaks after updating to iOS 26, but you can fix it right now!",
+      "original_title": "A major iPhone feature breaks after updating to iOS 26, but you can fix it right now! - PhoneArena",
+      "url": "https://www.phonearena.com/news/major-iphone-feature-breaks-after-updating-to-ios-26_id174221",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/174221-wide-two_1200/A-major-iPhone-feature-breaks-after-updating-to-iOS-26-but-you-can-fix-it-right-now.jpg",
+      "source": "PhoneArena",
+      "publishedAt": "2025-09-20T20:32:27Z",
+      "description": "Nechcete na iPhonu přijít o tuto funkci. Přečtěte si, jestli na vás „oprava“ zabere."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Lékař z UW propuštěný RFK Jr. komentuje nová doporučení pro očkování proti COVID-19",
-      "original_title": "UW doctor fired by RFK Jr. speaks on new COVID vaccine guidance - The Seattle Times",
-      "url": "https://www.seattletimes.com/seattle-news/health/uw-doctor-fired-by-rfk-jr-speaks-on-new-covid-vaccine-guidance/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09192025_helen-chu_163728.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-09-20T13:00:00Z",
-      "description": "Pojišťovny budou i nadále hradit aktualizované vakcíny proti covidu-19 všem zájemcům, rozhodl v pátek poradní výbor CDC."
+      "title": "Cyklistika je spojována s nižším rizikem demence, zjistila studie",
+      "original_title": "Cycling linked with lower dementia risk, study finds - CNN",
+      "url": "https://www.cnn.com/2025/09/20/health/cycling-lower-dementia-risk-study-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2222760910.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-20T14:00:05Z",
+      "description": "Cycling instead of driving has been linked with a lower risk of dementia and Alzheimer’s disease, a large study has found."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pálení žáhy u dědečka v důchodu bylo varovným signálem vzácné nemoci",
-      "original_title": "A retired grandfather's heartburn was the warning sign of a rare illness - CBS News",
-      "url": "https://www.cbsnews.com/news/mesenteric-ischemia-chronic-northwestern-university-health/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/20/771d22e0-eba1-4409-9950-90b4de5b0c89/thumbnail/1200x630/2819656ddc4be0b46819e7e10e7fcc1b/screenshot-2025-09-20-at-7-11-26-am.png",
-      "source": "CBS News",
-      "publishedAt": "2025-09-20T12:00:00Z",
-      "description": "Ed Langevin měl rád jednoduché radosti života – dokud ho nezačaly pronásledovat bolestivé příznaky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tyto chatboty s umělou inteligencí mi neměly dávat tipy na hazard. Stejně to udělaly.",
-      "original_title": "These AI Chatbots Shouldn't Have Given Me Gambling Advice. They Did Anyway - CNET",
-      "url": "https://www.cnet.com/tech/services-and-software/these-ai-chatbots-shouldnt-have-given-me-gambling-advice-they-did-anyway/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/c295392946af4f650200751f429bafaf54c386cc/hub/2025/09/19/7952fff3-862d-4947-ae9a-76ac5fb3cc49/gettyimages-2235105726.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-09-20T11:12:00Z",
-      "description": "Jazykové modely mají bezpečnostní protokoly, které mají zabránit škodlivým odpovědím. Viděl jsem, jak snadno se dají prolomit."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Podivný zelený svit mezihvězdné komety 3I/ATLAS mate vědce",
-      "original_title": "Strange Green Glow From Interstellar Comet 3I/ATLAS Has Scientists Puzzled - ScienceAlert",
-      "url": "https://www.sciencealert.com/strange-green-glow-from-interstellar-comet-3i-atlas-has-scientists-puzzled",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/comet-lovejoy.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-19T19:01:42Z",
-      "description": "Snímky mezihvězdné komety 3I/ATLAS pořízené během zatmění Měsíce 7. září naznačují, že se tento nejnovější návštěvník Sluneční soustavy možná zbarvil do zelena."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„Tuto schopnost musíme nahradit nyní“: Nová družice NOAA nahradí stárnoucí strážce vesmírného počasí, startuje 23. září",
-      "original_title": "'We must replace this capability now': New NOAA satellite to replace aging space weather sentinels launches Sept. 23 - Space",
-      "url": "https://www.space.com/space-exploration/satellites/we-must-replace-this-capability-now-new-noaa-satellite-to-replace-aging-space-weather-sentinels-launches-sept-23",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pfhcrC7Kzov9Werftk2QKn.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-19T15:00:00Z",
-      "description": "Po desetiletí spoléhání na stárnoucí satelity vypouští NOAA speciální družici pro sledování Slunce."
+      "title": "Na chaotickém jednání začínají poradci RFK Jr. měnit očkovací kalendář pro děti",
+      "original_title": "In a chaotic meeting, RFK Jr.’s handpicked advisers begin altering the childhood vaccine schedule - statnews.com",
+      "url": "https://www.statnews.com/2025/09/19/what-acip-meeting-says-about-vaccine-schedule-rfk-restoring-trust-vaccines/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/GettyImages-2235561969-1024x576.jpg",
+      "source": "STAT",
+      "publishedAt": "2025-09-20T01:41:15Z",
+      "description": "Kennedy says he wants to restore trust in vaccines. His hand-picked ACIP panel raised many doubts, and outside experts were left baffled and frustrated."
     }
   ]
 }
