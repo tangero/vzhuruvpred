@@ -1,20 +1,20 @@
 {
-  "updated": "2025-09-21T21:21:31.805797",
+  "updated": "2025-09-22T02:05:25.240626",
   "trends": [
     {
       "rank": 1,
       "query": "počasí zítra",
-      "news_title": "Závan z Afriky přinese neobvyklé počasí, pak začne deštivý podzim",
-      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-zavan-z-afriky-prinese-do-ceska-neobvykle-pocasi-pak-zacne-destivy-podzim-286361",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnA5QfD85zH4Re4ps-a7y5SUFwJtAPiDWcEaGvFdTB-sQ8gxehUTtnPKHNwaA",
+      "news_title": "Teploty se v neděli hluboko propadnou",
+      "news_url": "https://www.novinky.cz/clanek/pocasi-teploty-se-v-nedeli-hluboko-propadnou-40539681",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiVn0Wl7s1QIlZC8_qpVhWVBkv3JO-9bgtM2sZUfUhd_2aFEYoL8q8B---HgI",
       "traffic": "20000++ hledání",
-      "source": "Seznam Zprávy",
+      "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=počasí zítra&geo=CZ"
     },
     {
       "rank": 2,
       "query": "barcelona – getafe",
-      "news_title": "Barcelona - Getafe živě: přímý přenos zápasu LaLigy",
+      "news_title": "Barcelona porazila Getafe 3:0, shrnutí a góly",
       "news_url": "https://as.com/futbol/primera/barcelona-getafe-en-directo-laliga-ea-sports-hoy-en-vivo-n-3/",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxHj-T6ImOGJx94GKbMjdcXydGEqFTDN3RF6symnBvdx0Ff_t0sEZ0d0TkfYI",
       "traffic": "2000++ hledání",
@@ -24,7 +24,7 @@
     {
       "rank": 3,
       "query": "ladislav hojer",
-      "news_title": "Markovič: S vrahy navazoval vztah, zachoval si lidskost",
+      "news_title": "Markovič navazoval s vrahy osobní vztahy, zachoval si lidskost",
       "news_url": "https://www.idnes.cz/xman/styl/jiri-markovic-vysetrovatel-detektiv-ladislav-hojer.A250910_125131_xman-styl_bury",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTG5-xhn1L-N6Mp_dI9HQmbISYbyPF79Qv36AYeJoUrO6ySG8nZqfCCMeK5Xiw",
       "traffic": "1000++ hledání",
@@ -34,17 +34,37 @@
     {
       "rank": 4,
       "query": "daniela brzobohatá",
-      "news_title": "Ondřej Brzobohatý ve Zrádcích: Manželka Daniela byla konsternovaná z izolace",
-      "news_url": "https://www.stream.cz/super-cz/ondrej-brzobohaty-promluvil-o-manzelce-daniele-ve-zradcich-byla-konsternovana-ze-socialni-izolace-65359334",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_J_iGZTrTsxFz6V3o13CkqvkSJGp8TIAQL24WCOPh31u1wQVNIEBGQRSt1es",
-      "traffic": "200++ hledání",
+      "news_title": "Sára nařkla Danielu Brzobohatou ze zrady",
+      "news_url": "https://www.stream.cz/extra-v-terenu/facka-pro-danielu-brzobohatou-sara-nesetrila-kritikou-a-oznacila-ji-za-zradce-65348671",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-uhMwN-SCxjmU4fa-fQOtis7rcGeOo0dUTJdGgEs9kl1giBRB6NWoOFbRrRQ",
+      "traffic": "500++ hledání",
       "source": "Stream.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=daniela brzobohatá&geo=CZ"
     },
     {
       "rank": 5,
+      "query": "ballon d'or 2025",
+      "news_title": "Vincent Garcia: Vím, kdo vyhraje Zlatý míč, ale tajím to",
+      "news_url": "https://foot-africa.com/en/news/ballon-dor-im-the-only-one-who-knows-the-winner-says-vincent-garcia-888429/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR-oIcQ3RWrgILxYz_rPiB1xIXJxm00_pXytMkbFPRcxGvigi1ZxaBNBEVhzY",
+      "traffic": "200++ hledání",
+      "source": "Foot Africa",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ballon d'or 2025&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "барселона – хетафе",
+      "news_title": "Barcelonský hráč ukončil zápas v slzách kvůli zranění",
+      "news_url": "https://www.euro-football.ru/article/35/1006027941_igrok_barselonyi_zavershil_match_v_slezah_iz-za_travmyi",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPYkZmqEyU3EIstgFwHnYcP3Ce5i4H8NjdztNFfyUPdFBAYC8-w_2OkFJw-kg",
+      "traffic": "200++ hledání",
+      "source": "Евро-Футбол",
+      "explore_url": "https://trends.google.cz/trends/explore?q=барселона – хетафе&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "inter – sassuolo",
-      "news_title": "LIVE Inter-Sassuolo 1-0: Dimarco skóroval po Sucicově asistenci",
+      "news_title": "FINALE Inter - Sassuolo 2:1, góly Augusto a Dimarco",
       "news_url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/21-09-2025/inter-sassuolo-live-diretta.shtml",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvBJpkvyxRNAKPRz1uN75Dn1qw5fiImHnZyXC8RrQBFNueqC_v5oLoq7S02z0",
       "traffic": "200++ hledání",
@@ -52,34 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=inter – sassuolo&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "query": "kubišová",
-      "news_title": "Květiny od Jágra, Kubišová naposledy zazpívala Modlitbu pro Martu",
+      "news_title": "Květiny jí přinesl Jágr. Kubišová naposledy zazpívala Modlitbu pro Martu",
       "news_url": "https://www.seznamzpravy.cz/clanek/kultura-marta-kubisova-lucerna-jagr-posledni-vystoupeni-286568",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeB4pGQNQegylAnZc-kbgn-kazzKcW_QC8Z4ol55Og6FHD14vq-8nVtqo29mU",
       "traffic": "200++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=kubišová&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "ballon d'or 2025",
-      "news_title": "Ballon d'Or 2025: kdy, kde, nominace a jak se rozhoduje",
-      "news_url": "https://www.uefa.com/uefachampionsleague/news/029d-1ec2c3cf6f25-45f93870ea1c-1000--2025-ballon-d-or-ceremony-when-and-where-all-the-nominees-h/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFGh9JhaE91EoyAvGKfJzOl35dKHD_YtzjbTOBnUmPuLUjD4630m5wm-FzyA",
-      "traffic": "100++ hledání",
-      "source": "UEFA.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ballon d'or 2025&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "барселона – хетафе",
-      "news_title": "«Барсе» čeká těžká zkouška",
-      "news_url": "https://www.barcamania.com/khroniki-pressy-barse-predstoit-neprostaya-proverka",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREVHc8AKoS87U5D-PI-C0VI5wNbH7AI_ZrsKNTYORP-RLdOwU26UjBfpVh0b8",
-      "traffic": "100++ hledání",
-      "source": "БарсаМания | Сайт болельщиков ФК «Барселона»",
-      "explore_url": "https://trends.google.cz/trends/explore?q=барселона – хетафе&geo=CZ"
     }
   ]
 }
