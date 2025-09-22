@@ -1,60 +1,104 @@
 {
-  "last_updated": "2025-09-21T23:15:46",
+  "last_updated": "2025-09-22T01:26:42",
   "articles": [
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Taylor Swift: Oficiální afterparty showmámy vydělala první den předprodejů 15 milionů dolarů, otevírá s prognózou 30–50 milionů",
-      "original_title": "‘Taylor Swift: The Official Release Party Of A Showgirl’ Boogies To $15M First Day Presales, Opening Forecast $30M-$50M – Box Office - Deadline",
-      "url": "http://deadline.com/2025/09/taylor-swift-life-of-a-showgirl-movie-box-office-1236551572/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/1000033132-e1758400651274.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-20T21:23:00Z",
-      "description": "Taylor Swift: Oficiální afterparty showbyznysmenky se očekává, že během víkendu 3.–5. října vydělá 30–50 milionů dolarů po 15 milionech za předprodej vstupenek první den."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Schumer a Jeffries požadují schůzku s Trumpem kvůli zastavení činnosti vlády",
-      "original_title": "Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico",
-      "url": "https://www.politico.com/news/2025/09/20/trump-democrats-shutdown-meeting-00574336",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F6b%2Ff3%2F8d94221d4725a0269f899f63f405%2Fu-s-congress-35947.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-20T21:17:59Z",
-      "description": "Vláda se 30. září pravděpodobně uzavře."
-    },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trumpovy změny víz pro kvalifikované pracovníky vyvolaly zmatek. Zde je to, co je třeba vědět.",
-      "original_title": "Trump’s changes to skilled worker visas spark confusion. Here’s what to know. - The Washington Post",
-      "url": "https://www.washingtonpost.com/immigration/2025/09/20/h1b-visa-proclamation-confusion-explained/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDBPLAC6GT64H3GQABFLGI24RQ.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-20T20:51:33Z",
-      "description": "Trump oznámil poplatek 100 000 dolarů za víza H-1B a uvedl, že omezení vstupu začnou platit od neděle. To vyvolalo zmatek mezi držiteli víz a imigračními právníky."
+      "title": "Několik lidí postříleno v newhampshirském golfovém klubu, oznámila policie, podezřelý je v péči strážců zákona",
+      "original_title": "Multiple people shot at New Hampshire country club, police say, suspect in custody - CNN",
+      "url": "https://www.cnn.com/2025/09/20/us/nashua-new-hampshire-shooting",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21965037-89949-still.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-21T00:41:00Z",
+      "description": "Podle nashvské policie bylo na golfovém klubu Sky Meadow postřeleno více lidí"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Provoz na letištích v Dallasu se po výpadku vrátil do normálu, oznámil FAA",
-      "original_title": "Air Traffic Returns to Normal at Dallas-Area Airports After Outage, FAA Says - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/flights-disrupted-at-dallas-airports-due-to-equipment-outage-20f8ee86",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-20T20:27:00Z",
-      "description": ""
+      "title": "Vedoucí představitelé demokratů v Kongresu požadují schůzku s Trumpem kvůli hrozícímu zastavení činnosti vlády",
+      "original_title": "Democratic leaders in Congress demand a meeting with Trump as government shutdown looms - AP News",
+      "url": "https://apnews.com/article/congress-government-shutdown-trump-schumer-jeffries-a214d540f0dbeb86ce776a5f56c382b0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1e65b5f/2147483647/strip/true/crop/5782x3252+0+301/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2F15%2F1007063ad564a254a6b2b570b450%2F145ea5f4be654b7c8bfbaaab2068aaad",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-21T00:02:00Z",
+      "description": "Hrozba zastavení činnosti federální vlády se blíží, šéfové demokratů žádají schůzku s Trumpem"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mark Ruffalo varuje, že akcie Disneyho klesnou „ještě o hodně níž“, pokud ABC zruší ‘Jimmy Kimmel Live’",
-      "original_title": "Mark Ruffalo Warns Disney’s Stock Price Will Drop “A Lot Further” If ABC Cancels ‘Jimmy Kimmel Live’ - Deadline",
-      "url": "http://deadline.com/2025/09/mark-ruffalo-disney-jimmy-kimmel-live-suspension-stocks-1236551542/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-2219205177.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-20T20:13:00Z",
-      "description": "Mark Ruffalo se přidal k dalším hercům z MCU, kteří odsuzují rozhodnutí Disneye vysílat předtočený pořad Jimmyho Kimmela, a varuje, že cena akcií společnosti klesne."
+      "title": "Nový poplatek za vízum H-1B se nebude vztahovat na stávající držitele, uvádí úředník",
+      "original_title": "New H-1B visa fee will not apply to existing holders, official says - Axios",
+      "url": "https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas",
+      "urlToImage": "https://images.axios.com/Spb_DP8o4YJQlzAea6rM4zwWxmQ=/0x0:8485x4773/1366x768/2025/09/20/1758385005336.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-20T23:45:54Z",
+      "description": "Poplatek 100 000 dolarů za vysoce ceněné vízum má podpořit pracovní místa pro americké pracovníky."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Muž zatčen po střelbě z jedoucího auta u televizní stanice ABC v Sacramentu",
+      "original_title": "Man arrested after drive-by shooting at ABC TV station in Sacramento - NPR",
+      "url": "https://www.npr.org/2025/09/20/nx-s1-5548558/abc10-shooting-arrest",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1493x840+367+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fd8%2Fba36864e49c684a23a5256ef688c%2Fimage-9-20-25-at-6-59-pm.jpeg",
+      "source": "NPR",
+      "publishedAt": "2025-09-20T23:19:38Z",
+      "description": "Podle sacramentské policie bylo na stanici vystřeleno nejméně tři náboje. Úřady vyšetřují možné motivy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "I Disney hvězdy se přidávají k výzvám k bojkotu mediálního giganta poté, co ABC pozastavila pořad Jimmyho Kimmela",
+      "original_title": "Even Disney stars are joining calls to boycott the media giant after ABC suspended Jimmy Kimmel's show - Fortune",
+      "url": "https://fortune.com/2025/09/20/disney-boycott-subscriptions-marvel-stars-abc-tv-jimmy-kimmel-fcc/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2234218792_a7e5d3-e1758400391141.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-20T22:46:00Z",
+      "description": "Internet už zaplavovaly snímky obrazovek uživatelů rušících předplatné streamovacích služeb Disney nebo zájezdy v disneyovských rezortech."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump nominuje náhradu za úřadujícího žalobce vyšetřujícího Letitii Jamesovou",
+      "original_title": "Trump nominates replacement for acting U.S. attorney in office probing Letitia James - CBS News",
+      "url": "https://www.cbsnews.com/news/us-attorney-virginia-letitia-james-trump/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/21/404ca7c2-b4c0-43c0-9f15-b90f45bbef5d/thumbnail/1200x630/493f0410a41306fb8530560caf2d2a24/gettyimages-2203079311.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-20T22:34:00Z",
+      "description": "Prezident Trump oznámil, že navrhne na post nejvyššího federálního prokurátora ve Virginii svou vysokou úřednici z Bílého domu Lindsey Halliganovou."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Hrdinou dne je náhradní quarterback Texas Tech Will Hammond, který dovedl Red Raiders k přesvědčivé výhře nad Utahem",
+      "original_title": "Hero of the day: Texas Tech backup QB Will Hammond buoys Red Raiders to dominant win over Utah - Yahoo Sports",
+      "url": "https://sports.yahoo.com/college-football/breaking-news/article/hero-of-the-day-texas-tech-backup-qb-will-hammond-buoys-red-raiders-to-dominant-win-over-utah-215510484.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wIEgqV3nIYA81tfsZ9iKuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/5ab82510-966b-11f0-bfff-ddb888ed1040",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-20T21:55:11Z",
+      "description": "Hammond zažil ve Salt Lake City dojemný návrat domů a Texas Tech ukázal, že jeho nákladný kádr stojí za každý penny v dominantním vítězství v Big 12."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Izraelské bombardování zabilo přes 90 Palestinců, Gaze hrozí zničení",
+      "original_title": "Israeli bombing kills over 90 Palestinians as Gaza City faces destruction - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/20/israeli-bombing-kills-over-90-palestinians-as-gaza-city-faces-destruction",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-09-20T083158Z_618555308_RC2IVGAN9H36_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1758365866.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-20T21:00:00Z",
+      "description": "Nejméně 76 mrtvých v Gaze, 450 tisíc lidí uprchlo před izraelskými útoky na hlavní město pásma"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "FAA: Výpadek zařízení na letištích DFW a Love Field způsobil soubor selhání v technologii",
+      "original_title": "FAA says ‘multiple failures’ in technology caused DFW, Love Field equipment outage - Dallas News",
+      "url": "https://www.dallasnews.com/business/airlines/2025/09/20/faa-says-multiple-failures-in-technology-caused-dfw-love-field-equipment-outage/",
+      "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/44MI2WLLMRDF3JJ7BLOYACRG5Q.jpg?auth=aff440653d96df834b71293cd7b4225f48d14e72f852bad3f2a6b78279aa1f17&quality=80&width=1200&height=630&smart=true",
+      "source": "The Dallas Morning News",
+      "publishedAt": "2025-09-20T20:48:45Z",
+      "description": "Oba letiště již fungují normálně, uvedl úřad FAA."
     },
     {
       "flag": "🌍",
@@ -70,134 +114,90 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pentagon požaduje, aby novináři umožnili vládě cenzurovat informace",
-      "original_title": "Pentagon Demands Journalists Allow Government to Vet Information - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-20/pentagon-demands-journalists-allow-government-to-vet-information",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUs8qd93QqgI/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-20T18:25:19Z",
-      "description": "Pentagon požaduje od novinářů souhlas s používáním předem schválených informací"
+      "title": "Ruské stíhačky nad Estonskem ignorovaly signály od pilotů NATO, uvádějí představitelé",
+      "original_title": "Russian jets over Estonia ignored signals from NATO pilots, officials say - AP News",
+      "url": "https://apnews.com/article/russia-jets-estonia-nato-signals-ed46783ac2ce71622a9f3aa8f2ba9ad7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/987d5a9/2147483647/strip/true/crop/8148x4583+0+424/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2Fd2%2F75f12e5d0bddb9d11177a2b95bfd%2F3e369db1d6ff44dbbcfb591c574b8888",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-20T18:51:00Z",
+      "description": "Vysoce postavený estonský vojenský činitel: Ruští piloti ignorovali signály italských stíhaček během 12minutového narušení estonského vzdušného prostoru"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Letiště v celé Evropě čelí výpadkům kvůli kyberútoku – dw.com",
-      "original_title": "Airports across Europe face disruptions due to cyberattack - dw.com",
-      "url": "https://www.dw.com/en/airports-across-europe-face-disruptions-due-to-cyberattack/a-74073365",
-      "urlToImage": "https://static.dw.com/image/74074050_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-09-20T16:22:05Z",
-      "description": "Letiště v Bruselu požádalo aerolinky, aby zrušily polovinu letů v neděli kvůli rozsáhlým výpadkům, které postihly také letecká centra v Berlíně, Londýně a Dublinu."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Ředitel nemocnice v Gaze přijímá těla bratra a dalších příbuzných během služby",
-      "original_title": "Gaza hospital director receives bodies of brother and other relatives while on duty - CNN",
-      "url": "https://www.cnn.com/2025/09/20/middleeast/gaza-hospital-director-receives-bodies-of-relatives-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235853135.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-20T15:51:26Z",
-      "description": "V pátek odešel doktor Mohammed Abu Salmiya z rodinného domu na směnu jako ředitel nemocnice Al-Shifa. O den později, zatímco byl stále v práci, dorazila těla šesti členů jeho rodiny."
+      "title": "Sociální zabezpečení bude mít za méně než 10 let vyčerpané prostředky, podle komisaře je ale ‚dost času‘ na řešení",
+      "original_title": "Social Security is on track to be insolvent in less than 10 years — but its commissioner says there’s ‘plenty of time’ to find a solution - Yahoo Finance",
+      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1",
+      "urlToImage": "https://images.mktw.net/im-88437941/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-09-20T18:51:00Z",
+      "description": "Podle nejnovějších zpráv dojde v důchodovém pojištění peníze nejpozději v roce 2033"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump tvrdí, že žalobce byl propuštěn poté, co získal \"NEZVYKLE SILNOU\" podporu demokratů",
-      "original_title": "Trump says prosecutor fired after gaining \"UNUSUALLY STRONG\" Democratic support - Axios",
-      "url": "https://www.axios.com/2025/09/20/trump-virginia-siebert-us-attorney-letitia-james",
-      "urlToImage": "https://images.axios.com/up7jVNDxwAAGywF-j8yHh1U6Xfs=/0x0:5850x3291/1366x768/2025/09/20/1758377981861.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-20T15:32:27Z",
-      "description": "Trump má historii požadování, aby úředníci ministerstva spravedlnosti cílili na politické nepřátele, ale propuštění Erika Sieberta odůvodnil nepříbuzným zdůvodněním."
+      "title": "Jak sledovat Wrestlepalooza 2025 dnes večer: Čas začátku, program, kompletní karta zápasů a další",
+      "original_title": "How to watch Wrestlepalooza 2025 tonight: Start time, schedule, full fight card and more - Yahoo Sports",
+      "url": "https://sports.yahoo.com/wrestling/article/how-to-watch-wrestlepalooza-2025-tonight-start-time-schedule-full-fight-card-and-more-182047685.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e1WDMTLggOh5K2BwHWH3lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/ca866610-9560-11f0-bdaf-0f89e8b99508",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-20T17:33:06Z",
+      "description": "Sledujte letošní podívanou výhradně na ESPN Unlimited."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tržby: ‚Demon Slayer‘ o vlásek předběhl ‚Hima‘, ‚Velká odvážná krásná cesta‘ je propadák",
-      "original_title": "Box Office: ‘Demon Slayer’ Edging Out ‘Him’ for No. 1, ‘A Big Bold Beautiful Journey’ Bombing - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/box-office-demon-slayer-edging-out-him-for-no-1-1236376666/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Still-2-Copyright_-Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-20T15:13:24Z",
-      "description": "Nový romantický fantasy film Margot Robbie a Colina Farrella se umístil na šestém místě."
+      "title": "Jak získat vakcínu proti covidu-19 a mít jistotu, že ji pojistovna proplatí",
+      "original_title": "How to get a COVID-19 shot and ensure it’s covered by your insurance - Boston.com",
+      "url": "https://www.boston.com/news/health/2025/09/20/how-to-get-a-covid-19-shot-and-ensure-its-covered-by-your-insurance/",
+      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/09/Florida_Vaccines_10535-68ce9b9f63106-768x432.jpg",
+      "source": "Boston.com",
+      "publishedAt": "2025-09-20T15:49:00Z",
+      "description": "USA dosud doporučovaly očkování proti covidu-19 jednou ročně pro všechny od šesti měsíců věku."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "7 pověstí o OnePlus 15, které musíte znát: dobré, špatné a skvělé",
-      "original_title": "7 must-know OnePlus 15 rumors: the good, the bad and the great - PhoneArena",
-      "url": "https://www.phonearena.com/news/oneplus-15-rumor-roundup_id174200",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/174200-wide-two_1200/7-must-know-OnePlus-15-rumors-the-good-the-bad-and-the-great.jpg",
-      "source": "PhoneArena",
-      "publishedAt": "2025-09-20T14:45:02Z",
-      "description": "Od baterie s 7 000 mAh až po potenciální snížení kvality displeje: Tohle byste měli vědět o tomto vlajkovém modelu."
+      "title": "Reese Witherspoonová promluvila o odchodu z toxického vztahu",
+      "original_title": "Reese Witherspoon Reflects on Leaving an Abusive Relationship - Yahoo",
+      "url": "https://www.eonline.com/news/1422830/reese-witherspoon-on-leaving-abusive-relationship",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250920/47401f0c-3cc7-4fd3-b827-f4cb7a4f8576_1758380555.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "source": "Eonline.com",
+      "publishedAt": "2025-09-20T15:31:00Z",
+      "description": "Reese Witherspoon promluvila o znovunabytí sebevědomí po opuštění toxického vztahu na začátku kariéry: „Musela jsem přepojit svůj mozek.“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Analytici mění výhled akcií Nvidie kvůli investici do Intelu",
-      "original_title": "Analysts revamp Nvidia stock outlook on its investment in Intel - TheStreet",
-      "url": "https://www.thestreet.com/technology/analysts-revamp-nvidia-stock-outlook-on-its-investment-in-intel-",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA5MTY2MzEzMzgwMTI4NjEy/nvidia-chief-executive-jensen-huang-kl-11.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-09-20T14:07:00Z",
-      "description": "Analytici se vyjádřili k akciím Nvidie po společnosti investici 5 miliard dolarů do Intelu"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Podezřelý z vraždy v budově televize ABC Sacramento zadržen – aktualizace",
-      "original_title": "Suspect Arrested In ABC Sacramento Affiliate Station Shooting – Update - Deadline",
-      "url": "http://deadline.com/2025/09/abc-building-gunshots-sacramento-affiliate-arrest-1236549990/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/ABC10-building-in-Sacramento.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-20T13:30:00Z",
-      "description": "Podezřelý byl zatčen za střelbu do budovy televize ABC10 v Sacramentu, oznámila v sobotu policie"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Šokující objev: Černá díra roste 2,4krát rychleji, než je teoretický limit",
+      "title": "Šokující: Černá díra roste 2,4krát rychleji, než je teoretický limit",
       "original_title": "'Shocking': Black hole found growing at 2.4 times the theoretical limit - Live Science",
       "url": "https://www.livescience.com/space/black-holes/shocking-black-hole-found-growing-at-2-4-times-the-theoretical-limit",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/tHn4tXcEqRYViRhwapzUfi.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-20T13:00:00Z",
-      "description": "Vědci objevili obrovskou černou díru z raného vesmíru, která roste 2,4krát rychleji, než je teoretický Eddingtonův limit. Její další studium by mohlo pomoci odpovědět na jednu z největších otázek a..."
+      "description": "Vědci objevili obrovskou černou díru z raného vesmíru, která roste 2,4krát rychleji, než je teoretický Eddingtonův limit. Její další zkoumání by mohlo pomoci odpovědět na jednu z největších otázek ..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Lékař z UW, kterého propustil RFK Jr., promluvil o novém očkovacím postupu proti covidu",
+      "title": "Lékař z UW propuštěný RFK Jr. promluvil o nových doporučeních pro očkování proti covidu",
       "original_title": "UW doctor fired by RFK Jr. speaks on new COVID vaccine guidance - The Seattle Times",
       "url": "https://www.seattletimes.com/seattle-news/health/uw-doctor-fired-by-rfk-jr-speaks-on-new-covid-vaccine-guidance/",
       "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09192025_helen-chu_163728.jpg?d=1200x630",
       "source": "The Seattle Times",
       "publishedAt": "2025-09-20T13:00:00Z",
-      "description": "Pojišťovny budou i nadále hradit očkování aktualizovanými vakcínami proti covidu-19, rozhodl poradní výbor CDC."
+      "description": "Pojišťovny budou i nadále hradit očkování aktualizovanými vakcínami proti covidu-19, rozhodl poradní výbor CDC"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dědečkovo pálení žáhy v důchodu bylo varovným signálem vzácné nemoci",
-      "original_title": "A retired grandfather's heartburn was the warning sign of a rare illness - CBS News",
-      "url": "https://www.cbsnews.com/news/mesenteric-ischemia-chronic-northwestern-university-health/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/20/771d22e0-eba1-4409-9950-90b4de5b0c89/thumbnail/1200x630/2819656ddc4be0b46819e7e10e7fcc1b/screenshot-2025-09-20-at-7-11-26-am.png",
-      "source": "CBS News",
-      "publishedAt": "2025-09-20T12:00:00Z",
-      "description": "Ed Langevin měl rád jednoduché věci v životě – dokud ho nezačaly pronásledovat bolestivé příznaky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chytré brýle od Meta vám možná přidají na inteligenci. Zato nešikovnost vám zaručí.",
+      "title": "Chytré brýle od Meti vás možná udělají chytřejšími. Určitě vás ale učiní trapnějšími.",
       "original_title": "Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward - WIRED",
       "url": "https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/",
       "urlToImage": "https://media.wired.com/photos/68cda3213e66f0d9fd315ce2/191:100/w_1280,c_limit/Meta-Ray-Ban-Display-Gear-Meta-AI.jpg",
       "source": "Wired",
       "publishedAt": "2025-09-20T10:00:00Z",
-      "description": "Šéf Mety Mark Zuckerberg tvrdí, že kdo nebude nosit chytré brýle, bude v budoucnu v kognitivní nevýhodě. Za vyšší inteligenci ale zaplatí vysokou společenskou cenu."
+      "description": "Šéf Mety Mark Zuckerberg tvrdí, že ten, kdo nebude nosit chytré brýle, bude v budoucnu v kognitivní nevýhodě. Za tu přidanou inteligenci ale zaplatíte vysokou sociální cenu."
     },
     {
       "flag": "🇫🇷",
@@ -208,95 +208,73 @@
       "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-Z-Fold-7-review-Software-2-1200x674.jpg",
       "source": "SamMobile",
       "publishedAt": "2025-09-20T09:26:00Z",
-      "description": "Není to překvapení, ale další hlavní verzí One UI bude 9.0, jak potvrzuje kód z uniklého firmware One UI 8.5"
+      "description": "Není to překvapení, ale další hlavní verze One UI bude 9.0, jak potvrzuje kód z uniklého firmware One UI 8.5"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Test ohybem potvrzuje tvrzení Applu o nejodolnějším iPhonu všech dob, odolnost předního skla proti poškrábání také překvapí",
-      "original_title": "iPhone Air bend test affirms Apple's claim of most durable iPhone ever, front glass scratch resistance also impresses - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/20/iphone-air-bend-test-most-durable-iphone-ever/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-air-bend-jerryrigeverything.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-20T08:56:00Z",
-      "description": "Od té doby, co Apple představil iPhone Air a nazval jej svým nejodolnějším iPhonem vůbec, máme pocit, že všechny..."
+      "title": "OnePlus 15: Tipster popisuje dojmy z používání a vyvrací dřívější úniky designu",
+      "original_title": "OnePlus 15: Tipster reveals hands-on experience and contradicts earlier design leaks - Notebookcheck",
+      "url": "https://www.notebookcheck.net/OnePlus-15-Tipster-reveals-hands-on-experience-and-contradicts-earlier-design-leaks.1118995.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-15-hands-on-leak.png",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2025-09-20T03:30:00Z",
+      "description": "OnePlus by měl u nadcházejícího vlajkového modelu OnePlus 15 představit nový designový jazyk. Nový únik popisuje vzhled telefonu. Informátor upozorňuje na detaily displeje, rámečku a nového barevné..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‚Jako vidět mlhu ve tmě‘: Jak podivné pulzy energie pomáhají vědcům vytvořit ultimativní mapu vesmíru",
-      "original_title": "'Like trying to see fog in the dark': How strange pulses of energy are helping scientists build the ultimate map of the universe - Live Science",
-      "url": "https://www.livescience.com/space/astronomy/like-trying-to-see-fog-in-the-dark-how-strange-pulses-of-energy-are-helping-scientists-build-the-ultimate-map-of-the-universe",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HMtS7kUgujmvubxJ6FKMBi.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-19T16:38:57Z",
-      "description": "Astronomové využívají rádiové pulsy z vesmíru k hledání chybějící baryonové hmoty a ke zkoumání supermasivních černých děr, vzniku hvězd a vývoje galaxií."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Zpěvák D4vd zrušil turné v den koncertu v San Franciscu poté, co bylo v jeho Tesle identifikováno tělo",
-      "original_title": "Singer D4vd cancels tour on day of S.F. show after body in his Tesla identified - San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/entertainment/article/d4vd-san-francisco-show-canceled-21055940.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/45/55/28466014/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-09-19T15:45:09Z",
-      "description": "Zpěvák D4vd zrušil zbývající koncerty poté, co policie v jeho Tesle identifikovala tělo pohřešované patnáctileté dívky."
+      "title": "Astronauti našli sladkosti v nadrozměrné zásobovací lodi Cygnus | Na Mezinárodní vesmírné stanici 15.–19. září 2025",
+      "original_title": "Astronauts find sweet treats aboard extra-large Cygnus supply ship | On the International Space Station Sept. 15-19, 2025 - Space",
+      "url": "https://www.space.com/space-exploration/international-space-station/astronauts-find-sweet-treats-aboard-extra-large-cygnus-supply-ship-on-the-international-space-station-sept-15-19-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/it8vJ5FgQSXrYVx33mFX64.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-19T20:00:00Z",
+      "description": "Reese's burákové máslo, Mike & Ike bonbóny a také korejské slané pochoutky!"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Musíme tuto schopnost neprodleně nahradit\": Nová družice NOAA pro nahrazení stárnoucích strážců vesmírného počasí odstartuje 23. září",
+      "title": "Předběžný test řady iPhone 17: Air je extrémně tenký, Pro zase nabitý výkonem",
+      "original_title": "iPhone 17 Lineup Hands On: Air's Thinness vs Pro's Power - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/19/iphone-17-hands-on/",
+      "urlToImage": "https://images.macrumors.com/t/oRcOp0p9jOLl91lMiL6s9VNIXPs=/2500x/article-new/2025/09/First-Second-Impressions-Thumb-2.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-19T18:51:47Z",
+      "description": "Šťastný den iPhonu 17! iPhone Air a další nové modely iPhonu 17 jsou nyní dostupné v obchodech a v rukou zákazníků. Sehnali jsme..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "„Tuto schopnost musíme neprodleně obnovit“: Nová družice NOAA nahradí stárnoucí strážce vesmírného počasí, startuje 23. září",
       "original_title": "'We must replace this capability now': New NOAA satellite to replace aging space weather sentinels launches Sept. 23 - Space",
       "url": "https://www.space.com/space-exploration/satellites/we-must-replace-this-capability-now-new-noaa-satellite-to-replace-aging-space-weather-sentinels-launches-sept-23",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pfhcrC7Kzov9Werftk2QKn.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-19T15:00:00Z",
-      "description": "Po desetiletích spoléhání na stárnoucí satelity vypouští NOAA speciální sondu ke sledování Slunce."
+      "description": "Po desetiletích spoléhání na stárnoucí satelity vypouští NOAA speciální družici ke sledování Slunce."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nissan předběhl Teslu s elektromobilem za 25 000 dolarů, o kterém Musk tvrdil, že nikdy nebude existovat",
-      "original_title": "Nissan Beats Tesla To $25K EV Musk Said Would Never Happen - Carscoops",
-      "url": "https://www.carscoops.com/2025/09/2026-nissan-leaf-is-americas-cheapest-ev/",
-      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2025/09/LIPMAN_JL19706-copy-scaled.jpg",
-      "source": "CarScoops",
-      "publishedAt": "2025-09-19T14:03:45Z",
-      "description": "Cena základního modelu Leaf S 2026 je známá, je tak nejlevnějším elektromobilem v USA a stanovuje nový standard dostupnosti"
+      "title": "Marsovské vozítko Curiosity řeší záhadu fascinujícího vzorce „boxwork“ na fotografii dne 19. září 2025",
+      "original_title": "Curiosity Mars rover puzzles over intriguing 'boxwork' pattern photo of the day for Sept. 19, 2025 - Space",
+      "url": "https://www.space.com/space-exploration/mars-rovers/curiosity-mars-rover-puzzles-over-intriguing-boxwork-pattern-space-photo-of-the-day-for-sept-19-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YReCbKYvBPp4wJ3yYMEmyK.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-19T12:00:00Z",
+      "description": "Síť vzorků připomínající pavučinu z vesmíru nabízí vodítka k vodní minulosti Marsu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Srážka Fedu byla „dravější, než se očekávalo,“ říká Moodyho Zandi a varuje, že to nebude stačit",
+      "title": "Srazila Fedu více, než se čekalo, a bude málo, varuje Moody’s Zandi",
       "original_title": "The Fed’s cut was 'more hawkish than anticipated,' Moody’s Zandi says — and warns it won’t be enough - Fortune",
       "url": "https://fortune.com/2025/09/19/feds-cut-was-hawkish-than-expected-jobs-recessionzandi/",
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2235418395-e1758226126547.jpg?resize=1200,600",
       "source": "Fortune",
       "publishedAt": "2025-09-19T10:05:00Z",
-      "description": "Trh nedostal jím očekávaný signál k uvolnění měnové politiky."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Sonda Curiosity pořídila dechberoucí snímky krajiny na Marsu",
-      "original_title": "Curiosity rover snaps breathtaking photos of the Martian landscape - Mashable",
-      "url": "https://mashable.com/article/nasa-mars-curiosity-peace-vallis-images",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07GPEltzKFOfHeU4EbwpBys/hero-image.fill.size_1200x675.v1758228115.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-09-19T09:00:00Z",
-      "description": "Podívejte se na línou řeku."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„Tyto vakcíny fungují“: Představujeme doporučení pro očkování proti covidu-19 na západním pobřeží s hlavním hygienikem Oregonu",
-      "original_title": "‘These vaccines work’: Oregon’s health officer on West Coast COVID-19 vaccine guidelines - Oregon Public Broadcasting - OPB",
-      "url": "https://www.opb.org/article/2025/09/18/west-coast-covid-19-vaccine-guidelines-oregon-health-officer/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/XYNJ2MSULNBKJBQ4QRCPZ7ELGA.jpg?auth=e59d3b54fc7655dc06e37473536e98633e4bf9193bea5c7743f2af0f177e1f70&width=1200&height=675&smart=true",
-      "source": "OPB News",
-      "publishedAt": "2025-09-19T00:18:52Z",
-      "description": "Dr. Dean Sidelinger hovořil pro OPB o nových doporučeních Western States Health Alliance ohledně vakcíny proti COVID-19 a o tom, co by měli vědět obyvatelé Oregonu."
+      "description": "Trh nedostal měkčí signál, který hledal."
     }
   ]
 }
