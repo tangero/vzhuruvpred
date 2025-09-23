@@ -1,16 +1,126 @@
 {
-  "last_updated": "2025-09-23T14:18:19",
+  "last_updated": "2025-09-23T16:22:41",
   "articles": [
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Trump údajně spojí autismus s lékem Tylenol, mnoho expertů je však skeptických",
-      "original_title": "Trump will reportedly link autism to Tylenol - but many experts are sceptical - BBC",
-      "url": "https://www.bbc.com/news/articles/cx20d4lr67lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/efd6/live/8b5ddf10-979d-11f0-84a3-e314c0b97a4c.jpg",
+      "title": "Alaa Abdel Fattah: Egyptský prezient omilostnil prominentního aktivistu",
+      "original_title": "Alaa Abdel Fattah: Egypt's president pardons prominent activist - BBC",
+      "url": "https://www.bbc.com/news/articles/cq8e3kqkyq2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5bcc/live/91f678a0-97b1-11f0-a98f-a5aede2eafbc.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-09-22T11:33:16Z",
-      "description": "Některé studie naznačují souvislost, ale podle expertů nejde o příčinný vztah."
+      "publishedAt": "2025-09-22T16:32:27Z",
+      "description": "The British-Egyptian activist is one of six people whose sentences President Abdul Fattah al-Sisi commuted, according to state media."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Netanjahu slibuje odvetu před dalším uznáním Palestiny v OSN",
+      "original_title": "Netanyahu vows retaliation ahead of more Palestine recognitions at U.N. - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/09/22/palestine-state-recognize-un-israel/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVAQPMAXMI66JFZMZV57ACBCWE.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-22T16:32:26Z",
+      "description": "Izraelský premiér: Palestinský stát nevznikne, Francie a Saúdská Arábie svolávají summit k obnovení snah o dvoustátní řešení"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "S&P 500 na začátku nového týdne atakuje nová rekordní maxima: Živé aktualizace",
+      "original_title": "S&P 500 scales to fresh record high as new week of trading begins: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/09/21/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202184-1758555949449-Traders-Photo-20250922-KK-PRESS-019.jpg?v=1758556033&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-22T16:13:00Z",
+      "description": "Wall Street po silném týdnu uzavírá růst hlavních indexů poté, co Fed snížil úrokové sazby."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Čtrnáct mrtvých v ecuadorské věznici Machala po střetu znepřátelených gangů",
+      "original_title": "Fourteen killed in Ecuador's Machala prison as rival gangs clash - BBC",
+      "url": "https://www.bbc.com/news/articles/c4gkwdzld23o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f432/live/79de2070-97c4-11f0-8688-49888c97a1d5.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-22T15:24:08Z",
+      "description": "Police said gang members killed a prison guard before turning on members of a rival gang."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "TikTok algorithm to be ‘retrained’ by Oracle in Trump deal",
+      "original_title": "TikTok algorithm to be ‘retrained’ by Oracle in Trump deal - Financial Times",
+      "url": "https://www.ft.com/content/d27e00b5-1997-4f28-b0f7-19139167be31",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7f04438e-340c-4756-b24a-0fe10b3cfaf3.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-22T13:50:54Z",
+      "description": "Bílý dům říká, že američtí vlastníci pronajmou a přestavějí doporučovací software ByteDance"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zatímco svět zmítají války a spory, jeho lídři se na OSN scházejí, aby to vyřešili",
+      "original_title": "As the world convulses in war and contentiousness, its leaders convene at the UN to figure it out - AP News",
+      "url": "https://apnews.com/article/un-assembly-leaders-gaza-ukraine-funding-hunger-bc2343abfd8e602ce94e8782eb54a5bf",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8b67547/2147483647/strip/true/crop/3960x2228+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F6b%2F818e62628ff9cfada9105c4d50b7%2F57ed70f406c64a70be883d80fd12a40e",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-22T13:48:00Z",
+      "description": "Světoví lídři se scházejí v jedné z nejbouřlivějších a nejrozpolcenějších chvil v 80leté historii OSN"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rusko „drze“ porušuje vzdušný prostor NATO, záležitost míří do Rady bezpečnosti OSN",
+      "original_title": "Russia's \"brazen\" NATO airspace violations head to UN Security Council - Axios",
+      "url": "https://www.axios.com/2025/09/22/russia-nato-un-security-council-meeting-estonia",
+      "urlToImage": "https://images.axios.com/MMqXlewY9JmIHaKszZBmS__hpbc=/0x152:5610x3308/1366x768/2025/09/22/1758547273354.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-22T13:29:04Z",
+      "description": "Evropští lídři varují, že vpády jsou vypočítanou eskalací ruské války na Ukrajině."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Droga, kterou chce Trump propagovat pro autismus, přináší skutečnou (a křehkou) naději",
+      "original_title": "The drug Trump plans to promote for autism shows real (and fragile) hope - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/22/leucovorin-autism-treatment-rfk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HSBLTEA7PCVC2RAPMJCNTP43CE.JPEG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-22T13:28:32Z",
+      "description": "Leucovorin dává naději jako první potenciální lék na autismus, ale vědci se kvůli RFK Jr. obávají o důvěru."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "USASOC Identifies Soldiers Who Perished in Aviation Mishap - army.mil",
+      "original_title": "USASOC Identifies Soldiers Who Perished in Aviation Mishap - army.mil",
+      "url": "https://www.army.mil/article/288634/usasoc_identifies_soldiers_who_perished_in_aviation_mishap",
+      "urlToImage": "https://api.army.mil/e2/c/images/2025/09/22/560049b7/max1200.jpg",
+      "source": "United States Army",
+      "publishedAt": "2025-09-22T13:18:45Z",
+      "description": "FORT BRAGG, N.C. – Four Soldiers who perished in a Sept. 17, aircraft mishap while conducting routine flight training are identified. The cause of the m..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tiger kills animal handler at wildlife preserve in Oklahoma",
+      "original_title": "Tiger kills animal handler at wildlife preserve in Oklahoma - CBS News",
+      "url": "https://www.cbsnews.com/news/tiger-kills-caretaker-ryan-easley-growler-pines-tiger-preserve-oklahoma/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/22/429095b7-f7d1-47a8-9caa-c84f6dae8fc4/thumbnail/1200x630g2/1ced232b233f298a6c8da93bd0e971bc/tigers-480471289-942531831366795-8521417395131108453-n.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-22T12:16:06Z",
+      "description": "Rezervace tygrů Growler Pines uvedla v prohlášení, že Ryan Easley zemřel v sobotu při „nehodě“ s tygrem."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Recenze Neuvěřitelných dobrodružství Kavaliera a Claye – Met se vrací v plné síle",
+      "original_title": "The Amazing Adventures of Kavalier & Clay review — the Met is back with a bang - The Times",
+      "url": "https://www.thetimes.com/culture/classical-opera/article/the-amazing-adventures-of-kavalier-and-clay-review-the-met-is-back-with-a-bang-0vk2sdc5j",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/%2F0e2d940e-56c9-419c-b1ec-2e6c57920da6.jpg?crop=3754%2C2112%2C380%2C320&resize=1200",
+      "source": "Thetimes.com",
+      "publishedAt": "2025-09-22T11:45:00Z",
+      "description": "Newyorská sezóna odstartovala aktuální novou operou Masona Batese o nacistickém uprchlíkovi, adaptovanou z monumentálního románu Michaela Chabona"
     },
     {
       "flag": "🇺🇸",
@@ -21,51 +131,40 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VTXLH5RG5FVGVEPCMSUHSQCNBE.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-22T11:32:01Z",
-      "description": "The president is rapidly intensifying the pressure he’s putting on federal prosecutors, prompting some observers to questions whether their traditional independence can survive."
+      "description": "Prezident rapidně stupňuje tlak na federální žalobce, což vede k otázkám, zda jejich tradiční nezávislost přežije."
     },
     {
       "flag": "🌍",
       "country": "global",
       "title": "Google čelí antimonopolnímu déja vu. USA se snaží rozbít jeho reklamní byznys",
-      "original_title": "Google faces antitrust déjà vu as US seeks to break up its digital advertising business - AP News",
-      "url": "https://apnews.com/article/google-monopoly-advertising-technology-antitrust-4cea3f88dec7f66ed21b4c5d1f6f1c7b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9b1c208/2147483647/strip/true/crop/4813x2707+0+250/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F4e%2F5602127bc7f462f5d61fbe7ac5b6%2F9df458c98bfe491299cacbb380f3ae01",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-22T11:18:00Z",
-      "description": "After deflecting the U.S. Justice Department’s attack on its illegal monopoly in online search, Google is facing another attempt to dismantle its internet empire during a trial focused on its abusive "
+      "original_title": "Google faces antitrust déjà vu as US seeks to break up its digital advertising business - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/google-faces-antitrust-d-j-111855450.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0uVSsGj6DMlyBbMY1pIggw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/a3ef9f31f96eb2a4243579df38707047",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-22T11:18:55Z",
+      "description": "Po odvrácení útoku ministerstva spravedlnosti USA na svůj nezákonný monopol v online vyhledávání čelí Google dalšímu pokusu o rozbití jeho internetového"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie hrozí korekcí, pokud Fed správně vyhodnotí ekonomiku, říká Morgan Stanley",
-      "original_title": "Stocks are at a risk of a correction if the Fed makes the right call on the economy, says Morgan Stanley - MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-are-at-a-risk-of-a-correction-if-the-fed-makes-the-right-call-on-the-economy-says-morgan-stanley-44475847",
-      "urlToImage": "https://images.mktw.net/im-19701420/social",
-      "source": "MarketWatch",
-      "publishedAt": "2025-09-22T10:46:00Z",
-      "description": "Akcie jsou náchylné k prudkému nárůstu likviditního stresu, říká Mike Wilson"
+      "title": "Microsoft opět zdražuje konzole Xbox Series X|S v USA - trueachievements.com",
+      "original_title": "Microsoft is increasing Xbox Series X|S prices in the US again - trueachievements.com",
+      "url": "https://www.trueachievements.com/news/xbox-console-price-increase-us",
+      "urlToImage": "https://www.trueachievements.com/imgs/164452/xbox-console-price-increase-us.jpg",
+      "source": "TrueAchievements",
+      "publishedAt": "2025-09-22T11:06:01Z",
+      "description": "Microsoft oznámil zvýšení cen konzolí Xbox Series X|S v USA kvůli „makroekonomickému prostředí“"
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Build-A-Bear Workshop je světlým bodem maloobchodu i přes cla a ubývající návštěvnost nákupních center",
-      "original_title": "Build-A-Bear Workshop is a bright spot in retail even with tariffs, dwindling mall traffic - CNBC",
-      "url": "https://www.cnbc.com/2025/09/22/build-a-bear-workshop-stock-revenue.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108199616-1758058006903-1000036078.jpg?v=1758058225&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-22T10:30:01Z",
-      "description": "Přes potíže maloobchodního odvětví využívá Build-A-Bear Workshop svůj vzestup díky nostalgii, tradici a diverzifikaci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tourist mistaken for wanted fugitive spends nearly a month in Italian prison: \"The nightmare is over\"",
-      "original_title": "Tourist mistaken for wanted fugitive spends nearly a month in Italian prison: \"The nightmare is over\" - CBS News",
-      "url": "https://www.cbsnews.com/news/tourist-mistaken-criminal-prison-italy-nightmare-is-over/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/22/c2b89c0b-c64a-47f3-9b10-6d5059f4a524/thumbnail/1200x630/596e7860446bc6ca47a88e9ca3f9f3d5/gettyimages-1749534094.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-22T10:16:04Z",
-      "description": "Turista zjistil, že má stejné jméno jako hledaný zločinec, který byl v Itálii odsouzen na dva roky vězení za zvlášť závažnou krádež."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Léky na hubnutí mohou snížit budoucí náklady na zdravotní péči. Boj je o tom, kdo zaplatí teď.",
+      "original_title": "Weight-loss drugs can cut future health costs. The fight is over who pays now. - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/22/wegovy-zepbound-weight-loss-cost-benefit/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PQQUSK6D6Z3X42GJXD4C3CJNHA_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-22T10:14:10Z",
+      "description": "Nová analýza zjistila, že semaglutid a tirzepatid nabízejí celoživotní významné zdravotní benefity, ale jejich masové rozšíření by bylo finančně neúnosné."
     },
     {
       "flag": "🌍",
@@ -76,238 +175,95 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1335x751+0+139/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3c%2F6a9e67f74ec3b3b59ba1c47e3a69%2Flynn-milam6-cropped.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-22T10:00:00Z",
-      "description": "Nové chirurgicky implantované zařízení velikosti fazole pomáhá kontrolovat revmatoidní artritidu, která nereaguje na léky."
+      "description": "Nově implantované zařízení velikosti fazole pomáhá kontrolovat revmatoidní artritidu, která nereaguje na léky."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump míří na Valné shromáždění OSN, budou se řešit Palestina a Gaza",
-      "original_title": "Trump heads to UN General Assembly as future of Palestinian state and Gaza likely to dominate - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/trump-heads-general-assembly-future-palestine-gaza-dominate/story?id\\\\u003d125790695",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-22T09:22:30Z",
-      "description": ""
+      "title": "Tom Holland ze Spider-Mana skončil v nemocnici po nehodě při kaskadérském kousku",
+      "original_title": "Spider-Man Star Tom Holland Rushed to Hospital After 'Brand New Day' Stunt Goes Wrong - MovieWeb",
+      "url": "https://movieweb.com/spider-man-tom-holland-hospital-concussion-brand-new-day-stunt/",
+      "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2025/09/mcdspma_ec031.jpg?w=1600&h=900&fit=crop",
+      "source": "MovieWeb",
+      "publishedAt": "2025-09-22T09:37:00Z",
+      "description": "Natáčení pokračování filmu z MCU bylo přerušeno."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Evangelická křesťanská víra prezentovaná na Kirkově památníku formovala jeho politické názory",
-      "original_title": "The evangelical Christian faith on display at Kirk's memorial shaped his politics - NPR",
-      "url": "https://www.npr.org/2025/09/22/nx-s1-5549402/charlie-kirk-evangelical-christian-worship-martyr",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+625/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2Fb5%2Fbcff0f8941b9a7045c2dfcae6571%2Fgettyimages-2236104957.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-22T09:00:00Z",
-      "description": "Evangelická víra Charlie Kirka byla na jeho památníku plně patrná a jeho příznivci na něj vzpomínali jako na „mučedníka“. Křesťanství formovalo Kirkovu politiku a s přibývajícím věkem se obojí více..."
+      "title": "Breaking: Řada Galaxy S24 začíná dostávat stabilní aktualizaci One UI 8",
+      "original_title": "Breaking: Galaxy S24 series is now getting the stable One UI 8 update - Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-3599796/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Family-1.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-09-22T09:04:10Z",
+      "description": "Samsung začíná rozesílat stabilní One UI 8 pro Galaxy S24, S24 Plus a S24 Ultra v Jižní Koreji, širší nasazení je očekáváno brzy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Demokraté obracejí: využívají hrozbu shutdownu jako páku",
+      "title": "Demokraté obracejí, využívají hrozbu odstávky jako páku",
       "original_title": "Tables turn for Democrats as they use shutdown for leverage - Politico",
       "url": "https://www.politico.com/news/2025/09/22/democrats-shutdown-leverage-00574029",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffb%2F19%2Fd5c00b224c7683c0bb20b5aceaf6%2Fu-s-congress-02085.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-22T08:45:00Z",
-      "description": "Současná patová situace je téměř přesným opakem střetu o zdravotní péči z roku 2013, který na 17 dní uzavřel vládní instituce."
+      "description": "Současné střetnutí je téměř přesným opakem střetu o zdravotní péči z roku 2013, který zavřel vládní instituce na 17 dní."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Brian Daboll on Giants fans booing: “I’d be booing too”",
-      "original_title": "Brian Daboll on Giants fans booing: “I’d be booing too” - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-daboll-on-giants-fans-booing-id-be-booing-too",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/15729eb/2147483647/strip/true/crop/3590x2019+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2Fa2%2F50843ed948e490e5a466fc4332f0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236640318",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-09-22T08:22:30Z",
-      "description": "„Chápu to. Taková je její podstata. Musíme si polepšit,“ řekl Daboll."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jak Indie pocítí žihadlo Trumpova zvýšení poplatků za víza H-1B",
-      "original_title": "How India will feel the sting of Trump's H-1B visa fee hike - CNBC",
-      "url": "https://www.cnbc.com/2025/09/22/how-india-will-feel-the-sting-of-trumps-h-1b-visa-fee-hike.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104585811-GettyImages-465577329.jpg?v=1758527121&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-22T07:34:56Z",
-      "description": "Investoři zbavují akcií firem pro IT outsourcing všech velikostí včetně Infosys, Tech Mahindra, Wipro, HCL Technologies a Tata Consultancy Services."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chrome pro Android umí webové stránky přečíst jako podcast",
+      "title": "Chrome pro Android umí přečíst webovou stránku jako podcast",
       "original_title": "Chrome for Android can now read webpages like a podcast - Android Authority",
       "url": "https://www.androidauthority.com/google-chrome-android-audio-overviews-rollout-3599751/",
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Chrome-logo-stock-photo-1-e1650937732931.jpg",
       "source": "Android Authority",
       "publishedAt": "2025-09-22T06:17:14Z",
-      "description": "Google Chrome získává novou funkci Audio Overviews, která umí přeměnit jakoukoli webovou stránku na podcast hostovaný umělou inteligencí."
+      "description": "Google Chrome zavádí funkci Audio Overviews, která převádí webové stránky na podcasty s umělou inteligencí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie BYD klesají po zprávě, že Buffett prodal celý svůj podíl",
-      "original_title": "BYD’s Stock Falls After Report Buffett Has Sold All His Stake - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-22/byd-s-stock-falls-after-report-buffett-has-sold-all-his-stake",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDvPNqI1KIaY/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-22T04:14:00Z",
-      "description": "BYD Co. shares dropped the most in three weeks after a report that Warren Buffett’s investment firm offloaded its stake in the Chinese electric-vehicle maker."
+      "title": "Geneticky upravení myši mohou podle vědců pomoci snížit výskyt lymské boreliózy na ostrově Nantucket.",
+      "original_title": "Genetically engineered mice could take the bite out of Lyme disease on Nantucket, scientists say - CBS News",
+      "url": "https://www.cbsnews.com/news/crispr-modify-mice-target-lyme-disease-60-minutes/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/21/7b6b163a-1e8c-4c87-9269-c77527466fac/thumbnail/1200x630/6b6a49423fe26d9b411ff7fbafac6fb1/sculpting-evolution-article.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-21T23:00:00Z",
+      "description": "Vědci doufají, že geneticky upravení myši pomohou zastavit šíření lymské boreliózy. Zamířili na Nantucket, kde žije velká populace myší, klíšťat a jelenů šířících toto onemocnění, aby zde představi..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "One UI 8.5 se chystá převzít oblíbenou funkci z Pixelů (rozborka APK)",
-      "original_title": "One UI 8.5 is getting ready to borrow a fan-favorite Pixel feature (APK teardown) - Android Authority",
-      "url": "https://www.androidauthority.com/one-ui-8-5-automatic-call-screening-3599737/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/03/bixby-text-call-suspected-spam-caller.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-09-22T04:02:24Z",
-      "description": "One UI 8.5 by mohl nahradit Bixby Text Call novou funkcí automatického filtrování spamových hovorů, stejně jako telefony Pixel."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Super tajfun Ragasa: Před blížící se bouří evakuovaly na Filipínách tisíce lidí",
-      "original_title": "Super Typhoon Ragasa: Thousands evacuate in Philippines as storm nears - BBC",
-      "url": "https://www.bbc.com/news/articles/cge223y2e9eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cf1c/live/4b055c30-976c-11f0-aeb5-dbb80ec4859e.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-22T03:38:58Z",
-      "description": "Ragasa is forecast to hit northern Philippines on its way to southern China later this week."
+      "title": "Vandenbergův další úkol: start SpaceX a přistání v pondělí",
+      "original_title": "Vandenberg’s Next Mission: SpaceX Launch, Landing on Monday - Noozhawk",
+      "url": "http://www.noozhawk.com/vandenbergs-next-mission-spacex-launch-landing-on-monday-morning/",
+      "urlToImage": "https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/12/social-fallback.png?fit=1200%2C630&quality=80&ssl=1",
+      "source": "Noozhawk",
+      "publishedAt": "2025-09-21T19:00:48Z",
+      "description": "Co: Raketa Falcon 9 z Vandenbergovy základny vesmírných sil v okrese Santa Barbara. Kdy: Podle údajů mezi 10:23 a 11:23 dopoledne v pondělí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sarah McLachlan se odmítla zúčastnit premiéry dokumentu ABC News o Lilith Fair „na podporu svobody slova“",
-      "original_title": "Sarah McLachlan Opts Out Of Performing At ABC News ‘Lilith Fair’ Doc Premiere “In Support Of Free Speech” - Deadline",
-      "url": "http://deadline.com/2025/09/sarah-mclachlan-opts-out-performing-abc-news-lilith-fair-1236552063/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Sarah-Mclachlan.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-22T03:30:00Z",
-      "description": "Dámy z Lilith Fair podporují Jimmyho Kimmela při premiéře jejich dokumentu ABC News na Hulu."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Tiger kills Oklahoma trainer linked to ‘Tiger King’ Joe Exotic",
-      "original_title": "Tiger kills Oklahoma trainer linked to ‘Tiger King’ Joe Exotic - CNN",
-      "url": "https://www.cnn.com/2025/09/21/us/ryan-easley-tiger-trainer-joe-exotic-killed",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21966607-460-still.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-22T03:02:00Z",
-      "description": "A tiger handler linked to “Tiger King” Joe Exotic was killed Saturday by one of the big cats at the Oklahoma preserve where he worked, according to the facility."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "James Van Der Beek se kvůli nemoci odhlásil z živého setkání účastníků seriálu Dawsonův svět: Jsem 'zdrcený",
-      "original_title": "James Van Der Beek Drops Out of 'Dawson's Creek' Live Reunion Event Due to Illness: I Am 'Gutted' - Rolling Stone",
-      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/james-van-der-beek-drops-out-dawsons-creek-event-illness-1235432068/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/2215176389.jpg?crop=0px%2C41px%2C3457px%2C1949px&resize=1600%2C900",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-22T00:34:38Z",
-      "description": "James Van Der Beek says he was forced to drop out of a live 'Dawson's Creek' reunion event after contracting two stomch viruses."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Rada bezpečnosti OSN bude mít mimořádné zasedání kvůli ruským narušením vzdušného prostoru Estonska",
-      "original_title": "UN Security Council to hold emergency meeting on Russian jet incursions over Estonia - CNN",
-      "url": "https://www.cnn.com/2025/09/21/europe/estonia-un-security-council-russian-jet-incursions-latam-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/jet-20250921211438855.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-21T23:01:49Z",
-      "description": "Rada bezpečnosti OSN v pondělí svolá mimořádné zasedání kvůli ruským vniknutím do estonského vzdušného prostoru"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "The foldable iPhone might look like two iPhone Airs stuck together",
-      "original_title": "The foldable iPhone might look like two iPhone Airs stuck together - The Verge",
-      "url": "https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-21T20:49:50Z",
-      "description": "The foldable iPhone might look like two iPhone Airs stuck together and cost over $2,000."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "SpaceX launches 28 Starlink internet satellites from Florida's Space Coast (video)",
-      "original_title": "SpaceX launches 28 Starlink internet satellites from Florida's Space Coast (video) - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-satellite-starlink-launch-group-10-27",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8gNBCQeAZuvimYgtALWNsA.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-21T14:48:53Z",
-      "description": "It was SpaceX's 119th Falcon 9 launch of 2025 already."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Náklad je ztracen\": Pětitunová zásobovací loď NASA selhala, zatímco astronauti z ISS bezmocně přihlíželi z oběžné dráhy",
-      "original_title": "\"This Cargo Is Lost\": NASA's Five-Ton Supply Ship Malfunctions While ISS Astronauts Watch Helplessly From Above - Rude Baguette",
-      "url": "https://www.rudebaguette.com/en/2025/09/this-cargo-is-lost-nasas-five-ton-supply-ship-malfunctions-while-iss-astronauts-watch-helplessly-from-above/",
-      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/warning-nasas-deep-space-mission-faces-catastrophic-failure-total-communication-loss-within-48-hours.jpg",
-      "source": "Rudebaguette.com",
-      "publishedAt": "2025-09-21T13:11:11Z",
-      "description": "Mezinárodní vesmírná stanice (ISS) je důkazem lidské vynalézavosti a spolupráce. Již více než dvě desetiletí obíhá Zemi v ohromující"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vyzkoušel jsem si brýle Meta Ray-Ban Display a nadchly mě pro éru po chytrých telefonech.",
-      "original_title": "I tried the Meta Ray-Ban Display glasses, and they got me excited for the post-smartphone era - ZDNET",
-      "url": "https://www.zdnet.com/article/i-tried-the-meta-ray-ban-display-glasses-and-they-got-me-excited-for-the-post-smartphone-era/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/092d067e7c6242cc0000a85189febbc8c54508f6/2025/09/17/d3922ffc-ea7c-4d31-b42c-de2624d12749/meta-ray-ban-display-03.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-09-21T11:00:00Z",
-      "description": "S barevným displejem, neuronálním náramkem a novými funkcemi jsou Meta Ray-Bans Display nejpokročilejší chytré brýle, které si mohou zákazníci zatím koupit."
+      "title": "Proleťte se 44 miliony hvězd v nejnovější 3D mapě naší galaxie z teleskopu Gaia — Vesmírná fotografie týdne",
+      "original_title": "Soar through 44 million stars in Gaia telescope's latest 3D map of our galaxy — Space photo of the week - Live Science",
+      "url": "https://www.livescience.com/space/astronomy/soar-through-44-million-stars-in-gaia-telescopes-latest-3d-map-of-our-galaxy-space-photo-of-the-week",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sAWtZqV2kW3Ky7cPpNcisH.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-09-21T10:00:00Z",
+      "description": "Scientists have used the Gaia Space Telescope to create a 3D map of star kindergartens within the Milky Way, and you can fly through it."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Rover Curiosity pořídil dechberoucí snímky krajiny na Marsu",
+      "title": "Průzkumný rover Curiosity pořídil dechberoucí snímky krajiny na Marsu",
       "original_title": "Curiosity rover snaps breathtaking photos of the Martian landscape - Mashable",
       "url": "https://mashable.com/article/nasa-mars-curiosity-peace-vallis-images",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/07GPEltzKFOfHeU4EbwpBys/hero-image.fill.size_1200x675.v1758228115.jpg",
       "source": "Mashable",
       "publishedAt": "2025-09-20T22:13:27Z",
       "description": "Podívejte se na línou řeku."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Podle studie závisí zvrácení úbytku antarktického mořského ledu na vrstvení oceánu",
-      "original_title": "Reversing Antarctic sea ice loss depends on ocean layering, study finds - Phys.org",
-      "url": "https://phys.org/news/2025-09-reversing-antarctic-sea-ice-loss.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/reversing-antarctic-se.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-20T16:00:52Z",
-      "description": "Družicová pozorování dokumentují výrazný úbytek antarktického mořského ledu od roku 2014, přičemž v posledních letech jsou ztráty obzvláště prudké. To, zda se může antarktický mořský led obnovit, z..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Lékař z UW, kterého propustil RFK Jr., komentuje nové doporučení ohledně vakcíny proti covidu",
-      "original_title": "UW doctor fired by RFK Jr. speaks on new COVID vaccine guidance - The Seattle Times",
-      "url": "https://www.seattletimes.com/seattle-news/health/uw-doctor-fired-by-rfk-jr-speaks-on-new-covid-vaccine-guidance/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09192025_helen-chu_163728.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-09-20T13:00:00Z",
-      "description": "Pojišťovny budou i nadále hradit očkování aktualizovanými vakcínami proti covidu-19, rozhodl poradní výbor CDC"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "A retired grandfather's heartburn was the warning sign of a rare illness",
-      "original_title": "A retired grandfather's heartburn was the warning sign of a rare illness - CBS News",
-      "url": "https://www.cbsnews.com/news/mesenteric-ischemia-chronic-northwestern-university-health/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/20/771d22e0-eba1-4409-9950-90b4de5b0c89/thumbnail/1200x630/2819656ddc4be0b46819e7e10e7fcc1b/screenshot-2025-09-20-at-7-11-26-am.png",
-      "source": "CBS News",
-      "publishedAt": "2025-09-20T12:00:00Z",
-      "description": "Ed Langevin měl rád jednoduché věci v životě – dokud ho nezačaly pronásledovat bolestivé příznaky."
     }
   ]
 }
