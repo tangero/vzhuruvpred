@@ -1,16 +1,126 @@
 {
-  "last_updated": "2025-09-23T12:37:07",
+  "last_updated": "2025-09-23T13:27:32",
   "articles": [
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Trump podle zpráv spojí autismus s Tylenolem – mnoho expertů je však skeptických",
+      "original_title": "Trump will reportedly link autism to Tylenol - but many experts are sceptical - BBC",
+      "url": "https://www.bbc.com/news/articles/cx20d4lr67lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/efd6/live/8b5ddf10-979d-11f0-84a3-e314c0b97a4c.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-22T11:33:16Z",
+      "description": "Některé studie naznačují souvislost, ale podle odborníků nejde o příčinný vztah."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpovy nové požadavky na ministerstvo spravedlnosti vyvolávají u prokurátorů poplach",
+      "original_title": "Trump’s new demands on Justice Department raise alarm among prosecutors - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/09/22/trump-justice-department-prosecutions/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VTXLH5RG5FVGVEPCMSUHSQCNBE.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-22T11:32:01Z",
+      "description": "The president is rapidly intensifying the pressure he’s putting on federal prosecutors, prompting some observers to questions whether their traditional independence can survive."
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Demokraté obracejí, využívají hrozbu odstávky jako páku",
+      "title": "Google čelí antimonopolnímu déja vu. USA se snaží rozbít jeho reklamní byznys",
+      "original_title": "Google faces antitrust déjà vu as US seeks to break up its digital advertising business - AP News",
+      "url": "https://apnews.com/article/google-monopoly-advertising-technology-antitrust-4cea3f88dec7f66ed21b4c5d1f6f1c7b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9b1c208/2147483647/strip/true/crop/4813x2707+0+250/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F4e%2F5602127bc7f462f5d61fbe7ac5b6%2F9df458c98bfe491299cacbb380f3ae01",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-22T11:18:00Z",
+      "description": "Po odvrácení útoku ministerstva spravedlnosti na svůj nezákonný monopol v online vyhledávání čelí Google dalšímu pokusu o rozbití jeho internetového impéria v procesu zaměřeném na jeho nekalé prakt..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie hrozí korekce, pokud Fed správně vyhodnotí ekonomiku, říká Morgan Stanley",
+      "original_title": "Stocks are at a risk of a correction if the Fed makes the right call on the economy, says Morgan Stanley - MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-are-at-a-risk-of-a-correction-if-the-fed-makes-the-right-call-on-the-economy-says-morgan-stanley-44475847",
+      "urlToImage": "https://images.mktw.net/im-19701420/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-09-22T10:46:00Z",
+      "description": "Akcie jsou zranitelné vůči nárůstu likviditního stresu, říká Mike Wilson"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Build-A-Bear Workshop is a bright spot in retail even with tariffs, dwindling mall traffic",
+      "original_title": "Build-A-Bear Workshop is a bright spot in retail even with tariffs, dwindling mall traffic - CNBC",
+      "url": "https://www.cnbc.com/2025/09/22/build-a-bear-workshop-stock-revenue.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108199616-1758058006903-1000036078.jpg?v=1758058225&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-22T10:30:01Z",
+      "description": "Přes potíže maloobchodního sektoru společnost Build-A-Bear Workshop využívá svůj vzestup díky nostalgii, tradiční značce a diverzifikaci."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Turista zaměněný za hledaného uprchlíka strávil téměř měsíc v italském vězení: „Noční můra skončila“",
+      "original_title": "Tourist mistaken for wanted fugitive spends nearly a month in Italian prison: \"The nightmare is over\" - CBS News",
+      "url": "https://www.cbsnews.com/news/tourist-mistaken-criminal-prison-italy-nightmare-is-over/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/22/c2b89c0b-c64a-47f3-9b10-6d5059f4a524/thumbnail/1200x630/596e7860446bc6ca47a88e9ca3f9f3d5/gettyimages-1749534094.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-22T10:16:04Z",
+      "description": "The tourist found out he shares a name with a wanted criminal, previously sentenced to two years in prison in Italy for aggravated theft."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Revmatoidní artritida ji držela v zajetí. Tento nervový stimulátor ji osvobodil.",
+      "original_title": "Rheumatoid arthritis kept her captive. This nerve stimulator set her free. - NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/09/22/nx-s1-5544463/rheumatoid-arthritis-new-device-nerve-stimulator",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1335x751+0+139/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3c%2F6a9e67f74ec3b3b59ba1c47e3a69%2Flynn-milam6-cropped.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-22T10:00:00Z",
+      "description": "A new surgically implanted device the size of a lima bean can help control rheumatoid arthritis that isn't responding to drugs."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump míří na Valné shromáždění OSN, hlavními tématy budou budoucnost Palestiny a Gazy",
+      "original_title": "Trump heads to UN General Assembly as future of Palestinian state and Gaza likely to dominate - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/trump-heads-general-assembly-future-palestine-gaza-dominate/story?id\\\\u003d125790695",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-22T09:22:30Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Evangelická křesťanská víra prezentovaná na Kirkově památníku formovala jeho politiku",
+      "original_title": "The evangelical Christian faith on display at Kirk's memorial shaped his politics - NPR",
+      "url": "https://www.npr.org/2025/09/22/nx-s1-5549402/charlie-kirk-evangelical-christian-worship-martyr",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+625/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2Fb5%2Fbcff0f8941b9a7045c2dfcae6571%2Fgettyimages-2236104957.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-22T09:00:00Z",
+      "description": "Charlie Kirk's evangelical faith was on display at his memorial, where supporters remembered him as a \"martyr.\" Christianity shaped Kirk's politics and the two became more intertwined as he got older."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Demokraté obracejí, využívají hrozbu shutdownu jako páku",
       "original_title": "Tables turn for Democrats as they use shutdown for leverage - Politico",
       "url": "https://www.politico.com/news/2025/09/22/democrats-shutdown-leverage-00574029",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffb%2F19%2Fd5c00b224c7683c0bb20b5aceaf6%2Fu-s-congress-02085.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-22T08:45:00Z",
-      "description": "Současné střetnutí je téměř přesným opakem střetu o zdravotní péči z roku 2013, který na 17 dní uzavřel vládní instituce."
+      "description": "Současný rozpor je téměř přesným opakem střetu o zdravotní péči z roku 2013, který na 17 dní uzavřel vládní instituce."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Brian Daboll o nesouhlasném pokřiku fanoušků Giants: „Také bych pokřikoval“",
+      "original_title": "Brian Daboll on Giants fans booing: “I’d be booing too” - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-daboll-on-giants-fans-booing-id-be-booing-too",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/15729eb/2147483647/strip/true/crop/3590x2019+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2Fa2%2F50843ed948e490e5a466fc4332f0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236640318",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-09-22T08:22:30Z",
+      "description": "„Chápu to. Tak to prostě je. Musíme být lepší,“ řekl Daboll."
     },
     {
       "flag": "🌍",
@@ -21,51 +131,40 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/104585811-GettyImages-465577329.jpg?v=1758527121&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-09-22T07:34:56Z",
-      "description": "Investoři zbavují akcií firem IT outsourcingu všech velikostí, včetně Infosys, Tech Mahindra, Wipro, HCL Technologies a Tata Consultancy Services."
+      "description": "Investors shed shares of IT outsourcing firms of all sizes, including Infosys, Tech Mahindra, Wipro, HCL Technologies and Tata Consultancy Services."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Silent Hill F má dvě vražedné ingredience: záhadu a vztek",
-      "original_title": "Silent Hill F has two killer ingredients: mystery and rage - The Verge",
-      "url": "https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ss_93e420a6665b42229735a3495b86bd35b7cb8c53.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-22T07:01:00Z",
-      "description": "Survival horror série Silent Hill se vrací s titulem Silent Hill F, který vyjde 25. září na PS5, Xboxu a Steamu."
+      "title": "Chrome pro Android umí webové stránky přečíst jako podcast",
+      "original_title": "Chrome for Android can now read webpages like a podcast - Android Authority",
+      "url": "https://www.androidauthority.com/google-chrome-android-audio-overviews-rollout-3599751/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Chrome-logo-stock-photo-1-e1650937732931.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-09-22T06:17:14Z",
+      "description": "Google Chrome is now getting the new Audio Overviews feature that can turn any webpage into an AI-hosted podcast."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Návštěvníci střelby v New Hampshire odvrátili horší tragédii nezištnými činy, uvedl nejvyšší státní zástupce",
-      "original_title": "Patrons at New Hampshire shooting prevented worse tragedy with selfless acts, AG says - NPR",
-      "url": "https://www.npr.org/2025/09/22/nx-s1-5549961/patrons-new-hampshire-shooting",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F64%2F5dc2a7cb40d4ba9785874852321f%2Fap25264107749864.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-22T05:43:00Z",
-      "description": "Hosté restaurace se nezištně postavili střelci, který zahájil palbu během svatby v newhampshirském country klubu, a odvrátili tak horší tragédii, oznámily v neděli úřady."
+      "title": "BYD’s Stock Falls After Report Buffett Has Sold All His Stake",
+      "original_title": "BYD’s Stock Falls After Report Buffett Has Sold All His Stake - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-22/byd-s-stock-falls-after-report-buffett-has-sold-all-his-stake",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDvPNqI1KIaY/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-22T04:14:00Z",
+      "description": "BYD Co. shares dropped the most in three weeks after a report that Warren Buffett’s investment firm offloaded its stake in the Chinese electric-vehicle maker."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Správce rezervace byl zabit tygrem v Oklahomě na jihovýchodě USA",
-      "original_title": "Caretaker killed by tiger at wildlife preserve in southeastern Oklahoma - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/wireStory/caretaker-killed-tiger-wildlife-preserve-southeastern-oklahoma-125805346",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "source": "ABC News",
-      "publishedAt": "2025-09-22T04:52:17Z",
-      "description": "Ošetřovatele v Oklahomě zabil tygr, o kterého pečoval"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zatímco svět zmítají války a sváry, jeho lídři se na OSN scházejí, aby našli řešení",
-      "original_title": "As the world convulses in war and contentiousness, its leaders convene at the UN to figure it out - AP News",
-      "url": "https://apnews.com/article/un-assembly-leaders-gaza-ukraine-funding-hunger-bc2343abfd8e602ce94e8782eb54a5bf",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8b67547/2147483647/strip/true/crop/3960x2228+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F6b%2F818e62628ff9cfada9105c4d50b7%2F57ed70f406c64a70be883d80fd12a40e",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-22T04:02:00Z",
-      "description": "Světoví lídři se scházejí v jedné z nejbouřlivějších a nejrozdělenějších chvil v 80leté historii OSN"
+      "title": "One UI 8.5 se chystá převzít oblíbenou funkci z Pixelů (rozbor APK)",
+      "original_title": "One UI 8.5 is getting ready to borrow a fan-favorite Pixel feature (APK teardown) - Android Authority",
+      "url": "https://www.androidauthority.com/one-ui-8-5-automatic-call-screening-3599737/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/03/bixby-text-call-suspected-spam-caller.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-09-22T04:02:24Z",
+      "description": "One UI 8.5 could move up from Bixby Text Call by introducing a new automatic call screening feature for spam calls, just like Pixel phones."
     },
     {
       "flag": "🇬🇧",
@@ -81,134 +180,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sarah McLachlan se odmítla zúčastnit premiéry dokumentu ABC News o Lilith Fair „na podporu svobody slova“",
+      "title": "Sarah McLachlan Opts Out Of Performing At ABC News ‘Lilith Fair’ Doc Premiere “In Support Of Free Speech”",
       "original_title": "Sarah McLachlan Opts Out Of Performing At ABC News ‘Lilith Fair’ Doc Premiere “In Support Of Free Speech” - Deadline",
       "url": "http://deadline.com/2025/09/sarah-mclachlan-opts-out-performing-abc-news-lilith-fair-1236552063/",
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Sarah-Mclachlan.jpg?w=1024",
       "source": "Deadline",
       "publishedAt": "2025-09-22T03:30:00Z",
-      "description": "Dámy z Lilith Fair podporují Jimmyho Kimmela při premiéře jejich dokumentu ABC News na Hulu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Setting Up a Business in India Is Hard. Leaving Is Even Harder.",
-      "original_title": "Setting Up a Business in India Is Hard. Leaving Is Even Harder. - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/setting-up-a-business-in-india-is-hard-leaving-is-even-harder-283baadf",
-      "urlToImage": "https://images.wsj.net/im-52096355/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-22T03:00:00Z",
-      "description": "General Motors narazil na překážky při odchodu z Indie, což ukazuje na problémy, kvůli kterým jsou zahraniční firmy ostražité"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Debata guvernéra New Jersey se vyhrotila kvůli atentátu na Kirka. Podívejte se, co řekli Ciattarelli a Sherrill.",
-      "original_title": "N.J. governor debate gets heated over Kirk assassination. See what Ciattarelli, Sherrill said. - NJ.com",
-      "url": "https://www.nj.com/politics/2025/09/nj-governor-debate-gets-heated-over-kirk-assassination-see-what-ciattarelli-sherrill-said.html",
-      "urlToImage": "https://www.nj.com/resizer/v2/LCM2K7F7UZAPDAJLXQKR4KYYIA.png?auth=9c35b6b765ac74ffd37b066a411dca2bc37cf47c24b51543d89c3a16b5baff61&width=1280&smart=true&quality=90",
-      "source": "nj.com",
-      "publishedAt": "2025-09-22T02:10:00Z",
-      "description": "Kandidáti si vyměnili ostřejší slova ohledně jedné z nejkontroverznějších otázek současnosti."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Harry Styles uběhl Berlínský maraton za méně než 3 hodiny",
-      "original_title": "Harry Styles Runs Berlin Marathon in Under 3 Hours - Rolling Stone",
-      "url": "http://www.rollingstone.com/music/music-news/harry-styles-berlin-marathon-runs-under-3-hours-1235432080/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/GettyImages-1438307550.jpg?w=1600&h=900&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-09-22T01:35:04Z",
-      "description": "Harry Styles v Berlíně zaběhl maraton za necelé tři hodiny."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump naléhá na Bondiovou, aby stíhala jeho odpůrce, a zintenzivňuje tak kampaň za odvetu",
-      "original_title": "Trump pushes Bondi to pursue cases against his foes as he ramps up retribution campaign - PBS",
-      "url": "https://www.pbs.org/newshour/politics/trump-pushes-bondi-to-pursue-cases-against-his-foes-as-he-ramps-up-retribution-campaign",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-16T164503Z_1708444932_RC24BFAG57UT_RTRMADP_3_USA-TRUMP-1024x684.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-21T23:04:29Z",
-      "description": "In a post on social media this weekend addressed to Bondi, Trump said “nothing is being done” on investigations into some of his foes. “We can’t delay any longer, it’s killing our reputation and credi"
+      "description": "Dámy z Lilith Fair stojí při Jimmy Kimmelovi při premiéře jejich dokumentu ABC News na Hulu."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Rada bezpečnosti OSN bude mít mimořádné zasedání kvůli ruským narušením vzdušného prostoru Estonska",
+      "title": "Tygřice usmrtila cvičitelku z Oklahomy spojovanou s „králem tygrů“ Joem Exotickým",
+      "original_title": "Tiger kills Oklahoma trainer linked to ‘Tiger King’ Joe Exotic - CNN",
+      "url": "https://www.cnn.com/2025/09/21/us/ryan-easley-tiger-trainer-joe-exotic-killed",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21966607-460-still.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-22T03:02:00Z",
+      "description": "Ošetřovatel tygrů z Oklahomy spojený s „Králem tygrů“ Joem Exotem byl zabit jedním z velkých kočkovitých šelem"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "James Van Der Beek Drops Out of 'Dawson's Creek' Live Reunion Event Due to Illness: I Am 'Gutted'",
+      "original_title": "James Van Der Beek Drops Out of 'Dawson's Creek' Live Reunion Event Due to Illness: I Am 'Gutted' - Rolling Stone",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/james-van-der-beek-drops-out-dawsons-creek-event-illness-1235432068/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/2215176389.jpg?crop=0px%2C41px%2C3457px%2C1949px&resize=1600%2C900",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-22T00:34:38Z",
+      "description": "James Van Der Beek musel odstoupit z živého setkání účastníků 'Dawsonova Creek' kvůli dvěma žaludečním virům."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "UN Security Council to hold emergency meeting on Russian jet incursions over Estonia",
       "original_title": "UN Security Council to hold emergency meeting on Russian jet incursions over Estonia - CNN",
       "url": "https://www.cnn.com/2025/09/21/europe/estonia-un-security-council-russian-jet-incursions-latam-intl",
-      "urlToImage": null,
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/jet-20250921211438855.JPG?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-21T23:01:49Z",
-      "description": ""
+      "description": "The UN Security Council will hold an emergency meeting on Monday to discuss Russian incursions over Estonia’s airspace, Estonian and UN officials said Sunday."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Geneticky upravení myši by mohli na Nantucketu zlikvidovat lymskou boreliózu, tvrdí vědci",
-      "original_title": "Genetically engineered mice could take the bite out of Lyme disease on Nantucket, scientists say - CBS News",
-      "url": "https://www.cbsnews.com/news/crispr-modify-mice-target-lyme-disease-60-minutes/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/21/7b6b163a-1e8c-4c87-9269-c77527466fac/thumbnail/1200x630/6b6a49423fe26d9b411ff7fbafac6fb1/sculpting-evolution-article.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-21T23:00:00Z",
-      "description": "Vědci doufají, že geneticky modifikované myši zabrzdí šíření lymské boreliózy. Na ostrově Nantucket, kde žije velká populace myší, klíšťat a jelenů šířících toto onemocnění, představili svůj plán."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tohle změní všechno o telefonech\": Appleův 5,64mm iPhone Air vydrží tlak 58,9 kg, zatímco se Samsung Edge ohne",
-      "original_title": "\"This Changes Everything About Phones\": Apple's 5.64mm iPhone Air Survives 58.9kg Pressure While Samsung's Edge Bends - Rude Baguette",
-      "url": "https://www.rudebaguette.com/en/2025/09/this-changes-everything-about-phones-apples-5-64mm-iphone-air-survives-58-9kg-pressure-while-samsungs-edge-bends/",
-      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/iphone-airs-incredible-strength-unbreakable-even-under-extreme-pressure-–-say-goodbye-to-bendgate-forever.jpg",
-      "source": "Rudebaguette.com",
-      "publishedAt": "2025-09-21T21:10:17Z",
-      "description": "Nejnovější model od Applu, iPhone Air, vzbudil velký rozruch nejen díky svému elegantnímu designu, ale také kvůli svým pozoruhodným"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "After two big weekends, the North American box office takes a hit",
-      "original_title": "After two big weekends, the North American box office takes a hit - AP News",
-      "url": "https://apnews.com/article/box-office-demon-slayer-him-74fcfdd2aba478e19a2f045d9596a36d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/04c00a6/2147483647/strip/true/crop/2811x1581+95+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2Fe2%2F5dd02066d1c2c1be9a8d8f493652%2Fa512e9da2fc74e40bbaa80f504d610d3",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-21T18:37:00Z",
-      "description": "Severoamerický box office po silném září zpomalil."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Míchání neutrin při srážkách neutronových hvězd mění průběh splynutí, ukazují simulace",
-      "original_title": "Mixing neutrinos of colliding neutron stars changes how merger unfolds, simulations reveal - Phys.org",
-      "url": "https://phys.org/news/2025-09-neutrinos-colliding-neutron-stars-merger.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/mixing-neutrinos-of-co.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-21T17:40:02Z",
-      "description": "Srážka a splynutí dvou neutronových hvězd—neuvěřitelně hustých pozůstatků zkolabovaných hvězd—patří k nejenergetičtějším událostem ve vesmíru a vytváří řadu signálů, které lze pozorovat na Zemi."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "1 akciové monstrum, které za posledních 5 let vzrostlo o 2 150 %. Nemá to nic společného s umělou inteligencí (AI) a stále je pořádně levné.",
-      "original_title": "1 Monster Stock That's Gained 2,150% Over the Last 5 Years. It Has Nothing to Do With Artificial Intelligence (AI), and It's Still Dirt Cheap. - The Motley Fool",
-      "url": "https://www.fool.com/investing/2025/09/21/1-monster-stock-thats-gained-2150-over-the-last-5/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/832960/shocked-surprised-person-adjusts-glasses-in-office.jpg",
-      "source": "Motley Fool",
-      "publishedAt": "2025-09-21T17:25:00Z",
-      "description": "Někdy mohou ty nejlepší investice přijít z nejméně očekávaných míst."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nejmenovaní představitelé Pentagonu vysmívají se Hegsethovu plánu zastavit úniky z ministerstva války",
-      "original_title": "Unnamed Pentagon Officials Ridicule Hegseth’s Plan to Stop War Department Leaks - The Intercept",
-      "url": "https://theintercept.com/2025/09/21/department-of-war-pentagon-press-frepete-hegseth/",
-      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/09/AP25258755525916-e1758501154629.jpg?fit=4000%2C2000&w=1200&h=800",
-      "source": "The Intercept",
-      "publishedAt": "2025-09-21T16:08:07Z",
-      "description": "Tři současní členové Pentagonu prozradili The Interceptu, že nová pravidla ministerstva války jsou otřesným útokem na svobodu tisku."
+      "title": "The foldable iPhone might look like two iPhone Airs stuck together",
+      "original_title": "The foldable iPhone might look like two iPhone Airs stuck together - The Verge",
+      "url": "https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-21T20:49:50Z",
+      "description": "The foldable iPhone might look like two iPhone Airs stuck together and cost over $2,000."
     },
     {
       "flag": "🌍",
@@ -222,17 +244,6 @@
       "description": "Byl to již 119. start Falconu 9 od SpaceX v roce 2025."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "5 překvapivě nadějných věcí, které jsme se letos dozvěděli o Alzheimerově chorobě",
-      "original_title": "5 surprisingly hopeful things we learned about Alzheimer’s this year - The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2025/09/21/alzheimers-research-new-developments/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2LXLWUEEMFH5LFNVM6ZRWSAFQ4.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-21T14:31:51Z",
-      "description": "Od krevního testu po nečekanou roli lithia: tyto objevy mohou vést k lepší diagnostice a léčbě nemoci, která krade paměť."
-    },
-    {
       "flag": "🌍",
       "country": "global",
       "title": "Tento náklad je ztracen\": Pětitunová zásobovací loď NASA selhala, zatímco astronauti z ISS bezmocně přihlíželi z oběžné dráhy",
@@ -241,18 +252,7 @@
       "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/warning-nasas-deep-space-mission-faces-catastrophic-failure-total-communication-loss-within-48-hours.jpg",
       "source": "Rudebaguette.com",
       "publishedAt": "2025-09-21T13:11:11Z",
-      "description": "Mezinárodní vesmírná stanice (ISS) je důkazem lidské vynalézavosti a spolupráce. Již více než dvě desetiletí obíhá Zemi dechberoucí"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nový skládací iPhone příští rok může mít mnoho společného s iPhonem Air, tvrdí zpráva – 9to5Mac",
-      "original_title": "Next year’s new foldable iPhone may have a lot in common with iPhone Air: report - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/21/iphone-fold-design-details-report-pricing-launch-date-more/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iphone-fold-01_2bcec3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-21T12:38:00Z",
-      "description": "Přestože jsou letošní nové iPhony teprve chvíli na pultech obchodů, už se objevují nové informace o příští řadě iPhonů...."
+      "description": "Mezinárodní vesmírná stanice (ISS) je dokladem lidské vynalézavosti a spolupráce. Již více než dvě desetiletí obíhá Zemi v ohromující"
     },
     {
       "flag": "🌍",
@@ -268,7 +268,7 @@
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Sonda Curiosity pořídila dechberoucí snímky krajiny na Marsu",
+      "title": "Průzkumné vozítko Curiosity pořídilo dechberoucí snímky krajiny na Marsu",
       "original_title": "Curiosity rover snaps breathtaking photos of the Martian landscape - Mashable",
       "url": "https://mashable.com/article/nasa-mars-curiosity-peace-vallis-images",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/07GPEltzKFOfHeU4EbwpBys/hero-image.fill.size_1200x675.v1758228115.jpg",
@@ -277,15 +277,37 @@
       "description": "Podívejte se na línou řeku."
     },
     {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Podle studie závisí obnova úbytku antarktického mořského ledu na vrstvení oceánu",
+      "original_title": "Reversing Antarctic sea ice loss depends on ocean layering, study finds - Phys.org",
+      "url": "https://phys.org/news/2025-09-reversing-antarctic-sea-ice-loss.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/reversing-antarctic-se.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-09-20T16:00:52Z",
+      "description": "Satelitní pozorování zaznamenala od roku 2014 výrazný pokles rozlohy antarktického mořského ledu, přičemž v posledních letech jsou ztráty obzvláště prudké. To, zda se může antarktický mořský led ob..."
+    },
+    {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Lékař z UW propuštěný RFK Jr. komentuje nové doporučení pro očkování proti COVID-19",
+      "title": "Lékař z UW propuštěný RFK Jr. komentuje nová doporučení pro očkování proti COVID-19",
       "original_title": "UW doctor fired by RFK Jr. speaks on new COVID vaccine guidance - The Seattle Times",
       "url": "https://www.seattletimes.com/seattle-news/health/uw-doctor-fired-by-rfk-jr-speaks-on-new-covid-vaccine-guidance/",
       "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09192025_helen-chu_163728.jpg?d=1200x630",
       "source": "The Seattle Times",
       "publishedAt": "2025-09-20T13:00:00Z",
-      "description": "Zdravotní pojišťovny budou i nadále hradit aktualizované vakcíny proti covidu-19 všem zájemcům, rozhodl v pátek poradní výbor CDC."
+      "description": "Pojišťovny budou i nadále hradit očkování aktualizovanými vakcínami proti covidu-19, rozhodl v pátek poradní výbor CDC."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pálení žáhy u dědečka v důchodu bylo varovným signálem vzácné nemoci",
+      "original_title": "A retired grandfather's heartburn was the warning sign of a rare illness - CBS News",
+      "url": "https://www.cbsnews.com/news/mesenteric-ischemia-chronic-northwestern-university-health/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/20/771d22e0-eba1-4409-9950-90b4de5b0c89/thumbnail/1200x630/2819656ddc4be0b46819e7e10e7fcc1b/screenshot-2025-09-20-at-7-11-26-am.png",
+      "source": "CBS News",
+      "publishedAt": "2025-09-20T12:00:00Z",
+      "description": "Ed Langevin liked the simple things in life — until painful symptoms started haunting him."
     }
   ]
 }
