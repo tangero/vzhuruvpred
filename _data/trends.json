@@ -1,60 +1,70 @@
 {
-  "updated": "2025-09-23T09:28:14.319175",
+  "updated": "2025-09-23T12:52:36.755366",
   "trends": [
     {
       "rank": 1,
-      "query": "ladka nergesova",
-      "news_title": "Laďka Něrgešová poprvé bez paruky: Bez vlasů je skvělé",
-      "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/ladka-nergesova-showtime-paruka-vlasy-nador-glioblastom.A250922_154505_lidicky_nh",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWjUT_dxIvhO2UEMYjMbsjEKlaWwWdAuIu4xunTiY7BQo6KVoFjQE5NJA8_xE",
-      "traffic": "2000++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ladka nergesova&geo=CZ"
-    },
-    {
-      "rank": 2,
       "query": "čt sport živě",
-      "news_title": "Česko - Tunisko: volejbalové osmifinále na MS ONLINE",
+      "news_title": "Česko - Tunisko | VOLEJBAL ONLINE: Osmifinále na MS",
       "news_url": "https://www.sport.cz/clanek/volejbal-ms-2025-cesko-tunisko-online-osmifinale-5298995",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnjMBHbVKLSfuYRaNQlgyIWD9VpF-7Usi_qJFiIchT-5ThJDb7qOdzz1LocF0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc7TIUfE0gEJognj8y52aEGgkBr10C_ea8puyiYtBY9qtwbZWcch6aTFdJNYY",
       "traffic": "1000++ hledání",
       "source": "Sport.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=čt sport živě&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "query": "kodaň",
-      "news_title": "Kodaň tápe po dronovém ataku na letiště, čelí hrozbě sabotáže",
-      "news_url": "https://zpravy.aktualne.cz/zahranici/celime-vyznamne-hrozbe-sabotaze-kodan-tape-po-dronovem-ataku/r~c74e025e985911f0a26cac1f6b220ee8/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn1jy9p77u9cymIwhXfaioIemDl5Cm-Heq9oVSjjXQ-BmIMGC3Jd1OTpLO99s",
+      "news_title": "Letiště v Kodani a Oslu přerušila lety kvůli dronům",
+      "news_url": "https://www.seznamzpravy.cz/clanek/zahranicni-letiste-v-kodani-kvuli-pritomnosti-dronu-pozastavilo-vsechny-lety-286709",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJa8xvvuv3vLbnXQe5Z7Q-3fFKnOsyNigIxT3nO5cxWsoLtTKIhbKuf_aL6lk",
       "traffic": "1000++ hledání",
-      "source": "Aktuálně",
+      "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=kodaň&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "lamine yamal",
-      "news_title": "Lamine Yamal poráží Douého o Kopa Trophy a láme rekordy",
-      "news_url": "https://www.transfermarkt.com/lamine-yamal-beats-desire-doue-to-kopa-trophy-more-records-tumbled-by-youngster/view/news/460776",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0kODv9J48QHSjGQhKI5zSlKpc87TEVuJUQ1BcjtabM_OZV9obsorMUOeDSx8",
+      "rank": 3,
+      "query": "teams",
+      "news_title": "Yankees bullpen shines in encouraging sign before postseason",
+      "news_url": "https://nypost.com/2025/09/22/sports/yankees-bullpen-shines-in-encouraging-sign-before-postseason/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQHORmnkcuYn4rzRGvWZBGiE6jsAWYC_vYynFIvRaTabQ8TY_OK7ZuizA59xs",
       "traffic": "500++ hledání",
-      "source": "Transfermarkt",
-      "explore_url": "https://trends.google.cz/trends/explore?q=lamine yamal&geo=CZ"
+      "source": "New York Post",
+      "explore_url": "https://trends.google.cz/trends/explore?q=teams&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "paracetamol",
+      "news_title": "For Trump, Who Has ‘Strong Feelings’ About Autism, the Issue Is Personal",
+      "news_url": "https://www.nytimes.com/2025/09/22/us/politics/autism-vaccines-trump-personal.html",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeNBZvL6EyBjMAOwh4Ri-Ib-EENeU6-tDb8iEXpo3HFmHS_KhnXI0FnaCp1XE",
+      "traffic": "200++ hledání",
+      "source": "The New York Times",
+      "explore_url": "https://trends.google.cz/trends/explore?q=paracetamol&geo=CZ"
     },
     {
       "rank": 5,
-      "query": "raphinha",
-      "news_title": "Vítěz Ballon d'Or Dembele je velkým fanouškem Leedsu, Bamford mu poslal dres",
-      "news_url": "https://www.leedsunited.news/throwbacks/ballon-dor-winner-ousmane-dembele-is-a-massive-fan-of-leeds-united-patrick-bamford-sent-him-his-shirt/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhUKuMSElz4meYJcbzrl1cs2OoMksMidS8hpUZuZrHe8iqgHL959sAB1dI8Ck",
+      "query": "ousmane dembélé",
+      "news_title": "Dembélé přebírá Zlatý míč pro nejlepšího fotbalistu planety.",
+      "news_url": "https://www.idnes.cz/fotbal/reprezentace/zlaty-mic-ousmane-dembele-obrazem-vitez.A250922_133322_fot_reprez_min/foto",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNnEEmF8VW5ChM9Y9HkTy2_H2xQphTZ8Ng29fSnmXySSaZefeW7x39kNACWBI",
       "traffic": "200++ hledání",
-      "source": "Leeds United News",
-      "explore_url": "https://trends.google.cz/trends/explore?q=raphinha&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ousmane dembélé&geo=CZ"
     },
     {
       "rank": 6,
+      "query": "raphinha",
+      "news_title": "Raphinha Loses Out to Barcelona Teammate in Surprise 2025 Ballon d’Or Ranking",
+      "news_url": "https://www.si.com/soccer/raphinha-barcelona-2025-ballon-dor-ranking",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1PXwaR1jmJhcw3Lp5yOGDA6vuzjpEFhEVVLvXkorqMfqLv_NFoDH9kzUBK30",
+      "traffic": "200++ hledání",
+      "source": "Sports Illustrated",
+      "explore_url": "https://trends.google.cz/trends/explore?q=raphinha&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "vicky lopez",
-      "news_title": "Vicky Lopez vyhrála Kopa Trophy pro nejlepší mladou fotbalistku světa",
+      "news_title": "Vicky Lopez vyhrála Kopa Trophy pro nejlepší mladou hráčku světa",
       "news_url": "https://www.goal.com/en-sa/lists/vicky-lopez-barcelona-spain-2025-kopa-trophy/blta5e8b2f5762e0049",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTy1u5uzF5qjAA9iJPMY-YOSXq0qWC3uJ98StdSm-6KIcRehKOiVBjp2BXHqCE",
       "traffic": "200++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=vicky lopez&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "query": "ruud gullit",
-      "news_title": "Hannah Hampton vyhrála Yashin Trophy pro nejlepší brankářku.",
+      "news_title": "Women's Yashin Trophy winner: Hannah Hampton",
       "news_url": "https://www.nytimes.com/athletic/live-blogs/ballon-dor-2025-live-updates-winners-time-result/26ouotchoNbJ/Er43sjiRYL11/",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReAhXLDsxu6s_aARotqDYzymQXpztaW80d9Ab6owpkSJjGJkpuvp5oDeHQKdY",
       "traffic": "200++ hledání",
       "source": "The New York Times",
       "explore_url": "https://trends.google.cz/trends/explore?q=ruud gullit&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "tom holland",
-      "news_title": "Tom Holland skončil v nemocnici po nebezpečném kaskadérském kousku při natáčení Spider-Mana",
-      "news_url": "https://www.thesun.co.uk/tv/36792761/tom-holland-hospital-spider-man-stunt/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2M8miQaC7b3zEB1ElOD3MQhTSRnX3BXijmF4mY8OOHn1heeIhWLJiXO3aRQ",
-      "traffic": "100++ hledání",
-      "source": "The Sun",
-      "explore_url": "https://trends.google.cz/trends/explore?q=tom holland&geo=CZ"
     }
   ]
 }
