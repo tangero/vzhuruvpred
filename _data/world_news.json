@@ -1,10 +1,32 @@
 {
-  "last_updated": "2025-09-24T04:21:01",
+  "last_updated": "2025-09-24T05:17:29",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Disney vrací do vysílání Jimmyho Kimmela, kterého odstranilo po výrocích Charlieho Kirka",
+      "original_title": "Disney brings back Jimmy Kimmel, sidelined after Charlie Kirk comments - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/22/kimmel-kirk-abc-disney/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2LW7DAGEGMI6ZDH7GOYFT5GBW4_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-23T03:21:36Z",
+      "description": "Pořad „Jimmy Kimmel Live!“ na stanici ABC byl stažen z vysílání kvůli odporu prezidenta Donalda Trumpa, šéfa FCC Brendana Carra, společností Nexstar, Sinclair a řady konzervativních kritiků."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Hlavní myšlenky z prvního rozhovoru Kamaly Harrisové o její nové knize „107 dní“",
+      "original_title": "Takeaways from Kamala Harris’ first interview about her new book, ‘107 Days’ - CNN",
+      "url": "https://www.cnn.com/2025/09/22/politics/kamala-harris-interview-new-book-takeaways",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25054112238792.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-23T03:06:00Z",
+      "description": "Ve svém prvním televizním rozhovoru o pamětech své kampaně byla Kamala Harris dotázána, co myslela tím, že bylo nezodpovědné nechat exprezidenta Joea Bidena usilovat o znovuzvolení."
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejvyšší soud umožnil Trumpovi odvolat komisaře FTC, případ projedná v prosinci",
+      "title": "Nejvyšší soud USA umožnil Trumpovi odvolat komisaře FTC a přijal případ k projednání v prosinci",
       "original_title": "Supreme Court allows Trump firing of FTC commissioner, accepts case for December argument - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/Politics/supreme-court-allows-trump-firing-ftc-commissioner-accepts/story?id\\\\u003d125827895",
       "urlToImage": null,
@@ -15,57 +37,68 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump viní Tylenol z autismu. Věda ho nepodporuje",
-      "original_title": "Trump blames Tylenol for autism. Science doesn't back him up : Shots - Health News - NPR",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/09/22/nx-s1-5550153/trump-rfk-autism-tylenol-leucovorin-pregnancy",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3204x1802+0+167/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F93%2F54cdaae246278c3b7d8947700857%2Fgettyimages-2210603938.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-23T00:36:41Z",
-      "description": "Trump a jeho náměstci spojili autismus s užíváním paracetamolu v těhotenství, představili lék na rakovinu jako možnou léčbu a oznámili, že FDA změní označení, aby obě tvrzení odrážela. Pro obě tvrz..."
+      "title": "Zprávy z akciového trhu, 22. září 2025: Nasdaq po spojení Nvidie a OpenAI stoupá na rekord",
+      "original_title": "Stock Market News, Sept. 22, 2025: Nasdaq Rises to Record After Nvidia, OpenAI Link Up - The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2025",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-23T01:38:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jake Paul zaútočil na Gervontu Davise kvůli obviněním z domácího násilí, v prvním face-offu převyšuje 'Tanka",
+      "original_title": "Jake Paul attacks Gervonta Davis over domestic violence allegations, towers over 'Tank' in first faceoff - Yahoo Sports",
+      "url": "https://sports.yahoo.com/boxing/article/jake-paul-attacks-gervonta-davis-over-domestic-violence-allegations-towers-over-tank-in-first-faceoff-011509531.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A8o6qY57GPsHbRm4R6CaDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/be7a2850-9814-11f0-b777-786f5e94db31",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-23T01:15:00Z",
+      "description": "Jake Paul neváhal a hned při úvodní tiskové konferenci k zápasu na Netflixi 14. listopadu nasadil tón s Gervontou \"Tankem\" Davisem."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Vůdce církve Moonových zatčen kvůli darům pro exprvní dámu Jižní Koreje",
+      "original_title": "'Moonies' church leader arrested over gifts to ex-South Korea first lady - BBC",
+      "url": "https://www.bbc.com/news/articles/cjedkdy7ljno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a514/live/43ba5190-9813-11f0-af66-0bbad60467c0.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-23T00:53:46Z",
+      "description": "Vedoucí kontroverzní Sjednocující církve Han Hak-ja údajně podplácela Kim Keon Hee luxusními dary."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Polsko Rusku: ‚Byli jste varováni,‘ tak si nestěžujte, když vám nad vzdušným prostorem NATO sestřelí stíhačky",
+      "original_title": "Poland to Russia: ‘You have been warned’ so don’t ‘whine’ if your jets are shot down in NATO airspace - politico.eu",
+      "url": "https://www.politico.eu/article/radoslaw-sikorski-poland-russia-un-security-council-nato/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2235069357-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-23T00:36:00Z",
+      "description": "Radosław Sikorski kárá Moskvu za neschopnost žít v míru se sousedy po sérii narušení vzdušného prostoru NATO"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Francie vzdoruje Trumpovi, uznává palestinský stát navzdory tlaku USA",
+      "title": "Francie vzdoruje Trumpovi a uznává palestinský stát navzdory nátlaku USA",
       "original_title": "France defies Trump, recognizes Palestinian statehood despite U.S. pressure - The Washington Post",
       "url": "https://www.washingtonpost.com/national-security/2025/09/22/rubio-france-palestine-statehood-un/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MDNEZG3WCQ5UAHHDICFR56XTQ_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-23T00:07:23Z",
-      "description": "Ministr zahraničí Marco Rubio se pokusil zabránit francouzskému uznání palestinského státu a veřejně je před summitem OSN v New Yorku odsoudil jako „dar Hamásu“."
+      "description": "Ministr zahraničí Marco Rubio se snažil zabránit francouzskému uznání palestinského státu a před summitem OSN v New Yorku je veřejně označil za „dar Hamásu“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Minnesota vzdoruje federální vládě s pokyny k očkování proti covidu",
+      "title": "Minnesota vzdoruje federální vládě v pokynech k očkování proti COVID-19",
       "original_title": "Minnesota defies feds with COVID vaccine guidance - Star Tribune",
       "url": "https://www.startribune.com/minnesota-defies-feds-with-covid-vaccine-guidance/601478835",
       "urlToImage": "https://arc.stimg.co/startribunemedia/4WUPS6HXQ6MEI44ZYZKAGQ6SRM.jpg?&w=1200&ar=1.91:1&fit=crop",
       "source": "Minneapolis Star Tribune",
       "publishedAt": "2025-09-22T23:15:00Z",
-      "description": "Stálý příkaz umožňuje lékárníkům očkovat proti covidu-19 bez předpisu i mimo skupiny schválené FDA."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Prohlášení hnutí Antifa za domácí teroristickou organizaci - Bílý dům (.gov)",
-      "original_title": "DESIGNATING ANTIFA AS A DOMESTIC TERRORIST ORGANIZATION - The White House (.gov)",
-      "url": "https://www.whitehouse.gov/presidential-actions/2025/09/designating-antifa-as-a-domestic-terrorist-organization/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2025-09-22T22:42:38Z",
-      "description": "Oddíl 1. Antifa jako teroristická hrozba. Antifa je militaristické, anarchistické uskupení, které výslovně volá po svržení Spojených států."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Výsledky Zlatého míče: Ousmane Dembélé z PSG a Aitana Bonmatí z Barcelony získávají ocenění a píší historii",
-      "original_title": "Ballon d'Or results: PSG's Ousmane Dembele, Barcelona's Aitana Bonmati take home awards, make history - CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/ballon-dor-results-psgs-ousmane-dembele-barcelonas-aitana-bonmati-take-home-awards-make-history/live/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/22/e43d993d-a811-4d94-9fcb-0bac5bf1cf3a/thumbnail/1200x675/8fe8009a17c6afb4ff8d7bc50084dc02/untitled-design-2025-09-22t230823-745.png",
-      "source": "CBS Sports",
-      "publishedAt": "2025-09-22T22:41:03Z",
-      "description": "Dembele získal první ocenění, Bonmatová první žena a třetí hráč v historii se třemi Zlatými míči v řadě"
+      "description": "Stálý příkaz umožňuje lékárníkům očkovat proti covidu-19 bez předpisu i mimo skupiny schválené Úřadem pro kontrolu potravin a léčiv."
     },
     {
       "flag": "🌍",
@@ -81,112 +114,90 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "RFK Jr. letí naslepo do další epidemie s ‚zelenáči‘ mezi vakcinologickými poradci",
+      "original_title": "RFK Jr. ‘Flying Blind’ Into Next Outbreak With ‘Rookie’ Vaccine Advisors - The Daily Beast",
+      "url": "https://www.thedailybeast.com/rfk-jr-flying-blind-into-next-outbreak-with-rookie-vaccine-advisors/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/7SPEAAJ2FJFW3AKCEUXSUBW4CA.jpg?smart=true&auth=56b88fa6523c015229f92e1f21bb40b9e908fc9311d2d3f22eda0ab51b20f65f&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2025-09-22T21:58:00Z",
+      "description": "Varování přišlo od tří bývalých úředníků CDC, kteří nedávno s odpustkem rezignovali."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Bílý dům zvažuje výjimky pro lékaře z poplatku 100 000 dolarů za víza",
       "original_title": "White House Floats Doctor Exemptions for $100,000 Visa Fee - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-09-22/white-house-says-doctors-may-be-exempt-from-100-000-h-1b-fee",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3q0wfrweCzA/v0/1200x800.jpg",
       "source": "Bloomberg",
       "publishedAt": "2025-09-22T21:39:33Z",
-      "description": "Lékaři by mohli získat výjimku z nového poplatku 100 000 dolarů za víza H-1B, oznámil Bílý dům po varování lékařských asociací"
+      "description": "Lékaři by mohli být osvobozeni od nového poplatku 100 000 dolarů za víza H-1B, oznámil Bílý dům"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "iFixit rozebírá iPhone Air a zjišťuje, že je to převážně baterie",
+      "title": "Bidenův přístup k Gaze byl nedostatečný, píše se v nové knize o Harrisové",
+      "original_title": "Biden response to Gaza was \"inadequate,\" Harris says in new book - Axios",
+      "url": "https://www.axios.com/2025/09/22/harris-biden-book-gaza-israel-trump",
+      "urlToImage": "https://images.axios.com/78S4UGhdL_qecSBL2nBxYRRN7oY=/0x0:5108x2873/1366x768/2025/09/22/1758564982585.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-22T21:26:11Z",
+      "description": "Je to součást širšího Harrisova úsilí v knize distancovat se od Bidena poté, co tak během loňské kampaně neučinila."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "iFixit rozebírá iPhone Air a zjišťuje, že je to hlavně baterie",
       "original_title": "iFixit tears down the iPhone Air, finds that it’s mostly battery - Ars Technica",
       "url": "https://arstechnica.com/gadgets/2025/09/iphone-air-teardown-reveals-a-phone-thats-more-durable-repairable-than-expected/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/TD_iPhone_Air_4-1152x648-1758575100.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-22T21:25:18Z",
-      "description": "Design s logickým panelem nahoře pomáhá předejít druhému Bendgate."
+      "description": "Konstrukce s logickým deskou nahoře pomáhá zabránit druhému Bendgate."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Gabrielle je nyní hurikánem 4. kategorie. Meteorologové varují Azory, aby byly ve střehu",
-      "original_title": "Gabrielle is now a Category 4 hurricane. Forecasters advise Azores to take notice - PBS",
-      "url": "https://www.pbs.org/newshour/science/gabrielle-is-now-a-category-4-hurricane-forecasters-advise-azores-to-take-notice",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/AP25265473982345-e1758575305669-1024x704.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-22T21:15:09Z",
-      "description": "Lidé na Azorském souostroví byli v pondělí vyzváni, aby sledovali vývoj hurikánu Gabrielle, který je nyní hurikánem kategorie 4 v Atlantském oceánu, uvedlo Národní hurikánové centrum."
+      "title": "Testy potvrdily, že Najee Harris utrpěl přetržení Achillovy šlachy",
+      "original_title": "Tests confirm Najee Harris suffered torn Achilles - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tests-confirm-najee-harris-suffered-torn-achilles",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/2c86adc/2147483647/strip/true/crop/4778x2688+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2F69%2Fe5f5ef0744c79afb09e19b1f3c49%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235846363",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-09-22T20:48:38Z",
+      "description": "Běžecký hráč Chargers Najee Harris nebude k dispozici do konce sezóny 2025."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "S&P 500 dnes: Akcie Oracle a Nvidia posilují, cena akcií Kenvue klesá",
-      "original_title": "S&P 500 Gain & Losses Today: Oracle, Nvidia Shares Advance; Kenvue Stock Slips - Investopedia",
-      "url": "https://www.investopedia.com/s-and-p-500-gain-and-losses-today-teradyne-and-oracle-stocks-advance-kenvue-slips-11814914",
-      "urlToImage": "https://www.investopedia.com/thmb/G3gYw4z4BgSn-23IO6WduAjJk5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2236196353-39d01839dc3a44e99044c8a1a6247db7.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-09-22T20:55:36Z",
-      "description": "Akcie firmy na testovací zařízení vyskočily v pondělí 22. září 2025, zatímco zprávy o blížícím se oznámení představitelů Trumpovy administrativy tížily akcie spotřebitelského zdravotního gigantu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Představujeme nového parťáka Země na cestách: Miniaturní kvaziměsíc, který nás doprovází již desítky let",
-      "original_title": "Meet Earth’s new travel buddy: A tiny quasi-moon that’s been following us for decades - Yahoo",
-      "url": "https://www.yahoo.com/news/science/article/meet-earths-new-travel-buddy-a-tiny-quasi-moon-thats-been-following-us-for-decades-205237868.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HFWEDb7TqdRUxqaRfXVAbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/d549ba60-97e1-11f0-bf8f-e8c724b92e2a",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-09-22T20:52:37Z",
-      "description": "Nově objevený asteroid bude podle očekávání následovat Zemi na její cestě kolem Slunce dalších 60 let."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "FDA schválí lék na léčbu příznaků autismu",
-      "original_title": "FDA to approve drug to treat autism symptoms - Politico",
-      "url": "https://www.politico.com/news/2025/09/22/fda-to-approve-prescription-drug-to-treat-certain-children-with-symptoms-of-autism-00575580",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F9c%2F19%2F8abc160c4fb7878f70351aaa36f0%2F079a3900-35827.jpg",
+      "title": "Podezřelý zadržen poté, co údajně namířil laser na Marine One s Trumpem na palubě",
+      "original_title": "Suspect detained after allegedly pointing laser at Marine One with Trump on board - Politico",
+      "url": "https://www.politico.com/news/2025/09/22/suspect-detained-marine-one-laser-00575459",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F34%2F56%2F62c9b96e4781b8cf82a9d2136ee8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2226797170",
       "source": "Politico",
-      "publishedAt": "2025-09-22T20:49:19Z",
-      "description": "V komentáři pro POLITICO Magazine varují představitelé Trumpova ministerstva zdravotnictví veřejnost před nutností vyvážit rizika a přínosy užívání paracetamolu v těhotenství."
+      "publishedAt": "2025-09-22T19:32:23Z",
+      "description": "Muž je obviněn z toho, že na Marine One mířil červeným laserovým paprskem při odletu z trávníku Bílého domu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podezřelý obviněný ze střelby na stanici ABC v Sacramentu měl v autě jména Patelové a Bondiové, uvádí žaloba",
-      "original_title": "Suspect accused of shooting at Sacramento ABC affiliate's station had note with Patel, Bondi's names in car: Complaint - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/suspect-accused-shooting-abc-sacramento-station/story?id\\\\u003d125751425",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-22T20:03:53Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Senzační zpráva: Pentagon omezuje veřejná vystoupení generálů v rámci tažení proti médiím",
-      "original_title": "Scoop: Pentagon restricts speaking engagements alongside media crackdown - Axios",
-      "url": "https://www.axios.com/2025/09/22/pentagon-hegseth-external-engagements-press",
-      "urlToImage": "https://images.axios.com/HGQLix2fAJHzudZ8gR2re78ziF4=/0x568:3696x2647/1366x768/2025/09/22/1758560965674.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-22T18:59:13Z",
-      "description": "Jde o nejnovější zákrok v rámci obav z úniků informací, palácových intrik a kontroly narativu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nadace přerušily styky se Sarah Fergusonovou poté, co v e-mailu označila Jeffreyho Epsteina za „přítele“",
-      "original_title": "Charities cut ties with Sarah Ferguson after reported email describing Jeffrey Epstein as ‘friend’ - PBS",
+      "title": "Nadace přerušily styky se Sarah Ferguson poté, co v e-mailu označila Jeffreyho Epsteina za „přítele“",
+      "original_title": "Charities cut ties with Sarah Ferguson after reported email describing Jeffrey Epstein as 'friend' - PBS",
       "url": "https://www.pbs.org/newshour/world/charities-cut-ties-with-sarah-ferguson-after-reported-email-describing-jeffrey-epstein-as-friend",
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-07-17T175137Z_235505428_RC2HOFAXRTR0_RTRMADP_3_FRANCE-CHARITYGALA-1024x683.jpg",
       "source": "PBS",
       "publishedAt": "2025-09-22T18:38:35Z",
-      "description": "Nadační fondy se distancovaly od expartnerky prince Andrewa kvůli e-mailu Epsteinovi"
+      "description": "Nadační fondy přerušily styky s expartnerkou prince Andrewa kvůli e-mailu Epsteinovi"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple vydává macOS Tahoe 26.1 developer beta 1 – 9to5Mac",
-      "original_title": "Apple releases macOS Tahoe 26.1 developer beta 1 - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/22/apple-releases-macos-tahoe-26-1-developer-beta-1/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/macOS-26.1-b1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-22T17:08:00Z",
-      "description": "Po minulém týdnu oficiálního vydání macOS Tahoe 26 vydává Apple první vývojářské beta macOS 26.1. Co čekat"
+      "title": "Apple vypustila první betatesty systémů iOS 26.1, iPadOS 26.1 a macOS Tahoe 26.1",
+      "original_title": "Apple Seeds First Betas of iOS 26.1, iPadOS 26.1, and macOS Tahoe 26.1 - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/22/apple-seeds-ios-26-1-beta-1/",
+      "urlToImage": "https://images.macrumors.com/t/hA8-InYSASCV9BmL5Loq8C5XKIw=/2500x/article-new/2025/09/iOS-26.1-Feature.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-22T17:05:44Z",
+      "description": "Společnost Apple dnes poskytla vývojářům první bety připravovaných systémů iOS 26.1, iPadOS 26.1, macOS Tahoe 26.1, tvOS 26.1, watchOS 26.1 a visionOS 26.1..."
     },
     {
       "flag": "🌍",
@@ -197,12 +208,12 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-find-proof.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-22T16:22:27Z",
-      "description": "Vědecká debata o původu kráteru Silverpit v jižní části Severního moře, která trvala desítky let, je u konce. Nové důkazy potvrzují, že byl způsoben dopadem asteroidu nebo komety před asi 43–46 mil..."
+      "description": "Vědecká debata o původu kráteru Silverpit v jižní části Severního moře, která trvala desítky let, byla vyřešena. Nové důkazy potvrzují, že byl způsoben dopadem asteroidu nebo komety před asi 43–46 ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Blue Origin vyhrálo zakázku NASA na dopravu roveru VIPER k jižnímu pólu Měsíce",
+      "title": "Blue Origin vyhrála kontrakt NASA na dopravu roveru VIPER k jižnímu pólu Měsíce",
       "original_title": "Blue Origin wins NASA deal to ferry VIPER rover to lunar south pole - TechCrunch",
       "url": "https://techcrunch.com/2025/09/22/blue-origin-wins-nasa-deal-to-ferry-viper-rover-to-lunar-south-pole/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/blue-origin-viper.webp?resize=1200,900",
@@ -213,7 +224,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hra Jordana Davise přinesla Eagles vítězství — a také překrytí",
+      "title": "Jordan Davis zahrál a zajistil Eagles vítězství — i překrytí",
       "original_title": "Jordan Davis play delivered Eagles win — and cover - NBC Sports",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-davis-play-delivered-eagles-win-and-cover",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8412b81/2147483647/strip/true/crop/5549x3121+0+289/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F13%2F258d6f2c44fc874ae9f51c02dd5e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236257232",
@@ -224,73 +235,40 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SMART-TD a Union Pacific oznamují průlomovou dohodu o zajištění pracovních míst a budoucnosti železniční dopravy",
-      "original_title": "SMART-TD and Union Pacific Announce Landmark Agreement Securing Jobs and the Future of Railroading - SMART Union",
-      "url": "https://www.smart-union.org/smart-td-and-union-pacific-announce-landmark-agreement-securing-jobs-and-the-future-of-railroading/",
-      "urlToImage": "https://www.smart-union.org/wp-content/uploads/2025/09/UP-NS-Merger-Deal-Done-h.jpg",
-      "source": "Smart-union.org",
-      "publishedAt": "2025-09-22T15:04:45Z",
-      "description": "Průlomová dohoda zaručuje členům odborů SMART-TD pracujícím v železniční a výhybkářské službě ochranu pracovních míst po celou dobu jejich kariéry po navrhovaném sloučení společností Union Pacific ..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Aktualizace One UI 8 je nyní dostupná pro Galaxy S24, Z Flip 6 a Z Fold 6",
-      "original_title": "One UI 8 update is now live for the Galaxy S24, Z Flip 6, and Z Fold 6 - Android Central",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-one-ui-8-galaxy-s24-z-flip-6-fold-6",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Uy8kf5a4mUAHnDdgksiEBh.jpg",
-      "source": "Android Central",
-      "publishedAt": "2025-09-22T11:34:45Z",
-      "description": "Aktualizace se rozesílá pro Galaxy S24, Galaxy Z Flip 6 a Galaxy Z Fold 6 v Jižní Koreji."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Co čekat od Valného shromáždění OSN: 80. výročí, hluboké krize a témata k jednání",
-      "original_title": "What to know as U.N. General Assembly opens, marking 80 years, tackling deep crises - NPR",
-      "url": "https://www.npr.org/2025/09/22/nx-s1-5546823/un-general-assembly-high-level-week",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7407x4166+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F7f%2F395761ee4a02aa9f68973e6e6d70%2Fap25209711460190.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-22T10:00:00Z",
-      "description": "Letos si OSN připomíná 80. výročí svého založení, diplomaté ale nemají mnoho důvodů k oslavám."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "Revmatoidní artritida ji držela v zajetí. Tento nervový stimulátor ji osvobodil.",
       "original_title": "Rheumatoid arthritis kept her captive. This nerve stimulator set her free. - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/09/22/nx-s1-5544463/rheumatoid-arthritis-new-device-nerve-stimulator",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1335x751+0+139/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3c%2F6a9e67f74ec3b3b59ba1c47e3a69%2Flynn-milam6-cropped.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-22T10:00:00Z",
-      "description": "Nové chirurgicky implantované zařízení velikosti fazole pomáhá zvládat revmatoidní artritidu, která nereaguje na léky."
+      "description": "Nové chirurgicky implantované zařízení velikosti fazole pomáhá kontrolovat revmatoidní artritidu, která nereaguje na léky."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Světový den Alzheimeru: takto daleko jsme ve hledání léčby pokročili",
-      "original_title": "World Alzheimer's Day: Here's How Far We've Come in Search of a Cure - ScienceAlert",
-      "url": "https://www.sciencealert.com/world-alzheimers-day-heres-how-far-weve-come-in-search-of-a-cure",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/alzheimers_day_header.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-22T01:29:59Z",
-      "description": "Po desetiletích neúspěšného výzkumu dala Alzheimerovým pacientům naději v boji proti zničující nemoci nová léčiva a průlomový krevní test – jejich účinnost však zůstává předmětem otázek."
+      "title": "MediaTek Dimensity 9500 je připraven pro Androidové vlajkové lodě ještě do konce roku",
+      "original_title": "MediaTek’s Dimensity 9500 is ready for Android flagships before end of year - 9to5Google",
+      "url": "http://9to5google.com/2025/09/22/mediateak-dimensity-9500-launch/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/MediaTek-Dimensity-9500-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-22T07:01:00Z",
+      "description": "MediaTekův nový Dimensity 9500 je třetí generací „all-big-core“ SoC. Přináší velký skok v herním výkonu a..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Geneticky upravení myši by mohly na Nantucketu zlikvidovat lymskou boreliózu, tvrdí vědci",
-      "original_title": "Genetically engineered mice could take the bite out of Lyme disease on Nantucket, scientists say - CBS News",
-      "url": "https://www.cbsnews.com/news/crispr-modify-mice-target-lyme-disease-60-minutes/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/21/7b6b163a-1e8c-4c87-9269-c77527466fac/thumbnail/1200x630/6b6a49423fe26d9b411ff7fbafac6fb1/sculpting-evolution-article.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-21T23:00:00Z",
-      "description": "Vědci doufají, že geneticky modifikovaní myši omezí šíření lymské boreliózy. Zamířili na Nantucket — domov velké populace myší, klíšťat a jelenů šířících nemoc — aby svůj nápad představili."
+      "title": "Vandenberg má další misi: start SpaceX a přistání v pondělí",
+      "original_title": "Vandenberg’s Next Mission: SpaceX Launch, Landing on Monday - Noozhawk",
+      "url": "http://www.noozhawk.com/vandenbergs-next-mission-spacex-launch-landing-on-monday-morning/",
+      "urlToImage": "https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/12/social-fallback.png?fit=1200%2C630&quality=80&ssl=1",
+      "source": "Noozhawk",
+      "publishedAt": "2025-09-21T19:00:48Z",
+      "description": "Co: Raketa Falcon 9 z Vandenbergovy základny kosmických sil v okrese Santa Barbara. Kdy: V pondělí mezi 10:23 a 11:23 dopoledne, podle"
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Průzkumník Curiosity pořídil dechberoucí snímky marsovské krajiny",
+      "title": "Sonda Curiosity pořídila úchvatné snímky krajiny Marsu",
       "original_title": "Curiosity rover snaps breathtaking photos of the Martian landscape - Mashable",
       "url": "https://mashable.com/article/nasa-mars-curiosity-peace-vallis-images",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/07GPEltzKFOfHeU4EbwpBys/hero-image.fill.size_1200x675.v1758228115.jpg",
