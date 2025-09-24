@@ -1,43 +1,98 @@
 {
-  "last_updated": "2025-09-24T16:23:31",
+  "last_updated": "2025-09-24T17:16:00",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump zrušil schůzku se Schumerem a Jeffriesem",
-      "original_title": "Trump cancels meeting with Schumer and Jeffries - Politico",
-      "url": "https://www.politico.com/news/2025/09/23/trump-cancels-meeting-schumer-jeffries-00576176",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F20%2Fff%2Fdbea549c406c960f0f18f3c4ea70%2Ftrump-03586.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-23T13:58:29Z",
-      "description": "Prezident se měl ve čtvrtek setkat s představiteli demokratů."
+      "title": "Akcie dnes: Dow, S&P 500 a Nasdaq zůstávají blízko rekordních maxim, Powell vystupuje",
+      "original_title": "Stock market today: Dow, S&P 500, Nasdaq hold near record highs with Powell on deck - Yahoo",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-powell-sees-challenging-situation-ahead-for-fed-133609018.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kMTBLnBhQYJ.PHG0mZ7pkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/85301c00-97db-11f0-bfff-25139fd26a9f",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-23T16:44:52Z",
+      "description": "Wall Street poprvé uslyší od předsedy Powella od doby, co Fed začal znovu snižovat úrokové sazby."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Přelet dronu nad kodaňským letištěm vyvolává obavy, že za ním stojí Rusko",
-      "original_title": "A drone flyover above Copenhagen Airport prompts concerns that Russia was behind it - AP News",
-      "url": "https://apnews.com/article/drone-denmark-police-security-8e8119cfbc0e276cee1f37ff5ead11d8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/414da52/2147483647/strip/true/crop/5378x3025+0+255/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2Fa7%2F65fe7a804e17de2f34a0547013b8%2Fa5073c0c77794354928c85bd833cb53a",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-23T13:03:00Z",
-      "description": "Neznámé drony zastavily provoz vzdušného prostoru nad letištěm v Kodani. Incident v pondělí večer vyvolal obavy, že za přeletem nad největším skandinávským letištěm stojí Rusko. Podle policie nebyl..."
+      "title": "Stanice ABC vlastněné společností Nexstar nevysílají Kimmelův návrat v úterý, přidaly se tak k Sinclairu v přerušení pořadu",
+      "original_title": "Nexstar-owned ABC affiliates won't show Kimmel's return Tuesday, joining Sinclair in preempting program - CNBC",
+      "url": "https://www.cnbc.com/2025/09/23/kimmel-abc-nexstar-sinclair-fcc.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202810-1758641684939-gettyimages-2214501910-177379_DSC_4375.jpeg?v=1758641740&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-23T15:03:53Z",
+      "description": "Nexstar Media Group uvedla, že se připojí ke stanicím Sinclairu napojeným na ABC a v úterý zruší návrat pořadu \"Jimmy Kimmel Live!"
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Objeven nový druh ‚megaraptora‘ s šokujícím posledním jídlem stále v tlamě",
+      "original_title": "New 'Megaraptor' Species Found With Shocking Last Meal Still in Its Mouth - Yahoo",
+      "url": "https://www.sciencealert.com/new-megaraptor-species-found-with-shocking-last-meal-still-in-its-mouth",
+      "urlToImage": "https://media.zenfs.com/en/sciencealert_160/8cb81a65e55ec354074ce761ba49ef27",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-09-23T15:00:21Z",
+      "description": "Původní lovec krokodýlů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kterých je více než 150 zemí, které uznaly Palestinu k roku 2025?",
-      "original_title": "Which are the 150+ countries that have recognised Palestine as of 2025? - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/9/23/which-are-the-150-countries-that-have-recognised-palestine-as-of-2025",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/afp_68d26c9c2785-1758620828.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-09-23T12:23:37Z",
-      "description": "Stát Palestina je uznáván jako suverénní národ 157 členskými státy OSN, což představuje 81 procent členů."
+      "title": "Trump před schůzkou se Schumerem a Jeffriesem zpochybňuje dohodu o rozpočtu",
+      "original_title": "Trump casts doubt on Schumer, Jeffries meeting ahead of shutdown deadline - The Hill",
+      "url": "https://thehill.com/homenews/administration/5517371-trump-government-funding-deadline/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/09/Midterms_092125_AP_Scott-Applewhite.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2025-09-23T14:08:00Z",
+      "description": "Prezident Trump v úterý zpochybnil, zda by schůzka s demokratickými lídry Kongresu „mohla být produktivní“, zatímco se blíží termín financování vlády za pouhých osm dní. „Po přezkoumání podrobností..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nvidia investuje do OpenAI 100 miliard dolarů na výstavbu dalších AI datacenter",
+      "original_title": "Nvidia Invests in OpenAI With $100 Billion to Build Out More AI Data Centers - CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/nvidia-invests-in-openai-with-100-billion-to-build-out-more-ai-data-centers/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/26101c3425508f5f4923f92827e77030108be450/hub/2025/09/23/63859e86-7875-406e-a67d-c53a84383ead/european-ai-infrastructure.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-23T13:30:00Z",
+      "description": "První gigawatt systémů Nvidia bude nasazen koncem roku 2026, protože tlak na větší a rozsáhlejší AI infrastrukturu pokračuje."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Morgan Stanley je blízko nabídce obchodování s kryptoměnami přes E-Trade, označuje to za ‚špičku ledovce‘",
+      "original_title": "Morgan Stanley close to offering crypto trading through E-Trade, calls it ‘tip of the iceberg’ - CNBC",
+      "url": "https://www.cnbc.com/2025/09/23/morgan-stanley-crypto-trading-e-trade-next-year.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107414167-1715622444766-gettyimages-2152776881-030a1874copy_aavup9rh.jpeg?v=1715622531&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-23T13:26:12Z",
+      "description": "Morgan Stanley, který se více spoléhá na správu majetku než jeho konkurenti, je připraven být mezi prvními, kdo přijme kryptoobchodování, úschovu aktiv a tokenizovaná aktiva."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trezor klasického rocku není prázdný: 10 ztracených projektů, které musí vyjít",
+      "original_title": "Classic Rock’s Vault Isn’t Empty: 10 Lost Projects We Need to See Released - Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-lists/unreleased-albums-beach-boys-beatles-bob-seger-1235432732/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/rock-vault-LEAD.jpg?crop=0px%2C46px%2C1800px%2C1014px&resize=1600%2C900",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-09-23T12:53:42Z",
+      "description": "Nevydaná alba Beatles, Boba Segera a Briana Wilsona zůstávají v trezorech. Těchto 10 bychom měli konečně vidět na pultech."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nejmenší akční kamera od DJI začne nahrávat, když přikývnete",
+      "original_title": "DJI’s smallest action camera will start recording when you nod - The Verge",
+      "url": "https://www.theverge.com/news/781827/dji-osmo-nano-4k-action-camera-multifunctional-vision-dock",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/dji_osmonano1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-23T12:00:00Z",
+      "description": "DJI Osmo Nano dnes startuje s 4K videem a dotykovým dokovacím modulem, ale v USA nebude ihned dostupný."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Dokáže se Sarah Fergusonová, vévodkyně z Yorku, ještě jednou vzchopit?",
+      "title": "Dokáže se Sarah Fergusonová, vévodkyně z Yorku, ještě jednou vzpamatovat?",
       "original_title": "Can Sarah Ferguson, the Duchess of York, bounce back one more time? - BBC",
       "url": "https://www.bbc.com/news/articles/czx0nr29neeo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/52b1/live/324d09b0-985f-11f0-b567-dbb771c68d85.jpg",
@@ -54,62 +109,62 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+417/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F6b%2Ff19caea34c1d96311b89996bb0ad%2Fap25266174314589.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-23T11:17:49Z",
-      "description": "Bývalý prezident Rodrigo Duterte byl v březnu zatčen filipínskými úřady na základě zatykače vydaného Mezinárodním trestním soudem. Nyní je držen v zařízení ICC v Nizozemsku."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tajná služba zneškodnila telekomunikační hrozbu kolem OSN schopnou ochromit mobilní síť v NYC",
-      "original_title": "Secret Service dismantles telecom threat around UN capable of crippling cell service in NYC - CNBC",
-      "url": "https://www.cnbc.com/2025/09/23/secret-service-dismantles-telecom-threat-around-un-capable-of-crippling-cell-service-in-nyc.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196464-1757448862448-gettyimages-2234546392-anotherday115709581_rwyauirj.jpeg?v=1757448914&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-23T11:13:09Z",
-      "description": "Síť byla odhalena v rámci vyšetřování tajné služby zaměřeného na telekomunikační hrozby cílené na vládní úředníky, uvedli vyšetřovatelé."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kryptostartup Zerohash získal 104 milionů dolarů od Morgan Stanley, SoFi, Apollo a dalších",
-      "original_title": "Crypto startup Zerohash raises $104 million from Morgan Stanley, SoFi, Apollo and others - CNBC",
-      "url": "https://www.cnbc.com/2025/09/23/startup-zerohash-raises-104million-morgan-stanley-sofi-apollo.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202174-1758555732337-Edward_Woodford_-_zerohash_1.jpg?v=1758555828&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-23T11:00:01Z",
-      "description": "Zerohash patří mezi společnosti, které těží z příznivějšího regulatorního prostředí pro kryptoměny za prezidenta Donalda Trumpa."
+      "description": "Bývalý prezident Rodrigo Duterte byl v březnu zatčen filipínskými úřady na základě zatykače Mezinárodního trestního soudu. Nyní je držen v zařízení ICC v Nizozemsku."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Why Trump's views on vaccines and paracetamol risk child health",
-      "original_title": "Why Trump's views on vaccines and paracetamol risk child health - BBC",
-      "url": "https://www.bbc.com/news/articles/cdx2rk10ep0o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/313e/live/3650d320-9869-11f0-9fad-d35dd71c4be3.jpg",
+      "title": "Tajfun Ragasa: Hongkong a jižní Čína se připravují na příchod supertajfunu",
+      "original_title": "Typhoon Ragasa: Hong Kong and south China braces as super typhoon nears - BBC",
+      "url": "https://www.bbc.com/news/articles/c3rvjj7dp7ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cbc2/live/ad7fb4c0-9887-11f0-858a-a904eacbef23.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-09-23T10:46:45Z",
-      "description": "Veřejnost spoléhá na promyšlená a obezřetná prohlášení založená na důkladném vědeckém výzkumu, nikoli na dohady."
+      "publishedAt": "2025-09-23T11:06:26Z",
+      "description": "Ragasa je nejsilnější bouří na Zemi za letošní rok"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ošetřovatele zabil tygr během vystoupení před diváky a rodinou, oznámil šerif v Oklahomě",
-      "original_title": "Animal handler killed by tiger was performing in front of onlookers and family, Oklahoma sheriff reveals - CBS News",
-      "url": "https://www.cbsnews.com/news/handler-killed-tiger-in-front-onlookers-family-oklahoma-sheriff/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/22/429095b7-f7d1-47a8-9caa-c84f6dae8fc4/thumbnail/1200x630g2/1ced232b233f298a6c8da93bd0e971bc/tigers-480471289-942531831366795-8521417395131108453-n.jpg",
+      "title": "Americká tajná služba narušila telekomunikační síť, která ohrožovala New York během Valného shromáždění OSN",
+      "original_title": "U.S. Secret Service disrupts telecom network that threatened NYC during U.N. General Assembly - CBS News",
+      "url": "https://www.cbsnews.com/news/u-s-secret-service-disrupts-telecom-network-threatened-new-york-city-u-n-general-assembly/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/22/6690e70b-903e-41e9-a42c-338827111669/thumbnail/1200x630/cf09ea968c4a81058d5441ce98e04983/screenshot-2025-09-22-at-7-05-32-pm.png",
       "source": "CBS News",
-      "publishedAt": "2025-09-23T10:45:00Z",
-      "description": "Po smrtelném útoku tygra na ošetřovatele v Oklahomě vyšly najevo nové podrobnosti"
+      "publishedAt": "2025-09-23T11:00:00Z",
+      "description": "První analýzy ukazují, že síť sloužila ke komunikaci mezi zahraničními vládami a osobami známými americkým orgánům činným v trestním řízení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sean \"Diddy\" Combs has served enough time behind bars where he's been under constant suicide watch, defense tells judge",
+      "title": "Sean \"Diddy\" Combs strávil za mřížemi dost času pod neustálým dohledem kvůli sebevraždám, tvrdí obhajoba u soudu",
       "original_title": "Sean \"Diddy\" Combs has served enough time behind bars where he's been under constant suicide watch, defense tells judge - CBS News",
       "url": "https://www.cbsnews.com/news/sean-diddy-combs-served-enough-time-prison-defense-judge/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/07/ee239cd1-d1bf-4d83-82b6-3d45cfce34ef/thumbnail/1200x630/dc302a1442da792c8c965e94b9372987/cbsn-fusion-sean-diddy-combs-lawyer-on-potential-pardon-from-trump-thumbnail.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-23T10:22:00Z",
-      "description": "Combsovi hrozí trest za prostituci 3. října"
+      "description": "Combsovi hrozí po odsouzení porotou na Manhattanu za dva trestné činy související s prostitucí trestní řízení 3. října."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tento nový kandidát na astronauta NASA už byl ve vesmíru",
+      "original_title": "This new NASA astronaut candidate has already been to space - Space",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/new-nasa-astronaut-candidate-has-already-been-to-space-anna-menon-spacex-polaris-dawn",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/M8KuzQwzgB2m6Qfeskr8ac.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-23T10:00:00Z",
+      "description": "Anna Menonová letěla loni na oběžnou dráhu v rámci průkopnické mise SpaceX Polaris Dawn."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "8 nových funkcí, které přijdou na telefony Samsung Galaxy s One UI 8.5",
+      "original_title": "8 new features coming to your Samsung Galaxy phones with One UI 8.5 - Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-phones-new-upcoming-features-one-ui-8-5-3600158/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Flip-7-home-screen-One-UI-8.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-09-23T09:33:35Z",
+      "description": "Rychlý přehled nejzajímavějších nových funkcí, které čekají na telefony Galaxy s aktualizací One UI 8.5"
     },
     {
       "flag": "🌍",
@@ -123,37 +178,48 @@
       "description": ""
     },
     {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Evropské uznání palestinského státu ukazuje, že USA jsou stále jedinou velmocí, která se počítá",
+      "original_title": "European recognition of Palestinian state shows US still only power that counts - BBC",
+      "url": "https://www.bbc.com/news/articles/c87y4ljx85qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6892/live/394b2530-985a-11f0-858a-a904eacbef23.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-23T09:09:46Z",
+      "description": "Rozhodnutí Británie a Francie uznat palestinský stát je historický okamžik, ale je uskutečnitelné pouze s podporou USA."
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Windows AI Lab od Microsoftu je nový způsob testování experimentálních funkcí",
+      "title": "Microsoft otevírá Windows AI Lab pro testování experimentálních funkcí",
       "original_title": "Microsoft’s Windows AI Lab is a new way to test experimental features - The Verge",
       "url": "https://www.theverge.com/news/783475/microsoft-windows-ai-labs-feature",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "The Verge",
       "publishedAt": "2025-09-23T09:01:37Z",
-      "description": "Microsoft začal testovat nové funkce umělé inteligence ve Windows. Program Windows AI Labs je čistě o experimentálním testování."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Zvláštní volby v Arizoně v úterý mají přinést rozhodující hlasování Sněmovny reprezentantů o zveřejnění Epsteinových dokumentů",
-      "original_title": "Tuesday’s special election in Arizona set to deliver a decisive US House vote for Epstein files release - CNN",
-      "url": "https://www.cnn.com/2025/09/23/politics/arizona-special-election-epstein-files",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250922-az.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-23T09:00:07Z",
-      "description": "Speciální volby v Arizoně mají v úterý poskytnout klíčový podpis pro hlasování o zveřejnění dokumentů v kauze Jeffreyho Epsteina."
+      "description": "Microsoft začal testovat nové funkce s umělou inteligencí ve Windows. Program Windows AI Labs je čistě o experimentálním testování."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "5 takeaways from Kamala Harris' new book about her sprint for the presidency",
+      "title": "5 postřehů z nové knihy Kamaly Harrisové o jejím sprintu za prezidentským úřadem",
       "original_title": "5 takeaways from Kamala Harris' new book about her sprint for the presidency - NPR",
       "url": "https://www.npr.org/2025/09/23/nx-s1-5550250/kamala-harris-book-107-days-highlights",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/904x509+11+160/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F22%2Faea9f9e9465c9daf5d8f454fd36e%2Fgettyimages-2165096994.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-23T09:00:00Z",
-      "description": "Bývalá viceprezidentka Kamala Harrisová ve své nové knize, která vychází v úterý, píše o své krátké kandidatuře na prezidentku z loňského roku a o svém vztahu s bývalým prezidentem Joem Bidenem."
+      "description": "Bývalá viceprezidentka Kamala Harrisová ve své nové knize, která vychází v úterý, píše o svém loňském krátkém kandidování na prezidentku a o svém vztahu s bývalým prezidentem Joem Bidenem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jak voliči v Arizoně dostanou Mika Johnsona do úzkých.",
+      "original_title": "How Arizona voters are set to put Mike Johnson in a corner - Politico",
+      "url": "https://www.politico.com/news/2025/09/23/epstein-files-discharge-arizona-election-00575894",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb7%2F78%2Fab290abf48369f2322baee8f7322%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2224663501",
+      "source": "Politico",
+      "publishedAt": "2025-09-23T08:45:00Z",
+      "description": "Pravděpodobný vítěz zvláštních voleb v úterý znovu rozdmýchá skandál Jeffreye Epsteina v Sněmovně."
     },
     {
       "flag": "🌍",
@@ -169,101 +235,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podnikatelé včetně Jensena Huanga, Sama Altmana a Reeda Hastingse reagují na Trumpovy poplatky za víza H-1B",
-      "original_title": "Business leaders including Jensen Huang, Sam Altman, and Reed Hastings, react to Trump's H-1B visa fee - Business Insider",
-      "url": "https://www.businessinsider.com/business-leaders-react-trump-h-1b-visa-fee-2025-9",
-      "urlToImage": "https://i.insider.com/68d20688183847aa39d743c3?width=1024&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-09-23T03:48:00Z",
-      "description": "Šéfové firem jako Jensen Huang z Nvidie a hvězda „Shark Tank“ Kevin O'Leary se vyjádřili k 100 000 dolarů stojícímu poplatku za vízum H-1B."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Setkání u 'Dawsonova světa': videa Jamese Van Der Beeka a Stevena Spielberga",
+      "title": "Setkání u 'Dawsonova sváru': videa Jamese Van Der Beeka a Stevena Spielberga",
       "original_title": "'Dawson's Creek' Reunion: James Van Der Beek, Steven Spielberg Videos - Variety",
       "url": "https://variety.com/2025/tv/news/dawsons-creek-reunion-james-van-der-beek-steven-spielberg-1236526254/",
       "urlToImage": "https://variety.com/wp-content/uploads/2023/10/T2DDACR_CM007.jpg?crop=0px%2C1px%2C1000px%2C562px&resize=1000%2C563",
       "source": "Variety",
       "publishedAt": "2025-09-23T02:45:00Z",
-      "description": "James Van Der Beek poslal dvě videa ke čtení scénáře pilotního dílu seriálu Dawsonův svět."
+      "description": "James Van Der Beek poslal dvě videa ke čtení pilotního scénáře seriálu Dawson's Creek."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Fanoušci Alabamy reagují na zprávy o Bruce Pearlovi: Nate Oats ho má na mušce",
-      "original_title": "Alabama fans react to Bruce Pearl news: Nate ‘Oats has him on hot seat’ - AL.com",
-      "url": "https://www.al.com/alabamabasketball/2025/09/alabama-fans-react-to-bruce-pearl-news-nate-oats-has-him-on-hot-seat.html",
-      "urlToImage": "https://www.al.com/resizer/v2/EWDEU2QTMBF3FDKKJHWN7ESPNA.JPG?auth=9ed0a3b1fc8120bfbb33905c3586250f3efa0428dbfd13e6d0da62618ed7ef97&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-09-23T00:34:00Z",
-      "description": "Fanoušci Crimson Tide reagovali na zprávu o odchodu Brucea Pearla do důchodu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "NASA jmenovala 24. třídu astronautů, včetně bývalého člena posádky SpaceX",
-      "original_title": "NASA names 24th astronaut class, including prior SpaceX crew member - Ars Technica",
-      "url": "https://arstechnica.com/space/2025/09/nasa-names-24th-astronaut-class-including-prior-spacex-crew-member/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092225a-lg-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-22T22:18:07Z",
-      "description": "NASA představila novou třídu kandidátů na astronauty"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "RFK Jr. letí naslepo do další epidemie s ‚zelenáči‘ mezi poradci pro očkování",
+      "title": "RFK Jr. letí naslepo do další epidemie s ‚zelenáči‘ mezi vakcinologickými poradci",
       "original_title": "RFK Jr. ‘Flying Blind’ Into Next Outbreak With ‘Rookie’ Vaccine Advisors - The Daily Beast",
       "url": "https://www.thedailybeast.com/rfk-jr-flying-blind-into-next-outbreak-with-rookie-vaccine-advisors/",
       "urlToImage": "https://www.thedailybeast.com/resizer/v2/7SPEAAJ2FJFW3AKCEUXSUBW4CA.jpg?smart=true&auth=56b88fa6523c015229f92e1f21bb40b9e908fc9311d2d3f22eda0ab51b20f65f&width=1200&height=630",
       "source": "Daily Beast",
       "publishedAt": "2025-09-22T21:58:00Z",
-      "description": "Varování přišlo od tří bývalých úředníků CDC, kteří nedávno s nechutí rezignovali."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zprávy z trhů, 22. září 2025: Dow, S&P 500 a Nasdaq stanovily nová absolutní maxima, akcie Nvidie rostou díky partnerství s OpenAI",
-      "original_title": "Markets News, Sep. 22, 2025: Dow, S&P 500, Nasdaq Set New All-Time Highs; Nvidia Shares Rise on OpenAI Partnership - Investopedia",
-      "url": "https://www.investopedia.com/dow-jones-today-09222025-11814290",
-      "urlToImage": "https://www.investopedia.com/thmb/Cy7H6x-35krF9apW50IyYJz5NAE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2236260079-9c88435ee7fd440aa0cad46fdf9319b8.jpg",
-      "source": "Investopedia",
-      "publishedAt": "2025-09-22T21:54:13Z",
-      "description": "Americké akciové indexy na začátku týdne posílily, přičemž Dow Jones Industrial Average, S&P 500 a Nasdaq zaznamenaly rekordní maxima během obchodování i na závěrečných hodnotách již třetí seanci v..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Muž obviněný ze střelby v newhampshirerském country klubu se poprvé dostavil k soudu",
-      "original_title": "Man charged in New Hampshire country club shooting makes first court appearance - AP News",
-      "url": "https://apnews.com/article/country-club-shooting-new-hampshire-62b20875dae756d542e012bd7ff15b2c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/884a050/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7c%2F37%2Fc941dcbe97f31efbbd869c676b06%2F35c442837414492387ff453034b217e6",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-22T20:25:00Z",
-      "description": "Muž obviněný ze smrtící střelby v newhampském golfovém klubu se poprvé dostavil k soudu, další jednání je naplánováno na začátek října. Podle úřadů hosté v restauraci rychle zasáhli a zastavili stř..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple Watch SE 3 vs. Series 11: Nákupní rádce s více než 30 rozdíly",
-      "original_title": "Apple Watch SE 3 vs. Series 11 Buyers Guide: 30+ Differences Compared - MacRumors",
-      "url": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-11/",
-      "urlToImage": "https://images.macrumors.com/t/XxB0_YS17jVmCq7FpXXpRI7bOyU=/2500x/article-new/2024/10/Apple-Watch-Series-SE-vs-Series-10-Buyers-Guide.jpg",
-      "source": "MacRumors",
-      "publishedAt": "2025-09-22T15:11:57Z",
-      "description": "Apple Watch SE začíná na ceně 249 dolarů a nabízí dostupnou, nízkonákladovou volbu pro ty, kteří mají zájem o vlastnictví chytrých hodinek od Applu. Společnost také..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Málokteří Oregonané vědí, že Tillamook je domovem špičkové letecké společnosti - Oregon Public Broadcasting",
-      "original_title": "Few Oregonians know Tillamook is home to a cutting-edge aerospace company - Oregon Public Broadcasting - OPB",
-      "url": "https://www.opb.org/article/2025/09/20/tillamook-technology-space-nasa-oregon-aerostar-kevin-tucker/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/T6LFI5FYXZBOVMOHOIWIFOUB5Q.jpg?auth=779160855f3ea832be7ba54e43dba26b9bf3a81e749ca0b13866057db97fc963&width=1200&height=675&smart=true",
-      "source": "OPB News",
-      "publishedAt": "2025-09-22T13:03:20Z",
-      "description": "Aerostar Tillamook se specializuje na výrobu high-tech textilií pro stavbu objektů, jako jsou výškové balony, neprodyšné membrány pro kosmické lodě a airbagy, které udrží vesmírná plavidla ve svisl..."
+      "description": "Varování přišlo od tří bývalých úředníků CDC, kteří nedávno s odporem rezignovali."
     },
     {
       "flag": "🌍",
@@ -274,29 +263,29 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1335x751+0+139/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3c%2F6a9e67f74ec3b3b59ba1c47e3a69%2Flynn-milam6-cropped.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-22T10:00:00Z",
-      "description": "Nové chirurgicky implantované zařízení velikosti fazole pomáhá kontrolovat revmatoidní artritidu nereagující na léky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Qualcomm a MediaTek údajně zaplatily TSMC až o 24 procent více za Snapdragon 8 Elite Gen 5 a Dimensity 9500 kvůli zvýšeným cenám waferů",
-      "original_title": "Qualcomm, MediaTek Have Reportedly Paid TSMC Up To 24 Percent More For The Snapdragon 8 Elite Gen 5 & Dimensity 9500 Due To Increased Wafer Prices - Wccftech",
-      "url": "https://wccftech.com/qualcomm-and-mediatek-paid-tsmc-up-to-24-percent-higher-for-their-3nm-chipsets/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/Snapdragon-8-Elite-Gen-5-and-Dimensity-9500.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2025-09-22T05:35:00Z",
-      "description": "TSMC si údajně účtuje vyšší cenu za svou 3nm technologii N3P, Qualcomm a MediaTek prý zaplatili až o 24 procent více"
+      "description": "Nové chirurgicky implantované zařízení velikosti fazole dokáže pomoci kontrolovat revmatoidní artritidu, která nereaguje na léky."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Světový den Alzheimeru: Jak jsme pokročili v hledání léčby",
+      "title": "Světový den Alzheimerovy choroby: Jak jsme pokročili v hledání léčby",
       "original_title": "World Alzheimer's Day: Here's How Far We've Come in Search of a Cure - ScienceAlert",
       "url": "https://www.sciencealert.com/world-alzheimers-day-heres-how-far-weve-come-in-search-of-a-cure",
       "urlToImage": "https://www.sciencealert.com/images/2025/09/alzheimers_day_header.jpg",
       "source": "ScienceAlert",
       "publishedAt": "2025-09-22T01:29:59Z",
-      "description": "Po desetiletích neúspěšného výzkumu dávají dva nové léky a průlomový krevní test pacientům s Alzheimerem naději v boji s tímto zničujícím onemocněním – stále však panují pochybnosti o jejich účinno..."
+      "description": "Po desetiletích neúspěšného výzkumu dávají dvě nové léky a průlomový krevní test pacientům s Alzheimerem naději v boji s tímto zničujícím onemocněním – otázky ohledně jejich účinnosti však zůstávají."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Sonda Curiosity pořídila dechberoucí snímky marsovské krajiny",
+      "original_title": "Curiosity rover snaps breathtaking photos of the Martian landscape - Mashable",
+      "url": "https://mashable.com/article/nasa-mars-curiosity-peace-vallis-images",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07GPEltzKFOfHeU4EbwpBys/hero-image.fill.size_1200x675.v1758228115.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-20T22:13:27Z",
+      "description": "Podívejte se na línou řeku."
     }
   ]
 }
