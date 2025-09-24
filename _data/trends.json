@@ -1,35 +1,35 @@
 {
-  "updated": "2025-09-24T09:27:51.067318",
+  "updated": "2025-09-24T12:53:56.382885",
   "trends": [
     {
       "rank": 1,
       "query": "claudia cardinale",
-      "news_title": "Zemřela Claudia Cardinale, hvězda filmů Gepard a Tenkrát na Západě",
-      "news_url": "https://www.theguardian.com/film/2025/sep/23/claudia-cardinale-dies",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToAxiBl91ZpHDMT85WU4unZFyIT879H1AQjdfBeR64wMvfbkaZEOM2yXmuzdU",
+      "news_title": "Zemřela Claudia Cardinale, herečka a symbol Itálie. Bylo jí 87 let.",
+      "news_url": "https://www.nytimes.com/2025/09/23/movies/claudia-cardinale-dead.html",
+      "picture": "",
       "traffic": "10000++ hledání",
-      "source": "The Guardian",
+      "source": "The New York Times",
       "explore_url": "https://trends.google.cz/trends/explore?q=claudia cardinale&geo=CZ"
     },
     {
       "rank": 2,
+      "query": "jedna bitva za druhou",
+      "news_title": "Leonardo DiCaprio svádí v lese jednu bitvu za druhou",
+      "news_url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-schovava-se-v-lese-neveri-nikomu-a-nicemu-leonardo-dicaprio-svadi-jednu-bitvu-za-druhou-40540018",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ2sLsxQ9WqJXWEKjk-9z8WCRUK3Q5IknnjrY4vFk3YkxkArlMKLaOiegfaAw",
+      "traffic": "2000++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jedna bitva za druhou&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "james van der beek",
-      "news_title": "Zničily mě dva žaludeční viry. Přišel jsem o vytoužený večer s Michelle Williams.",
+      "news_title": "Večer, na který jsem se těšila od ledna, mi zhatily dva žaludeční viry",
       "news_url": "https://www.instagram.com/p/DO4eN1dDnxa/",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdmLmspjd_nYb3FmVF1YDKRXyR8147QsbJhzKEeb0zk5NFRj-9e7mdOUOMWtg",
       "traffic": "500++ hledání",
       "source": "Instagram",
       "explore_url": "https://trends.google.cz/trends/explore?q=james van der beek&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "jeddah – al nassr",
-      "news_title": "Jeddah Club vs Al-Nassr 0:4. Vysoká výhra v King's Cupu.",
-      "news_url": "https://www.vavel.com/en-us/soccer/2025/09/23/1234810-jeddah-club-vs-al-nassr-live-updates-saudi-kings-cup.html",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxDZD2nkQxfNyRBv4UStZyINZ1X-eY-anpAEdYeZNR5IfSD7XKPqZ0siB6gmY",
-      "traffic": "500++ hledání",
-      "source": "VAVEL.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=jeddah – al nassr&geo=CZ"
     },
     {
       "rank": 4,
@@ -44,17 +44,17 @@
     {
       "rank": 5,
       "query": "brigitte bardot",
-      "news_title": "Brigitte Bardot odhalí svůj \"BBcédaire\" 1. října",
-      "news_url": "https://www.bfmtv.com/replay-emissions/culture-et-vous/video-signe-bfm-feminisme-sagesse-fidelite-brigitte-bardot-devoile-son-b-bcedaire-le-1er-octobre_VN-202509220146.html",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxY_7huPNXlc3H2SqdDnI4U-CM67qEeMA1EuEKkXZV0KmkL_ToBL9fggVHgNs",
+      "news_title": "Opusťte nákupy, adoptujte! Naše kampaň za adopci zvířat.",
+      "news_url": "https://www.fondationbrigittebardot.fr/abandonnez-lidee-dacheter-adoptez-notre-campagne-en-faveur-de-ladoption/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2faDCdoMFNaSJiFTxDaRCl5RiQILBSUARztiLV0Pu6o9MqtqKHArwbV8HYWI",
       "traffic": "200++ hledání",
-      "source": "BFMTV",
+      "source": "Fondation Brigitte Bardot",
       "explore_url": "https://trends.google.cz/trends/explore?q=brigitte bardot&geo=CZ"
     },
     {
       "rank": 6,
       "query": "trump",
-      "news_title": "Trump: Ukrajina by s NATO a EU mohla získat zpět celé území, možná i víc",
+      "news_title": "Trump: Ukrajina může s NATO a EU získat zpět celé území, možná i víc",
       "news_url": "https://www.novinky.cz/clanek/valka-na-ukrajine-trump-se-setkal-zelenskym-za-mesic-pry-da-vedet-zda-veri-putinovi-40540271",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS71GXxpAEkbGQMoGUCR8Ka0ImpV-QuUQDrYlVP1Uw0IZPG7WNnUjKCCWa0ahg",
       "traffic": "200++ hledání",
@@ -64,17 +64,17 @@
     {
       "rank": 7,
       "query": "real madrid",
-      "news_title": "Levante 1-4 Real Madrid: Polémika, analýza a reakce",
-      "news_url": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-levante-real-madrid-de-laliga-ea-sports-n/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTid0B8nHGm6WEVQ4yMscgMwLZTjyrly76S3eqzqWhFkut_ASdfRP743OulWpQ",
+      "news_title": "El Clásico Real Madrid vs Barcelona se hraje 26. října",
+      "news_url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/15716332/clasico-real-madrid-barcelona-horario-26-octubre",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR65lCkhy50gvs411Yj2QzHT0Q9noWs3VflnmYQAdZmHEYzKTGoZv_ykIMyR8I",
       "traffic": "200++ hledání",
-      "source": "Diario AS",
+      "source": "ESPN Deportes",
       "explore_url": "https://trends.google.cz/trends/explore?q=real madrid&geo=CZ"
     },
     {
       "rank": 8,
       "query": "леванте – реал мадрид",
-      "news_title": "Levante - Real Madrid, španělský šampionát, 6. kolo",
+      "news_title": "Levante - Real Madrid: Španělská LaLiga, 6. kolo",
       "news_url": "https://matchtv.ru/football/spain/matchtvvideo_NI2244688_translation_Levante___Real_Chempionat_Ispanii_Tur_6",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OeY8ZhVTNLMZfZ8LE56Xi7vLxaRJ0YUvfn-f7DwHTm5kH7Im12fkt-5dSyY",
       "traffic": "200++ hledání",
