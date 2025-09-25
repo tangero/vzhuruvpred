@@ -1,27 +1,82 @@
 {
-  "last_updated": "2025-09-25T04:22:02",
+  "last_updated": "2025-09-25T05:17:48",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Obří dohoda Nvidie s Open AI vyvolává obavy z „cirkulárního“ financování",
-      "original_title": "Nvidia’s Massive OpenAI Deal Fuels ‘Circular’ Financing Concerns - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-23/nvidia-s-massive-openai-deal-fuels-circular-financing-concerns",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_PeDg_8p2yI/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-24T03:48:00Z",
-      "description": "Tři roky poté, co OpenAI a Nvidia Corp. pomohly odstartovat globální šílenství kolem umělé inteligence, obě firmy spojily síly, aby uvolnily cestu nákladnější fázi vývoje, což rychle obnovilo obavy..."
+      "title": "Zvláštní volby do Sněmovny v Arizoně mohou být bodem zlomu pro zveřejnění Epsteinových spisů",
+      "original_title": "Arizona special House election could be a tipping point on releasing the Epstein files - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/arizona-special-election-house-tipping-point-releasing-epstein/story?id\\\\u003d125859777",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-24T06:11:15Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump kritizuje ABC za návrat Kimmela",
-      "original_title": "Trump slams ABC for bringing Kimmel back - The Hill",
-      "url": "https://thehill.com/homenews/5518887-trump-slams-abc-kimmel-return/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/09/AP25261559058411.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2025-09-24T03:02:00Z",
-      "description": "Prezident Trump v úterý večer tvrdě kritizoval ABC za opětovné uvedení komika Jimmyho Kimmela do vysílání poté, co byla minulý týden jeho talkshow stažena z programu, a naznačil možnost podniknutí ..."
+      "title": "Indie v obchodních jednáních s USA žádá přístup pro pracovníky po úderu na víza H-1B",
+      "original_title": "India Seeks Access for Workers in US Trade Talks After H-1B Blow - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-23/india-seeks-people-access-in-us-trade-talks-after-h-1b-visa-row",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idzsnY_iiRy4/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-24T04:27:00Z",
+      "description": "Indičtí úředníci požádají tento týden americké obchodní vyjednavače o usnadnění přístupu tisícům kvalifikovaných pracovníků, uvedla osoba obeznámená s touto záležitostí několik dní poté, co prezide..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump odsuzuje Kimmelův návrat: „Otestujeme na tom ABC“",
+      "original_title": "Trump slams Kimmel's return: \"We're going to test ABC out on this\" - Axios",
+      "url": "https://www.axios.com/2025/09/24/trump-jimmy-kimmel-return-abc",
+      "urlToImage": "https://images.axios.com/LxmdVJG15uMFpRfdYaWEQVYmpww=/0x0:1920x1080/1366x768/2025/09/24/1758684983652.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-24T03:55:54Z",
+      "description": "Trump tvrdil, že ABC oznámila úředníkům Bílého domu, že pořad Jimmyho Kimmela byl zrušen."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Muž usvědčený z pokusu o zabití Trumpa se v soudní síni pokusil pobodat",
+      "original_title": "Man found guilty of trying to kill Trump attempts to stab himself in court - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/09/23/ryan-routh-guilty-verdict/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2QO2JDBGUCPGOMRR6VDWGYL2Y_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-24T03:47:51Z",
+      "description": "Porota na federálním soudě na Floridě se radila o obviněních méně než tři hodiny, než vynesla vinypro Ryana Wesleyho Routha."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpův ohromující obrat v postoji k Ukrajině nadchl bojovné republikány",
+      "original_title": "Trump's stunning pivot on Ukraine thrills hawkish Republicans - Axios",
+      "url": "https://www.axios.com/2025/09/23/republicans-trump-ukraine-russia-war",
+      "urlToImage": "https://images.axios.com/x5wzDcgfMhk5KgV_KLBldO6r3EI=/0x0:5862x3297/1366x768/2025/09/23/1758659929350.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-24T03:10:32Z",
+      "description": "Klíčoví republikánští představitelé pro otázky zahraniční politiky rychle podpořili prezidentovo nově nabyté sebevědomí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Asie čeká mírný začátek obchodování, Powell nechce předbíhat: přehled trhů",
+      "original_title": "Asia Poised for Muted Start as Powell Holds Back: Markets Wrap - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-23/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG_v5W9CoJZE/v0/1200x675.png",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-24T03:01:00Z",
+      "description": "Asijské akcie mírně posílily poté, co čínské technologické akcie vyskočily poté, co společnost Alibaba Group Holding Ltd. slíbila zvýšit investice do umělé inteligence."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Téměř dva miliony lidí evakuováno před smrtícím tajfunem Ragasa, který udeřil na jižní Čínu, 14 obětí na Tchaj-wanu",
+      "original_title": "Nearly two million relocated as deadly Typhoon Ragasa slams into southern China, 14 dead in Taiwan - CNN",
+      "url": "https://www.cnn.com/2025/09/23/asia/typhoon-ragasa-hong-kong-southern-china-impact-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236449085.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-24T02:26:00Z",
+      "description": "Téměř dva miliony lidí byly evakuovány z jihočínských velkoměst, zatímco silný tajfun udeřil na jedno z nejhustěji obydlených pobřeží na světě. Předtím způsobil smrtící záplavy na Tchaj-wanu, kde j..."
     },
     {
       "flag": "🌍",
@@ -32,40 +87,18 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/179176_EM209402.jpg?w=1024",
       "source": "Deadline",
       "publishedAt": "2025-09-24T02:01:00Z",
-      "description": "Výsledky 2. týdne Hvězdy tancují: Kdo opustil parket v noci dvojnásobné eliminace"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump v OSN: Škrty v americkém financování, válka v Gaze a globální střety",
-      "original_title": "Trump at United Nations: US funding cuts, Gaza war and global showdowns - Fox News",
-      "url": "https://www.foxnews.com/live-news/trump-unga-2025-live-updates-gaza-ukraine-us-funding",
-      "urlToImage": "https://livenews.foxnews.com/images/2025/09/6aad91963f54928ca152c75aa22ce07c.jpg",
-      "source": "Fox News",
-      "publishedAt": "2025-09-24T01:45:48Z",
-      "description": "Živé zpravodajství z New Yorku: Prezident Donald Trump se vrací na tribunu Valného shromáždění OSN 2025, zatímco debatu ovládají škrty v americkém financování, válka v Gaze, Ukrajina a globální bod..."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Kyjev může získat celou Ukrajinu zpět od Ruska, říká Trump",
-      "original_title": "Kyiv can win all of Ukraine back from Russia, Trump says - BBC",
-      "url": "https://www.bbc.com/news/articles/c07vm35rryeo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-24T01:00:34Z",
-      "description": "Americký prezident řekl, že Ukrajina může s podporou NATO a Evropy získat zpět území, což představuje zásadní obrat v jeho postoji."
+      "description": "Tanec s hvězdami 2. týden: Kdo vypadl večer s dvojitou eliminací?"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Futures na Dow Jones rostou, Micron má silné výsledky poté, co akcie klesly kvůli vyjádřením šéfa Fedu Powella",
-      "original_title": "Dow Jones Futures Rise, Micron Earnings Strong After Stocks Fall On Powell Comments - Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-slides-powell-stock-prices-micron-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-04-gov.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-24T00:05:00Z",
-      "description": "Šéf Fedu Jerome Powell v úterý řekl, že „ceny akcií jsou poměrně vysoko“."
+      "title": "Asteroid může v roce 2032 zasáhnout Měsíc; vědci zvažují jaderné řešení",
+      "original_title": "Asteroid could hit the moon in 2032; scientists eye nuclear option - NewsNation",
+      "url": "https://www.newsnationnow.com/space/asteroid-2024-yr4-moon-2032/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/02/67be127446a5b0.30325950.jpeg?w=1280",
+      "source": "Newsnationnow.com",
+      "publishedAt": "2025-09-23T23:41:07Z",
+      "description": "Taková srážka by mohla mít zničující následky pro satelity a astronauty ve vesmíru, což skupinu vědců přimělo vypracovat plány, jak jí zabránit."
     },
     {
       "flag": "🇺🇸",
@@ -76,23 +109,12 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4H7SMJGAQSUN5A2QSTEY27O2KU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-23T23:26:44Z",
-      "description": "Žalobci Mezinárodního trestního soudu obviňují Rodriga Duterteho ze zločinů proti lidskosti během jeho vlády v souvislosti s brutálním tažením proti drogám."
+      "description": "Žalobci Mezinárodního trestního soudu obviňují Rodriga Duterteho ze zločinů proti lidskosti během jeho vlády kvůli brutálnímu boji proti drogám."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "OpenAI staví pět nových datových center Stargate s Oracle a SoftBankem",
-      "original_title": "OpenAI is building five new Stargate data centers with Oracle and SoftBank - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2194585046.jpg?w=1024",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-23T22:24:17Z",
-      "description": "OpenAI buduje masivní datová centra pro trénování a provoz stále výkonnějších modelů AI."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "‚Velmi znepokojivé‘: Lékařské asociace reagují na Trumpovo tvrzení, že Tylenol souvisí s autismem",
+      "title": "‚Velmi znepokojující‘: Lékařské asociace reagují na Trumpovo tvrzení o souvislosti Tylenolu s autismem",
       "original_title": "'Highly concerning': Major medical groups react to Trump's claim that Tylenol is linked to autism - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/Health/highly-major-medical-groups-react-trumps-claim-tylenol/story?id\\\\u003d125868302",
       "urlToImage": null,
@@ -101,26 +123,15 @@
       "description": ""
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "DJI oznamuje mini akční kameru Osmo Nano – zprávy GSMArena.com",
-      "original_title": "DJI announces Osmo Nano mini action camera - GSMArena.com news - GSMArena.com",
-      "url": "https://www.gsmarena.com/dji_announces_osmo_nano_mini_action_camera-news-69635.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/09/dji-osmo-nano/-952x498w6/gsmarena_000.jpg",
-      "source": "GSMArena.com",
-      "publishedAt": "2025-09-23T22:00:02Z",
-      "description": "Má magnetický, nositelný design s odnímatelnou dokovací stanicí. Společnost DJI představila novou akční kameru Osmo Nano. Nano je ultra kompaktní nositelná..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump říká, že by NATO mělo sestřelovat ruská letadla při narušení vzdušného prostoru",
-      "original_title": "Trump Says NATO Should Down Russian Aircraft in Breaches - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-23/trump-says-nato-allies-should-down-russian-aircraft-in-breaches",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRYh6A0PuGf0/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-23T21:10:46Z",
-      "description": "Trump: Státy NATO by měly sestřelovat ruská letadla porušující jejich vzdušný prostor"
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "GoPro představuje nový gimbal s AI sledováním pro chytré telefony a akční kamery",
+      "original_title": "GoPro has a new AI-tracking gimbal that works with smartphones and action cameras - Mashable",
+      "url": "https://mashable.com/article/gopro-fluid-pro-ai-tracking-gimbal-announced",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05q6NpUYyUX4uaOokwknrj6/hero-image.fill.size_1200x675.v1758663701.png",
+      "source": "Mashable",
+      "publishedAt": "2025-09-23T22:10:09Z",
+      "description": "Fluid Pro AI lze používat s akčními kamerami GoPro a telefony."
     },
     {
       "flag": "🌍",
@@ -131,29 +142,7 @@
       "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/06/202506030500MCT_____PHOTO____US-NEWS-HEALTH-PREGNANT-COVID-BOOSTERS-GET.jpg?w=1024&h=682",
       "source": "Sun Sentinel",
       "publishedAt": "2025-09-23T21:00:00Z",
-      "description": "Po týdnech frustrace, kdy se diskutovalo o federálních a státních pokynech, mohou nyní obyvatelé Floridy získat vakcínu proti covidu-19 v několika velkých lékárnách."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Změny víz H-1B mohou dát Kanadě příležitost. Využije ji?",
-      "original_title": "H-1B visa changes may give Canada an opportunity. Will it seize it? - BBC",
-      "url": "https://www.bbc.com/news/articles/cx27lj39e99o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/381f/live/ad907870-9899-11f0-9b4d-3db5bd560027.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-23T20:45:03Z",
-      "description": "Americká změna víz může ženout talenty na sever, experti ale varují, že kanadský imigrační systém má své vlastní problémy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dokážeme atomovkou zničit asteroid 2024 YR4 zabiják měst, než zasáhne Měsíc — ale musíme jednat rychle, varuje nová studie",
-      "original_title": "We could nuke 'city killer' asteroid 2024 YR4 before it hits the moon — if we act fast, new study warns - Live Science",
-      "url": "https://www.livescience.com/space/asteroids/we-could-nuke-city-killer-asteroid-2024-yr4-before-it-hits-the-moon-if-we-act-fast-new-study-warns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qU8WB3dZ8Xr4m2Er7YxeRa.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-23T20:12:30Z",
-      "description": "Asteroid 2024 YR4, který by mohl zničit město, má malou šanci zasáhnout Měsíc v roce 2032. V nové studii vědci zkoumají možnosti jeho zničení – možná jadernými zbraněmi – dříve, než se příliš přibl..."
+      "description": "Po týdnech frustrace, kdy se diskutovalo o federálních a státních pokynech, mohou nyní obyvatelé Floridy získat vakcínu proti covidu v několika velkých lékárnách."
     },
     {
       "flag": "🌍",
@@ -164,23 +153,23 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/835037d/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2F1a%2F9521cd836da24141b387382024c7%2Feb7c95b48d8d42f2a05e4f3491e436b4",
       "source": "Associated Press",
       "publishedAt": "2025-09-23T20:04:00Z",
-      "description": "Palestinská zdravotnická organizace tvrdí, že Izrael zničil její hlavní centrum v Gaze poté, co nařídil jeho evakuaci"
+      "description": "Palestinská zdravotnická charita tvrdí, že Izrael zničil její hlavní centrum v Gaze poté, co nařídil jeho evakuaci. Společnost Palestinian Medical Relief Society uvedla, že izraelský útok její šest..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "YouTube obnoví účty uživatelů zablokovaných za dezinformace o volbách 2020 a covidu",
-      "original_title": "YouTube to Reinstate Users Banned for Misinformation About 2020 Election and COVID - Variety",
-      "url": "https://variety.com/2025/digital/news/youtube-reinstate-channels-banned-election-covid-misinformation-1236527333/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/04/YouTube.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-23T19:52:00Z",
-      "description": "YouTube brzy umožní tvůrcům, kteří byli dříve zabanováni kvůli nyní zrušeným pravidlům obsahu, návrat na platformu. Týká se to i těch, kteří šířili dezinformace o amerických prezidentských volbách ..."
+      "title": "Před vynesením rozsudku se Combsovi právníci dovolávají, že si již dost odseděl",
+      "original_title": "Ahead of sentencing, ‘Diddy’ attorneys argue he has served enough time behind bars - PBS",
+      "url": "https://www.pbs.org/newshour/nation/ahead-of-sentencing-diddy-attorneys-argue-he-has-served-enough-time-behind-bars",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/10/2024-09-18T230643Z_532101855_RC233AA6GKQK_RTRMADP_3_PEOPLE-SEAN-COMBS-1024x683.jpg",
+      "source": "PBS",
+      "publishedAt": "2025-09-23T18:59:11Z",
+      "description": "Právníci hudebního magnáta Seana „Diddyho Combse žádají soudce o uložení trestu odnětí svobody v maximální délce 14 měsíců"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "První řada k dějinám: Mise Artemis 2 k Měsíci by mohla odstartovat už 5. února",
+      "title": "První řada pro sledování historie: mise Artemis 2 k Měsíci by mohla odstartovat už 5. února",
       "original_title": "'A front-row seat to history': NASA's Artemis 2 moonshot could launch as early as Feb. 5 - Space",
       "url": "https://www.space.com/space-exploration/artemis/a-front-row-seat-to-history-nasas-artemis-2-moonshot-could-launch-as-early-as-feb-5",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/DdrU3KQYMhszGuHBVGC7TQ.jpg",
@@ -191,84 +180,29 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Případy odolných „nočních můr bakterií“ v USA přibývají, tvrdí výzkumníci z CDC",
+      "title": "Případy odolné „noční můry bakterií“ přibývají v USA, uvádějí výzkumníci CDC",
       "original_title": "Cases of drug-resistant \"nightmare bacteria\" are rising in the U.S., CDC researchers say - CBS News",
       "url": "https://www.cbsnews.com/news/nightmare-bacteria-drug-resistant-cases-increase-cdc-report/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/23/9b026f89-bc1b-46f2-bb5d-66bda19784a2/thumbnail/1200x630/b0fee2297c4e912fca114acab17f64e6/gettyimages-458608835.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-23T18:27:04Z",
-      "description": "Vládní vědci uvádějí, že míra infekcí způsobených rezistentními \"nočními můrami bakteriemi\" dramaticky roste."
+      "description": "Vládní vědci uvádějí, že míra nákazy rezistentními \"nočními můrami bakterií\" dramaticky roste."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Žena usvědčená z podvodu s Gracelandem byla odsouzena na téměř pět let federálního vězení",
-      "original_title": "Woman convicted in Graceland fraud scheme sentenced to nearly 5 years in federal prison - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/woman-convicted-graceland-fraud-scheme-sentenced-5-years/story?id\\\\u003d125855456",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-23T17:12:33Z",
-      "description": ""
+      "title": "DeSantis nabízí Trumpovi pozemek v Miami pro prezidentskou knihovnu",
+      "original_title": "DeSantis offers Miami land for Trump’s presidential library - Politico",
+      "url": "https://www.politico.com/news/2025/09/23/desantis-offers-miami-land-for-trumps-presidential-library-00576535",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7f%2F44%2F4b6988684ef1b561f682137993b4%2Ftrump-immigration-45220.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-23T17:54:37Z",
+      "description": "Místo na Miami Dade College přibližuje Floridu k její první prezidentské knihovně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump se rozhodl pro centrum Miami pro svou prezidentskou knihovnu",
-      "original_title": "Trump settles on downtown Miami for his presidential library - NBC News",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-downtown-miami-dade-presidential-library-freedom-tower-rcna233235",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250923-miami-freedom-tower-mn-1245-8a55ab.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-23T17:12:03Z",
-      "description": "Budoucí prezidentská knihovna Donalda Trumpa bude umístěna v centru Miami na místě vybraném mimo jiné pro jeho blízkost k Freedom Tower."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Podívejte se, jak si texaské univerzity vedly v žebříčku nejlepších vysokých škol amerického časopisu U.S. News pro rok 2026",
-      "original_title": "See how Texas universities ranked on U.S. News' 2026 Best Colleges list - Houston Chronicle",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/education/article/us-news-world-report-2026-rankings-21061579.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/47/16/51/27060819/5/rawImage.jpg",
-      "source": "Houston Chronicle",
-      "publishedAt": "2025-09-23T16:50:30Z",
-      "description": "U.S. News & World Report jmenoval univerzitu Rice nejlepší národní univerzitou v Texasu v žebříčku Best Colleges pro rok 2026."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Samsungův další velký update pro Android stále uniká, přináší více AI a vibrace Liquid Glass - 9to5Google",
-      "original_title": "Samsung’s next big Android update keeps leaking with more AI and Liquid Glass vibes - 9to5Google",
-      "url": "http://9to5google.com/2025/09/23/samsung-one-ui-8-5-leaks-liquid-glass-ai-features/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-38.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-23T16:50:00Z",
-      "description": "Další úniky informací o nadcházející aktualizaci One UI 8.5 od Samsungu na Androidu 16 odhalují více prvků Liquid Glass a AI funkcí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump ruší schůzku s demokraty, hrozba odstávky se zvyšuje",
-      "original_title": "Trump cancels meeting with Democrats as prospects for shutdown increase - NPR",
-      "url": "https://www.npr.org/2025/09/23/g-s1-90051/trump-shutdown-democrats",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3777x2125+0+183/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2F71%2Fab2e12e64671babff83ebae80253%2Fgettyimages-2219672318.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-23T16:30:23Z",
-      "description": "Trump zrušil schůzku s demokraty o rozpočtu, nazval jejich požadavky „neseriózní“. Demokrati tvrdí, že se vyhnul konfrontaci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trailer k filmu ‚Nevěsta‘: Christian Bale je Frankenstein a Jessie Buckley jeho oživená nevěsta v drsné hororu Maggie Gyllenhaalové",
-      "original_title": "‘The Bride’ Trailer: Christian Bale Is Frankenstein and Jessie Buckley His Reanimated Bride in Maggie Gyllenhaal’s Gritty Horror - Variety",
-      "url": "https://variety.com/2025/film/news/the-bride-trailer-christian-bale-frankenstein-jessie-buckley-1236275150/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/frankenstein.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-23T16:06:00Z",
-      "description": "Sledujte trailer k filmu Maggie Gyllenhaalové Frankensteinova nevěsta s Jessiem Buckleyovou a Christianem Balem v hlavních rolích."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dva očekávané slabiny iPhonu Air jsou nyní překvapivě skvělé - 9to5Mac",
+      "title": "Dvě očekávané slabiny iPhonu Air jsou nyní překvapivě skvělé - 9to5Mac",
       "original_title": "Two expected iPhone Air ‘weaknesses’ now look surprisingly great - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/23/two-expected-iphone-air-weaknesses-now-look-surprisingly-great/",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-air-blue-model.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -279,46 +213,68 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Velká revoluce proti Alzheimerově chorobě: „Poprvé v dějinách lidstva se podařilo zpomalit průběh nemoci“",
+      "title": "Velká revoluce proti Alzheimerově chorobě: ‚Poprvé v dějinách lidstva se podařilo zpomalit průběh nemoci‘",
       "original_title": "The great revolution against Alzheimer’s: ‘It’s the first time in human history that we’ve managed to slow the disease’ - EL PAÍS English",
       "url": "https://english.elpais.com/science-tech/2025-09-23/the-great-revolution-against-alzheimers-its-the-first-time-in-human-history-that-weve-managed-to-slow-the-disease.html",
       "urlToImage": "https://imagenes.elpais.com/resizer/v2/RAGWFIDQZFHADBVHYF6O2CEMMM.jpg?auth=0a85fa85d8f502d7e61899d2c519f56aef05dfa76f6d173865df95c8bcd10693&width=1200",
       "source": "EL PAÍS",
       "publishedAt": "2025-09-23T15:18:31Z",
-      "description": "Vědecká revize zkoumá pokrok v oboru a řeší kontroverzi kolem nových léků, zpochybňovaných kvůli jejich ceně a skromné účinnosti."
+      "description": "Vědecká revize zkoumá pokroky v oboru a řeší kontroverzi kolem nových léků, zpochybňovaných kvůli jejich ceně a skromné účinnosti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Letiště v Kodani bylo na několik hodin uzavřeno kvůli velkým, neidentifikovaným dronům létajícím v okolí",
-      "original_title": "Copenhagen Airport shut down for hours by large, unidentified drones flying nearby - CBS News",
-      "url": "https://www.cbsnews.com/news/copenhagen-airport-drones-interference-amid-russia-nato-incursions/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/23/09c4d753-9fa7-40b7-abde-82cbf2064e11/thumbnail/1200x630/a8bf3b554820e08c6f254716c7a2d4f9/copenhagen-airport-drones-2236307416.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-23T06:58:29Z",
-      "description": "Všechny lety do a z dánského letiště v Kodani byly na několik hodin pozastaveny poté, co policie nahlásila dvě až tři velká drony v okolí."
+      "title": "Akcie Nvidie: Úrovně cen, které je třeba sledovat po dohodě čipového giganta s OpenAI za 100 miliard dolarů",
+      "original_title": "Nvidia Stock Price Levels to Watch After Chip Giant's $100 Billion Deal With OpenAI - Investopedia",
+      "url": "https://www.investopedia.com/nvidia-stock-price-levels-to-watch-after-chip-giant-usd100-billion-deal-with-openai-11815140",
+      "urlToImage": "https://www.investopedia.com/thmb/EVD8orLS2sxzecsJORobkeC-Kr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NVDAChart-caf11312f3c74225856d9e986569c44a.GIF",
+      "source": "Investopedia",
+      "publishedAt": "2025-09-23T13:51:31Z",
+      "description": "Akcie Nvidie ztrácely v úvodním obchodování v úterý poté, co zaznamenaly největší jednodenní procentní zisk od července. Důvodem je zpráva, že se oblíbená AI společnost chystá investovat až 100 mil..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "RFK Jr. letí naslepo do další pandemie s nezkušenými poradci pro očkování",
+      "title": "Nejmenší akční kamera od DJI začne nahrávat, když přikývnete",
+      "original_title": "DJI’s smallest action camera will start recording when you nod - The Verge",
+      "url": "https://www.theverge.com/news/781827/dji-osmo-nano-4k-action-camera-multifunctional-vision-dock",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/dji_osmonano1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-23T12:00:00Z",
+      "description": "DJI Osmo Nano dnes startuje s 4K videem a dokovací stanicí s dotykovým displejem, v USA však zatím k dispozici nebude."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "8 nových funkcí, které přijdou na telefony Samsung Galaxy s One UI 8.5",
+      "original_title": "8 new features coming to your Samsung Galaxy phones with One UI 8.5 - Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-phones-new-upcoming-features-one-ui-8-5-3600158/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Flip-7-home-screen-One-UI-8.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-09-23T09:33:35Z",
+      "description": "Rychlý přehled nejzajímavějších nových funkcí, které čekají telefony Galaxy s aktualizací One UI 8.5"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "RFK Jr. letí naslepo do další epidemie s ‚zelenáči‘ mezi poradci pro očkování",
       "original_title": "RFK Jr. ‘Flying Blind’ Into Next Outbreak With ‘Rookie’ Vaccine Advisors - The Daily Beast",
       "url": "https://www.thedailybeast.com/rfk-jr-flying-blind-into-next-outbreak-with-rookie-vaccine-advisors/",
       "urlToImage": "https://www.thedailybeast.com/resizer/v2/7SPEAAJ2FJFW3AKCEUXSUBW4CA.jpg?smart=true&auth=56b88fa6523c015229f92e1f21bb40b9e908fc9311d2d3f22eda0ab51b20f65f&width=1200&height=630",
       "source": "Daily Beast",
       "publishedAt": "2025-09-22T21:58:00Z",
-      "description": "Varování pochází od tří bývalých úředníků CDC, kteří nedávno s odporem rezignovali."
+      "description": "Varování přišlo od tří bývalých úředníků CDC, kteří nedávno s odporem rezignovali."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Tyto hračky mohou podle veterinářů skutečně zlepšit kognitivní schopnosti vašeho psa",
-      "original_title": "These Toys Can Actually Improve Your Dog's Cognitive Abilities, According To Vets - HuffPost",
-      "url": "https://www.huffpost.com/entry/best-dog-puzzle-toys-ud_l_68cf35ede4b09420f3fc16fc",
-      "urlToImage": "https://img.huffingtonpost.com/asset/66cfe57d24000039008107d8.jpeg?cache=Ejdy8Zqlmm&ops=1200_630",
-      "source": "HuffPost",
-      "publishedAt": "2025-09-22T11:00:17Z",
-      "description": "Tyto oblíbené hračky prospívají nejen psímu žaludku, ale i mozku."
+      "flag": "🌍",
+      "country": "global",
+      "title": "‚Naprosto nevysvětlitelné‘: Teleskop Jamese Webba našel v atmosféře Saturnu podivné ‚temných perel‘",
+      "original_title": "'Completely unexplained': James Webb telescope finds strange 'dark beads' in Saturn's atmosphere - Live Science",
+      "url": "https://www.livescience.com/space/completely-unexplained-james-webb-telescope-finds-strange-dark-beads-in-saturns-atmosphere",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jhbG2Tg4d7n5wDrLSDwssA.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-09-22T11:00:00Z",
+      "description": "Korálky se objevují nad vířícím šestiúhelníkovým tryskovým prouděním na severním pólu plynného obra a mohly by vznikat interakcemi mezi jeho magnetosférou a atmosférou."
     }
   ]
 }
