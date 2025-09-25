@@ -1,120 +1,153 @@
 {
-  "last_updated": "2025-09-25T06:28:18",
+  "last_updated": "2025-09-25T07:18:43",
   "articles": [
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Speciální volby do Sněmovny v Arizoně mohou být zlomové pro zveřejnění Epsteinových dokumentů",
-      "original_title": "Arizona special House election could be a tipping point on releasing the Epstein files - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/arizona-special-election-house-tipping-point-releasing-epstein/story?id\\\\u003d125859777",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-24T06:11:15Z",
-      "description": ""
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Demokraté zvolbou v Arizoně dále snížili většinu republikánů v Sněmovně reprezentantů",
+      "original_title": "Democrats further narrow GOP’s House majority with Arizona special election win - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/23/arizona-special-election-7th-district-adelita-grijalva/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJ5GIIOUCMEI2HYVTP6TIYJISI_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-24T06:11:00Z",
+      "description": "Adelita Grijalvaová je očekávanou vítězkou voleb do Kongresu na místo po svém otci, čímž se ještě ztenčí již tak historicky těsná většina republikánů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Indie v obchodních jednáních s USA usiluje o přístup pro pracovníky po úderu pro H-1B",
-      "original_title": "India Seeks Access for Workers in US Trade Talks After H-1B Blow - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-23/india-seeks-people-access-in-us-trade-talks-after-h-1b-visa-row",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idzsnY_iiRy4/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-24T04:27:00Z",
-      "description": "Indičtí úředníci požádají tento týden americké obchodní vyjednavače o usnadnění přístupu tisícům kvalifikovaných pracovníků, uvedla osoba obeznámená s touto záležitostí několik dní poté, co prezide..."
+      "title": "Experiment Giants s Russelem Wilsonem je u konce – startování Jaxsona Darta je správný krok pro budoucnost",
+      "original_title": "The Giants' Russell Wilson experiment is over — starting Jaxson Dart right move for the future - SNY",
+      "url": "https://sny.tv/articles/giants-jaxson-dart-start-russell-wilson-experiment-over",
+      "urlToImage": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/blt18fecf4b3efed1e9/68d2fa65efd7124ff76e50ec/jaxson_dart_USATSI_26865530.jpg?format=jpg&quality=75&fit=bounds&width=1296&height=729",
+      "source": "SNY.tv",
+      "publishedAt": "2025-09-24T05:42:01Z",
+      "description": "Russell Wilson byl původní plán. Nový plán: Budoucnost potkává přítomnost. Giants v neděli proti Chargers nasadí Jaxsona Darta."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpovo fičko s vízy H-1B se mu vymstí",
+      "original_title": "Trump’s H-1B visa caper will backfire - Financial Times",
+      "url": "https://www.ft.com/content/9fc8f69e-52dc-4552-bcde-e39eb6b0df84",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa26da67d-ad2d-42d1-bdd5-867345cb65f7.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-24T04:00:40Z",
+      "description": "Tento krok ukazuje, jak málo prezident chápe, co dělá americkou ekonomiku tak úspěšnou"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump kritizuje Kimmelův návrat: „Otestujeme si na tom ABC“",
+      "title": "Trump odsoudil Kimmelův návrat: „Otestujeme si na tom ABC“",
       "original_title": "Trump slams Kimmel's return: \"We're going to test ABC out on this\" - Axios",
       "url": "https://www.axios.com/2025/09/24/trump-jimmy-kimmel-return-abc",
       "urlToImage": "https://images.axios.com/LxmdVJG15uMFpRfdYaWEQVYmpww=/0x0:1920x1080/1366x768/2025/09/24/1758684983652.jpg",
       "source": "Axios",
       "publishedAt": "2025-09-24T03:55:54Z",
-      "description": "Trump tvrdil, že ABC oznámila úředníkům Bílého domu, že pořad Jimmyho Kimmela byl zrušen."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Muž usvědčený z pokusu o atentát na Trumpa se v soudní síni pokusil bodnout",
-      "original_title": "Man found guilty of trying to kill Trump attempts to stab himself in court - The Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2025/09/23/ryan-routh-guilty-verdict/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2QO2JDBGUCPGOMRR6VDWGYL2Y_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-24T03:47:51Z",
-      "description": "Porota u federálního soudu na Floridě se radila o vině Ryana Wesleyho Routha necelé tři hodiny."
+      "description": "Trump tvrdil, že ABC sdělila úředníkům Bílého domu, že pořad Jimmyho Kimmela byl zrušen."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpův překvapivý obrat v postoji k Ukrajině nadchl prozbrojenecké republikány",
-      "original_title": "Trump's stunning pivot on Ukraine thrills hawkish Republicans - Axios",
-      "url": "https://www.axios.com/2025/09/23/republicans-trump-ukraine-russia-war",
-      "urlToImage": "https://images.axios.com/x5wzDcgfMhk5KgV_KLBldO6r3EI=/0x0:5862x3297/1366x768/2025/09/23/1758659929350.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-24T03:10:32Z",
-      "description": "Klíčoví představitelé Republikánské strany pro otázky zahraniční politiky rychle podpořili prezidentovu nově nabytou sebedůvěru."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Asie čeká mírný začátek obchodování, Powellova opatrnost drží trhy na uzdě",
+      "title": "Asie čeká mírný začátek obchodování, Powell se drží zpátky: přehled trhů",
       "original_title": "Asia Poised for Muted Start as Powell Holds Back: Markets Wrap - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-09-23/stock-market-today-dow-s-p-live-updates",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG_v5W9CoJZE/v0/1200x675.png",
       "source": "Bloomberg",
       "publishedAt": "2025-09-24T03:01:00Z",
-      "description": "Asijské akcie mírně posílily poté, co akcie technologických firem v Číně vyskočily poté, co společnost Alibaba Group Holding Ltd. slíbila zvýšit investice do umělé inteligence."
+      "description": "Asijské akcie mírně posílily poté, co čínské technologické akcie vyskočily poté, co společnost Alibaba Group Holding Ltd. slíbila zvýšit investice do umělé inteligence."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Téměř dva miliony lidí evakuováno, smrtící tajfun Ragasa udeřil na jih Číny, 14 mrtvých na Tchaj-wanu",
+      "title": "Téměř dva miliony lidí evakuováno před smrtícím tajfunem Ragasa, který udeřil na jih Číny, 14 mrtvých na Tchaj-wanu",
       "original_title": "Nearly two million relocated as deadly Typhoon Ragasa slams into southern China, 14 dead in Taiwan - CNN",
       "url": "https://www.cnn.com/2025/09/23/asia/typhoon-ragasa-hong-kong-southern-china-impact-intl-hnk",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236449085.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-24T02:26:00Z",
-      "description": "Téměř dva miliony lidí byly evakuovány z jihočínských velkoměst, když silný tajfun udeřil na jedno z nejhustěji obydlených pobřeží na světě. Než se tajfun stočil do Číny, způsobil na Tchaj-wanu smr..."
+      "description": "Téměř dva miliony lidí byly evakuovány z jihočínských megaměst, protože k pobřeží s nejhustším osídlením na světě míří silný tajfun, který již na Tchaj-wanu způsobil smrtící záplavy – více než sto ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‘Dancing With The Stars’ posílá domů dva páry; Podívejte se, který pár Derek Hough označil za „silné partnerství“",
+      "title": "Dva páry končí v soutěži ‚Dancing With The Stars‘. Derek Hough o jednom z nich prohlásil, že jde o výjimečné partnerství",
       "original_title": "‘Dancing With The Stars’ Sends Two Couples Home; See Who Derek Hough Declared “A Powerhouse Partnership” - Deadline",
       "url": "http://deadline.com/2025/09/dancing-with-the-stars-week-two-results-who-went-home-1236554023/",
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/179176_EM209402.jpg?w=1024",
       "source": "Deadline",
       "publishedAt": "2025-09-24T02:01:00Z",
-      "description": "Výsledky 2. týdne Tance s hvězdami: Kdo opustil soutěž v noci dvojité eliminace?"
+      "description": "Výsledky 2. týdne Hvězdy tančí: Kdo vypadl v noci dvojité eliminace?"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Asteroid by mohl zasáhnout Měsíc v roce 2032; vědci zvažují jaderné řešení",
-      "original_title": "Asteroid could hit the moon in 2032; scientists eye nuclear option - NewsNation",
-      "url": "https://www.newsnationnow.com/space/asteroid-2024-yr4-moon-2032/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/02/67be127446a5b0.30325950.jpeg?w=1280",
-      "source": "Newsnationnow.com",
-      "publishedAt": "2025-09-23T23:41:07Z",
-      "description": "Taková srážka by mohla mít zničující následky pro satelity a astronauty ve vesmíru, což skupinu vědců přimělo vypracovat plány, jak jí zabránit."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Bývalý filipínský prezident Duterte obviněn z vraždy u Mezinárodního trestního soudu",
-      "original_title": "Duterte, former Philippines president, charged with murder at ICC - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/09/23/rodrigo-duterte-icc-murder-charge-crimes-against-humanity/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4H7SMJGAQSUN5A2QSTEY27O2KU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-23T23:26:44Z",
-      "description": "Žalobci Mezinárodního trestního soudu obviňují Rodriga Duterteho ze zločinů proti lidskosti během jeho vlády v rámci brutálního boje proti drogám."
+      "title": "Tvůrce seriálu ‚Alien: Zrození‘ Noah Hawley o finálovém cliffhangeru a plánech na druhou řadu",
+      "original_title": "‘Alien: Earth’ Creator Noah Hawley on That Finale Cliffhanger and Season 2 Plan - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/alien-earth-finale-noah-hawley-season-2-interview-1236377913/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/AE_108_PBR-1406-0936r-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-24T01:10:58Z",
+      "description": "Showrunner o závěrečných momentech první série a jejich dopadu na budoucnost seriálu: \"Tyhle děti netuší, co je čeká."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‚Velmi znepokojující‘: Hlavní lékařské skupiny reagují na Trumpovo tvrzení, že Tylenol souvisí s autismem",
+      "title": "Asijské trhy sledují poklesy na Wall Street poté, co šéf amerického Fedu naznačil, že akcie jsou nadhodnocené",
+      "original_title": "Asia markets track Wall Street declines after U.S. Fed chair suggests stocks are overvalued - CNBC",
+      "url": "https://www.cnbc.com/2025/09/24/asia-markets-nikkei-225-nifty-50-kospi.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189994-1756078681534-gettyimages-626017422-_elx1096.jpeg?v=1756171372&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-23T23:50:04Z",
+      "description": "Šéf americké centrální banky Jerome Powell rovněž naznačil, že cesta ke snižování sazeb není jasná a že banka čelí „náročné situaci“."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "NASA plánuje vyslat pilotovanou misi na Měsíc do února 2026",
+      "original_title": "NASA plans to send manned Moon mission by February 2026 - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/23/nasa-plans-to-send-manned-moon-mission-by-february-2026",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/jsc2023e016432-alt4-1758662806.webp?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-23T23:03:45Z",
+      "description": "Posádka Artemis II na Měsíci nepřistane, ale připraví půdu pro první mise s posádkou na Mars."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "iPhony možná brzy lépe spolupracují s hodinkami třetích stran",
+      "original_title": "iPhones May Soon Work Better With Third-Party Smartwatches - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/23/iphones-third-party-smartwatch-features/",
+      "urlToImage": "https://images.macrumors.com/t/JFHUpgN1n5AARh5FRBWeg0FfVXg=/2000x/article-new/2025/09/iphone-17-pro-air.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-23T22:56:47Z",
+      "description": "Apple možná pracuje na nové funkci, která by rozšířila možnosti chytrých hodinek třetích stran při připojení k iPhonu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Imigrační agent, který postřelil muže při kontrolní zastávce v Chicagu, uvedl, že zranění nebyla „nic vážného“",
+      "original_title": "Immigration agent who shot man in Chicago-area traffic stop says injuries were 'nothing major' - AP News",
+      "url": "https://apnews.com/article/chicago-ice-illinois-immigration-shooting-29eec5d07aef36b32fc8e03e8948c836",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9012808/2147483647/strip/true/crop/2567x1444+0+134/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2Fa6%2Fe7f806a4f2306774ce5e75581de0%2F7faf7f3edb054d31b62c1f0ebb654d7a",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-23T22:49:00Z",
+      "description": "Federální imigrační agent označil svá zranění za „nic závažného“ na zveřejněných záznamech z policejní kamery"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "OpenAI staví pět nových datových center Stargate s Oracle a SoftBankem",
+      "original_title": "OpenAI is building five new Stargate data centers with Oracle and SoftBank - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2194585046.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-23T22:24:17Z",
+      "description": "OpenAI buduje obří datová centra pro trénování a provoz stále výkonnějších modelů AI."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "‚Velmi znepokojivé‘: Lékařské asociace reagují na Trumpovo tvrzení, že Tylenol souvisí s autismem",
       "original_title": "'Highly concerning': Major medical groups react to Trump's claim that Tylenol is linked to autism - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/Health/highly-major-medical-groups-react-trumps-claim-tylenol/story?id\\\\u003d125868302",
       "urlToImage": null,
@@ -131,117 +164,128 @@
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/05q6NpUYyUX4uaOokwknrj6/hero-image.fill.size_1200x675.v1758663701.png",
       "source": "Mashable",
       "publishedAt": "2025-09-23T22:10:09Z",
-      "description": "Systém Fluid Pro AI lze používat s akčními kamerami GoPro a telefony."
+      "description": "Fluid Pro AI lze používat s akčními kamerami GoPro a telefony."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vakcíny proti covidu jsou na Floridě nyní dostupnější: Publix a Walgreens zpřístupnily očkování",
+      "title": "Microsoft (MSFT) dodává akciový katalyzátor prostřednictvím dohody NBIS za 17,4 miliardy dolarů",
+      "original_title": "Microsoft (MSFT) Delivers Stock Catalyst via $17.4B NBIS Deal - TipRanks",
+      "url": "https://www.tipranks.com/news/microsoft-msft-delivers-stock-catalyst-via-17-4b-nbis-deal",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/shutterstock_2672178595-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-23T21:48:01Z",
+      "description": "Na začátku měsíce uzavřel Microsoft ($MSFT) s firmou pro AI infrastrukturu Nebius ($NBIS) dohodu na AI výpočty v hodnotě 17,4 miliardy dolarů"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nový dinosaurus z Argentiny objeven s krokodýlí kostí v tlamě",
+      "original_title": "New dinosaur from Argentina discovered with a crocodile bone in its mouth - NBC News",
+      "url": "https://www.nbcnews.com/science/science-news/dinosaur-argentina-crocodile-rcna233309",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250923-dinosaur-Joaquinraptor-casali-ac-519p-e2568f.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-23T21:38:24Z",
+      "description": "Vědci objevili v Argentině nového dinosaura s mocnými drápy, který hodoval na kosti pravěkého krokodýla"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vakcíny proti covidu na Floridě jsou nyní dostupnější: Publix a Walgreens zpřístupnily očkování",
       "original_title": "COVID vaccines in Florida are now easier to get: Publix and Walgreens make shots available - Sun Sentinel",
       "url": "https://www.sun-sentinel.com/2025/09/23/covid-vaccines-in-florida-are-now-easier-to-get-publix-and-walgreens-make-shots-available/",
       "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2025/06/202506030500MCT_____PHOTO____US-NEWS-HEALTH-PREGNANT-COVID-BOOSTERS-GET.jpg?w=1024&h=682",
       "source": "Sun Sentinel",
       "publishedAt": "2025-09-23T21:00:00Z",
-      "description": "Po týdnech frustrace, zatímco se diskutovalo o federálních a státních pokynech, mohou nyní obyvatelé Floridy získat vakcínu proti covidu-19 v několika velkých lékárnách."
+      "description": "Po týdnech frustrace při projednávání federálních a státních pokynů mohou nyní obyvatelé Floridy dostat vakcínu proti covidu-19 v řadě velkých lékáren."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Izrael zničil evakuovaný zdravotní středisko v Gaze, uvádějí zdravotníci",
+      "title": "Izrael zničil evakuované zdravotní středisko v Gaze, tvrdí zdravotníci",
       "original_title": "Israel destroys evacuated health center in Gaza City, medics say - AP News",
       "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-09-23-2025-3f332c7f524dad1f3434dfb23038c87e",
       "urlToImage": "https://dims.apnews.com/dims4/default/835037d/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2F1a%2F9521cd836da24141b387382024c7%2Feb7c95b48d8d42f2a05e4f3491e436b4",
       "source": "Associated Press",
       "publishedAt": "2025-09-23T20:04:00Z",
-      "description": "Palestinská zdravotnická charita tvrdí, že Izrael zničil její hlavní centrum v Gaze poté, co nařídil jeho evakuaci"
+      "description": "Palestinská zdravotnická organizace tvrdí, že Izrael zničil její hlavní centrum v Gaze poté, co nařídil jeho evakuaci"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Před vynesením rozsudku se Combsovi právníci dovolávají, že si dost odseděl",
-      "original_title": "Ahead of sentencing, ‘Diddy’ attorneys argue he has served enough time behind bars - PBS",
-      "url": "https://www.pbs.org/newshour/nation/ahead-of-sentencing-diddy-attorneys-argue-he-has-served-enough-time-behind-bars",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/10/2024-09-18T230643Z_532101855_RC233AA6GKQK_RTRMADP_3_PEOPLE-SEAN-COMBS-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-23T18:59:11Z",
-      "description": "Právníci hudebního magnáta Seana „Diddyho Combse žádají soudce, aby ho za dva prokurátorské trestné činy odsoudil nejvýše na 14 měsíců vězení."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "První řada k výhledu na historii: Mise NASA Artemis 2 k Měsíci může odstartovat již 5. února",
-      "original_title": "'A front-row seat to history': NASA's Artemis 2 moonshot could launch as early as Feb. 5 - Space",
-      "url": "https://www.space.com/space-exploration/artemis/a-front-row-seat-to-history-nasas-artemis-2-moonshot-could-launch-as-early-as-feb-5",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DdrU3KQYMhszGuHBVGC7TQ.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-23T18:47:44Z",
-      "description": "Abychom tuto misi mohli označit za plně úspěšnou, musíme proletět kolem Měsíce, bezpečně dopravit posádku domů a přivítat je s otevřenou náručí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Případy odolné „noční můry bakterie“ přibývají v USA, tvrdí výzkumníci z CDC",
+      "title": "Případy odolné noční můry bakterií přibývají v USA, tvrdí výzkumníci CDC",
       "original_title": "Cases of drug-resistant \"nightmare bacteria\" are rising in the U.S., CDC researchers say - CBS News",
       "url": "https://www.cbsnews.com/news/nightmare-bacteria-drug-resistant-cases-increase-cdc-report/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/23/9b026f89-bc1b-46f2-bb5d-66bda19784a2/thumbnail/1200x630/b0fee2297c4e912fca114acab17f64e6/gettyimages-458608835.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-23T18:27:04Z",
-      "description": "Vládní vědci uvádějí, že míra nákaz odolnou noční můrou bakterií dramaticky roste."
+      "description": "Vládní vědci uvádějí, že míra nákazy rezistentními nočními můrami dramaticky roste."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "DeSantis nabízí Trumpovi pozemek v Miami pro prezidentskou knihovnu",
-      "original_title": "DeSantis offers Miami land for Trump’s presidential library - Politico",
-      "url": "https://www.politico.com/news/2025/09/23/desantis-offers-miami-land-for-trumps-presidential-library-00576535",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7f%2F44%2F4b6988684ef1b561f682137993b4%2Ftrump-immigration-45220.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-23T17:54:37Z",
-      "description": "Místo na Miami Dade College přibližuje Floridu k její první prezidentské knihovně."
+      "title": "Trump se rozhodl pro centrum Miami pro svou prezidentskou knihovnu",
+      "original_title": "Trump settles on downtown Miami for his presidential library - NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-downtown-miami-dade-presidential-library-freedom-tower-rcna233235",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250923-miami-freedom-tower-mn-1245-8a55ab.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-23T17:12:03Z",
+      "description": "Budoucí prezidentská knihovna Donalda Trumpa bude sídlit v centru Miami na místě vybraném mimo jiné pro jeho blízkost k Freedom Tower."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dvě očekávané slabiny iPhonu Air jsou nyní překvapivě skvělé - 9to5Mac",
-      "original_title": "Two expected iPhone Air ‘weaknesses’ now look surprisingly great - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/23/two-expected-iphone-air-weaknesses-now-look-surprisingly-great/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-air-blue-model.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-23T16:00:00Z",
-      "description": "Podle mnohých měl mít ultra tenký iPhone Air problémy s odolností a výdrží baterie, ale tyto obavy se zatím ukazují jako neopodstatněné."
+      "title": "Co jíst a pít před očkováním proti chřipce a po něm podle lékařů, sester a dietologů",
+      "original_title": "What to Eat and Drink Before and After Getting the Flu Shot, According to Doctors, Nurses and Dietitians - EatingWell",
+      "url": "https://www.eatingwell.com/what-to-eat-and-drink-before-and-after-the-flu-shot-11815468",
+      "urlToImage": "https://www.eatingwell.com/thmb/efaDnN8YU5Q85jsaGQb0Y7hfTE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-to-eat-before-and-after-getting-the-flu-shot-01-58a38415acff4a90b6add2459be9c75b.jpg",
+      "source": "Eatingwell.com",
+      "publishedAt": "2025-09-23T17:00:00Z",
+      "description": "Co jíst před očkováním proti chřipce a po něm? A kolik vody pít, abyste snížili riziko možných vedlejších účinků."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Velká revoluce v boji proti Alzheimerově chorobě: „Poprvé v dějinách lidstva se nám podařilo zpomalit postup nemoci“",
-      "original_title": "The great revolution against Alzheimer’s: ‘It’s the first time in human history that we’ve managed to slow the disease’ - EL PAÍS English",
-      "url": "https://english.elpais.com/science-tech/2025-09-23/the-great-revolution-against-alzheimers-its-the-first-time-in-human-history-that-weve-managed-to-slow-the-disease.html",
-      "urlToImage": "https://imagenes.elpais.com/resizer/v2/RAGWFIDQZFHADBVHYF6O2CEMMM.jpg?auth=0a85fa85d8f502d7e61899d2c519f56aef05dfa76f6d173865df95c8bcd10693&width=1200",
-      "source": "EL PAÍS",
-      "publishedAt": "2025-09-23T15:18:31Z",
-      "description": "Vědecká revize zkoumá pokrok v oboru a řeší kontroverzi kolem nových léků, zpochybňovaných kvůli jejich ceně a skromné účinnosti."
+      "title": "Přelet dronu nad kodaňským letištěm vyvolává obavy, zda za ním stojí Rusko",
+      "original_title": "A drone flyover above Copenhagen Airport prompts concerns that Russia was behind it - AP News",
+      "url": "https://apnews.com/article/drone-denmark-police-security-8e8119cfbc0e276cee1f37ff5ead11d8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/414da52/2147483647/strip/true/crop/5378x3025+0+255/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2Fa7%2F65fe7a804e17de2f34a0547013b8%2Fa5073c0c77794354928c85bd833cb53a",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-23T16:55:00Z",
+      "description": "Několik neidentifikovaných dronů uzavřelo vzdušný prostor nad kodaňským letištěm. Pondělní incident vyvolal obavy, že za přeletem nad největším skandinávským letištěm by mohlo stát Rusko. Policie u..."
+    },
+    {
+      "flag": "🌍",
+      "country": "fr",
+      "title": "iPhone 17 Pro a iPhone Air vynikají v ohybových testech, při pádu zůstávají křehké",
+      "original_title": "iPhone 17 Pro, iPhone Air excel in bend tests, still fragile for drop tests - AppleInsider",
+      "url": "https://appleinsider.com/articles/25/09/23/iphone-17-pro-iphone-air-excel-in-bend-tests-still-fragile-for-drop-tests",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/65209-136274-allstateiphoneairbend-xl.jpg",
+      "source": "AppleInsider",
+      "publishedAt": "2025-09-23T16:07:06Z",
+      "description": "Apple iPhone 17 Pro a iPhone Air zvládnou ohnutí, ale obrazovky jsou stále náchylné k poškození, ukazují testy AllState"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie Nvidie: Úrovně cen, které je třeba sledovat po 100miliardové dohodě čipového gigantu s OpenAI",
-      "original_title": "Nvidia Stock Price Levels to Watch After Chip Giant's $100 Billion Deal With OpenAI - Investopedia",
-      "url": "https://www.investopedia.com/nvidia-stock-price-levels-to-watch-after-chip-giant-usd100-billion-deal-with-openai-11815140",
-      "urlToImage": "https://www.investopedia.com/thmb/EVD8orLS2sxzecsJORobkeC-Kr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NVDAChart-caf11312f3c74225856d9e986569c44a.GIF",
-      "source": "Investopedia",
-      "publishedAt": "2025-09-23T13:51:31Z",
-      "description": "Akcie Nvidie ztrácely v úvodu úterního obchodování poté, co v reakci na zprávu o plánované miliardové investici do OpenAI zaznamenaly největší jednodenní procentní zisk od července. Sledujte tyto k..."
+      "title": "NATO varuje Rusko před narušováním vzdušného prostoru",
+      "original_title": "NATO warns Russia over airspace violations - DW",
+      "url": "https://www.dw.com/en/nato-warns-russia-over-airspace-violations/a-74108800",
+      "urlToImage": "https://static.dw.com/image/74073702_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-09-23T15:28:17Z",
+      "description": "Po incidentech v Polsku, Rumunsku a Estonsku varovalo NATO Rusko, že přijde veškerá nezbytná opatření na obranu svého vzdušného prostoru proti dalším narušením."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejmenší akční kamera od DJI začne nahrávat, když přikývnete",
-      "original_title": "DJI’s smallest action camera will start recording when you nod - The Verge",
-      "url": "https://www.theverge.com/news/781827/dji-osmo-nano-4k-action-camera-multifunctional-vision-dock",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/dji_osmonano1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-23T12:00:00Z",
-      "description": "DJI Osmo Nano dnes uvádí na trh s možností nahrávání 4K videa a dokovací stanicí s dotykovým displejem, ale v USA nebude okamžitě dostupné."
+      "title": "Kterých je více než 150 zemí, které uznaly Palestinu k roku 2025?",
+      "original_title": "Which are the 150+ countries that have recognised Palestine as of 2025? - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/9/23/which-are-the-150-countries-that-have-recognised-palestine-as-of-2025",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/afp_68d26c9c2785-1758620828.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-09-23T12:23:37Z",
+      "description": "Stát Palestina je uznáván jako suverénní stát 157 členskými státy OSN, což představuje 81 procent členů."
     },
     {
       "flag": "🌍",
@@ -252,12 +296,12 @@
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Flip-7-home-screen-One-UI-8.jpg",
       "source": "Android Authority",
       "publishedAt": "2025-09-23T09:33:35Z",
-      "description": "Rychlý přehled nejzajímavějších nových funkcí, které čekají telefony Galaxy po vydání aktualizace One UI 8.5."
+      "description": "Přehled nejzajímavějších nových funkcí, které čekají vaše telefony Galaxy s aktualizací One UI 8.5"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "RFK Jr. letí naslepo do další epidemie s ‚zelenáči‘ mezi poradci pro vakcíny",
+      "title": "RFK Jr. letí naslepo do další epidemie s ‚nezkušenými‘ poradci pro očkování",
       "original_title": "RFK Jr. ‘Flying Blind’ Into Next Outbreak With ‘Rookie’ Vaccine Advisors - The Daily Beast",
       "url": "https://www.thedailybeast.com/rfk-jr-flying-blind-into-next-outbreak-with-rookie-vaccine-advisors/",
       "urlToImage": "https://www.thedailybeast.com/resizer/v2/7SPEAAJ2FJFW3AKCEUXSUBW4CA.jpg?smart=true&auth=56b88fa6523c015229f92e1f21bb40b9e908fc9311d2d3f22eda0ab51b20f65f&width=1200&height=630",
@@ -266,15 +310,15 @@
       "description": "Varování přišlo od tří bývalých úředníků CDC, kteří nedávno rezignovali na protest."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "‚Naprosto nevysvětlitelné‘: Teleskop Jamese Webba objevil v atmosféře Saturnu podivné ‚temná zrna‘",
-      "original_title": "'Completely unexplained': James Webb telescope finds strange 'dark beads' in Saturn's atmosphere - Live Science",
-      "url": "https://www.livescience.com/space/completely-unexplained-james-webb-telescope-finds-strange-dark-beads-in-saturns-atmosphere",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jhbG2Tg4d7n5wDrLSDwssA.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-22T11:00:00Z",
-      "description": "Korálky se objevují nad vířícím šestiúhelníkovým tryskovým prouděním na severním pólu plynného obra a mohly by vznikat interakcemi mezi jeho magnetosférou a atmosférou."
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Sonda Curiosity pořídila dechberoucí snímky krajiny na Marsu",
+      "original_title": "Curiosity rover snaps breathtaking photos of the Martian landscape - Mashable",
+      "url": "https://mashable.com/article/nasa-mars-curiosity-peace-vallis-images",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07GPEltzKFOfHeU4EbwpBys/hero-image.fill.size_1200x675.v1758228115.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-19T09:22:13Z",
+      "description": "Podívejte se na línou řeku."
     }
   ]
 }
