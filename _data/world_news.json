@@ -1,6 +1,39 @@
 {
-  "last_updated": "2025-09-26T02:58:38",
+  "last_updated": "2025-09-26T04:21:32",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Čína zdvojnásobuje klimatické závazky v oblasti větru a slunce — den poté, co je Trump označil za ‚podvod‘",
+      "original_title": "China doubles down on climate, wind and solar pledges — a day after Trump called them a 'scam' - Politico",
+      "url": "https://www.politico.com/news/2025/09/24/china-doubles-down-on-climate-wind-and-solar-pledges-a-day-after-trump-called-them-a-scam-00579411",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F98%2F52%2F9661c9a14002b1974eaa1a4c75ea%2Fun-general-assembly-climate-summit-75839.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-25T02:10:41Z",
+      "description": "Čínský prezident Si Ťin-pching označil čistou energii za „trend naší doby“ a oznámil skromné cíle na snížení uhlíkového znečištění této ekonomické supervelmoci."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "You will be the next Charlie', Youngkin tells students",
+      "original_title": "'You will be the next Charlie', Youngkin tells students - Politico",
+      "url": "https://www.politico.com/news/2025/09/24/glenn-youngkin-charlie-kirk-students-00579230",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fc9%2Fa7%2F7c6a7584429dbcb9777af3047ba5%2Fmaryland-virginia-govs-55041.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-25T01:26:42Z",
+      "description": "Youngkin pronesl duchovně nabitý projev na mítinku Turning Point USA na Virginia Tech ve středu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Společnost Xcel se dohodla na vyrovnání ohledně požáru v Marshallu těsně před začátkem procesu v Boulderu",
+      "original_title": "Xcel settles Marshall Fire lawsuit just before trial begins in Boulder - Colorado Public Radio",
+      "url": "https://www.cpr.org/2025/09/24/xcel-energy-marshall-fire-settlement/",
+      "urlToImage": "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/220103-MARSHALL-FIRE-LOUISVILLE-HV-0012.jpg",
+      "source": "Colorado Public Radio",
+      "publishedAt": "2025-09-25T00:45:00Z",
+      "description": "Společnost Xcel Energy a dvě telekomunikační firmy dosáhly v případu požáru Marshall dohody o vypořádání."
+    },
     {
       "flag": "🌍",
       "country": "global",
@@ -10,18 +43,40 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8a13e62611c226153a63b5d8bbb8630a2657eafe/2025/09/24/843827aa-22a5-4f31-9d44-4983fc0905bf/iphone-17-pro-max-01.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-25T00:00:00Z",
-      "description": "Recenze: I když obvykle nedoporučuji upgradovat na vlajkový iPhone, pokud máte loňský model, v roce 2025 je tu jeden velmi lákavý důvod."
+      "description": "Recenze: I když obvykle nedoporučuji upgradovat na vlajkový iPhone, pokud máte loňský model, v roce 2025 je tu jeden pálivý faktor k zvážení."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump požaduje vyšetření údajného ‚trojitého sabotáže‘ v OSN",
+      "original_title": "Trump demands investigation into alleged ‘triple sabotage’ at the United Nations - CNN",
+      "url": "https://www.cnn.com/2025/09/24/politics/trump-demands-investigation-into-alleged-sabotage-united-nations",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236926909.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-24T23:37:44Z",
+      "description": "Prezident Donald Trump požaduje vyšetřování takzvaného trojitého sabotáže během své návštěvy Valného shromáždění OSN"
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Jessica Chastain se ‚nerovná‘ s rozhodnutím Applu pozastavit seriál The Savant",
+      "original_title": "Jessica Chastain 'not aligned' with Apple's decision to pause The Savant - BBC",
+      "url": "https://www.bbc.com/news/articles/c20ekkr741mo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ad93/live/d2a7a710-9988-11f0-9e39-730a918b1450.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-24T22:51:37Z",
+      "description": "Hvězda říká, že by si přála, aby seriál o vyšetřovateli, který stopuje online skupiny šířící nenávist, ‚nebyl tak aktuální‘, ale cítí, že je ‚naléhavější než kdy dřív‘."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vance ostře kritizuje ‚demokraty jako je Gavin Newsom‘ za jejich rétoriku k imigraci po střelbě v dallasém středisku ICE",
+      "title": "Vance ostře kritizuje ‚demokraty jako je Gavin Newsom‘ za jejich rétoriku k imigraci po střelbě v dallasém centru ICE",
       "original_title": "Vance blasts ‘Democrats like Gavin Newsom’ for immigration rhetoric following shooting at Dallas ICE center - Politico",
       "url": "https://www.politico.com/news/2025/09/24/vance-blasts-gavin-newsom-rhetoric-shooting-dallas-ice-center-00579489",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2Fb9%2F8f5e253442cf815114f19693b09e%2Funlimiteduse-08-26-2025-whskorea-034.JPG",
       "source": "Politico",
       "publishedAt": "2025-09-24T22:25:30Z",
-      "description": "Federální úředníci vyšetřují střelbu v Dallasu jako cílené násilí."
+      "description": "Střelba v Dallasu je federálními úřady vyšetřována jako cílený útok."
     },
     {
       "flag": "🌍",
@@ -32,7 +87,7 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7799x4387+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F5f%2F5def09bf4e489f9bb0cf0d4d6a11%2Fap25267732310797.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-24T22:06:59Z",
-      "description": "Příbuzní cestujícího, který zemřel při lednové srážce, žalují American Airlines, PSA Airlines a federální vládu. Jde o první z desítek možných žalob."
+      "description": "Family members of a passenger who died in the January collision are suing American Airlines, PSA Airlines, and the federal government. It's the first of what could be dozens of lawsuits."
     },
     {
       "flag": "🌍",
@@ -43,12 +98,12 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/24/58a6ac65-b781-432c-beb9-d066c080ed1c/thumbnail/1200x630g1/1b80b70a33f206b870a073c50dd60b4e/gettyimages-2215956767.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-24T21:58:02Z",
-      "description": "Rocki Irish Mayers se narodila 13. září, jak uvedla Rihanna v popisku na Instagramu."
+      "description": "Rocki Irish Mayers was born on Sept. 13, according to Rihanna's caption on Instagram."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nově jmenovaný americký státní zástupce se pokusí obžalovat Jamese Comeyho, ačkoli prokurátoři nenašli dostatek důvodů: Zdroje",
+      "title": "Nově jmenovaný americký žalobce se pokusí obvinit Jamese Comeyho, ačkoli prokurátoři nenalezli pravděpodobnou příčinu: Zdroje",
       "original_title": "Newly appointed US attorney will attempt to charge James Comey despite prosecutors finding no probable cause: Sources - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/Politics/newly-appointed-us-attorney-attempt-charge-james-comey/story?id\\\\u003d125906268",
       "urlToImage": null,
@@ -59,13 +114,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Soudce rozhodl, že federální vláda nemůže vyžadovat spolupráci států na migraci výměnou za peníze při katastrofách",
+      "title": "Judge rules feds can’t require states to cooperate on immigration to get disaster money",
       "original_title": "Judge rules feds can’t require states to cooperate on immigration to get disaster money - AP News",
       "url": "https://apnews.com/article/fema-immigration-trump-lawsuit-disaster-aid-ruling-a56d5d8a4573e88b8379dcd4dcf3b3e1",
       "urlToImage": "https://dims.apnews.com/dims4/default/acf2b21/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2Fbb%2Ffc9fd448237b9af3285266071780%2F86bae397ed2b4f0696d4625af2eb965f",
       "source": "Associated Press",
       "publishedAt": "2025-09-24T21:45:00Z",
-      "description": "Federální soudce rozhodl, že je protiústavní požadovat po státech spolupráci při přistěhovaleckých zásazích výměnou za financování katastrof."
+      "description": "A federal judge has ruled that it’s unconstitutional to require states to cooperate on immigration enforcement actions to get funding for disasters. A coalition of 20 state Democratic attorneys genera"
     },
     {
       "flag": "🌍",
@@ -76,51 +131,73 @@
       "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/03/GettyImages-636889720-e1741905775227.jpg",
       "source": "Federal News Network",
       "publishedAt": "2025-09-24T21:27:59Z",
-      "description": "S blížícím se termínem, do kdy má Kongres odvrátit zastavení činnosti vlády, jsou webové stránky Bílého domu, které obvykle zveřejňují havarijní plány, zcela prázdné."
+      "description": "S blížícím se termínem, do kdy má Kongres odvrátit zastavení vlády, jsou webové stránky Bílého domu, které obvykle hostí havarijní plány, zcela prázdné."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Qualcomm oznamuje Snapdragon X Elite a X Extreme pro počítače s Windows",
+      "title": "Preliminary but promising gene therapy shows 75% reduction in Huntington's disease progression - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Preliminary but promising gene therapy shows 75% reduction in Huntington's disease progression - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Health/preliminary-promising-gene-therapy-shows-75-reduction-huntingtons/story?id\\\\u003d125904128",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-24T21:24:46Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Qualcomm oznamuje Snapdragon X Elite a X2 Extreme pro počítače s Windows",
       "original_title": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs - The Verge",
       "url": "https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/SnapdragonX2EliteExtreme_InsideView-Closeup.png?quality=90&strip=all&crop=0,3.4740163241043,100,93.051967351791",
       "source": "The Verge",
       "publishedAt": "2025-09-24T21:03:25Z",
-      "description": "Qualcomm uvádí druhou generaci své vlajkové procesorové řady pro počítače ve dvou variantách: Snapdragon X2 Elite a Snapdragon X2 Elite Extreme."
+      "description": "Qualcomm uvádí druhou generaci vlajkového čipu pro PC ve dvou variantách: Snapdragon X2 Elite a Snapdragon X2 Elite Extreme."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova administrativa tlačí na soudy, aby vytvářely více ‚nového práva‘",
-      "original_title": "The Trump administration is pushing courts to make more ‘new law’ - Politico",
-      "url": "https://www.politico.com/news/2025/09/24/donald-trump-presidential-powers-cases-00579192",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fab%2F82%2F32b1ae6b4a5abdfe12f3ffca0a87%2Fun-general-assembly-53317.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-24T20:53:48Z",
-      "description": "Soudci po celé zemi jsou nuceni čelit bezprecedentním nárokům na prezidentskou moc, jaké nikdy dříve řešit nemuseli."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Gaza-bound flotilla says it was attacked by drones, as Italy and Spain send help",
+      "title": "Gaza boundská flotila tvrdí, že na ni zaútočily drony, Itálie a Španělsko posílají pomoc",
       "original_title": "Gaza-bound flotilla says it was attacked by drones, as Italy and Spain send help - AP News",
       "url": "https://apnews.com/article/israel-palestinians-gaza-flotilla-activists-5e7e0e22b2813f00a0b907fae84f9284",
       "urlToImage": "https://dims.apnews.com/dims4/default/52fc421/2147483647/strip/true/crop/6240x3510+0+325/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2Fcc%2F2dcbd3bd6b36439a594d006611fc%2F461155e172264d93a3e729d98fc53c7a",
       "source": "Associated Press",
       "publishedAt": "2025-09-24T20:50:00Z",
-      "description": "Aktivisté z flotily chtějící prolomit izraelskou blokádu Gazy tvrdí, že byly některé jejich lodě u jižního Řecka napadeny drony."
+      "description": "Aktivisté z flotily, která chce prolomit izraelskou blokádu Gazy, tvrdí, že některé jejich lodě byly v noci během plavby jižně od Řecka napadeny drony. Organizátoři flotily Global Sumud ve středu u..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dnešní Dow Jones: Akciové indexy končí nižší již druhý den po sobě; akcie technologických gigantů opět klesají; energetický sektor překonává zbytek trhu díky růstu cen ropy",
+      "title": "Dow Jones dnes: Akciové indexy končí nižší již druhý den po sobě; Akcie technologických gigantů opět klesají; Energetický sektor překonává zbytek trhu díky růstu cen ropy",
       "original_title": "Dow Jones Today: Stock Indexes End Lower for 2nd Straight Session; Shares of Tech Giants Fall Again; Energy Sector Outperforms as Oil Prices Rise - Investopedia",
       "url": "https://www.investopedia.com/dow-jones-today-09242025-11816024",
       "urlToImage": "https://www.investopedia.com/thmb/FwGkfttmH9lpqH9Z4VItSqTXpJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2231544029-fe7a74ca75964e98b693a1d90b8f77f3.jpg",
       "source": "Investopedia",
       "publishedAt": "2025-09-24T20:12:47Z",
-      "description": "Hlavní akciové indexy uzavřely nižší již druhý den v řadě po třech sezích s rekordními maximy. Technologické akcie oslabily, zatímco energetické posílily spolu s cenou ropy."
+      "description": "Hlavní akciové indexy klesaly druhý den po sobě, předtím tři sezony uzavíraly na rekordních maximech"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Měly by děti dostat na podzim vakcíny proti chřipce a covidu? Co je dobré vědět v době, kdy se některá doporučení mění.",
+      "original_title": "Should kids get flu and COVID shots this fall? Here's what to know as some vaccine guidance shifts. - CBS News",
+      "url": "https://www.cbsnews.com/news/kids-flu-covid-shots-fall-2025-vaccine-guidance-shifts/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/24/99d262db-831e-490b-bd23-5db70542a5c3/thumbnail/1200x630/d38c62ecc3343ba879fd385787e67f72/gettyimages-1417341332.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-24T20:12:00Z",
+      "description": "S příchodem podzimní respirační sezóny: Kdo by měl dostat vakcíny proti covidu a chřipce?"
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Taylor Swift oznamuje nové vinylové vydání 'The Crowd Is Your King' připravovaného alba The Life of a Showgirl",
+      "original_title": "Taylor Swift Announces New 'The Crowd Is Your King' Vinyl Edition of Upcoming Album The Life of a Showgirl - People.com",
+      "url": "https://people.com/taylor-swift-announces-the-life-of-a-showgirl-the-crowd-is-your-king-edition-11816490",
+      "urlToImage": "https://people.com/thmb/tVcKxVWCo0c7Gl0kqdN7ppcQgEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(764x337:766x339)/Taylor-swift-life-of-a-showgirl-special-edition-1-092425-f990b3924ddc4de7914c84c3779ddbb7.jpg",
+      "source": "PEOPLE",
+      "publishedAt": "2025-09-24T19:31:07Z",
+      "description": "Showgirl ví, že si některé z nejlepších triků musí nechat až na velkolepý finiš, napsala Taylor Swift k oznámení exkluzivního vydání speciálního vinylu 'The Life of a Showgirl: The Crowd Is Your Ki..."
     },
     {
       "flag": "🌍",
@@ -131,89 +208,56 @@
       "urlToImage": "https://images.axios.com/vFd7NnYpsJxCAy5VUihXNyZr5N0=/0x209:7640x4506/1366x768/2025/09/24/1758733061797.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-24T19:22:56Z",
-      "description": "Kdyby tohle řekl v prvních týdnech své vlády, tak by lidem praskly palice."
+      "description": "Kdyby tohle řekl v prvních týdnech své vlády, létaly by hlavy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova administrativa chce 10% podíl v americkém těžaři lithia, který dodává pro GM",
+      "title": "Trumpova administrativa chce desetiprocentní podíl v americkém těžaři lithia, který dodává pro GM",
       "original_title": "Trump administration wants 10% stake in American lithium miner that sells to GM - TechCrunch",
       "url": "https://techcrunch.com/2025/09/24/trump-administration-wants-10-stake-in-american-lithium-miner-that-sells-to-gm/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-543978168.jpg?resize=1200,855",
       "source": "TechCrunch",
       "publishedAt": "2025-09-24T19:22:27Z",
-      "description": "Lithium Americas požádala o drobnou změnu ve splácení půjčky, což podnítilo poslední požadavek Trumpovy administrativy na vlastní kapitál."
+      "description": "Lithium Americas požádala o malou změnu ve splácení půjčky, což podnítilo poslední požadavek Trumpovy administrativy na podíl ve firmě."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "CDC: Případy ‚nočních můr‘ mezi bakteriemi v USA přibývají",
+      "title": "YouTube umožňuje skrýt vyskakovací okna s doporučeními na konci videí",
+      "original_title": "YouTube now lets you hide recommendation pop-ups at the end of videos - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/24/youtube-now-lets-you-hide-recommendation-pop-ups-at-the-end-of-videos/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-24T19:09:49Z",
+      "description": "Rozhodnutí umožnit uživatelům skrývat závěrečné obrazovky je vítaným doplněním platformy, zvláště když mohou v některých případech zakrýt závěr videa a ztížit tak sledování děje."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "CDC: Případy ‚noční můry bakterií‘ přibývají v USA - WHIO",
       "original_title": "CDC: ‘Nightmare bacteria’ cases increasing in the US - WHIO-TV",
       "url": "https://www.whio.com/news/local/cdc-nightmare-bacteria-cases-increasing-us/OV3OMZTXO5FVLF5R43ECMSJT6M/",
       "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPUX2FE7PL5GHJT2QEKNHQTETZ4.jpg?auth=1fd39d04f4fb4f6457211ee24f2727ab425e183af2b84a52cf74ab94a9568598&width=1200&height=630&smart=true",
       "source": "WHIO",
       "publishedAt": "2025-09-24T18:51:05Z",
-      "description": "Bakterie obtížně léčitelné kvůli takzvanému genu NDM byly hlavní hybnou silou nárůstu, napsali výzkumníci z CDC v článku zveřejněném v pondělí v Annals of Internal Medicine."
+      "description": "Bakterie obtížně léčitelné kvůli takzvanému genu NDM byly hlavní hybnou silou tohoto nárůstu, napsali ve studii zveřejněné v pondělí v Annals of Internal Medicine výzkumníci z CDC."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Společnost Xcel se dohodla na vyrovnání ohledně požáru Marshall těsně před začátkem procesu v Boulderu",
-      "original_title": "Xcel settles Marshall Fire lawsuit just before trial begins in Boulder - Colorado Public Radio",
-      "url": "https://www.cpr.org/2025/09/24/xcel-energy-marshall-fire-settlement/",
-      "urlToImage": "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/220103-MARSHALL-FIRE-LOUISVILLE-HV-0012.jpg",
-      "source": "Colorado Public Radio",
-      "publishedAt": "2025-09-24T18:45:00Z",
-      "description": "Společnost Xcel Energy a dvě telekomunikační firmy dosáhly v případu požáru Marshall dohody o narovnání."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„Vesmírná spolujízda“ míří k vzdálené stanici pro pozorování kosmického počasí",
+      "title": "„Vesmírná spolujízda“ míří na vzdálenou pozorovatelnu kosmického počasí",
       "original_title": "A “cosmic carpool” is traveling to a distant space weather observation post - Ars Technica",
       "url": "https://arstechnica.com/space/2025/09/a-cosmic-carpool-is-traveling-to-a-distant-space-weather-observation-post/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250916-PH-SPX01_0001large-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-24T18:42:57Z",
-      "description": "„Je to jako s autobusem. Čekáte na jeden a pak přijedou tři najednou.“…"
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Rusko rozšíří agresi za Ukrajinu, pokud nebude zastaveno, varuje Zelenskyj",
-      "original_title": "Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns - BBC",
-      "url": "https://www.bbc.com/news/articles/c5yg921rjrko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c21b/live/26839050-995d-11f0-928c-71dbb8619e94.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-24T18:22:17Z",
-      "description": "Ukrajinský prezident na půdě OSN: Vladimir Putin bude válku dál rozšiřovat a prohlubovat"
+      "description": "„Je to jako s autobusem. Čekáš na jeden a pak přijedou tři najednou.“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie biotechnologické společnosti vyskočily o 240 % kvůli možnému léku na Huntingtonovu chorobu",
-      "original_title": "Biotech Stock Launches 240% On Possible Huntington's Cure - Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/uniqure-stock-huntingtons-disease-gene-therapy/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/02/Stock-drugTest-09-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-24T17:56:00Z",
-      "description": "Genová terapie firmy zpomalila progresi onemocnění o 75 % za tři roky."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump (ne)ukončil „sedm neskončitelných válek“. Jak si vedou?",
-      "original_title": "Checking in on the ‘seven un-endable wars’ Trump did (not) end - CNN",
-      "url": "https://www.cnn.com/2025/09/24/world/seven-unendable-wars-trump-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236922660.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-24T17:36:58Z",
-      "description": "Americký prezident Donald Trump se ve svém projevu v OSN prakticky nominoval na Nobelovu cenu míru"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "‚Jsme připraveni na každý scénář.‘ Astronauti NASA z mise Artemis 2 jsou podle svých slov připraveni na historický let k Měsíci",
+      "title": "Jsme připraveni na každý scénář.\" Astronauti z mise NASA Artemis 2 tvrdí, že jsou připraveni na historický let k Měsíci",
       "original_title": "'We are ready for every scenario.' NASA's Artemis 2 astronauts say they're all set for historic flight to the moon - Space",
       "url": "https://www.space.com/space-exploration/artemis/we-are-ready-for-every-scenario-nasas-artemis-2-astronauts-say-theyre-all-set-for-historic-flight-to-the-moon",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/eKzA4zxUzjPoFrBCvV9WPS.jpg",
@@ -224,29 +268,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "DWTS: Dvojitá eliminace v podání páté porotkyně. Jedna hvězda dojata zážitkem, dvě musí pryč.",
-      "original_title": "DWTS 5th Judge Double Elimination: One Star Touched by Experience, Two Stars Booted - TooFab",
-      "url": "https://toofab.com/2025/09/24/dancing-with-the-stars-dwts-recap-one-hit-wonders-double-elimination/",
-      "urlToImage": "https://images.toofab.com/image/bf/16by9/2025/09/24/bf7b5cbd1b5d4c59b669f0f71dc21a15_xl.jpg",
-      "source": "TooFab",
-      "publishedAt": "2025-09-24T16:30:00Z",
-      "description": "Téma druhého týdne StarDance bylo \"Jediní hvězdní\", ale na konci večera pořad opustily dvě celebrity."
+      "title": "Bude Trump žalovat ABC kvůli Jimmymu Kimmelovi? Proč jsou tvrzení o ‚nezákonných příspěvcích‘ nepravdivá",
+      "original_title": "Will Trump Sue ABC Over Jimmy Kimmel? Why Claims About ‘Illegal Contributions’ Are False - Forbes",
+      "url": "https://www.forbes.com/sites/alisondurkee/2025/09/24/trump-threatens-lawsuit-over-abc-resuming-kimmel-heres-why-his-claims-about-campaign-finance-law-are-false/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d421df87bc631497792926/0x0.jpg?format=jpg&crop=3607,2028,x0,y228,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-09-24T17:03:16Z",
+      "description": "Jakékoli poznámky Jimmyho Kimmela proti Trumpovi jsou výslovně chráněny „mediální výjimkou“ v zákoně o financování kampaní, tvrdí právní experti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "YouTube vám nyní umožní skrýt otravné závěrečné obrazovky",
-      "original_title": "YouTube will now let you hide those pesky end screens - The Verge",
-      "url": "https://www.theverge.com/news/784774/youtube-end-screen-videos-hide",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK092_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-24T16:25:45Z",
-      "description": "YouTube zavádí možnost skrýt koncové obrazovky, které často zakrývají obsah doporučení na konci videa."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Pomůže poplatek 100 000 dolarů za víza H-1B od Trumpovy administrativy Američanům získat práci?",
+      "title": "Pomůže poplatek 100 000 dolarů za H-1B od Trumpovy administrativy Američanům získat práci?",
       "original_title": "Will the Trump administration's $100,000 H-1B fee help Americans get jobs? - CBS News",
       "url": "https://www.cbsnews.com/news/h-1b-visa-new-fee-immigration-impact-american-workers/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/23/05013afa-d587-4103-9e8e-bd856e54b433/thumbnail/1200x630/6dfa2b010fe5d9274b981a0a834eca30/gettyimages-2200407223.jpg",
@@ -257,35 +290,46 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie Micron klesají navzdory vlně zvýšení cílových cen po zprávě",
-      "original_title": "Micron Stock Slides Despite Flurry Of Price-Target Hikes After Report - Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/micron-stock-mu-flurry-price-target-hikes/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/Stock-Micron-SanJoseCa-co.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-24T14:47:00Z",
-      "description": "Vedoucí společnost na trhu paměťových čipů Micron oznámila lepší než očekávané čtvrtletní výsledky a optimistický výhled. Akcie Micron však ve středu oslabily."
+      "title": "Trumpův projev v OSN není k smíchu, jak ukazuje řeč těla",
+      "original_title": "Trump's UN speech no laughing matter as body language shows - DW",
+      "url": "https://www.dw.com/en/trumps-un-speech-no-laughing-matter-as-body-language-shows/a-74121719",
+      "urlToImage": "https://static.dw.com/image/74112098_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-09-24T15:11:36Z",
+      "description": "Když Donald Trump poprvé vstoupil na globální politickou scénu, ne všichni ho brali vážně. Reakce světových lídrů na jeho projev na Valném shromáždění OSN ukazuje změnu přístupu, říká odborník na ř..."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Lenacapavir: Průlomová dohoda otevírá cestu k levnějším injekcím proti HIV/AIDS",
+      "title": "Lenacapavir: Přelomová dohoda otevírá cestu k levnějším injekcím proti HIV/AIDS",
       "original_title": "Lenacapavir: Landmark deal paves way for cheaper HIV/ Aids protection jab - BBC",
       "url": "https://www.bbc.com/news/articles/cgmzn8802d7o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/171d/live/eb1faa10-9936-11f0-ab4d-5f8ffff7227b.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-24T13:23:53Z",
-      "description": "Lék – injekce podávaná dvakrát ročně – snižuje současné náklady na léčbu HIV v rozvojových zemích."
+      "description": "Lék ve formě dvakrát ročně aplikované injekce snižuje současné náklady na léčbu HIV v rozvojových zemích."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova administrativa mění doporučení pro očkování proti covidu a nemocem dětí – a tohle to pro vás znamená",
-      "original_title": "The Trump administration is changing Covid, childhood vaccine recommendations – here’s what it means for you - CNBC",
-      "url": "https://www.cnbc.com/2025/09/24/how-to-get-covid-mmrv-hepatitisb-vaccines.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201445-17583084142025-09-19t183852z_22372390_rc25vgaswnuv_rtrmadp_0_usa-health-vaccine.jpeg?v=1758308460&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-24T13:00:01Z",
-      "description": "Podle zdravotních expertů mohou Američané podniknout kroky, jak se řídit novými doporučeními a zajistit vakcíny pro sebe či své děti."
+      "title": "Ryder Cup 2025: Středeční tréninkové skupiny na Bethpage Black",
+      "original_title": "Ryder Cup 2025: Wednesday Practice Groups at Bethpage Black - Ryder Cup",
+      "url": "https://www.rydercup.com/news-media/ryder-cup-2025--all-the-practice-groups-at-bethpage-black",
+      "urlToImage": "https://res.cloudinary.com/rydercup-prod/rydercup/editorial/news/Scottie-Scheffler-Practice-Rounds-Hero.jpg",
+      "source": "RyderCup.com",
+      "publishedAt": "2025-09-24T11:15:00Z",
+      "description": "Ryder Cup 2025: Středeční tréninkové skupiny na Bethpage Black"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Týden 2 v „StarDance“: Robert Irwin tančí tango k vrcholu během Noci jednorázových hitů",
+      "original_title": "‘Dancing With the Stars’ Week 2: Robert Irwin Tangos to the Top on One Hit Wonder Night - TheWrap",
+      "url": "https://www.thewrap.com/dancing-with-the-stars-week-2-elimination-one-hit-wonder-night/",
+      "urlToImage": "https://www.thewrap.com/wp-content/uploads/2025/09/dancing-with-the-stars-robert-irwin-witney-carson-disney.jpeg",
+      "source": "TheWrap",
+      "publishedAt": "2025-09-24T02:00:09Z",
+      "description": "Dvě páry byly v drtivé dvojité eliminaci v úterý večer poslány domů, když hvězdy tančily na věčné hity."
     },
     {
       "flag": "🌍",
@@ -296,18 +340,18 @@
       "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/02/67be127446a5b0.30325950.jpeg?w=1280",
       "source": "Newsnationnow.com",
       "publishedAt": "2025-09-23T23:41:07Z",
-      "description": "Taková srážka by mohla mít pro satelity a astronauty ve vesmíru zničující následky, což skupinu vědců přimělo vypracovat plány, jak jí zabránit."
+      "description": "Taková srážka by mohla mít zničující následky pro satelity a astronauty ve vesmíru, což skupinu vědců přimělo vypracovat plány, jak jí zabránit."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Z hlubokých moří až do dalekého vesmíru: Absolvent lékařské školy UVM byl vybrán mezi nové astronauty NASA",
+      "title": "Z hlubokých moří až do dalekého vesmíru: Absolvent lékařské fakulty UVM byl vybrán mezi nové astronauty NASA",
       "original_title": "From deep seas to far space: UVM Medical School alum chosen as one of NASA’s next astronauts - VTDigger",
       "url": "http://vtdigger.org/2025/09/23/from-deep-seas-to-far-space-uvm-medical-school-alumna-chosen-as-one-of-nasas-next-astronauts/",
       "urlToImage": "https://vtdigger.org/wp-content/uploads/2025/09/Imelda-Muller-crop.jpg",
       "source": "vtdigger.org",
       "publishedAt": "2025-09-23T19:33:44Z",
-      "description": "Imelda Mullerová vystudovala Larner College of Medicine a poté působila jako potápěčská lékařka u amerického námořnictva. Nyní začne dvouletý výcvikový program, aby se mohla stát účastnicí vesmírný..."
+      "description": "Imelda Mullerová vystudovala Larnerovu lékařskou fakultu a poté působila jako zdravotní důstojnice na ponorkách u amerického námořnictva. Nyní začne dvouletý výcvikový program, aby se mohla zúčastn..."
     }
   ]
 }
