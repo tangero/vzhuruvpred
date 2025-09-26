@@ -1,15 +1,15 @@
 {
-  "updated": "2025-09-26T03:34:48.642713",
+  "updated": "2025-09-26T06:37:21.355351",
   "trends": [
     {
       "rank": 1,
-      "query": "fc barcelona",
-      "news_title": "Joan García se po gólu proti Oviedu zbavil velkého tlaku.",
-      "news_url": "https://www.marca.com/futbol/barcelona/2025/09/25/barcelona-vs-oviedo-valoracion-comentarios.html",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAEEtOdJKqcPgqQno82t8Lm52DXYrG31sq07HxHdvih4rmBB64atvOU9E2ndg",
+      "query": "volby 2025",
+      "news_title": "Lhůta pro vyžádání voličských průkazů končí dnes odpoledne.",
+      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-odpoledne-skonci-lhuta-pro-pisemne-vyzadani-volicskych-prukazu-287086",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRQ_OpyXVKn3VRuTSAF-8qBpH_YnagQyiaXat79hPeN5skuyn7IyxjJMY2h3Q",
       "traffic": "500++ hledání",
-      "source": "MARCA",
-      "explore_url": "https://trends.google.cz/trends/explore?q=fc barcelona&geo=CZ"
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=volby 2025&geo=CZ"
     },
     {
       "rank": 2,
@@ -23,8 +23,18 @@
     },
     {
       "rank": 3,
+      "query": "barcelona",
+      "news_title": "Barcelona se vyhnula velkému zaváhání",
+      "news_url": "https://www.marca.com/futbol/primera-division/cronica/2025/09/25/barcelona-evita-susto-gordo.html",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH_lqR9EaRdxr00VMA3samACpVkl7iUw9QbQWceuHmvdhFhqSs5o4cnJKKPPE",
+      "traffic": "500++ hledání",
+      "source": "MARCA",
+      "explore_url": "https://trends.google.cz/trends/explore?q=barcelona&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "starosuchdolská restaurace",
-      "news_title": "Ano, šéfe! v pražském Suchdole propadlo, majitelka s hodnocením nesouhlasí",
+      "news_title": "Ano, šéfe! v Suchdole propadlo, majitelka s hodnocením nesouhlasila",
       "news_url": "https://www.idnes.cz/hobby/domov/zdenek-pohlreich-ano-sefe-2025-starosuchdolska-restaurace-praha.A250924_004022_hobby-domov_mce",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTZg8XQ5AKKtVxcOi37aqGE5hwbmnNC1xsuxOKLN1gR07pempT-udi-ifex_s",
       "traffic": "500++ hledání",
@@ -32,27 +42,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=starosuchdolská restaurace&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "volby 2025",
-      "news_title": "Co strany slibují změnit ve školství po volbách",
-      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-velky-prehled-co-planuji-strany-po-volbach-zmenit-ve-skolach-286857",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoBkq3yAsBJoPIIYteBsOkzJrF86WbHwg5n5uQEi9dZTB9cq-9c9JJ1MsfTtc",
-      "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=volby 2025&geo=CZ"
-    },
-    {
       "rank": 5,
-      "query": "ozempic",
-      "news_title": "Mikrodávkování ozempicu: výhra, nebo risk?",
-      "news_url": "https://www.vogue.cz/clanek/beauty/health-fitness/margaux-anbouba/taji-vsichni-ze-mikrodavkuji-ozempic",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRj9spE_IFlDly5RZNBPYIu4gIrU0qWVRa_y9gIvABBIm27pdecZfSesOySV20",
-      "traffic": "200++ hledání",
-      "source": "Vogue CS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ozempic&geo=CZ"
-    },
-    {
-      "rank": 6,
       "query": "billy vigar",
       "news_title": "Bývalý hráč Arsenalu Billy Vigar zemřel po zranění mozku",
       "news_url": "https://www.theguardian.com/football/2025/sep/25/billy-vigar-chichester-and-former-arsenal-player-dies-after-sustaining-brain-injury",
@@ -62,24 +52,34 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=billy vigar&geo=CZ"
     },
     {
+      "rank": 6,
+      "query": "volby",
+      "news_title": "ANO s nejhorším výsledkem od ledna",
+      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-pruzkum-ukazal-nejhorsi-vysledek-ano-od-ledna-40540668",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHADRUDTHwKoLrElrx5BWVtuS-orKBm-9Ufpqv8nhTGqT9kY_3rmuXtdvzN-M",
+      "traffic": "100++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=volby&geo=CZ"
+    },
+    {
       "rank": 7,
-      "query": "aston villa – bologna",
-      "news_title": "Aston Villa 1-0 Bologna: John McGinn scores winner in Europa League but Ollie Watkins misses penalty",
-      "news_url": "https://www.bbc.com/sport/football/live/cre5597rwxdt",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQf8EgtGP-ONUjXrdJpHAs5Si_rH93BBGMoCTAji_2AnPyKYcvrv_DSmFmy3eo",
-      "traffic": "200++ hledání",
+      "query": "cnn",
+      "news_title": "Bývalý ředitel FBI James Comey obviněn ze dvou trestných činů",
+      "news_url": "https://www.bbc.com/news/articles/cy50ggv35zpo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2dbq1K9zKnNfuuxeKd-GNdaxULafONAR5-bpS6nxVL4mExS3lKU14bU6TLzg",
+      "traffic": "100++ hledání",
       "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=aston villa – bologna&geo=CZ"
+      "explore_url": "https://trends.google.cz/trends/explore?q=cnn&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "cnn",
-      "news_title": "U.S. Attorney Races to Present Case Against James Comey",
-      "news_url": "https://www.nytimes.com/2025/09/24/us/politics/james-comey-indictment.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUe4K4haERa4P4nZUB4QN06W_g7DEWykihuTfGdN4zXZUkjPJGt3wjLRJcoBo",
+      "query": "jawa",
+      "news_title": "Jawa prodělává desítky milionů, pomoci mají postsovětské trhy",
+      "news_url": "https://www.e15.cz/byznys/prumysl-a-energetika/jawa-prodelava-desitky-milionu-a-kupi-velkou-ztratu-pomoci-maji-i-postsovetske-trhy-1427611",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd7xpbvISG0VrtXAVVCrdcxbtbUrThfGZGHXRUZktH3AjBsGJaa_ELrjcOTZw",
       "traffic": "100++ hledání",
-      "source": "The New York Times",
-      "explore_url": "https://trends.google.cz/trends/explore?q=cnn&geo=CZ"
+      "source": "E15.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jawa&geo=CZ"
     }
   ]
 }
