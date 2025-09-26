@@ -1,60 +1,70 @@
 {
-  "updated": "2025-09-26T18:33:55.627392",
+  "updated": "2025-09-26T21:22:14.096141",
   "trends": [
     {
       "rank": 1,
-      "query": "slavia – dukla",
-      "news_title": "FOTBAL ONLINE: Slavia porazila v malém derby díky penaltě Chorého",
-      "news_url": "https://www.sport.cz/clanek/fotbal-ceska-1-liga-slavia-se-v-malem-derby-muze-dostat-do-cela-a-zatlacit-na-spartu-5301350",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbvjzktOUVqJKl0qFiSf_iWCs5fS_55KS8Oxdv969exC95024IDhPj40h8-gw",
-      "traffic": "10000++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=slavia – dukla&geo=CZ"
-    },
-    {
-      "rank": 2,
-      "query": "clash",
-      "news_title": "Clash 13: kompletní zápasová karta a harmonogram",
-      "news_url": "https://www.ruik.cz/clash-program/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbskmhwH6B2lIW_SB1gP-lKakpuBErhzyubygMa8lC6p0_FQw9BP1SUoasI08",
-      "traffic": "2000++ hledání",
-      "source": "Ruik",
-      "explore_url": "https://trends.google.cz/trends/explore?q=clash&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "xiaomi 17 pro max",
-      "news_title": "Xiaomi 17 přichází s druhým displejem a obří baterií",
-      "news_url": "https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfSfEmLQqGsAEo5ofFl-0rdKkXZkvqBfrAZxA4RwYWwVTb8ifVykKkxxPRhRw",
-      "traffic": "500++ hledání",
-      "source": "The Verge",
-      "explore_url": "https://trends.google.cz/trends/explore?q=xiaomi 17 pro max&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "al-ittihad – al nassr",
-      "news_title": "Ronaldo a Al Nassr čelí titulové zkoušce proti Al Ittihad",
-      "news_url": "https://www.sportingnews.com/in/football/news/cristiano-ronaldo-stats-today-al-nassr-vs-al-ittihad/f36d404c5ea80c7ca1165527",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEevuNfBenzre6SM8i0br4k4ltYinny_wI3p6z-l4BixGz_mTEr96WtOSjwfQ",
-      "traffic": "200++ hledání",
-      "source": "Sporting News",
-      "explore_url": "https://trends.google.cz/trends/explore?q=al-ittihad – al nassr&geo=CZ"
-    },
-    {
-      "rank": 5,
       "query": "bayern – werder",
-      "news_title": "Bayern vs. Werder Bremen | Liveticker | 5. Spieltag Bundesliga",
+      "news_title": "Bayern vs. Werder Bremen: Liveticker | 5. Spieltag Bundesliga",
       "news_url": "https://www.kicker.de/bayern-gegen-bremen-2025-bundesliga-5050786/ticker",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE3BiFkZBVI5yDAab3HP9jPGrNRqpV3yUGFg4MewVbhs44-JoEfM1fLn_aEZ8",
-      "traffic": "200++ hledání",
+      "traffic": "1000++ hledání",
       "source": "Kicker",
       "explore_url": "https://trends.google.cz/trends/explore?q=bayern – werder&geo=CZ"
     },
     {
+      "rank": 2,
+      "query": "belmondo",
+      "news_title": "Claudia Cardinale: Herecká profese mi nabídla mnoho životů",
+      "news_url": "https://www.lemonde.fr/cinema/article/2025/09/24/claudia-cardinale-au-monde-ce-metier-m-aura-offert-une-foule-de-vies_5127423_3477.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRsyc7Rs5HvPvB3fOTNNrOG1k_Y6HOx0aLdHEg4qZInsKpJ6Zd7FxuW7IB1Q",
+      "traffic": "500++ hledání",
+      "source": "Le Monde.fr",
+      "explore_url": "https://trends.google.cz/trends/explore?q=belmondo&geo=CZ"
+    },
+    {
+      "rank": 3,
+      "query": "milionari",
+      "news_title": "Táborský o výdělcích: Prozradil, za co nejvíce utrácí",
+      "news_url": "https://www.stream.cz/extra-v-terenu/miroslav-taborsky-promluvil-o-milionovych-vydelcich-herec-prozradil-za-co-nejvice-utraci-65357402",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaRTyIP2vdxz5FIBmBlcVGSdvX_uJxJXLfW74AWvB4qOScdoZdOsDYhgZO_Ok",
+      "traffic": "500++ hledání",
+      "source": "Stream.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=milionari&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "al-ittihad – al nassr",
+      "news_title": "Benzema vs Ronaldo: Exhvězdy Realu Madrid se střetly v saúdském derby",
+      "news_url": "https://www.si.com/onsi/soccer/real-madrid/legends/karim-benzema-vs-cristiano-ronaldo-real-madrid-legends-face-off-as-al-ittihad-take-on-al-nassr",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSD79556Jjgihi6SmhZ_Uy0iSYEFblZdKU5wjWM9XuqtNtBe4DNS0GSo8MSww",
+      "traffic": "500++ hledání",
+      "source": "Sports Illustrated",
+      "explore_url": "https://trends.google.cz/trends/explore?q=al-ittihad – al nassr&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "cisco",
+      "news_title": "Dodatek ED 25-03: Postupy pro core dump a vyšetřování",
+      "news_url": "https://www.cisa.gov/news-events/directives/supplemental-direction-ed-25-03-core-dump-and-hunt-instructions",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHtNv_4FZV9mLYtbKhYBCeGG7xtRtMimqtHUM7fFONUiONk1G-gkom8GUbfMQ",
+      "traffic": "200++ hledání",
+      "source": "CISA (.gov)",
+      "explore_url": "https://trends.google.cz/trends/explore?q=cisco&geo=CZ"
+    },
+    {
       "rank": 6,
+      "query": "disney+",
+      "news_title": "Říjnové novinky na Hulu a Disney+",
+      "news_url": "https://www.indiewire.com/features/general/hulu-and-disney-october-2025-1235151843/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZLkd_hg8gngIaqH4Uq--ilYYr1x5WPOA67aq3o5IMsBkBLMY6A7svZGVW3dw",
+      "traffic": "200++ hledání",
+      "source": "IndieWire",
+      "explore_url": "https://trends.google.cz/trends/explore?q=disney+&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "richard muller",
-      "news_title": "Richard Müller po letech ukázal dceru Emu, která se věnovala modelingu a studovala v Paříži",
+      "news_title": "Richard Müller ukázal dceru Emu: Věnovala se modelingu a studovala v Paříži",
       "news_url": "https://www.super.cz/clanek/celebrity-richard-muller-po-letech-ukazal-dceru-z-prvniho-manzelstvi-krasna-ema-se-venovala-modelingu-a-studovala-v-parizi-1518341",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbVG-z50UJ6I9TPFxWUgHPa932t_Jov5SuvdPX0lrzY5QKodvY22GQJ4bU9fs",
       "traffic": "200++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=richard muller&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "taylor swift",
-      "news_title": "Nejlepší párty k novému albu Taylor Swift v okolí D.C.",
-      "news_url": "https://www.washingtonpost.com/dc-md-va/2025/09/25/taylor-swift-dc-release-parties-life-of-a-showgirl/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpPNp2AL21GirId5Eu3f77cK77VfOom0m_kmyd4jSEdtKxoNYcQpbMa8vtgkE",
-      "traffic": "200++ hledání",
-      "source": "The Washington Post",
-      "explore_url": "https://trends.google.cz/trends/explore?q=taylor swift&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "kick",
-      "news_title": "Dominant zahájil CUC Primary Football League 2025",
-      "news_url": "https://www.caymancompass.com/2025/09/26/dominant-wins-kick-off-2025-cuc-primary-football-league/",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUPiRM7HMcQkvMfKnbIcqL6i_KlkL20ZPrOFsJWK6xTmdE5bg-KemtxcbBYA0",
-      "traffic": "200++ hledání",
-      "source": "Cayman Compass",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kick&geo=CZ"
+      "query": "bruce willis",
+      "news_title": "Bruce Willis a manželka spojili síly s párem z Ohia v boji proti demenci",
+      "news_url": "https://www.elkharttruth.com/lifestyles/health/bruce-willis-and-wife-team-up-with-ohio-couple-to-raise-dementia-awareness/article_44d7ba9f-81aa-5f45-85ce-49051f217511.html",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH6grQJRzM7-7aGw6rYNL0YDJIPiH7Hx679HDl-Gu5Kk31S3yx9DfmG-C6zzc",
+      "traffic": "100++ hledání",
+      "source": "The Elkhart Truth",
+      "explore_url": "https://trends.google.cz/trends/explore?q=bruce willis&geo=CZ"
     }
   ]
 }
