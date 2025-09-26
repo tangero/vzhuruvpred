@@ -1,6 +1,72 @@
 {
-  "last_updated": "2025-09-26T10:18:47",
+  "last_updated": "2025-09-26T11:15:11",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rihanna porodila třetí dítě s A$AP Rockym, holčička se jmenuje Rocki Irish",
+      "original_title": "Rihanna welcomes third child with A$AP Rocky; reveals baby girl's name is 'Rocki Irish' - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/celebrity/article/rihanna-welcomes-third-child-with-aap-rocky-reveals-baby-girls-name-is-rocki-irish-213709884.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OAAG1hjITb0.kLM20y4_lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/327719b0-998d-11f0-a73b-200864c90cee",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-25T12:17:02Z",
+      "description": "Rihanna přivítala na svět své třetí dítě."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Starbucks oznamuje výrazné uzavírání poboček a propouštění zaměstnanců",
+      "original_title": "Starbucks announces significant store closures and layoffs - CNN",
+      "url": "https://www.cnn.com/2025/09/25/food/starbucks-closures-layoffs",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1972990601-20250303123408116.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-25T11:33:12Z",
+      "description": "Starbucks podniká „výrazné kroky“ k obratu své upadající firmy, zavírá velký počet kaváren a oznamuje druhé kolo propouštění ve svém ústředí v rámci snah generálního ředitele Briana Niccola oživit ..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Záhadná drony nad Dánskem jsou hybridním útokem, říká ministr obrany",
+      "original_title": "Mystery drones over Denmark are 'hybrid attack,' defense minister says - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/International/mystery-drones-denmark-hybrid-attack-defense-minister/story?id\\\\u003d125918649",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-25T11:32:50Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Bílý dům nařídil hromadná propouštění v případě výpadku vlády",
+      "original_title": "White House directs mass firings if there is a government shutdown - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/25/government-shutdown-omb-firings-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LK2GD3Q3ADAM6TZTJM5Y4GILBE.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-25T11:25:51Z",
+      "description": "Úřad pro řízení a rozpočet ve středu večer rozeslal federálním agenturám memorandum s pokyny plánovat redukce personálu včetně propouštění."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Policista z Ohia obviněn ze střelby na těhotnou matku, žaloba tvrdí, že „bezohledně vyhrotil“ zásah",
+      "original_title": "Ohio police officer indicted in shooting death of pregnant mom \"recklessly escalated\" response, lawsuit alleges - CBS News",
+      "url": "https://www.cbsnews.com/news/takiya-young-shooting-death-pregnant-mom-lawsuit-ohio/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/03/d275156d-491e-4a70-b939-a948789a490c/thumbnail/1200x630/a614bbd5133ad5175b1c4c43773f9f7f/ap23245836225752.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-25T10:52:00Z",
+      "description": "Pozůstalost po Ta'Kii Young žalovala Blendon Township a jeho policejního šéfa kvůli jejímu srpnovému smrtelnému zastřelení na parkovišti supermarketu na předměstí Columbusu"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rusko je skutečný medvěd\": Kreml reaguje na Trumpovy výroky o Ukrajině",
+      "original_title": "\"Russia is a real bear\": Kremlin responds to Trump's Ukraine comments - Axios",
+      "url": "https://www.axios.com/2025/09/25/trump-russia-ukraine-war-tiger-bear",
+      "urlToImage": "https://images.axios.com/Gsab9Ez0iHtIpwC-m8KnqbA8vLc=/0x0:8192x4608/1366x768/2025/09/25/1758766655860.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-25T10:18:11Z",
+      "description": "Kremelský představitel naznačil, že Trump tlačil na Evropu, aby opustila ruská paliva a zvýšila prodej energií z USA."
+    },
     {
       "flag": "🇬🇧",
       "country": "gb",
@@ -13,15 +79,15 @@
       "description": "Bývalý francouzský prezident byl obviněn z využívání prostředků zesnulého libyjského vůdce plukovníka Muammara Kaddáfího."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Americké stíhačky startovaly k zachycení ruských vojenských letadel u Aljašky",
-      "original_title": "U.S. fighter jets scrambled to intercept Russian warplanes near Alaska - CBS News",
-      "url": "https://www.cbsnews.com/news/russia-planes-alaska-us-fighter-jets-intercept-bomber-fighter-jets-adiz/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/07/42bb59bf-5607-45ff-9c85-a903c7d7d3bf/thumbnail/1200x630/3bef2e89a395a5a1109ad2a9c40d507a/russia-tu-95-plane-1240508515.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-25T09:11:22Z",
-      "description": "USA opět vyslaly stíhačky k identifikaci a zachycení ruských vojenských letounů v aljašské vzdušné obranné identifikační zóně."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Co víme o podezřelém ze střelby v detenčním zařízení ICE v Dallasu",
+      "original_title": "What we know about the suspect in the ICE facility shooting in Dallas - BBC",
+      "url": "https://www.bbc.com/news/live/c8jmwmepe40t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e285/live/3364c180-99ef-11f0-928c-71dbb8619e94.png",
+      "source": "BBC News",
+      "publishedAt": "2025-09-25T09:17:14Z",
+      "description": "Nejnovější zprávy od odborníků BBC na ověřování faktů, kontrolu videí a boj proti dezinformacím."
     },
     {
       "flag": "🌍",
@@ -32,18 +98,18 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/7b6aa39/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2Fd5%2F7a115cc1189d281ae988b9e715c1%2Ffeb8daf276414b7381314779d54edfb6",
       "source": "Associated Press",
       "publishedAt": "2025-09-25T09:04:00Z",
-      "description": "Oslabený tropický cyklón Ragasa postupuje na západ podél jižního pobřeží Číny směrem k Vietnamu. Bouře zaplavila ulice a domy, připravila o elektřinu čínské ekonomické centrum v provincii Kuang-tun..."
+      "description": "Oslabený tropický cyklon Ragasa postupuje na západ podél jižního pobřeží Číny směrem k Vietnamu. Bouře zaplavila ulice a domy, způsobila výpadky elektřiny v čínské ekonomické centrále v provincii K..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Exkluzivně: Senátoři žádají velké technologické firmy o vysvětlení ohledně pracovníků s vízem H-1B a propouštění",
-      "original_title": "Exclusive | Senators Want Answers From Big Tech on H-1B Workers, Layoffs - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/h1b-visa-grassley-durbin-letter-tech-firms-8fe931e9",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-25T09:00:00Z",
-      "description": ""
+      "title": "Tříhlavý problém uvádí Trumpovo hospodářství do chaosu",
+      "original_title": "The three-headed problem throwing the Trump economy into chaos - Business Insider",
+      "url": "https://www.businessinsider.com/trump-immigration-prices-manufacturing-tariffs-america-economy-2025-9",
+      "urlToImage": "https://i.insider.com/68d42d8a57d362d375e8c82d?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-25T08:08:00Z",
+      "description": "Trump má tři priority pro americkou ekonomiku: méně imigrace, nižší ceny a více výroby. Experti tvrdí, že všechny tři najednou mít nelze."
     },
     {
       "flag": "🌍",
@@ -54,40 +120,29 @@
       "urlToImage": "https://images-prod.dazeddigital.com/1200/0-190-2046-1364/azure/dazed-prod/1420/4/1424010.jpeg",
       "source": "Dazed",
       "publishedAt": "2025-09-25T07:00:00Z",
-      "description": "Režisér v rozhovoru pro Dazed o svém dosud nejambicióznějším filmu – působivém thrilleru o otci a dceři, aktivismu, pomstě a ceně za minulost, která zůstává živá"
+      "description": "Režisér v rozhovoru pro Dazed o svém dosud nejambicióznějším filmu – velkolepém thrilleru o otci a dceři, aktivismu, pomstě a ceně za minulost, která zůstává živá"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jeden zadržený zabit, dva zranění při střelbě v zařízení ICE v Dallasu",
-      "original_title": "1 detainee killed, 2 injured in shooting at Dallas ICE facility - Axios",
-      "url": "https://www.axios.com/2025/09/24/dallas-ice-facility-shooting-injuries",
-      "urlToImage": "https://images.axios.com/tB4mZjUliriu5CVMx44D7BcvOLc=/0x241:3863x2414/1366x768/2025/09/24/1758729433283.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-25T06:56:15Z",
-      "description": "Podle místních zpráv policie našla podezřelého střelce mrtvého."
+      "title": "‚Zase ta hrozba‘: Kimmel se vyjadřuje k Trumpově reakci na jeho návrat do éteru",
+      "original_title": "‘There’s The Threat Again’: Kimmel Addresses Trump’s Reaction To His Return To Air - Forbes",
+      "url": "https://www.forbes.com/sites/siladityaray/2025/09/25/theres-the-threat-again-kimmel-addresses-trumps-reaction-to-his-return-to-air/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d4dca88cbd900d21e5b706/0x0.jpg?format=jpg&crop=1400,787,x0,y27,safe&height=900&width=1600&fit=bounds",
+      "source": "Forbes",
+      "publishedAt": "2025-09-25T06:12:30Z",
+      "description": "V úterý večer Trump označil Kimmela za „paži“ Demokratické strany a naznačil, že by mohl kvůli komediantově návratu na obrazovku podat žalobu na ABC."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Federální žalobci ve Virginii se chystají požadovat obžalobu Comeyho, tvrdí lidé obeznámení se situací",
-      "original_title": "Va. federal prosecutors preparing to seek Comey indictment, people familiar with matter say - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/24/justice-virginia-prosecutors-james-comey/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6OH4BXZEAI6VPSX2AF3TPDDFU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-25T06:46:36Z",
-      "description": "Vyšetřování se točí kolem výpovědi, kterou James B. Comey přednesl před senátním justičním výborem 30. září 2020."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Horoskop na čtvrtek 25. září 2025 - Chicago Sun",
-      "original_title": "Horoscope for Thursday, September 25, 2025 - Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/horoscopes/2025/09/25/horoscopes-today-thursday-september-25-2025",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2025-09-25T05:01:00Z",
-      "description": ""
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Průlomová genová terapie zpomaluje Huntingtonovu chorobu o 75 %",
+      "original_title": "Breakthrough Gene Therapy Slows Huntington's Disease by 75% - ScienceAlert",
+      "url": "https://www.sciencealert.com/breakthrough-gene-therapy-slows-huntingtons-disease-by-75",
+      "urlToImage": "https://www.sciencealert.com/images/2025/09/HuntingtonsTherapy.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-09-25T05:58:26Z",
+      "description": "Vědci ve Velké Británii úspěšně otestovali možnou první genovou terapii Huntingtonovy choroby na světě"
     },
     {
       "flag": "🇺🇸",
@@ -98,155 +153,100 @@
       "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09242025_cal-celebrate_210030.jpg?d=1200x630",
       "source": "The Seattle Times",
       "publishedAt": "2025-09-25T04:18:51Z",
-      "description": "Mariners po 24 letech vyhráli divizi AL West. Oslavy začínají po výhře 9:1 nad Rockies, kterou zajistily dva historické homery Cala Raleigha."
+      "description": "Poprvé za 24 let jsou Mariners šampióny AL West. Po výhře 9:1 nad Rockies, kterou zajistily dva historické homery Cala Raleigha, začala párty."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Inter Miami: Lionel Messi znovu píše historii v utkání s NYCFC",
-      "original_title": "Inter Miami: Lionel Messi makes more history in NYCFC domination - MLSsoccer.com",
-      "url": "https://www.mlssoccer.com/news/inter-miami-lionel-messi-makes-more-history-in-nycfc-domination",
-      "urlToImage": "https://images.mlssoccer.com/image/private/t_editorial_landscape_3_4_desktop/mls/ovwyjqlxyggvnof1sc1l.jpg",
-      "source": "MLSsoccer.com",
-      "publishedAt": "2025-09-25T03:20:32Z",
-      "description": "Označte další milník Lionela Messiho."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Bílý dům nařídil úřadům, aby se připravily na hromadné propouštění před možným příštím týden uzavřením vlády",
-      "original_title": "White House tells agencies to prepare for mass layoffs ahead of a potential government shutdown next week - CBS News",
-      "url": "https://www.cbsnews.com/news/white-house-trump-layoffs-omb-government-shutdown/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/23/91a64aae-b4d2-4065-b098-45808721479b/thumbnail/1200x630/d32d1d17b7bf52c687a4a61aac6e651d/gettyimages-2236335156.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-25T03:08:00Z",
-      "description": "Trumpova administrativa zvyšuje sázky, Kongres čelí blížícímu se termínu pro schválení rozpočtu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„South Park“: Trump terorizuje šéfa FCC Brendana Carra, zatímco Kyleova máma odjela do Izraele, aby vynadala Netanjahuovi",
-      "original_title": "‘South Park’: Trump Terrorizes FCC Chair Brendan Carr While Kyle’s Mom Goes to Israel to Yell at Netanyahu - Variety",
-      "url": "https://variety.com/2025/tv/news/south-park-trump-fcc-brendan-carr-israel-netanyahu-1236528745/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Screenshot-2025-09-24-at-7.42.35 PM.jpg?crop=0px%2C0px%2C1561px%2C878px&resize=1000%2C563",
-      "source": "Variety",
-      "publishedAt": "2025-09-25T03:05:00Z",
-      "description": "V páté epizodě 27. řady South Parku Donald Trump nechtěně terorizuje šéfa FCC Brendana Carra, když se snaží zbavit Satanova dítěte."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Čína, největší světový znečišťovatel ovzduší uhlíkem, oznámila nový klimatický cíl snížit emise",
-      "original_title": "China, world’s largest carbon polluting nation, announces new climate goal to cut emissions - AP News",
-      "url": "https://apnews.com/article/climate-change-plans-united-nations-urgency-131761a2089ac8a647ce40a56f1fea44",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b92de7e/2147483647/strip/true/crop/5149x2896+0+272/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0f%2Fe2%2Fa2d29b5e7849cd78082c31217da1%2Fcbdb2c086f4c4fc88bb8f12d08635faa",
+      "title": "Sean ‘Diddy’ Combs se vrací před soud týden před vynesením rozsudku",
+      "original_title": "Sean ‘Diddy’ Combs returns to court a week before he faces sentencing - AP News",
+      "url": "https://apnews.com/article/diddy-sean-combs-sentencing-9f464d3ce7804efb305d3d55bf2c6865",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7d7b28e/2147483647/strip/true/crop/3000x1688+0+320/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2Fce%2F1713f8e89181d72290fc49d10303%2Fa4d3656e95ce46d0ac3574543ce03089",
       "source": "Associated Press",
-      "publishedAt": "2025-09-25T02:10:00Z",
-      "description": "Čína, největší znečišťovatel ovzduší uhlíkem na světě, oznámila nový cíl v boji proti změně klimatu: snížit emise do roku 2035 o 7 až 10 procent."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Vízum H-1B: Americký technologický sektor se potýká s poplatky ve výši 100 000 dolarů",
-      "original_title": "H-1B visa: US tech sector scrambles in the face of $100,000 fees - BBC",
-      "url": "https://www.bbc.com/news/articles/cdjzrl9kkkmo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb12/live/828acbd0-996b-11f0-80b9-69e2e45f1309.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-25T00:11:05Z",
-      "description": "Startupy a menší firmy by mohly nést hlavní tíhu nového poplatku za víza H-1B od Trumpa a někteří se obávají, že by mohl brzdit inovace v USA."
+      "publishedAt": "2025-09-25T03:49:00Z",
+      "description": "Sean „Diddy“ Combs bude zpět u soudu týden před vynesením rozsudku"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vyzkoušel jsem iPhone 17 Pro Max a tady je jeden velký důvod pro upgrade každý rok",
+      "title": "‘South Park’ poslal Brendana Carra do nemocnice: „Obávám se, že může přijít o svobodu slova“",
+      "original_title": "‘South Park’ Puts Brendan Carr In Hospital: “I’m Afraid He May Lose His Freedom Of Speech” - Deadline",
+      "url": "http://deadline.com/2025/09/south-park-brendan-carr-in-hospital-1236555363/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Brendan-Carr-South-Park.png?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-25T02:53:00Z",
+      "description": "Po turbulentních týdnech v USA se ve středu vrátil ‚South Park‘ s novými narážkami na aktuální události."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpův projev v OSN není k smíchu, jak ukazuje řeč těla",
+      "original_title": "Trump's UN speech no laughing matter as body language shows - DW",
+      "url": "https://www.dw.com/en/trumps-un-speech-no-laughing-matter-as-body-language-shows/a-74121719",
+      "urlToImage": "https://static.dw.com/image/74112098_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-09-25T01:50:49Z",
+      "description": "Když Donald Trump poprvé vstoupil na globální politickou scénu, ne všichni ho brali vážně. Reakce světových lídrů na jeho projev na Valném shromáždění OSN ukazuje změnu v přístupu, říká odborník na..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kalifornská nejvyšší právní zástupkyně žádá přezkoumání změn pracovních víz od Trumpa",
+      "original_title": "Trump's worker visa changes prompt legal review by California's top attorney - Politico",
+      "url": "https://www.politico.com/news/2025/09/24/california-lawsuit-trump-100k-visa-fee-00579812",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffc%2Fd9%2F5306eb7943f8be6be2f26a7ae571%2Fcalifornia-attorney-general-70983.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-25T00:31:43Z",
+      "description": "Úřad generálního prokurátora uvedl, že „bedlivě sleduje“ Trumpovy změny programu víz H-1B."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vyzkoušel jsem iPhone 17 Pro Max a tohle je hlavní důvod pro upgrade z předchozího modelu",
       "original_title": "I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade - ZDNET",
       "url": "https://www.zdnet.com/article/i-tested-the-iphone-17-pro-max-and-heres-one-big-reason-for-a-year-over-year-upgrade/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/8a13e62611c226153a63b5d8bbb8630a2657eafe/2025/09/24/843827aa-22a5-4f31-9d44-4983fc0905bf/iphone-17-pro-max-01.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-25T00:00:00Z",
-      "description": "Recenze: I když obvykle nedoporučuji upgradovat na vlajkový iPhone, pokud máte loňský model, v roce 2025 je tu jeden žhavý faktor k zvážení."
+      "description": "Recenze: I když obvykle nedoporučuji upgradovat na vlajkový iPhone, pokud máte loňský model, v roce 2025 je tu jeden velmi lákavý důvod."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "ChromeOS od Googlu se příští rok spojí s Androidem a posílí AI na velkých obrazovkách",
-      "original_title": "Google's ChromeOS Will Combine With Android Next Year to Supercharge Big-Screen AI - CNET",
-      "url": "https://www.cnet.com/tech/services-and-software/googles-chromeos-will-combine-with-android-next-year-to-supercharge-big-screen-ai/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/1ebc4b5fca9e522643033d9d2d55b9e5abaceb06/hub/2025/09/24/1dc88fa1-6aab-4177-902f-d3ddb5f226c3/img-0988.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-09-24T22:39:00Z",
-      "description": "Úspěch Gemini a AI na Androidu inspiroval velkou aktualizaci ChromeOS, říká šéf Androidu Sameer Samat na summitu Snapdragon na Havaji."
+      "title": "Měly by děti dostat na podzim vakcíny proti chřipce a covidu? Co je dobré vědět, když se mění doporučení.",
+      "original_title": "Should kids get flu and COVID shots this fall? Here's what to know as some vaccine guidance shifts. - CBS News",
+      "url": "https://www.cbsnews.com/news/kids-flu-covid-shots-fall-2025-vaccine-guidance-shifts/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/24/99d262db-831e-490b-bd23-5db70542a5c3/thumbnail/1200x630/d38c62ecc3343ba879fd385787e67f72/gettyimages-1417341332.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-24T20:12:00Z",
+      "description": "S blížící se sezónou respiračních onemocnění: Kdo by měl dostat vakcínu proti covidu a chřipce?"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump z výtahu tvrdí, že na OSN spáchali ‚sabotáž‘ kvůli prompteru a mikrofonu",
-      "original_title": "Trump claims ‘sabotage’ at U.N. from escalator, teleprompter and mic - CNBC",
-      "url": "https://www.cnbc.com/2025/09/24/trump-sabotage-un-escalator-teleprompter-mic.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202769-17586386252025-09-23t144217z_1768647373_rc2qxgacgyv0_rtrmadp_0_un-assembly-trump.jpeg?v=1758638650&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-24T22:30:27Z",
-      "description": "Trump poznamenal, že britský list The Times uvedl, že zaměstnanci OSN se „žertem bavili o vypnutí eskalátoru“ před jeho vystoupením."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Téměř tucet kojenců v Utahu bylo vystaveno spalničkám, spustilo se hledání preventivní léčby",
-      "original_title": "Nearly a dozen Utah infants were exposed to measles, triggering a race for preventative treatment - The Salt Lake Tribune",
-      "url": "https://www.sltrib.com/news/2025/09/24/nearly-dozen-utah-babies-exposed/",
-      "urlToImage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FSFNXMXLPWRDGPD4RDXHAAOWXVM.JPG?auth=6f7db8ae9bbe8b3f9f763f663ffac39f281af7f18eb4da5d58ddd18e3e2052d8&width=1200",
-      "source": "Salt Lake Tribune",
-      "publishedAt": "2025-09-24T22:25:54Z",
-      "description": "Zdravotníci v Utahu zjistili, že osoba nakažená spalničkami navštívila kliniku v Loganu, kde bylo vystaveno 11 zranitelných dětí, což spustilo závod o preventivní léčbu kojenců."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vdova po oběti podala první žalobu po lednové srážce letadel v oblasti Washingtonu D.C.",
-      "original_title": "Victim's widow files the first lawsuit after January's D.C.-area midair crash - NPR",
-      "url": "https://www.npr.org/2025/09/24/nx-s1-5552694/american-airlines-army-black-hawk-dca-midair-collision-lawsuit",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7799x4387+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F5f%2F5def09bf4e489f9bb0cf0d4d6a11%2Fap25267732310797.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-24T22:06:59Z",
-      "description": "Příbuzní cestujícího, který zemřel při lednové nehodě, žalují American Airlines, PSA Airlines a federální vládu. Jde o první z desítek možných žalob."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Intel a Apple jednaly o investici, dohoda není na obzoru - 9to5Mac",
-      "original_title": "Intel and Apple hold investment talks, no deal in sight - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/24/intel-and-apple-hold-investment-talks-no-deal-in-sight/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-24T20:18:00Z",
-      "description": "Po investicích od Nvidie a americké vlády hledá výrobce čipů pomoc u Applu, aby mohl pokračovat v návratu na výsluní. Podrobnosti zde."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Neon, druhá nejoblíbenější sociální aplikace v Apple App Store, platí uživatelům za nahrávání hovorů a prodává data firmám zabývajícím se umělou inteligencí",
+      "title": "Neon, druhá nejoblíbenější sociální aplikace v App Storu, platí uživatelům za nahrávání hovorů a prodává data firmám zabývajícím se umělou inteligencí",
       "original_title": "Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms - TechCrunch",
       "url": "https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/neon-green-phone-GettyImages-1571854632.jpg?resize=1200,801",
       "source": "TechCrunch",
       "publishedAt": "2025-09-24T19:50:58Z",
-      "description": "Nový záznamník hovorů získává na popularitě tím, že nabízí uživatelům platbu za hlasová data z hovorů, která prodává firmám zabývajícím se umělou inteligencí."
+      "description": "Nová aplikace pro nahrávání hovorů získává na popularitě tím, že uživatelům nabízí platbu za hlasová data z volání, která prodává společnostem zabývajícím se umělou inteligencí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Seznamte se s „Integrity“: Artemis 2 astronauti pojmenovali loď, která je obletí Měsíc",
+      "title": "Představujeme „Integritu“: Posádka Artemis 2 pojmenovala loď, která ji obletí Měsíc",
       "original_title": "Meet 'Integrity': Artemis 2 astronauts name the spacecraft that will fly them around the moon - Space",
       "url": "https://www.space.com/space-exploration/artemis/meet-integrity-artemis-2-astronauts-name-the-spacecraft-that-will-fly-them-around-the-moon",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/WWjfjoSAqJJ2zTLhKH58Yo.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-24T19:30:00Z",
-      "description": "„Zamkli jsme se tam, dokud jsme nepřišli s názvem.“"
+      "description": "V podstatě jsme se tam zavřeli, dokud jsme nevymysleli název."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "CDC: Případy ‚nočních můr bakterií‘ v USA přibývají - WHIO",
+      "title": "CDC: Případy ‚nočních můr bakterií‘ přibývají v USA",
       "original_title": "CDC: ‘Nightmare bacteria’ cases increasing in the US - WHIO-TV",
       "url": "https://www.whio.com/news/local/cdc-nightmare-bacteria-cases-increasing-us/OV3OMZTXO5FVLF5R43ECMSJT6M/",
       "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPUX2FE7PL5GHJT2QEKNHQTETZ4.jpg?auth=1fd39d04f4fb4f6457211ee24f2727ab425e183af2b84a52cf74ab94a9568598&width=1200&height=630&smart=true",
@@ -263,34 +263,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250916-PH-SPX01_0001large-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-24T18:42:57Z",
-      "description": "„Je to jako s autobusem. Čekáš na jeden a pak přijedou tři najednou.“…"
+      "description": "„Je to jako s autobusem. Čekáš na jeden a pak přijedou tři najednou.“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Objev v oblasti molekulární biologie odhaluje, jak se chromozomy předávají z jedné generace na druhou",
-      "original_title": "Molecular discovery reveals how chromosomes are passed from one generation to the next - Phys.org",
-      "url": "https://phys.org/news/2025-09-molecular-discovery-reveals-chromosomes-generation.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/molecular-discovery-re-1.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-24T18:41:04Z",
-      "description": "Když žena otěhotní, výsledek těhotenství závisí na mnoha věcech – včetně klíčové události, která se stala, když sama rostla v lůně vlastní matky. Záleží na kvalitě vaječných buněk, které se již uvn..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Jaguar Land Rover ponese veškeré náklady kybernetického útoku kvůli chybějícímu pojištění",
-      "original_title": "Jaguar Land Rover to bear full cost of cyber attack due to lack of insurance cover - Financial Times",
-      "url": "https://www.ft.com/content/c301e78a-38e7-4818-b367-14af85130c61",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8bf74ba-7aa6-4724-bd52-141c9c27b931.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-24T16:51:07Z",
-      "description": "Vláda zvažuje podporu dodavatelům včetně státních nákupů autodílů"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Pole pinzet se 6100 vysoce koherentními atomovými qubity",
+      "title": "Pole pinzet se 6100 vysoce koherentními atomovými kubity",
       "original_title": "A tweezer array with 6100 highly coherent atomic qubits - Nature",
       "url": "https://www.nature.com/articles/s41586-025-09641-4",
       "urlToImage": null,
@@ -318,7 +296,7 @@
       "urlToImage": "https://www.gatesfoundation.org/-/media/gfo/5ideas_articles/press-releases/press-image-for-web2x.png?rev=b393a95e463b4d59966da7581f8bcd6b",
       "source": "Gatesfoundation.org",
       "publishedAt": "2025-09-24T11:00:24Z",
-      "description": "Nové partnerství se připojí k ostatním, aby rozšířilo přístup k generickému léku lenacapavir pro další miliony lidí ohrožených virem HIV v zemích s vysokou zátěží – a přiblížilo tak svět ke konci e..."
+      "description": "Nové partnerství se připojí k ostatním, aby rozšířilo přístup k generickému léku lenacapavir pro další miliony lidí ohrožených HIV v zemích s vysokou zátěží nemoci – a přiblížilo tak svět ukončení ..."
     }
   ]
 }
