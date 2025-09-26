@@ -1,38 +1,126 @@
 {
-  "last_updated": "2025-09-26T08:25:32",
+  "last_updated": "2025-09-26T09:20:06",
   "articles": [
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Nicolas Sarkozy byl uznán vinným z trestného spiknutí",
+      "original_title": "Nicolas Sarkozy found guilty of criminal conspiracy - BBC",
+      "url": "https://www.bbc.com/news/articles/cp98kepmj9lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03c1/live/c9d39070-99f8-11f0-88dc-4bebfe637e18.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-25T09:55:52Z",
+      "description": "Bývalý francouzský prezident byl obviněn z využívání prostředků zesnulého libyjského vůdce plukovníka Muammara Kaddáfího."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Americké stíhačky vyslány k zachycení ruských vojenských letounů u Aljašky",
+      "original_title": "U.S. fighter jets scrambled to intercept Russian warplanes near Alaska - CBS News",
+      "url": "https://www.cbsnews.com/news/russia-planes-alaska-us-fighter-jets-intercept-bomber-fighter-jets-adiz/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/07/42bb59bf-5607-45ff-9c85-a903c7d7d3bf/thumbnail/1200x630/3bef2e89a395a5a1109ad2a9c40d507a/russia-tu-95-plane-1240508515.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-25T09:11:22Z",
+      "description": "USA opět vyslaly stíhačky k identifikaci a zachycení ruských vojenských letounů v protivzdušné obranné identifikační zóně Aljašky."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Oslabená bouře Ragasa se přehnala přes jižní pobřeží Číny po záplavách",
+      "original_title": "A weakened storm Ragasa pushes across China’s south coast after flooding - AP News",
+      "url": "https://apnews.com/article/typhoon-ragasa-china-e5fb5514cefc820d6963cb5ba71636f9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7b6aa39/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2Fd5%2F7a115cc1189d281ae988b9e715c1%2Ffeb8daf276414b7381314779d54edfb6",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-25T09:04:00Z",
+      "description": "Oslabený tropický cyklón Ragasa postupuje na západ podél jižního pobřeží Číny směrem k Vietnamu. Bouře zaplavila ulice a domy, způsobila výpadky elektřiny v čínské ekonomické centrále v provincii K..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Exkluzivně | Senátoři žádají velké technologické firmy o vysvětlení ohledně pracovníků s vízem H-1B a propouštění",
+      "original_title": "Exclusive | Senators Want Answers From Big Tech on H-1B Workers, Layoffs - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/h1b-visa-grassley-durbin-letter-tech-firms-8fe931e9",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-25T09:00:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Paul Thomas Anderson o psaní, PCC a jednom boji za druhým",
+      "original_title": "Paul Thomas Anderson on writing, The PCC and One Battle After Another - Dazed",
+      "url": "https://www.dazeddigital.com/film-tv/article/68720/1/paul-thomas-anderson-microsoft-word-prince-charles-one-battle-after-another",
+      "urlToImage": "https://images-prod.dazeddigital.com/1200/0-190-2046-1364/azure/dazed-prod/1420/4/1424010.jpeg",
+      "source": "Dazed",
+      "publishedAt": "2025-09-25T07:00:00Z",
+      "description": "Režisér v rozhovoru pro Dazed o svém dosud nejambicióznějším filmu – velkolepém thrilleru o otci a dceři, aktivismu, pomstě a ceně za minulost, která zůstává živá"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jeden zadržený zabit a dva zranění při střelbě v zařízení ICE v Dallasu",
+      "original_title": "1 detainee killed, 2 injured in shooting at Dallas ICE facility - Axios",
+      "url": "https://www.axios.com/2025/09/24/dallas-ice-facility-shooting-injuries",
+      "urlToImage": "https://images.axios.com/tB4mZjUliriu5CVMx44D7BcvOLc=/0x241:3863x2414/1366x768/2025/09/24/1758729433283.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-25T06:56:15Z",
+      "description": "Podle místních zpráv policie našla podezřelého střelce mrtvého."
+    },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Marináři jsou konečně šampiony American League West",
+      "title": "Federální žalobci ve Virginii se chystají požadovat obžalobu Comeyho, tvrdí lidé obeznámení s věcí",
+      "original_title": "Va. federal prosecutors preparing to seek Comey indictment, people familiar with matter say - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/09/24/justice-virginia-prosecutors-james-comey/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6OH4BXZEAI6VPSX2AF3TPDDFU_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-25T06:46:36Z",
+      "description": "Vyšetřování se soustředí na svědectví, které James B. Comey přednesl před justičním výborem Senátu 30. září 2020."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Horoskop na čtvrtek 25. září 2025 - Chicago Sun",
+      "original_title": "Horoscope for Thursday, September 25, 2025 - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/horoscopes/2025/09/25/horoscopes-today-thursday-september-25-2025",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-09-25T05:01:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Marináři jsou konečně šampiony Americké ligy Západ",
       "original_title": "At long last, you can call Mariners the American League West champs - The Seattle Times",
       "url": "https://www.seattletimes.com/sports/mariners/mariners-clinch-american-league-west-title-for-first-time-since-2001/",
       "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09242025_cal-celebrate_210030.jpg?d=1200x630",
       "source": "The Seattle Times",
       "publishedAt": "2025-09-25T04:18:51Z",
-      "description": "Poprvé za 24 let jsou Mariners šampióny AL West. Po výhře 9:1 nad Rockies, kterou zajistily dva historické homery Cala Raleigha, začala párty."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "První úspěšná léčba Huntingtonovy choroby zpomaluje progresi nemoci v malé studii",
-      "original_title": "First successful Huntington’s treatment slows disease progression in small study - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/09/24/huntingtons-disease-treatment-breakthrough/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSQF5UYCCF7MWS6ODTTREPTQEA.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-25T04:10:02Z",
-      "description": "Společnost stojící za experimentální léčbou plánuje v prvním čtvrtletí příštího roku předložit regulačním úřadům v USA data žádající o schválení."
+      "description": "Marinéři poprvé po 24 letech vyhráli AL West. Po výhře 9:1 nad Rockies a dvou historických home runech Cala Raleigha začala párty"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "William Shatner utrpěl zdravotní komplikace a byl urychleně převezen do nemocnice",
-      "original_title": "William Shatner Suffers Medical Emergency, Rushed to Hospital - TMZ",
-      "url": "https://www.tmz.com/2025/09/24/william-shatner-rushed-to-hospital/",
-      "urlToImage": "https://imagez.tmz.com/image/72/16by9/2025/09/25/7281ed221e464c1bb06b48d620956828_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-09-25T03:28:31Z",
-      "description": "William Shatner, známý především jako kapitán Kirk ze seriálu „Star Trek“, byl po náhlé zdravotní příhodě urychleně převezen do nemocnice, informuje TMZ."
+      "title": "Inter Miami: Lionel Messi znovu píše historii při deklasaci New York City FC",
+      "original_title": "Inter Miami: Lionel Messi makes more history in NYCFC domination - MLSsoccer.com",
+      "url": "https://www.mlssoccer.com/news/inter-miami-lionel-messi-makes-more-history-in-nycfc-domination",
+      "urlToImage": "https://images.mlssoccer.com/image/private/t_editorial_landscape_3_4_desktop/mls/ovwyjqlxyggvnof1sc1l.jpg",
+      "source": "MLSsoccer.com",
+      "publishedAt": "2025-09-25T03:20:32Z",
+      "description": "Další milník pro Lionela Messiho."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bílý dům nařídil úřadům připravit se na hromadné propouštění před možným příštím týdnem uzavřením vlády",
+      "original_title": "White House tells agencies to prepare for mass layoffs ahead of a potential government shutdown next week - CBS News",
+      "url": "https://www.cbsnews.com/news/white-house-trump-layoffs-omb-government-shutdown/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/23/91a64aae-b4d2-4065-b098-45808721479b/thumbnail/1200x630/d32d1d17b7bf52c687a4a61aac6e651d/gettyimages-2236335156.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-25T03:08:00Z",
+      "description": "Trumpova administrativa zvyšuje sázky, protože Kongres čelí blížící se lhůtě pro schválení rozpočtového zákona."
     },
     {
       "flag": "🌍",
@@ -43,73 +131,29 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Screenshot-2025-09-24-at-7.42.35 PM.jpg?crop=0px%2C0px%2C1561px%2C878px&resize=1000%2C563",
       "source": "Variety",
       "publishedAt": "2025-09-25T03:05:00Z",
-      "description": "V páté epizodě 27. řady seriálu South Park Donald Trump nechtěně terorizuje šéfa FCC Brendana Carra, když se snaží zbavit Satanova dítěte."
+      "description": "V pátém dílu 27. řady South Parku Donald Trump nechtěně terorizuje šéfa FCC Brendana Carra, když se snaží zbpezbavit Satanova dítěte."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vítěz 20. řady „America’s Got Talent“ byl korunován na stanici NBC",
-      "original_title": "‘America’s Got Talent’ Season 20 Crowns Winner On NBC - Deadline",
-      "url": "https://deadline.com/gallery/americas-got-talent-season-20-winner-nbc/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/americas-got-talent-season-20-finale-winner-nbc.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-25T02:59:00Z",
-      "description": "Po týdnech dechberoucích výkonů korunovala soutěž America’s Got Talent vítěze své 20. sezóny na stanici NBC."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Bílý dům nařizuje úřadům: Připravte plány na hromadné propouštění pro případ výpadku financování",
-      "original_title": "White House to agencies: Prepare mass firing plans for a potential shutdown - Politico",
-      "url": "https://www.politico.com/news/2025/09/24/white-house-firings-shutdown-00579909",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F77%2F41%2F7e9983a247bd8c4cd7c28193c27b%2Fcongress-tax-cuts-63367.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-25T02:56:58Z",
-      "description": "V memorandu Trumpova administrativa uvádí, že plány na redukci sil přesáhnou standardní odstávková propouštění"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump s Vanceem viní z střelby v zařízení ICE v Dallasu demokraty",
-      "original_title": "Trump, Vance fault Democrats after shooting at Dallas ICE facility - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/24/vance-trump-dallas-ice-shooting/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ATVQOXIDBEIHH5OMBKO725U54.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-25T02:39:42Z",
-      "description": "Trump a Vance ve středu uvedli, že střelba na úřadě ICE v Dallasu byla důsledkem toho, co označili za rétorický útok na orgány činné v trestním řízení."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Xcel se dohodl na vyrovnání žaloby za požár v Marshallu těsně před začátkem procesu v Boulderu",
-      "original_title": "Xcel settles Marshall Fire lawsuit just before trial begins in Boulder - Colorado Public Radio",
-      "url": "https://www.cpr.org/2025/09/24/xcel-energy-marshall-fire-settlement/",
-      "urlToImage": "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/220103-MARSHALL-FIRE-LOUISVILLE-HV-0012.jpg",
-      "source": "Colorado Public Radio",
-      "publishedAt": "2025-09-25T00:45:00Z",
-      "description": "Společnost Xcel Energy a dvě telekomunikační firmy dosáhly v případu požáru Marshall Fire mimosoudního vyrovnání."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nový syrský prezident varuje, že kroky Izraele mohou odcizit spojence USA",
-      "original_title": "Syria's new president warns Israel's actions could end up alienating U.S. allies - CBS News",
-      "url": "https://www.cbsnews.com/news/syria-president-ahmed-al-sharaa-israel/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/25/f3a0fc6e-76cc-4b2f-853b-42bdeb2c9b78/thumbnail/1200x630/d7b63077ce7e108ff567ab4ee667ddcd/gettyimages-2237147769.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-25T00:34:00Z",
-      "description": "Syrský prezident Ahmed al-Šará řekl CBS News, že činy Izraele ohrožují „zájmy USA a jejích strategických spojenců“."
+      "title": "Čína, největší znečišťovatel ovzduší na světě, oznámila nový klimatický cíl snížit emise",
+      "original_title": "China, world’s largest carbon polluting nation, announces new climate goal to cut emissions - AP News",
+      "url": "https://apnews.com/article/climate-change-plans-united-nations-urgency-131761a2089ac8a647ce40a56f1fea44",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b92de7e/2147483647/strip/true/crop/5149x2896+0+272/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0f%2Fe2%2Fa2d29b5e7849cd78082c31217da1%2Fcbdb2c086f4c4fc88bb8f12d08635faa",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-25T02:10:00Z",
+      "description": "Čína, největší znečišťovatel ovzduší na světě, oznámila nový cíl snížit do roku 2035 emise o 7 až 10 %"
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Vízum H-1B: Americký technologický sektor se potýká s poplatky ve výši 100 000 dolarů",
+      "title": "Víza H-1B: Americký technologický sektor čelí poplatkům ve výši 100 000 dolarů",
       "original_title": "H-1B visa: US tech sector scrambles in the face of $100,000 fees - BBC",
       "url": "https://www.bbc.com/news/articles/cdjzrl9kkkmo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb12/live/828acbd0-996b-11f0-80b9-69e2e45f1309.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-25T00:11:05Z",
-      "description": "Startupy a menší firmy by mohly nést hlavní tíhu Trumpova nového poplatku za víza H-1B. Někteří se obávají, že by mohl brzdit inovace v USA."
+      "description": "Startupy a menší firmy by mohly pocítit hlavní tíhu nového poplatku za vízum H-1B od Trumpa a někteří se obávají, že by mohl zmařit inovace v USA."
     },
     {
       "flag": "🌍",
@@ -120,12 +164,12 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8a13e62611c226153a63b5d8bbb8630a2657eafe/2025/09/24/843827aa-22a5-4f31-9d44-4983fc0905bf/iphone-17-pro-max-01.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-25T00:00:00Z",
-      "description": "Recenze: I když obvykle nedoporučuji upgradovat na vlajkový iPhone, pokud máte loňský model, v roce 2025 je tu jeden velmi lákavý důvod k zamyšlení."
+      "description": "Recenze: I když obvykle nedoporučuji přechod na vlajkový iPhone, pokud máte loňský model, v roce 2025 je tu jeden pálivý důvod k zamyšlení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Google spojí ChromeOS s Androidem příští rok, aby posílil AI na velkých obrazovkách",
+      "title": "ChromeOS od Googlu se příští rok spojí s Androidem a posílí AI na velkých obrazovkách",
       "original_title": "Google's ChromeOS Will Combine With Android Next Year to Supercharge Big-Screen AI - CNET",
       "url": "https://www.cnet.com/tech/services-and-software/googles-chromeos-will-combine-with-android-next-year-to-supercharge-big-screen-ai/",
       "urlToImage": "https://www.cnet.com/a/img/resize/1ebc4b5fca9e522643033d9d2d55b9e5abaceb06/hub/2025/09/24/1dc88fa1-6aab-4177-902f-d3ddb5f226c3/img-0988.jpg?auto=webp&fit=crop&height=675&width=1200",
@@ -134,103 +178,70 @@
       "description": "Úspěch Gemini a umělé inteligence na Androidu inspiroval velkou aktualizaci ChromeOS, říká šéf Androidu Sameer Samat na summitu Snapdragon na Havaji."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Donald Trump slibuje zabránit izraelské anexi okupovaného Západního břehu",
-      "original_title": "Donald Trump pledges to prevent Israeli annexation of the occupied West Bank - Financial Times",
-      "url": "https://www.ft.com/content/e5224c8b-c3af-46fe-8577-cd9c89992f98",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff49423b0-a1e6-40cf-a6a7-c4aab0188c39.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-24T22:12:08Z",
-      "description": "Americký prezident dal na setkání na okraj Valného shromáždění OSN slib arabským a muslimským lídrům"
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump si na půdě OSN stěžuje na ‚sabotáž‘ z eskalátoru, teleprompteru i mikrofonu",
+      "original_title": "Trump claims ‘sabotage’ at U.N. from escalator, teleprompter and mic - CNBC",
+      "url": "https://www.cnbc.com/2025/09/24/trump-sabotage-un-escalator-teleprompter-mic.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202769-17586386252025-09-23t144217z_1768647373_rc2qxgacgyv0_rtrmadp_0_un-assembly-trump.jpeg?v=1758638650&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-24T22:30:27Z",
+      "description": "Trump poznamenal, že britský list The Times uvedl, že zaměstnanci OSN se „žertem bavili o vypnutí eskalátoru“ před jeho vystoupením."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Rihanna zveřejnila první fotku Rockiho, třetího miminka s A$AP Rockym",
-      "original_title": "Rihanna shares first photo of Rocki, baby No. 3 with A$AP Rocky - CBS News",
-      "url": "https://www.cbsnews.com/news/rihanna-gave-birth-rocki-irish-mayers/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/24/58a6ac65-b781-432c-beb9-d066c080ed1c/thumbnail/1200x630g1/1b80b70a33f206b870a073c50dd60b4e/gettyimages-2215956767.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-24T21:58:02Z",
-      "description": "Rocki Irish Mayers se narodila 13. září, uvádí Rihanna v popisku na Instagramu."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Páni: Zion Williamson dorazil do kempu Pelikánů úplně jiný",
-      "original_title": "WHOA: Zion Williamson Showed Up to Pelicans Camp Looking WAY Different - Bleacher Nation",
-      "url": "https://www.bleachernation.com/bulls/2025/09/24/zion-williamson-body/",
-      "urlToImage": "https://www.bleachernation.com/wp-content/uploads/2025/09/Zion-Williamson-two.jpg",
-      "source": "bleachernation.com",
-      "publishedAt": "2025-09-24T21:47:07Z",
-      "description": "Zion Williamson dorazil na tréninkový kemp New Orleans Pelicans výrazně štíhlejší."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Citigroup prodá podíl v mexické bance Banamex za 2,3 miliardy dolarů",
-      "original_title": "Citigroup to sell stake in Mexico’s Banamex for $2.3bn - Financial Times",
-      "url": "https://www.ft.com/content/6a9cae1d-9f1b-43a7-a721-e2e4eb1fd33b",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fda3267b8-ce79-4d09-8e39-756fcbceb8b4.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-24T21:22:17Z",
-      "description": "Finančník Fernando Chico Pardo kupuje 25% podíl v bance, zatímco wallstreetský gigant opouští retailový sektor"
+      "title": "Téměř tucet kojenců v Utahu bylo vystaveno spalničkám, což spustilo hon za preventivní léčbou",
+      "original_title": "Nearly a dozen Utah infants were exposed to measles, triggering a race for preventative treatment - The Salt Lake Tribune",
+      "url": "https://www.sltrib.com/news/2025/09/24/nearly-dozen-utah-babies-exposed/",
+      "urlToImage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FSFNXMXLPWRDGPD4RDXHAAOWXVM.JPG?auth=6f7db8ae9bbe8b3f9f763f663ffac39f281af7f18eb4da5d58ddd18e3e2052d8&width=1200",
+      "source": "Salt Lake Tribune",
+      "publishedAt": "2025-09-24T22:25:54Z",
+      "description": "Zdravotníci v Utahu zjistili, že osoba nakažená spalničkami navštívila kliniku v Loganu, kde bylo vystaveno 11 zranitelných dětí, což spustilo závod o preventivní léčbu nemluvňat."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Qualcomm oznamuje Snapdragon X Elite a X Extreme pro počítače s Windows",
-      "original_title": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs - The Verge",
-      "url": "https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/SnapdragonX2EliteExtreme_InsideView-Closeup.png?quality=90&strip=all&crop=0,3.4740163241043,100,93.051967351791",
-      "source": "The Verge",
-      "publishedAt": "2025-09-24T21:03:25Z",
-      "description": "Qualcomm uvádí druhou generaci své vlajkové procesorové řady pro počítače ve dvou variantách: Snapdragon X2 Elite a Snapdragon X2 Elite Extreme."
+      "title": "Vdova po oběti podala první žalobu po lednové srážce letadel ve Washingtonu",
+      "original_title": "Victim's widow files the first lawsuit after January's D.C.-area midair crash - NPR",
+      "url": "https://www.npr.org/2025/09/24/nx-s1-5552694/american-airlines-army-black-hawk-dca-midair-collision-lawsuit",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7799x4387+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F5f%2F5def09bf4e489f9bb0cf0d4d6a11%2Fap25267732310797.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-24T22:06:59Z",
+      "description": "Příbuzní cestujícího, který zemřel při lednové nehodě, žalují American Airlines, PSA Airlines a federální vládu. Jde o první z mnoha možných žalob."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Gaza bound flotila tvrdí, že byla napadena drony, Itálie a Španělsko posílají pomoc",
-      "original_title": "Gaza-bound flotilla says it was attacked by drones, as Italy and Spain send help - AP News",
-      "url": "https://apnews.com/article/israel-palestinians-gaza-flotilla-activists-5e7e0e22b2813f00a0b907fae84f9284",
-      "urlToImage": "https://dims.apnews.com/dims4/default/52fc421/2147483647/strip/true/crop/6240x3510+0+325/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2Fcc%2F2dcbd3bd6b36439a594d006611fc%2F461155e172264d93a3e729d98fc53c7a",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-24T20:50:00Z",
-      "description": "Aktivisté z flotily plující prolomit izraelskou blokádu Gazy tvrdí, že jejich lodě jižně od Řecka napadly drony"
+      "title": "Intel a Apple vedou investiční rozhovory, dohoda není v dohledu",
+      "original_title": "Intel and Apple hold investment talks, no deal in sight - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/24/intel-and-apple-hold-investment-talks-no-deal-in-sight/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-24T20:18:00Z",
+      "description": "Po investicích Nvidie a americké vlády hledá výrobce čipů pomoc u Applu, aby mohl pokračovat v návratu na výsluní. Podrobnosti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Neon, druhá nejpopulárnější sociální aplikace v App Store, platí uživatelům za nahrávání hovorů a prodává data firmám zabývajícím se umělou inteligencí",
+      "title": "Neon, druhá nejpopulárnější sociální aplikace v App Storu, platí uživatelům za nahrávání hovorů a prodává data firmám zabývajícím se umělou inteligencí",
       "original_title": "Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms - TechCrunch",
       "url": "https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/neon-green-phone-GettyImages-1571854632.jpg?resize=1200,801",
       "source": "TechCrunch",
       "publishedAt": "2025-09-24T19:50:58Z",
-      "description": "Nová aplikace pro nahrávání hovorů získává na popularitě tím, že uživatelům platí za hlasová data z volání, která prodává firmám zabývajícím se umělou inteligencí."
+      "description": "Nová aplikace na nahrávání hovorů získává na popularitě tím, že nabízí uživatelům platbu za hlasová data z volání, která prodává společnostem zabývajícím se umělou inteligencí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump svým obratem v Ukrajině opotřebovává kouzlo MAGA",
-      "original_title": "Trump wears MAGA down with Ukraine reversal - Axios",
-      "url": "https://www.axios.com/2025/09/24/trump-ukraine-maga-response-zelensky",
-      "urlToImage": "https://images.axios.com/vFd7NnYpsJxCAy5VUihXNyZr5N0=/0x209:7640x4506/1366x768/2025/09/24/1758733061797.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-24T19:22:56Z",
-      "description": "Kdyby to řekl v prvních týdnech své vlády, létaly by hlavy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trumpova administrativa chce desetiprocentní podíl v americkém těžaři lithia, který dodává pro GM",
-      "original_title": "Trump administration wants 10% stake in American lithium miner that sells to GM - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/24/trump-administration-wants-10-stake-in-american-lithium-miner-that-sells-to-gm/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-543978168.jpg?resize=1200,855",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-24T19:22:27Z",
-      "description": "Lithium Americas požádala o drobnou změnu ve splácení půjčky, což podnítilo poslední požadavek Trumpovy administrativy na vlastní kapitál."
+      "title": "Představujeme „Integritu“: Posádka Artemis 2 pojmenovala loď, která je obletí Měsíc",
+      "original_title": "Meet 'Integrity': Artemis 2 astronauts name the spacecraft that will fly them around the moon - Space",
+      "url": "https://www.space.com/space-exploration/artemis/meet-integrity-artemis-2-astronauts-name-the-spacecraft-that-will-fly-them-around-the-moon",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WWjfjoSAqJJ2zTLhKH58Yo.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-24T19:30:00Z",
+      "description": "V podstatě jsme se tam zavřeli, dokud jsme nevymysleli název."
     },
     {
       "flag": "🌍",
@@ -241,12 +252,12 @@
       "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPUX2FE7PL5GHJT2QEKNHQTETZ4.jpg?auth=1fd39d04f4fb4f6457211ee24f2727ab425e183af2b84a52cf74ab94a9568598&width=1200&height=630&smart=true",
       "source": "WHIO",
       "publishedAt": "2025-09-24T18:51:05Z",
-      "description": "Bakterie, které je obtížné léčit kvůli takzvanému genu NDM, byly hlavní hybnou silou nárůstu, napsali výzkumníci z CDC v článku zveřejněném v pondělí v Annals of Internal Medicine."
+      "description": "Bakterie, které je obtížné léčit kvůli takzvanému genu NDM, stály primárně za nárůstem, napsali výzkumníci z CDC v článku zveřejněném v pondělí v Annals of Internal Medicine."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kosmická spolujízda míří na vzdálenou pozorovatelnu vesmírného počasí",
+      "title": "„Vesmírná spolujízda“ míří k vzdálené pozorovatelně kosmického počasí",
       "original_title": "A “cosmic carpool” is traveling to a distant space weather observation post - Ars Technica",
       "url": "https://arstechnica.com/space/2025/09/a-cosmic-carpool-is-traveling-to-a-distant-space-weather-observation-post/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250916-PH-SPX01_0001large-1152x648.jpg",
@@ -257,24 +268,46 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‚Jsme připraveni na každý scénář.‘ Astronauti NASA z mise Artemis 2 prohlásili, že jsou připraveni na historický let k Měsíci",
-      "original_title": "'We are ready for every scenario.' NASA's Artemis 2 astronauts say they're all set for historic flight to the moon - Space",
-      "url": "https://www.space.com/space-exploration/artemis/we-are-ready-for-every-scenario-nasas-artemis-2-astronauts-say-theyre-all-set-for-historic-flight-to-the-moon",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eKzA4zxUzjPoFrBCvV9WPS.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-24T17:22:42Z",
-      "description": "Jsme připraveni na každý scénář, až poletíme tímto úžasným systémem Space Launch System na kosmické lodi Orion 250 000 mil daleko."
+      "title": "Objev molekulárního mechanismu odhaluje, jak se chromozomy předávají z jedné generace na druhou",
+      "original_title": "Molecular discovery reveals how chromosomes are passed from one generation to the next - Phys.org",
+      "url": "https://phys.org/news/2025-09-molecular-discovery-reveals-chromosomes-generation.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/molecular-discovery-re-1.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-09-24T18:41:04Z",
+      "description": "Když žena otěhotní, výsledek těhotenství závisí na mnoha věcech – včetně klíčové události, která se stala, když sama ještě rostla v lůně vlastní matky. Záleží na kvalitě vajíček, která se již uvnit..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Jaguar Land Rover ponese veškeré náklady kybernetického útoku kvůli chybějícímu pojištění",
+      "original_title": "Jaguar Land Rover to bear full cost of cyber attack due to lack of insurance cover - Financial Times",
+      "url": "https://www.ft.com/content/c301e78a-38e7-4818-b367-14af85130c61",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8bf74ba-7aa6-4724-bd52-141c9c27b931.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-24T16:51:07Z",
+      "description": "Vláda zvažuje podporu pro dodavatele včetně státního nákupu autodílů"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kontrola faktů: Trump na projevu před OSN opakoval nepravdivá tvrzení",
-      "original_title": "Fact check: Trump repeats false claims at speech before UN - DW",
-      "url": "https://www.dw.com/en/fact-check-trump-repeats-false-claims-at-speech-before-un/a-74121865",
-      "urlToImage": "https://static.dw.com/image/74117893_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-09-24T16:40:32Z",
-      "description": "Ve svém projevu před Valným shromážděním OSN opakoval americký prezident Donald Trump několik nepravdivých tvrzení o ukončení válek a útočil na obnovitelné zdroje, klimatickou vědu i na účet za rek..."
+      "title": "Pole pinzet s 6100 vysoce koherentními atomovými kvantovými bity",
+      "original_title": "A tweezer array with 6100 highly coherent atomic qubits - Nature",
+      "url": "https://www.nature.com/articles/s41586-025-09641-4",
+      "urlToImage": null,
+      "source": "Nature.com",
+      "publishedAt": "2025-09-24T15:31:51Z",
+      "description": "Příroda – Pole pinzet s 6100 vysoce koherentními atomovými qubity"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ryder Cup 2025: Středeční tréninkové skupiny na Bethpage Black",
+      "original_title": "Ryder Cup 2025: Wednesday Practice Groups at Bethpage Black - Ryder Cup",
+      "url": "https://www.rydercup.com/news-media/ryder-cup-2025--all-the-practice-groups-at-bethpage-black",
+      "urlToImage": "https://res.cloudinary.com/rydercup-prod/rydercup/editorial/news/Scottie-Scheffler-Practice-Rounds-Hero.jpg",
+      "source": "RyderCup.com",
+      "publishedAt": "2025-09-24T11:15:00Z",
+      "description": "Ryder Cup 2025: Středeční tréninkové skupiny na Bethpage Black"
     },
     {
       "flag": "🌍",
@@ -285,29 +318,7 @@
       "urlToImage": "https://www.gatesfoundation.org/-/media/gfo/5ideas_articles/press-releases/press-image-for-web2x.png?rev=b393a95e463b4d59966da7581f8bcd6b",
       "source": "Gatesfoundation.org",
       "publishedAt": "2025-09-24T11:00:24Z",
-      "description": "Nové partnerství se připojí k ostatním, aby rozšířilo přístup k generickému léku lenacapavir pro další miliony lidí ohrožených virem HIV v zemích s vysokou zátěží – a přiblížilo tak svět ukončení e..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Asteroid by mohl zasáhnout Měsíc v roce 2032; vědci zvažují jaderné řešení",
-      "original_title": "Asteroid could hit the moon in 2032; scientists eye nuclear option - NewsNation",
-      "url": "https://www.newsnationnow.com/space/asteroid-2024-yr4-moon-2032/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/02/67be127446a5b0.30325950.jpeg?w=1280",
-      "source": "Newsnationnow.com",
-      "publishedAt": "2025-09-23T23:41:07Z",
-      "description": "Taková srážka by mohla mít zničující následky pro satelity a astronauty ve vesmíru, což skupinu vědců přimělo vypracovat plány, jak jí zabránit."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Z hlubokých moří až do dalekého vesmíru: Absolvent lékařské fakulty UVM byl vybrán mezi nové astronauty NASA",
-      "original_title": "From deep seas to far space: UVM Medical School alum chosen as one of NASA’s next astronauts - VTDigger",
-      "url": "http://vtdigger.org/2025/09/23/from-deep-seas-to-far-space-uvm-medical-school-alumna-chosen-as-one-of-nasas-next-astronauts/",
-      "urlToImage": "https://vtdigger.org/wp-content/uploads/2025/09/Imelda-Muller-crop.jpg",
-      "source": "vtdigger.org",
-      "publishedAt": "2025-09-23T19:33:44Z",
-      "description": "Imelda Mullerová vystudovala Larner College of Medicine a poté působila jako podmořská lékařská důstojnice u amerického námořnictva. Nyní zahájí dvouletý výcvikový program, aby se mohla kvalifikova..."
+      "description": "Nové partnerství se připojí k dalším, aby rozšířilo přístup k generickému léku lenacapavir pro další miliony lidí ohrožených HIV v zemích s vysokou zátěží – a přiblížilo tak svět ukončení epidemie."
     }
   ]
 }
