@@ -1,30 +1,20 @@
 {
-  "updated": "2025-09-27T01:51:28.144802",
+  "updated": "2025-09-27T03:31:45.922454",
   "trends": [
     {
       "rank": 1,
       "query": "terezie kovalová",
-      "news_title": "Terezie Kovalová s aramejským tetováním na přehlídce Zuzany Kubíčkové",
-      "news_url": "https://www.expres.cz/celebrity/etericka-terezie-kovalova-ukazala-tajemne-aramejske-tetovani-a-uchvatny-outfit.A250404_145701_dx-celebrity_bk",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4yjP7jt7j2chBEaNf1vYZ2TAEZtqJXA-mPNcbkdcQL0T82XWyhWKcLH8Q42g",
+      "news_title": "Terezie Kovalová odhalila aramejské tetování a úchvatný outfit",
+      "news_url": "https://www.prahanadlani.cz/clanek-zprava/1458204-etericka-terezie-kovalova-ukazala-tajemne-aramejske-tetovani-a-uchvatny-outfit.html",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj1P_VvtmMFu6QALc5wqtrpW3wlU4jqktYT-jlUfOHV3QWFMufHO0CVhmXq2Q",
       "traffic": "2000++ hledání",
-      "source": "Expres.cz",
+      "source": "Prahanadlani.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=terezie kovalová&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "bayern – werder",
-      "news_title": "Bayern - Werder Bremen 4:0 | 5. Spieltag Bundesliga 2025/26",
-      "news_url": "https://www.kicker.de/bayern-gegen-bremen-2025-bundesliga-5050786/ticker",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS16aPTZ-s9KqagEwRkvixPK3FWia50Vp6LWXowAGewfoe4hKzWqHs4eCLMpqc",
-      "traffic": "1000++ hledání",
-      "source": "Kicker",
-      "explore_url": "https://trends.google.cz/trends/explore?q=bayern – werder&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "belmondo",
-      "news_title": "Claudia Cardinale: Herecká profese mi nabídla mnoho životů",
+      "news_title": "Claudia Cardinale: Herecká profese mi nabídla spoustu životů",
       "news_url": "https://www.lemonde.fr/cinema/article/2025/09/24/claudia-cardinale-au-monde-ce-metier-m-aura-offert-une-foule-de-vies_5127423_3477.html",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRsyc7Rs5HvPvB3fOTNNrOG1k_Y6HOx0aLdHEg4qZInsKpJ6Zd7FxuW7IB1Q",
       "traffic": "500++ hledání",
@@ -32,9 +22,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=belmondo&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "query": "milionari",
-      "news_title": "Táborský prozradil, za co nejvíce utrácí z milionových výdělků",
+      "news_title": "Miroslav Táborský prozradil, za co nejvíce utrácí",
       "news_url": "https://www.stream.cz/extra-v-terenu/miroslav-taborsky-promluvil-o-milionovych-vydelcich-herec-prozradil-za-co-nejvice-utraci-65357402",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaRTyIP2vdxz5FIBmBlcVGSdvX_uJxJXLfW74AWvB4qOScdoZdOsDYhgZO_Ok",
       "traffic": "500++ hledání",
@@ -42,7 +32,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=milionari&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "query": "cisco",
       "news_title": "ED 25-03: Identifikace a zmírnění kompromitace zařízení Cisco",
       "news_url": "https://www.cisa.gov/news-events/directives/ed-25-03-identify-and-mitigate-potential-compromise-cisco-devices",
@@ -52,9 +42,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=cisco&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "query": "al-ittihad – al nassr",
-      "news_title": "Al Nassr porazil Al Ittihad 2:0 v zápase ze 26. 9. 2025.",
+      "news_title": "Al Nassr poráží Al Ittihad 2:0 v zápase ze dne 26. 9. 2025",
       "news_url": "https://www.espn.com/soccer/report/_/gameId/755936",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHkaM45jD50_LtRVNnkvm-HaBspa6u1J0IJ7AV071LCTyv4SJNj9vRQC96KsU",
       "traffic": "500++ hledání",
@@ -62,9 +52,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=al-ittihad – al nassr&geo=CZ"
     },
     {
+      "rank": 6,
+      "query": "volební průzkumy",
+      "news_title": "Průzkum: ANO by získalo 27,5 procenta",
+      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-dalsi-rana-pro-ano-pruzkum-hnuti-predpovida-275-procenta-40540780",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4h0OuVhs9kOhO_9rWlycAXuk2j8dpqwHlOWccBRhCN-v4M3U87WklWvpF3s",
+      "traffic": "200++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=volební průzkumy&geo=CZ"
+    },
+    {
       "rank": 7,
       "query": "disney+",
-      "news_title": "Disney v úterý vrací do vysílání Jimmyho Kimmela",
+      "news_title": "Disney v úterý uvede pořad s Jimmym Kimmem",
       "news_url": "https://www.axios.com/2025/09/22/jimmy-kimmel-live-return-abc",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShytbWlPp6EFHbsjvPOEnY6yMjf38ZhFbRV5zEzbpvuIdhWaWec1Q5H4J96wU",
       "traffic": "200++ hledání",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "query": "bruce willis",
-      "news_title": "Rodina Bruce Willise zvyšuje povědomí o FTD, aby pomohla ostatním",
+      "news_title": "Rodina Bruce Willise zvyšuje povědomí o FTD",
       "news_url": "https://www.cbsnews.com/philadelphia/video/family-of-actor-bruce-willis-helping-others-diagnosed-with-ftd-by-raising-awareness/",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNwse7zlOogBrC7adqwt9UMjkj7fIgySvZeqwaMp-RT0i5Y0Z6vhn2fchLSho",
       "traffic": "100++ hledání",
