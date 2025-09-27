@@ -1,313 +1,280 @@
 {
-  "last_updated": "2025-09-27T12:32:59",
+  "last_updated": "2025-09-27T13:20:15",
   "articles": [
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Milion let stará lebka právě přepsala příběh o původu lidstva",
+      "original_title": "A Million-Year-Old Skull Just Rewrote The Origin Story of Humanity - Yahoo",
+      "url": "https://www.sciencealert.com/a-million-year-old-skull-just-rewrote-the-origin-story-of-humanity",
+      "urlToImage": "https://www.sciencealert.com/images/2025/09/ynxian-2.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-09-26T12:00:40Z",
+      "description": "Pradávná lebka, zdeformovaná a poškozená zubem času, možná právě změnila naše chápání historie moderních lidí."
+    },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trump oznamuje nová cla na nákladní vozy, nábytek a farmaceutické výrobky",
+      "title": "Proč Starbucks zavírá stovky poboček",
+      "original_title": "Why Starbucks is closing hundreds of stores - CNN",
+      "url": "https://www.cnn.com/2025/09/26/business/starbucks-stores-closing-brian-niccol",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2226807599.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-26T11:00:51Z",
+      "description": "Doby, kdy byla Starbucks na každém rohu, se zdají být u konce."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "„Za to zaplatí obrovskou cenu.“ Trump, připravený na shutdown, očekává, že demokraté ustoupí",
+      "original_title": "‘They will pay a huge price for this’: Shutdown-ready Trump expects Democrats to blink - Politico",
+      "url": "https://www.politico.com/news/2025/09/26/they-will-pay-a-huge-price-for-this-shutdown-ready-trump-expects-democrats-to-blink-00581812",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670",
+      "source": "Politico",
+      "publishedAt": "2025-09-26T09:55:00Z",
+      "description": "Mnoho demokratů věří, že Bílý dům blufuje, a trvá na tom, že za výpadek ponesou v očích veřejnosti odpovědnost republikáni, protože vládu kontroluje GOP."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Evropa je v hybridní válce, oznámila dánská premiérka",
+      "original_title": "Europe is at hybrid war, Danish prime minister announces - politico.eu",
+      "url": "https://www.politico.eu/article/europe-hybrid-war-danish-prime-minister-says-russia-drones/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2236413560-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-09-26T09:36:00Z",
+      "description": "Existuje jeden zjevný protivník „a tím je Rusko,“ říká Mette Frederiksenová."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpova dohoda s TikTokem je podle expertů „vyděračským plánem“",
+      "original_title": "Trump's TikTok deal payment criticized as 'shake-down scheme' by experts - NPR",
+      "url": "https://www.npr.org/2025/09/26/g-s1-90598/tiktok-deal-trump-oracle",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+703/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2Fda%2F750b144f415fb88f023f3438e896%2Fgettyimages-2237403426.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-26T09:00:00Z",
+      "description": "Americká vláda vybere od amerických investorů, kteří převezmou TikTok, poplatek v řádu miliard dolarů. Někteří experti tento poplatek a podobné dohody označují za „vydírání“."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump oznamuje nová cla na nákladní auta, nábytek a farmaceutické výrobky",
       "original_title": "Trump announces new tariffs on trucks, furniture and pharmaceuticals - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/09/25/trump-tariffs-pharmaceuticals-trucks-furniture/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USHIDLIAVODOLLNJC45NE45WWM.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-26T07:42:43Z",
-      "description": "Farmaceutické společnosti mohou od 1. října čelit cle až 100 procent, kuchyňské skříňky 50 procentu, čalouněný nábytek 30 procent a těžké nákladní vozy 25 procent."
+      "description": "Léky mohou od 1. října čelit cle až 100 procent, kuchyňské skříně 50 procent, čalouněný nábytek 30 procent a těžké náklaďáky 25 procent."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Přečtěte si obžalobu Comeyho",
-      "original_title": "Read the Comey indictment - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/25/read-comey-indictment/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ISZEWSAOPCPNQLUOZMXA5L2ZPU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-26T06:40:51Z",
-      "description": "Federální porota v Alexandrii obvinila Comeyho z podávání falešných výpovědí a maření činnosti Kongresu. Své provinění popírá."
+      "title": "Tim Allen prohlásil, že ho pamětní řeč Eriky Kirkové inspirovala k odpuštění vrahovi jeho otce",
+      "original_title": "Tim Allen says Erika Kirk’s memorial speech inspired him to forgive his father’s killer - New York Post",
+      "url": "https://www.foxnews.com/entertainment/tim-allen-says-erika-kirks-memorial-speech-inspired-him-forgive-his-fathers-killer",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-9engvrdbl-1758867998159.jpg?quality=75&strip=all&1758853612&w=1024",
+      "source": "Fox News",
+      "publishedAt": "2025-09-26T06:33:00Z",
+      "description": "Tim Allen přiznal, že ho osobně dojala zpráva Eriky Kirk."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "„Jedna bitva za druhou“ začíná s 2,5 milionu dolarů z předpremiér, stejně jako „Vrahové Bílého měsíce“ – tržby kin",
+      "title": "SpaceX vypustila 24 internetových satelitů Starlink a přistála s raketou na mořské lodi",
+      "original_title": "SpaceX launches 24 Starlink internet satellites, lands rocket on ship at sea - Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-internet-satellites-group-17-11",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7LrbHprBFbeTx245asFbbV.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-26T06:03:03Z",
+      "description": "Byl to 123. start Falconu 9 od SpaceX v tomto roce."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jeden boj za druhým\" začíná s 2,5 miliony dolarů z předpremiér, na úrovni s \"Vrahy úplňkové noci\" – Tržby",
       "original_title": "‘One Battle After Another’ Begins With $2.5M Previews, On Par With ‘Killers Of The Flower Moon’ – Box Office - Deadline",
       "url": "http://deadline.com/2025/09/box-office-one-battle-after-another-1236556684/",
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/MCDONBA_WB014-e1758863034396.jpg?w=1024",
       "source": "Deadline",
       "publishedAt": "2025-09-26T05:42:00Z",
-      "description": "Velmi drahý film Warner Bros s Leonardem DiCapriem 'Jedna bitva za druhou' začíná čtvrtečními previews s 2,5 milionu dolarů"
+      "description": "Velmi drahý film Warner Bros s Leonardem DiCapriem 'Jedna bitva za druhou' začíná čtvrtečními předpremiérami za 2,5 milionu dolarů"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Lidské ostatky identifikovány jako Travis Decker, hledaný za vraždu svých dcer",
+      "title": "Lidské ostatky byly identifikovány jako Travis Decker, hledaný za vraždu svých dcer",
       "original_title": "Human remains identified as Travis Decker, wanted for killing his daughters - NPR",
       "url": "https://www.npr.org/2025/09/26/nx-s1-5554168/human-remains-travis-decker",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+416/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2Fee%2Fe7808aaf4136ab821731a9cb45e4%2Fap25267598962646.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-26T05:19:05Z",
-      "description": "Decker, bývalý voják, byl hledán kvůli vraždě svých tří malých dcer, které byly v červnu nalezeny mrtvé u kempu."
+      "description": "Decker, bývalý voják, byl hledán kvůli vraždě svých tří mladých dcer poté, co byly v červnu nalezeny mrtvé u kempu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nový Raspberry Pi 500+: Lepší hraní her s menší nutností pájení",
+      "original_title": "The New Raspberry Pi 500+: Better Gaming With Less Soldering Required - Hackaday",
+      "url": "https://hackaday.com/2025/09/25/the-new-raspberry-pi-500-better-gaming-with-less-soldering-required/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/09/raspberry_pi_500_jeff_geerling_youtube.jpg",
+      "source": "Hackaday",
+      "publishedAt": "2025-09-26T05:00:00Z",
+      "description": "Když Raspberry Pi představilo Pi 500, což byl v podstatě RPi 5 integrovaný do klávesnice, objevily se spekulace založené na prázdných místech na desce, že brzy vyjde lepší verze…"
+    },
+    {
+      "flag": "🌍",
+      "country": "fr",
+      "title": "OpenAI představuje ChatGPT ‘Pulse’ – Mohl by vám pomoci obchodovat s kryptoměny?",
+      "original_title": "OpenAI unveils ChatGPT ‘Pulse’ — Could it help you trade crypto? - Cointelegraph",
+      "url": "https://cointelegraph.com/news/openai-launches-chatgpt-pulse-help-crypto-traders",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-05/01968a2c-e652-7a50-8596-53b9f62fd3be",
+      "source": "Cointelegraph",
+      "publishedAt": "2025-09-26T04:45:36Z",
+      "description": "OpenAI spustila ChatGPT Pulse, funkci podobnou osobnímu asistentovi, která může pomáhat kryptoinvestorům s obchodními tipy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Americké ministerstvo vnitřní bezpečnosti zveřejnilo video a obrázky karet inspirované Pokémony",
+      "original_title": "U.S. Homeland Security Posts Pokémon-Inspired Video, Card Images - Anime News Network",
+      "url": "https://www.animenewsnetwork.com/interest/2025-09-25/u.s-homeland-security-posts-pokemon-inspired-video-card-images/.229184",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/interest.3/229184/pokemon_3_the_movie_ash_pikachu.jpg",
+      "source": "Anime News Network",
+      "publishedAt": "2025-09-26T03:59:00Z",
+      "description": "Společnost Pokémon nebyla zapojena a nebylo uděleno povolení."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Horoskop na pátek 26. září 2025 - Chicago Sun",
-      "original_title": "Horoscope for Friday, September 26, 2025 - Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/horoscopes/2025/09/26/horoscopes-today-friday-september-26-2025",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2025-09-26T05:01:00Z",
-      "description": ""
+      "title": "Rodiny obětí z tábora Mystic tvrdí, že plán na jeho znovuotevření „prohloubil jejich bolest“",
+      "original_title": "Families of Camp Mystic victims say plan to reopen ‘intensified our grief’ - The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/09/25/camp-mystic-reopening-floods-parents/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D66ODXVDTDRBH4E2ZUQ4X4KB54.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-26T03:09:00Z",
+      "description": "CiCi a Will Stewardovi, jejichž osmiletá dcera je stále pohřešována, zaslali dopis kritizující plán na znovuotevření a vybudování památníku obětem povodní přímo na místě tragédie."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump říká, že nedovolí Netanjahuovi anektovat Západní břeh",
-      "original_title": "Trump says he won't let Netanyahu annex the West Bank - Axios",
-      "url": "https://www.axios.com/2025/09/25/trump-israel-annex-west-bank-netanyahu",
-      "urlToImage": "https://images.axios.com/hC0OwsvJFtKw5mKwS_6FCfI-mHI=/0x86:6000x3461/1366x768/2025/09/25/1758835616542.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-26T04:48:42Z",
-      "description": "Už je čas přestat."
+      "title": "Muž z Alabamy odsouzený za vraždu prodavače z roku 1997 byl popraven dusíkem",
+      "original_title": "Alabama man convicted of killing store clerk in 1997 is executed by nitrogen gas - CBS News",
+      "url": "https://www.cbsnews.com/news/alabama-executes-geoffrey-todd-west-nitrogen-gas-1997-shooting-death-store-clerk/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/26/f56c407d-03ab-40b8-8aa6-a3839ca5a1ff/thumbnail/1200x630/58204d1805e03349c1fef18305f3acfb/ap25266002043731.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-26T01:30:51Z",
+      "description": "V Alabamě byl ve čtvrtek večer popraven dusíkem Geoffrey Todd West za smrtící střelbu z roku 1997."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zavírání poboček Starbucks v Texasu: Seznam provozoven v oblasti Houstonu, které dosud ukončily činnost",
-      "original_title": "Texas Starbucks store closings: Here's the list, so far, of locations shutting down in the Houston area - KHOU",
-      "url": "https://www.khou.com/article/news/local/texas-starbucks-closing-list-houston/285-e477339a-1d0a-4b35-8380-98bf1ce0e32f",
-      "urlToImage": "https://media.khou.com/assets/KHOU/images/24a0fa53-91db-4bbe-ad2e-409f3f6b51b7/20250224T182557/24a0fa53-91db-4bbe-ad2e-409f3f6b51b7_1140x641.jpg",
-      "source": "KHOU.com",
-      "publishedAt": "2025-09-26T03:01:00Z",
-      "description": "Webové stránky kavárenského řetězce a zaměstnanci potvrdili seznam zavíraných provozoven."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Cal Raleigh odměnil fanouška, který chytil jeho 60. homerun a předal ho dítěti",
-      "original_title": "Cal Raleigh rewards fan who caught HR No. 60 and then gave it to a kid - The Seattle Times",
-      "url": "https://www.seattletimes.com/sports/mariners/mariners-cal-raleigh-meets-mystery-fan-who-caught-no-60-and-then-gave-it-away/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09252025_tzr_tzr_183418.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-09-26T02:38:02Z",
-      "description": "Záhadný fanoušek Mariners, který chytil Calovi Raleighovi míč ze 60. home runu a pak ho daroval mladému fanouškovi, se ve čtvrtek vrátil na T-Mobile Park na zvláštní setkání."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jak získat náhradu z vyrovnání FTC s Amazon Prime",
+      "title": "Jak získat refund z vypořádání FTC ohledně Amazon Prime",
       "original_title": "How to get a refund from the Amazon Prime FTC settlement - Axios",
       "url": "https://www.axios.com/2025/09/25/amazon-prime-settlement-refund-eligibility-ftc",
       "urlToImage": "https://images.axios.com/ifU131fZlxdgiaMzjRFlzWuTncg=/0x275:6000x3650/1366x768/2025/09/25/1758831730059.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-26T00:47:31Z",
-      "description": "Amazon.com zaplatí 2,5 miliardy dolarů na pokutách a náhradách, aby urovnal spor s FTC."
+      "description": "Amazon.com zaplatí 2,5 miliardy dolarů na pokutách a náhradách k vyrovnání žaloby FTC"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pixel Buds Pro 2 dostávají velkou novou aktualizaci",
-      "original_title": "Pixel Buds Pro 2 Get Huge New Update - Droid Life",
-      "url": "https://www.droid-life.com/2025/09/25/pixel-buds-pro-2-get-huge-new-update/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2024/09/Google-Pixel-Buds-Pro-2-Review-9-1200x628-cropped.jpg",
-      "source": "Droid Life",
-      "publishedAt": "2025-09-26T00:04:37Z",
-      "description": "Když Google minulý měsíc mluvil o řadě Pixel 10, oznámil také novou barvu sluchátek Pixel Buds Pro 2 a poměrně zásadní aktualizaci, která byla na obzoru. Tato aktualizace, která přináší hned několi..."
+      "title": "Odhaleny ceny Xboxu Ally: Přenosná herní konzole bude stát až tisíc dolarů",
+      "original_title": "Xbox Ally Prices Revealed: Handheld Console Will Cost Up to $1,000 - Variety",
+      "url": "https://variety.com/2025/digital/news/xbox-ally-prices-revealed-handheld-1236529475/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Xbox-handheld-ally.png?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-26T00:00:00Z",
+      "description": "Microsoft stanovil ceny své nové přenosné herní konzole Xbox Ally, prémiová verze bude stát téměř tisíc dolarů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Exkluzivně: Video zachycuje okamžik střelby v dallasém zařízení ICE - ABC News - Nejnovější zprávy a videa",
-      "original_title": "Video shows the moment gunfire erupts at ICE facility in Dallas: Exclusive - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/video-shows-moment-gunfire-erupts-ice-facility-dallas/story?id\\\\u003d125947524",
+      "title": "Hegseth svolal mimořádné setkání velkého počtu generálů a admirálů - ABC News - Zprávy, nejnovější zprávy a videa",
+      "original_title": "Hegseth calls rare meeting of large number of generals and admirals - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/hegseth-calls-rare-meeting-large-number-generals-admirals/story?id\\\\u003d125935650",
       "urlToImage": null,
       "source": "ABC News",
-      "publishedAt": "2025-09-26T00:00:41Z",
+      "publishedAt": "2025-09-25T23:48:45Z",
       "description": ""
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Rodiče dívky stále pohřešované po povodni v Camp Mystic označují znovuotevření tábora za 'nepředstavitelné",
-      "original_title": "Parents of girl still missing from Camp Mystic flooding calls reopening of camp 'unthinkable' - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/parents-girl-missing-camp-mystic-flooding-calls-reopening/story?id\\\\u003d125936638",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-26T00:00:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Televizní magnát, který vyhodil Kimmela ze svých stanic a rozpoutal bouři",
-      "original_title": "The TV Boss Who Kicked Kimmel Off His Stations and Started a Firestorm - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/media/who-is-nexstar-ceo-jimmy-kimmel-724f4da7",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-26T00:00:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump popisuje Hegsethovo neobvyklé setkání s generály jako přátelskou schůzku",
-      "original_title": "Trump bills Hegseth’s unusual meeting with generals as a friendly meet-up - Politico",
-      "url": "https://www.politico.com/news/2025/09/25/trump-hegseth-meeting-generals-00581413",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fee%2Fe3%2Fe869f4e64946b2ae526fcfca3cb8%2Ftrump-71994.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-25T22:51:26Z",
-      "description": "Ministr obrany vyzval stovky vysokých úředníků, aby příští týden přijeli na základnu u Washingtonu, ale neřekl proč."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Proveditelnost propouštění v souvislosti s odstávkou vlády je zpochybňována",
-      "original_title": "Feasibility of RIFs around a government shutdown called into question - Federal News Network",
-      "url": "https://federalnewsnetwork.com/government-shutdown/2025/09/feasibility-of-rifs-around-a-government-shutdown-called-into-question/",
-      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2017/11/the-white-house.jpg",
-      "source": "Federal News Network",
-      "publishedAt": "2025-09-25T22:30:00Z",
-      "description": "Navzdory pokynům Bílého domu k dalšímu propouštění někteří zpochybnili schopnost agentur sepsat tyto plány jen pár dní před zastavením vlády."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Informační list: Prezident Donald J. Trump zachraňuje TikTok a zároveň chrání národní bezpečnost - Bílý dům (.gov)",
-      "original_title": "Fact Sheet: President Donald J. Trump Saves TikTok While Protecting National Security - The White House (.gov)",
-      "url": "https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-saves-tiktok-while-protecting-national-security/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2025-09-25T22:02:17Z",
-      "description": "ZACHRAŇUJEME TIKTOK PŘED ZÁKAZEM: Prezident Donald J. Trump podepsal exekutivní nařízení, které brání zákazu TikTok a chrání americké národní zájmy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Spaceballs 2 oznamují začátek produkce parodickou fotkou na Star Wars: Síla se probouzí",
-      "original_title": "Spaceballs 2 Announces Start of Production With a Star Wars: The Force Awakens Parody Photo - IGN",
-      "url": "https://www.ign.com/articles/spaceballs-2-announces-start-of-production-with-a-star-wars-the-force-awakens-parody-photo",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/25/spaceballs-dark-helmet-rick-moranis-1280x720-1758835035089.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-09-25T21:25:43Z",
-      "description": "Amazon MGM Studios oznámil ve čtvrtek start produkce filmu Spaceballs 2 zveřejněním fotky z přípravy, která paroduje slavnou snímku z čtení scénáře k Hvězdným válkám: Síla se probouzí z roku 2014."
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Google začíná vydávat velkou aktualizaci pro Pixel Buds Pro 2 – 9to5Google",
+      "original_title": "Google starts rolling out big Pixel Buds Pro 2 update - 9to5Google",
+      "url": "http://9to5google.com/2025/09/25/pixel-buds-2-pro-update-sept-25/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Google-Pixel-Buds-Pro-2-details-and-design-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-25T19:52:00Z",
+      "description": "Po oznámení na akci Made by Google 2025 se velká aktualizace Feature Drop pro sluchátka Pixel Buds Pro 2 začíná rozesílat."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Izraelský úder na jemenské Hútíy podle zpráv zabil osm lidí",
+      "title": "Izraelský úder na jemenské Hútíe podle zpráv zabil osm lidí",
       "original_title": "Israeli strike on Yemen's Houthis reportedly kills eight - BBC",
       "url": "https://www.bbc.com/news/articles/c8rvmx60g07o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28aa/live/8dd39c60-9a42-11f0-928c-71dbb8619e94.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-25T19:47:14Z",
-      "description": "Izraelská armáda tvrdí, že její „nejsilnější úder“ v Jemenu cílil na bezpečnostní a vojenské cíle, Hútíové však uvádějí, že byly zasaženy civilní objekty."
+      "description": "Izraelská armáda tvrdí, že jejím „nejsilnějším úderem“ v Jemenu byly cíle vojenské a bezpečnostní, Hútíové však uvádějí, že zasažena byla civilní zařízení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "100krát rychlejší než lidské myšlení.\" Seznamte se s notebookem Snapdragon vyvinutým pro agentní AI - pcworld.com",
-      "original_title": "'100 times faster than human thought.' Meet the Snapdragon laptop built for agentic AI - pcworld.com",
-      "url": "https://www.pcworld.com/article/2921466/humain-launches-horizon-pro-an-agentic-laptop.html",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/09/20250925_085723-5.jpg?quality=50&strip=all&w=1024",
-      "source": "PCWorld",
-      "publishedAt": "2025-09-25T19:30:00Z",
-      "description": "Humain a Qualcomm se spojily a představily Horizon Pro, nový hardware od nové společnosti, která chce být lídrem v agentní umělé inteligenci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Řada skvělých nabíječek je již v prodeji před říjnovým Prime Day",
-      "original_title": "A number of great chargers are already on sale ahead of October Prime Day - The Verge",
-      "url": "https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Anker-Nano-II.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-25T19:00:00Z",
-      "description": "Podzimní slevy Amazon Prime Day jsou až v říjnu, ale Anker a Jackery už zlevnily několik nabíječek včetně adaptérů do zásuvky a powerbank."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vesmírný teleskop Jamese Webba nahlíží hluboko do srdce tvorby hvězd v naší galaxii Mléčné dráze",
-      "original_title": "James Webb Space Telescope peers deep into the heart of star formation in our Milky Way galaxy - Space",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-peers-deep-into-the-heart-of-star-formation-in-our-milky-way-galaxy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hjALxN3jHm3DawKne5wgMK.png",
-      "source": "Space.com",
-      "publishedAt": "2025-09-25T19:00:00Z",
-      "description": "Tento masivní hvězdotvorný mrak pracuje překvapivě rychle."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "zemřela jako nejstarší člověk světa. Nová studie to přisuzuje genetickým variantám a možná jejímu zvyku jí jogurt.",
+      "title": "Dožila se nejvyššího věku na světě. Podle nové studie za to mohly genetické varianty a možná i její záliba v jogurtu.",
       "original_title": "She lived to be the world's oldest person. A new study credits genetic variants — and maybe her yogurt habit. - CBS News",
       "url": "https://www.cbsnews.com/news/worlds-oldest-person-study-genetic-yogurt-habit-maria-branyas-morera/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/25/be4e0845-4e57-4119-a405-a7f137d3f3d8/thumbnail/1200x630/32c51a379eaedfcdfa0a9d1656bd7f67/maria-branyas-morera-117e-aniversari.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-25T18:53:00Z",
-      "description": "Maria Branyas Morera kdysi na sociálních sítích napsala o své lásce k jogurtu, o kterém řekla, že „dává život“, a ten její byl dlouhý."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Nalezená lebka v Číně mění časovou osu lidské evoluce, tvrdí vědci",
-      "original_title": "A skull unearthed in China challenges the timeline of human evolution, scientists say - CNN",
-      "url": "https://www.cnn.com/2025/09/25/science/skull-denisovans-dragon-man-human-evolution",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/fossils-and-replicates-credit-mr-guanghui-zhao.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-25T18:01:09Z",
-      "description": "Vědci digitálně zrekonstruovali milion let starou lebku objevenou v Číně. Analýza možná otřásá dosavadními představami o rodokmenu lidského rodu."
+      "description": "Maria Branyas Morera kdysi na sociálních sítích zveřejnila příspěvek o lásce k jogurtu, který jí „dává život“, a ten její byl dlouhý."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Huntingtonova choroba poprvé léčena genovou terapií",
+      "title": "Netanjahuho letoun se při neobvyklé trase do New Yorku z velké části vyhnul evropskému vzdušnému prostoru",
+      "original_title": "Netanyahu's jet largely avoids European airspace in unusual route to New York - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/netanyahus-jet-largely-avoids-european-airspace-unusual-route/story?id\\\\u003d125935906",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-25T18:52:09Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Více dětí vážně onemocnělo nebo zemřelo na chřipku, hlásí CDC",
+      "original_title": "More kids are severely ill or dying from the flu, CDC reports - NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/flu-vaccines-children-complication-cdc-deaths-rcna233436",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250925-kids-and-flu-story-vl-926a-b3906b.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-25T17:59:41Z",
+      "description": "Hlas Christine Wearové se chvěje, když mluví o nadcházející chřipkové sezóně."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Huntingtonova choroba poprv léčena pomocí genové terapie",
       "original_title": "Huntington’s disease treated for first time using gene therapy - Nature",
       "url": "https://www.nature.com/articles/d41586-025-03139-9",
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03139-9/d41586-025-03139-9_51483510.jpg",
       "source": "Nature.com",
       "publishedAt": "2025-09-25T16:30:00Z",
-      "description": "Předběžné výsledky malé studie přinášejí nejjasnější důkazy, že progresi mozkové choroby lze zpomalit."
+      "description": "Předběžné výsledky malé studie přinášejí dosud nejjasnější důkazy, že progresi této mozkové choroby lze zpomalit."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Proč mozek uchovává některé vzpomínky a jiné nechává vyvanout",
+      "title": "Proč si mozek pamatuje některé vzpomínky a jiné nechá zmizet",
       "original_title": "Why the brain hangs on to some memories but lets others fade - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/09/25/human-brain-science-memory-forget-study/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPXSMLU7TIILFPDTLD2R2BUHZA_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-25T16:23:48Z",
-      "description": "Vědci z Bostonské univerzity věří, že propojení křehkých vzpomínek s emocionálními událostmi může pomoci je v budoucnu lépe uchovat."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Izraelské údery zabily v Gaze nejméně 17 Palestinců, mezinárodní tlak na příměří roste",
-      "original_title": "Israeli strikes kill at least 17 Palestinians in Gaza as international pressure for ceasefire grows - AP News",
-      "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-unga-macron-09-25-2025-a92c883b97b73a2d81e064c9d12589f1",
-      "urlToImage": "https://dims.apnews.com/dims4/default/53f1a49/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2F78%2Fb75232ff5f660ee60814723a1f54%2Faae776a6ba6f41eda82d14562336f71b",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-25T16:17:00Z",
-      "description": "Izraelské údery v Pásmu Gazy zabily podle místních zdravotníků nejméně 17 Palestinců, včetně 10 dětí a tří žen, zatímco mezinárodní tlak na příměří dál roste. Francouzský prezident Emmanuel Macron ..."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "OnePlus 15 se představuje předčasně, přichází s novým obrazovým engine a čipem Snapdragon 8 Elite Gen 5",
-      "original_title": "The OnePlus 15 gets early reveal, with new image engine and Snapdragon 8 Elite Gen 5 - 9to5Google",
-      "url": "http://9to5google.com/2025/09/25/oneplus-15-early-reveal/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/OnePlus-Shelf-on-OnePlus-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-25T13:00:00Z",
-      "description": "OnePlus 15 se podle všeho stane velkou změnou pro značku, s novým designem a potvrzením vlastního obrazového enginu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Případy pohlavních nemocí klesají, ale u novorozenců se syfilis vyskytuje stále častěji",
-      "original_title": "Sexually transmitted disease cases fall, but not syphilis in newborns - AP News",
-      "url": "https://apnews.com/article/cdc-std-trends-syphilis-chlamydia-gonorrhea-694fd1e1b61c6f22fa516a15abe0f206",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f64eeb5/2147483647/strip/true/crop/3008x1692+0+157/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F79%2F615a7926e35d6792452012fcb0cc%2Fc23796cc87624f95ba0321e8620ad90b",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-24T19:27:00Z",
-      "description": "Nové vládní údaje ukazují další pokles míry pohlavně přenosných chorob u dospělých v USA, ale také pokračující nárůst syfilis u novorozenců."
+      "description": "Vazba křehkých vzpomínek na emocionální události by mohla lidem pomoci lépe si je zapamatovat v budoucnosti, věří vědci z Boston University."
     },
     {
       "flag": "🌍",
@@ -318,7 +285,7 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250916-PH-SPX01_0001large-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-24T18:42:57Z",
-      "description": "„Je to jako s autobusem. Čekáš na jeden a pak přijedou tři najednou.“…"
+      "description": "„Je to jako s autobusem. Čekáš na jeden a pak přijedou tři najednou.“"
     }
   ]
 }
