@@ -1,16 +1,49 @@
 {
-  "last_updated": "2025-09-26T23:16:08",
+  "last_updated": "2025-09-27T01:17:21",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Alabama popravila vězně, který při loupeži v roce 1997 zavraždil prodavače z čerpací stanice kvůli 250 dolarům",
+      "original_title": "Alabama executes inmate who killed gas station clerk for $250 in 1997 robbery - AL.com",
+      "url": "https://www.al.com/news/2025/09/alabama-inmate-who-killed-gas-station-clerk-for-250-in-1997-set-to-be-executed-thursday.html",
+      "urlToImage": "https://www.al.com/resizer/v2/I6KMDZICYBCC7BVPMQQLYEAA24.png?auth=b29ae06ab439fd80f564137c7981ab6fa2f60e7ff26045a8145c070e8024d972&width=1280&smart=true&quality=90",
+      "source": "AL.com",
+      "publishedAt": "2025-09-26T01:34:00Z",
+      "description": "Geoffrey Todd West se ve finálním prohlášení zaslaném svým právníkem omluvil za trestný čin."
+    },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Starbucks náhle zavírá dvě pobočky v Seattlu",
-      "original_title": "Starbucks abruptly closes 2 Seattle stores - The Seattle Times",
-      "url": "https://www.seattletimes.com/business/starbucks/starbucks-closes-its-popular-reserve-roastery-store-on-capitol-hill/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09252025_Starbucks_tzr_080542.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-09-26T00:33:26Z",
-      "description": "„Bylo to pro nás obtížné rozhodnutí, ale i nadále jsme odhodláni vám sloužit,“ uvedl Starbucks v oznámení umístěném na zavřeném vstupu do pobočky na Capitol Hill."
+      "title": "Trump říká, že nedovolí Izraeli anektovat Západní břeh",
+      "original_title": "Trump says he won’t allow Israel to annex the West Bank - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/09/25/trump-israel-west-bank/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOLMYEPG4EMV3T2AOTDVNCM3WY_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-26T01:30:18Z",
+      "description": "Trumpovo veřejné odmítnutí možnosti anexe pomohlo vytvořit prostor pro arabské státy, aby zvážily americký plán na ukončení války a obnovu Gazy."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Bílý dům plánuje hromadná propouštění v případě zastavení činnosti vlády",
+      "original_title": "White House begins plan for mass firings if there’s a government shutdown - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/25/government-shutdown-omb-firings-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LK2GD3Q3ADAM6TZTJM5Y4GILBE.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-26T01:27:36Z",
+      "description": "Úřad pro řízení a rozpočet ve středu večer zaslal federálním agenturám memorandum s pokyny plánovat snížení počtu zaměstnanců včetně propouštění."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pojďme to vyzkoušet': Comey prohlašuje nevinnost, zatímco Trump jásá nad obžalobou velkou porotou, kterou požadoval",
+      "original_title": "'Let's have a trial': Comey proclaims innocence as Trump revels in grand jury indictment he demanded - Politico",
+      "url": "https://www.politico.com/news/2025/09/25/james-comey-charges-indictment-00581501",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0b%2F14%2F6f9f72fa4664ac6d54f9a605830d%2Faptopix-trump-fbi-comey-19853.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-26T01:24:33Z",
+      "description": "Velká porota obvinila bývalého ředitele FBI ze dvou těžkých zločinů pramenících z jeho svědectví před Kongresem v září 2020."
     },
     {
       "flag": "🇺🇸",
@@ -21,12 +54,34 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EVC3O2QZWVGHTB7GN4RJFQ3QIA.png&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-26T00:32:04Z",
-      "description": "Vědci digitálně rekonstruovali rozdrcenou lebku a posunuli stáří našeho druhu o 300 000 let, což rozpoutalo debatu o počátku rodu Homo sapiens."
+      "description": "Vědci digitálně rekonstruovali rozdrcenou lebku a posunuli stáří našeho druhu o 100 tisíc let, což rozpoutalo debatu o počátcích Homo sapiens."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pozůstatky nalezené ve Washingtonu patří otci hledanému za vraždu tří dcer",
+      "title": "USA zavedou cla na farmaceutické léky, kuchyňské skříňky, nábytek a nákladní vozy",
+      "original_title": "U.S. to impose tariffs on pharmaceutical drugs, kitchen cabinets, furniture and heavy trucks - CBS News",
+      "url": "https://www.cbsnews.com/news/tariff-pharmaceutical-drugs-kitchen-cabinets-furniture-heavy-trucks/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/24/592b24e3-5b41-4211-96a2-cd572809b06f/thumbnail/1200x630/ad07fe6472f3d99271c93510e9152128/gettyimages-2235539595.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-26T00:31:00Z",
+      "description": "Prezident Trump oznámil 100% clo na farmaceutické léky, 50% clo na kuchyňské skříňky a koupelnové umyvadlové skříně, 30% clo na čalouněný nábytek a 25% clo na těžké nákladní vozy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Televizní šéf, který vyhodil Kimmela ze svých stanic a rozpoutal bouři",
+      "original_title": "The TV Boss Who Kicked Kimmel Off His Stations and Started a Firestorm - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/media/who-is-nexstar-ceo-jimmy-kimmel-724f4da7",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-26T00:00:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pozůstatky nalezené ve Washingtonu patří uprchlému otci hledanému za vraždu tří dcer",
       "original_title": "Remains found in Washington confirmed to be fugitive dad wanted in killing of 3 daughters - NBC News",
       "url": "https://www.nbcnews.com/news/us-news/travis-decker-daughters-murder-rcna233552",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250603-travis-decker-daughters-se-356p-23c8d2.jpg",
@@ -37,84 +92,95 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "USA zavedou 100% clo na značkové a patentované léky, pokud firmy nepostaví místní továrny, říká Trump",
-      "original_title": "U.S. to impose 100% tariff on branded, patented drugs unless firms build plants locally, Trump says - CNBC",
-      "url": "https://www.cnbc.com/2025/09/26/us-to-impose-100percent-tariff-on-branded-patented-drugs-unless-firms-build-plants-locally-trump-says.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170161-1752153438082-gettyimages-1403598213-dsc09165.jpeg?v=1758019128&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-25T23:39:13Z",
-      "description": "Opatření se nebude vztahovat na společnosti stavějící továrny na výrobu léků v USA, dodal Trump."
+      "title": "Trump podepsal dekret umožňující dohodu o TikToku pokračovat",
+      "original_title": "Trump signs order allowing TikTok deal to proceed - Axios",
+      "url": "https://www.axios.com/2025/09/25/tiktok-trump-deal",
+      "urlToImage": "https://images.axios.com/KKK6S64jnp5e0DLTLE7bIVO1tHo=/1366x768/smart/2023/03/24/152514-1679671514250.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-25T22:42:03Z",
+      "description": "Dohoda stále není hotová, ale je blíž než kdy dřív k tomu, aby byla uzavřena."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bývalý ředitel FBI James Comey obžalován z obstrukcí a křivé výpovědi",
-      "original_title": "Former FBI Director James Comey indicted on obstruction, false statement charges - CNBC",
-      "url": "https://www.cnbc.com/2025/09/25/james-comey-indicted-fbi-trump.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204234-1758840400252-gettyimages-924335512-COMEY.jpeg?v=1758840534&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-25T22:51:09Z",
-      "description": "Prezident Donald Trump se jásavě vyjadřoval k podání trestního oznámení na Jamese Comeyho, kterého v roce 2017 během svého prvního funkčního období v Bílém domě odvolal z pozice ředitele FBI."
+      "title": "Navštíví ISS před svým pádem na Zem v roce 2030 ještě jeden kosmoplán? Sen se možná rozplývá.",
+      "original_title": "Will the ISS get another space plane visit before falling back to Earth in 2030? The dream may be fading - Space",
+      "url": "https://www.space.com/space-exploration/international-space-station/will-the-iss-get-another-space-plane-visit-before-falling-back-to-earth-in-2030-the-dream-may-be-fading",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3GF8WsnV7dt7pqhHrrAJDb.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-25T22:00:00Z",
+      "description": "NASA upravila svou smlouvu se společností Sierra Space na zásobování ISS, která staví robotický vesmírný letoun Dream Chaser."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Proveditelnost propouštění v souvislosti s odstávkou vlády je zpochybňována",
-      "original_title": "Feasibility of RIFs around a government shutdown called into question - Federal News Network",
-      "url": "https://federalnewsnetwork.com/government-shutdown/2025/09/feasibility-of-rifs-around-a-government-shutdown-called-into-question/",
-      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2017/11/the-white-house.jpg",
-      "source": "Federal News Network",
-      "publishedAt": "2025-09-25T22:30:00Z",
-      "description": "Navzdory pokynům Bílého domu k dalšímu propouštění někteří zpochybnili schopnost agentur sestavit tyto plány jen pár dní před uzavřením vlády."
+      "title": "Corey Feldman ostře kritizuje tvrzení Maksima Chmerkovského, že měla Jenna Johnsonová s ním na 'DWTS' 'obtížné období",
+      "original_title": "Corey Feldman blasts Maksim Chmerkovskiy's claim that Jenna Johnson had a 'difficult time' with him on 'DWTS' - Page Six",
+      "url": "https://pagesix.com/2025/09/25/entertainment/corey-feldman-blasts-maksim-chmerkovskiys-claim-that-jenna-johnson-had-a-difficult-time-with-him-on-dwts/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/09/112131013.jpg?quality=75&strip=all&w=1024",
+      "source": "Page Six",
+      "publishedAt": "2025-09-25T21:58:00Z",
+      "description": "Hereos „Stand by Me“ zanechal na Instagramu své partnerky z „Dancing With the Stars“ vtipný komentář."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump oznámil dohodu o převedení TikToku pod kontrolu amerických investorů - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Trump announces deal to put TikTok under control of US investors - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Business/trump-announces-deal-hand-tiktok-us-investors/story?id\\\\u003d125924104",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-25T21:54:56Z",
-      "description": ""
+      "title": "‚The Social Network 2‘: Bill Burr jedná o roli po boku Jeremyho Allena Whitea a Mikey Madison (exkluzivně)",
+      "original_title": "‘The Social Network Part II’: Bill Burr in Talks to Join Jeremy Allen White, Mikey Madison (Exclusive) - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/the-social-network-2-bill-burr-cast-1236385660/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2206573974-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-25T21:30:41Z",
+      "description": "Aaron Sorkin napsal scénář a režíruje toto drama pro Sony Pictures."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Páry na Ryder Cup: Bryson DeChambeau a Justin Thomas vytvoří tým pro páteční foursomes",
+      "title": "Párování na Ryder Cup: Bryson DeChambeau a Justin Thomas vytvořili tým na páteční foursomes",
       "original_title": "Ryder Cup pairings: Bryson DeChambeau, Justin Thomas team up for Friday morning foursomes - NBC Sports",
       "url": "https://www.nbcsports.com/golf/news/ryder-cup-2025-pairings-starting-times-friday-morning-foursomes",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f256c77/2147483647/strip/true/crop/4062x2285+0+212/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2Fa8%2Fbc20050e4ff6bff11f6eba9b0d09%2Frc-09-25-25-mr-q0a6071-5713539-1.jpg",
       "source": "NBCSports.com",
       "publishedAt": "2025-09-25T21:11:08Z",
-      "description": "Párování a časy začátků pátečních foursomů na Ryder Cupu 2025 v Bethpage Black"
+      "description": "Zde jsou párování a časy začátků pátečních foursom ráno na Ryder Cupu 2025 v Bethpage Black."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Aplikace Neon, která virálně šířila nahrávky hovorů, končí. Zveřejnila telefonní čísla, nahrávky a přepisy",
+      "title": "Aplikace Neon, která virálně nahrávala hovory, zhasla poté, co odhalila telefonní čísla, nahrávky hovorů a přepisy svých uživatelů",
       "original_title": "Viral call-recording app Neon goes dark after exposing users' phone numbers, call recordings, and transcripts - TechCrunch",
       "url": "https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/neon-phone-app-smaller.jpg?resize=1200,800",
       "source": "TechCrunch",
       "publishedAt": "2025-09-25T21:10:00Z",
-      "description": "Záznamník hovorů Neon byl kdysi jedním z nejlépe hodnocených aplikací pro iPhone, ale byl stažen poté, co bezpečnostní chyba umožnila přihlášeným uživatelům přístup k nahrávkám a přepisům hovorů os..."
+      "description": "Aplikace pro nahrávání hovorů Neon byla jedním z nejlépe hodnocených aplikací pro iPhone, ale byla stažena poté, co bezpečnostní chyba umožnila přihlášenému uživateli přístup k nahrávkám a přepisům..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Costco překonalo odhady zisku a tržeb, protože warehouse club získává mladší členy",
+      "title": "Zavírání poboček Starbucks: Toto je dosavadní seznam míst po celé zemi, která končí",
+      "original_title": "Starbucks store closings: Here's the list, so far, of locations shutting down nationwide - KGW",
+      "url": "https://www.kgw.com/article/news/nation-world/starbucks-closing-stores-list-2025/507-882735c5-70ec-41f4-8338-7259aa015e14",
+      "urlToImage": "https://media.kgw.com/assets/CCT/images/bc4c9782-d92e-45b3-bcfa-9e289c5b9073/20250729T222146/bc4c9782-d92e-45b3-bcfa-9e289c5b9073_1140x641.jpg",
+      "source": "KGW.com",
+      "publishedAt": "2025-09-25T21:04:00Z",
+      "description": "Přestože Starbucks neposkytl úplný seznam, desítky zavíraných poboček byly identifikovány zaměstnanci nebo potvrzeny prostřednictvím online otevírací doby."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Costco překonalo odhady zisku i tržeb, protože prodejní klub získává mladší členy",
       "original_title": "Costco tops earnings, revenue estimates as warehouse club wins over younger members - CNBC",
       "url": "https://www.cnbc.com/2025/09/25/costco-cost-q4-2025-earnings.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108199380-1758036121407-gettyimages-2216999918-COSTCO_EARNS.jpeg?v=1758634514&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-09-25T20:22:27Z",
-      "description": "Costco získává mladší členy díky lepšímu zboží a silnější digitální nabídce."
+      "description": "Costco přitahuje mladší členy lepším zbožím a silnější digitální nabídkou."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kameru iPhonu 17 Pro recenzuje Lux, tvůrce aplikace Halide – 9to5Mac",
+      "title": "Kameru iPhonu 17 Pro recenzuje tvůrce aplikace Halide Lux – 9to5Mac",
       "original_title": "iPhone 17 Pro cameras reviewed by Halide creator Lux - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/25/iphone-17-pro-cameras-reviewed-by-halide-creator-lux/",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -125,18 +191,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zpěvačka opouští hollywoodské sídlo spojené s nálezem mrtvého teenagera v Tesle",
+      "title": "Zpěvačka opouští hollywoodské sídlo spojované s nálezem mrtvého teenagera v Tesle",
       "original_title": "Singer leaves Hollywood mansion linked to teen found dead in Tesla - SFGATE",
       "url": "https://www.sfgate.com/bayarea/article/d4vd-leaves-hollywood-mansion-21067377.php",
       "urlToImage": "https://s.hdnux.com/photos/01/54/45/36/28465075/3/rawImage.jpg",
       "source": "SFGate",
       "publishedAt": "2025-09-25T19:43:03Z",
-      "description": "Dům v Hollywoodu, který je středobodem vyšetřování zmizení a smrti patnáctileté Celeste Rivas Hernandezové, opustil zpěvák D4vd."
+      "description": "Zpěvák D4vd opustil hollywoodský dům, který je středem vyšetřování zmizení a smrti patnáctileté Celeste Rivas Hernandezové."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vesmírný teleskop Jamese Webba nahlíží hluboko do srdce tvorby hvězd v naší galaxii Mléčná dráha",
+      "title": "Vesmírný teleskop Jamese Webba nahlíží hluboko do srdce formování hvězd v naší galaxii Mléčné dráze",
       "original_title": "James Webb Space Telescope peers deep into the heart of star formation in our Milky Way galaxy - Space",
       "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-peers-deep-into-the-heart-of-star-formation-in-our-milky-way-galaxy",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/hjALxN3jHm3DawKne5wgMK.png",
@@ -147,13 +213,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dožila se jako nejstarší člověk na světě. Podle nové studie za to mohly genetické varianty – a možná také zvyk jíst jogurt.",
+      "title": "Dožila se jako nejstarší člověk na světě. Podle nové studie za to vděčila genetickým variantám – a možná také zvyku jíst jogurty.",
       "original_title": "She lived to be the world's oldest person. A new study credits genetic variants — and maybe her yogurt habit. - CBS News",
       "url": "https://www.cbsnews.com/news/worlds-oldest-person-study-genetic-yogurt-habit-maria-branyas-morera/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/25/be4e0845-4e57-4119-a405-a7f137d3f3d8/thumbnail/1200x630/32c51a379eaedfcdfa0a9d1656bd7f67/maria-branyas-morera-117e-aniversari.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-25T18:53:00Z",
-      "description": "Maria Branyas Morera kdysi na sociálních sítích napsala o své lásce k jogurtu, který jí „dává život“, a ten její byl opravdu dlouhý."
+      "description": "Maria Branyas Morera kdysi na sociálních sítích zveřejnila příspěvek o své lásce k jogurtu, o kterém řekla, že „dává život“, a ten její byl dlouhý."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Humberto by se mohl spojit s další bouří, což je jev známý jako Fujiwhara efekt",
+      "original_title": "Humberto could mingle with another developing storm in what's called the Fujiwhara effect - CBS News",
+      "url": "https://www.cbsnews.com/news/humberto-another-developing-storm-fujiwhara-effect/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/25/8aded8fe-6398-425e-85a5-63bd3556744f/thumbnail/1200x630/8e28ae4ae2ee4c705f432de1917f23d6/fujiwhara-effect-1.png",
+      "source": "CBS News",
+      "publishedAt": "2025-09-25T18:42:00Z",
+      "description": "Tropická bouře Humberto se měla během zhruba jednoho dne stát hurikánem nad centrálním Atlantikem, oznámilo Národní hurikánové centrum."
     },
     {
       "flag": "🌍",
@@ -164,29 +241,18 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250925-Nicolas-Sarkozy-vl-1100a-b3693e.jpg",
       "source": "MSNBC",
       "publishedAt": "2025-09-25T18:06:47Z",
-      "description": "Pařížský soud ve čtvrtek shledal bývalého francouzského prezidenta Nicolase Sarkozyho vinným z trestného spolčení ve věci nezákonného financování kampaně z Libye, uvedla agentura AP."
+      "description": "Pařížský soud ve čtvrtek shledal bývalého francouzského prezidenta Nicolase Sarkozyho vinným z trestného spolčení za pokus o nezákonné financování kampaně z Libye, uvedla agentura AP."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Soudce zvažuje, zda zrušit prostituční trestné činy Seana 'Diddy' Combse",
-      "original_title": "Judge weighing whether to overturn Sean 'Diddy' Combs' prostitution-related convictions - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/sean-diddy-combs-returns-court-argue-prostitution-related/story?id\\\\u003d125905286",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-25T18:00:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chřipka způsobuje u dětí více těžkých onemocnění a úmrtí, uvádí CDC",
+      "title": "Více dětí vážně onemocnělo nebo zemřelo na chřipku, hlásí CDC",
       "original_title": "More kids are severely ill or dying from the flu, CDC reports - NBC News",
       "url": "https://www.nbcnews.com/health/health-news/flu-vaccines-children-complication-cdc-deaths-rcna233436",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250925-kids-and-flu-story-vl-926a-b3906b.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-25T17:59:41Z",
-      "description": "Hlas Christine Wearové se chvěje, když mluví o nadcházející chřipkové sezóně."
+      "description": "Hlas Christine Wearové se třese, když mluví o nadcházející chřipkové sezóně."
     },
     {
       "flag": "🌍",
@@ -197,18 +263,18 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4231x2380+0+66/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F80%2F05b3caad44d8844c40db8da82c6a%2Fgettyimages-2236730175.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-25T17:17:32Z",
-      "description": "Střelec zaútočil na imigrační zařízení v Dallasu, zabil jednu osobu a dvě další zranil. Vyšetřovatelé podávají nové informace o střelbě a útočníkovi."
+      "description": "Střelec zaútočil na imigrační zařízení v Dallasu, zabil jednu osobu a dvě další zranil. Vyšetřovatelé podávají novinky o střelbě a pachateli."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "OpenAI spouští ChatGPT Pulse pro aktivní psaní ranních přehledů",
+      "title": "OpenAI spouští ChatGPT Pulse, který vám automaticky připravuje ranní přehledy",
       "original_title": "OpenAI launches ChatGPT Pulse to proactively write you morning briefs - TechCrunch",
       "url": "https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/ChatGPT_Pulse.png?resize=1200,675",
       "source": "TechCrunch",
       "publishedAt": "2025-09-25T17:00:00Z",
-      "description": "Pulse je součástí širší změny v uživatelských produktech OpenAI, které jsou v poslední době navrhovány tak, aby fungovaly asynchronně namísto odpovídání na dotazy."
+      "description": "Pulse je součástí širší změny v spotřebních produktech OpenAI, které jsou v poslední době navrhovány tak, aby pro uživatele fungovaly asynchronně namísto odpovídání na otázky."
     },
     {
       "flag": "🌍",
@@ -224,7 +290,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ryan Walters rezignuje na post šéfa oklahomských veřejných škol, povede skupinu konzervativních pedagogů",
+      "title": "Ryan Walters rezignuje na post šéfa veřejných škol v Oklahomě, povede konzervativní skupinu učitelů",
       "original_title": "Ryan Walters resigns as Oklahoma's top public schools official to lead conservative educators' group - PBS",
       "url": "https://www.pbs.org/newshour/politics/ryan-walters-resigns-as-oklahomas-top-public-schools-official-to-lead-conservative-educators-group",
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/02/2024-02-01T205833Z_799484694_MT1USATODAY22422092_RTRMADP_3_OKLAHOMA-STATE-SCHOOLS-SUPERINTENDENT-RYAN-WALTERS-SPEAKS-1024x683.jpg",
@@ -235,7 +301,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Izraelské údery v Gaze zabily nejméně 17 Palestinců, mezinárodní tlak na příměří roste",
+      "title": "Izraelské údery zabily v Gaze nejméně 17 Palestinců, mezinárodní tlak na příměří roste",
       "original_title": "Israeli strikes kill at least 17 Palestinians in Gaza as international pressure for ceasefire grows - AP News",
       "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-unga-macron-09-25-2025-a92c883b97b73a2d81e064c9d12589f1",
       "urlToImage": "https://dims.apnews.com/dims4/default/53f1a49/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2F78%2Fb75232ff5f660ee60814723a1f54%2Faae776a6ba6f41eda82d14562336f71b",
@@ -246,68 +312,24 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Hegseth nařídil vzácnou, urgentní schůzku stovek generálů a admirálů",
-      "original_title": "Hegseth orders rare, urgent meeting of hundreds of generals, admirals - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/25/hegseth-generals-quantico-meeting/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D6VLBBFDYSPTUTSFGGF5VXHRX4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-25T15:55:38Z",
-      "description": "Pentagon svolal vojenské představitele z celého světa na setkání ve Virginii. Špičkoví generálové a jejich štáby neznají důvod schůzky."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Jimmy Kimmel pokračuje v žně vysokých sledovaností",
-      "original_title": "Jimmy Kimmel’s ratings bonanza continues - CNN",
-      "url": "https://www.cnn.com/2025/09/25/media/jimmy-kimmel-abc-ratings-viewers-youtube",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-179178-0993.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-25T14:59:06Z",
-      "description": "Nově nalezené nadšení pro moderátora noční show ABC po prvním monologu nevypraštilo."
+      "title": "Trump představil nový mírový plán pro Gazu vůdcům arabských a muslimských zemí",
+      "original_title": "Trump presents new Gaza peace plan to Arab and Muslim leaders - Financial Times",
+      "url": "https://www.ft.com/content/22f56c5c-09fb-4b15-8f21-b9a280fd39fb",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffeb7af4c-234e-49ab-97bd-081054505a56.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-25T13:21:19Z",
+      "description": "Není jasné, zda Izrael přijme návrh na trvalé příměří s omezenou rolí Palestinské správy"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Rick Moranis oficiálně končí s důchodem kvůli ‚Spaceballs 2‘, pokračování oznamuje kompletní obsazení a začíná natáčet",
-      "original_title": "Rick Moranis Officially Ends Retirement for ‘Spaceballs 2,’ Sequel Announces Full Cast as Filming Starts - Variety",
-      "url": "https://variety.com/2025/film/news/spaceballs-2-cast-rick-moranis-ends-retirement-1236529008/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/spaceballs.jpg?w=1000&h=562&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-25T14:00:00Z",
-      "description": "Rick Moranis po desetiletích oficiálně končí s hereckou pauzou a vrací se k živému herectví ve filmu Spaceballs 2."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Záhadná drony nad Dánskem jsou hybridním útokem, říká ministr obrany",
-      "original_title": "Mystery drones over Denmark are 'hybrid attack,' defense minister says - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/International/mystery-drones-denmark-hybrid-attack-defense-minister/story?id\\\\u003d125918649",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-25T13:30:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "OnePlus 15 se představuje předčasně, přináší nový obrazový engine a Snapdragon 8 Elite Gen 5",
-      "original_title": "The OnePlus 15 gets early reveal, with new image engine and Snapdragon 8 Elite Gen 5 - 9to5Google",
-      "url": "http://9to5google.com/2025/09/25/oneplus-15-early-reveal/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/OnePlus-Shelf-on-OnePlus-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-25T13:00:00Z",
-      "description": "OnePlus 15 se podle zvěstí stane velkou změnou, přinést má nový design a potvrzený vlastní obrazový engine."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Posádka Artemis II poletí k Měsíci v lodi Integrity",
-      "original_title": "The crew of Artemis II will fly on Integrity during mission to the Moon - Ars Technica",
-      "url": "https://arstechnica.com/space/2025/09/introducing-integrity-artemis-ii-astronauts-name-their-orion-ride-to-the-moon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092425b-lg-1152x648.jpg",
+      "title": "„Vesmírná spolujízda“ míří na vzdálenou pozorovatelnu kosmického počasí",
+      "original_title": "A “cosmic carpool” is traveling to a distant space weather observation post - Ars Technica",
+      "url": "https://arstechnica.com/space/2025/09/a-cosmic-carpool-is-traveling-to-a-distant-space-weather-observation-post/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-20250916-PH-SPX01_0001large-1152x648.jpg",
       "source": "Ars Technica",
-      "publishedAt": "2025-09-24T22:35:11Z",
-      "description": "První astronauti, kteří poletí na Měsíc po více než 50 letech, tak učiní v lodi Integrity."
+      "publishedAt": "2025-09-24T18:42:57Z",
+      "description": "„Je to jako autobus. Čekáte na jeden a pak přijedou tři najednou.“"
     }
   ]
 }
