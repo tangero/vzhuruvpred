@@ -1,76 +1,131 @@
 {
-  "last_updated": "2025-09-28T08:20:27",
+  "last_updated": "2025-09-28T09:16:00",
   "articles": [
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Agenté ministerstva spravedlnosti budou nasazeni do zařízení ICE na ochranu federálních agentů, říká Bondiová",
-      "original_title": "DOJ agents will be deployed to ICE facilities to protect federal agents, Bondi says - CNN",
-      "url": "https://www.cnn.com/2025/09/26/politics/bondi-doj-protect-ice-facilities-agents",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-25t205500z-812315066-rc28zgaz69fn-rtrmadp-3-usa-trump-tiktok-20250927031153091.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-27T03:29:00Z",
-      "description": "Ministryně spravedlnosti Pam Bondiová v pátek oznámila, že vysílá úředníky z ministerstva spravedlnosti do zařízení Imigrační a celní policie (ICE), aby chránila agenty a zařízení ICE."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Jak ochránit svá kolena do budoucna",
+      "original_title": "How to future-proof your knees - BBC",
+      "url": "https://www.bbc.com/future/article/20250926-how-to-futureproof-your-knees",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0m57jcl.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-27T10:04:17Z",
+      "description": "Kolena jsou jedním z našich nejdůležitějších kloubů, ale také jedním z těch nejvíce zanedbávaných. Věda říká, že práce, kterou do nich teď vložíme, se nám v budoucnu mnohonásobně vrátí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Soudce, který posuzoval obžalobu Jamese Comeyho, byl zmaten postupem žalobce, ukazuje přepis",
-      "original_title": "Judge who reviewed James Comey's indictment was confused by prosecutor's handling of case, transcript shows - CBS News",
-      "url": "https://www.cbsnews.com/news/judge-james-comey-indictment-confusion-trump/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/26/1c892758-d66e-4d74-8a4a-e54f5efbdd01/thumbnail/1200x630/1dd372ba41915309643ae90abbbb7bc4/gettyimages-693759058.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-27T01:11:46Z",
-      "description": "Soudce projevil zmatek a překvapení během čtvrtečního nočního zasedání soudu, kdy federální velká porota vrátila obžalobu Jamese Comeyho."
+      "title": "10 nejcennějších karet Mega evolucí z Pokémon TCG, které už teď chci získat",
+      "original_title": "The 10 Most Valuable Pokémon TCG Mega Evolution Cards That I'm Already Chasing - IGN",
+      "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-cards-most-expensive-cards",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/24/pokemon-tcg-mega-evolution-most-valuable-cards-cover-1758720791205.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-09-27T09:28:26Z",
+      "description": "Objevte 10 nejdražších karet Mega evolucí z Pokémon TCG seřazených podle tržní hodnoty."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Howie Rubin, významný investiční bankéř, obviněn z obchodu s lidmi – ABC News – Nejnovější zprávy, aktuální zpravodajství a videa",
+      "original_title": "Howie Rubin, prominent investment banker, charged with sex trafficking - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/howie-rubin-prominent-investment-banker-charged-sex-trafficking/story?id\\\\u003d125968421",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-27T06:33:45Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Šéf školského obvodu v Des Moines, bývalý olympionik, zatčen imigrační policií",
+      "original_title": "Des Moines schools superintendent, a former Olympian, arrested by ICE - The Washington Post",
+      "url": "https://www.washingtonpost.com/immigration/2025/09/26/ice-des-moines-superintendent-guyana/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2IG7BTMB27J434QQAQOO5424EQ_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-27T06:27:59Z",
+      "description": "Ředitel škol v Des Moines Ian Roberts zatčen imigračním úřadem kvůli nařízení o vyhoštění a neplatnému pracovnímu povolení"
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Průlom v léčbě Huntingtonovy choroby je jako desetkrát vyhrát v loterii",
+      "title": "Sankce OSN vůči Íránu budou obnoveny kvůli zakázané jaderné činnosti",
+      "original_title": "UN sanctions against Iran to resume over banned nuclear activity - BBC",
+      "url": "https://www.bbc.com/news/articles/c39rpgpvwy1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0353/live/8873a830-9b52-11f0-928c-71dbb8619e94.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-27T05:28:36Z",
+      "description": "Sankce zrušené v roce 2015 budou pravděpodobně obnoveny poté, co bylo Teheránu vytčeno nesplnění závazků."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Američtí pěstitelé sóji pod tlakem, když Čína blokuje dovoz a zásoby rostou",
+      "original_title": "US soyabean farmers squeezed as China blocks imports and stockpiles rise - Financial Times",
+      "url": "https://www.ft.com/content/b920c4c4-dcd7-4d5b-9a56-fc5cc1c994c4",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F501f7186-4ed6-4990-94f6-8be6f30d4157.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-09-27T05:14:32Z",
+      "description": "Zahraniční prodeje hlavní americké exportní plodiny prudce klesly, jednání mezi Washingtonem a Pekingem uvázla na mrtvém bodě"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Horoskop na sobotu 27. září 2025 - Chicago Sun",
+      "original_title": "Horoscope for Saturday, September 27, 2025 - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/horoscopes/2025/09/27/horoscopes-today-saturday-september-27-2025",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-09-27T05:01:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bondi slibuje vyslání agentů ministerstva spravedlnosti na ochranu zařízení ICE",
+      "original_title": "Bondi vows to send Justice Department agents to guard ICE facilities - CBS News",
+      "url": "https://www.cbsnews.com/news/bondi-federal-agents-doj-ice-facilities-trump/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/05/137d6343-a980-488d-928b-e199d677fd6e/thumbnail/1200x630/7e2c4f745c5e39f697b68b341324ef75/gettyimages-2222469436.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-27T03:05:09Z",
+      "description": "Ministryně spravedlnosti nařídila ochranu imigračních středisek a vyšetřování útoků na federální agenty."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Několik poboček Starbucks v okrese San Diego se natrvalo uzavírá. Zde je seznam: - cbs8.com",
+      "original_title": "Several Starbucks locations in San Diego County to close permanently. Here's the list: - cbs8.com",
+      "url": "https://www.cbs8.com/article/news/local/several-starbucks-san-diego-county-close-permanently/509-63a1098f-20d6-45be-a5f7-e6eef05f4981",
+      "urlToImage": "https://media.cbs8.com/assets/KFMB/images/ffd3bb6c-5fda-4715-966d-d01d21bd67bd/20250927T020457/ffd3bb6c-5fda-4715-966d-d01d21bd67bd_1140x641.jpg",
+      "source": "CBS News 8",
+      "publishedAt": "2025-09-27T02:09:00Z",
+      "description": "Objevte, které pobočky Starbucks v San Diegu tento víkend uzavírají své brány v rámci odvážného restrukturalizačního plánu na transformaci kávového gigantu."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Průlom v léčbě Huntingtonovy choroby je jako vyhrát v loterii desetkrát za sebou",
       "original_title": "Huntington's disease breakthrough 'is like winning the lottery 10 times over' - BBC",
       "url": "https://www.bbc.com/news/articles/c3vzek4dkyyo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4277/live/b3c50530-9abf-11f0-b832-7b9888705b9b.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-27T01:02:20Z",
-      "description": "Rodiny jásají nad zprávou o první léčbě zdrcující nemoci – ale kdy a jak ji zaplatí NHS?"
+      "description": "Rodiny jásají nad první léčbou zákeřné nemoci. Kdy a jak ji zaplatí britské zdravotnictví?"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nová vlna uzavírání Starbucks náhle zasáhla oblast Bay Area - sfgate.com",
-      "original_title": "A new wave of Starbucks closures suddenly hits the Bay Area - sfgate.com",
-      "url": "https://www.sfgate.com/food/article/bay-area-starbucks-store-closures-21069937.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/27/01/00/22810628/4/rawImage.jpg",
-      "source": "SFGate",
-      "publishedAt": "2025-09-27T00:23:45Z",
-      "description": "Starbucks oznámila plány zavřít stovky poboček v Severní Americe. Tento týden oznámila uzavření oblíbená pobočka v castrovské čtvrti v San Franciscu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ellen DeGeneres sdílí srdcervoucí zprávu po smrti bývalého hosta ve věku 19 let",
-      "original_title": "Ellen DeGeneres Share Heartbreaking Message After Former Guest Dies at 19 - TMZ",
-      "url": "https://www.tmz.com/2025/09/26/ellen-degeneres-boyfriend-kid-guest-tayt-andersen-dead/",
-      "urlToImage": "https://imagez.tmz.com/image/9f/16by9/2025/09/27/9fe4413bfc9e46f6b6ec9f2c1445d26a_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-09-27T00:18:32Z",
-      "description": "Ellen DeGeneresová se srdcervoucím holdem rozloučila s Taytem Andersenem — chlapcem, který se narodil jen s polovinou srdce"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Oficiální výsledky vážení | UFC Perth",
-      "original_title": "Official Weigh-In Results | UFC Perth - UFC.com",
-      "url": "https://www.ufc.com/news/official-weigh-results-ufc-perth-fight-night-ulberg-reyes",
-      "urlToImage": "https://ufc.com/images/styles/card/s3/2025-09/092625-ufc-perth-weigh-in-HERO.jpg?itok=eeS31CYf",
-      "source": "The Official Website of the Ultimate Fighting Championship",
-      "publishedAt": "2025-09-27T00:16:12Z",
-      "description": "Oficiální váhy bojovníků na UFC Fight Night: Ulberg vs. Reyes, živě z Perthu v Západní Austrálii 27. září"
+      "title": "Trump překonal vnitřní nesouhlas, aby prosadil svůj případ proti Comeymu",
+      "original_title": "Trump Overcame Internal Dissent to Get His Case Against Comey - The Wall Street Journal",
+      "url": "https://www.wsj.com/politics/policy/trump-overcame-internal-dissent-to-get-his-case-against-comey-320e8ee1",
+      "urlToImage": "https://images.wsj.net/im-31696173/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-27T01:00:00Z",
+      "description": "Rodina Comeyových se stala jedním z největších terčů Trumpovy pomsty v jeho druhém funkčním období"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Nejvyšší soud povolil Trumpově administrativě zmrazit miliardy na zahraniční pomoc",
+      "title": "Nejvyšší soud umožnil Trumpově administrativě zmrazit miliardy na zahraniční pomoc",
       "original_title": "Supreme Court allows Trump officials to freeze billions in foreign aid - The Washington Post",
       "url": "https://www.washingtonpost.com/politics/2025/09/26/supreme-court-foreign-aid-billions-trump-freeze/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLSJOK4OMOWUMFNDUEXBXTTZY4_size-normalized.jpg&w=1440",
@@ -81,7 +136,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ministr obrany Pete Hegseth promluví na vzácném setkání stovkám generálů o ‚bojové etice‘, uvádějí zdroje",
+      "title": "Ministr obrany Pete Hegseth promluví ke stovkám generálů o ‚bojové etice‘ na vzácném setkání: Zdroje",
       "original_title": "Defense Secretary Pete Hegseth to tell hundreds of generals about the 'warrior ethos' in rare gathering: Sources - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/Politics/defense-secretary-pete-hegseth-hundreds-generals-warrior-ethos/story?id\\\\u003d125978838",
       "urlToImage": null,
@@ -92,18 +147,18 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jimmy Kimmel se vrací na stanice ABC společností Nexstar a Sinclair",
-      "original_title": "Jimmy Kimmel is coming back to Nexstar and Sinclair’s ABC stations - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/26/jimmy-kimmel-sinclair-abc-kirk/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKW4MWCQLXFHYYZWXCCKFDYLMA_size-normalized.jpg&w=1440",
+      "title": "Co znamenají Trumpovy nové cla pro farmaceutika a patentované léky",
+      "original_title": "What Trump’s new tariffs mean for pharmaceuticals and patented drugs - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/26/trump-pharmaceutical-tariffs-drugs-impacts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6Z26VOI32M2XWAD44YWESYCRU4_size-normalized.JPG&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-09-26T23:21:53Z",
-      "description": "Pořad „Jimmy Kimmel Live!“ je od úterý, kdy Disney vlastněná ABC pozdně nočního moderátora vrátila do vysílání, stále mimo éter na stanicích ABC ve Washingtonu D.C. a dalších oblastech."
+      "publishedAt": "2025-09-26T22:46:35Z",
+      "description": "Trump řekl, že značkové léky čelí 100% clu, pokud se na ně nevztahují určité výjimky, což vyvolalo zmatek nad provedením politiky"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Senzační zpráva: Některé cesty kongresmanů se ruší kvůli hrozícímu zastavení činnosti vlády",
+      "title": "Senzační zpráva: Některé cesty kongresmanů se ruší kvůli hrozícímu výpadku vládních služeb",
       "original_title": "Scoop: Some of Congress' trips are being cancelled ahead of a potential shutdown - Axios",
       "url": "https://www.axios.com/2025/09/26/congress-government-shutdown-trips-cancelled",
       "urlToImage": "https://images.axios.com/UasQieUIJZoT-q1IVo4d2wmmCBI=/1366x768/smart/2024/12/19/204750-1734641270187.jpg",
@@ -112,37 +167,48 @@
       "description": "Je to jeden z nejzřetelnějších ukazatelů, že zákonodárci se připravují na odstávku."
     },
     {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Hlavní medtech firma ze Silicon Valley pozastavuje najímání zaměstnanců s vízem H-1B",
+      "original_title": "A major Silicon Valley medtech company just announced it was pausing H-1B hires - Business Insider",
+      "url": "https://www.businessinsider.com/intuitive-silicon-valley-medtech-company-pauses-h-1b-hiring-2025-9",
+      "urlToImage": "https://i.insider.com/68d6f995cc993f9955cf0b6e?width=1065&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-26T21:52:00Z",
+      "description": "Společnost Intuitive Surgical je známá především výrobou robotů pro chirurgii. Kvůli nové politice prezidenta Donalda Trumpa nyní zmrazila nabídky pro kandidáty na víza H-1B."
+    },
+    {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "VB vyzývána k jednání v případě z koloniální éry po uznání palestinského státu",
-      "original_title": "UK urged to act on colonial-era case after recognising Palestinian state - BBC",
-      "url": "https://www.bbc.com/news/articles/ce3yepedj57o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3b41/live/f7271330-9b1f-11f0-a521-fb5ed45b1785.jpg",
+      "title": "Sinclair bude vysílat Jimmyho Kimmela na svých stanicích ABC",
+      "original_title": "Sinclair to air Jimmy Kimmel on its ABC stations - BBC",
+      "url": "https://www.bbc.com/news/articles/cy7pm1jz0dlo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b157/live/0a72c3f0-9b14-11f0-a0ea-414bd016a286.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-09-26T22:17:00Z",
-      "description": "Právní petice obviňuje Británii z válečných zločinů z koloniální éry v historické Palestině v letech 1917–1948."
+      "publishedAt": "2025-09-26T21:13:04Z",
+      "description": "Diváci ve Washingtonu, DC, v St. Louis a v Seattlu budou moci opět sledovat pořad pozdně nočního komika."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Rada bezpečnosti OSN zamítla rezoluci Ruska a Číny o odložení sankcí vůči Íránu",
-      "original_title": "UN Security Council rejects Russia and China’s resolution to delay sanctions on Iran - PBS",
-      "url": "https://www.pbs.org/newshour/world/un-security-council-rejects-russia-and-chinas-resolution-to-delay-sanctions-on-iran",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-26T193550Z_1493458641_RC2VZGAZKSCZ_RTRMADP_3_IRAN-NUCLEAR-UN-1024x576.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-26T21:38:57Z",
-      "description": "Rada bezpečnosti OSN v pátek odmítla další zoufalý pokus o odložení opětovného uvalení sankcí na Írán kvůli jeho jadernému programu"
+      "title": "YouTube Music testuje moderátory s umělou inteligencí, kteří vám budou přerušovat hudbu",
+      "original_title": "YouTube Music is testing AI hosts that will interrupt your tunes - Ars Technica",
+      "url": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/YTP_YTLabs.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-26T21:05:30Z",
+      "description": "YouTube Labs bude místo, kde si můžete prohlédnout všechny připravované funkce aplikace využívající umělou inteligenci."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Živé aktualizace: Delegáti opouštějí projev Benjamina Netanjahua na Valném shromáždění OSN",
-      "original_title": "Live updates: Delegates walk out on Netanyahu speech at UN General Assembly - CNN",
-      "url": "https://www.cnn.com/world/live-news/israel-netanyahu-gaza-palestine-09-26-25-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235044634-20250922104817363.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-26T19:40:00Z",
-      "description": "Izraelský premiér Benjamin Netanjahu promluvil na Valném shromáždění OSN před svým příští týden plánovaným setkáním s prezidentem Donaldem Trumpem, který slíbil zablokovat anexi okupovaného Západní..."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zatím mnozí šéfové agentur říkají personálu, aby nebral hrozbu propouštění při odstávce vážně",
+      "original_title": "So far, many agency leaders are telling staff not to take shutdown layoff threat seriously - Government Executive",
+      "url": "https://www.govexec.com/workforce/2025/09/so-far-many-agency-leaders-are-telling-staff-not-take-shutdown-layoff-threat-seriously/408417/",
+      "urlToImage": "https://cdn.govexec.com/media/img/cd/2025/09/26/09262025whitehouse/open-graph.jpg",
+      "source": "GovExec.com",
+      "publishedAt": "2025-09-26T20:23:06Z",
+      "description": "V jednom případě však vedení zdůraznilo, že propouštění je reálnou možností: „Chtějí, aby lidé pocítili dopad výluky.“"
     },
     {
       "flag": "🌍",
@@ -156,59 +222,37 @@
       "description": "Patnáct let po \"The Social Network\" chystá režisér Aaron Sorkin pokračování o Facebooku s názvem \"The Social Reckoning\"."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump ničí americké pěstitelé sóji a zrazuje je ve prospěch Argentiny",
-      "original_title": "Trump Is Annihilating America’s Soybean Farmers and Betraying Them for Argentina - splinter.com",
-      "url": "https://www.splinter.com/trump-is-annihilating-americas-soybean-farmers-and-betraying-them-for-argentina",
-      "urlToImage": "https://img.pastemagazine.com/wp-content/suploads/2025/09/main-Soybean-Farmer_with_Ipad_48754451243.jpg",
-      "source": "Splinter.com",
-      "publishedAt": "2025-09-26T17:49:23Z",
-      "description": "Splinter je váš domov pro zprávy a názory, které boří zažité pořádky v našem politickém a ekonomickém systému, jenž se každým dnem stále více vymyká kontrole."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Quarterback Steelers Aaron Rodgers o pozdním příletu do Irska: ‚Co se dá dělat‘",
+      "original_title": "Steelers QB Aaron Rodgers on Late Arrival to Ireland: ‘It Is What It Is’ - FOX Sports",
+      "url": "https://www.foxsports.com/stories/nfl/steelers-qb-aaron-rodgers-late-arrival-ireland-it-what-is",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/09/1408/814/aaron-rodgers1.jpg?ve=1&tl=1",
+      "source": "Fox Sports",
+      "publishedAt": "2025-09-26T19:14:35Z",
+      "description": "Aaron Rodgers v pátek hovořil s mezinárodním tiskem, oblečen do černa a rozmrzelý z toho, že se do Irska dostal později, než by chtěl."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple vytváří aplikaci podobnou ChatGPT, která pomůže otestovat přepracovanou Siri",
+      "title": "Apple vytváří aplikaci podobnou ChatGPT, která pomůže otestovat modernizovanou Siri",
       "original_title": "Apple Builds a ChatGPT-Like App to Help Test the Revamped Siri - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-09-26/apple-builds-a-chatgpt-like-app-to-help-test-the-revamped-siri",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6hHU5sjhdPU/v0/1200x800.jpg",
       "source": "Bloomberg",
       "publishedAt": "2025-09-26T17:40:16Z",
-      "description": "Společnost Apple Inc. vyvinula aplikaci pro iPhone podobnou ChatGPT, která pomáhá testovat a připravovat se na dlouho očekávanou přestavbu Siri plánovanou na příští rok, uvádějí lidé obeznámeni se ..."
+      "description": "Společnost Apple Inc. vyvinula aplikaci pro iPhone podobnou ChatGPT, která pomáhá testovat a připravovat se na dlouho očekávanou přestavbu Siri příští rok, uvádějí lidé obeznámeni s touto záležitostí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Slunce vystřelilo energetický paprsek přímo na záhadný mezihvězdný objekt prolétající sluneční soustavou",
-      "original_title": "Sun Fires Energy Blast Straight at Mysterious Interstellar Object Cruising Through Solar System - Futurism",
-      "url": "https://futurism.com/space/interstellar-object-sun-coronal-mass-ejection",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/09/interstellar-object-sun-coronal-mass-ejection.jpg",
-      "source": "Futurism",
-      "publishedAt": "2025-09-26T16:29:17Z",
-      "description": "Dříve tento týden vyslalo Slunce proud plazmatu a magnetických polí neboli výron koronální hmoty směrem k mezihvězdnému objektu 3I/ATLAS."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nejméně 19 lidí zemřelo po požití závadného alkoholu v Rusku, uvedly úřady",
-      "original_title": "At least 19 people die after drinking tainted liquor in Russia, officials say - CBS News",
-      "url": "https://www.cbsnews.com/news/tainted-alcohol-deaths-russia-arrests/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/03/04/94ff4029-e8cc-4722-b5ba-a1ee61871cc8/thumbnail/1200x630/ce4c46175a25ad910868fe6390d9a6da/russia-flag.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-26T16:16:00Z",
-      "description": "Případy hromadných úmrtí po požití laciných náhražek alkoholu vlastní výroby nejsou v Rusku neobvyklé."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Samsung Galaxy TriFold unikl na internet a nabízí pohled na multitasking na obřím skládacím zařízení - 9to5Google",
-      "original_title": "Samsung Galaxy TriFold leak offers glimpse into multitasking on a giant foldable - 9to5Google",
-      "url": "http://9to5google.com/2025/09/26/samsung-galaxy-trifold-leaks-show-multitasking/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-26T16:16:00Z",
-      "description": "Nově uniklé softwarové animace od Samsungu nám poskytují větší náhled na multitasking Galaxy TriFoldu a vypadá to, že..."
+      "title": "Amazon zaplatí 2,5 miliardy dolarů za ‚obelhávání‘ lidí k odběru Amazon Prime",
+      "original_title": "Amazon Will Cough Up $2.5 Billion for 'Tricking' People Into Amazon Prime Subscriptions - CNET",
+      "url": "https://www.cnet.com/news/amazon-will-cough-up-2-5-billion-for-tricking-people-into-amazon-prime-subscriptions/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/5c4ce5a0f647ca1b0695b30f650a45dbf86b1278/hub/2025/09/26/f91da03f-4181-4371-adb5-d2b49fea9eaa/amazon-building-texas-gettyimages-2219738045.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-26T17:38:00Z",
+      "description": "Žaloba FTC proti Amazonu končí jedním z nejnákladnějších vyrovnání na ochranu spotřebitelů v historii USA."
     },
     {
       "flag": "🇺🇸",
@@ -224,46 +268,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podle studie může milion let stará lebka z Číny přepsat historii lidské evoluce: „Mění to mnoho zažitých představ“",
+      "title": "Milion let stará lebka objevená v Číně může přepsat historii lidské evoluce, zjistila studie: „Mění to spoustu zažitých představ“",
       "original_title": "Million-year-old skull found in China could rewrite human evolution timeline, study finds: \"This changes a lot of thinking\" - CBS News",
       "url": "https://www.cbsnews.com/news/ancient-skull-could-rewrite-human-evolution-timeline-study/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/26/f04ce03b-7014-478f-94fb-906c50f08b3f/thumbnail/1200x630g8/ba4f3d1304b593baeba0a7c496e57fd0/2025-09-25t175745z-2146362306-rc2mvgaz2i10-rtrmadp-3-science-skull.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-26T14:56:04Z",
-      "description": "Objevy by mohly vyřešit dlouholetý zmatek v lidské evoluci označovaný jako „Muddle in the Middle“, uvedli vědci."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Byla nejstarším člověkem na světě, dožila se 117 let. Co o tajemství dlouhověkosti prozrazují její geny?",
-      "original_title": "She was the world’s oldest person, living to 117. What do her genes reveal about the secret of longevity? - CNN",
-      "url": "https://www.cnn.com/2025/09/26/health/maria-branyas-morera-study-genes-intl-scli-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2008.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-26T13:05:19Z",
-      "description": "Když je superstoletý, tedy někdo starší než 110 let, dotazován, nevyhnutelně je požádán, aby se podělil o své tipy na dlouhověkost."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Amazon vráti peniaze predplatiteľom služby Prime. Ako si o ne požiadať",
-      "original_title": "Amazon will refund Prime subscribers in major FTC settlement. How to get yours - Houston Chronicle",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/amazon-prime-lawsuit-settlement-21068049.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/47/53/45/27179364/6/rawImage.jpg",
-      "source": "Houston Chronicle",
-      "publishedAt": "2025-09-26T11:12:25Z",
-      "description": "Amazon se dohodl s Federální obchodní komisí na vyrovnání za 2,5 miliardy dolarů"
+      "description": "Objev by mohl vyřešit dlouholetý \"nešvar střední fáze\" ve vývoji člověka, uvedli vědci."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX vypustila 24 internetových satelitů Starlink a přistála s raketou na mořské lodi",
+      "title": "SpaceX vyslala na oběžnou dráhu 24 satelitů Starlink a přistála s raketou na mořské plošině",
       "original_title": "SpaceX launches 24 Starlink internet satellites, lands rocket on ship at sea - Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-internet-satellites-group-17-11",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/7LrbHprBFbeTx245asFbbV.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-26T06:03:03Z",
-      "description": "Byl to 123. letošní start Falconu 9 od SpaceX."
+      "description": "Byl to 123. start Falconu 9 od SpaceX v tomto roce."
     },
     {
       "flag": "🌍",
@@ -279,6 +301,28 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Lasery, optická vlákna a drobné vibrace naznačují způsob varování před zemětřeseními",
+      "original_title": "Lasers, fiber optics and tiny vibrations tease a way to warn about earthquakes - NBC News",
+      "url": "https://www.nbcnews.com/science/earthquakes/lasers-fiber-optics-tiny-vibrations-tease-way-warn-earthquakes-rcna233568",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250925-fiber-optic-cable-earthquake-lr-f5061f.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-25T21:12:58Z",
+      "description": "Vědci dokázali pomocí dat z optického kabelu a citlivého měřicího zařízení „vyfotografovat“ zemětřesení u Mendocina."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Více dětí s chřipkou má vážný průběh nebo umírá kvůli poklesu proočkovanosti, uvádí CDC",
+      "original_title": "More kids with the flu are getting severely ill or dying as vaccine rates fall, CDC reports - NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/flu-vaccines-children-complication-cdc-deaths-rcna233436",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250925-kids-and-flu-story-vl-926a-b3906b.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-25T19:35:58Z",
+      "description": "S menším počtem očkovaných dětí přibývá vzácných a závažných komplikací. Minulá sezóna zaznamenala v USA nejvyšší počet úmrtí na chřipku u dětí za posledních 15 let."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Vesmírný teleskop Jamese Webba nahlíží hluboko do srdce tvorby hvězd v naší galaxii Mléčné dráze",
       "original_title": "James Webb Space Telescope peers deep into the heart of star formation in our Milky Way galaxy - Space",
       "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-peers-deep-into-the-heart-of-star-formation-in-our-milky-way-galaxy",
@@ -286,17 +330,6 @@
       "source": "Space.com",
       "publishedAt": "2025-09-25T19:00:00Z",
       "description": "Tento obří hvězdotvorný mrak pracuje překvapivě rychle."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Apple tvrdí, že stojánky MagSafe jsou zodpovědné za ‚škrábance na iPhonu 17‘",
-      "original_title": "Apple claims MagSafe stands are responsible for iPhone 17 'Scratchgate' - Mashable",
-      "url": "https://mashable.com/article/apple-iphone-17-scratchgate-response-magsafe-stands",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01CaYB07VQjZlLUh3K5CPl3/hero-image.fill.size_1200x675.v1758811718.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-09-25T15:11:13Z",
-      "description": "Zdá se, že škrábance nejsou vůbec škrábanci."
     }
   ]
 }
