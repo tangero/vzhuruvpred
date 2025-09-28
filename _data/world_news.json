@@ -1,60 +1,82 @@
 {
-  "last_updated": "2025-09-27T23:15:50",
+  "last_updated": "2025-09-28T01:28:07",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Oficiální výsledky vážení | UFC Perth",
+      "original_title": "Official Weigh-In Results | UFC Perth - UFC.com",
+      "url": "https://www.ufc.com/news/official-weigh-results-ufc-perth-fight-night-ulberg-reyes",
+      "urlToImage": "https://ufc.com/images/styles/card/s3/2025-09/092625-ufc-perth-weigh-in-HERO.jpg?itok=eeS31CYf",
+      "source": "The Official Website of the Ultimate Fighting Championship",
+      "publishedAt": "2025-09-27T00:16:12Z",
+      "description": "Oficiální váhy bojovníků na UFC Fight Night: Ulberg vs. Reyes, živě z Perthu v Západní Austrálii 27. září"
+    },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Co znamenají Trumpova nová cla pro farmaceutika a patentované léky",
-      "original_title": "What Trump’s new tariffs mean for pharmaceuticals and patented drugs - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/26/trump-pharmaceutical-tariffs-drugs-impacts/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6Z26VOI32M2XWAD44YWESYCRU4_size-normalized.JPG&w=1440",
+      "title": "Jimmy Kimmel se vrací na stanice ABC společností Nexstar a Sinclair",
+      "original_title": "Jimmy Kimmel is coming back to Nexstar and Sinclair’s ABC stations - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/09/26/jimmy-kimmel-sinclair-abc-kirk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKW4MWCQLXFHYYZWXCCKFDYLMA_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-09-26T22:46:35Z",
-      "description": "Trump řekl, že značkové léky čelí 100% clu, pokud se neuplatní určité výjimky, což vyvolalo zmatek nad provedením politiky"
+      "publishedAt": "2025-09-26T23:21:53Z",
+      "description": "Pořad „Jimmy Kimmel Live!“ je od úterního návratu moderátora zpět na stanicích ABC ve Washingtonu D.C. a dalších městech mimo vysílání."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nexstar a Sinclair vracejí pořad Jimmyho Kimmela na místní televizní stanice",
-      "original_title": "Nexstar and Sinclair bring Jimmy Kimmel’s show back to local TV stations - AP News",
-      "url": "https://apnews.com/article/jimmy-kimmel-sinclair-affiliates-40489e9058a609029ebcb2ef894221e9",
-      "urlToImage": "https://dims.apnews.com/dims4/default/6e69b1a/2147483647/strip/true/crop/3607x2029+0+187/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2F23%2F159cf584217916f2b9f11d9139da%2Fdad94b0388e840b0a86522bdf8d15431",
+      "title": "Íránský prezident vzdoruje, hrozí obnovení sankcí",
+      "original_title": "Iran’s President Defiant as Sanctions Set to Return - The Wall Street Journal",
+      "url": "https://www.wsj.com/world/irans-president-defiant-as-sanctions-set-to-return-f937bc42",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-26T23:00:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Senzační zpráva: Některé cesty kongresmanů se ruší kvůli hrozícímu výpadku financování",
+      "original_title": "Scoop: Some of Congress' trips are being cancelled ahead of a potential shutdown - Axios",
+      "url": "https://www.axios.com/2025/09/26/congress-government-shutdown-trips-cancelled",
+      "urlToImage": "https://images.axios.com/UasQieUIJZoT-q1IVo4d2wmmCBI=/1366x768/smart/2024/12/19/204750-1734641270187.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-09-26T22:44:20Z",
+      "description": "Je to jeden z nejzřetelnějších ukazatelů, že zákonodárci se připravují na odstávku."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ve vzácném pokárání federální úředníci potrestali strážníka imigrační služby za postrčení ženy v New Yorku",
+      "original_title": "In rare rebuke, federal officials discipline ICE officer for shoving woman in New York - AP News",
+      "url": "https://apnews.com/article/ice-new-york-city-immigration-trump-108b0d30d937f5aa32b81d8d446ea9e4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/61ea6c7/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8b%2F6b%2F66b0b5053bf2c04a45bea42f28e7%2F27dca02d81194bacacc040426aa1ffcd",
       "source": "Associated Press",
-      "publishedAt": "2025-09-26T22:09:00Z",
-      "description": "Nexstar Media Group a Sinclair Broadcast Group vrátily pořad Jimmyho Kimmela zpět na svá lokální televizní stanice. Tím končí několikadenní výpadek vysílání v desítkách amerických měst, který násle..."
+      "publishedAt": "2025-09-26T21:38:00Z",
+      "description": "Ministerstvo vnitřní bezpečnosti odvolalo imigračního úředníka z povinností poté, co v imigračním soudě na Manhattanu srazil ženu na zem"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejvyšší soud umožnil Trumpovi zadržet 4 miliardy dolarů na zahraniční pomoc",
+      "title": "Nejvyšší soud povolil Trumpovi zadržet 4 miliardy dolarů na zahraniční pomoc",
       "original_title": "Supreme Court allows Trump to withhold $4 billion in foreign aid funding - NBC News",
       "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-withhold-4-billion-foreign-aid-funding-rcna230348",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250908-trump-rs-fa5605.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-26T21:32:49Z",
-      "description": "Nejvyšší soud umožnil Trumpově administrativě zadržet 4 miliardy dolarů na zahraniční pomoc schválenou Kongresem."
+      "description": "Nejvyšší soud umožnil Trumpově administrativě zadržet 4 miliardy dolarů na zahraniční pomoc schválené Kongresem."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Demokraté ve Sněmovně reprezentantů zveřejnili část dokumentů o Epsteinovi s odkazy na Muska, Gatese a prince Andrewa",
-      "original_title": "House Democrats release partial Epstein records referencing Musk, Gates and Prince Andrew - PBS",
-      "url": "https://www.pbs.org/newshour/politics/house-democrats-release-partial-epstein-records-referencing-musk-gates-and-prince-andrew",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/HighStakes-1024x683.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-26T20:48:17Z",
-      "description": "Strany z Epsteinova rozvrhu ukazují, že byl v kontaktu s prominentními osobnostmi, jako jsou Elon Musk, Bill Gates, Steve Bannon a Peter Thiel. Neexistuje však žádný důkaz, že by tyto osoby věděly ..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Střelec z hromadné střelby na Manhattanu měl rané stádium CTE, zjistil soudní lékař",
-      "original_title": "Midtown Manhattan mass shooting gunman had low-stage CTE, medical examiner finds - CBS News",
-      "url": "https://www.cbsnews.com/newyork/news/midtown-mass-shooting-gunman-shane-tamura-cte-autopsy/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/06/8933d8b7-bd53-4958-928a-3aa116f062da/thumbnail/1200x630/2013a6ea9c31afd81c86b6ae039b2efb/11-saeidi-image-720.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-26T20:46:08Z",
-      "description": "Střelec Shane Tamura, který v newyorském Midtownu zabil čtyři lidi, měl rané stádium CTE, oznámily v pátek úřady."
+      "title": "YouTube Music testuje umělé moderátory, kteří vám budou přerušovat hudbu",
+      "original_title": "YouTube Music is testing AI hosts that will interrupt your tunes - Ars Technica",
+      "url": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/YTP_YTLabs.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-26T21:05:30Z",
+      "description": "YouTube Labs bude místo, kde si můžete prohlédnout všechny připravované funkce aplikace využívající umělou inteligenci."
     },
     {
       "flag": "🌍",
@@ -68,103 +90,92 @@
       "description": ""
     },
     {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Spirit Airlines zastavuje 40 tras, najímá bývalého šéfa plánování sítě z Amazonu",
+      "original_title": "Spirit Airlines is halting 40 routes, hires ex-Amazon network planning exec - CNBC",
+      "url": "https://www.cnbc.com/2025/09/26/spirit-airlines-routes-network-planning.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409734-1714681228947-gettyimages-2006559720-01-b0005020-_hya9z9q0.jpeg?v=1747149844&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-26T20:12:51Z",
+      "description": "Spirit oznámil zastavení 40 linek, aby se soustředil na silnější trhy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Selena Gomez a svatba: Vše, co víme o jejím vztahu s Bennym Blancem a jejich nadcházející svatbě",
+      "original_title": "Selena Gomez wedding: Everything we know about her relationship with Benny Blanco and their upcoming nuptials - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/celebrity/article/selena-gomez-wedding-everything-we-know-about-her-relationship-with-benny-blanco-and-their-upcoming-nuptials-195457701.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q.dEZZpVKK7dBiITRYQX_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/05c31d60-9afa-11f0-b59e-458300a12a3c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-26T19:54:58Z",
+      "description": "Selena Gomez a Benny Blanco se prý chystají říct své „ano“ na ultratajném hvězdami nabitém obřadu v sobotu 27. září v kalifornském Montecitu."
+    },
+    {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Živé přenosy: Delegáti opouštějí Netanjahuův projev na Valném shromáždění OSN",
+      "title": "Živě: Delegáti během Netanjahuova projevu na Valném shromáždění OSN odešli",
       "original_title": "Live updates: Delegates walk out on Netanyahu speech at UN General Assembly - CNN",
       "url": "https://www.cnn.com/world/live-news/israel-netanyahu-gaza-palestine-09-26-25-intl",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235044634-20250922104817363.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-26T19:40:00Z",
-      "description": "Izraelský premiér Benjamin Netanjahu promluvil na Valném shromáždění OSN před svým příští týden plánovaným setkáním s prezidentem Donaldem Trumpem, který slíbil zablokovat anexi okupovaného Západní..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Pokračování filmu ‚The Social Network‘ se zaměří na úniky informací od Haugenové, Zuckerberga bude hrát Jeremy Strong",
-      "original_title": "'The Social Network' sequel will focus on Haugen leaks, with Jeremy Strong as Mark Zuckerberg - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/26/the-social-network-sequel-will-focus-on-haugen-leaks-with-jeremy-strong-as-mark-zuckerberg/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/jeremy-strong-mark-zuckerberg.jpg?resize=1200,800",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-26T19:25:48Z",
-      "description": "Patnáct let po \"Sociální síti\" točí režisér Aaron Sorkin pokračování o Facebooku s názvem \"Sociální účet\"."
+      "description": "Izraelský premiér Benjamin Netanjahu promluvil na Valném shromáždění OSN před svým příštím týdnem plánovaným setkáním s prezidentem Donaldem Trumpem, který slíbil zablokovat anexi okupovaného Západ..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Nové podrobnosti o Hegsethově neobvyklém setkání špiček armády",
-      "original_title": "New details emerge on Hegseth’s unusual mass gathering of top brass - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2025/09/26/hegseth-generals-meeting-warrior-speech/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6J3S2Y43U24CBRRCVQLL2LJ74.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-26T18:20:43Z",
-      "description": "Ministr obrany Pete Hegseth svolal stovky generálů na krátkou přednášku o „bojové etice“. Špičkoví důstojníci se ale připravují na možné propouštění nebo degradace."
+      "title": "Hegseth nečekaně shromáždil vysoké vojenské důstojníky, aby pronesl projev o ‚bojové etice‘, tvrdí zdroje",
+      "original_title": "Hegseth’s surprise gathering of top military brass is to deliver speech on ‘warrior ethos,’ sources say - CNN",
+      "url": "https://www.cnn.com/2025/09/26/politics/hegseth-generals-meeting-warrior-ethos",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25268580277190.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-26T18:49:49Z",
+      "description": "Ministr obrany Pete Hegseth svolal překvapivé setkání stovek generálů a admirálů ve Virginii na příští týden, aby popsal přeměnu ministerstva obrany na „ministerstvo války“ a nastínil nové pohotovo..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "FAA povolila Boeingu podílet se na certifikaci, že letouny 737 MAX a 787 jsou bezpečné pro létání",
+      "title": "FAA umožňuje Boeingu pomáhat s certifikací, že letouny 737 MAX a 787 jsou bezpečné pro provoz",
       "original_title": "FAA allows Boeing to help certify 737 MAX and 787 planes are safe to fly - The Seattle Times",
       "url": "https://www.seattletimes.com/business/boeing-aerospace/faa-allows-boeing-to-certify-737-max-and-787-planes-are-safe-to-fly/",
       "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09262025_tzr_tzr_100728.jpg?d=1200x630",
       "source": "The Seattle Times",
       "publishedAt": "2025-09-26T17:45:29Z",
-      "description": "Federální letecký úřad uvedl, že od pondělí „umožní Boeingovi omezené zmocnění“ k vydávání osvědčení o letové způsobilosti pro některé 737 a 787."
+      "description": "Federální letecký úřad uvedl, že od pondělí „povolí omezené delegování Boeingu“ pro vydávání osvědčení o letové způsobilosti některých letadel 737 a 787."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Záhada kosmické exploze mate vědce, přiznávají",
+      "title": "Záhada kosmického výbuchu vědce mate, přiznávají",
       "original_title": "Mysterious cosmic explosion can't be explained, scientists say - Live Science",
       "url": "https://www.livescience.com/space/astronomy/mysterious-cosmic-explosion-cant-be-explained-scientists-say",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/m9DaZpZi9RmmVNUpjq7qcD.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-26T17:44:29Z",
-      "description": "Vědci detekovali gama záblesk mimo Mléčnou dráhu, který se liší od všech dosud pozorovaných. Záhadná vesmírná exploze nemá uspokojivé vysvětlení, ale může souviset s nepolapitelnými černými dírami ..."
+      "description": "Vědci detekovali gama záblesk mimo Mléčnou dráhu, který se liší od všech dosud pozorovaných. Pro záhadný kosmický výbuch neexistuje uspokojivé vysvětlení, ale může souviset s nepolapitelnými černým..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple vytváří aplikaci podobnou ChatGPT, která pomáhá testovat vylepšenou Siri",
-      "original_title": "Apple Builds a ChatGPT-Like App to Help Test the Revamped Siri - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-26/apple-builds-a-chatgpt-like-app-to-help-test-the-revamped-siri",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6hHU5sjhdPU/v0/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-26T17:40:16Z",
-      "description": "Společnost Apple vyvinula aplikaci pro iPhone podobnou ChatGPT, která pomáhá testovat a připravovat se na dlouho očekávanou přestavbu Siri příští rok, uvádějí lidé obeznámení se situací."
+      "title": "Smrtící kmen listerií objeven v oblíbeném chlazeném jídle z Walmartu",
+      "original_title": "Deadly listeria strain detected in popular Walmart refrigerated meal - Syracuse.com",
+      "url": "https://www.syracuse.com/product-recalls/2025/09/deadly-listeria-strain-detected-in-popular-walmart-refrigerated-meal.html",
+      "urlToImage": "https://www.syracuse.com/resizer/v2/277IETRHMFBEXNB2NUBNVCKV3Q.jpg?auth=a03cdae63251662695e0e4646556959b6f05b1db78c13703f7726f431dc67039&width=1280&smart=true&quality=90",
+      "source": "syracuse.com",
+      "publishedAt": "2025-09-26T17:26:00Z",
+      "description": "Americké ministerstvo zemědělství ve čtvrtek vydalo varování před tímto pokrmem."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jak požádat o náhradu v rámci historického vyrovnání se službou Amazon Prime",
+      "title": "Jak získat refundaci z historického vyrovnání se společností Amazon Prime",
       "original_title": "Here’s how to get a refund from the historic Amazon Prime settlement - CNN",
       "url": "https://www.cnn.com/2025/09/26/business/refunds-amazon-prime-settlement-explained",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161664022.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-26T17:18:23Z",
-      "description": "Amazon bude muset brzy vrátit peníze některým členům Prime. Jde o částku 1,5 miliardy dolarů, což je druhá nejvyšší refundace v historii Federální obchodní komise."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Toto odstavení může trvale změnit federální pracovní sílu – zde je návod",
-      "original_title": "This shutdown could permanently reshape the federal workforce — here's how - Axios",
-      "url": "https://www.axios.com/2025/09/26/government-shutdown-vought-layoffs-omb",
-      "urlToImage": "https://images.axios.com/nloERtU1Z_rqI4JylU8dVBxFnuQ=/0x0:6000x3375/1366x768/2025/09/26/1758900868901.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-26T16:46:51Z",
-      "description": "Federální zaměstnanci čelí víc než jen zpožděným výplatám. Úřad pro řízení a rozpočet připravuje plány na trvalé škrty."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Assata Shakurová, černošská militantka hledaná USA od roku 1979, zemřela na Kubě",
-      "original_title": "Assata Shakur, a fugitive Black militant sought by the US since 1979, dies in Cuba - AP News",
-      "url": "https://apnews.com/article/assata-shakur-fugitive-cuba-dies-2f8bc1939928628af087d1b4f791ea71",
-      "urlToImage": "https://dims.apnews.com/dims4/default/defe4ef/2147483647/strip/true/crop/2322x1306+0+697/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F74%2F0442e6defbba250c6663139b7852%2F850d0a97f80840908652b1ec87e3c055",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-26T16:32:00Z",
-      "description": "Assata Shakurová, aktivistka za osvobození černochů, které bylo na Kubě uděleno politické azylum po útěku z amerického vězení v roce 1979, zemřela."
+      "description": "Amazon bude muset vrátit peníze některým členům Prime z fondu za 1,5 miliardy dolarů, jde o druhou nejvyšší náhradu v historii FTC."
     },
     {
       "flag": "🌍",
@@ -175,73 +186,62 @@
       "urlToImage": "https://futurism.com/wp-content/uploads/2025/09/interstellar-object-sun-coronal-mass-ejection.jpg",
       "source": "Futurism",
       "publishedAt": "2025-09-26T16:29:17Z",
-      "description": "Dříve tento týden vyslalo Slovo směrem k meziplanetárnímu objektu 3I/ATLAS spršku plazmatu a magnetických polí, známou jako výron koronální hmoty."
+      "description": "Dříve tento týden vyslalo Slunce proud plazmatu a magnetických polí neboli výron koronální hmoty směrem k mezihvězdnému objektu 3I/ATLAS."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Po požití závadného alkoholu v Rusku zemřelo nejméně 19 lidí, uvedli úředníci",
+      "title": "Podle úřadů zemřelo v Rusku po požití závadného alkoholu nejméně 19 lidí",
       "original_title": "At least 19 people die after drinking tainted liquor in Russia, officials say - CBS News",
       "url": "https://www.cbsnews.com/news/tainted-alcohol-deaths-russia-arrests/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/03/04/94ff4029-e8cc-4722-b5ba-a1ee61871cc8/thumbnail/1200x630/ce4c46175a25ad910868fe6390d9a6da/russia-flag.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-26T16:16:00Z",
-      "description": "Případy hromadných úmrtí po požití laciných domácích náhražek alkoholu nejsou v Rusku neobvyklé."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "‚Velká Eleanor‘ předává žezlo Scarlett Johansson",
-      "original_title": "‘Eleanor the Great’ hands the reins to Scarlett Johansson - The Washington Post",
-      "url": "https://www.washingtonpost.com/entertainment/movies/2025/09/26/eleanor-great-johansson-squibb-review/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OA6QDODAVJBPBNFEWOMABQ34PM.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-26T16:00:05Z",
-      "description": "Herečka usedne za kameru, aby natočila holokaustovou dramedii s June Squibb v hlavní roli."
+      "description": "Případy hromadných úmrtí po požití levných doma vyrobených náhražek alkoholu nejsou v Rusku neobvyklé."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak ovlivní příští tropická bouře Karolínu?",
-      "original_title": "How will the next tropical storm impact the Carolinas? - WCNC",
-      "url": "https://www.wcnc.com/article/weather/hurricane/potential-charlotte-imelda-impacts/275-711326cd-89e2-4889-9e9b-836cc4c47129",
-      "urlToImage": "https://media.wcnc.com/assets/WCNC/images/a9350f22-4e51-4353-8043-a2fa56bca502/20250926T205243/a9350f22-4e51-4353-8043-a2fa56bca502_1140x641.jpg",
-      "source": "WCNC.com",
-      "publishedAt": "2025-09-26T15:08:00Z",
-      "description": "Tato bouřková soustava je komplexní a dopady se budou měnit s každým během modelu. Dokud se Invest 94-L nestane pojmenovanou bouří, konsenzus bude kolísat."
+      "title": "„Zákon a pořádek: Útvar pro zvláštní oběti“ zabil během premiéry 27. řady člena hereckého obsazení",
+      "original_title": "‘Law & Order: SVU’ kills off cast member during season 27 premiere - NJ.com",
+      "url": "https://www.nj.com/entertainment/2025/09/law-order-svu-kills-off-cast-member-during-season-27-premiere.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/QRXRISWRQZGNTB43KZ4C6PLRR4.png?auth=9a184fcfeadd3470507952dff588cfe1dda5fe69f1a5c142fb260f0e4f1c4509&width=1280&smart=true&quality=90",
+      "source": "nj.com",
+      "publishedAt": "2025-09-26T15:05:00Z",
+      "description": "„Zákon a pořádek: Útvar pro zvláštní oběti“ se během čtvrtkové premiéry 27. řady 25. září rozloučil s jedním z členů obsazení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podle studie může lebka stará milion let z Číny přepsat historii lidské evoluce: „Mění to spoustu zažitých představ“",
+      "title": "Milion let stará lebka objevená v Číně může přepsat historii lidské evoluce, zjistila studie: „Mění to spoustu zažitých představ“",
       "original_title": "Million-year-old skull found in China could rewrite human evolution timeline, study finds: \"This changes a lot of thinking\" - CBS News",
       "url": "https://www.cbsnews.com/news/ancient-skull-could-rewrite-human-evolution-timeline-study/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/26/f04ce03b-7014-478f-94fb-906c50f08b3f/thumbnail/1200x630g8/ba4f3d1304b593baeba0a7c496e57fd0/2025-09-25t175745z-2146362306-rc2mvgaz2i10-rtrmadp-3-science-skull.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-26T14:56:04Z",
-      "description": "Objevy by mohly vyřešit dlouhotrvající \"Guláš v prostředním patře\" lidské evoluce, uvedli vědci."
+      "description": "Objev by mohl vyřešit dlouholetý \"Muddle in the Middle\" ve vývoji člověka, uvedli vědci."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tržby: Snímek Leonarda DiCapria „Po bitvě je každý generálem“ vydělal v předpremiérech 3,1 milionu dolarů",
+      "title": "Tržby: Novinka Leonarda DiCapria ‚Jeden boj za druhým‘ vydělala v předpremiérech 3,1 milionu dolarů",
       "original_title": "Box Office: Leonardo DiCaprio’s ‘One Battle After Another’ Makes $3.1 Million in Previews - Variety",
       "url": "https://variety.com/2025/film/box-office/box-office-one-battle-after-previews-1236529390/",
       "urlToImage": "https://variety.com/wp-content/uploads/2025/09/MCDONBA_WB015.jpg?w=1000&h=563&crop=1",
       "source": "Variety",
       "publishedAt": "2025-09-26T14:51:00Z",
-      "description": "Leonardo DiCaprio v ‚Bitvě za bitvou‘ vydělal 3,1 milionu dolarů na předpremiérech"
+      "description": "Leonardo DiCaprio v boji ‚Jeden boj za druhým‘ vydělal 3,1 milionu dolarů na předpremiérech."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Předobjednávky ROG Xbox Ally: Aktuální informace o dostupnosti a nejnovější zprávy",
+      "title": "ROG Xbox Ally předobjednávky: Aktuální dostupnost a nejnovější zprávy - empireonline.com",
       "original_title": "ROG Xbox Ally Pre-Orders: Live Stock Updates And Latest News - empireonline.com",
       "url": "https://www.empireonline.com/gaming/hardware/rog-xbox-ally-preorders/",
       "urlToImage": "https://images.bauerhosting.com/empire/2025/09/Hero-image-21.jpeg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
       "source": "Empire",
       "publishedAt": "2025-09-26T14:23:32Z",
-      "description": "S příchodem ROG Xbox Ally příští měsíc: Vše, co potřebujete vědět o novém handheldu od Microsoftu a ASUSu"
+      "description": "Se spuštěním ROG Xbox Ally příští měsíc zjišťujeme vše, co je třeba vědět o novém handheld konzoli od Microsoftu a ASUSu."
     },
     {
       "flag": "🇺🇸",
@@ -252,23 +252,23 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2008.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-26T13:05:19Z",
-      "description": "Když se superstoletého člověka, tedy někoho staršího 110 let, ptají na tipy pro dlouhověkost"
+      "description": "Když je superstoletý, tedy někdo starší než 110 let, dotazován, nevyhnutelně je požádán, aby se podělil o své tipy na dlouhověkost."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Microsoft na poslední chvíli ustupuje v ukončení podpory Windows 10",
+      "title": "Microsoft na poslední chvíli ustoupil v ukončení podpory Windows 10",
       "original_title": "Microsoft agrees to 11th hour Win 10 end of life concessions - theregister.com",
       "url": "https://www.theregister.com/2025/09/26/not_in_eu_and_want/",
       "urlToImage": "https://regmedia.co.uk/2020/11/18/windows.jpg",
       "source": "Theregister.com",
       "publishedAt": "2025-09-26T08:22:00Z",
-      "description": "Spotřebitelská organizace donutila Redmond odstranit seznam požadavků na bezplatné ESU v Evropském hospodářském prostoru, stačí jen účet Microsoft"
+      "description": "Spotřebitelská organizace donutila Redmond zrušit seznam podmínek pro bezplatné ESU v Evropském hospodářském prostoru, stačí pouze účet Microsoft"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX vypustila 24 satelitů Starlink a přistála s raketou na mořské plošině",
+      "title": "SpaceX vypustila 24 satelitů Starlink a přistála s raketou na mořské lodi",
       "original_title": "SpaceX launches 24 Starlink internet satellites, lands rocket on ship at sea - Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-internet-satellites-group-17-11",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/7LrbHprBFbeTx245asFbbV.jpg",
@@ -285,7 +285,7 @@
       "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-05/01968a2c-e652-7a50-8596-53b9f62fd3be",
       "source": "Cointelegraph",
       "publishedAt": "2025-09-26T04:45:36Z",
-      "description": "OpenAI spustila ChatGPT Pulse, asistenta pro tipy na obchodování s kryptoměnami"
+      "description": "OpenAI spustila ChatGPT Pulse, funkci podobnou osobnímu asistentovi, kterou mohou kryptouživatelé využít pro obchodní tipy."
     },
     {
       "flag": "🌍",
@@ -296,7 +296,7 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03143-z/d41586-025-03143-z_51483328.jpg",
       "source": "Nature.com",
       "publishedAt": "2025-09-26T01:06:51Z",
-      "description": "Zatímco Trump viní Tylenol, Nature zkoumá desítky let výzkumu příčin autismu."
+      "description": "Zatímco Trump viní Tylenol, Nature zkoumá desetiletí výzkumu příčin autismu."
     }
   ]
 }
