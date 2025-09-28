@@ -1,10 +1,40 @@
 {
-  "updated": "2025-09-28T09:22:58.103165",
+  "updated": "2025-09-28T12:47:56.380004",
   "trends": [
     {
       "rank": 1,
+      "query": "teplice – pardubice",
+      "news_title": "ONLINE: Teplice - Pardubice 0:0, souboj posledních týmů tabulky",
+      "news_url": "https://www.idnes.cz/fotbal/prvni-liga/chance-liga-10-kolo-teplice-pardubice-online.A250925_160619_fotbal_tals",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiYN6s3ktfGRblqEBPEWzo2BEe2yINtCuAnHXnAsBxU7IxvWK41II8mLE3GGU",
+      "traffic": "2000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=teplice – pardubice&geo=CZ"
+    },
+    {
+      "rank": 2,
+      "query": "volejbal ms",
+      "news_title": "Finále MS volejbalistů: Itálie - Bulharsko. Češi po prohře s Polskem čtvrtí.",
+      "news_url": "https://sport.ceskatelevize.cz/clanek/volejbal/zive-finale-ms-volejbalistu-italie-bulharsko-cesi-konci-po-prohre-s-polskem-ctvrti/68d8cee904cd4bad85156333",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-Enh1-hzX55dKLiEzg2FxOD7pTDnNucjNewZEtJVzob_9S7Rf2rVmRZffszo",
+      "traffic": "2000++ hledání",
+      "source": "ČT sport",
+      "explore_url": "https://trends.google.cz/trends/explore?q=volejbal ms&geo=CZ"
+    },
+    {
+      "rank": 3,
+      "query": "státní svátek 28 září otevřené obchody",
+      "news_title": "Obchody v neděli zavřené kvůli svátku. Prouza: Zbytečný výpadek tržeb",
+      "news_url": "https://www.irozhlas.cz/ekonomika/vetsina-obchodu-bude-v-nedeli-kvuli-statnimu-svatku-zavrena-zbytecny-vypadek_2509260950_dns",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxYooEY0COkZIeEfuasHrCV5nrPxedU6SkxY7E1cHZPayFEdlf9cpPmLHkBKo",
+      "traffic": "1000++ hledání",
+      "source": "iROZHLAS",
+      "explore_url": "https://trends.google.cz/trends/explore?q=státní svátek 28 září otevřené obchody&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "ct sport",
-      "news_title": "Mistr světa Hubáček po operaci srdce",
+      "news_title": "Mistr světa Hubáček podstoupil operaci srdce",
       "news_url": "https://isport.blesk.cz/clanek/blesk-sport/466661/mistr-sveta-hubacek-omylem-otevrel-13-komnatu-operace-srdce.html",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhKWn5Wav4X50Zf5LF_LMdo4hWvj1omG3sePXin1rJI_SsIdCwj19gLrL3D7A",
       "traffic": "1000++ hledání",
@@ -12,74 +42,44 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=ct sport&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "volejbal ms",
-      "news_title": "Česko - Polsko | ONLINE přenos zápasu o bronz na MS ve volejbale",
-      "news_url": "https://www.sport.cz/clanek/volejbal-ms-2025-cesko-polsko-online-5302920",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLou4J-Y6144aR-GAojoguLVc3Mb727cg7Hd7WEmMQVluL9Wf1AB3oMmMAi4c",
-      "traffic": "1000++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=volejbal ms&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "obchody 28 září",
-      "news_title": "Většina obchodů bude v neděli zavřená. ‚Zbytečný výpadek tržeb,‘ míní Prouza",
-      "news_url": "https://www.irozhlas.cz/ekonomika/vetsina-obchodu-bude-v-nedeli-kvuli-statnimu-svatku-zavrena-zbytecny-vypadek_2509260950_dns",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxYooEY0COkZIeEfuasHrCV5nrPxedU6SkxY7E1cHZPayFEdlf9cpPmLHkBKo",
-      "traffic": "500++ hledání",
-      "source": "iROZHLAS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=obchody 28 září&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "toronto – inter miami",
-      "news_title": "Toronto FC remizovalo s Interem Miami 1:1, Johnson poškodil naděje hostí na titul",
-      "news_url": "https://www.beinsports.com/en-my/football/mls/articles/toronto-fc-1-1-inter-miami-visitors-supporters-shield-hopes-damaged-by-johnson-2025-09-27",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-eizJ9VCIBf4duqvR1T4hBZSC7K-Vel3tHQ301J52a4abLbzTrKSOiXyTkA",
-      "traffic": "500++ hledání",
-      "source": "beIN SPORTS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=toronto – inter miami&geo=CZ"
-    },
-    {
       "rank": 5,
-      "query": "valerij zalužnyj",
-      "news_title": "Ukrajinský generál zveřejnil recept na vítězství: jde o jedno",
-      "news_url": "https://zpravy.aktualne.cz/zahranici/nejvyznamnejsi-ukrajinsky-general-zverejnil-recept-na-vitezs/r~54c64eba9ab811f0a26cac1f6b220ee8/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL-L7mfanJk-OAtrNHcchthyLmv4Pmwmr41uA-rDrLGrY4u4F2mAcAsV-yyk8",
-      "traffic": "200++ hledání",
-      "source": "Aktuálně",
-      "explore_url": "https://trends.google.cz/trends/explore?q=valerij zalužnyj&geo=CZ"
+      "query": "rwanda",
+      "news_title": "Elitní závod žen na MS v silniční cyklistice 2025 ve fotkách",
+      "news_url": "https://english.news.cn/20250928/cbdc423cd2f347508aaae22fe12fd296/c.html",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIaAhLVCo-IdWQLVysyOdi1uZ64SxjjN6B4nCne3Se_KRB3xkg4umed8O5AN0",
+      "traffic": "500++ hledání",
+      "source": "Xinhua",
+      "explore_url": "https://trends.google.cz/trends/explore?q=rwanda&geo=CZ"
     },
     {
       "rank": 6,
-      "query": "svatopluk",
-      "news_title": "Demonstranti u Hradu žádají respektování výsledku voleb",
-      "news_url": "https://www.novinky.cz/clanek/domaci-stovky-demonstrantu-u-hradu-vyzyvaly-prezidenta-aby-respektoval-vysledek-voleb-40540885",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnTMuf-oZHKkOadgpUCo1g_bm7oQPZjEn7iOJiulG1Diuj3M5ca5JDYrPXx5U",
+      "query": "kigali",
+      "news_title": "Zlato pro Kanadu! Vallieresová na MS zaskočila favoritky",
+      "news_url": "https://www.idnes.cz/sport/cyklistika/ms-v-cyklistice-zavod-juniorek.A250927_120049_cyklistika_ald",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMTQ-g2VYLHVOWDZkkSLElLB6KlEPrTB1KoEYXWZUYpRXNwMK-hoWWQ6k-eto",
       "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=svatopluk&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=kigali&geo=CZ"
     },
     {
       "rank": 7,
       "query": "selena gomez",
       "news_title": "Selena Gomezová se provdala za Bennyho Blanca. Sdílela svatební snímky.",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/selena-gomezova-benny-blanco-svatba-kalifornie-santa-barbara.A250928_095921_lidicky_nh",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRB68F9pLZpb27rzJQ54JkjHnUc9UThxI5mvAP9HLjFECk9eCS7NjavjcBng6U",
-      "traffic": "100++ hledání",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe4ChEnrbd_N2pkIPn_gvU7BoueeuF6LgmCZYH3vXtYq21elc9ZGEhGvf_rd0",
+      "traffic": "200++ hledání",
       "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=selena gomez&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "leon volleyball",
-      "news_title": "Moni Nikolov: V 18 letech má vlastní značku volejbalových bot",
-      "news_url": "https://volleyweek.bg/en/article/3522-At-18-and-already-with-personal-sneakers-Moni-Nikolov-enters-the-history-of-volleyball",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDjY_bzkdQGwShDjD-BeLFOAuOML2cNhw7aKEX3Gbio_8m8ZlCADxONeYIt0c",
-      "traffic": "100++ hledání",
-      "source": "Volley Week",
-      "explore_url": "https://trends.google.cz/trends/explore?q=leon volleyball&geo=CZ"
+      "query": "valerij zalužnyj",
+      "news_title": "Ukrajinský generál zveřejnil recept na vítězství: Jde v něm o jedno",
+      "news_url": "https://zpravy.aktualne.cz/zahranici/nejvyznamnejsi-ukrajinsky-general-zverejnil-recept-na-vitezs/r~54c64eba9ab811f0a26cac1f6b220ee8/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL-L7mfanJk-OAtrNHcchthyLmv4Pmwmr41uA-rDrLGrY4u4F2mAcAsV-yyk8",
+      "traffic": "200++ hledání",
+      "source": "Aktuálně",
+      "explore_url": "https://trends.google.cz/trends/explore?q=valerij zalužnyj&geo=CZ"
     }
   ]
 }
