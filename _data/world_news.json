@@ -1,98 +1,164 @@
 {
-  "last_updated": "2025-09-28T16:18:53",
+  "last_updated": "2025-09-28T17:13:27",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tržby: ‚Jedna bitva za druhou‘ odstartovalo s 8,8 milionu dolarů za první den",
+      "title": "Trumpova cla: Kdo tratí na nových clech USA na farmaceutické výrobky?",
+      "original_title": "Trump tariffs: Who stands to lose from new US pharma duties? - dw.com",
+      "url": "https://www.dw.com/en/trump-tariffs-who-stands-to-lose-most-from-new-us-pharma-duties/a-74143945",
+      "urlToImage": "https://static.dw.com/image/74144654_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-09-27T17:34:09Z",
+      "description": "Nejnovější celní opatření amerického prezidenta: USA od 1. října uvalí 100% cla na dovoz značkových či patentovaných farmaceutických výrobků. Co to může znamenat pro globální obchod?"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump nařizuje ministrovi obrany vyslat do Portlandu vojáky",
+      "original_title": "Trump directs defense secretary to deploy troops to Portland - NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-portland-troops-hegseth-ice-defense-secretary-rcna234082",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250927-donald-trump-mn-1100-5c27bc.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-27T17:33:10Z",
+      "description": "Prezident Donald Trump v sobotu řekl, že nařídil ministru obrany Petovi Hegsethovi, aby do Portlandu v Oregonu „poskytl všechny potřebné vojáky“."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Selena Gomez se vdává: Taylor Swift, Paul Rudd a další hosté dorazili na obřad s Bennym Blancem",
+      "original_title": "Selena Gomez wedding: Taylor Swift, Paul Rudd and more guests reportedly arrive for nuptials to Benny Blanco - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/celebrity/article/selena-gomez-wedding-taylor-swift-paul-rudd-and-more-guests-reportedly-arrive-for-nuptials-to-benny-blanco-195457043.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q.dEZZpVKK7dBiITRYQX_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/05c31d60-9afa-11f0-b59e-458300a12a3c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-27T17:17:09Z",
+      "description": "Selena Gomez a Benny Blanco se prý chystají říct „ano“ na ultratajném, hvězdami nabitém obřadu v sobotu 27. září v Montecitu v Kalifornii."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Rodina Putmansových oznámila tři úmrtí a pět zranění po „tragické“ autonehodě",
+      "original_title": "‘Meet the Putmans’ Family Announces 3 Deaths, 5 Injuries After “Tragic” Car Accident - Deadline",
+      "url": "http://deadline.com/2025/09/meet-the-putmans-family-3-deaths-5-injuries-car-accident-1236557933/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Screenshot-2025-09-27-at-9.15.18 AM.png?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-09-27T16:38:00Z",
+      "description": "Tři členové rodiny z pořadu TLC 'Seznamte se s Putmany' zemřeli při nehodě, která zranila pět dalších"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "10 nejcennějších karet Mega evolucí z Pokémon TCG, po kterých už teď jdu",
+      "original_title": "The 10 Most Valuable Pokémon TCG Mega Evolution Cards That I'm Already Chasing - IGN",
+      "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-cards-most-expensive-cards",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/24/pokemon-tcg-mega-evolution-most-valuable-cards-cover-1758720791205.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-09-27T16:18:58Z",
+      "description": "Objevte 10 nejdražších karet Mega evolucí z Pokémon TCG seřazených podle tržní hodnoty."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "USA zrušily vízum kolumbijskému prezidentovi poté, co vyzval americké vojáky, aby neposlouchali Trumpa",
+      "original_title": "U.S. revokes visa for president of Colombia after he urges American soldiers to disobey Trump - CBS News",
+      "url": "https://www.cbsnews.com/news/u-s-revokes-visa-for-president-of-colombia-gustavo-petro/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/27/62f81a36-dca1-4674-b8c3-07fafded3735/thumbnail/1200x630/bfee41c78f308d76967a5c48f5be2d61/ap25266820328000.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-27T16:09:00Z",
+      "description": "Ministerstvo zahraničí oznámilo, že ruší vízum kolumbijskému prezidentovi Petrovi poté, co se zúčastnil protestu v New Yorku, kde vyzval americké vojáky, aby neuposlechli rozkazy prezidenta Trumpa."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tržby kin: ‚Jedna bitva za druhou‘ odstartovala s 8,8 milionu dolarů za první den",
       "original_title": "Box Office: ‘One Battle After Another’ Sets Off $8.8 Million Opening Day - Variety",
       "url": "https://variety.com/2025/film/news/box-office-one-battle-after-another-opening-day-1236530803/",
       "urlToImage": "https://variety.com/wp-content/uploads/2025/09/one-battle.jpg?w=1000&h=563&crop=1",
       "source": "Variety",
       "publishedAt": "2025-09-27T15:35:00Z",
-      "description": "Epické drama Leonarda DiCapria a Paula Thomas Andersona ‚Jedna bitva za druhou‘ míří na vrchol žebříčku tržeb."
+      "description": "Epické drama Leonarda DiCapria a Paula Thomase Andersona 'Souboj' míří na první příčku žebříčku tržeb."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "FBI propustila agenty vyfotografované při klečení během protestu za rasovou spravedlnost v roce 2020, uvádějí zdroje AP",
+      "title": "Ministr obrany Pete Hegseth promluví na vzácném setkání stovkám generálů o ‚bojové etice‘, uvádějí zdroje",
+      "original_title": "Defense Secretary Pete Hegseth to tell hundreds of generals about the 'warrior ethos' in rare gathering: Sources - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/defense-secretary-pete-hegseth-hundreds-generals-warrior-ethos/story?id\\\\u003d125978838",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-27T15:24:35Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "FBI propustila agenty, kteří klečeli na protestech za rasovou spravedlnost v roce 2020, uvádějí zdroje AP",
       "original_title": "FBI fires agents photographed kneeling during 2020 racial justice protest, AP sources say - AP News",
       "url": "https://apnews.com/article/fbi-george-floyd-kash-patel-8d18a1e6a5a36636cc2415fc492b3f52",
       "urlToImage": "https://dims.apnews.com/dims4/default/c01949b/2147483647/strip/true/crop/10287x5786+0+537/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2F33%2Fdf3c4eb2e4fff02408e4ad52a28a%2F06c38d766199477998d52f1a47e5cc6c",
       "source": "Associated Press",
       "publishedAt": "2025-09-27T15:18:00Z",
-      "description": "FBI propustila agenty, kteří klečeli při protestu za rasovou spravedlnost ve Washingtonu po smrti George Floyda rukou policistů v Minneapolis. Uvedly to tři osoby obeznámené se situací, které…"
+      "description": "FBI propustila agenty, kteří klečeli na protestu za rasovou spravedlnost ve Washingtonu po smrti George Floyda rukou policistů v Minneapolis. Uvedly to tři osoby obeznámené s touto záležitostí…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump tvrdí, že do Portlandu v Oregonu pošle vojáky, aby se vypořádali s ‚domácími teroristy‘",
-      "original_title": "Trump says he'll send troops to Portland, Ore., to handle 'domestic terrorists' - NPR",
-      "url": "https://www.npr.org/2025/09/27/nx-s1-5555381/trump-sending-troops-portland",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7229x4066+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F36%2F8f3cae3c45e0afcdc1fd758a4c9c%2Fap25269738042077.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-27T15:12:33Z",
-      "description": "Prezident Trump v sobotu oznámil, že vyšle do Portlandu vojáky a v případě nutnosti jim udělí plné pravomoci k potlačení „domácích teroristů“. Tím rozšiřuje kontroverzní nasazení ozbrojených sil do..."
+      "title": "Trump žádá Nejvyšší soud, aby podpořil omezení práva získat občanství narozením, které chce zavést",
+      "original_title": "Trump asks Supreme Court to uphold restrictions he wants to impose on birthright citizenship - AP News",
+      "url": "https://apnews.com/article/trump-supreme-court-birthright-citizenship-6d282d34b7aa1e992390499504ad5c7d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b29597a/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2F70%2F4bc1828695be95fb94ca6e8016ca%2Feabacca6e8d34e9e8c9bd5dc81bc3368",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-27T13:10:00Z",
+      "description": "Trumpova administrativa žádá Nejvyšší soud, aby potvrdil jeho nařízení o právu půdy"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Obří stromy Amazonie se s vyšší koncentrací oxidu uhličitého zvyšují a lesy sílí",
-      "original_title": "Giant trees of the Amazon get taller as forests fatten up on carbon dioxide - NBC News",
-      "url": "https://www.nbcnews.com/world/latin-america/amazon-rainforest-giant-trees-bigger-carbon-dioxide-climate-change-rcna234064",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250927-amazon-rainforest-5e753d.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-27T13:29:39Z",
-      "description": "Podle nové studie amazonský prales roste kvůli množství oxidu uhličitého v atmosféře."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Ministerstvo zahraničí USA zrušilo vízum kolumbijskému prezidentovi Gustavovi Petrovi",
-      "original_title": "State Department revokes visa for Colombian President Gustavo Petro - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/09/27/gustavo-petro-colombia-visa-gaza/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CEW7DLGJXYSWO4WDQOA2JIJBSY.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-27T13:15:26Z",
-      "description": "Ministerstvo zahraničí obvinilo Petra z nabádání amerických vojáků k neuposlechnutí rozkazů v projevu na propalestinské rally v New Yorku."
+      "title": "Po téměř 20 letech pomoci s provozem vozítek na Marsu říká geoložka NASA a kandidátka na astronautku Lauren Edgar, že by pro ni bylo „snem“ vkročit na Rudou planetu",
+      "original_title": "After almost 20 helping to operate rovers on Mars, NASA geologist and astronaut candidate Lauren Edgar says stepping foot on the Red Planet 'would be a dream' - Space",
+      "url": "https://www.space.com/astronomy/mars/after-almost-20-helping-to-operate-rovers-on-mars-nasa-geologist-and-astronaut-candidate-lauren-edgar-says-stepping-foot-on-the-red-planet-would-be-a-dream",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/prioMHddxvSAuRoYMbP83d.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-27T13:00:00Z",
+      "description": "Edgarová kdysi navrhovala vědecké experimenty pro astronauty. Teď bude astronautkou, která je provádí."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Šestiletému chlapci se zkřížily oči. Lékaři objevili rychle rostoucí nádor na mozku.",
+      "title": "Šestiletému chlapci se sbíhala očka. Lékaři objevili rychle rostoucí nádor na mozku.",
       "original_title": "A 6-year-old's eyes were crossed. Doctors found a fast-growing brain tumor. - CBS News",
       "url": "https://www.cbsnews.com/news/brain-cancer-tumor-diagnosis-florida-holtz-childrens-hospital-miami-health/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/24/5a904130-1c11-4976-90f6-0c17a049799d/thumbnail/1200x630/a64411e6ba40cd55f2a4bb00081e095a/img-8213.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-27T12:00:17Z",
-      "description": "Matka Imani Dellové si všimla, že má její dcera šilhavé oči. Brzy začala šestiletá dívka vidět dvojitě. Na vině byl rychle rostoucí nádor."
+      "description": "Matka Imani Dellové si všimla, že má šilhavé oči. Brzy začala šestiletá dívka vidět dvojitě. Na vině byl rychle rostoucí nádor."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Starbucks zavře přes 100 poboček v Severní Americe – známe tyto lokality",
+      "title": "Starbucks zavírá přes 100 poboček v Severní Americe – známe tyto lokality",
       "original_title": "Starbucks is closing over 100 North American stores — here are the locations we know so far - Business Insider",
       "url": "https://www.businessinsider.com/list-of-closing-starbucks-locations-2025-9",
       "urlToImage": "https://i.insider.com/68d72468cc993f9955cf0e6f?width=1200&format=jpeg",
       "source": "Business Insider",
       "publishedAt": "2025-09-27T11:24:00Z",
-      "description": "Starbucks ve čtvrtek oznámil, že uzavře 1 % svých severoamerických poboček, ale neoznámil které. Business Insider sestavil jejich seznam."
+      "description": "Starbucks ve čtvrtek oznámil uzavření 1 % svých severoamerických poboček, ale neřekl kterých. Business Insider sestavil jejich seznam."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‚Nevzdáme to‘ — Jak Virginie vydržela a porazila osmou Floridu State v thrilleru ACC",
+      "title": "‚Nevzdáme to‘. Jak Virginie vydržela a porazila osmou Floridu State v thrilleru ACC",
       "original_title": "'We refuse to quit' — How Virginia endured to topple No. 8 Florida State in ACC thriller - Yahoo Sports",
       "url": "https://sports.yahoo.com/college-football/breaking-news/article/we-refuse-to-quit--how-virginia-endured-to-topple-no-8-florida-state-in-acc-thriller-091057964.html",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ckrqB89nV7Wi8NhfuVvPZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/cdf61840-9b7d-11f0-b3f7-8aeeb775bba1",
       "source": "Yahoo Entertainment",
       "publishedAt": "2025-09-27T11:04:10Z",
-      "description": "Nakonec je to všechno o víře. Věříte navzdory okolnostem. Věříte bez ohledu na to, co je před vámi. Nevěděli, jak to dopadne..."
+      "description": "Nakonec je to všechno o víře. Věříte navzdory okolnostem. Věříte navzdory tomu, co máte před sebou. Nevěděli, jak to dopadne..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "První domino\": Obvinění Comeyho uvádí do pohybu odplatu hnutí MAGA",
+      "title": "První domino\": Obžaloba Comeyho uvádí do pohybu odplatu hnutí MAGA",
       "original_title": "\"The first domino\": Comey indictment sets MAGA retribution in motion - Axios",
       "url": "https://www.axios.com/2025/09/27/comey-indictment-trump-maga-enemies-list",
       "urlToImage": "https://images.axios.com/DIbGXLwoOzUYMbEF79MIU8POFho=/0x0:1920x1080/1366x768/2025/09/26/1758919775585.jpeg",
@@ -103,7 +169,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpovy změny víz H-1B vyvolávají obavy o budoucnost americké technologické ekonomiky a schopnost získávat specializované talenty",
+      "title": "Trumpovy změny víz H1-B vyvolávají obavy o budoucnost americké technologické ekonomiky a schopnost získávat specializované talenty",
       "original_title": "Trump's H1-B changes raise concerns about US tech economy's future, ability to recruit specialty talent - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/Politics/trumps-h1-raise-concerns-us-tech-economys-future/story?id\\\\u003d125925785",
       "urlToImage": null,
@@ -112,70 +178,15 @@
       "description": ""
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Taylor Swift dorazila na svatbu Seleny Gomez a Bennyho Blanca ukrytá pod deštníky, tvrdí zpráva",
-      "original_title": "Taylor Swift Arrived Hidden Under Umbrellas for Selena Gomez & Benny Blanco’s Wedding: Report - Yahoo",
-      "url": "https://www.realitytea.com/2025/09/27/taylor-swift-hidden-under-umbrellas-selena-gomez-benny-blanco-wedding-report/",
-      "urlToImage": "https://www.realitytea.com/wp-content/uploads/sites/6/2025/09/taylor-and-selena.png?resize=1200,630",
-      "source": "Reality Tea",
-      "publishedAt": "2025-09-27T10:46:31Z",
-      "description": "Taylor Swift dorazila na svatební oslavu Seleny Gomez a Bennyho Blanca ukrytá pod deštníky."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Íránu hrozí opětovné zavedení sankcí kvůli jeho jadernému programu",
-      "original_title": "Iran faces reimposition of sanctions over its nuclear programme - Financial Times",
-      "url": "https://www.ft.com/content/03822508-1bff-407a-b512-d7f37eefdd97",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F11cfced9-60d7-4128-9070-cb297e62c44e.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-27T10:41:56Z",
-      "description": "Írán nesplnil lhůtu stanovenou evropskými mocnostmi"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "5 otázek, které mají odborníci k Trumpovým celům na léky",
-      "original_title": "5 questions experts have about Trump's pharma tariffs - NBC News",
-      "url": "https://www.nbcnews.com/health/health-news/5-questions-experts-trumps-pharma-tariffs-rcna233974",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250926-prescription-drugs-gk-5c6e2f.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-27T09:30:00Z",
-      "description": "Pro lidi závislé na některých lécích na předpis včetně léků na hubnutí, astma a rakovinu Trumpův příspěvek oznamující 100% cla na zahraniční léky značkových firem nenabízí jasno v tom, kdy – nebo j..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "„Jsem naprosto vyděšený“: Federální zaměstnanci se připravují na možný odstávku vlády a hromadné propouštění",
-      "original_title": "‘I’m absolutely terrified’: Federal workers brace for potential government shutdown, mass layoffs - CNN",
-      "url": "https://www.cnn.com/2025/09/27/politics/government-shutdown-federal-workers-layoffs-fear",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25267746498267.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-27T09:00:51Z",
-      "description": "Federální zaměstnanci z celé americké vlády jsou vyděšení, zmatení a plní úzkosti, připravují se na možné zastavení provozu"
-    },
-    {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Harrods oznámil krádež zákaznických dat při kybernetickém útoku",
+      "title": "Harrods oznámil, že při kybernetickém útoku unikla data zákazníků",
       "original_title": "Harrods says customers' data stolen in IT breach - BBC",
       "url": "https://www.bbc.com/news/articles/c8d70d912e6o",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a942/live/b66a9390-9b8c-11f0-96fc-07d17b5e3a9f.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-27T07:43:40Z",
-      "description": "Luxusní obchodní dům uvádí, že ukradené informace zahrnují jména a kontaktní údaje."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zdroje: Hamas souhlasí s dohodou o Gaze podpořenou Trumpem, včetně propuštění všech izraelských rukojmí",
-      "original_title": "Sources: Hamas agrees to Trump-backed Gaza deal, including releasing all Israeli hostages - Haaretz",
-      "url": "https://www.haaretz.com/israel-news/2025-09-27/ty-article/.premium/sources-hamas-agrees-to-trump-backed-gaza-deal-including-releasing-all-israeli-hostages/00000199-89ec-dbe0-af9d-9fed68270000",
-      "urlToImage": "https://img.haarets.co.il/bs/00000199-89ec-dbe0-af9d-9fed68270000/bc/ef/a9b53be1415dbbb3328eccfe0136/237928.jpg?precrop=2200,1279,x0,y0&width=1200&height=630&cmsprod",
-      "source": "Haaretz",
-      "publishedAt": "2025-09-27T07:19:00Z",
-      "description": "Návrh zahrnuje postupné stažení Izraelské armády z Pásma Gazy a propuštění stovek palestinských vězňů výměnou za živé i mrtvé izraelské rukojmí"
+      "description": "Luxusní obchodní dům uvedl, že ukradené informace zahrnují jména a kontaktní údaje."
     },
     {
       "flag": "🇬🇧",
@@ -191,123 +202,90 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Ředitel škol v Des Moines, bývalý olympionik, zatčen imigrační policií",
-      "original_title": "Des Moines schools superintendent, a former Olympian, arrested by ICE - The Washington Post",
-      "url": "https://www.washingtonpost.com/immigration/2025/09/26/ice-des-moines-superintendent-guyana/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2IG7BTMB27J434QQAQOO5424EQ_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-27T06:27:59Z",
-      "description": "Ředitel škol v Des Moines Ian Roberts zatčen imigrační správou kvůli nařízení k deportaci a neplatnému pracovnímu povolení"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ovlivní hurikán Humberto jižní Floridu? Podívejte se na jeho předpokládanou trajektorii.",
-      "original_title": "Will Hurricane Humberto impact South Florida? See its projected path. - CBS News",
-      "url": "https://www.cbsnews.com/miami/news/humberto-south-florida-maps-path-graphics-2025-hurricane-season/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/27/e24478bf-87db-48f9-805d-d11629d7058a/thumbnail/1200x630/ce9d3dcb6b467faec9b04a82dee83b0b/humberto5.png",
-      "source": "CBS News",
-      "publishedAt": "2025-09-27T02:45:27Z",
-      "description": "Hurikán Humberto se ve středu stal osmou pojmenovanou bouří atlantické hurikánové sezóny roku 2025."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump žádá Nejvyšší soud, aby mohl ukončit právo na občanství podle místa narození",
-      "original_title": "Trump asks Supreme Court to let him end birthright citizenship - Politico",
-      "url": "https://www.politico.com/news/2025/09/26/supreme-court-birthright-citizenship-trump-admin-00583378",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fc2%2F58%2F3f3864404faab4e930881c52118e%2Fsupreme-court-birthright-citizenship-29824.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-27T02:04:00Z",
-      "description": "Prezidentův exekutivní příkaz z prvního dne úřadu, který má údajně ukončit právo získat občanství narozením, nevstoupil v platnost, protože čtyři federální soudci rozhodli, že porušuje 14. dodatek ..."
+      "title": "Tropický systém se blíží k jihovýchodu USA, hrozí nebezpečné povodně začátkem příštího týdne",
+      "original_title": "Tropical system closing in on the Southeast could unleash dangerous flood threat early next week - CNN",
+      "url": "https://www.cnn.com/2025/09/27/weather/tracking-tropical-cyclone-nine-imelda-flood-climate-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cira-rammb-slider-goes-19-full-disk-geocolor-opacity-100-band-13-opacity-80-20250927024019.png?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-27T05:28:25Z",
+      "description": "Tropický systém u Baham může přinést do jihovýchodu USA povodně, přívalové deště, pobřežní příliv, ničivý vítr a nebezpečné vlny již v pondělí. Lidé mají na přípravu velmi málo času."
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Průlom v léčbě Huntingtonovy choroby je ‚jako vyhrát v loterii desetkrát za sebou‘",
+      "title": "Průlom v léčbě Huntingtonovy choroby je jako vyhrát v loterii desetkrát po sobě",
       "original_title": "Huntington's disease breakthrough 'is like winning the lottery 10 times over' - BBC",
       "url": "https://www.bbc.com/news/articles/c3vzek4dkyyo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4277/live/b3c50530-9abf-11f0-b832-7b9888705b9b.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-27T01:02:20Z",
-      "description": "Rodiny jásají nad zprávou o první léčbě devastující nemoci – ale kdy a jak ji zaplatí NHS?"
+      "description": "Rodiny jsou nadšené zprávou o první léčbě devastující nemoci – ale kdy a jak ji zaplatí NHS?"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Zastřelení zadržení při útoku na zařízení ICE v Dallasu jsou identifikováni, uvádí zdroj. Zde je to, co víme o obětech",
+      "original_title": "Detainees shot in attack on Dallas ICE facility identified, source says. Here’s what we know about the victims - CNN",
+      "url": "https://www.cnn.com/2025/09/26/us/dallas-ice-facility-detainee-shot",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-09-26-at-2-20-11-pm.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-26T18:42:36Z",
+      "description": "Zastřelení vězni při útoku na imigrační zařízení v Dallasu byli identifikováni jako Miguel Angel Garcia-Hernandez z Mexika, Jose Andres Bordones-Molina z Venezuely a Norlan Guzman-Fuentes."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Oficiální výsledky vážení | UFC Perth",
-      "original_title": "Official Weigh-In Results | UFC Perth - UFC.com",
-      "url": "https://www.ufc.com/news/official-weigh-results-ufc-perth-fight-night-ulberg-reyes",
-      "urlToImage": "https://ufc.com/images/styles/card/s3/2025-09/092625-ufc-perth-weigh-in-HERO.jpg?itok=eeS31CYf",
-      "source": "The Official Website of the Ultimate Fighting Championship",
-      "publishedAt": "2025-09-27T00:16:12Z",
-      "description": "Oficiální váhy bojovníků na UFC Fight Night: Ulberg vs. Reyes, živě z Perthu v Západní Austrálii 27. září"
+      "title": "Bosworth z Mety naznačuje, že Neural Band by se mohlo časem vyvinout v hodinky",
+      "original_title": "Meta's Bosworth Hints That Neural Band Could Eventually Evolve Into a Watch - CNET",
+      "url": "https://www.cnet.com/tech/computing/metas-bosworth-hints-that-neural-band-could-eventually-evolve-into-a-watch/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/6ccea8e8010fc8a829b62e518e45275e7ef0297e/hub/2025/09/26/200a4717-e322-43a0-84db-2f64914cbd68/exec-a0022-004-00-00-30-16-still002.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-26T16:00:00Z",
+      "description": "CTO Andrew Bosworth hovoří s CNET o brýlích Ray-Ban Meta, unikátní technologii v novém nositelném Neural Bandu a o tom, co přijde dál."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Proč mohou nejnovější chytré brýle od společnosti Meta navždy změnit dynamiku trhu s rozšířenou realitou",
-      "original_title": "Why Meta’s latest smart glasses could shift the AR Market dynamics forever - Android Central",
-      "url": "https://www.androidcentral.com/apps-software/meta/exclusive-metas-new-smart-glasses-are-great-and-everyone-should-be-worried",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QjHJZhW3arj9DJ3fRndTsX.jpg",
-      "source": "Android Central",
-      "publishedAt": "2025-09-26T17:48:18Z",
-      "description": "Představte si, že závod v AR je u konce. Vyhrál Meta. A teď tu máme problém ‚Zářících očí‘."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nález milion let staré lebky v Číně může přepsat historii lidské evoluce, uvádí studie: „Mění to spoustu zažitých představ“",
+      "title": "Podle studie může milion let stará lebka z Číny přepsat časovou osu lidské evoluce: „Mění to spoustu zažitých představ“",
       "original_title": "Million-year-old skull found in China could rewrite human evolution timeline, study finds: \"This changes a lot of thinking\" - CBS News",
       "url": "https://www.cbsnews.com/news/ancient-skull-could-rewrite-human-evolution-timeline-study/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/26/f04ce03b-7014-478f-94fb-906c50f08b3f/thumbnail/1200x630g8/ba4f3d1304b593baeba0a7c496e57fd0/2025-09-25t175745z-2146362306-rc2mvgaz2i10-rtrmadp-3-science-skull.jpg",
       "source": "CBS News",
       "publishedAt": "2025-09-26T14:56:04Z",
-      "description": "Výzkum může vyřešit dlouhodobý \"chaos v prostředku\" lidské evoluce, tvrdí vědci."
+      "description": "Objev by mohl vyřešit dlouholetý \"Guláš v prostředku\" ve vývoji člověka, uvedli vědci."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "NASA vysílá speciální misi ke studiu záhadného „halo“ Země",
+      "title": "NASA vysílá speciální misi ke studiu Země záhadného \"svatozáře",
       "original_title": "NASA launches special mission to study Earth's mysterious \"halo\" - Live Science",
       "url": "https://www.livescience.com/space/nasa-launches-special-mission-to-study-earths-mysterious-halo",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/bfsUdbzLUrABG3kxKbYVpK.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-26T13:00:00Z",
-      "description": "Observatoř NASA Carruthers Geocorona odstartovala a brzy zahájí dvouletou misi ke studiu zemského tajemného \"haló\"."
+      "description": "Observatoř NASA Carruthers Geocorona odstartovala a brzy zahájí dvouletou misi ke studiu zemského mystického \"haló\"."
+    },
+    {
+      "flag": "🌍",
+      "country": "fr",
+      "title": "Recenze iPhonu 17 Pro Max: Profi výbavu nově definuje i nový nátěr",
+      "original_title": "iPhone 17 Pro Max review: redefining 'Pro' with a new coat of paint - AppleInsider",
+      "url": "https://appleinsider.com/articles/25/09/26/iphone-17-pro-max-review-redefining-pro-with-a-new-coat-of-paint",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/65201-136314-iPhone-17-Pro-Max-xl.jpg",
+      "source": "AppleInsider",
+      "publishedAt": "2025-09-26T11:10:00Z",
+      "description": "iPhone 17 Pro Max má okázalý nový vzhled a přepracovaný interiér, který maximalizuje zájem zákazníků a zároveň jde o dosud nejprofesionálnější iPhone."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kamera Applu ví, kam se díváte: iPhone 17 sleduje váš obličej, zatímco se videohovory bez varování mění v nástroje sledování",
-      "original_title": "\"Apple's Camera Knows Where You're Looking\": iPhone 17 Tracks Your Face While Video Calls Become Surveillance Tools Without Warning - Rude Baguette",
-      "url": "https://www.rudebaguette.com/en/2025/09/apples-camera-knows-where-youre-looking-iphone-17-tracks-your-face-while-video-calls-become-surveillance-tools-without-warning/",
-      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/iphone-17-reveals-camera-trick-that-shatters-photography-rules-and-gives-you-stunning-photos-instantly.jpg",
-      "source": "Rudebaguette.com",
-      "publishedAt": "2025-09-26T11:46:21Z",
-      "description": "Vývoj fotoaparátů ve chytrých telefonech byl pozoruhodnou cestou, která změnila způsob, jakým zachycujeme a sdílíme okamžiky. S vydáním iPhonu 17 společnost Apple"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Doug Bowser odchází do důchodu, novou prezidentkou Nintendo of America se stane Devon Pritchardová",
-      "original_title": "Doug Bowser to retire, Devon Pritchard to succeed as Nintendo of America president - GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/doug-bowser-to-retire-devon-pritchard-to-succeed-as-nintendo-of-america-president",
-      "urlToImage": "https://assetsio.gnwcdn.com/photo-collage.png-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "source": "GamesIndustry.biz",
-      "publishedAt": "2025-09-26T07:28:50Z",
-      "description": "Výkonný ředitel a člen představenstva Satoru Shibata se stane generálním ředitelem"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "SpaceX vypustila 24 internetových satelitů Starlink a přistála s raketou na mořské lodi",
+      "title": "SpaceX vyslala na oběžnou dráhu 24 internetových satelitů Starlink a přistála s raketou na mořské plošině",
       "original_title": "SpaceX launches 24 Starlink internet satellites, lands rocket on ship at sea - Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-internet-satellites-group-17-11",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/7LrbHprBFbeTx245asFbbV.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-26T06:03:03Z",
-      "description": "Byl to 123. start Falconu 9 od SpaceX tento rok."
+      "description": "Byl to 123. start Falconu 9 od SpaceX v tomto roce."
     },
     {
       "flag": "🌍",
@@ -319,6 +297,17 @@
       "source": "Nature.com",
       "publishedAt": "2025-09-26T01:06:51Z",
       "description": "Zatímco Trump viní Tylenol, Nature zkoumá desetiletí výzkumu příčin autismu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Více dětí s chřipkou má vážný průběh nebo umírá kvůli poklesu proočkovanosti, uvádí CDC",
+      "original_title": "More kids with the flu are getting severely ill or dying as vaccine rates fall, CDC reports - NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/flu-vaccines-children-complication-cdc-deaths-rcna233436",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250925-kids-and-flu-story-vl-926a-b3906b.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-25T19:35:58Z",
+      "description": "S poklesem počtu očkovaných dětí proti chřipce přibývá vzácných a závažných komplikací. Minulá sezóna zaznamenala v USA nejvyšší počet úmrtí dětí na chřipku za posledních 15 let."
     }
   ]
 }
