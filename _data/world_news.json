@@ -1,126 +1,148 @@
 {
-  "last_updated": "2025-09-29T04:22:19",
+  "last_updated": "2025-09-29T05:18:18",
   "articles": [
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "K jihovýchodu se brzy přiblíží bouře. Toto jsou možné scénáře.",
-      "original_title": "A storm is set to near the Southeast soon. These are the possible scenarios. - The Washington Post",
-      "url": "https://www.washingtonpost.com/weather/2025/09/27/carolinas-southeast-storm-hurricane-imelda-forecast/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RHX3WPPERZERXH5RXU6HYVFK2Y.png&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-28T02:21:48Z",
-      "description": "Národní hurikánové centrum uvedlo, že nejpravděpodobnějším scénářem je, že bouře zasáhne Karolínu v pondělí a úterý, zpomalí a přinese několik dní silného deště a větru od východní Georgie po jižní..."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Electronic Arts blízko odkupu za 50 miliard dolarů od Saúdské Arábie a firmy Jareda Kushnera",
-      "original_title": "Electronic Arts nears $50 billion buyout by Saudi Arabia and Jared Kushner's firm - Mashable",
-      "url": "https://mashable.com/article/electronic-arts-buyout-silver-lake-saudi-arabia-jared-kushner",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02Oy0Vb1vrqclFEHt31tkHD/hero-image.fill.size_1200x675.v1758987440.jpg",
-      "source": "Mashable",
-      "publishedAt": "2025-09-28T01:52:30Z",
-      "description": "Silver Lake, saúdskoarabský PIF a Affinity Partners se chystají převést EA do soukromého vlastnictví."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Při tlačenici na politickém mítinku populárního herce Vijaye v jižní Indii zemřelo 36 lidí a 40 bylo zraněno",
+      "original_title": "Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40 - AP News",
+      "url": "https://apnews.com/article/india-rally-stampede-a52f7c744b57cbdfa70a8d6fbf1563b0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/680ff02/2147483647/strip/true/crop/1620x911+0+84/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F47%2F003cc0c45b4ea614c5b6cad75f79%2F25fb40dbb6f64d5591568e2242d5b33a",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-28T05:47:00Z",
+      "description": "Ministr zdravotnictví v jižním indickém státě Tamilnádu uvedl, že nejméně 36 lidí zemřelo a 40 dalších bylo zraněno při tlačenici na mítinku populárního herce a politika. Ministr v sobotu pozdě več..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ve Arizonu zemřeli 4 lidé během povodní, včetně historického hornického města",
-      "original_title": "4 dead after flooding in Arizona, including in historic mining town - AP News",
-      "url": "https://apnews.com/article/arizona-flooding-globe-dead-missing-2e0508396b844426e79ca9acce18690c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d4345bd/2147483647/strip/true/crop/3027x1703+0+158/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2Fdf%2F1e587313858863b75d1a62dd763b%2F10207005c109427d9f6c35c6c541fba7",
+      "title": "Výsledky UFC Perth: Carlos Ulberg brutálně knokautoval Dominicka Reyese a pravděpodobně si zajistil titulový zápas",
+      "original_title": "UFC Perth results: Carlos Ulberg destroys Dominick Reyes with ferocious KO, punches likely title shot ticket - Yahoo Sports",
+      "url": "https://sports.yahoo.com/mma/breaking-news/live/ufc-perth-live-updates-carlos-ulberg-vs-dominick-reyes-results-round-by-round-analysis-highlights-060038930.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/z8x3Av012A3J6PnYTX.KBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/28a64bd0-9c27-11f0-beae-1ea27a299180",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-09-28T05:31:00Z",
+      "description": "Ulberg v hlavním zápase UFC neztrácel čas a okamžitě se prosadil."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tři mrtví a osm zraněných po střelbě z lodě na molu v Severní Karolíně: Oficiální zpráva",
+      "original_title": "3 dead, 8 injured after shooter in boat opens fire on North Carolina waterfront bar: Official - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/3-dead-8-injured-after-shooter-boat-opens/story?id\\\\u003d126008030",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-28T04:13:36Z",
+      "description": ""
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpův mírový plán pro Gazu nechává dveře pootevřené palestinskému státu",
+      "original_title": "Trump’s Gaza peace plan leaves door ajar for Palestinian state - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/09/27/trump-21-point-gaza-peace-plan/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XCLRF3PRKG5CGAMBB6TLIK7IZM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-28T03:25:00Z",
+      "description": "Trumpův mírový plán o 21 bodech zahrnuje odzbrojení Hamásu, mezinárodní bezpečnostní síly a „Trumpův rozvojový plán“ na obnovu zničené enklávy. Izrael ale může u některých návrhů váhat."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Írán varován před dalšími eskalacemi po uvalení sankcí ze strany Británie, Německa a Francie",
+      "original_title": "Iran warned not to escalate after UK, Germany and France impose sanctions - BBC",
+      "url": "https://www.bbc.com/news/articles/crme84w3n23o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8223/live/7a3ef040-9c05-11f0-92db-77261a15b9d2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-28T01:26:29Z",
+      "description": "Británie, Francie a Německo obnovují sankce kvůli obavám z íránského jaderného programu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Selena Gomez se vdala za Bennyho Blanca: ‚Moje manželka ve skutečném životě‘",
+      "original_title": "Selena Gomez marries Benny Blanco: ‘My wife in real life’ - AP News",
+      "url": "https://apnews.com/article/selena-gomez-marries-benny-blanco-f101c3ba98e66f6050716b438057e9e7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6a97097/2147483647/strip/true/crop/3854x2168+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2F90%2F79df01e0fed88af451df7a767851%2F32a53a3fb27e414ab8cbefe6c90bd3f8",
       "source": "Associated Press",
       "publishedAt": "2025-09-28T01:15:00Z",
-      "description": "Po prudkých deštích a povodních v Arizoně zemřeli čtyři lidé, včetně tří v zapadlém hornickém městečku z 19. století"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Špičkoví kongresoví lídři se v pondělí setkají s Trumpem v Bílém domě, hrozí odstávka vlády",
-      "original_title": "Top congressional leaders will meet Trump at the White House on Monday as shutdown looms - CNN",
-      "url": "https://www.cnn.com/2025/09/27/politics/government-shutdown-congressional-leaders-trump",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232601780.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-28T00:29:00Z",
-      "description": "Nejvyšší čtyři kongresoví představitelé se v pondělí setkají s prezidentem Donaldem Trumpem v Bílém domě, uvedlo více zdrojů pro CNN"
+      "description": "Selena Gomez se provdala za hudebního producenta a skladatele Bennyho Blanca. Oznámila to na Instagramu fotkou, na které se pár líbá a objímá na trávníku. Blanco ji v sobotní reakci na příspěvek na..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Selena Gomez se vdala za Bennyho Blanca",
-      "original_title": "Selena Gomez Marries Benny Blanco - Variety",
-      "url": "https://variety.com/2025/music/news/selena-gomez-benny-blanco-wedding-married-1236513545/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2235450257.jpg?crop=0px%2C73px%2C5000px%2C2813px&resize=1000%2C563",
+      "title": "Lola Young je v pořádku po kolapsu na pódiu během vystoupení na festivalu All Things Go",
+      "original_title": "Lola Young ‘OK’ After Collapsing Onstage During Performance at All Things Go Festival - Variety",
+      "url": "https://variety.com/2025/music/news/lola-young-ok-after-collapsing-onstage-at-all-things-go-festival-1236533208/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/08/Lola-Young_GettyImages-2202902698-e1759021720265.jpg?w=678&h=452&crop=1",
       "source": "Variety",
-      "publishedAt": "2025-09-27T23:25:00Z",
-      "description": "Selena Gomez a Benny Blanco se vzali."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Lola Young se zhroutila během vystoupení, lékařský tým ji odnesl z pódia na festivalu v New Yorku",
-      "original_title": "Lola Young Collapses Mid-Performance, Carried Off Stage by Medical Team During N.Y.C. Music Festival - AOL.com",
-      "url": "https://people.com/lola-young-collapses-mid-performance-at-nyc-music-festival-11820118",
-      "urlToImage": "https://people.com/thmb/E7QICWCGhRrupBS7dlptUeAVxVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Lola-young-092725-9b1073e62b24407a89038c17ca2249dc.jpg",
-      "source": "PEOPLE",
-      "publishedAt": "2025-09-27T23:11:28Z",
-      "description": "Lola Young zkolabovala během vystoupení na festivalu All Things Go Music v New Yorku v sobotu 27. září."
+      "publishedAt": "2025-09-28T01:12:00Z",
+      "description": "Britská zpěvačka Lola Young po zkolabování na pódiu během vystoupení na festivalu All Things Go v New Yorku uvedla, že je 'v pořádku'."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Generální ředitel Walmartu chce, aby se „všichni dostali na druhou stranu“, a maloobří gigant prozatím udrží stavy zaměstnanců, i když umělá inteligence změní každou práci",
+      "title": "Trump se před uzávěrkou schůzky setká s kongresovými lídry",
+      "original_title": "Trump to meet with congressional leaders ahead of shutdown deadline - CBS News",
+      "url": "https://www.cbsnews.com/news/trump-to-meet-with-congressional-leaders-ahead-of-shutdown-deadline/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/28/31741683-94fc-4b1f-9dcf-580067c8ef27/thumbnail/1200x630/25336c93c3836383c9c0ac3edc1e59de/gettyimages-2237212904.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-28T01:08:00Z",
+      "description": "Zákonodárci mají do úterní půlnoci, kdy začíná fiskální rok 2026, dosáhnout dohody o financování vlády."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Představitele škol v Des Moines úředníci po zatčení imigračními agenty poslali na nucenou dovolenou",
+      "original_title": "Officials place Des Moines schools leader on leave after his arrest by immigration agents - AP News",
+      "url": "https://apnews.com/article/ice-des-moines-iowa-school-superintendent-8fbcf8353997c3a3bab10231c16cbf49",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8d8b7a0/2147483647/strip/true/crop/370x208+0+63/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2Ff0%2F748229b9d19587fc1442ab643928%2F65429d49f8b44f16a998d0f31685e537",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-28T00:34:00Z",
+      "description": "Představitelé největšího školního obvodu v Iowě byl dán na nucenou dovolenou den poté, co ho federální agenti zatkli za pobyt v zemi bez povolení"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Keegan Bradley a tým USA pokračují v chybách na Ryder Cupu 2025",
+      "original_title": "Keegan Bradley, Team USA Compounding Mistakes at 2025 Ryder Cup - Fried Egg Golf",
+      "url": "https://www.thefriedegg.com/articles/2025-ryder-cup-usa-keegan-bradey-mistakes",
+      "urlToImage": "https://cdn.prod.website-files.com/67ab6ef769ff843db623d709/68d85a03779e4e4090a78c60_keegan-decisions-seo.jpg",
+      "source": "Thefriedegg.com",
+      "publishedAt": "2025-09-27T23:07:14Z",
+      "description": "Keegan Bradley a americký tým Ryder Cupu v sobotu na Bethpage Black zdvojnásobili sázky a násobil se chyby na Ryder Cupu 2025"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nejméně 4 mrtví po ničivých záplavách v Arizoně",
+      "original_title": "At least 4 dead in Arizona following devastating flooding - CBS News",
+      "url": "https://www.cbsnews.com/news/arizona-flood-deaths-propane-hazmat-situation/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/27/509d822d-8230-4b63-be7f-f9c3263d9538/thumbnail/1200x630/f3c724bee20931b83ea2392d28b47958/ap25270768653120.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-27T22:59:00Z",
+      "description": "Na venkově v Globe, jednom z nejstarších arizonských hornických měst, šerifovi zástupci vyšetřují hlášení o možných pohřešovaných osobách."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Generální ředitel Walmartu chce, aby se „všichni dostali na druhou stranu“, a maloobrý gigant zatím udrží počet zaměstnanců, i když umělá inteligence změní každou práci",
       "original_title": "Walmart CEO wants 'everybody to make it to the other side' and the retail giant will keep headcount flat for now even as AI changes every job - Fortune",
       "url": "https://fortune.com/2025/09/27/ai-ceos-job-market-transformation-walmart-accenture-salesforce/",
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1920821231-e1759010745640.jpg?resize=1200,600",
       "source": "Fortune",
       "publishedAt": "2025-09-27T22:24:00Z",
-      "description": "Počet zaměstnanců Walmartu však kvůli umělé inteligenci klesne."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Vijayova srazová tragédie: Na politické akci v Tamilnádu zemřelo více než 30 lidí",
-      "original_title": "Vijay rally crush: More than 30 killed at political event in Tamil Nadu - BBC",
-      "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b4a/live/55e79ee0-9bc9-11f0-928c-71dbb8619e94.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-27T20:04:05Z",
-      "description": "Desetitisíce lidí se shromáždily na předvolební akci pro herce a politika Vijaye v jižním indickém státě Tamilnádu."
+      "description": "Počet zaměstnanců Walmartu ale kvůli umělé inteligenci klesne."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kolumbijský prezident obviňuje Trumpa z porušení zásad OSN po zrušení víz",
-      "original_title": "Colombian president accuses Trump of violating UN principles after visa revoked - Axios",
-      "url": "https://www.axios.com/2025/09/27/trump-gustavo-petro-visa-revoked-colombia-president",
-      "urlToImage": "https://images.axios.com/QCYcuA2VOYTqqTjkVD7HLtyulzY=/0x19:3334x1894/1366x768/2025/09/27/1759001608916.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-27T19:56:44Z",
-      "description": "„Je čas přejít na demokratičtější místo,“ uvedl Petro v prohlášení na X."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Hráč Florida State Squirrel White v pořádku po obavách z pošlapání na hřišti ve Virginii",
-      "original_title": "Florida State's Squirrel White O.K. After Virginia Field Storm Trampling Concerns - Sports Illustrated",
-      "url": "https://www.si.com/college-football/florida-state-squirrel-white-ok-after-virginia-field-storm-trampling-concerns",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5521,h_3105,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k667q2zh9s5zc4qg6w.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-09-27T19:11:14Z",
-      "description": "White zůstal po strašidelném momentu nezraněn."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tim Curry vzpomíná na 50 let od uvedení filmu 'The Rocky Horror Picture Show",
-      "original_title": "Tim Curry Reflects on 50 Years of 'The Rocky Horror Picture Show' - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/tim-curry-50-years-rocky-horror-picture-show-1236387342/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2237648408.jpg?crop=0px%2C354px%2C3901px%2C2183px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-27T18:18:21Z",
-      "description": "Sám doktor Frank-N-Furter se zúčastnil speciálního výročního promítání v Muzeu Akademie spolu se svými bývalými kolegy z filmu."
+      "title": "Hurikán Humberto se rychle zesílil na hurikán páté kategorie",
+      "original_title": "Hurricane Humberto has rapidly intensified into Category 5 hurricane - WFTV",
+      "url": "https://www.wftv.com/weather/eye-on-the-tropics/hurricane-humberto-has-rapidly-intensified-into-category-5-hurricane/B3S62FBSUVB2ZMMWOOIWRK4WBY/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FAM3LUUY3BBEFLDMEKR5V76NG2Y.PNG?auth=bdcaa6645541ef1e8b6698de5a934e41772ed480e755816d8b71b5855b108477&width=1200&height=630&smart=true",
+      "source": "WFTV Orlando",
+      "publishedAt": "2025-09-27T20:55:32Z",
+      "description": "Hurikán Humberto se v sobotu 27. září v 17:00 AST rychle zesílil na hurikán 5. kategorie."
     },
     {
       "flag": "🌍",
@@ -136,90 +158,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova cla: Kdo tratí na nových clech USA na farmaceutické výrobky?",
-      "original_title": "Trump tariffs: Who stands to lose from new US pharma duties? - DW",
-      "url": "https://www.dw.com/en/trump-tariffs-who-stands-to-lose-most-from-new-us-pharma-duties/a-74143945",
-      "urlToImage": "https://static.dw.com/image/74144654_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-09-27T17:41:42Z",
-      "description": "Nejnovější celní opatření amerického prezidenta uvalí od 1. října 100% cla na dovozy značkových či patentovaných farmaceutických výrobků. Co to může znamenat pro globální obchod?"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Stopy spalniček ve vodě u SUNY Oswego, ale žádný případ nebyl diagnostikován",
-      "original_title": "Traces of measles detected in wastewater near SUNY Oswego, but nobody’s been diagnosed - WSYR",
-      "url": "https://www.localsyr.com/health/measles-detected-at-low-levels-in-oswego-wastewater-no-clinical-cases/",
-      "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/07/NYS-shows-record-high-child-flu-deaths-measles-increase.png?w=1280",
-      "source": "WSYR",
-      "publishedAt": "2025-09-27T16:10:23Z",
-      "description": "Stopy viru spalniček detekovány v odpadních vodách v Oswegu, oznámil zdravotní ústav"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Hamas tvrdí, že nedostal Trumpův plán, zatímco Izrael rozšiřuje útok na město Gaza",
-      "original_title": "Hamas says it has not received Trump plan as Israel expands Gaza City assault - KSL.com",
-      "url": "https://www.ksl.com/article/51381753/hamas-says-it-has-not-received-trump-plan-as-israel-expands-gaza-city-assault",
-      "urlToImage": "https://img.ksl.com/slc/3111/311157/31115775.JPG?filter=kslv2/responsive_story_lg",
-      "source": "KSL.com",
-      "publishedAt": "2025-09-27T15:54:52Z",
-      "description": "Hamas nedostal plán Donalda Trumpa na příměří v Gaze, oznámila v sobotu palestinská skupina, která má enklávu pod kontrolou, zatímco izraelské síly rozšířily útok na město Gaza."
+      "title": "Neobvyklý nový objev 3I/ATLAS naznačuje, že mezihvězdná kometa je „anomálně hmotná“",
+      "original_title": "Unusual New 3I/ATLAS Discovery Suggests the Interstellar Comet is “Anomalously Massive” - The Debrief",
+      "url": "https://thedebrief.org/unusual-new-3i-atlas-discovery-suggests-the-interstellar-comet-is-anomalously-massive/",
+      "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2025/09/3IATLAS-Gemini-South.jpg",
+      "source": "Thedebrief.org",
+      "publishedAt": "2025-09-27T17:26:08Z",
+      "description": "Záhadná kometa 3I/ATLAS je podle nové studie „anomálně hmotná“ ve srovnání s dříve pozorovanými mezihvězdnými objekty v naší sluneční soustavě."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Pokémon TCG: Mega Evoluce recenze — šance na tah, nejlepší karty a odhalené strategie",
+      "title": "Pokémon TCG: Recenze Mega Evoluce — šance na vylovení, nejlepší karty a odhalené strategie",
       "original_title": "Pokémon TCG: Mega Evolution review — pull rates, top cards, and strategies revealed - Mashable",
       "url": "https://mashable.com/article/pokemon-tcg-mega-evolution-review",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/03N9ICSTYjiYX1cgGfKk0Of/hero-image.fill.size_1200x675.v1758900555.png",
       "source": "Mashable",
       "publishedAt": "2025-09-27T15:34:41Z",
-      "description": "Nové mechaniky, jak se změnila Mega Evoluce, a návody na tvorbu balíčků s dostupnými kartami Pokémon TCG."
+      "description": "Nové mechaniky, jak se změnila Mega Evoluce, a průvodci tvorbou balíčků s dostupnými kartami Pokémon TCG."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pusťte se do dalšího boje, nevzdávejte to\": P.T. Anderson a Leo DiCaprio o \"jednom boji za druhým",
+      "title": "‚Nastup další bitvu, nevzdávej se‘: P.T. Anderson a Leonardo DiCaprio o filmu ‚Jedna bitva za druhou‘",
       "original_title": "'Get On to the Next Fight, Don't Give Up': P.T. Anderson and Leo DiCaprio on 'One Battle After Another' - Rolling Stone",
       "url": "http://www.rollingstone.com/tv-movies/tv-movie-features/paul-thomas-anderson-leonardo-di-caprio-one-battle-after-another-interview-1235425735/",
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/rev-1-OBAA-MM-DSF5645g_High_Res_JPEG.jpg?w=1600&h=900&crop=1",
       "source": "Rolling Stone",
       "publishedAt": "2025-09-27T14:00:00Z",
-      "description": "Filmař a hvězda se rozpovídali o své první spolupráci, jak nevyhořet a nezmizet, proč je River Phoenix nejlepší ze všech a další témata."
+      "description": "Filmař a hvězda se rozpovídali o své první spolupráci, o tom, jak nevyhořet, proč je River Phoenix nejlepší ze všech a o dalších tématech."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Po téměř 20 letech pomoci s provozem roverů na Marsu říká geoložka NASA a kandidátka na astronautku Lauren Edgar, že vstoupit na Rudou planetu „by byl sen“",
-      "original_title": "After almost 20 helping to operate rovers on Mars, NASA geologist and astronaut candidate Lauren Edgar says stepping foot on the Red Planet 'would be a dream' - Space",
-      "url": "https://www.space.com/astronomy/mars/after-almost-20-helping-to-operate-rovers-on-mars-nasa-geologist-and-astronaut-candidate-lauren-edgar-says-stepping-foot-on-the-red-planet-would-be-a-dream",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/prioMHddxvSAuRoYMbP83d.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-27T13:00:00Z",
-      "description": "Edgarová kdysi navrhovala vědecké experimenty pro astronauty. Teď je bude sama provádět."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Americkou ekonomiku nedokáže zničit nikdo, a to navzdory veškerému úsilí.",
-      "original_title": "No one can seem to kill America’s economy, despite everyone’s best efforts - CNN",
-      "url": "https://www.cnn.com/2025/09/27/economy/economy-inflation-tariffs-sentiment-jobs",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2233563029.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-27T12:00:52Z",
-      "description": "Američané tuto ekonomiku nenávidí, ale utrácejí, jako kdyby ji milovali."
+      "title": "Šestiletému chlapci se zkřížily oči. Lékaři objevili rychle rostoucí nádor na mozku.",
+      "original_title": "A 6-year-old's eyes were crossed. Doctors found a fast-growing brain tumor. - CBS News",
+      "url": "https://www.cbsnews.com/news/brain-cancer-tumor-diagnosis-florida-holtz-childrens-hospital-miami-health/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/24/5a904130-1c11-4976-90f6-0c17a049799d/thumbnail/1200x630/a64411e6ba40cd55f2a4bb00081e095a/img-8213.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-27T12:00:17Z",
+      "description": "Matka Imani Dellové si všimla, že má dcera šilhá. Brzy začala šestiletá dívka vidět dvojitě. Na vině byl rychle rostoucí nádor."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vědecké novinky tohoto týdne: Průlomový lék na Huntingtonovu chorobu a rychle rostoucí černá díra, která odporuje fyzice",
+      "title": "Vědecké novinky tohoto týdne: Průlomový lék na Huntingtonovu chorobu a rychle rostoucí černá díra, která porušuje fyzikální zákony",
       "original_title": "Science news this week: A breakthrough cure for Huntington's disease and a fast-growing black hole that breaks physics - Live Science",
       "url": "https://www.livescience.com/health/science-news-this-week-a-breakthrough-cure-for-huntingtons-disease-and-a-fast-growing-black-hole-that-breaks-physics",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/NbfojiX9FeTTWUrMi3kwbb.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-27T11:00:00Z",
-      "description": "27. září 2025: Naše týdenní přehled nejnovějších vědeckých zpráv a několik zajímavých článků, které vás pobaví o víkendu."
+      "description": "27. září 2025: Naše týdenní přehled nejnovějších vědeckých zpráv a pár zajímavých článků, které vás o víkendu pobaví."
     },
     {
       "flag": "🌍",
@@ -230,7 +219,18 @@
       "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/3f8e861/2147483647/strip/true/crop/1917x1006+0+8/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F7f%2Feb%2F9f132968477b99be9254b531784c%2Fscreenshot-2025-05-31-141553.png",
       "source": "KSBY San Luis Obispo News",
       "publishedAt": "2025-09-27T02:56:35Z",
-      "description": "SpaceX plánuje v neděli 28. září vypustit z Vandenbergovy základny kosmických sil raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země."
+      "description": "SpaceX plánuje v neděli 28. září z Vandenbergovy základny kosmických sil vypustit raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "iPhone Air vs iPhone 16 Plus: Jak si nová možnost stojí? - 9to5Mac",
+      "original_title": "iPhone Air vs iPhone 16 Plus: How does the new option stack up? - 9to5Mac",
+      "url": "https://9to5mac.com/2025/09/26/iphone-air-vs-iphone-16-plus/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPhone-Air-vs-iPhone-16-Plus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-09-26T22:50:00Z",
+      "description": "S novou řadou iPhone 17 Apple ukončil prodej modelu Plus ve prospěch nového iPhone Air. Ale jak…"
     },
     {
       "flag": "🌍",
@@ -241,51 +241,40 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/YTP_YTLabs.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-26T21:05:30Z",
-      "description": "YouTube Labs bude místo, kde si budete moci prohlédnout všechny připravované funkce aplikace využívající umělou inteligenci."
+      "description": "YouTube Labs bude místo, kde si můžete předem prohlédnout všechny připravované funkce aplikace využívající umělou inteligenci."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "NASA vysílá speciální misi ke studiu Země zářící tajemnou svatozáří",
+      "title": "Vypuknutí eboly v Kongu zuří s 61% úmrtností a docházejícími finančními prostředky",
+      "original_title": "Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry - Ars Technica",
+      "url": "https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2014/11/13717624625_c584569b9b_k-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-26T18:25:05Z",
+      "description": "Záchranáři žádají o 75 milionů korun na potlačení nemoci. K dispozici mají 6,6 milionu."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Vakcíny proti demenci: 4 vakcíny, které mohou snížit riziko této progresivní nemoci",
+      "original_title": "Vaccines for dementia: 4 vaccines that can lower the risk of the progressive disease - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vaccines-for-dementia-4-vaccines-that-can-lower-the-risk-of-the-progressive-disease/photostory/124153245.cms",
+      "urlToImage": "https://static.toiimg.com/photo/124153256.cms",
+      "source": "The Times of India",
+      "publishedAt": "2025-09-26T14:00:00Z",
+      "description": "Demence představuje jeden z nejnaléhavějších problémů světového veřejného zdraví."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "NASA vysílá speciální misi ke studiu tajemného zemského \"halo",
       "original_title": "NASA launches special mission to study Earth's mysterious \"halo\" - Live Science",
       "url": "https://www.livescience.com/space/nasa-launches-special-mission-to-study-earths-mysterious-halo",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/bfsUdbzLUrABG3kxKbYVpK.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-26T13:00:00Z",
-      "description": "Observatoř NASA pro výzkum geokorony Carruthers odstartovala a brzy zahájí dvouletou misi ke studiu záhadného „hala“ Země."
-    },
-    {
-      "flag": "🌍",
-      "country": "fr",
-      "title": "Recenze iPhonu 17 Pro Max: Redefinice ‚Pro‘ s novým nátěrem",
-      "original_title": "iPhone 17 Pro Max review: redefining 'Pro' with a new coat of paint - AppleInsider",
-      "url": "https://appleinsider.com/articles/25/09/26/iphone-17-pro-max-review-redefining-pro-with-a-new-coat-of-paint",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65201-136314-iPhone-17-Pro-Max-xl.jpg",
-      "source": "AppleInsider",
-      "publishedAt": "2025-09-26T11:10:00Z",
-      "description": "iPhone 17 Pro Max má okázalý nový vzhled a přepracovaný interiér, který maximalizuje zájem zákazníků a zároveň jde o dosud nejprogresivnější iPhone."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "V Jižní Karolíně se objevily „noční můry bakterie“, které se šíří po USA, varuje CDC. Co je třeba vědět",
-      "original_title": "‘Nightmare bacteria’ found in SC as it spreads across US, CDC says. What to know - The State",
-      "url": "https://www.thestate.com/news/state/south-carolina/article312261451.html",
-      "urlToImage": "https://www.mcclatchy-wires.com/public/incoming/pe6i04/picture312250218/alternates/LANDSCAPE_1140/b2ea5d1d-5118-455f-be63-382067773e85",
-      "source": "The State",
-      "publishedAt": "2025-09-26T10:00:00Z",
-      "description": "„Bakterie noční můry“ objevená v Jižní Karolíně se šíří po USA. Riziko nákazy je nízké, častější ve zdravotnických zařízeních."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "4 vakcíny spojované s nižším rizikem demence",
-      "original_title": "4 vaccines that are linked to a lower risk of dementia - The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2025/09/25/vaccines-dementia-risk-reduction/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQY5GHOJQBEK7IZBAZPZFRPPRM.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-25T10:13:30Z",
-      "description": "Některým onemocněním, proti kterým existuje očkování, je připisováno urychlení atrofie mozku a vyšší riziko demence v pozdějším věku."
+      "description": "Observatoř NASA Carruthers Geocorona odstartovala a brzy zahájí dvouletou misi ke studiu zemského mystického „haló“."
     }
   ]
 }
