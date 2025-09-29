@@ -1,120 +1,120 @@
 {
-  "last_updated": "2025-09-29T01:22:32",
+  "last_updated": "2025-09-29T03:03:36",
   "articles": [
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump se v pondělí sejde s předními kongresmany kvůli odstávce",
-      "original_title": "Trump to meet with top congressional leaders Monday on shutdown - Politico",
-      "url": "https://www.politico.com/news/2025/09/27/trump-shutdown-meeting-00583500",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F60%2Fda%2F9119962a4f18b42741320ea16720%2Fftp-kn43289-1-5719402.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-28T00:06:43Z",
-      "description": "Schůzka v Bílém domě se uskuteční méně než 48 hodin před termínem."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Bouře se brzy přiblíží k jihovýchodu. Toto jsou možné scénáře.",
+      "original_title": "A storm is set to near the Southeast soon. These are the possible scenarios. - The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2025/09/27/carolinas-southeast-storm-hurricane-imelda-forecast/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RHX3WPPERZERXH5RXU6HYVFK2Y.png&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-28T02:21:48Z",
+      "description": "Národní hurikánové centrum uvedlo, že nejpravděpodobnějším scénářem je, že bouře zasáhne Karolínu v pondělí a úterý, zpomalí a přinese několik dní silného deště a větru od východní Georgie po jižní..."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Electronic Arts blízko odkupu za 50 miliard dolarů od Saúdské Arábie a firmy Jareda Kushnera",
+      "original_title": "Electronic Arts nears $50 billion buyout by Saudi Arabia and Jared Kushner's firm - Mashable",
+      "url": "https://mashable.com/article/electronic-arts-buyout-silver-lake-saudi-arabia-jared-kushner",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02Oy0Vb1vrqclFEHt31tkHD/hero-image.fill.size_1200x675.v1758987440.jpg",
+      "source": "Mashable",
+      "publishedAt": "2025-09-28T01:52:30Z",
+      "description": "Silver Lake, saúdskoarabský PIF a Affinity Partners se chystají převzít EA."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Selena Gomez a Benny Blanco jsou manželé! Podívejte se na první fotky",
-      "original_title": "Selena Gomez and Benny Blanco Are Married! See the First Photos Here - Vogue",
-      "url": "https://www.vogue.com/article/selena-gomez-and-benny-blanco-are-married",
-      "urlToImage": "https://assets.vogue.com/photos/68d86ebd52733f58872ac60b/16:9/w_1280,c_limit/554356250_18628746178019724_1448940122183605835_n.jpg",
-      "source": "Vogue",
-      "publishedAt": "2025-09-27T23:14:54Z",
-      "description": "Pár se v sobotu vzal v Santa Barbaře před hosty včetně Taylor Swiftové, Steva Martina a Martina Shorta."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nejméně čtyři lidé zemřeli na Arizoně po ničivých záplavách",
-      "original_title": "At least 4 dead in Arizona following devastating flooding - CBS News",
-      "url": "https://www.cbsnews.com/news/arizona-flood-deaths-propane-hazmat-situation/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/27/509d822d-8230-4b63-be7f-f9c3263d9538/thumbnail/1200x630/f3c724bee20931b83ea2392d28b47958/ap25270768653120.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-27T22:59:38Z",
-      "description": "Na venkově v Globe, jednom z nejstarších arizonských hornických měst, šerifovi zástupci vyšetřují hlášení o možných pohřešovaných osobách."
+      "title": "4 mrtví po záplavách v Arizoně, včetně historického hornického města",
+      "original_title": "4 dead after flooding in Arizona, including in historic mining town - AP News",
+      "url": "https://apnews.com/article/arizona-flooding-globe-dead-missing-2e0508396b844426e79ca9acce18690c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d4345bd/2147483647/strip/true/crop/3027x1703+0+158/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2Fdf%2F1e587313858863b75d1a62dd763b%2F10207005c109427d9f6c35c6c541fba7",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-28T01:15:00Z",
+      "description": "Po prudkých deštích v Arizoně zemřeli čtyři lidé, tři z nich v historickém hornickém městečku"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trump žádá o nasazení vojáků v Portlandu a stupňuje využití armády v USA",
-      "original_title": "Trump calls for troops in Portland, escalating use of military inside U.S. - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/09/27/trump-military-portland-ice/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TBKDQDJYWGYXLECVDBRWO6HML4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-27T22:35:17Z",
-      "description": "Prezident Donald Trump povolil nasazení vojáků v Portlandu v Oregonu v rámci kampaně využití americké armády proti Američanům, která má jen málo moderních precedentů."
+      "title": "Vrcholní kongresoví lídři se v pondělí setkají s Trumpem v Bílém domě, hrozí zastavení provozu vlády",
+      "original_title": "Top congressional leaders will meet Trump at the White House on Monday as shutdown looms - CNN",
+      "url": "https://www.cnn.com/2025/09/27/politics/government-shutdown-congressional-leaders-trump",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232601780.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-28T00:29:00Z",
+      "description": "Špičkoví čtyři kongresoví lídři se v pondělí setkají s prezidentem Donaldem Trumpem v Bílém domě, uvedlo pro CNN několik zdrojů. Washington se tak snaží předejít hrozícímu zastavení činnosti vlády."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ovlivní hurikán Humberto jižní Floridu? Podívejte se na jeho předpokládanou dráhu.",
-      "original_title": "Will Hurricane Humberto impact South Florida? See its projected path. - CBS News",
-      "url": "https://www.cbsnews.com/miami/news/humberto-south-florida-maps-path-graphics-2025-hurricane-season/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/27/11f62461-4532-45f9-b890-2093230f6663/thumbnail/1200x630/c9a36c7418a29b2cf5296e045a1df6f3/storm-2-sat-5pm-td9.png",
-      "source": "CBS News",
-      "publishedAt": "2025-09-27T22:07:50Z",
-      "description": "Hurikán Humberto se ve středu stal osmou pojmenovanou bouří atlantické hurikánové sezóny roku 2025."
+      "title": "Selena Gomez se vdala za Bennyho Blanca",
+      "original_title": "Selena Gomez Marries Benny Blanco - Variety",
+      "url": "https://variety.com/2025/music/news/selena-gomez-benny-blanco-wedding-married-1236513545/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2235450257.jpg?crop=0px%2C73px%2C5000px%2C2813px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2025-09-27T23:25:00Z",
+      "description": "Selena Gomez a Benny Blanco se vzali."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Lola Young se zhroutila uprostřed vystoupení, lékařský tým ji odnesl z pódia na festivalu v New Yorku",
+      "original_title": "Lola Young Collapses Mid-Performance, Carried Off Stage by Medical Team During N.Y.C. Music Festival - AOL.com",
+      "url": "https://people.com/lola-young-collapses-mid-performance-at-nyc-music-festival-11820118",
+      "urlToImage": "https://people.com/thmb/E7QICWCGhRrupBS7dlptUeAVxVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Lola-young-092725-9b1073e62b24407a89038c17ca2249dc.jpg",
+      "source": "PEOPLE",
+      "publishedAt": "2025-09-27T23:11:28Z",
+      "description": "Lola Young zkolabovala během vystoupení na festivalu All Things Go v New Yorku"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Socha královny rock'n'rollu Tiny Turnerové odhalena v městečku v Tennessee, kde vyrůstala",
-      "original_title": "Statue of rock n' roll queen Tina Turner unveiled in Tennessee community where she grew up - AP News",
-      "url": "https://apnews.com/article/tina-turner-statue-tennessee-af7c9763df361992136a5150ddaf20fd",
-      "urlToImage": "https://dims.apnews.com/dims4/default/79e1280/2147483647/strip/true/crop/3912x2201+0+204/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2Fd1%2Ffab416e9fc50c11fa509e41ff5b9%2Faf45b44abe204d8b965b8d1db069c216",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-27T21:15:00Z",
-      "description": "V Tennessee odhalili sochu královny rock'n'rollu Tiny Turner"
+      "title": "Generální ředitel Walmartu chce, aby se ‚všichni dostali na druhou stranu‘, a maloobr",
+      "original_title": "Walmart CEO wants 'everybody to make it to the other side' and the retail giant will keep headcount flat for now even as AI changes every job - Fortune",
+      "url": "https://fortune.com/2025/09/27/ai-ceos-job-market-transformation-walmart-accenture-salesforce/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-1920821231-e1759010745640.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-27T22:24:00Z",
+      "description": "Počet zaměstnanců Walmartu zůstane 2,1 milionu, ale jeho složení se změní kvůli umělé inteligenci."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Vijayova mítinková tragédie: Na politické akci v Tamilnádu zemřelo více než 30 lidí",
+      "original_title": "Vijay rally crush: More than 30 killed at political event in Tamil Nadu - BBC",
+      "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b4a/live/55e79ee0-9bc9-11f0-928c-71dbb8619e94.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-27T20:04:05Z",
+      "description": "Desetitisíce lidí se shromáždily na předvolební akci pro herce a politika Vijaye v jižním indickém státě Tamilnádu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Podívejte se na seznam uzavřených kaváren Starbucks v jižní Kalifornii",
-      "original_title": "See the list of Southern California Starbucks cafe closures - Orange County Register",
-      "url": "https://www.ocregister.com/2025/09/26/see-the-list-of-southern-california-starbucks-cafe-closures/",
-      "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/09/OCR-L-SBUX-CLOSURES-SOCAL-0927-02-PB.jpg?w=1024&h=521",
-      "source": "OCRegister",
-      "publishedAt": "2025-09-27T20:37:35Z",
-      "description": "Nejméně 69 poboček podá poslední kávu a scones v sobotu 27. září."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kolumbijský prezident obviňuje Trumpa z porušení zásad OSN po zrušení víz",
+      "title": "Kolumbijský prezident obviňuje Trumpa z porušování zásad OSN po zrušení víz",
       "original_title": "Colombian president accuses Trump of violating UN principles after visa revoked - Axios",
       "url": "https://www.axios.com/2025/09/27/trump-gustavo-petro-visa-revoked-colombia-president",
       "urlToImage": "https://images.axios.com/QCYcuA2VOYTqqTjkVD7HLtyulzY=/0x19:3334x1894/1366x768/2025/09/27/1759001608916.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-27T19:56:44Z",
-      "description": "Je čas přejít na demokratičtější místo,\" uvedl Petro v prohlášení na X."
+      "description": "„Je čas jít na demokratičtější místo,“ řekl Petro v prohlášení na X."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump žádá Nejvyšší soud, aby potvrdil omezení práva na občanství podle místa narození, která chce zavést",
-      "original_title": "Trump asks Supreme Court to uphold birthright citizenship restrictions he wants to impose - PBS",
-      "url": "https://www.pbs.org/newshour/politics/trump-asks-supreme-court-to-uphold-birthright-citizenship-restrictions-he-wants-to-impose",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-19T213823Z_1120616434_RC28VGA6G624_RTRMADP_3_USA-TRUMP-1024x639.jpg",
-      "source": "PBS",
-      "publishedAt": "2025-09-27T19:27:58Z",
-      "description": "Administrace prezidenta Donalda Trumpa žádá Nejvyšší soud, aby podpořil jeho nařízení o právech narozených, které prohlašuje, že děti rodičů pobývajících v USA nelegálně nebo dočasně nejsou americk..."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "FBI propustila agenty klečící na protestu za George Floyda, píší americká média",
-      "original_title": "FBI fires agents pictured kneeling at George Floyd protest, US media reports - BBC",
-      "url": "https://www.bbc.com/news/articles/cr4q5xrz9dpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5c3c/live/bfa11940-9b8f-11f0-bdeb-9de9348d5d1d.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-27T18:50:03Z",
-      "description": "Asociace agentů FBI tvrdí, že propuštění – která úřad dosud nepotvrdil – porušují práva agentů."
+      "title": "Squirrel White z Floridy v pořádku po obavách z pošlapání na hřišti ve Virginii",
+      "original_title": "Florida State's Squirrel White O.K. After Virginia Field Storm Trampling Concerns - Sports Illustrated",
+      "url": "https://www.si.com/college-football/florida-state-squirrel-white-ok-after-virginia-field-storm-trampling-concerns",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5521,h_3105,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k667q2zh9s5zc4qg6w.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-09-27T19:11:14Z",
+      "description": "White vyšel z děsivé chvíle bez zranění."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tim Curry vzpomíná na 50 let od uvedení filmu 'The Rocky Horror Picture Show",
+      "title": "Tim Curry vzpomíná na 50 let od 'The Rocky Horror Picture Show",
       "original_title": "Tim Curry Reflects on 50 Years of 'The Rocky Horror Picture Show' - The Hollywood Reporter",
       "url": "http://www.hollywoodreporter.com/movies/movie-news/tim-curry-50-years-rocky-horror-picture-show-1236387342/",
       "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2237648408.jpg?crop=0px%2C354px%2C3901px%2C2183px&resize=1440%2C810",
@@ -125,29 +125,51 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Trump nepravdivě tvrdí, že agenti FBI jsou zodpovědní za vyvolání násilí 6. ledna",
+      "original_title": "Trump falsely suggests FBI agents to blame for igniting Jan. 6 violence - Politico",
+      "url": "https://www.politico.com/news/2025/09/27/trump-january-6-fbi-00583383",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F06%2F96%2F427e35984002923e021c2c112c15%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1230454306",
+      "source": "Politico",
+      "publishedAt": "2025-09-27T17:54:46Z",
+      "description": "Bezdůvodné tvrzení prezidenta pokračuje v několikaletém úsilí přepsat historii útoku na Kapitol."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Trumpova cla: Kdo tratí na nových clech USA na farmaceutika?",
       "original_title": "Trump tariffs: Who stands to lose from new US pharma duties? - DW",
       "url": "https://www.dw.com/en/trump-tariffs-who-stands-to-lose-most-from-new-us-pharma-duties/a-74143945",
       "urlToImage": "https://static.dw.com/image/74144654_6.jpg",
       "source": "DW (English)",
       "publishedAt": "2025-09-27T17:41:42Z",
-      "description": "Nejnovější tarifní krok amerického prezidenta: USA od 1. října zavedou 100% cla na dovozy znakových či patentovaných farmaceutických výrobků. Co by to mohlo znamenat pro globální obchod?"
+      "description": "Nejnovější celní opatření amerického prezidenta: USA od 1. října uvalí 100% cla na dovoz značkových či patentovaných farmaceutických výrobků. Co to může znamenat pro globální obchod?"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Stopy spalniček nalezeny v odpadní vodě u SUNY Oswego, nikdo však nebyl diagnostikován",
+      "title": "Ve vzorcích odpadní vody u SUNY Oswego byly nalezeny stopy spalniček, nikdo však nebyl diagnostikován",
       "original_title": "Traces of measles detected in wastewater near SUNY Oswego, but nobody’s been diagnosed - WSYR",
       "url": "https://www.localsyr.com/health/measles-detected-at-low-levels-in-oswego-wastewater-no-clinical-cases/",
       "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2025/07/NYS-shows-record-high-child-flu-deaths-measles-increase.png?w=1280",
       "source": "WSYR",
       "publishedAt": "2025-09-27T16:10:23Z",
-      "description": "Stopy viru spalniček detekovány v odpadních vodách v Oswegu, oznámilo ministerstvo zdravotnictví"
+      "description": "OSWEGO, N.Y. (WSYR-TV) — Státní zdravotní ústav v New Yorku v sobotu oznámil, že v čistírně odpadních vod ve městě Oswego detekoval stopová množství viru spalniček. Oznámení obdržel starosta města ..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Hamas tvrdí, že neobdržel Trumpův plán, zatímco Izrael rozšiřuje útok na Gazu",
+      "original_title": "Hamas says it has not received Trump plan as Israel expands Gaza City assault - KSL.com",
+      "url": "https://www.ksl.com/article/51381753/hamas-says-it-has-not-received-trump-plan-as-israel-expands-gaza-city-assault",
+      "urlToImage": "https://img.ksl.com/slc/3111/311157/31115775.JPG?filter=kslv2/responsive_story_lg",
+      "source": "KSL.com",
+      "publishedAt": "2025-09-27T15:54:52Z",
+      "description": "Hamas nedostal plán příměří v Gaze od prezidenta Trumpa, oznámila v sobotu palestinská skupina, která má enklávu pod kontrolou, zatímco izraelské síly rozšířily útok na město Gaza."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Pokémon TCG: Recenze Mega evoluce — drop rates, nejlepší karty a odhalené strategie",
+      "title": "Pokémon TCG: Recenze Mega Evoluce — šance na tah, nejlepší karty a odhalené strategie",
       "original_title": "Pokémon TCG: Mega Evolution review — pull rates, top cards, and strategies revealed - Mashable",
       "url": "https://mashable.com/article/pokemon-tcg-mega-evolution-review",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/03N9ICSTYjiYX1cgGfKk0Of/hero-image.fill.size_1200x675.v1758900555.png",
@@ -158,18 +180,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pusťte se do dalšího boje, nevzdávejte to\": P.T. Anderson a Leo DiCaprio o \"jednom boji za druhým",
+      "title": "Připravte se na další bitvu, nevzdávejte to\": P.T. Anderson a Leo DiCaprio o \"jednom souboji za druhým",
       "original_title": "'Get On to the Next Fight, Don't Give Up': P.T. Anderson and Leo DiCaprio on 'One Battle After Another' - Rolling Stone",
       "url": "http://www.rollingstone.com/tv-movies/tv-movie-features/paul-thomas-anderson-leonardo-di-caprio-one-battle-after-another-interview-1235425735/",
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/09/rev-1-OBAA-MM-DSF5645g_High_Res_JPEG.jpg?w=1600&h=900&crop=1",
       "source": "Rolling Stone",
       "publishedAt": "2025-09-27T14:00:00Z",
-      "description": "Filmař a hvězda se rozpovídali o své první společné spolupráci, o tom, jak nevyhořet a nezmizet, o tom, proč je River Phoenix nejlepší ze všech, a o mnohém dalším."
+      "description": "Filmař a hvězda se rozpovídali o své první spolupráci, o tom, jak nevyhořet, proč je River Phoenix nejlepší ze všech a další témata."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Po téměř 20 letech pomoci s provozem vozítek na Marsu říká geoložka NASA a kandidátka na astronautku Lauren Edgarová, že vkročit na Rudou planetu „by byl sen“",
+      "title": "Po téměř 20 letech pomoci s provozem roverů na Marsu by byl krok na Rudou planetu snem, říká geoložka NASA a kandidátka na astronautku Lauren Edgar",
       "original_title": "After almost 20 helping to operate rovers on Mars, NASA geologist and astronaut candidate Lauren Edgar says stepping foot on the Red Planet 'would be a dream' - Space",
       "url": "https://www.space.com/astronomy/mars/after-almost-20-helping-to-operate-rovers-on-mars-nasa-geologist-and-astronaut-candidate-lauren-edgar-says-stepping-foot-on-the-red-planet-would-be-a-dream",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/prioMHddxvSAuRoYMbP83d.jpg",
@@ -180,7 +202,7 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Nikomu se nedaří zabít americkou ekonomiku, přes veškeré snahy.",
+      "title": "Americkou ekonomiku nedokáže zničit nikdo, ačkoli se o to všichni snaží",
       "original_title": "No one can seem to kill America’s economy, despite everyone’s best efforts - CNN",
       "url": "https://www.cnn.com/2025/09/27/economy/economy-inflation-tariffs-sentiment-jobs",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2233563029.jpg?c=16x9&q=w_800,c_fill",
@@ -191,24 +213,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Šestiletému chlapci se křížily oči. Lékaři objevili rychle rostoucí nádor na mozku.",
-      "original_title": "A 6-year-old's eyes were crossed. Doctors found a fast-growing brain tumor. - CBS News",
-      "url": "https://www.cbsnews.com/news/brain-cancer-tumor-diagnosis-florida-holtz-childrens-hospital-miami-health/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/24/5a904130-1c11-4976-90f6-0c17a049799d/thumbnail/1200x630/a64411e6ba40cd55f2a4bb00081e095a/img-8213.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-27T12:00:17Z",
-      "description": "Matka Imani Dellové si všimla, že má dceru zešikmené oči. Brzy začala šestiletá holčička vidět dvojitě. Na vině byl rychle rostoucí nádor."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vědecké novinky tohoto týdne: Průlomový lék na Huntingtonovu chorobu a rychle rostoucí černá díra, která porušuje fyzikální zákony",
+      "title": "Vědecké novinky tohoto týdne: Průlomový lék na Huntingtonovu chorobu a rychle rostoucí černá díra, která odporuje fyzice",
       "original_title": "Science news this week: A breakthrough cure for Huntington's disease and a fast-growing black hole that breaks physics - Live Science",
       "url": "https://www.livescience.com/health/science-news-this-week-a-breakthrough-cure-for-huntingtons-disease-and-a-fast-growing-black-hole-that-breaks-physics",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/NbfojiX9FeTTWUrMi3kwbb.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-27T11:00:00Z",
-      "description": "27. září 2025: Týdenní přehled nejnovějších vědeckých zpráv a pár zajímavých článků, které vás pobaví o víkendu."
+      "description": "27. září 2025: Přehled nejnovějších vědeckých zpráv týdne a pár zajímavých článků na víkend."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Start SpaceX je naplánován na neděli z Vandenbergovy základny",
+      "original_title": "SpaceX launch scheduled for Sunday from Vandenberg SFB - KSBY News",
+      "url": "https://www.ksby.com/lompoc-valley/spacex-launch-from-vandenberg-sfb-scheduled-for-sunday",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/3f8e861/2147483647/strip/true/crop/1917x1006+0+8/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F7f%2Feb%2F9f132968477b99be9254b531784c%2Fscreenshot-2025-05-31-141553.png",
+      "source": "KSBY San Luis Obispo News",
+      "publishedAt": "2025-09-27T02:56:35Z",
+      "description": "SpaceX plánuje v neděli 28. září z Vandenbergovy základny kosmických sil vypustit raketu Falcon 9 s 28 satelity Starlink na nízkou oběžnou dráhu Země."
     },
     {
       "flag": "🌍",
@@ -224,40 +246,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vypuknutí eboly v Kongu zuří s úmrtností 61 % a docházejícími finančními prostředky",
-      "original_title": "Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry - Ars Technica",
-      "url": "https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2014/11/13717624625_c584569b9b_k-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-26T18:25:05Z",
-      "description": "Záchranáři žádají o 25 milionů dolarů na zadržení nemoci. K dispozici mají 2,2 milionu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trumpův poradce přiznal, že Larry Ellison je „stínový prezident Spojených států“",
-      "original_title": "Trump Adviser Admits Larry Ellison Is \"Shadow President of the United States\" - Futurism",
-      "url": "https://futurism.com/future-society/trump-adviser-larry-ellison-shadow-president",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/09/trump-adviser-larry-ellison-shadow-president.jpg",
-      "source": "Futurism",
-      "publishedAt": "2025-09-26T14:25:26Z",
-      "description": "Trumpův poradce přiznal reportérovi Wired, že Larry Ellison je „stínový prezident Spojených států“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "NASA vysílá speciální misi ke studiu záhadného „halo“ Země",
       "original_title": "NASA launches special mission to study Earth's mysterious \"halo\" - Live Science",
       "url": "https://www.livescience.com/space/nasa-launches-special-mission-to-study-earths-mysterious-halo",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/bfsUdbzLUrABG3kxKbYVpK.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-26T13:00:00Z",
-      "description": "Observatoř NASA Carruthers Geocorona odstartovala a brzy zahájí dvouletou misi ke studiu záhadného „svatozáře“ Země."
+      "description": "Observatoř NASA Carruthers Geocorona odstartovala a brzy zahájí dvouletou misi ke studiu zemského mystického halo."
     },
     {
       "flag": "🌍",
       "country": "fr",
-      "title": "Recenze iPhonu 17 Pro Max: Redefinice pojmu „Pro“ s novým nátěrem",
+      "title": "Recenze iPhonu 17 Pro Max: Profi úroveň v novém kabátě",
       "original_title": "iPhone 17 Pro Max review: redefining 'Pro' with a new coat of paint - AppleInsider",
       "url": "https://appleinsider.com/articles/25/09/26/iphone-17-pro-max-review-redefining-pro-with-a-new-coat-of-paint",
       "urlToImage": "https://photos5.appleinsider.com/gallery/65201-136314-iPhone-17-Pro-Max-xl.jpg",
@@ -268,13 +268,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX vypustila 24 satelitů Starlink a přistála s raketou na mořské plošině",
-      "original_title": "SpaceX launches 24 Starlink internet satellites, lands rocket on ship at sea - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-24-starlink-internet-satellites-group-17-11",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7LrbHprBFbeTx245asFbbV.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-26T06:03:03Z",
-      "description": "Byl to 123. start Falconu 9 od SpaceX tento rok."
+      "title": "V USA se šíří „noční můra bakterií“, CDC varuje. Co je třeba vědět",
+      "original_title": "‘Nightmare bacteria’ found in SC as it spreads across US, CDC says. What to know - The State",
+      "url": "https://www.thestate.com/news/state/south-carolina/article312261451.html",
+      "urlToImage": "https://www.mcclatchy-wires.com/public/incoming/pe6i04/picture312250218/alternates/LANDSCAPE_1140/b2ea5d1d-5118-455f-be63-382067773e85",
+      "source": "The State",
+      "publishedAt": "2025-09-26T10:00:00Z",
+      "description": "„Noční můra“ bakterie objevená v Jižní Karolíně se šíří po USA. Riziko nákazy je nízké, častější je ve zdravotnických zařízeních."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "4 vakcíny spojované s nižším rizikem demence",
+      "original_title": "4 vaccines that are linked to a lower risk of dementia - The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2025/09/25/vaccines-dementia-risk-reduction/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQY5GHOJQBEK7IZBAZPZFRPPRM.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-25T10:13:30Z",
+      "description": "Některým onemocněním, kterým lze předcházet očkováním, je připisováno urychlení atrofie mozku a vyšší riziko vzniku demence v pozdějším věku."
     }
   ]
 }
