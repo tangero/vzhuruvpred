@@ -1,30 +1,40 @@
 {
-  "updated": "2025-09-29T18:37:10.400936",
+  "updated": "2025-09-29T21:22:00.350852",
   "trends": [
     {
       "rank": 1,
-      "query": "moldavsko",
-      "news_title": "Proevropská strana vyhrála volby v Moldavsku, opozice chystá protesty",
-      "news_url": "https://www.novinky.cz/clanek/zahranicni-volby-v-moldavsku-ovladla-proevropska-strana-opozice-chysta-protesty-40540952",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNWOP3Q_3SS7RojyneyUEgY0zjeW1Pu8F0Ju6dBzFmoPXvIMJ49rnQgAJVkQY",
-      "traffic": "1000++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=moldavsko&geo=CZ"
-    },
-    {
-      "rank": 2,
       "query": "everton – west ham",
-      "news_title": "Everton vs West Ham: živě, sestavy, statistiky, H2H",
+      "news_title": "Everton vs West Ham: živě ONLINE, sestavy, statistiky",
       "news_url": "https://www.bbc.com/sport/football/live/cy4rxwzkz3lt",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJLVqtevJaI5cY8-iDTVqYSL-NGYDCPZDjXS9kXWXsKDmu4ceAsgpcCDJlvC4",
-      "traffic": "500++ hledání",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlu3ek8eyLSaJ35maat6K-8SO3K7FJbnF1HkNZTBN2on-5-mFPsLU9P-IA_BQ",
+      "traffic": "2000++ hledání",
       "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=everton – west ham&geo=CZ"
     },
     {
+      "rank": 2,
+      "query": "moldavsko",
+      "news_title": "Ruské pokusy v Moldavsku ztroskotaly, zvítězila prozápadní vláda",
+      "news_url": "https://www.seznamzpravy.cz/clanek/zahranicni-jasna-porazka-ruskych-pokusu-jak-v-moldavsku-zvitezila-prozapadni-vlada-287303",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEQfwKAucqm3wtx0gJnsEno0Cp-p-V0MpG-k3DdK-1Hv2aSPzefXbs7-o5HLI",
+      "traffic": "1000++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=moldavsko&geo=CZ"
+    },
+    {
       "rank": 3,
+      "query": "kupka",
+      "news_title": "Fiala útočil v superdebatě. Hádka billboardů.",
+      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-komentar-hadka-billboardu-v-superdebate-fiala-utocil-287301",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsP6FNPqImhpdnA9nm9bz3y1cvI1OJQkpWakPMI1oQpfvk3uFEATjePJ_Xc1s",
+      "traffic": "500++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=kupka&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "anna kurnikovová",
-      "news_title": "Kurnikovová zářila na kurtech, provokovala klipem. Teď je z ní sexy máma",
+      "news_title": "Kurnikovová zářila na kurtech, provokovala klipem. Teď je z ní sexy máma.",
       "news_url": "https://www.denik.cz/tenis/anna-kurnikovova-deti-tehotenstvi-sexy-kraska-enrique-iglesias.html",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6yFZYvoyQGh4jrnpGVhzbcFU428f-hE7yitlrdPpV_9KWetkzmFOA6XkY0R0",
       "traffic": "500++ hledání",
@@ -32,9 +42,29 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=anna kurnikovová&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "query": "jana maláčová",
+      "news_title": "Maláčová se poprvé od oznámení boje s rakovinou ukázala bez paruky.",
+      "news_url": "https://www.novinky.cz/clanek/domaci-malacova-se-poprve-od-oznameni-boje-s-rakovinou-objevila-bez-paruky-40540927",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeziW797c1VyM6nEfAsl1QjTUlUCTJFJOnd785uLzHLwFFqWMxNgKD8BXIzuU",
+      "traffic": "200++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jana maláčová&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "zdeněk hřib",
+      "news_title": "Macinka se bojí koalice hajlujících Motoristů a komunistů",
+      "news_url": "https://www.idnes.cz/volby/volebni-debata-cnn-prima-new-hrib-pirati-malacova-stacilo-macinka-motoriste-sobe.A250929_143236_volby_kop",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUi8DuL4zaNRLm36gwi87T9yT6731Mx1E-Q4wKKh3uXTQad1xicDluCDvA72k",
+      "traffic": "200++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk hřib&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "david kratochvíl",
-      "news_title": "Paraplavci z MS v Singapuru přivezli 11 medailí",
+      "news_title": "Paraplavci z Singapuru přivezli 11 medailí",
       "news_url": "https://sport.ceskatelevize.cz/clanek/sport-handicapovanych/paraplavci-jsou-doma-v-singapuru-ziskali-jedenact-medaili/68da67e504cd4bad857987dc",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBYql3I3KiPIuFEQbLe8tMhBFtx8llq9TrQYWLQIk5K0UhIsIVdIOnBy53c9U",
       "traffic": "200++ hledání",
@@ -42,44 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=david kratochvíl&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "query": "allwyn",
-      "news_title": "Sazka se přejmenuje. Změny názvů známých českých firem",
+      "news_title": "Sazka mění název. Stejně jako jiné firmy, které znal každý Čech.",
       "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-sazka-se-prejmenuje-a-nebyla-jedina-287333",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCYiRN0bwWpnsOzElYUoaSCZH3HF8zdcaZEre6vZt6ZGJZC8e_Diix7UkCTSg",
       "traffic": "200++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=allwyn&geo=CZ"
-    },
-    {
-      "rank": 6,
-      "query": "moldova elections",
-      "news_title": "Promešká EU strana vyhrála v Moldavsku klíčové volby, což je prohra pro Rusko",
-      "news_url": "https://www.reuters.com/world/europe/moldovas-pro-eu-government-edges-towards-majority-pivotal-vote-2025-09-28/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSppKR5C6lyd2qSjCKHsrKLbA_K5R8cmmPTsNHJbB1JT0yx6A-MZI97ZtvFvQ",
-      "traffic": "200++ hledání",
-      "source": "Reuters",
-      "explore_url": "https://trends.google.cz/trends/explore?q=moldova elections&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "bobek zoo",
-      "news_title": "Pražská zoo: Vedení města prověří problémy, o nichž nevědělo",
-      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-problemy-v-zoo-o-nicem-jsme-nevedeli-proverime-to-slibuje-vedeni-prahy-287307",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYKzr-wSZyNY8jfON8APZPkR4SP5kpXO0D733SeifLeACq0STXJUMzsnb2L24",
-      "traffic": "100++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=bobek zoo&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "ryder cup",
-      "news_title": "McIlroy kritizuje chování amerických fanoušků na Ryder Cupu",
-      "news_url": "https://www.cbc.ca/sports/golf/ryder-cup-recap-sept-28-1.7646147",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTQkpgEFd1vxhzUE0AlXiLa433L9rqSDjuTJNH3DzXx11qAS0tIPLpmsquPKA",
-      "traffic": "100++ hledání",
-      "source": "CBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ryder cup&geo=CZ"
     }
   ]
 }
