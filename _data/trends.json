@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-30T03:35:00.110905",
+  "updated": "2025-09-30T06:38:39.613335",
   "trends": [
     {
       "rank": 1,
@@ -13,28 +13,28 @@
     },
     {
       "rank": 2,
-      "query": "kupka",
-      "news_title": "Havlíček: Komunisté ve vládě vadí, ale Stačilo! nejsou jen oni",
-      "news_url": "https://www.idnes.cz/volby/predvolebni-debata-duel-kupka-havlicek-spolu-ods-hnuti-ano.A250929_144615_volby_hovo",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfgaAf7mhH5k3zJdSniEXrrskxMyh4ZSLHL1m99jW77fymBvsXAsRcWhmYUi8",
-      "traffic": "500++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kupka&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "anna kurnikovová",
-      "news_title": "Sexy máma Kurnikovová zářila na kurtech i v klipu",
+      "news_title": "Kurnikovová zářila na kurtech, provokovala klipem. Teď je z ní sexy máma",
       "news_url": "https://www.denik.cz/tenis/anna-kurnikovova-deti-tehotenstvi-sexy-kraska-enrique-iglesias.html",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6yFZYvoyQGh4jrnpGVhzbcFU428f-hE7yitlrdPpV_9KWetkzmFOA6XkY0R0",
-      "traffic": "500++ hledání",
+      "traffic": "1000++ hledání",
       "source": "Deník.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=anna kurnikovová&geo=CZ"
     },
     {
+      "rank": 3,
+      "query": "kupka",
+      "news_title": "Předvolební duel: Havlíček vs. Kupka",
+      "news_url": "https://ct24.ceskatelevize.cz/clanek/domaci/predvolebni-duel-karel-havlicek-a-martin-kupka-365524",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCESSRmpgUaX-YmCraZ8Py50XQ37DxBucZ7lV2UCD0CYwRWuxR5G6fWMOF73Q",
+      "traffic": "500++ hledání",
+      "source": "ČT24",
+      "explore_url": "https://trends.google.cz/trends/explore?q=kupka&geo=CZ"
+    },
+    {
       "rank": 4,
       "query": "jana maláčová",
-      "news_title": "Maláčová se poprvé od oznámení boje s rakovinou ukázala bez paruky",
+      "news_title": "Maláčová se poprvé od oznámení rakoviny objevila bez paruky",
       "news_url": "https://www.novinky.cz/clanek/domaci-malacova-se-poprve-od-oznameni-boje-s-rakovinou-objevila-bez-paruky-40540927",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeziW797c1VyM6nEfAsl1QjTUlUCTJFJOnd785uLzHLwFFqWMxNgKD8BXIzuU",
       "traffic": "200++ hledání",
@@ -44,17 +44,17 @@
     {
       "rank": 5,
       "query": "zdeněk hřib",
-      "news_title": "Piráti budou řešit krize nejen v Praze, varuje Petr Lachnit",
-      "news_url": "https://www.krajskelisty.cz/praha/33917-petr-lachnit-desiva-predstava-pirati-budou-resit-krize-nejen-v-praze.htm",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBcouqwPyEvgmh2ZMCE21G5j3Jd4xYjE5838A9X3LxcJ3ukIQJzYxE2794ABo",
+      "news_title": "Piráti chtějí porazit SPD a zabránit estébákovi v premiérském postu",
+      "news_url": "https://archiv.hn.cz/c1-67793970-chceme-porazit-spd-a-zabranit-tomu-aby-byl-premierem-estebak-rika-predvolebni-piratsky-tandem",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa6bhv0xrdJVV1mDydGISWqx1WmCbK1uJkoYAADnT7roJQpWQdrLB3P8p61bI",
       "traffic": "200++ hledání",
-      "source": "Krajské listy",
+      "source": "Hospodářské noviny",
       "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk hřib&geo=CZ"
     },
     {
       "rank": 6,
       "query": "david kratochvíl",
-      "news_title": "Paraplavci jsou doma, v Singapuru získali jedenáct medailí",
+      "news_title": "Paraplavci z Singapuru přivezli 11 medailí",
       "news_url": "https://sport.ceskatelevize.cz/clanek/sport-handicapovanych/paraplavci-jsou-doma-v-singapuru-ziskali-jedenact-medaili/68da67e504cd4bad857987dc",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBYql3I3KiPIuFEQbLe8tMhBFtx8llq9TrQYWLQIk5K0UhIsIVdIOnBy53c9U",
       "traffic": "200++ hledání",
@@ -64,7 +64,7 @@
     {
       "rank": 7,
       "query": "mi-28",
-      "news_title": "Ukranian FPV drone destroys Russian Mi-28N helicopter, military says",
+      "news_title": "Ukrajinský dron zničil ruský vrtulník Mi-28N, uvedla armáda",
       "news_url": "https://kyivindependent.com/ukranian-fpv-drone-destroys-russian-mi-28n-helicopter-military-says/",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7YTwR0_a-TiMoEEYXvEKEggPsOaiF54PNlTGshHjhFzy3EElv6C_Ao4rRnFY",
       "traffic": "200++ hledání",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "query": "allwyn",
-      "news_title": "Sazka změní název i logo",
+      "news_title": "Sazka mění název i logo",
       "news_url": "https://www.novinky.cz/clanek/ekonomika-sazka-pristi-rok-zmeni-nazev-i-logo-40540954",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcfG4bVU0tyjyOae2tEfw71rYDsObZkzojerCrIoY33DLQWvsp5p9CCsH-EI",
       "traffic": "200++ hledání",
