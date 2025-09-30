@@ -1,10 +1,54 @@
 {
-  "last_updated": "2025-09-30T18:24:07",
+  "last_updated": "2025-09-30T19:14:18",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie dnes: Nasdaq posiluje, hrozba odstávky vlády se blíží",
+      "title": "Živé zpravodajství o uzavření vlády: Trump se má setkat s vůdci Kongresu",
+      "original_title": "Government shutdown live updates as Trump is set to meet with congressional leaders - CBS News",
+      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-congress-white-house/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/29/d6b83496-97e0-455c-970e-cd376e3448fa/thumbnail/1200x630g2/14dc99cef00d0e7ca32428bac539adb3/gettyimages-2236976158.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-29T18:43:00Z",
+      "description": "Vedoucí představitelé Kongresu se mají setkat s Trumpem v Bílém domě, zatímco se Washington řítí k odstávce v roce 2025. Sledujte živé aktualizace."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Letadlo zůstalo na zemi po střetu s ptákem při vzletu",
+      "original_title": "Flight Grounded After ‘Bird Strike’ During Takeoff - The Daily Beast",
+      "url": "https://www.thedailybeast.com/spectacular-design-miracle-bridge-opens-with-bungee-jumps/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/SDOQ2NVZLNDLTN5VTARDM7H5DI.jpg?smart=true&auth=4207a1f72109f330dcae675bdf9b3a12b9633819a56f16106e37876176740c3c&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2025-09-29T17:44:28Z",
+      "description": "Most Huajiangského velkého kaňonu se otevírá a láme dva rekordy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Námořník vyznamenaný Purpurovým srdcem obviněn ze střelby v přístavním baru v Severní Karolíně s mrtvými",
+      "original_title": "Marine awarded Purple Heart charged in deadly North Carolina waterfront bar shooting - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/nigel-edge-north-carolina-boat-shooting-suspect/story?id\\\\u003d126034075",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-29T17:35:46Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Netanjahu se omluvil Kataru za porušení suverenity leteckým útokem",
+      "original_title": "Netanyahu apologizes to Qatar for violating sovereignty with airstrike - Axios",
+      "url": "https://www.axios.com/2025/09/29/israel-apologize-qatar-airstrike-netanyahu-trump",
+      "urlToImage": "https://images.axios.com/oaqRlEihKwc2mHilH25e3tAsBZQ=/0x115:5512x3215/1366x768/2025/09/29/1759163782036.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-29T16:41:33Z",
+      "description": "Hovor proběhl během setkání Trumpa s Netanjahuem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trh dnes: Nasdaq roste, hrozba uzavření vlády se blíží",
       "original_title": "Stock Market Today: Nasdaq Rises; Government Shutdown Looms - The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2025",
       "urlToImage": null,
@@ -15,13 +59,46 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Trump naléhá na Netanjahua, aby přijal jeho plán na ukončení války v Gaze",
+      "original_title": "Trump is pressing Netanyahu to accept his plan to end war in Gaza - NPR",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5556916/trump-israel-gaza-netanyahu",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fc2%2F52aaf7f246528401a9880b7e891e%2Fgettyimages-2238077141.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-29T16:15:29Z",
+      "description": "Před pondělním jednáním lídrů Bílý dům zveřejnil mírový plán na okamžité ukončení izraelské války na území, zvýšení pomoci Gaze a propuštění izraelských rukojmí Hamasem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tropická bouře Imelda: Sledujeme dráhu bouře u jihovýchodního pobřeží",
+      "original_title": "Tropical Storm Imelda: Tracking the storm's path near the Southeast coast - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/tropical-storm-imelda-track-path-southeast-coast/story?id\\\\u003d126033765",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-29T15:32:19Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jak mozek vyvažuje excitaci a inhibici",
+      "original_title": "How the Brain Balances Excitation and Inhibition - Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-the-brain-balances-excitation-and-inhibition-20250929/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2025/09/Neurons-crWei-AnJin-Social.jpg",
+      "source": "Quanta Magazine",
+      "publishedAt": "2025-09-29T15:24:53Z",
+      "description": "Zdravý mozek udržuje harmonii neuronů, které buď excitují, nebo inhibují jiné neurony, ale hranice mezi různými typy buněk jsou rozmazanější, než si vědci dříve mysleli."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Výrobce autodílů First Brands podal žádost o bankrot",
       "original_title": "Auto-Parts Supplier First Brands Files for Bankruptcy - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-09-29/auto-parts-supplier-first-brands-files-for-bankruptcy",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihmkqrJRiUjU/v0/1200x800.jpg",
       "source": "Bloomberg",
       "publishedAt": "2025-09-29T14:54:19Z",
-      "description": "First Brands Group Holdings podala návrh na reorganizaci podle kapitoly 11, což je vyvrcholením týdnů turbulencí vyvolaných obavami věřitelů z používání neprůhledného financování mimo rozvahu u toh..."
+      "description": "First Brands Group Holdings podala žádost o ochranu před věřiteli podle kapitoly 11, čímž vyvrcholily týdny turbulencí vyvolaných obavami věřitelů z používání nejasného mimorozvahového financování ..."
     },
     {
       "flag": "🌍",
@@ -32,78 +109,67 @@
       "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/chopping-carrots-on-a-wooden-cutting-board-in-a-royalty-free-image-1758919585.pjpeg?crop=1.00xw:0.773xh;0,0.156xh&resize=1200:*",
       "source": "Prevention.com",
       "publishedAt": "2025-09-29T14:40:59Z",
-      "description": "Objevte, jak vám každodenní konzumace mrkve může zlepšit zdraví: od zářivější pleti přes ostřejší zrak až po mnoho dalších benefitů."
+      "description": "Zjistěte, jak může každodenní konzumace mrkve zlepšit vaše zdraví – od zářivé pleti přes ostřejší zrak až po mnoho dalších benefitů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Uvnitř neobvyklého setkání Trumpa a Hegsetha s americkými generály v Quanticu",
+      "title": "Co se dělo při neobvyklém setkání Trumpa a Hegsetha s americkými generály v Quanticu",
       "original_title": "Inside Trump and Hegseth's unusual meeting with U.S. generals at Quantico - Axios",
       "url": "https://www.axios.com/2025/09/29/trump-hegseth-military-meeting-quantico",
       "urlToImage": "https://images.axios.com/SuUvN5lMBfEPstJKy3hsC59Mm3Q=/0x0:6000x3375/1366x768/2025/09/29/1759151255392.jpg",
       "source": "Axios",
       "publishedAt": "2025-09-29T14:26:41Z",
-      "description": "Trump schůzi označuje za „velmi pěknou“, setkání na Quantico je však neobvyklé."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tyto vesmírné kameny zasévají nové planety: Astrofyzička objevila, že mezihvězdné objekty vytvářejí plynné obry, zatímco mladé hvězdy zachycují kosmické stavební kameny",
-      "original_title": "\"These Space Rocks Seed New Planets\": Astrophysicist Discovers Interstellar Objects Create Gas Giants While Young Stars Capture Cosmic Building Blocks - Rude Baguette",
-      "url": "https://www.rudebaguette.com/en/2025/09/these-space-rocks-seed-new-planets-astrophysicist-discovers-interstellar-objects-create-gas-giants-while-young-stars-capture-cosmic-building-blocks/",
-      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/this-mysterious-object-reveals-secret-seeds-that-shatter-everything-we-know-about-planet-creation-in-our-galaxy.jpg",
-      "source": "Rudebaguette.com",
-      "publishedAt": "2025-09-29T14:13:44Z",
-      "description": "Nečekaný návštěvník zaujal astronomy celého světa: mezihvězdný objekt, identifikovaný letos na začátku roku, právě prolétá sluneční soustavou"
+      "description": "Trump schůzku označuje za „velmi pěknou“, setkání na Quantico je však neobvyklé."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Více než 99 % případů srdečních onemocnění má rizikový faktor, který lze řešit ještě před onemocněním, ukazuje studie",
+      "title": "Více než 99 % případů srdečních onemocnění má rizikový faktor, který lze řešit ještě před propuknutím nemoci, ukazuje studie",
       "original_title": "More than 99% of heart disease cases have a risk factor you can address before you get sick, study shows - CNN",
       "url": "https://www.cnn.com/2025/09/29/health/heart-disease-risk-factors-wellness",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1034303176.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-29T14:00:51Z",
-      "description": "Téměř vždy existují příznaky, které předcházejí kardiovaskulárnímu onemocnění. Rizikové faktory můžete začít léčit už teď, radí odborníci."
+      "description": "Téměř vždy existují varovné signály předcházející kardiovaskulárním onemocněním. Rizikové faktory můžete začít léčit již nyní, radí odborníci."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Blíží se uzavření vlády, kongresoví lídři míří do Bílého domu",
-      "original_title": "Government shutdown draws closer as congressional leaders head to the White House - AP News",
-      "url": "https://apnews.com/article/trump-shutdown-government-chuck-schumer-8510b2fa4d40c4bbc058951c49c42468",
-      "urlToImage": "https://dims.apnews.com/dims4/default/250d893/2147483647/strip/true/crop/3739x2103+0+195/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F97%2Faf04059227e957f4ae418c0048e0%2Fd2637328953c49738898dfa3da55facb",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-29T13:30:00Z",
-      "description": "Bílý dům dává najevo, že prezident Donald Trump nemá v úmyslu vyjednávat"
+      "title": "První testy: Qualcommův Snapdragon X2 Elite Extreme ukazuje opravdu vysokou rychlost",
+      "original_title": "First Tests: Qualcomm's Snapdragon X2 Elite Extreme Shows Some Serious Speed - PCMag",
+      "url": "https://www.pcmag.com/news/first-tests-qualcomms-snapdragon-x2-elite-extreme-shows-some-serious-speed",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/02bhc6Sd3dcb7FqJHvPQ47O-10.fit_lim.size_1200x630.v1759095475.jpg",
+      "source": "PCMag.com",
+      "publishedAt": "2025-09-29T13:40:06Z",
+      "description": "Špičkové takty, spousta jader, AI výkon na rozdávání a přepracovaný GPU: Nový čip Snapdragon X2 Elite Extreme vypadá jako lídrem v procesorovém závodě pro notebooky. Jak si vede v prvních testech p..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Selena Gomez a Bennyho Blanca se selfie ze svatby. Fanoušci říkají: ‚Konečně má šťastný konec‘",
-      "original_title": "Selena Gomez & Benny Blanco’s Wedding Selfie Has Fans Saying ‘She Got Her Happy Ending’ - Yahoo",
-      "url": "https://www.thefashionspot.com/fashion-news/906609-selena-gomez-benny-blanco-wedding-photos-selfie-fans-react/",
-      "urlToImage": "https://media.zenfs.com/en/the_fashion_spot_348/7a9bec0e92d6925bda2beb21d31752e7",
-      "source": "Thefashionspot.com",
-      "publishedAt": "2025-09-29T12:48:44Z",
-      "description": "Selena Gomez a Benny Blanco si řekli ano 27. září 2025 a druhý jmenovaný sdílel krásný Instagramový karusel z jejich svatby"
+      "title": "Microsoft spouští v Excelu a Wordu ‚vibe working‘",
+      "original_title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
+      "url": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/excelagentmode.jpg?quality=90&strip=all&crop=0%2C3.477724691513%2C100%2C93.044550616974&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-29T13:30:14Z",
+      "description": "Microsoft spouští nové nástroje s umělou inteligencí v aplikacích Office. Do Wordu a Excelu přichází režim Agent a v chatu Copilotu také Office Agent."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Týden v naší pitomé a krásné hře: James Franklin zase udeřil, Lane Kiffin trollí LSU a návrat Bobbyho Petrina",
+      "original_title": "This Week in Our Dumb, Beautiful Sport: James Franklin Strikes Again, Lane Kiffin Trolls LSU, and the Return of Bobby Petrino - Eleven Warriors",
+      "url": "https://www.elevenwarriors.com/college-football/2025/09/158297/this-week-in-our-dumb-beautiful-sport-james-franklin-strikes-again-lane-kiffin-trolls-lsu-and-usc-is-in-hell",
+      "urlToImage": "https://www.elevenwarriors.com/sites/default/files/styles/904x490/public/c/2025/09/158297_h.jpg?itok=Cjf4juSH",
+      "source": "Eleven Warriors",
+      "publishedAt": "2025-09-29T13:10:00Z",
+      "description": "James Franklin opět selhal, Lane Kiffin našel své twitterové prsty a Bobby Petrino je zpět. Pátý týden byl v našem nejhloupějším a nejkrásnějším sportu šílený."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tvůrce AI herečky Tilly Norwood reaguje na kritiku: „Není náhradou za lidskou bytost“",
-      "original_title": "Creator of AI Actress Tilly Norwood Responds to Backlash: “She Is Not a Replacement for a Human Being” - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/ai-actress-tilly-norwood-backlash-xicoia-eline-response-1236387903/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/FotoJet-2025-09-29T115426.442.jpg?w=1440&h=810&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-29T12:22:30Z",
-      "description": "Eline Van der Velden po zprávách, že její studio hledá zastoupení pro Norwood, řekla, že by se umělé postavy měly posuzovat jako součást vlastního žánru a ne přímo srovnávat s lidskými herci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dva nové Apple displeje se blíží k masové výrobě, mohly by být představeny ještě letos",
+      "title": "Dva nové Apple displeje se blíží k masové výrobě, mohly by se představit letos",
       "original_title": "Two New Apple Displays Nearing Mass Production, May Launch This Year - MacRumors",
       "url": "https://www.macrumors.com/2025/09/29/two-new-apple-displays-nearing-mass-production/",
       "urlToImage": "https://images.macrumors.com/t/Bv3wdqY2W-6LjS4lB2tBbmGmsZY=/2500x/article-new/2025/02/studio-display-new-purple.jpeg",
@@ -125,112 +191,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tři věci, které byste měli vědět o Trumpově plánu vyslat vojsko do Portlandu a Memphisu",
-      "original_title": "3 things to know about Trump's plan to send troops to Portland and Memphis - NPR",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5556831/portland-memphis-national-guard-trump-troops",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5985x3365+1847+1029/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F04%2F3c4b03f94b328c4243441761be86%2Fgettyimages-2237685150.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-29T11:43:30Z",
-      "description": "Prezident Trump nařídil vyslání vojáků do Portlandu a uvedl, že je oprávnil použít „plnou sílu“ k potlačení protestů před středisky imigrační služby."
+      "title": "Ariana Grande znovu sdílela virální příspěvek s otázkou pro voliče Trumpa: ‚Zlepšil se vám život?‘",
+      "original_title": "Ariana Grande Re-Shares Viral Post Asking Trump Voters: ‘Has Your Life Gotten Better?’ - Yahoo",
+      "url": "http://www.billboard.com/music/pop/ariana-grande-re-shares-post-trump-voters-life-gotten-better-1236077590/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/09/ariana-grande-vma-2025-02-billboard-1800.jpg?w=1024",
+      "source": "Billboard",
+      "publishedAt": "2025-09-29T11:59:24Z",
+      "description": "Ariana Grande znovu sdílí příspěvek s dotazem na voliče MAGA: \"Zlepšil se vám život?\" 9 měsíců do druhého funkčního období prezidenta na prahu možného zastavení vlády."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "ZR1, GTD a nová válka Ameriky na Nürburgringu",
-      "original_title": "ZR1, GTD, and America’s new Nürburgring war - Ars Technica",
-      "url": "https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2024Ford_Mustang-GTD_RoadToTheRing_28-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-29T11:30:35Z",
-      "description": "Ford a Chevy zajely téměř totožné časy, ačkoliv jsou jejich vozy velmi odlišné; oba jsme vyzkoušeli."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vraždy 2 mladých žen a dívky vysílané na sociálních sítích vyvolaly v Argentině protesty",
-      "original_title": "Murders of 2 young women and teen girl live-streamed on social media, sparking protests in Argentina - CBS News",
-      "url": "https://www.cbsnews.com/news/women-murders-live-streamed-protests-argentina/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/29/3b26c665-2ccc-4524-99ef-7e37cc167952/thumbnail/1200x630g4/ee4747a36d525b205520dc7d03a53849/2025-09-27t230455z-1309139241-rc2l0hac1qij-rtrmadp-3-argentina-abortion.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-29T11:07:00Z",
-      "description": "Příbuzní obětí nesli transparent s jejich jmény – „Lara, Brenda, Morena“ – a cedule s jejich fotografiemi, obklopeni podporovateli při pochodu k parlamentu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zahraničnímu hongkongskému prodemokratickému aktivistovi Nathanu Lawovi nebyl povolen vstup do Singapuru",
-      "original_title": "Overseas Hong Kong pro-democracy activist Nathan Law denied entry to Singapore - NPR",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5556821/overseas-hong-kong-pro-democracy-activist-nathan-law-denied-entry-to-singapore",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fc1%2F6d6026fd460d96f5f0d6512907a7%2Fap25272164707305.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-29T10:56:02Z",
-      "description": "Hongkongskou vládou hledaný aktivista tvrdí, že byl o víkendu z politických důvodů odmítnut v Singapuru"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„Nikdo není v bezpečí“: Demokraté se bojí, že je Trump příště stíhá",
+      "title": "Nikdo není v bezpečí\": Demokraté se bojí, že je Trump stáhne k odpovědnosti jako další",
       "original_title": "\"No one is safe\": Democrats fear Trump will prosecute them next - Axios",
       "url": "https://www.axios.com/2025/09/29/trump-democrats-comey-indictment-mciver",
       "urlToImage": "https://images.axios.com/gSvDsxpNq1B5-BY0h2SFfWCFMTQ=/0x0:1920x1080/1366x768/2025/09/26/1758919279367.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-29T10:14:51Z",
-      "description": "„Mnozí procházejí hypotékami, daňovými přiznáními atd.,“ řekl jeden z vysokých představitelů demokratů v Sněmovně reprezentantů."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Aktualizace Stable One UI 8 pro Galaxy A55 je venku!",
-      "original_title": "Stable One UI 8 update for Galaxy A55 is out now! - SamMobile",
-      "url": "https://www.sammobile.com/news/stable-one-ui-8-update-galaxy-a55-out-now/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/03/Galaxy-A55-graphite-3.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2025-09-29T10:03:00Z",
-      "description": "Před pár dny Samsung zveřejnil harmonogram rozšíření One UI 8.0 (Android 16)"
+      "description": "Mnoho lidí prochází hypotékami, daňovými přiznáními a podobně,\" řekl jeden z vysokých představitelů demokratů ve Sněmovně reprezentantů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump se podle svých poradců chystá vyvinout na Netanjahua tlak, aby podepsal mírovou dohodu o Gaze",
-      "original_title": "Trump plans to squeeze Netanyahu to sign Gaza peace deal, aides say - Axios",
-      "url": "https://www.axios.com/2025/09/29/trump-netanyahu-gaza-peace-deal-israel-meeting",
-      "urlToImage": "https://images.axios.com/W9OPmmaJo3HMasGv5JjXuWkwTjY=/0x706:6755x4506/1366x768/2025/09/29/1759107332264.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-29T09:43:39Z",
-      "description": "Všichni – a myslím tím opravdu všechny – mají plné zuby Bibiho."
+      "title": "Mimozemská kometa právě dostala od Slunce jaderný úder: Mezihvězdný objekt 3I/ATLAS zasažen sluneční explozí při průletu 220 000 km/h kolem Marsu",
+      "original_title": "\"Alien Comet Just Got Nuked By Sun\": Interstellar Object 3I/ATLAS Hit By Solar Explosion While Racing 137,000 MPH Past Mars - Rude Baguette",
+      "url": "https://www.rudebaguette.com/en/2025/09/alien-comet-just-got-nuked-by-sun-interstellar-object-3i-atlas-hit-by-solar-explosion-while-racing-137000-mph-past-mars/",
+      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/sun-explodes-with-terrifying-solar-blast-reveals-mysterious-interstellar-object-that-shatters-everything-we-know-about-space.jpg",
+      "source": "Rudebaguette.com",
+      "publishedAt": "2025-09-29T10:13:15Z",
+      "description": "Nedávný objev mezihvězdného objektu známého jako 3I/ATLAS uchvátil astronomy a nadšence vesmíru po celém světě. Tento podivuhodný objekt, o kterém se předpokládá,"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Šokující snímky ukazují, jak antibiotikum proniká pancířem bakterie",
+      "title": "Šokující snímky ukazují, jak antibiotikum proráží obrnění bakterie",
       "original_title": "Startling images show how antibiotic pierces bacteria's armor - Phys.org",
       "url": "https://phys.org/news/2025-09-startling-images-antibiotic-pierces-bacteria.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/startling-images-show.jpg",
       "source": "Phys.Org",
       "publishedAt": "2025-09-29T09:00:07Z",
-      "description": "Tým vedený výzkumníky z UCL a Imperial College London poprvé ukázal, jak život zachraňující antibiotika polymyxiny pronikají brněním škodlivých bakterií."
+      "description": "Tým vedený výzkumníky z UCL a Imperial College London poprvé ukázal, jak život zachraňující antibiotika polymyxiny prorážejí brnění škodlivých bakterií."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trpíte zimní depresí? Začněte s léčbou světlem včas, pomůže vám",
+      "title": "Trpíte zimní depresí? Začněte svítit, pomůže to",
       "original_title": "Prone to winter depression? Starting light therapy now can help - NPR",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-29T09:00:00Z",
       "description": "S ubývajícím denním světlem může lidem klesat nálada. Miliony dospělých v USA trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Imelda a Humberto představují dvojitou hrozbu – nebezpečné vlny a pobřežní záplavy pro USA, hurikány jeden po druhém pro Bermudy",
-      "original_title": "Imelda and Humberto deliver double threat — dangerous surf and coastal flooding for US, back-to-back hurricanes for Bermuda - CNN",
-      "url": "https://www.cnn.com/2025/09/29/weather/hurricane-forecast-imelda-humberto-track-climate-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cira-rammb-slider-goes-19-full-disk-geocolor-opacity-100-20250929121019.png?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-29T07:08:13Z",
-      "description": "Tropická bouře Imelda by se měla zesílit na hurikán, který u jihovýchodního pobřeží vyvolá nebezpečné vlny, zpětné proudy, pobřežní záplavy a erozi pláží od Floridy po Karolínu."
     },
     {
       "flag": "🌍",
@@ -244,37 +255,26 @@
       "description": "Řetězec zavírá asi 1 % svých prodejen v Severní Americe – více než 100 poboček."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Objev černé díry potvrzuje, že Einstein a Hawking měli pravdu",
-      "original_title": "Black hole discovery confirms Einstein and Hawking were right - ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2025/09/250928095645.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/ringing-black-hole-merger.webp",
-      "source": "Science Daily",
-      "publishedAt": "2025-09-29T04:58:29Z",
-      "description": "Objev nové kolize černých děr přinesl nejpřesvědčivější důkaz relativity a Hawkingových předpovědí"
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Studie dosáhla průlomu v detekci temné hmoty",
+      "original_title": "Study makes breakthrough in detection of dark matter - The Jerusalem Post",
+      "url": "https://www.jpost.com/science/space/article-868864",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/511612",
+      "source": "The Jerusalem Post",
+      "publishedAt": "2025-09-29T05:04:14Z",
+      "description": "Vědci zaznamenali malé množství nevysvětlených signálů podezřelých z toho, že jsou lehká temná hmota."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX vypustila satelity Starlink z kalifornského Vandenbergu (video)",
-      "original_title": "SpaceX launches Starlink satellites from Vandenberg in California (video) - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-20-b1063-vsfb-ocisly",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/w7TuwvvxtmmhuMYmcVMZvC-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-29T02:35:50Z",
-      "description": "Vzlet proběhl v neděli (28. září) v 22:04 EDT."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Lebka stará milion let zpochybňuje historii lidské evoluce",
-      "original_title": "Million-year-old skull challenges history of human evolution - https-//www.semafor.com",
-      "url": "https://www.semafor.com/article/09/28/2025/million-year-old-skull-challenges-history-of-human-evolution",
-      "urlToImage": "https://img.semafor.com/0813331893f31858355af405bf149f0f3f5fa1b2-2048x1680.jpg?rect=0,303,2048,1075&w=1200&h=630&q=75&auto=format",
-      "source": "Semafor.com",
-      "publishedAt": "2025-09-28T20:12:00Z",
-      "description": "Nález lebky naznačuje, že náš druh se možná vyvinul o půl milionu let dříve, než se dosud předpokládalo."
+      "title": "Itálie na rozcestí: stavět vlastní satelity, nebo se spoléhat na Starlink při čekání na IRIS²",
+      "original_title": "Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS² - SpaceNews",
+      "url": "http://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2025/09/rsz_iris_test.png",
+      "source": "SpaceNews",
+      "publishedAt": "2025-09-29T03:00:00Z",
+      "description": "Itálie na rozcestí: stavět vlastní satelity, nebo se spolehnout na Starlink při čekání na IRIS²"
     }
   ]
 }
