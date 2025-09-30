@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-29T21:22:00.350852",
+  "updated": "2025-09-30T01:54:22.698245",
   "trends": [
     {
       "rank": 1,
       "query": "everton – west ham",
-      "news_title": "Everton vs West Ham: živě ONLINE, sestavy, statistiky",
+      "news_title": "Everton vs West Ham: živý přenos, sestavy, statistiky a H2H",
       "news_url": "https://www.bbc.com/sport/football/live/cy4rxwzkz3lt",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlu3ek8eyLSaJ35maat6K-8SO3K7FJbnF1HkNZTBN2on-5-mFPsLU9P-IA_BQ",
       "traffic": "2000++ hledání",
@@ -13,28 +13,18 @@
     },
     {
       "rank": 2,
-      "query": "moldavsko",
-      "news_title": "Ruské pokusy v Moldavsku ztroskotaly, zvítězila prozápadní vláda",
-      "news_url": "https://www.seznamzpravy.cz/clanek/zahranicni-jasna-porazka-ruskych-pokusu-jak-v-moldavsku-zvitezila-prozapadni-vlada-287303",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEQfwKAucqm3wtx0gJnsEno0Cp-p-V0MpG-k3DdK-1Hv2aSPzefXbs7-o5HLI",
-      "traffic": "1000++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=moldavsko&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "kupka",
-      "news_title": "Fiala útočil v superdebatě. Hádka billboardů.",
-      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-komentar-hadka-billboardu-v-superdebate-fiala-utocil-287301",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsP6FNPqImhpdnA9nm9bz3y1cvI1OJQkpWakPMI1oQpfvk3uFEATjePJ_Xc1s",
+      "news_title": "Havlíček: Komunisty bych ve vládě nechtěl, ale Stačilo! nejsou jen oni",
+      "news_url": "https://www.idnes.cz/volby/predvolebni-debata-duel-kupka-havlicek-spolu-ods-hnuti-ano.A250929_144615_volby_hovo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfgaAf7mhH5k3zJdSniEXrrskxMyh4ZSLHL1m99jW77fymBvsXAsRcWhmYUi8",
       "traffic": "500++ hledání",
-      "source": "Seznam Zprávy",
+      "source": "iDNES.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=kupka&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "query": "anna kurnikovová",
-      "news_title": "Kurnikovová zářila na kurtech, provokovala klipem. Teď je z ní sexy máma.",
+      "news_title": "Sexy máma Kurnikovová zářila na kurtech i v klipu",
       "news_url": "https://www.denik.cz/tenis/anna-kurnikovova-deti-tehotenstvi-sexy-kraska-enrique-iglesias.html",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6yFZYvoyQGh4jrnpGVhzbcFU428f-hE7yitlrdPpV_9KWetkzmFOA6XkY0R0",
       "traffic": "500++ hledání",
@@ -42,7 +32,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=anna kurnikovová&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "query": "jana maláčová",
       "news_title": "Maláčová se poprvé od oznámení boje s rakovinou ukázala bez paruky.",
       "news_url": "https://www.novinky.cz/clanek/domaci-malacova-se-poprve-od-oznameni-boje-s-rakovinou-objevila-bez-paruky-40540927",
@@ -52,9 +42,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jana maláčová&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "query": "zdeněk hřib",
-      "news_title": "Macinka se bojí koalice hajlujících Motoristů a komunistů",
+      "news_title": "Macinka chce řešit zelené živly, podle Hřiba hrozí koalice hajlujících motoristů a komunistů",
       "news_url": "https://www.idnes.cz/volby/volebni-debata-cnn-prima-new-hrib-pirati-malacova-stacilo-macinka-motoriste-sobe.A250929_143236_volby_kop",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUi8DuL4zaNRLm36gwi87T9yT6731Mx1E-Q4wKKh3uXTQad1xicDluCDvA72k",
       "traffic": "200++ hledání",
@@ -62,7 +52,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=zdeněk hřib&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "query": "david kratochvíl",
       "news_title": "Paraplavci z Singapuru přivezli 11 medailí",
       "news_url": "https://sport.ceskatelevize.cz/clanek/sport-handicapovanych/paraplavci-jsou-doma-v-singapuru-ziskali-jedenact-medaili/68da67e504cd4bad857987dc",
@@ -72,13 +62,23 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=david kratochvíl&geo=CZ"
     },
     {
+      "rank": 7,
+      "query": "mi-28",
+      "news_title": "Ukrajinský dron zničil ruský vrtulník Mi-28N, uvedla armáda",
+      "news_url": "https://kyivindependent.com/ukranian-fpv-drone-destroys-russian-mi-28n-helicopter-military-says/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7YTwR0_a-TiMoEEYXvEKEggPsOaiF54PNlTGshHjhFzy3EElv6C_Ao4rRnFY",
+      "traffic": "200++ hledání",
+      "source": "The Kyiv Independent",
+      "explore_url": "https://trends.google.cz/trends/explore?q=mi-28&geo=CZ"
+    },
+    {
       "rank": 8,
       "query": "allwyn",
-      "news_title": "Sazka mění název. Stejně jako jiné firmy, které znal každý Čech.",
-      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-sazka-se-prejmenuje-a-nebyla-jedina-287333",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCYiRN0bwWpnsOzElYUoaSCZH3HF8zdcaZEre6vZt6ZGJZC8e_Diix7UkCTSg",
+      "news_title": "Sazka mění název i logo",
+      "news_url": "https://www.novinky.cz/clanek/ekonomika-sazka-pristi-rok-zmeni-nazev-i-logo-40540954",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcfG4bVU0tyjyOae2tEfw71rYDsObZkzojerCrIoY33DLQWvsp5p9CCsH-EI",
       "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
+      "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=allwyn&geo=CZ"
     }
   ]
