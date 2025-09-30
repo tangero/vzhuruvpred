@@ -1,6 +1,61 @@
 {
-  "last_updated": "2025-09-30T08:26:13",
+  "last_updated": "2025-09-30T09:19:22",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Mimozemská kometa byla zrovna zničena Sluncem: Mezihvězdný objekt 3I/ATLAS zasažen sluneční explozí při průletu 220 000 km/h kolem Marsu",
+      "original_title": "\"Alien Comet Just Got Nuked By Sun\": Interstellar Object 3I/ATLAS Hit By Solar Explosion While Racing 137,000 MPH Past Mars - Rude Baguette",
+      "url": "https://www.rudebaguette.com/en/2025/09/alien-comet-just-got-nuked-by-sun-interstellar-object-3i-atlas-hit-by-solar-explosion-while-racing-137000-mph-past-mars/",
+      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/sun-explodes-with-terrifying-solar-blast-reveals-mysterious-interstellar-object-that-shatters-everything-we-know-about-space.jpg",
+      "source": "Rudebaguette.com",
+      "publishedAt": "2025-09-29T10:13:15Z",
+      "description": "Nedávný objev mezihvězdného objektu známého jako 3I/ATLAS uchvátil astronomy a nadšence kosmonautiky po celém světě. Tento podivuhodný objekt, o kterém se věří,"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vyšetřovatelé zjišťují motiv střelby a požáru v michiganském kostele Církve Ježíše Krista Svatých posledních dnů",
+      "original_title": "Investigators probe for motive in Michigan LDS church shooting, fire - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/investigators-probe-motive-michigan-church-shooting-fire/story?id\\\\u003d126030281",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-29T09:46:22Z",
+      "description": ""
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Skupina Lufthansa plánuje do roku 2030 zrušit 4 000 pracovních míst v rámci snahy o zvýšení efektivity",
+      "original_title": "Lufthansa Group To Slash 4,000 Jobs By 2030, In Bid to Improve Efficiency - One Mile at a Time",
+      "url": "https://onemileatatime.com/news/lufthansa-group-slash-thousands-jobs-improve-efficiency/",
+      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2023/03/Lufthansa-A330-FRA.jpg",
+      "source": "One Mile at a Time",
+      "publishedAt": "2025-09-29T09:27:25Z",
+      "description": "Skupina Lufthansa plánuje v příštích letech zrušit tisíce pracovních míst a snížit 20 % administrativních pracovníků, aby zvýšila efektivitu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Swift přidává do své infrastruktury blockchainovou účetní knihu v přelomovém kroku, který urychlí a rozšíří výhody digitálních financí ve více než 200 zemích a teritoriích po celém světě - Homepage...",
+      "original_title": "Swift to add blockchain-based ledger to its infrastructure stack in groundbreaking move to accelerate and scale benefits of digital finance across more than 200 countries and territories worldwide - Homepage | Swift",
+      "url": "https://www.swift.com/news-events/press-releases/swift-add-blockchain-based-ledger-its-infrastructure-stack-groundbreaking-move-accelerate-and-scale-benefits-digital-finance",
+      "urlToImage": null,
+      "source": "Swift.com",
+      "publishedAt": "2025-09-29T08:24:30Z",
+      "description": "Swift a skupina více než 30 finančních institucí po celém světě vyvinou sdílenou digitální účetní knihu, která se zpočátku zaměří na nepřetržité mezibankovní platby v reálném čase"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Evropské akcie otevírají vyšší, Lufthansa plánuje zrušit 4 000 pracovních míst",
+      "original_title": "European stocks open higher; Lufthansa plans to cut 4,000 jobs - CNBC",
+      "url": "https://www.cnbc.com/2025/09/29/european-stocks-set-to-open-higher-lufthansa-plans-to-cut-4000-jobs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432785-1719318362408-gettyimages-2141942127-20090101240408-99-600016.jpeg?v=1736758837&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-09-29T06:33:11Z",
+      "description": "Evropské burzy začínají týden v kladném teritoriu"
+    },
     {
       "flag": "🌍",
       "country": "global",
@@ -10,40 +65,40 @@
       "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/ad59933/2147483647/strip/true/crop/2016x1058+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F1a%2F64%2F81ce631145769df9a0486398b2d7%2Fjasmine-clark.jpg",
       "source": "ABC15 Arizona",
       "publishedAt": "2025-09-29T06:31:03Z",
-      "description": "Mnoho lidí v Arizoně vidělo v neděli večer na obloze letět raketu. SpaceX vypustil Falcon 9 z Kalifornie krátce po sedmé hodině."
+      "description": "V Arizoně viděli v neděli večer na obloze letět raketu. SpaceX vypustilo Falcon 9 z Kalifornie krátce po sedmé."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump říká, že \"by předpokládal\", že ministerstvo spravedlnosti vyšetřuje expřednostu FBI Wraye",
-      "original_title": "Trump says he \"would think\" the DOJ is investigating ex-FBI chief Wray - Axios",
-      "url": "https://www.axios.com/2025/09/29/trump-wray-fbi-doj-investigation-comey",
-      "urlToImage": "https://images.axios.com/8i5P2zQpyIuT5z1dwaU7wJHH-Xc=/0x0:4500x2531/1366x768/2025/09/29/1759116085425.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-29T04:52:07Z",
-      "description": "Svůj komentář poskytl stanici NBC několik dní poté, co byl obviněn Trumpův odpůrce a bývalý šéf FBI James Comey."
+      "title": "Toto je odstupné, které Starbucks nabídl propuštěným zaměstnancům v pobočkách, které zavírá",
+      "original_title": "This is the severance package Starbucks offered to laid-off staff at the stores it's closing - Business Insider",
+      "url": "https://www.businessinsider.com/starbucks-severance-package-lay-off-staff-2025-9",
+      "urlToImage": "https://i.insider.com/68d9e5181c1f80efbec47840?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-09-29T06:06:00Z",
+      "description": "Řetězec zavírá asi 1 % svých prodejen v Severní Americe – více než 100 poboček."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Írán popravil muže obviněného ze špionáže pro Izrael, uvádí justiční média",
+      "original_title": "Iran executes man accused of spying for Israel, judiciary's news outlet - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-868922",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/678689",
+      "source": "The Jerusalem Post",
+      "publishedAt": "2025-09-29T05:23:44Z",
+      "description": "Soudnické periodikum označilo obžalovaného jako „Bahman Choubi-asl“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Stovky lidí protestovaly před budovou imigrační policie po Trumpově oznámení o vyslání jednotek do Portlandu",
+      "title": "Stovky lidí protestovaly před budovou ICE po Trumpově oznámení o vyslání jednotek do Portlandu",
       "original_title": "Hundreds protest at ICE building after Trump’s announcement of troop deployment to Portland - Oregon Public Broadcasting - OPB",
       "url": "https://www.opb.org/article/2025/09/28/hundreds-protest-portland-ice-trump-deployment/",
       "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/QVC5B27MDFBHBLM4I5A2H7BEJQ.JPG?auth=6a1e327430d3ea81154460b44cb39588a7c079f79b567c6fd4b0b29e7706bef6&width=1200&height=675&smart=true",
       "source": "OPB News",
       "publishedAt": "2025-09-29T04:41:15Z",
       "description": "Při odpolední demonstraci, která byla hlučná, ale z větší části bez konfrontací, zněly ve vzduchu zpěvy a bubnování na kbelíky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Střelec v kostele v Michiganu byl veteránem z války v Iráku - ABC News - Nejnovější zprávy a videa",
-      "original_title": "Gunman in Michigan LDS church shooting was a veteran of the Iraq War - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/gunman-michigan-lds-church-shooting-veteran-iraq-war/story?id\\\\u003d126025402",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-29T04:39:57Z",
-      "description": ""
     },
     {
       "flag": "🇺🇸",
@@ -54,12 +109,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25268310045288.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-29T04:38:33Z",
-      "description": "Dánsko dočasně zakázalo civilní lety dronů ve svém vzdušném prostoru kvůli přípravě na vrcholnou schůzku EU o obraně a válce na Ukrajině a po nedávném nárůstu podezřelé aktivity dronů na několika l..."
+      "description": "Dánsko dočasně zakázalo civilní lety dronů ve svém vzdušném prostoru kvůli přípravě na vrcholnou schůzku EU o obraně a válce na Ukrajině a po vlně podezřelé aktivity dronů na několika letištích a v..."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Mapa a předpokládaná dráha bouře: Tropická bouře Imelda",
+      "title": "Mapa a předpokládaná dráha bouře Tropická bouře Imelda",
       "original_title": "Tropical Storm Imelda tracker: Map and projected storm path - The Washington Post",
       "url": "https://www.washingtonpost.com/weather/2025/09/28/imelda-tracker-map/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RQJ2K3V5GNFDTAS3NWFSTHGT6Y.png&w=1440",
@@ -76,73 +131,51 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-09/25/20/thumb/qURTQFbVh.jpg?crop=2400:1257;0,0%26downsize=1250:*",
       "source": "Buzzfeed",
       "publishedAt": "2025-09-29T03:16:02Z",
-      "description": "Nevynechávejte silový trénink. Celoživotní posilování je klíčové pro bezpečné stárnutí a schopnost prožít svůj život ve vlastním domově."
+      "description": "Nevynechávejte silový trénink. Celoživotní odporový trénink je klíčový pro bezpečné stárnutí a schopnost prožít svá poslední léta ve vlastním domově."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Recenze ‚Čekání na Godota‘: Keanu Reeves a Alex Winter dávají v surrealistické hře přátelství na první místo",
-      "original_title": "'Waiting For Godot' review: Keanu Reeves and Alex Winter put friendship first in surreal play - Entertainment Weekly",
-      "url": "https://ew.com/waiting-for-godot-review-keanu-reeves-alex-winter-reunite-11818466",
-      "urlToImage": "https://ew.com/thmb/tVdNk-nuhCZL3Zyeav-A5euECXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Waiting-For-Godot-092525-2-cc815eed4ec343188fc029872c912d77.jpg",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2025-09-29T02:00:00Z",
-      "description": "Keanu Reeves a Alex Winter skvěle zužitkovali léta svého přátelství v jinak standardní obnovené inscenaci hry Samuela Becketta Čekání na Godota."
+      "title": "Horoskop na dnešek: 29. září 2025",
+      "original_title": "Horoscope Today: September 29, 2025 - Vogue India",
+      "url": "https://www.vogue.in/content/horoscope-today-september-29-2025",
+      "urlToImage": "https://assets.vogue.in/photos/67efda9f009300d3a687642e/16:9/w_1280,c_limit/horoscope_today.png",
+      "source": "VOGUE India",
+      "publishedAt": "2025-09-29T00:30:00Z",
+      "description": "Podívejte se, co hvězdy chystají pro vaše znamení"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dolly Parton odkládá své vystupování v Las Vegas kvůli zdravotním problémům",
-      "original_title": "Dolly Parton Postpones Las Vegas Residency Due To “Health Challenges” - Deadline",
-      "url": "http://deadline.com/2025/09/dolly-parton-las-vegas-residency-postponed-1236563611/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-2206129334.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-28T23:24:00Z",
-      "description": "Dolly Parton odložila své nadcházející vystupování v Las Vegas kvůli zdravotním problémům."
+      "title": "Xiaomi 17 Pro (Max): První recenze fotoaparátu Leica a srovnání s iPhonem 17 Pro Max, Galaxy S25 Ultra a Xiaomi 15 Pro",
+      "original_title": "Xiaomi 17 Pro (Max): First Leica camera reviews and comparison with iPhone 17 Pro Max, Galaxy S25 Ultra and Xiaomi 15 Pro - Notebookcheck",
+      "url": "https://www.notebookcheck.net/Xiaomi-17-Pro-Max-First-Leica-camera-reviews-and-comparison-with-iPhone-17-Pro-Max-Galaxy-S25-Ultra-and-Xiaomi-15-Pro.1126597.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17-Pro-und-Pro-Max-Erste-Leica-Kamera-Tests-im-Vergleich-mit-iPhone-17-Pro-Max-Xiaomi-15-Pro-und-Samsung-Galaxy-S25-Ultra.jpg",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2025-09-28T22:15:00Z",
+      "description": "Od tohoto víkendu je Xiaomi 17 v Číně horkým tématem. Vedle dlouhých front před prodejnami Xiaomi a nového prodejního rekordu se první recenze nyní zaměřují na to, jak si kamery ve dvou variantách ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Guvernér Missouri podepsal plán podporovaný Trumpem, který má pomoci republikánům získat další křeslo v Sněmovně reprezentantů",
-      "original_title": "Missouri governor signs Trump-backed plan aimed at helping Republicans win another US House seat - AP News",
-      "url": "https://apnews.com/article/redistricting-gerrymander-trump-missouri-936e8daecadb32556fcfbd2eb9f7457b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/557925a/2147483647/strip/true/crop/5569x3133+0+290/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F89%2Fb1%2Ff856176e3ad4ed3adf0f817b1312%2F64edb045c3134f0bb9072713c68a09d1",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-28T23:15:00Z",
-      "description": "Guvernér Missouri Mike Kehoe podepsal nové volební mapy, které zvyšují šance republikánů na zisk dalšího křesla v Kongresu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Albertsons stahuje několik lahůdkářských výrobků kvůli možné kontaminaci listerií",
-      "original_title": "Albertsons recalls several deli items due to potential listeria contamination - AP News",
-      "url": "https://apnews.com/article/albertsons-recall-listeria-contamination-deli-b2fd1e98415904a74e73c7c82235548a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e1b8c6f/2147483647/strip/true/crop/5385x3029+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F21%2Fb05c3c5564d714f270a1b04bc52a%2Fad56dde4dc9241a5818135c8448d5de4",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-28T21:52:00Z",
-      "description": "Společnost Albertsons stáhla z prodeje řadu lahůdkářských výrobků kvůli možné kontaminaci listeriemi."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Policie: Smrtící střelba v Severní Karolíně byla ‚vysoce předem promyšlená‘",
-      "original_title": "Police: Deadly shooting in North Carolina was ‘highly premeditated’ - Politico",
-      "url": "https://www.politico.com/news/2025/09/28/police-deadly-shooting-in-north-carolina-was-highly-premeditated-00583929",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F44%2Fbe%2Fc821823342d8a1d01bb9767df84f%2Fnc-bar-shooting-23331.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-28T21:31:26Z",
-      "description": "Úředníci také uvedli, že lokalita byla „cílená“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Exkluzivně: Zohran Mamdani reaguje na odstoupení Erica Adamse z newyorské volební soutěže - Democracy Now!",
+      "title": "Exkluzivně: Zohran Mamdani reaguje na odstoupení Erica Adamse z newyorské volební kampaně o starostu – Democracy Now!",
       "original_title": "Exclusive: Zohran Mamdani Reacts to Eric Adams Dropping Out of NYC Mayoral Race - Democracy Now!",
       "url": "https://www.democracynow.org/2025/9/28/zohran_mamdani_eric_adams_nyc_mayoral",
       "urlToImage": "https://www.democracynow.org/images/blog_posts/51/79151/full_hd/seg-Zohran-medium.jpg",
       "source": "Democracy Now!",
       "publishedAt": "2025-09-28T21:06:50Z",
-      "description": "Starosta New Yorku Eric Adams oznámil odstoupení z volebního klání necelý měsíc před volbami. Reakci přinášíme od demokratického kandidáta na starostu Zohrana Mamdaniho."
+      "description": "Starosta New Yorku Eric Adams oznámil, že se vzdává kandidatury, necelý měsíc před volbami. Reakce demokratického kandidáta na starostu Zohrana Mamdaniho."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "James Franklin nedokázal uniknout své strašidelné realitě na Penn State",
+      "original_title": "James Franklin has done nothing to escape his haunting Penn State reality - New York Post",
+      "url": "https://nypost.com/2025/09/28/sports/james-franklin-has-done-nothing-to-escape-his-haunting-penn-state-reality/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/penn-state-nittany-lions-head-112310433_c0fcde.jpg?quality=75&strip=all&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-09-28T20:46:00Z",
+      "description": "Sobotní noc byla pod Jamesem Franklinem opět stejná."
     },
     {
       "flag": "🌍",
@@ -153,29 +186,18 @@
       "urlToImage": "https://img.semafor.com/0813331893f31858355af405bf149f0f3f5fa1b2-2048x1680.jpg?rect=0,303,2048,1075&w=1200&h=630&q=75&auto=format",
       "source": "Semafor.com",
       "publishedAt": "2025-09-28T20:12:00Z",
-      "description": "Objev lebky naznačuje, že náš druh mohl vzniknout o půl milionu let dříve, než se dosud myslelo."
+      "description": "Objev lebky naznačuje, že náš druh možná vznikl o půl milionu let dříve, než se dosud myslelo."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Takto se v obchodech Apple bojují proti škrábancům na iPhonu 17 – 9to5Mac",
-      "original_title": "Here’s how Apple Stores are combating iPhone 17 scratches - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/28/heres-how-apple-stores-are-combating-iphone-17-scratches/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Apple-Ginza-Japan-media-preview-interior.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-28T18:47:00Z",
-      "description": "Prodejny Apple podnikají dva důležité kroky, aby zabránily poškrábání a poničení vystavených kusů."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vyloučeno: Pobočky Starbucks v New Yorku se zavírají v rámci celonárodního uzavírání kaváren a propouštění stovek zaměstnanců",
-      "original_title": "Filtered out: NYC Starbucks locations to shutter amid coffee giant’s ongoing nation-wide closures, hundreds of layoffs - amNewYork",
-      "url": "http://www.amny.com/news/nyc-starbucks-locations-closures-coffee/",
-      "urlToImage": "https://www.amny.com/wp-content/uploads/2025/09/starbucks-times-square.jpg?quality=51&w=1200&p=q",
-      "source": "amNY",
-      "publishedAt": "2025-09-28T18:00:00Z",
-      "description": "Desítky poboček Starbucks v New Yorku se uzavírají, včetně těch na Manhattanu, v Queensu a Brooklynu, v rámci celonárodního uzavírání."
+      "title": "Americká rybí společnost uzavřela po hromadné střelbě na neurčito",
+      "original_title": "American Fish Company closes indefinitely following mass shooting - WECT",
+      "url": "https://www.wect.com/2025/09/28/american-fish-company-closes-indefinitely-following-mass-shooting/",
+      "urlToImage": "https://gray-wect-prod.gtv-cdn.com/resizer/v2/AADJWCLMAZFKTDWGCGATMCDBHU.bmp?auth=a59bfd81a84bf6cda69c0b67a76b9487a1ea418109a8955ba0d8b0fa98a29ec6&width=1200&height=600&smart=true",
+      "source": "WECT",
+      "publishedAt": "2025-09-28T16:59:48Z",
+      "description": "Toto oznámení přichází poté, co policie v Southportu oznámila zatčení Nigela Edge v souvislosti se smrtící střelbou."
     },
     {
       "flag": "🌍",
@@ -186,12 +208,12 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/akMKWiEoZPL6VCehWMFmqG.jpg",
       "source": "Space.com",
       "publishedAt": "2025-09-28T14:00:00Z",
-      "description": "Posádka Expedice 73 sekvenovala DNA a pracovala s brýlemi pro virtuální realitu, pokračovala také v rozbalování nákladních lodí a blahopřála 24. skupině kandidátů astronautů NASA."
+      "description": "Posádka Expedice 73 sekvenovala DNA a pracovala s brýlemi pro virtuální realitu, pokračovala ve vykládání nákladních lodí a gratulovala ke jmenování 24. skupiny kandidátů astronautů NASA."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Ruské rakety a drony během ‚zuřivého‘ dvanáctihodinového útoku zasáhly Ukrajinu",
+      "title": "Ruské rakety a drony během ‚zuřivého‘ 12hodinového útoku zasáhly Ukrajinu",
       "original_title": "Russian missiles and drones pound Ukraine in ‘savage’ 12-hour attack - Financial Times",
       "url": "https://www.ft.com/content/3fddf6a7-f20a-4243-aeff-b7a728002512",
       "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F395702f2-45f4-4fbf-9323-88e1ba81ae57.jpg?source=next-barrier-page",
@@ -202,79 +224,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Říká se jim ‚noční můra mezi bakteriemi‘ a jejich případy v USA přibývají",
+      "title": "Říká se jim „noční můra mezi bakteriemi“ a jejich případy jsou v USA na vzestupu",
       "original_title": "It’s known as ‘nightmare bacteria,’ and cases are rising in the United States - ClickOnDetroit",
       "url": "https://www.clickondetroit.com/health/2025/09/28/its-known-as-nightmare-bacteria-and-cases-are-rising-in-the-united-states/",
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/X4MY2QTTQBEKDGZKFPSPKNGDNQ.jpg?_a=DATAg1eAZAA0",
       "source": "WDIV ClickOnDetroit",
       "publishedAt": "2025-09-28T09:00:00Z",
-      "description": "Říká se jí „noční můra mezi bakteriemi“ a případů nákazy v USA přibývá."
+      "description": "Říká se jí \"noční můra mezi bakteriemi\" a případů nákazy v USA přibývá."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Square Enix se k Parasite Eve na PS5 vracet nehodlá, ale tento čínský vývojář se do toho určitě pustí",
-      "original_title": "Square Enix Ain't Going to Revisit Parasite Eve on PS5, But This Chinese Dev Sure as Hell Is - Push Square",
-      "url": "https://www.pushsquare.com/news/2025/09/square-enix-aint-going-to-revisit-parasite-eve-on-ps5-but-this-chinese-dev-sure-as-hell-is",
-      "urlToImage": "https://images.pushsquare.com/cf31b5acff456/large.jpg",
-      "source": "Push Square",
-      "publishedAt": "2025-09-28T04:40:29Z",
-      "description": "Brea tam bude"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "V kanalizaci v okrese Oswego byla zjištěna spalnička, varuje stát",
+      "title": "V odpadních vodách v okrese Oswego byla zjištěna spalnička, varuje stát",
       "original_title": "Measles detected in Oswego County wastewater, state warns - Syracuse.com",
       "url": "https://www.syracuse.com/news/2025/09/measles-detected-in-oswego-county-wastewater-state-warns.html",
       "urlToImage": "https://www.syracuse.com/resizer/v2/EL5KDTZYPVAWLGM2G7RZJJ4MWU.jpeg?auth=935bdf8973b32ee8d9445cbf0a1d1c5fc64090df9d5af5b41378729ae4eacccd&width=1280&smart=true&quality=90",
       "source": "syracuse.com",
       "publishedAt": "2025-09-27T20:03:00Z",
-      "description": "Výsledky mohou naznačovat, že v okrese byl alespoň jeden nakažený. V tuto chvíli nejsou hlášeny žádné případy."
+      "description": "Výsledky mohou naznačovat, že v okrese byl alespoň jeden nakažený. Žádné případy zatím nebyly nahlášeny."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Neobvyklý nový objev 3I/ATLAS naznačuje, že mezihvězdná kometa je „anomálně hmotná“",
-      "original_title": "Unusual New 3I/ATLAS Discovery Suggests the Interstellar Comet is “Anomalously Massive” - The Debrief",
-      "url": "https://thedebrief.org/unusual-new-3i-atlas-discovery-suggests-the-interstellar-comet-is-anomalously-massive/",
-      "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2025/09/3IATLAS-Gemini-South.jpg",
-      "source": "Thedebrief.org",
-      "publishedAt": "2025-09-27T17:26:08Z",
-      "description": "Záhadná kometa 3I/ATLAS je podle nové studie „anomálně hmotná“ ve srovnání s dříve pozorovanými mezihvězdnými objekty v naší sluneční soustavě."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "iPhone 17 od Applu navždy změní to, jak pořizujeme selfie – a to včetně Androidů",
+      "title": "iPhone 17 od Applu navždy změní způsob, jakým pořizujeme selfie – a to včetně Androidů",
       "original_title": "Apple's iPhone 17 will forever change how we take selfies - including on Android phones - ZDNET",
       "url": "https://www.zdnet.com/article/apples-iphone-17-will-forever-change-how-we-take-selfies-including-on-android-phones/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/31eb64c2c4befcf86a2912197a4041c350d5b572/2025/09/27/11d7336f-2012-4018-a3eb-2d8cffb3349c/ijustine-time-cook-selfie-2025.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-09-27T15:22:00Z",
-      "description": "Očekávejte, že se další výrobci telefonů inspirují iPhonem 17 a v roce 2026 zmínili přední fotoaparáty."
+      "description": "Očekávejte, že se další výrobci telefonů inspirují iPhonem 17 a v roce 2026 změní přední kamery."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vědecké novinky tohoto týdne: Průlomový lék na Huntingtonovu chorobu a rychle rostoucí černá díra, která porušuje fyzikální zákony",
+      "title": "Vědecké novinky tohoto týdne: Průlomový lék na Huntingtonovu chorobu a rychle rostoucí černá díra, která odporuje fyzice",
       "original_title": "Science news this week: A breakthrough cure for Huntington's disease and a fast-growing black hole that breaks physics - Live Science",
       "url": "https://www.livescience.com/health/science-news-this-week-a-breakthrough-cure-for-huntingtons-disease-and-a-fast-growing-black-hole-that-breaks-physics",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/NbfojiX9FeTTWUrMi3kwbb.jpg",
       "source": "Live Science",
       "publishedAt": "2025-09-27T11:00:00Z",
-      "description": "27. září 2025: Týdenní přehled nejnovějších vědeckých zpráv a pár zajímavých článků na víkend."
+      "description": "27. září 2025: Naše týdenní přehled nejnovějších vědeckých zpráv a pár zajímavých článků, které vás o víkendu pobaví."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejnovější patent AMD přináší obrovské zvýšení paměťového výkonu díky vícečipovému přístupu k DRAM; nesmírně těží i APU",
+      "title": "Nejnovější patent AMD přináší obrovský nárůst výkonu pamětí díky vícečipovému přístupu k DRAM; značně těží i APU",
       "original_title": "AMD’s Newest Patent Brings a Gigantic Boost to Memory Performance By a Multi-Chip DRAM Approach; Immensely Benefitting APUs As Well - Wccftech",
       "url": "https://wccftech.com/amd-newest-patent-brings-a-gigantic-boost-to-memory-performance/",
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/DSC_0189-Custom-1.jpg",
       "source": "Wccftech",
       "publishedAt": "2025-09-27T10:49:00Z",
-      "description": "Nejnovější patent AMD efektivně zdvojnásobí paměťovou šířku pásma bez rychlejších čipů DRAM, ale změnou logiky na modulu."
+      "description": "Nejnovější patent AMD zdvojnásobuje paměťovou šířku pásma bez rychlejších čipů DRAM, ale změnou logiky modulu."
     }
   ]
 }
