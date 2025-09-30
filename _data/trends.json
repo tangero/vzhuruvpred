@@ -1,10 +1,10 @@
 {
-  "updated": "2025-09-30T12:55:45.094720",
+  "updated": "2025-09-30T15:24:54.710684",
   "trends": [
     {
       "rank": 1,
       "query": "everton – west ham",
-      "news_title": "Nuno v čele West Hamu. Je to správná volba?",
+      "news_title": "Nuno u West Hamu: Je to správná volba?",
       "news_url": "https://www.bbc.com/sport/football/live/c62q6mrpeyvt",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfxK1IDK5tYx36jLs1iK8dHMtaYHx1FO8w96dmQUptwehbE62aEkk9geI4N68",
       "traffic": "2000++ hledání",
@@ -13,6 +13,16 @@
     },
     {
       "rank": 2,
+      "query": "miroslav bobek",
+      "news_title": "Šéf pražské zoo Bobek rezignuje",
+      "news_url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-bobek-v-cele-prazske-zoo-skonci-40541294",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUsCrXAzF7bOLleAxKv43MV4SHcFv1fuLM3tdTf2AG75TFwFv_U3WZu3MMwOU",
+      "traffic": "500++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=miroslav bobek&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "kupka",
       "news_title": "Předvolební duel: Havlíček vs. Kupka",
       "news_url": "https://ct24.ceskatelevize.cz/clanek/domaci/predvolebni-duel-karel-havlicek-a-martin-kupka-365524",
@@ -22,24 +32,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=kupka&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "query": "jan madl",
-      "news_title": "Jan Mádl po vážné nehodě i se zraněním kandiduje dál",
+      "news_title": "Jan Mádl po vážné nehodě se zraněním kandiduje dál",
       "news_url": "https://www.denik.cz/z_domova/jan-madl-autonehoda.html",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZrZrIHElcSTZjyHbkQLEk9yoMyaGsrKj9aWsAZh-PG0VBfEoDEDr6GGRNxNE",
       "traffic": "500++ hledání",
       "source": "Deník.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=jan madl&geo=CZ"
-    },
-    {
-      "rank": 4,
-      "query": "miroslav bobek",
-      "news_title": "Šéf pražské zoo Miroslav Bobek rezignoval",
-      "news_url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-bobek-v-cele-prazske-zoo-skonci-40541294",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUsCrXAzF7bOLleAxKv43MV4SHcFv1fuLM3tdTf2AG75TFwFv_U3WZu3MMwOU",
-      "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=miroslav bobek&geo=CZ"
     },
     {
       "rank": 5,
@@ -54,7 +54,7 @@
     {
       "rank": 6,
       "query": "jana maláčová",
-      "news_title": "Maláčová se poprvé od oznámení boje s rakovinou objevila bez paruky",
+      "news_title": "Maláčová se poprvé po oznámení boje s rakovinou objevila bez paruky.",
       "news_url": "https://www.novinky.cz/clanek/domaci-malacova-se-poprve-od-oznameni-boje-s-rakovinou-objevila-bez-paruky-40540927",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeziW797c1VyM6nEfAsl1QjTUlUCTJFJOnd785uLzHLwFFqWMxNgKD8BXIzuU",
       "traffic": "200++ hledání",
@@ -64,7 +64,7 @@
     {
       "rank": 7,
       "query": "zdeněk hřib",
-      "news_title": "Piráti chtějí porazit SPD a zabránit estébákovi v premiérském křesle",
+      "news_title": "Piráti chtějí porazit SPD a zabránit, aby se premiérem stal estébák",
       "news_url": "https://archiv.hn.cz/c1-67793970-chceme-porazit-spd-a-zabranit-tomu-aby-byl-premierem-estebak-rika-predvolebni-piratsky-tandem",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa6bhv0xrdJVV1mDydGISWqx1WmCbK1uJkoYAADnT7roJQpWQdrLB3P8p61bI",
       "traffic": "200++ hledání",
