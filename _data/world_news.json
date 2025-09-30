@@ -1,6 +1,61 @@
 {
-  "last_updated": "2025-09-30T12:39:49",
+  "last_updated": "2025-09-30T13:28:44",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Více než 99 % případů srdečních onemocnění má rizikový faktor, který můžete ovlivnit, než onemocníte, ukazuje studie",
+      "original_title": "More than 99% of heart disease cases have a risk factor you can address before you get sick, study shows - CNN",
+      "url": "https://www.cnn.com/2025/09/29/health/heart-disease-risk-factors-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1034303176.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-29T14:00:51Z",
+      "description": "Téměř ve všech případech existovaly signály předcházející kardiovaskulárnímu onemocnění. Rizikové faktory můžete začít léčit už teď, říkají odborníci."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Lidé netuší, co ničí planetu: Studie ze Stanfordu ukazuje, že létání a krmivo pro psy způsobují větší škody než recyklace, zatímco klimatologové skrývají pravdu",
+      "original_title": "\"People Have No Clue What Kills The Planet\": Stanford Study Shows Flying And Dog Food Cause More Damage Than Recycling While Climate Scientists Hide Truth - Energy Reporters",
+      "url": "https://www.energy-reporters.com/environment/people-have-no-clue-what-kills-the-planet-stanford-study-shows-flying-and-dog-food-cause-more-damage-than-recycling-while-climate-scientists-hide-truth/",
+      "urlToImage": "https://www.energy-reporters.com/wp-content/uploads/2025/09/this-shocking-discovery-reveals-how-youre-secretly-causing-climate-change-and-destroying-the-planet-without-knowing.jpg",
+      "source": "Energy-reporters.com",
+      "publishedAt": "2025-09-29T13:48:11Z",
+      "description": "Klimatická změna je naléhavý problém, který mnoha lidem často připadá vzdálený a abstraktní. Nedávná studie však odhalila významný dopad"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump oznamuje 100% clo na zahraniční filmy",
+      "original_title": "Trump announces 100% tariff on foreign-made movies - CNN",
+      "url": "https://www.cnn.com/2025/09/29/economy/trump-movie-tariff",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25271785938841.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-29T13:15:16Z",
+      "description": "Prezident Donald Trump v pondělí na Truth Social oznámil, že uvalí stoprocentní clo „na všechny filmy vyrobené mimo Spojené státy“."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Podívejte se na OnePlus 15 ze všech úhlů",
+      "original_title": "Get a look at the OnePlus 15 from every angle - The Verge",
+      "url": "https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/oneplus-15-sand-storm-back.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-09-29T13:00:00Z",
+      "description": "Vlajková loď OnePlus 15 bude uvedena na globální trh a toto je její nová barva ‚písečná bouře‘ se sklolaminátovým zadním panelem a keramicky potaženým kovovým rámem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dvě nové obrazovky Applu se blíží k hromadné výrobě, mohly by se představit letos",
+      "original_title": "Two New Apple Displays Nearing Mass Production, May Launch This Year - MacRumors",
+      "url": "https://www.macrumors.com/2025/09/29/two-new-apple-displays-nearing-mass-production/",
+      "urlToImage": "https://images.macrumors.com/t/Bv3wdqY2W-6LjS4lB2tBbmGmsZY=/2500x/article-new/2025/02/studio-display-new-purple.jpeg",
+      "source": "MacRumors",
+      "publishedAt": "2025-09-29T12:08:32Z",
+      "description": "Apple plánuje uvést dva nové externí monitory koncem letošního roku nebo začátkem roku 2026, píše Mark Gurman z Bloombergu"
+    },
     {
       "flag": "🌍",
       "country": "global",
@@ -10,7 +65,18 @@
       "urlToImage": null,
       "source": "Ea.com",
       "publishedAt": "2025-09-29T12:01:49Z",
-      "description": "Urychluje strategickou vizi EA pro posun budoucnosti zábavy. Akcionáři obdrží 210 USD na akcii v hotovosti, což představuje 25% prémii k neovlivněnému kurzu. Transakce je největší investicí typu sp..."
+      "description": "Akceleruje strategickou vizi EA pro posun budoucnosti zábavy Akcionáři obdrží 210 USD na akcii v hotovosti, což představuje 25% prémii k neovlivněnému kurzu akcie Transakce je největší investicí ty..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Je čas upgradovat na iPhone 17? Jak si stojí starší iPhony",
+      "original_title": "Is It Time to Upgrade to the iPhone 17? How Older iPhones Compare - CNET",
+      "url": "https://www.cnet.com/tech/mobile/is-it-time-to-upgrade-to-the-iphone-17-how-older-iphones-compare/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/f7aaf67b3f23066ec5213fac0236085a2bdae3dc/hub/2025/09/10/d5610cbc-ca12-47e3-9a19-06fcc503107d/blue-iphone-17.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-29T12:00:00Z",
+      "description": "iPhone 17 má oproti iPhonu 16 jen drobná vylepšení, ale ve srovnání se staršími modely je rozdíl markantní."
     },
     {
       "flag": "🌍",
@@ -21,40 +87,29 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/2024Ford_Mustang-GTD_RoadToTheRing_28-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-29T11:30:35Z",
-      "description": "Ford a Chevy zajely téměř totožná kola, ačkoliv mají velmi odlišná auta; řídili jsme obě."
+      "description": "Ford a Chevy dosáhly téměř totožných časů na okruhu s velmi odlišnými vozy; řídili jsme oba."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jaká je „přirozená poptávka“ po elektromobilech v USA? Brzy to zjistíme.",
-      "original_title": "What's the 'natural demand' for EVs in the U.S.? We're about to find out - CNBC",
-      "url": "https://www.cnbc.com/2025/09/29/electric-vehicles-ev-demand-federal-incentives-tax-credit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108192661-1756498713098-gettyimages-2230970700-AA_24082025_2383661.jpeg?v=1758903811&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-09-29T11:30:01Z",
-      "description": "Má to být rekordní rok pro prodej elektromobilů, ale po ukončení federálních pobídek v úterý se očekává pokles poptávky."
+      "title": "Co čekat na setkání generálů",
+      "original_title": "What to Expect at the Meeting of the Generals - The Bulwark",
+      "url": "https://www.thebulwark.com/p/what-to-expect-quantico-meeting-generals-admirals-trump-hegseth",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Ixh0!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07c8dc20-b736-4aee-9587-e31114cfc462_5760x3840.jpeg",
+      "source": "The Bulwark",
+      "publishedAt": "2025-09-29T11:09:29Z",
+      "description": "Toto není typ vojenského publika, které Trump oslovoval v minulosti."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Místní předškolák slyší poprvé jasně díky inovativní operaci ucha",
-      "original_title": "Local kindergartener hears clearly for the first time thanks to innovative ear surgery - WRAL.com",
-      "url": "https://www.wral.com/lifestyle/family/kindergartener-hears-first-time-innovative-ear-surgery-2025/",
-      "urlToImage": "https://images.wral.com/3c3773c9-7608-4036-8ecf-542db8ca29bf?w=1200&h=630",
-      "source": "WRAL.com",
-      "publishedAt": "2025-09-29T11:18:05Z",
-      "description": "Průlom v pediatrické medicíně: Dítě z mateřské školy poprvé po průkopnické operaci uší zažije radost ze zvuku."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mimozemská kometa právě dostala zásah od Slunce: Mezihvězdný objekt 3I/ATLAS zasažen sluneční explozí při letu kolem Marsu rychlostí 220 000 km/h",
+      "title": "Mimozemská kometa právě dostala zásah od Slunce: Mezihvězdný objekt 3I/ATLAS zasažen sluneční explozí při průletu 220 000 km/h kolem Marsu",
       "original_title": "\"Alien Comet Just Got Nuked By Sun\": Interstellar Object 3I/ATLAS Hit By Solar Explosion While Racing 137,000 MPH Past Mars - Rude Baguette",
       "url": "https://www.rudebaguette.com/en/2025/09/alien-comet-just-got-nuked-by-sun-interstellar-object-3i-atlas-hit-by-solar-explosion-while-racing-137000-mph-past-mars/",
       "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/sun-explodes-with-terrifying-solar-blast-reveals-mysterious-interstellar-object-that-shatters-everything-we-know-about-space.jpg",
       "source": "Rudebaguette.com",
       "publishedAt": "2025-09-29T10:13:15Z",
-      "description": "Nedávný objev mezihvězdného objektu známého jako 3I/ATLAS uchvátil astronomy a nadšence pro vesmír po celém světě. Tento poutavý objekt, o kterém se předpokládá,"
+      "description": "Nedávný objev mezihvězdného objektu známého jako 3I/ATLAS uchvátil astronomy a nadšence do vesmíru po celém světě. Tento podivuhodný objekt, o kterém se předpokládá,"
     },
     {
       "flag": "🌍",
@@ -70,24 +125,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump se chystá vyvinout na Netanjahua tlak, aby podepsal mírovou dohodu pro Gazu, tvrdí jeho poradci",
+      "title": "Trump podle svých poradců plánuje vyvinout na Netanjahua tlak, aby podepsal mírovou dohodu pro Gazu",
       "original_title": "Trump plans to squeeze Netanyahu to sign Gaza peace deal, aides say - Axios",
       "url": "https://www.axios.com/2025/09/29/trump-netanyahu-gaza-peace-deal-israel-meeting",
       "urlToImage": "https://images.axios.com/W9OPmmaJo3HMasGv5JjXuWkwTjY=/0x706:6755x4506/1366x768/2025/09/29/1759107332264.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-29T09:43:39Z",
-      "description": "Všichni — a myslím tím opravdu všechny — jsou naštvaní na Bibiho."
+      "description": "Všichni — a tím myslím opravdu všichni — jsou otrávení z Bibiho."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Umělá herečka Tilly Norwood sklidila v Hollywoodu vlnu kritiky",
-      "original_title": "AI Actress Tilly Norwood Draws Backlash From Hollywood - Variety",
-      "url": "https://variety.com/2025/film/global/ai-actress-tilly-norwood-backlash-hollywood-1236533740/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/Tilly-Norwood-.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-29T09:33:00Z",
-      "description": "Tvůrce Tilly Norwood reagoval na vlnu vzteku proti této AI herečce. Říká, že ‚není náhradou za člověka‘"
+      "title": "Trumpova administrativa povolila nasazení 200 příslušníků Národní gardy v Portlandu - Oregon Public Broadcasting",
+      "original_title": "Trump administration authorizes 200 National Guard members for Portland deployment - Oregon Public Broadcasting - OPB",
+      "url": "https://www.opb.org/article/2025/09/28/oregon-portland-sue-trump-deployment/",
+      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/ASNFX4LKXRCBJK2C7IXOICI4HA.JPG?auth=c75fefc4b998b9045bdda5a344e1469e1aa6da1a20fcaefc9f992a08d0ab564f&width=1200&height=675&smart=true",
+      "source": "OPB News",
+      "publishedAt": "2025-09-29T09:00:00Z",
+      "description": "Státní představitelé tvrdí, že obdrželi dopis od federálních úředníků, který Oregonské národní gardě na 60 dní povoluje „vykonávat federální funkce“."
     },
     {
       "flag": "🌍",
@@ -98,7 +153,29 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-29T09:00:00Z",
-      "description": "S ubývajícím světlem může klesat i nálada. Miliony Američanů trpí sezónní afektivní poruchou. Světelná terapie pomáhá odvrátit zimní depresi, a to už od podzimu."
+      "description": "S ubývajícím denním světlem může lidem klesat nálada. Miliony amerických dospělých ve skutečnosti trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od po..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Diabetes 3c: opomíjený typ cukrovky s neobvyklými příznaky má konečně svůj název",
+      "original_title": "Neglected form of diabetes with unusual symptoms finally gets its own name - NPR",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/09/29/g-s1-90669/neglected-form-of-diabetes-with-unusual-symptoms-finally-gets-its-own-name",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fae%2Fc6e56ac045d1a06bea8b0ec0e94b%2Fgettyimages-825835842.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-29T09:00:00Z",
+      "description": "Neobvyklý typ cukrovky spojený s podvýživou má nyní jméno. Vědci žádají o širší uznání nově klasifikovaného diabetu 5. typu, aby podnítili lepší léčbu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Selena Gomez a Benny Blanco prý na recepci hosty přiměli se celou noc „uvolnit“",
+      "original_title": "Selena Gomez & Benny Blanco’s Reception Reportedly Had Guests ‘Letting Loose’ All Night - Yahoo",
+      "url": "https://www.realitytea.com/2025/09/29/selena-gomez-benny-blanco-married-reception-details/",
+      "urlToImage": "https://media.zenfs.com/en/reality_tea_694/d882c4dac1e8e13b835bcf76ee1ab231",
+      "source": "Reality Tea",
+      "publishedAt": "2025-09-29T08:14:04Z",
+      "description": "Selena Gomez a Benny Blanco jsou oficiálně manželé. Slavný pár, který oznámil zásnuby v prosinci 2024, si sliby vyměnil 27. září..."
     },
     {
       "flag": "🌍",
@@ -109,18 +186,18 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP23185300636574-1759119347_c9c4f5-1759123907.jpg?resize=1200%2C630&quality=80",
       "source": "Al Jazeera English",
       "publishedAt": "2025-09-29T08:03:45Z",
-      "description": "Prodemokratický aktivista tvrdí, že měl platné vízum a nebyl mu sdělen důvod zamítnutí."
+      "description": "Protidemokratický aktivista tvrdí, že měl platné vízum a nebyl mu sdělen důvod zamítnutí."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "FOTKY: Raketa SpaceX odstartovala v Kalifornii, viditelná byla po celé Arizoně",
-      "original_title": "PHOTOS: SpaceX rocket launches in California, seen across Arizona - ABC15 Arizona",
-      "url": "https://www.abc15.com/news/local-news/photos-spacex-rocket-launches-in-california-seen-across-arizona",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/ad59933/2147483647/strip/true/crop/2016x1058+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F1a%2F64%2F81ce631145769df9a0486398b2d7%2Fjasmine-clark.jpg",
-      "source": "ABC15 Arizona",
-      "publishedAt": "2025-09-29T06:31:03Z",
-      "description": "V Arizoně viděli v neděli večer na obloze letět raketu. SpaceX ji vypustilo z Kalifornie krátce po sedmé hodině."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Imelda a Humberto představují dvojitou hrozbu – nebezpečné vlny a pobřežní záplavy pro USA, hurikány jeden za druhým pro Bermudy",
+      "original_title": "Imelda and Humberto deliver double threat — dangerous surf and coastal flooding for US, back-to-back hurricanes for Bermuda - CNN",
+      "url": "https://www.cnn.com/2025/09/29/weather/hurricane-forecast-imelda-humberto-track-climate-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cira-rammb-slider-goes-19-full-disk-geocolor-opacity-100-20250929121019.png?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-09-29T07:08:13Z",
+      "description": "Tropická bouře Imelda by se měla zesílit na hurikán, který u jihovýchodního pobřeží vyvolá nebezpečné vlny, zpětné proudy, pobřežní záplavy a erozi pláží od Floridy po Karolínu."
     },
     {
       "flag": "🌍",
@@ -131,150 +208,73 @@
       "urlToImage": "https://i.insider.com/68d9e5181c1f80efbec47840?width=1200&format=jpeg",
       "source": "Business Insider",
       "publishedAt": "2025-09-29T06:06:00Z",
-      "description": "Řetězec zavírá v Severní Americe asi 1 % svých obchodů – více než 100 poboček."
+      "description": "Řetězec zavírá asi 1 % svých prodejen v Severní Americe – jde o více než 100 poboček."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Odhalení designu OnePlus 15 mohlo právě prozradit datum jeho uvedení na trh",
-      "original_title": "OnePlus 15 design reveal may have just spilled its launch date - Android Authority",
-      "url": "https://www.androidauthority.com/oneplus-15-design-launch-date-teaser-3601865/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/OnePlus-15-sand-dune-colorway-official-image.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-09-29T04:49:50Z",
-      "description": "OnePlus zveřejnil nové snímky OnePlus 15 v barvě Sand Dune, jeden z nich naznačuje datum uvedení telefonu"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Dánsko znepokojené záhadnými pozorováními dronů zakazuje jejich lety před summitem Evropské unie",
-      "original_title": "Denmark, rattled by mysterious UAV sightings, bans drone flights ahead of European Union summit - CNN",
-      "url": "https://www.cnn.com/2025/09/29/europe/denmark-civil-drone-flight-ban-eu-summit-intl-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25268310045288.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-29T04:38:33Z",
-      "description": "Dánsko dočasně zakázalo civilní lety dronů ve svém vzdušném prostoru kvůli přípravě na vrcholnou schůzku EU o obraně a válce na Ukrajině a po nedávném nárůstu podezřelé aktivity dronů na několika l..."
+      "title": "Objev černé díry potvrzuje, že Einstein a Hawking měli pravdu",
+      "original_title": "Black hole discovery confirms Einstein and Hawking were right - ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/09/250928095645.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/ringing-black-hole-merger.webp",
+      "source": "Science Daily",
+      "publishedAt": "2025-09-29T04:58:29Z",
+      "description": "Objev nové kolize černých děr přinesl nejpřesvědčivější důkaz relativity a Hawkingových předpovědí"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Blížící se uzavření vlády: Kongresoví lídři míří do Bílého domu",
-      "original_title": "Government shutdown draws closer as congressional leaders head to the White House - AP News",
-      "url": "https://apnews.com/article/trump-shutdown-government-chuck-schumer-8510b2fa4d40c4bbc058951c49c42468",
-      "urlToImage": "https://dims.apnews.com/dims4/default/250d893/2147483647/strip/true/crop/3739x2103+0+195/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F97%2Faf04059227e957f4ae418c0048e0%2Fd2637328953c49738898dfa3da55facb",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-29T04:02:00Z",
-      "description": "Vedoucí představitelé demokratů a republikánů v Kongresu míří do Bílého domu v poslední snaze zabránit zastavení činnosti vlády. Obě strany však prokázaly jen minimální ochotu ustoupit. Pokud Kongr..."
+      "title": "SpaceX vypustila satelity Starlink z Vandenbergu v Kalifornii (video)",
+      "original_title": "SpaceX launches Starlink satellites from Vandenberg in California (video) - Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-11-20-b1063-vsfb-ocisly",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/w7TuwvvxtmmhuMYmcVMZvC-1920-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-29T02:35:50Z",
+      "description": "Vzlet proběhl v neděli (28. září) v 22:04 EDT."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Evropa vyhrála Ryderův pohár a potvrdila svou dominanci nad Američany",
-      "original_title": "Europe wins the Ryder Cup and reasserts its dominance over the Americans - AP News",
-      "url": "https://apnews.com/article/ryder-cup-europe-bethpage-black-usa-235b5ce3869dc7636d58222e9f41730b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/339b416/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2Fda%2Ffa9df8903ba5aa1fde02490a4419%2Fc61d4989dd6b401d9d67ef1ea859394c",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-29T00:31:00Z",
-      "description": "Evropa vyhrála Ryderův pohár, jak všichni čekali. Neobešlo se to však bez nervů. Američané se ztráty sedmi bodů znovu probojovali a dali naději. Evropě stačily k obhajobě pouhé dva body. Ludvig Åbe..."
+      "title": "Co si recenze myslí o broadwayské obnově Čekání na Godota s Keanu Reevesem a Alexem Winterem?",
+      "original_title": "What Do the Reviews Think of the Broadway Revival of Waiting for Godot Starring Keanu Reeves and Alex Winter? - Playbill",
+      "url": "https://playbill.com/article/what-do-the-reviews-think-of-the-broadway-revival-of-waiting-for-godot-starring-keanu-reeves-and-alex-winter",
+      "urlToImage": "https://assets.playbill.com/editorial/_facebookOpenGraph/GODOT_AndyHenderson-3.jpg",
+      "source": "Playbill.com",
+      "publishedAt": "2025-09-29T01:56:00Z",
+      "description": "Jamie Lloyd režíruje klasickou hru Samuela Becketta, znovusetkání hvězd z filmu Jájové a Hájové."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Exkluzivně: Zohran Mamdani reaguje na odstoupení Erica Adamse z newyorské volební kampaně - Democracy Now!",
-      "original_title": "Exclusive: Zohran Mamdani Reacts to Eric Adams Dropping Out of NYC Mayoral Race - Democracy Now!",
-      "url": "https://www.democracynow.org/2025/9/28/zohran_mamdani_eric_adams_nyc_mayoral",
-      "urlToImage": "https://www.democracynow.org/images/blog_posts/51/79151/full_hd/seg-Zohran-medium.jpg",
-      "source": "Democracy Now!",
-      "publishedAt": "2025-09-28T21:06:50Z",
-      "description": "Starosta New Yorku Eric Adams oznámil odstoupení z volebního klání necelý měsíc před volbami. Reakce demokratického kandidáta na starostu Zohrana Mamdaniho."
+      "title": "Nalezen mrtvý černý pasažér v podvozku letadla American Airlines",
+      "original_title": "Stowaway found dead inside landing gear of an American Airlines flight - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/stowaway-found-dead-inside-landing-gear-american-airlines/story?id\\\\u003d126018553",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-28T22:41:29Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Senátorka Amy Klobucharová označuje za \"otřesné\", že Trump obvinil FBI z nasazení agentů do davu 6. ledna",
+      "title": "Senátorka Amy Klobucharová označuje za \"otřesné\", že Trump obvinil FBI z nasazení agentů do davu 6. ledna.",
       "original_title": "Sen. Amy Klobuchar calls it \"appalling\" that Trump accused FBI of putting agents in crowd on Jan. 6 - CBS News",
       "url": "https://www.cbsnews.com/news/amy-klobuchar-trump-fbi-january-6-face-the-nation/",
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/28/7c85b934-73ec-454c-b875-fa57695c6a79/thumbnail/1200x630/f7e3d289db14f0f3db36e156937ec6ad/1759092116469.png",
       "source": "CBS News",
       "publishedAt": "2025-09-28T20:45:31Z",
-      "description": "Klobucharová, která vedla dvoustranné vyšetřování bezpečnostních problémů z 6. ledna, řekla, že \"nikde nebylo zjištěno, že by FBI působila jako agitátoři."
+      "description": "Klobucharová, která vedla dvoustranné vyšetřování bezpečnostních problémů 6. ledna, řekla, že \"nikde se nenašlo, že by FBI působila jako agitátoři."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Lebka stará milion let zpochybňuje historii lidské evoluce",
-      "original_title": "Million-year-old skull challenges history of human evolution - https-//www.semafor.com",
-      "url": "https://www.semafor.com/article/09/28/2025/million-year-old-skull-challenges-history-of-human-evolution",
-      "urlToImage": "https://img.semafor.com/0813331893f31858355af405bf149f0f3f5fa1b2-2048x1680.jpg?rect=0,303,2048,1075&w=1200&h=630&q=75&auto=format",
-      "source": "Semafor.com",
-      "publishedAt": "2025-09-28T20:12:00Z",
-      "description": "Objev lebky naznačuje, že náš druh mohl vzniknout o půl milionu let dříve, než se dosud předpokládalo."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Americká rybí společnost uzavřela na dobu neurčitou po hromadné střelbě",
-      "original_title": "American Fish Company closes indefinitely following mass shooting - WECT",
-      "url": "https://www.wect.com/2025/09/28/american-fish-company-closes-indefinitely-following-mass-shooting/",
-      "urlToImage": "https://gray-wect-prod.gtv-cdn.com/resizer/v2/AADJWCLMAZFKTDWGCGATMCDBHU.bmp?auth=a59bfd81a84bf6cda69c0b67a76b9487a1ea418109a8955ba0d8b0fa98a29ec6&width=1200&height=600&smart=true",
-      "source": "WECT",
-      "publishedAt": "2025-09-28T16:59:48Z",
-      "description": "Toto oznámení přichází poté, co policie v Southportu oznámila zatčení Nigela Edgea v souvislosti se střelbou, která měla smrtelné následky."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Sledování tropické bouře bylo ukončeno pro okresy Volusia a Brevard.",
-      "original_title": "Tropical Storm watch has been discontinued for Volusia and Brevard counties - WFTV",
-      "url": "https://www.wftv.com/news/local/tropical-storm-watch-has-been-discontinued-volusia-brevard-counties/5MDIFBBS3ZGPNOQEYQWEXBXOJU/",
-      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFSYOMJZLFZGIHGQFJ2Q25CRU4A.PNG?auth=d09a359dd22022a6cd026c526d9a03b38271d56f7bf84ea9b1cd49450d60a1c5&width=1200&height=630&smart=true",
-      "source": "WFTV Orlando",
-      "publishedAt": "2025-09-28T15:19:36Z",
-      "description": "Tropická deprese Devět byla v neděli odpoledne povýšena na tropickou bouři Imelda."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Astronauti vítají nové ‚askany‘ NASA | Na Mezinárodní vesmírné stanici 22.–26. září 2025",
-      "original_title": "Astronauts welcome NASA's new 'ascans' | On the International Space Station Sept. 22-26, 2025 - Space",
-      "url": "https://www.space.com/space-exploration/international-space-station/astronauts-welcome-nasas-new-ascans-on-the-international-space-station-sept-22-26-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/akMKWiEoZPL6VCehWMFmqG.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-28T14:00:00Z",
-      "description": "Posádka Expedice 73 tento týden sekvenovala DNA a pracovala s brýlemi pro virtuální realitu, pokračovala také ve vykládání nákladních lodí a blahopřála 24. skupině kandidátů astronautů NASA."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Říká se jim „noční můra mezi bakteriemi“ a jejich případy v USA přibývají",
+      "title": "Říká se jim „noční můra mezi bakteriemi“ a jejich případy jsou v USA na vzestupu",
       "original_title": "It’s known as ‘nightmare bacteria,’ and cases are rising in the United States - ClickOnDetroit",
       "url": "https://www.clickondetroit.com/health/2025/09/28/its-known-as-nightmare-bacteria-and-cases-are-rising-in-the-united-states/",
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/X4MY2QTTQBEKDGZKFPSPKNGDNQ.jpg?_a=DATAg1eAZAA0",
       "source": "WDIV ClickOnDetroit",
       "publishedAt": "2025-09-28T09:00:00Z",
       "description": "Říká se jí \"noční můra mezi bakteriemi\" a případů nákazy v USA přibývá."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "iPhone 17 od Applu navždy změní to, jak pořizujeme selfie – a to včetně Androidů",
-      "original_title": "Apple's iPhone 17 will forever change how we take selfies - including on Android phones - ZDNET",
-      "url": "https://www.zdnet.com/article/apples-iphone-17-will-forever-change-how-we-take-selfies-including-on-android-phones/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/31eb64c2c4befcf86a2912197a4041c350d5b572/2025/09/27/11d7336f-2012-4018-a3eb-2d8cffb3349c/ijustine-time-cook-selfie-2025.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-09-27T15:22:00Z",
-      "description": "Očekávejte, že se další výrobci telefonů inspirují iPhonem 17 a v roce 2026 změní přední kamery."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vědecké novinky tohoto týdne: Průlomový lék na Huntingtonovu chorobu a rychle rostoucí černá díra, která porušuje fyzikální zákony",
-      "original_title": "Science news this week: A breakthrough cure for Huntington's disease and a fast-growing black hole that breaks physics - Live Science",
-      "url": "https://www.livescience.com/health/science-news-this-week-a-breakthrough-cure-for-huntingtons-disease-and-a-fast-growing-black-hole-that-breaks-physics",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NbfojiX9FeTTWUrMi3kwbb.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-09-27T11:00:00Z",
-      "description": "27. září 2025: Naše týdenní přehled nejnovějších vědeckých zpráv a několik zajímavých článků pro zábavu o víkendu."
     }
   ]
 }
