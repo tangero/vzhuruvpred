@@ -1,50 +1,40 @@
 {
-  "updated": "2025-09-30T21:22:51.612680",
+  "updated": "2025-10-01T02:06:51.682519",
   "trends": [
     {
       "rank": 1,
       "query": "oneplay",
-      "news_title": "Kouč Sparty se zlobí: Neakceptovatelný výkon, děláme ze sebe blbce!",
-      "news_url": "https://www.sport.cz/clanek/hokej-extraliga-delame-ze-sebe-blbce-neakceptovatelny-vykon-cilil-se-kouc-sparty-5306470",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7hF9Gjm740hJzVa292C-6w0sMWmoywYElNgwuq9BTmubm7IFhYMCe4YCvgZ8",
+      "news_title": "Airbank nabízí exkluzivní investici do PPF. Vynese dvojnásobek inflace.",
+      "news_url": "https://www.e15.cz/byznys/finance-a-bankovnictvi/airbank-nabidla-klientum-investici-do-rodinneho-klenotu-ppf-vynese-dvojnasobek-inflace-a-jinde-neni-k-mani-1427702",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQER7NxnnRrs4oSwuVCP0v3SRiDmqBDeLoPVuwPq7ktgGORyShzcv-LjaCittE",
       "traffic": "2000++ hledání",
-      "source": "Sport.cz",
+      "source": "E15.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=oneplay&geo=CZ"
     },
     {
       "rank": 2,
       "query": "champions league",
-      "news_title": "Alisson zraněn, Liverpool řeší velký problém",
-      "news_url": "https://www.mirror.co.uk/sport/football/news/breaking-alisson-liverpool-injury-galatasaray-35992565",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw5elt0yYoDXst7XLU0oVO4iZkFjZBEX_k7iS0ovadHpHlZmGHnJfsUsyCjTo",
-      "traffic": "500++ hledání",
-      "source": "The Mirror",
+      "news_title": "Kairat Almaty vs Real Madrid: informace o zápase",
+      "news_url": "https://www.uefa.com/uefachampionsleague/match/2045929--kairat-almaty-vs-real-madrid/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMU3CFd9djuXt6ai2xq9tKaLJvKhfXsgoCv7BftpEjQq26XcWaOuaLoNYQh4c",
+      "traffic": "1000++ hledání",
+      "source": "UEFA.com",
       "explore_url": "https://trends.google.cz/trends/explore?q=champions league&geo=CZ"
     },
     {
       "rank": 3,
       "query": "atlético madrid – eintracht",
-      "news_title": "Hellmann: \"Jsme klub, který sahá po vysokých cílech!\"",
-      "news_url": "https://www.sge4ever.de/hellmann-sind-ein-klub-der-nach-den-hohen-trauben-greift/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXqMjzItZmoEGCzD060T9NguDasfmML3DTHCaS8sxXocOxR5xqIZNr0LRu6QI",
+      "news_title": "Simeone: Burkardtův přesun na tribunu je škoda",
+      "news_url": "https://www.kicker.at/erinnerungen-ans-headset-simeones-tribuenenplatz-fuer-burkardt-ein-bisschen-schade-1151013/artikel",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJHu9dDRbCKN8BFMtRC5LeDC57ChFvjSoi0hnoRuQmJIS_1mB5sX3zd1B6lPc",
       "traffic": "500++ hledání",
-      "source": "SGE4EVER",
+      "source": "kicker",
       "explore_url": "https://trends.google.cz/trends/explore?q=atlético madrid – eintracht&geo=CZ"
     },
     {
       "rank": 4,
-      "query": "liverpool",
-      "news_title": "Galatasaray vs Liverpool: statistiky a vzájemné zápasy",
-      "news_url": "https://www.bbc.com/sport/football/live/cp8j7vk7xvvt",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaELIzR22fmpq0BnzxrLBr8hDALfJcFfyIRLXwiSancaTCKuavR6vf3MYvqNI",
-      "traffic": "200++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=liverpool&geo=CZ"
-    },
-    {
-      "rank": 5,
       "query": "david suchařípa",
-      "news_title": "Ilona Csáková přiznává: Z kapely mě několikrát vyhodili kvůli postojům a názorům.",
+      "news_title": "Ilona Csáková přiznává, že ji z kapely kvůli jejím postojům a názorům několikrát vyhodili.",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/ilona-csakova-7-padu-honzy-dedka-laura-a-jeji-tygri-socialni-site.A250930_122843_lidicky_nh",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI0s7Q12flWDBsJyo1WxbN_zv68f_eiFvzi_fUroSHwsdredqqR0XOv_gmNKw",
       "traffic": "200++ hledání",
@@ -52,19 +42,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=david suchařípa&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "query": "spd",
-      "news_title": "SPD navrhuje další daňové zvýšení, připomíná to film o svišti",
-      "news_url": "https://www.welt.de/politik/deutschland/video68dabdae3204c86ca0ddd2bd/ehegatten-splitting-neuer-steuererhoehungsvorschlag-der-spd-so-ein-bisschen-taeglich-gruesst-das-murmeltier.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjp84OVJwGdwBc1qqQG7UScl6ar3ZXORNJhhFcXV8Vlwu_EsaVEb-g6BfpecU",
+      "news_title": "Kabinetní Klausura ve Ville Borsig - Phoenix vor Ort",
+      "news_url": "https://www.ardmediathek.de/video/phoenix-vor-ort/villa-borsig-auftakt-der-kabinettsklausur/phoenix/Y3JpZDovL3Bob2VuaXguZGUvNTEwNzYxOA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbJekkLEbYpCylHdomSKetaOzbABDB5VzsBMIvWC1sexIFtwWlD38jm1AYt-w",
       "traffic": "200++ hledání",
-      "source": "WELT",
+      "source": "ARD Mediathek",
       "explore_url": "https://trends.google.cz/trends/explore?q=spd&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "query": "mel gibson",
-      "news_title": "Hvězdy míří na římský olympijský stadion",
+      "news_title": "Hvězdy míří do Říma na finále LM",
       "news_url": "https://www.ilmessaggero.it/en/celebrities_flock_to_rome_s_olympic_stadium-9094922.html",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXKtV8ESp-TDOWapTtDhiZr2lrItWEhwwUXBGeJoinAU1DFhSXgHl8jRZjLjY",
       "traffic": "200++ hledání",
@@ -72,14 +62,24 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=mel gibson&geo=CZ"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "query": "one play",
-      "news_title": "Bishopova zásadní interception pomohla udržet Bills neporažené",
-      "news_url": "https://www.nytimes.com/athletic/6671815/2025/09/28/cole-bishop-interception-bills-saints/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo6UKf4RTUKzkCIYxHLstM7XbmsfI1WAlz1nxHWQsUBt33quTEAaHuc6eWhhM",
+      "news_title": "Fanoušci Penn State, Franklin a Allar v noci rozhodnutí",
+      "news_url": "https://www.nytimes.com/athletic/6671210/2025/09/29/message-board-monday-penn-state-james-franklin/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi8F4rb0ISX_Mt2X3ydzJwXL9ikHT7Id63eK1GKeUAZ-iLvM01iiwu7ZhRfFc",
       "traffic": "200++ hledání",
       "source": "The New York Times",
       "explore_url": "https://trends.google.cz/trends/explore?q=one play&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "totalsportek",
+      "news_title": "Tottenham 1 Wolves 1: Pozdní bod, ale promarněná šance? Zranění a slabý výkon na vině?",
+      "news_url": "https://www.nytimes.com/athletic/6664998/2025/09/27/tottenham-wolves-premier-league-analysis/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVELeOhbU9BUStxdZfPWPdZXvWCy8ILDS2u1LsxftYGCJou8SCDFvZdo_GR0",
+      "traffic": "200++ hledání",
+      "source": "The New York Times",
+      "explore_url": "https://trends.google.cz/trends/explore?q=totalsportek&geo=CZ"
     }
   ]
 }
