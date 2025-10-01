@@ -1,10 +1,43 @@
 {
-  "last_updated": "2025-10-01T08:24:44",
+  "last_updated": "2025-10-01T09:20:15",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Delfíní Tyreek Hill odvezen z hřiště a převezen do nemocnice s vykloubeným levým kolenem",
+      "title": "Obchod JPMorganu za 20 miliard dolarů s EA znamená vítězství nad privátním kreditem",
+      "original_title": "JPMorgan’s $20 Billion EA Deal Marks Win Over Private Credit - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-29/jpmorgan-s-20-billion-ea-check-marks-win-over-private-credit",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2pcA2w9SU8o/v1/1200x799.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-30T07:24:44Z",
+      "description": "55miliardové převzetí společnosti Electronic Arts Inc. do soukromého vlastnictví vyvolalo několik superlativů, včetně toho, že je označováno za největší leveraged buyout všech dob. Součástí tohoto ..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Čtěte: Soudce v sžíravém rozhodnutí pozastavil Trumpovu správě škrty ve VOA",
+      "original_title": "Read: Judge pauses Trump administration's VOA cuts in scathing order - Axios",
+      "url": "https://www.axios.com/2025/09/30/trump-voice-of-america-cuts-judge-order-kari-lake",
+      "urlToImage": "https://images.axios.com/hEdwk84jxUgr-D4peRwcgNX7wPc=/0x0:4054x2280/1366x768/2025/09/30/1759206783869.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-09-30T05:39:09Z",
+      "description": "Trumpovi úředníci v případu Kari Lakeové soudci podle slov soudce \"dodávají důvody pro řízení o pohrdání soudem"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ani Joe Burrow by teď Bengaly nezachránil.",
+      "original_title": "Not Even Joe Burrow Could Save the Bengals Now - Sports Illustrated",
+      "url": "https://www.si.com/nfl/not-even-joe-burrow-could-save-cincinnati-bengals-now",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3263,h_1835,x_254,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k6cfh0jsammqrh98jk.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-09-30T05:02:58Z",
+      "description": "Cincinnatská druhá drtivá porážka ve stejně počtu týdnů poukázala na velké mezery v kádru, které by týmu bránily bojovat o titul, i kdyby byl jeho hvězdný quarterback zdravý."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Delfíní Tyreek Hill odvezen z hřiště a hospitalizován s vykloubeným levým kolenem",
       "original_title": "Dolphins’ Tyreek Hill carted off field and taken to hospital with dislocated left knee - AP News",
       "url": "https://apnews.com/article/dolphins-tyreek-hill-659c7a5731e1f8a86b7a3627a778ab48",
       "urlToImage": "https://dims.apnews.com/dims4/default/fafad49/2147483647/strip/true/crop/3766x2118+0+196/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2Fd1%2F6b7d48a36b85555fdb25de1a7846%2F2507588fc6bf409b8cb55797befd85e8",
@@ -13,37 +46,48 @@
       "description": "Miamský wide receiver Tyreek Hill byl převezen do nemocnice s vykloubeným levým kolenem"
     },
     {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Vojenská velení vyjadřují obavy z Hegsethovy nové strategie Pentagonu",
+      "original_title": "Military leaders voice concern over Hegseth’s new Pentagon strategy - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/09/29/hegseth-national-defense-strategy-trump-dissent/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZC4RQEB54AADYL6TL3LVSMANAQ_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-30T04:26:00Z",
+      "description": "Nejvyšší vojenských představitelé vyjádřili obavy nad nadcházející obrannou strategií Trumpovy administrativy, což odhalilo propast mezi politickým a vojenským vedením Pentagonu."
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Aktualizace situace v Íránu, 29. září 2025 – Institut pro studium války",
-      "original_title": "Iran Update, September 29, 2025 - Institute for the Study of War",
-      "url": "https://understandingwar.org/research/middle-east/iran-update-september-29-2025/",
-      "urlToImage": "https://understandingwar.org/wp-content/uploads/2025/08/Iran-Update-Thumbnail-corrected_207.webp",
-      "source": "Understandingwar.org",
-      "publishedAt": "2025-09-30T04:35:03Z",
-      "description": "Evropská unie znovu zavedla sankce vůči Íránu"
+      "title": "Internetový blackout v Afghánistánu: Tálibán vynucuje přísná morální pravidla",
+      "original_title": "Internet blackout hits Afghanistan as Taliban enforce morality crackdown - Politico",
+      "url": "https://www.politico.com/news/2025/09/30/internet-blackout-hits-afghanistan-as-taliban-enforce-morality-crackdown-00586086",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F5c%2F03%2F84bf1834474e8c0d13bfcf1cde3c%2Fafghanistan-72317.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-09-30T04:12:00Z",
+      "description": "„Incident pravděpodobně výrazně omezí schopnost veřejnosti kontaktovat okolní svět,“ uvedl Netblocks."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Soudce zabránil Kari Lakeové v propuštění více než 500 zaměstnanců Voice of America",
-      "original_title": "Judge blocks Kari Lake from laying off over 500 Voice of America staffers - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/29/voa-usagm-kari-lake-judge/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HSYREMETHHYOYX4V3JKJGD7FE_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-30T04:06:00Z",
-      "description": "Royce Lamberth uvedl, že představitelka Trumpovy administrativy Kari Lakeová, která je úřadující ředitelkou agentury řídící VOA, projevila „znepokojující neúctu“, jež by si zasloužila soud pro pohr..."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Hrozba zavření vlády se blíží, lídři na schůzce v Bílém domě s Trumpem učinili malý pokrok",
+      "original_title": "Government shutdown looms as leaders make little progress at White House meeting with Trump - CBS News",
+      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-congress-white-house/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/30/84cd042f-e1dd-4ad5-8ccc-d2198ea94904/thumbnail/1200x630g1/e07424fb1fd95d4905c35042bf76fb9c/2025-09-29t213053z-2113483901-rc2x1hagczzj-rtrmadp-3-usa-shutdown.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-30T03:56:00Z",
+      "description": "Vedoucí představitelé Kongresu jednali s prezidentem Trumpem v Bílém domě, zatímco se Washington řítí k zastavení činnosti v roce 2025."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Zavření vlády se blíží, Trumpovo jednání s Kongresem nepřineslo průlom",
-      "original_title": "Shutdown nears as Trump meeting yields no breakthrough with Congress - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/29/shutdown-democrats-republicans-funding/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P4OPNEEOPXZNW6DZDYQJKUDHY4.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-09-30T03:49:06Z",
-      "description": "Vláda se zavře ve středu v 0:01, pokud zákonodárci nezaberou. Demokraté a republikáni jsou v patu ohledně výdajů na zdravotnictví a rozšíření financování."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Mexický mořský biolog utrpěl vážná zranění při útoku žraloka u Kostariky",
+      "original_title": "Mexican marine biologist seriously injured in shark attack off Costa Rica - CBS News",
+      "url": "https://www.cbsnews.com/news/mexican-marine-biologist-shark-attack-remote-island-costa-rica/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/17/04d24b4a-bd30-4999-965b-b5516bacc33c/thumbnail/1200x630/61f9fd2314284b8e2d1362e48d34df2f/gettyimages-1288684414.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-30T02:37:00Z",
+      "description": "Kostarická hasičská záchranná služba uvedla, že zachránila 48letého Mauricia Hoyose před útokem a přepravila ho na 36hodinové cestě z ostrova Cocos."
     },
     {
       "flag": "🌍",
@@ -54,29 +98,18 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/06df85e/2147483647/strip/true/crop/3664x2061+0+191/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2Fc9%2F3085e8122de7c5ba5b2113575a9e%2F8f825c6b3e1b4c60ae924bef387c9c97",
       "source": "Associated Press",
       "publishedAt": "2025-09-30T02:10:00Z",
-      "description": "Trumpův mírový plán pro Gazu se liší od předchozích návrhů. Poprvé se pokouší nastínit klíčovou otázku, jak bude pásmo po válce spravováno."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Jak Jared Kushner zprostředkoval převzetí Electronic Arts za 55 miliard dolarů",
-      "original_title": "How Jared Kushner brokered the $55bn takeover of Electronic Arts - Financial Times",
-      "url": "https://www.ft.com/content/61cef75e-ceba-43ee-80e3-040756c6154f",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F39903df2-a39a-41e7-8467-c9dd4aa025f7.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-09-30T00:26:46Z",
-      "description": "Trumpův zeť využil hluboké vazby v Saúdské Arábii k uskutečnění největšího odkupu"
+      "description": "Trumpův mírový plán pro Gazu se liší od předchozích návrhů: Poprvé se pokouší nastínit klíčovou otázku, jak bude území po válce spravováno"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Videa zřejmě ukazují zajaté Kubánce, kteří bojovali po boku Ruska na Ukrajině",
-      "original_title": "Videos appear to show captured Cuban nationals who were fighting alongside Russia in Ukraine - CBS News",
-      "url": "https://www.cbsnews.com/news/cuban-fighters-in-ukraine/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/29/ed016b60-0708-4d06-9519-1484ff9992de/thumbnail/1200x630/56d5d4c63d64dec0ffca1dcb2b4e4f57/f5-benavides-cuban-fighters-final-transfer-frame-3720.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-30T00:17:21Z",
-      "description": "Kubáncům je prý nabízena roční smlouva se slibem měsíčního platu 2000 dolarů, tvrdí ukrajinští úředníci"
+      "title": "Iowa odebrala licenci školnímu inspektorovi zatčenému ICE za pobyt v USA nelegálně - 5 EYEWITNESS NEWS",
+      "original_title": "Iowa revokes license of schools superintendent arrested by ICE, saying he is in US illegally - 5 EYEWITNESS NEWS",
+      "url": "https://kstp.com/kstp-news/top-news/iowa-revokes-license-of-schools-superintendent-arrested-by-ice-saying-he-is-in-us-illegally/",
+      "urlToImage": "https://kstp.com/wp-content/uploads/apimg/2025/09/Immigration-Des-Moines-Schools-Superintendent_57203.jpg",
+      "source": "Kstp.com",
+      "publishedAt": "2025-09-30T00:03:36Z",
+      "description": "Státní úřad zrušil profesní licenci vedoucího největšího školního obvodu v Iowě několik dní poté, co byl zadržen kvůli obvinění, že v zemi žil a pracoval nelegálně."
     },
     {
       "flag": "🌍",
@@ -87,34 +120,23 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-09-29T23:21:00Z",
-      "description": "Meta oficiálně potvrdila to, co si někteří uživatelé WhatsAppu poslední dny všímali: aplikace nyní podporuje živé fotografie."
+      "description": "Meta dnes oficiálně potvrdila, co si někteří uživatelé WhatsAppu poslední dny všímali: aplikace nyní podporuje živé fotografie."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Charlie Javice odsouzena k 7 letům vězení za podvod na JP Morgan",
-      "original_title": "Charlie Javice sentenced to 7 years in prison for defrauding JP Morgan - Axios",
-      "url": "https://www.axios.com/2025/09/29/charlie-javice-jp-morgan-fraud-case-sentenced-prison",
-      "urlToImage": "https://images.axios.com/9Gfhs-jFsD5--r_Kt2gu1CAe0qE=/0x66:3200x1866/1366x768/2025/09/29/1759182526015.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-09-29T22:59:48Z",
-      "description": "Třiatřicetiletý muž byl před šesti lety zařazen na Forbesův seznam „30 pod 30“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Guvernér Illinoisu říká, že do Chicaga mohou být vyslány jednotky, zatímco imigrační agenti patrolují v centru",
+      "title": "Guvernér Illinoisu říká, že by mohly být nasazeny jednotky do Chicaga, zatímco imigrační agenti hlídají centrum",
       "original_title": "Illinois governor says troops could be deployed to Chicago as immigration agents patrol downtown - AP News",
       "url": "https://apnews.com/article/immigration-chicago-portland-memphis-trump-arrests-b36199b00e0511e687c10fa83fd838b5",
       "urlToImage": "https://dims.apnews.com/dims4/default/47c06fa/2147483647/strip/true/crop/5999x3374+0+313/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F4b%2Ffdfc93214e62fac27dbb1e970898%2F63f31247e00d43bebccf55d4ab6edff2",
       "source": "Associated Press",
       "publishedAt": "2025-09-29T22:48:00Z",
-      "description": "Pohled na ozbrojené, maskované a maskované příslušníky pohraniční stráže zatýkající lidi poblíž slavných chicagských památek v centru města zvýšil obavy z narůstajícího federálního zásahu Trumpovy ..."
+      "description": "Výskyt ozbrojených, maskovaných a maskovaných pohraničníků zatýkajících lidi u známých chicagských památek v centru města vyvolal obavy z rostoucího federálního zásahu Trumpovy administrativy ve mě..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Masová střelba v chrámu Církve Ježíše Krista v Michiganu: Co víme o obětech - ABC News - Nejnovější zprávy a videa",
+      "title": "Masová střelba v chrámu Církve Svatých posledních dnů v Michiganu: Co víme o obětech - ABC News - Nejnovější zprávy a videa",
       "original_title": "Michigan LDS temple mass shooting: What we know about the victims - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/US/michigan-lds-temple-mass-shooting-victims/story?id\\\\u003d126036535",
       "urlToImage": null,
@@ -125,13 +147,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Emily Blunt označila herečku vytvořenou umělou inteligencí Tilly Norwood za ‚opravdu děsivou‘ a varovala hollywoodská herecká zastoupení: ‚Nedělejte to‘",
+      "title": "Emily Blunt označila umělou herečku Tilly Norwood za ‚opravdu děsivou‘ a varovala hollywoodské agentury: ‚Nedělejte to‘",
       "original_title": "Emily Blunt Calls AI Actress Tilly Norwood ‘Really Scary’ and Warns Hollywood Agencies: ‘Don’t Do That’ - Variety",
       "url": "https://variety.com/2025/film/news/emily-blunt-ai-actress-tilly-norwood-reaction-1236534547/",
       "urlToImage": "https://variety.com/wp-content/uploads/2024/05/GettyImages-2150896970.jpg?crop=0px%2C186px%2C4995px%2C2812px&resize=1000%2C563",
       "source": "Variety",
       "publishedAt": "2025-09-29T22:31:00Z",
-      "description": "Emily Bluntová se během rozhovoru dozvěděla o herečce vygenerované umělou inteligencí Tilly Norwood, která byla představena na summitu v Curychu a již přitahuje pozornost agentů."
+      "description": "Emily Blunt se během rozhovoru dozvěděla o herečce vygenerované umělou inteligencí Tilly Norwood, která byla představena na summitu v Curychu a již přitahuje pozornost agentů."
     },
     {
       "flag": "🌍",
@@ -142,12 +164,23 @@
       "urlToImage": "https://komonews.com/resources/media2/16x9/1080/986/0x237/90/e5f1ee8b-4d04-4f10-917b-412aaa2b1655-monkeypoxexamples2.jpg",
       "source": "KOMO News",
       "publishedAt": "2025-09-29T22:00:50Z",
-      "description": "Washington DOH detekoval v odpadních vodách v okrese Pierce virus opičích neštovic, konkrétně klády I."
+      "description": "Washington DOH detekoval ve stočních vodách v okrese Pierce virus opičích neštovic klády I."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpův úřad pro lidské zdroje schválil propouštění v agenturách při uzavření vlády",
+      "title": "Zakladatelka Franku Charlie Javice odsouzena k 7 letům vězení za podvod na JPMorgan Chase",
+      "original_title": "Frank founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/29/frank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1529787597.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-29T21:08:44Z",
+      "description": "Fintechový startup byl v roce 2021 odkoupen bankou JPMorgan Chase za 175 milionů dolarů. Banka později obvinila Franka z lhaní o jeho zákaznické základně."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpův úřad pro lidské zdroje schválil propouštění v agenturách v případě uzavření vlády",
       "original_title": "Trump HR Office Sanctions Agency Firings if Government Shutters - Bloomberg Law News",
       "url": "https://news.bloomberglaw.com/daily-labor-report/trump-hr-office-sanctions-agency-firings-if-government-shutters",
       "urlToImage": "https://db0ip7zd23b50.cloudfront.net/dims4/default/a4dcd70/2147483647/crop/5973x2295+0+1336/resize/959x370%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F93%2F37%2F0550982d456497759b5abc3624b7%2Fwhite-house.jpg",
@@ -164,29 +197,40 @@
       "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/nasa-reveals-earths-mysterious-halo-that-shatters-everything-you-thought-you-knew-about-our-planets-secrets.jpg",
       "source": "Rudebaguette.com",
       "publishedAt": "2025-09-29T19:52:43Z",
-      "description": "Nejnovější mise NASA slibuje prohloubit naše porozumění zemské atmosféře. Nedávno vypuštěná observatoř Carruthers Geocorona Observatory má studovat"
+      "description": "Nejnovější mise NASA slibuje prohloubit naše porozumění zemské atmosféře. Nedávno vypuštěná observatoř Carruthers Geocorona bude zkoumat"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vedoucí společnost s automobilovými díly podala s dluhy přes 10 miliard dolarů návrh na bankrot",
-      "original_title": "Major auto parts company files for bankruptcy with over $10 billion in debt - MassLive",
-      "url": "https://www.masslive.com/news/2025/09/major-auto-parts-company-files-for-bankruptcy-with-over-10-billion-in-debt.html",
-      "urlToImage": "https://www.masslive.com/resizer/v2/USS7EDNUONGTDHNGXXAICEJKMQ.jpg?auth=deef991e13b576955fec2bf40f0ebd4b127c50e8a5e6672e837d29b29e1cec8e&width=1280&smart=true&quality=90",
-      "source": "MassLive.com",
-      "publishedAt": "2025-09-29T17:51:00Z",
-      "description": "Výrobce autodílů v neděli podal návrh na bankrot poté, co odhalil závazky přes deset miliard dolarů, uvádějí soudní dokumenty."
+      "title": "Microsoft přidal do Wordu, Excelu a PowerPointu AI agenty – jak je používat",
+      "original_title": "Microsoft just added AI agents to Word, Excel, and PowerPoint - how to use them - ZDNET",
+      "url": "https://www.zdnet.com/article/microsoft-just-added-ai-agents-to-word-excel-and-powerpoint-how-to-use-them/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/02fac8e791bb3924c21c94e8692282a950d60316/2025/09/29/f6711e9b-47eb-4926-a3a3-25f7ddb05df3/ms-sign5556gettyimages-2205047725.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-09-29T19:34:00Z",
+      "description": "Noví agenti dostupní pro uživatele Microsoft 365 Copilot vám pomohou vytvářet, upravovat a analyzovat vaše dokumenty, tabulky a prezentace."
     },
     {
       "flag": "🌍",
-      "country": "fr",
-      "title": "Aktualizace iOS 26.0.1, macOS 26.0.1 a iPadOS 26.0.1 od Applu opravují několik problémů",
-      "original_title": "Apple's iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 updates fix multiple issues - AppleInsider",
-      "url": "https://appleinsider.com/articles/25/09/29/apples-ios-2601-macos-2601-ipados-2601-updates-fix-multiple-issues",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/65263-136428-64774-135230-63919-132965-Apple-WWDC25-iOS-26-hero-250609-xl-xl-xl.jpg",
-      "source": "AppleInsider",
-      "publishedAt": "2025-09-29T17:43:00Z",
-      "description": "Apple vydal aktualizace pro iOS 26.0.1, macOS Tahoe 26.0.1 a další se záplatami řešícími různé problémy v obou operačních systémech."
+      "country": "global",
+      "title": "iOS 26 je tady. Objevte 18 skrytých funkcí iPhonu, které jste pravděpodobně přehlédli",
+      "original_title": "iOS 26 Is Loaded. Check Out 18 Little-Known iPhone Features You Probably Missed - CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/ios-26-is-loaded-check-out-18-little-known-iphone-features-you-probably-missed/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/40b1409e10f7e872cb3c29d8785d666b54f82e14/hub/2025/09/23/e0438e95-979e-4f51-acd2-3076496412df/ios26-home-screen-gettyimages-2235435827.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-29T18:05:00Z",
+      "description": "Nový design Liquid Glass v iOS 26 byl v titulcích všech, ale tyto skryté novinky vám mohou skutečně zlepšit život."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nejnovější herní notebook od Lenova je nyní o 200 dolarů levnější",
+      "original_title": "Lenovo's Latest Gaming Laptop Is $200 Off Right Now - WIRED",
+      "url": "https://www.wired.com/story/lenovo-legion-7i-gen-10-deal/",
+      "urlToImage": "https://media.wired.com/photos/68dac0877f012698434567ee/191:100/w_1280,c_limit/Lenovo's%20Latest%20Gaming%20Laptop%20Is%20$200%20Off%20Right%20Now.png",
+      "source": "Wired",
+      "publishedAt": "2025-09-29T17:39:00Z",
+      "description": "Notebook Lenovo Legion 7i Gen 10 má nádherný displej OLED připravený pro HDR, takže je skvělý nejen pro hraní her."
     },
     {
       "flag": "🌍",
@@ -197,23 +241,23 @@
       "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/09/Lifestyle-heart-Stocksy_txp1e56107aV6B400_Medium_3956867-Facebook.jpg",
       "source": "Medical News Today",
       "publishedAt": "2025-09-29T15:46:49Z",
-      "description": "Více než 99 % lidí, kteří prodělali infarkt, srdeční selhání nebo mrtvici, mělo alespoň jeden ze čtyř hlavních rizikových faktorů kardiovaskulárních onemocnění mimo zdravou úroveň, uvádí nová studie."
+      "description": "Více než 99 % lidí, kteří prodělali infarkt, srdeční selhání nebo mrtvici, mělo alespoň jeden ze čtyř hlavních rizikových faktorů kardiovaskulárních chorob nad zdravou úrovní, uvádí nová studie."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mezihvězdná kometa 3I/ATLAS se brzy ztratí z dohledu – a vrátí se až koncem letošního roku",
+      "title": "Mezihvězdná kometa 3I/ATLAS mizí z dohledu – a vrátí se až koncem roku",
       "original_title": "Interstellar Comet 3I/ATLAS Is About To Vanish From View – And Won't Be Back Until Later This Year - IFLScience",
       "url": "https://www.iflscience.com/interstellar-comet-3iatlas-is-about-to-vanish-from-view-and-wont-be-back-until-later-this-year-80982",
       "urlToImage": "https://assets.iflscience.com/assets/articleNo/80982/aImg/86704/comet-3i-atlas-meta.jpg",
       "source": "IFLScience",
       "publishedAt": "2025-09-29T15:36:12Z",
-      "description": "Objekt je na opačné straně Slunce než Země."
+      "description": "Objekt je na opačné straně Slunce vzhledem k Zemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tropická bouře Imelda: Sledujeme dráhu bouře u pobřeží jihovýchodu",
+      "title": "Tropická bouře Imelda: Sledujeme dráhu bouře podél jihovýchodního pobřeží - ABC News - Nejnovější zprávy a videa",
       "original_title": "Tropical Storm Imelda: Tracking the storm's path near the Southeast coast - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/US/tropical-storm-imelda-track-path-southeast-coast/story?id\\\\u003d126033765",
       "urlToImage": null,
@@ -224,57 +268,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Webbův teleskop NASA zkoumá disk kolem masivní planety, kde se formují měsíce",
+      "title": "Webův teleskop NASA zkoumá měsícem formující disk kolem masivní planety - Věda NASA (.gov)",
       "original_title": "NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet - NASA Science (.gov)",
       "url": "https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/",
       "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K618ZQKCXY1N5V02DXDT56EY.png",
       "source": "NASA",
       "publishedAt": "2025-09-29T14:00:00Z",
-      "description": "Teleskop Jamese Webba poprvé přímo změřil vlastnosti disku, z něhož mohou vzniknout měsíce"
+      "description": "Teleskop Jamese Webba poprvé přímo změřil chemické a fyzikální vlastnosti disku, z něhož mohou vznikat měsíce"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Meta předělala Ray-Ban Gen 2 a stojí to jen za tu lepší výdrž baterie",
-      "original_title": "Meta's Revamped Ray-Ban Gen 2 Glasses Are Worth It Just for the Battery Boost - CNET",
-      "url": "https://www.cnet.com/tech/computing/metas-revamped-ray-ban-gen-2-glasses-are-worth-it-just-for-the-battery-boost/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/22f03b992f1ba563de92020cc254eaded914d8eb/hub/2025/09/17/6ea5d1c3-47e3-4da3-bce4-c78db056d3d6/meta-rayban-gen-2-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-09-29T12:03:34Z",
-      "description": "Recenze: Tyhle brýle mi už vydrží téměř celý den, ale umělá inteligence je pořád hodně rozpracovaná."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Je čas upgradovat na iPhone 17? Jak si stojí starší iPhony",
-      "original_title": "Is It Time to Upgrade to the iPhone 17? How Older iPhones Compare - CNET",
-      "url": "https://www.cnet.com/tech/mobile/is-it-time-to-upgrade-to-the-iphone-17-how-older-iphones-compare/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/f7aaf67b3f23066ec5213fac0236085a2bdae3dc/hub/2025/09/10/d5610cbc-ca12-47e3-9a19-06fcc503107d/blue-iphone-17.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "CNET",
-      "publishedAt": "2025-09-29T12:00:00Z",
-      "description": "iPhone 17 má oproti iPhonu 16 jen dílčí vylepšení, ale ve srovnání se staršími modely je rozdíl markantní."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trpíte zimní depresí? Začněte s léčbou světlem včas, pomůže.",
+      "title": "Trpíte zimní depresí? Začněte s fototerapií včas",
       "original_title": "Prone to winter depression? Starting light therapy now can help - NPR",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-29T09:00:00Z",
-      "description": "S ubývajícím světlem může lidem klesat nálada. Miliony Američanů trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "JWST objevil bizarní planetu, kterou vypalují polární záře daleko od jakékoli hvězdy",
-      "original_title": "JWST Finds Bizarre Planet Is Baked by Auroras, Far From Any Sun - ScienceAlert",
-      "url": "https://www.sciencealert.com/jwst-finds-bizarre-planet-is-baked-by-auroras-far-from-any-sun",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/Extrasolar-World-SIMP-0136-1.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-29T01:46:52Z",
-      "description": "Co mohou polární záře na tulácké planetě naučit astronomy o formování a vývoji planet?"
+      "description": "S ubývajícím denním světlem může lidem klesat nálada. Miliony dospělých v USA ve skutečnosti trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
     },
     {
       "flag": "🌍",
@@ -285,7 +296,18 @@
       "urlToImage": "https://images.theconversation.com/files/691759/original/file-20250919-56-moxjks.JPG?ixlib=rb-4.1.0&rect=0%2C869%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
       "source": "The Conversation Africa",
       "publishedAt": "2025-09-28T17:04:01Z",
-      "description": "Poškození jater způsobené alkoholem je problémem veřejného zdraví. Společně musíme lépe pečovat o svá jata tím, že podnikneme kroky ke snížení spotřeby alkoholu v populaci."
+      "description": "Poškození jater způsobené alkoholem je problémem veřejného zdraví. Společně musíme lépe pečovat o svá játra tím, že podnikneme kroky ke snížení spotřeby alkoholu v populaci."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Astronauti vítají nové adepty NASA | Na Mezinárodní vesmírné stanici 22.–26. září 2025",
+      "original_title": "Astronauts welcome NASA's new 'ascans' | On the International Space Station Sept. 22-26, 2025 - Space",
+      "url": "https://www.space.com/space-exploration/international-space-station/astronauts-welcome-nasas-new-ascans-on-the-international-space-station-sept-22-26-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/akMKWiEoZPL6VCehWMFmqG.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-28T14:00:00Z",
+      "description": "Posádka Expedice 73 sekvenovala DNA a pracovala s brýlemi pro virtuální realitu, pokračovala ve vykládání nákladních lodí a blahopřála 24. skupině kandidátů astronautů NASA."
     }
   ]
 }
