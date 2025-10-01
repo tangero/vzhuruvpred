@@ -1,38 +1,48 @@
 {
-  "updated": "2025-10-01T03:45:00.895813",
+  "updated": "2025-10-01T06:38:09.752417",
   "trends": [
     {
       "rank": 1,
-      "query": "oneplay",
-      "news_title": "Airbank nabízí exkluzivní investici do PPF s výnosem dvojnásobek inflace",
-      "news_url": "https://www.e15.cz/byznys/finance-a-bankovnictvi/airbank-nabidla-klientum-investici-do-rodinneho-klenotu-ppf-vynese-dvojnasobek-inflace-a-jinde-neni-k-mani-1427702",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQER7NxnnRrs4oSwuVCP0v3SRiDmqBDeLoPVuwPq7ktgGORyShzcv-LjaCittE",
-      "traffic": "2000++ hledání",
-      "source": "E15.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=oneplay&geo=CZ"
+      "query": "inter miami – chicago fire",
+      "news_title": "Mascherano bere vinu za porážku Miami: \"Je to moje zodpovědnost\"",
+      "news_url": "https://www.goal.com/en/lists/javier-mascherano-accepts-blame-for-inter-miami-s-5-3-loss-to-chicago-fire/blteabc7bcdf1316878",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXIbPEQJ8yCcdDj_S5mTdEmVnkRbygEFBS_VJLouZkNouUUqGLcOpTIHktMdU",
+      "traffic": "500++ hledání",
+      "source": "Goal.com",
+      "explore_url": "https://trends.google.cz/trends/explore?q=inter miami – chicago fire&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "champions league",
-      "news_title": "Kairat Almaty vs Real Madrid: fakta o zápase",
-      "news_url": "https://www.uefa.com/uefachampionsleague/match/2045929--kairat-almaty-vs-real-madrid/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMU3CFd9djuXt6ai2xq9tKaLJvKhfXsgoCv7BftpEjQq26XcWaOuaLoNYQh4c",
-      "traffic": "1000++ hledání",
-      "source": "UEFA.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=champions league&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "lucie zedníčková",
-      "news_title": "Lucie Zedníčková přišla o 3 největší zdroje příjmu",
-      "news_url": "https://www.super.cz/clanek/celebrity-lucie-zednickova-prisla-o-3-nejvetsi-zdroje-prijmu-vsechno-je-ve-vzduchoprazdnu-posteskla-si-1518226",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYzdHM0dXgVUWhNqagkecRkzKMjHKHQ237IxMRIV4P-lzUBaJCWPe5CmmGMOw",
+      "news_title": "Lucie Zedníčková unikla smrti. Promluvila o děsivé autonehodě.",
+      "news_url": "https://www.prahanadlani.cz/clanek-zprava/1460308-lucie-zednickova-unikla-smrti-o-vlasek-herecka-promluvila-o-desive-autonehode%C2%A0.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJYuqhojsrCL1dksGGaQwbcSun6-N4t557ov_5xuHzpiujArgO1zCplMf2NBk",
       "traffic": "500++ hledání",
-      "source": "Super.cz",
+      "source": "Prahanadlani.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=lucie zedníčková&geo=CZ"
     },
     {
+      "rank": 3,
+      "query": "champions league",
+      "news_title": "Galatasaray porazil Liverpool v Lize mistrů",
+      "news_url": "https://www.bbc.com/sport/football/live/cp8j7vk7xvvt",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0G2vA6TZPbVxlJ9t8aURlmjQ9S0dnLTHFvCp1FVlp7dcTt556tPYJNYThj0U",
+      "traffic": "500++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=champions league&geo=CZ"
+    },
+    {
       "rank": 4,
+      "query": "liverpool",
+      "news_title": "Alisson vynechá duel s Chelsea, Liverpool řeší další zranění",
+      "news_url": "https://www.skysports.com/football/news/11669/13441964/alisson-injury-liverpool-goalkeeper-ruled-out-of-chelsea-game-as-reds-problems-begin-to-mount",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDyDZEI5xywxgHanj3QAnr3OrjU5ZXq2Gf2Ogjbze0ZTIr3OUdwkggoJAvb70",
+      "traffic": "200++ hledání",
+      "source": "Sky Sports",
+      "explore_url": "https://trends.google.cz/trends/explore?q=liverpool&geo=CZ"
+    },
+    {
+      "rank": 5,
       "query": "david suchařípa",
       "news_title": "Ilona Csáková přiznává, že ji z kapely několikrát vyhodili kvůli jejím postojům a názorům.",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/ilona-csakova-7-padu-honzy-dedka-laura-a-jeji-tygri-socialni-site.A250930_122843_lidicky_nh",
@@ -42,44 +52,34 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=david suchařípa&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "spd",
-      "news_title": "Schváleno 80 opatření: Merz chce digitalizovat stát",
-      "news_url": "https://www.upday.com/de/news/80-massnahmen-beschlossen-merz-will-staat-digitalisieren/99xy345",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6EtbaYADCwbQili_92Cm8bZEIXz6xCl2uZ0C0UDKvrcWXNgr5AWPGa6jqx_A",
+      "news_title": "Stichwahl v mnoha městech: Tři kandidáti AfD uspěli v komunálních volbách",
+      "news_url": "https://www.wa.de/nordrhein-westfalen/nach-der-kommunalwahl-drei-afd-kandidaten-dabei-stichwahl-krimi-in-vielen-nrw-staedten-93935158.html",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oDBV40qbbiowF-IeTJvx5LO4zNFkguKcElNXmR0gFpLKbJL6-HnEGUSp_JY",
       "traffic": "200++ hledání",
-      "source": "upday News",
+      "source": "WA.de",
       "explore_url": "https://trends.google.cz/trends/explore?q=spd&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "mel gibson",
-      "news_title": "Celebrity zaplnily římský olympijský stadion",
-      "news_url": "https://www.ilmessaggero.it/en/celebrities_flock_to_rome_s_olympic_stadium-9094922.html",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXKtV8ESp-TDOWapTtDhiZr2lrItWEhwwUXBGeJoinAU1DFhSXgHl8jRZjLjY",
+      "news_title": "Recenze Kingdom Come: Deliverance 2: Odkaz kovárny. Chopte se kladiva a chystejte groše",
+      "news_url": "https://doupe.zive.cz/recenze-rozsireni-hry-kingdom-come-deliverance-2---odkaz-kovarny-popadnete-kladivo-a-pripravte-si-mesce-plne-grosu",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDPO2XtFVjh6a4yTidiygfDoe1pvevZeNSuVyv_SdmKtce53YW5zDDoBha5M",
       "traffic": "200++ hledání",
-      "source": "Il Messaggero",
+      "source": "Doupě.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=mel gibson&geo=CZ"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "query": "one play",
-      "news_title": "PSU a Franklin se nenechají porážkou zlomit",
+      "news_title": "Franklin a PSU: Prohra nerozhodne o sezoně",
       "news_url": "https://www.espn.com/college-football/story/_/id/46426703/james-franklin-penn-state-not-pointing-fingers-loss",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkKkx_tdc91u4MdO1fVSdu4RiJZyG0ZQzz0wC9CoJjn8AbpEK_pZw9YCtCsU",
       "traffic": "200++ hledání",
       "source": "ESPN",
       "explore_url": "https://trends.google.cz/trends/explore?q=one play&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "inter miami – chicago fire",
-      "news_title": "Chicago Fire porazili Inter Miami v osmi gólové bitvě",
-      "news_url": "https://ca.sports.yahoo.com/news/chicago-fire-stun-inter-miami-013600177.html",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBzzplOeyXBRt1DRFRCBfddl2zWKwpxMQk0FfjOMXap0UtJyrCmazFMca3_v8",
-      "traffic": "100++ hledání",
-      "source": "Yahoo",
-      "explore_url": "https://trends.google.cz/trends/explore?q=inter miami – chicago fire&geo=CZ"
     }
   ]
 }
