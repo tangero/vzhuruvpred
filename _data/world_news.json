@@ -1,38 +1,49 @@
 {
-  "last_updated": "2025-09-30T23:16:02",
+  "last_updated": "2025-10-01T01:37:37",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie dnes: Nasdaq uzavřel v plusu, dolar oslabuje kvůli hrozícímu zastavení americké vlády — živě",
-      "original_title": "Stock Market Today: Nasdaq Closes Higher; Dollar Falls as Possible Government Shutdown Looms — Live Updates - The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2025",
-      "urlToImage": "https://images.wsj.net/im-34062673/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-09-29T22:07:00Z",
-      "description": "Akcie a společnosti v centru pozornosti dnes: Electronic Arts, Microsoft a AstraZeneca. Sledujte živé aktualizace indexů Dow, S&P 500 a Nasdaq."
+      "title": "Jak by uzavření vlády ovlivnilo americkou armádu?",
+      "original_title": "How would a government shutdown impact the U.S. military? - CBS News",
+      "url": "https://www.cbsnews.com/news/government-shutdown-impact-u-s-military/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/29/6ab041d5-5543-4bc4-b1fd-d1ab27c1439e/thumbnail/1200x630g6/bb831d612147a336da00aea1091ffbfe/gettyimages-2237786142.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-29T23:07:49Z",
+      "description": "Příslušníci v aktivní službě a členy Národní gardy na misích bude i nadále pracovat s příslibem doplacení mzdy poté, co Kongres schválí legislativu na financování vlády."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nicole Kidman a Keith Urban se po 19 letech manželství rozcházejí",
-      "original_title": "Nicole Kidman and Keith Urban Are Separating After 19 Years of Marriage - Variety",
-      "url": "https://variety.com/2025/film/news/nicole-kidman-keith-urban-separated-1236534501/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/kidman-urban-split.jpg?w=1000&h=563&crop=1",
+      "title": "Masová střelba v chrámu Církve Ježíše Krista v Michiganu: Co víme o obětech",
+      "original_title": "Michigan LDS temple mass shooting: What we know about the victims - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/michigan-lds-temple-mass-shooting-victims/story?id\\\\u003d126036535",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-09-29T22:43:10Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Emily Blunt označila herečku vytvořenou umělou inteligencí Tilly Norwood za ‚opravdu děsivou‘ a varovala hollywoodská zastupitelství: ‚Nedělejte to‘",
+      "original_title": "Emily Blunt Calls AI Actress Tilly Norwood ‘Really Scary’ and Warns Hollywood Agencies: ‘Don’t Do That’ - Variety",
+      "url": "https://variety.com/2025/film/news/emily-blunt-ai-actress-tilly-norwood-reaction-1236534547/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/05/GettyImages-2150896970.jpg?crop=0px%2C186px%2C4995px%2C2812px&resize=1000%2C563",
       "source": "Variety",
-      "publishedAt": "2025-09-29T21:50:00Z",
-      "description": "Nicole Kidman a Keith Urban se rozcházejí. Byli manželé od roku 2007."
+      "publishedAt": "2025-09-29T22:31:00Z",
+      "description": "Emily Blunt se během rozhovoru dozvěděla o herečce vytvořené umělou inteligencí Tilly Norwood, která byla představena na summitu v Curychu a již přitahuje pozornost agentů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Portlandský radní a armádní veterán vyzývá příslušníky ozbrojených sil, aby odmítli nasazení v Portlandu - Oregon Public Broadcasting",
-      "original_title": "Portland councilor, Army veteran, calls on service members to reject Portland military deployment - Oregon Public Broadcasting - OPB",
-      "url": "https://www.opb.org/article/2025/09/29/portland-councilor-army-veteran-mitch-green-calls-service-member-reject-deployment/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/7CQ5MNN56VBE7CYY7VN7LNLL6U.JPG?auth=eb892d0ad49fba1aaf7e68c5f4b60fb760eb385da91d5ae93445a53e8be3abb3&width=1200&height=675&focal=1553%2C724",
-      "source": "OPB News",
-      "publishedAt": "2025-09-29T21:46:16Z",
-      "description": "Veterán z Portlandského městského zastupitelstva vyzývá současné i bývalé příslušníky americké armády, aby se ohradili proti plánovanému nasazení Národní gardy v Portlandu."
+      "title": "Charlie Javice odsouzena k 7 letům vězení za podvod na JPMorgan",
+      "original_title": "Charlie Javice Gets 7 Years in Prison for Defrauding JPMorgan - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-29/charlie-javice-gets-7-years-in-prison-for-defrauding-jpmorgan",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXPJIGE8i7FQ/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-29T22:19:09Z",
+      "description": "Charlie Javice byla odsouzena na 85 měsíců vězení za podvod při akvizici jejího startupu Frank společností JPMorgan Chase & Co. za 175 milionů dolarů."
     },
     {
       "flag": "🇺🇸",
@@ -43,40 +54,29 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235294593.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-29T21:29:02Z",
-      "description": "YouTube se dohodl na zaplacení 24,5 milionu dolarů k vyrovnání žaloby podané prezidentem Donaldem Trumpem poté, co byl po útoku na Kapitol 6. ledna 2021 suspendován na platformách sociálních médií."
+      "description": "YouTube zaplatí 24,5 milionu dolarů za vyrovnání v žalobě Donalda Trumpa kvůli pozastavení účtu po útoku na Kapitol"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Šek od JPMorganu na 20 miliard dolarů pro EA znamená vítězství nad privátním kreditem",
-      "original_title": "JPMorgan’s $20 Billion EA Check Marks Win Over Private Credit - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-29/jpmorgan-s-20-billion-ea-check-marks-win-over-private-credit",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2pcA2w9SU8o/v1/1200x799.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-09-29T21:27:48Z",
-      "description": "55miliardové převzetí společnosti Electronic Arts Inc. mimo burzu vyvolalo několik superlativů, včetně toho, že je označováno za největší leveraged buyout všech dob. Součástí tohoto seznamu je i 20..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Bílý dům nedosáhl na summitu o znovuotevření vlády dohody",
+      "title": "Jednání v Bílém domě o zamezení vládní odstávky skončilo bez dohody",
       "original_title": "White House shutdown summit fails to produce a deal - Politico",
       "url": "https://www.politico.com/news/2025/09/29/white-house-shutdown-summit-fails-to-produce-a-deal-00585426",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2d%2F42%2Fa80924f948578d42b954a142eb6b%2Fwhitehouse-congmeeting-001-84366.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-29T21:09:14Z",
-      "description": "„Mezi námi stále existují velké rozdíly,“ řekl později vůdce menšiny v Senátu Chuck Schumer."
+      "description": "„Mezi námi stále existují velké rozdíly,“ řekl poté vůdce menšiny v Senátu Chuck Schumer."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Charlie Javice odsouzena k 7 letům vězení za podvod za 175 milionů dolarů",
-      "original_title": "Charlie Javice sentenced to 7 years in prison for $175M fraud - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Business/charlie-javice-founder-lied-175m-startup-faces-sentencing/story?id\\\\u003d126034577",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-29T20:26:15Z",
-      "description": ""
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Pritzker: Ministerstvo vnitřní bezpečnosti vyšle do Illinois 100 vojáků s odůvodněním, že je třeba chránit úředníky ICE – Chicago Sun",
+      "original_title": "Pritzker: DHS will deploy 100 'military troops' to Illinois, citing need to protect ICE officers - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/immigration/2025/09/29/pritzker-dhs-will-deploy-100-military-troops-to-illinois-citing-need-to-protect-ice-officers",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/d4c9dd0/2147483647/strip/true/crop/3000x1713+0+142/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F48%2F46%2Feb98e56b4a6fb8c3638f0952cfa8%2Fbroadviewupdate-092925-24.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-09-29T20:19:00Z",
+      "description": "Guvernér JB Pritzker uvedl, že Národní garda v Illinois získala memorandum, které ministerstvo vnitřní bezpečnosti zaslalo ministerstvu obrany a v němž žádalo o 100 vojenských příslušníků pro Illin..."
     },
     {
       "flag": "🇺🇸",
@@ -109,51 +109,62 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
       "source": "BBC News",
       "publishedAt": "2025-09-29T19:20:43Z",
-      "description": "Telefonní a internetové připojení po celé zemi nefunguje poté, co Tálibán přerušil optická spojení, aby zabránil „nemorálnosti“."
+      "description": "Telefonní a internetová spojení jsou po celé zemi mimo provoz poté, co Tálibán přerušil optická připojení, aby zabránil „nemorálnosti“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Simpsonovi: Disney chystá na rok 2027 nový film",
-      "original_title": "'Simpsons': New Movie Set for 2027 Release From Disney - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/simpsons-movie-2027-release-1236388192/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/04/3605_1012_02sa-0177_CC.jpg?crop=0px%2C3px%2C1296px%2C725px&resize=1440%2C810",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-09-29T18:56:15Z",
-      "description": "První filmová adaptace animovaného seriálu stanice Fox měla premiéru v roce 2007."
+      "title": "Famo z Lesotha: od pasteveckých písní k gangsterským válkám",
+      "original_title": "Lesotho's Famo music: from shepherd songs to gang wars - NPR",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5518143/famo-lesotho-music-gangs",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+188/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F4f%2F2c0ee5a04f5cad1638b0a24a8d59%2Fgettyimages-1243960978.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-29T18:57:11Z",
+      "description": "V Lesothu se tradiční akordeonová hudba Famo propojila se smrtícími gangy. Z hudby pastevců a migrantů se stala spojena s vraždami, zákazy vlády a bojem o kulturní identitu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Muž obviněný z vraždy tří lidí v přístavním baru v Severní Karolíně je vyznamenaný veterán námořní pěchoty a držitel Purpurového srdce",
-      "original_title": "Man charged with killing 3 at waterfront North Carolina bar is decorated Marine veteran and Purple Heart recipient - CBS News",
-      "url": "https://www.cbsnews.com/news/nigel-edge-north-carolina-bar-shooting-suspect-marine-veteran/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/29/cf59ce3d-1d38-4636-800b-b7742dd4c032/thumbnail/1200x630/730aaea14272e317a92d5324a012c371/ap25271651821408.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-29T18:49:00Z",
-      "description": "Nigel Edge (40) je obviněn z vraždy, pokusu o vraždu a napadení v souvislosti s hromadnou střelbou v sobotu večer v podniku American Fish Company v Southportu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Podezřelý z vražd v obchodě s jogurty byl možná sériový vrah, který je nyní spojován s případy po celé zemi, tvrdí policie",
-      "original_title": "'Yogurt Shop Murders' suspect was possible serial killer now linked to cases across country, police say - NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/yogurt-shop-murders-suspect-was-possible-serial-killer-now-linked-case-rcna234441",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250929-yogurt-shop-murders-se-1031a-21c19e.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-09-29T18:44:42Z",
-      "description": "Úředníci poskytli časový přehled vražd čtyř dospívajících dívek z roku 1991 v Austinu v Texasu, popsali podezřelého jako potenciálního sériového vraha a spojili ho s dalšími případy v zemi."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Letadlo muselo přistát po zásahu ptákem při vzletu",
-      "original_title": "Flight Grounded After ‘Bird Strike’ During Takeoff - The Daily Beast",
-      "url": "https://www.thedailybeast.com/spectacular-design-miracle-bridge-opens-with-bungee-jumps/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/SDOQ2NVZLNDLTN5VTARDM7H5DI.jpg?smart=true&auth=4207a1f72109f330dcae675bdf9b3a12b9633819a56f16106e37876176740c3c&width=1200&height=630",
+      "title": "Bývalé členky MAHA říkají, že se cítí provinile, že kdy podporovaly RFK Jr.",
+      "original_title": "Ex-MAHA Moms Say They ‘Feel Guilty’ They Ever Backed RFK Jr. - The Daily Beast",
+      "url": "https://www.thedailybeast.com/ex-maha-moms-say-they-feel-guilty-they-ever-backed-rfk-jr/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/MPQWMUDU4JAF5IF2V7WBRHIOP4.jpg?smart=true&auth=ce78fc7c30b20e5d3e137b7385ae80ef31cfe9c9a02a069756207a8ab341dc62&width=1200&height=630",
       "source": "Daily Beast",
-      "publishedAt": "2025-09-29T17:44:28Z",
-      "description": "Most Huajiangského velkého kaňonu se otevírá a láme dva rekordy."
+      "publishedAt": "2025-09-29T17:50:00Z",
+      "description": "Někteří bývalí voliči RFK Jr. se vracejí k tomu, co říkal ministr zdravotnictví."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Letalita polymyxinu B vyžaduje energeticky závislé narušení vnější membrány",
+      "original_title": "Polymyxin B lethality requires energy-dependent outer membrane disruption - Nature",
+      "url": "https://www.nature.com/articles/s41564-025-02133-1",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-025-02133-1/MediaObjects/41564_2025_2133_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2025-09-29T17:27:33Z",
+      "description": "Antibiotikum polymyxin B vyžaduje bakteriální metabolickou aktivitu, aby poškodilo vnější membránu natolik, že pronikne k vnitřní membráně, kterou permeabilizuje energeticky nezávislým mechanismem,..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Generální ředitel Fordu varuje, že chybí modré límečky schopné stavět datová centra pro AI a provozovat továrny: ‚Nemáme čím naplnit tyto ambice‘",
+      "original_title": "Ford CEO warns there’s a dearth of blue-collar workers able to construct AI data centers and operate factories: 'Nothing to backfill the ambition' - Fortune",
+      "url": "https://fortune.com/2025/09/29/ford-ceo-jim-farley-blue-collar-worker-essential-economy-crisis-ai-data-centers/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2225431461-e1759162558974.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-09-29T16:36:00Z",
+      "description": "Jim Farley identifikoval krizi v „základní ekonomice“ opomíjených modrých límečků v závodu o umělou inteligenci."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "99 % případů infarktu, mrtvice a srdečního selhání souvisí s preventabilními rizikovými faktory",
+      "original_title": "99% of heart attack, stroke, heart failure cases linked to preventable risk factors - Medical News Today",
+      "url": "https://www.medicalnewstoday.com/articles/heart-attack-stroke-heart-failure-linked-to-preventable-risk-factors",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/09/Lifestyle-heart-Stocksy_txp1e56107aV6B400_Medium_3956867-Facebook.jpg",
+      "source": "Medical News Today",
+      "publishedAt": "2025-09-29T15:46:49Z",
+      "description": "Více než 99 % lidí, kteří prodělali infarkt, srdeční selhání nebo mrtvici, mělo alespoň jeden ze čtyř hlavních rizikových faktorů kardiovaskulárních onemocnění mimo zdravou úroveň, uvádí nová studie."
     },
     {
       "flag": "🌍",
@@ -169,7 +180,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Start rakety SpaceX Falcon 9 vytvořil na obloze západního pobřeží USA světélkujícího „medúzu“ (foto, video)",
+      "title": "Start Falconu 9 od SpaceX vytvořil na obloze západního pobřeží USA světélkujícího „medúzu“ (foto, video)",
       "original_title": "SpaceX Falcon 9 launch paints glowing 'jellyfish' across Western US skies (photos, video) - Space",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-paints-glowing-jellyfish-across-western-us-skies-photos-video",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/puBXziFERsEeA2ScBM6ecF-2560-80.jpg",
@@ -180,7 +191,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tropická bouře Imelda: Sledujeme její dráhu u pobřeží jihovýchodu",
+      "title": "Tropická bouře Imelda: Sledujeme dráhu bouře u jihovýchodního pobřeží - ABC News - Nejnovější zprávy a videa",
       "original_title": "Tropical Storm Imelda: Tracking the storm's path near the Southeast coast - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/US/tropical-storm-imelda-track-path-southeast-coast/story?id\\\\u003d126033765",
       "urlToImage": null,
@@ -189,9 +200,20 @@
       "description": ""
     },
     {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Trump zvažuje dodávky raket dlouhého doletu Ukrajině, tvrdí Vance",
+      "original_title": "Trump considering supplying Ukraine with long-range missiles, Vance says - BBC",
+      "url": "https://www.bbc.com/news/articles/cly6r1mg34yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1108/live/f4cd3df0-9d3e-11f0-973f-51ea2fc41b54.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-29T15:25:30Z",
+      "description": "Vanceovy výroky přicházejí v době, kdy náměstek ukrajinského ministra obrany říká pro BBC, že západní zbraně mohou donutit Moskvu k mírovým jednáním."
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "iPhone Fold se blíží, Samsung chystá hromadnou výrobu displejů",
+      "title": "iPhone Fold se blíží, Samsung chystá hromadnou výrobu displejů - 9to5Mac",
       "original_title": "iPhone Fold a step closer as Samsung prepping mass production of displays - 9to5Mac",
       "url": "https://9to5mac.com/2025/09/29/iphone-fold-a-step-closer-as-samsung-prepping-mass-production-of-displays/",
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -200,26 +222,15 @@
       "description": "Očekávání, že Apple příští rok představí iPhone Fold, získalo další podporu po oznámení Samsungu."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Více než 99 % případů srdečních onemocnění má rizikový faktor, který lze řešit ještě před propuknutím nemoci, ukazuje studie",
-      "original_title": "More than 99% of heart disease cases have a risk factor you can address before you get sick, study shows - CNN",
-      "url": "https://www.cnn.com/2025/09/29/health/heart-disease-risk-factors-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1034303176.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-29T14:00:51Z",
-      "description": "Téměř ve všech případech existovaly známky, které předcházely kardiovaskulárnímu onemocnění. Rizikové faktory můžete začít léčit již nyní, říkají odborníci."
-    },
-    {
       "flag": "🌍",
       "country": "global",
-      "title": "Teleskop NASA Webb zkoumá disk kolem masivní planety, kde se formují měsíce - NASA Science (.gov)",
+      "title": "Webbův teleskop NASA zkoumá disk kolem masivní planety, kde se formují měsíce",
       "original_title": "NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet - NASA Science (.gov)",
       "url": "https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/",
       "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K618ZQKCXY1N5V02DXDT56EY.png",
       "source": "NASA",
       "publishedAt": "2025-09-29T14:00:00Z",
-      "description": "Teleskop Jamese Webba poprvé přímo změřil chemické a fyzikální vlastnosti disku, z něhož mohou vzniknout měsíce"
+      "description": "Teleskop Jamese Webba poprvé přímo změřil chemické a fyzikální vlastnosti disku, z něhož mohou vznikat měsíce"
     },
     {
       "flag": "🌍",
@@ -230,12 +241,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/09/ROG-Phone-9-Pro-Snapdragon-1-1-1200x675.jpg",
       "source": "Gizmodo.com",
       "publishedAt": "2025-09-29T13:00:10Z",
-      "description": "Buďte prosím trpěliví a posuzujte telefony, až se skutečně objeví na scéně."
+      "description": "Buďte prosím trpěliví a hodnotte telefony, až se skutečně objeví na scéně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Otestoval jsem nový Snapdragon X2 Elite Extreme od Qualcommu. Zde jsou mé poznatky.",
+      "title": "Otestoval jsem nový Qualcomm Snapdragon X2 Elite Extreme. Tady je to, co jsem zjistil.",
       "original_title": "I Benchmarked Qualcomm’s New Snapdragon X2 Elite Extreme. Here’s What I Learned - WIRED",
       "url": "https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/",
       "urlToImage": "https://media.wired.com/photos/68d9b8c118f0bb23d5ba8508/191:100/w_1280,c_limit/x2elite01.JPG",
@@ -246,35 +257,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Guvernér Pritzker se vyjádří k nasazení federálních agentů v Chicagu po jejich vyslání do centra města a dalších incidentech",
-      "original_title": "Gov. Pritzker to address deployment of federal agents in Chicago after downtown deployment, other incidents - CBS News",
-      "url": "https://www.cbsnews.com/chicago/news/gov-pritzker-address-deployment-federal-agents-chicago/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/29/190e4c78-930b-4768-801c-cee9bf66c5a4/thumbnail/1200x630/6c52a3febbcb6a81137bc62da669bc8b/broadview-ice-deployment.png",
-      "source": "CBS News",
-      "publishedAt": "2025-09-29T10:26:00Z",
-      "description": "Poté agent na federálního agenta vystřelil pepřový projektil na reportéra CBS News Chicago před budovou americké imigrační služby v Broadview."
+      "title": "Je čas upgradovat na iPhone 17? Srovnání se staršími iPhony",
+      "original_title": "Is It Time to Upgrade to the iPhone 17? How Older iPhones Compare - CNET",
+      "url": "https://www.cnet.com/tech/mobile/is-it-time-to-upgrade-to-the-iphone-17-how-older-iphones-compare/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/f7aaf67b3f23066ec5213fac0236085a2bdae3dc/hub/2025/09/10/d5610cbc-ca12-47e3-9a19-06fcc503107d/blue-iphone-17.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-29T12:00:00Z",
+      "description": "iPhone 17 má oproti iPhonu 16 jen drobná vylepšení, ale ve srovnání se staršími modely je rozdíl markantní."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Šokující snímky ukazují, jak antibiotikum proráží obranný štít bakterie",
-      "original_title": "Startling images show how antibiotic pierces bacteria's armor - Phys.org",
-      "url": "https://phys.org/news/2025-09-startling-images-antibiotic-pierces-bacteria.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/startling-images-show.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-29T09:00:07Z",
-      "description": "Tým vedený výzkumníky z UCL a Imperial College London poprvé ukázal, jak život zachraňující antibiotika polymyxiny pronikají brněním škodlivých bakterií."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trpíte zimní depresí? Začněte se světelnou terapií už teď.",
+      "title": "Trpíte zimní depresí? Začněte se světelnou terapií včas",
       "original_title": "Prone to winter depression? Starting light therapy now can help - NPR",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-29T09:00:00Z",
-      "description": "S ubývajícím světlem může klesat i nálada. Miliony Američanů trpí sezónní afektivní poruchou. Světelná terapie dokáže odvrátit zimní depresi, a to už od podzimu."
+      "description": "S ubývajícím denním světlem může lidem klesat nálada. Miliony amerických dospělých trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
     }
   ]
 }
