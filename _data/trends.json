@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-01T12:55:30.444928",
+  "updated": "2025-10-01T15:26:53.874147",
   "trends": [
     {
       "rank": 1,
+      "query": "třinec – hradec králové",
+      "news_title": "FOTBAL ONLINE: Náskok Hradce se tenčí po divokém závěru",
+      "news_url": "https://www.sport.cz/clanek/fotbal-pohar-pohar-pozna-posledniho-osmifinalistu-5306679",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6PnQTA-trMuNqAVzrkNWxpHquOuN9RgGyW6KuvVEtaVL1Fbaz6PdFIDrh1js",
+      "traffic": "2000++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=třinec – hradec králové&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "superdávka",
       "news_title": "Nepropásněte peníze od státu: Co musíte udělat teď",
       "news_url": "https://www.seznamzpravy.cz/clanek/radce-superdavka-vypocet-podminky-kdy-jak-zadat-287404",
@@ -12,9 +22,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=superdávka&geo=CZ"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "query": "inter miami – chicago fire",
-      "news_title": "Historická porážka Messiho! Tvrdá potupa zanechá stopy na jeho kariéře",
+      "news_title": "Messi zažil historickou porážku. Vzácný debakl poznamenal jeho kariéru.",
       "news_url": "https://www.beinsports.com/en-us/soccer/mls/articles/historic-defeat-for-lionel-messi-a-rare-thrashing-leaves-its-mark-on-his-career-2025-10-01",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL7KXa7TvNXH_fkRhb2BDH5ovSneqW-7xH2hMSaew--Fa1hj6js674IxJuaQA",
       "traffic": "500++ hledání",
@@ -22,9 +32,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=inter miami – chicago fire&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "query": "lucie zedníčková",
-      "news_title": "Zedníčková unikla smrti. Promluvila o děsivé autonehodě",
+      "news_title": "Lucie Zedníčková unikla smrti. Promluvila o děsivé autonehodě.",
       "news_url": "https://www.prahanadlani.cz/clanek-zprava/1460308-lucie-zednickova-unikla-smrti-o-vlasek-herecka-promluvila-o-desive-autonehode%C2%A0.html",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJYuqhojsrCL1dksGGaQwbcSun6-N4t557ov_5xuHzpiujArgO1zCplMf2NBk",
       "traffic": "500++ hledání",
@@ -32,19 +42,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=lucie zedníčková&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "champions league",
-      "news_title": "Pohled do Champions League: Newcastle, Arsenal i City v akci",
-      "news_url": "https://www.bbc.com/sport/football/live/c3e7xg54x1pt",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQORTT4BMP2dzE87jskgdz55FihVUmYpC1eRYc9FgcRzToBV-9bRQo-EwXv6qI",
-      "traffic": "500++ hledání",
-      "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=champions league&geo=CZ"
+      "rank": 5,
+      "query": "jan špaček",
+      "news_title": "Karma je zdarma, říká youtuber Špaček k nejsmutnějšímu Rakušanovi",
+      "news_url": "https://www.seznamzpravy.cz/clanek/audio-podcast-kulturak-nejsmutnejsi-bude-rakusan-karma-je-zdarma-rika-youtuber-jan-spacek-287152",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS_QG7iqcUhgboi2xV1qg_eUD2ZM5hwEY9pcOV27BkN3V85eHvPltk_0MABvA",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jan špaček&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "mnichov",
-      "news_title": "V Mnichově vybuchly bomby a hořel dům, policie zasahuje",
+      "news_title": "Výbuchy a zapálený dům v Mnichově: Policie zasahuje",
       "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-policie-v-mnichove-provadi-velky-zasah-media-pisi-o-strelbe-a-explozich-40541381",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv2ySzVnC-RCGw-y154IMMJehDtp2HbPRsaMZddxgnfcuQfIIEtuzWj9T3xS0",
       "traffic": "200++ hledání",
@@ -52,34 +62,24 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=mnichov&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "david suchařípa",
-      "news_title": "Ilona Csáková vzpomíná na úžasné momenty s Karlem Gottem",
-      "news_url": "https://tv.idnes.cz/spolecnost/s-karlem-gottem-jsem-zazila-par-uzasnych-momentu-vypravi-ilona-csakova.V250930_115949_idnestv_krr",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2wCZw5jWWJ5Yezlo50pz3OjXfCo087_T8u685yAu6pe5B82XZ3-dD80rh1EE",
-      "traffic": "200++ hledání",
-      "source": "iDNES.tv",
-      "explore_url": "https://trends.google.cz/trends/explore?q=david suchařípa&geo=CZ"
-    },
-    {
       "rank": 7,
-      "query": "spd",
-      "news_title": "Klingbeil: Nejvíc pracující si v Berlíně nemůže dovolit byt",
-      "news_url": "https://www.tagesspiegel.de/politik/tagesspiegel-hauptstadtgesprach-klingbeil-14414669.html",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaDX77hXyeVhCFBCH10pfXR2446s2jeetvbb66IrNTm0PznqjL1M3fGtrNV0Y",
-      "traffic": "200++ hledání",
-      "source": "Tagesspiegel",
-      "explore_url": "https://trends.google.cz/trends/explore?q=spd&geo=CZ"
+      "query": "oscar dansk",
+      "news_title": "Brankář Dansk novou posilou Kladna. Chytal i v NHL, pomůže nám, věří Plekanec.",
+      "news_url": "https://www.idnes.cz/hokej/extraliga/oscar-dansk-rytiri-kladno-posila-brankar.A251001_164314_hokej_ivt",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY041l18wbsLaYEG-zj1WVldPKEq11uF-eq3bfKHuSiyUjtSkwxE6yX-y_0HM",
+      "traffic": "100++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=oscar dansk&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "mel gibson",
-      "news_title": "Recenze DLC Kingdom Come: Deliverance 2: Odkaz kovárny. Popadněte kladivo a měšce grošů",
-      "news_url": "https://doupe.zive.cz/recenze-rozsireni-hry-kingdom-come-deliverance-2---odkaz-kovarny-popadnete-kladivo-a-pripravte-si-mesce-plne-grosu",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDPO2XtFVjh6a4yTidiygfDoe1pvevZeNSuVyv_SdmKtce53YW5zDDoBha5M",
-      "traffic": "200++ hledání",
-      "source": "Doupě.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=mel gibson&geo=CZ"
+      "query": "ghost of yotei",
+      "news_title": "Sony odhalila denní aktualizaci pro Ghost of Yotei. Seznam vylepšení je rozsáhlý.",
+      "news_url": "https://www.ign.com/articles/sony-details-ghost-of-yotei-day-one-patch-notes-includes-an-extensive-list-of-improvements",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7K9Pl3mGbn0BFjEtQX5EnZKwk5URecZsFRfd0jVBMqi3A8ZoxEwr9k_Zzx6U",
+      "traffic": "100++ hledání",
+      "source": "IGN",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ghost of yotei&geo=CZ"
     }
   ]
 }
