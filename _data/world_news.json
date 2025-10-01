@@ -1,16 +1,38 @@
 {
-  "last_updated": "2025-10-01T04:20:56",
+  "last_updated": "2025-10-01T05:18:10",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Detektivovo tričko přineslo uzavření pozůstalým obětí vraždy v jogurtové prodejně",
+      "title": "Detektivova košile přináší rodinám obětí vraždy v jogurtárně uzavření - Austin American",
       "original_title": "Detective's shirt brings closure to families of yogurt shop murder victims - Austin American-Statesman",
       "url": "https://www.statesman.com/news/crime/article/yogurt-shop-murders-detective-john-jones-shirt-21072919.php",
       "urlToImage": "https://s.hdnux.com/photos/01/54/53/72/28491397/5/rawImage.jpg",
       "source": "Austin American-Statesman",
       "publishedAt": "2025-09-30T02:24:27Z",
-      "description": "V roce 1991 John Jones slíbil rodinám, že si opět obleče zelenobíle pruhované tričko, až bude identifikován vrah obětí."
+      "description": "V roce 1991 slíbil John Jones rodinám, že si opět neoblékne zelenobíle pruhované tričko, dokud nebude identifikován vrah obětí."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Afghánistán čelí výpadku telekomunikací, Tálibán přerušil internet",
+      "original_title": "Afghanistan sees telecom shutdown as Taliban cut off internet - BBC",
+      "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-30T00:59:57Z",
+      "description": "Telefonní a internetové připojení po celé zemi nefunguje poté, co Tálibán přerušil optická vlákna."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Soudce pozastavil plán Trumpovy administrativy zrušit stovky pracovních míst v mateřské agentuře Hlasu Ameriky",
+      "original_title": "Judge suspends Trump administration's plan to eliminate hundreds of jobs at Voice of America's parent agency - CBS News",
+      "url": "https://www.cbsnews.com/news/us-agency-for-global-media-voice-of-america-job-cuts-suspended/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/15/c8b89710-9285-42f4-b596-0d2755eec7ca/thumbnail/1200x630/c02c7824762a99aaba396b850c3b6358/gettyimages-1998625189.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-30T00:53:00Z",
+      "description": "Soudce okresního soudu v USA v D.C. rozhodl, že Agentura USA pro globální média nesmí provést redukci sil, která by zrušila 532 pracovních míst pro státní zaměstnance na plný úvazek."
     },
     {
       "flag": "🇺🇸",
@@ -21,56 +43,56 @@
       "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F39903df2-a39a-41e7-8467-c9dd4aa025f7.jpg?source=next-barrier-page",
       "source": "Financial Times",
       "publishedAt": "2025-09-30T00:26:46Z",
-      "description": "Zetí Donalda Trumpa využil své hluboké vazby v Saúdské Arábii k uskutečnění největšího odkupu"
+      "description": "Trumpův zeť využil hluboké vazby v Saúdské Arábii k uskutečnění největšího odkupu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Soudce pozastavil plán Trumpovy administrativy zrušit stovky pracovních míst v Hlasu Ameriky",
-      "original_title": "Judge suspends Trump administration’s plan to eliminate hundreds of Voice of America jobs - AP News",
-      "url": "https://apnews.com/article/voice-of-america-trump-kari-lake-253c1c08e767ab4a2340b58e896f88a8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8953b9b/2147483647/strip/true/crop/8256x4644+0+430/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5f%2F15%2F5d2161e778aabde02d3c90a74113%2Fc67400493120428e8bd520acd4551de8",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-30T00:22:00Z",
-      "description": "Federální soudce souhlasí s dočasným pozastavením plánu Trumpovy administrativy na zrušení stovek pracovních míst v úřadu dohlížejícím na Hlas Ameriky."
+      "title": "Videa zřejmě ukazují zajaté Kubánce, kteří po boku Ruska bojovali na Ukrajině",
+      "original_title": "Videos appear to show captured Cuban nationals who were fighting alongside Russia in Ukraine - CBS News",
+      "url": "https://www.cbsnews.com/news/cuban-fighters-in-ukraine/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/29/ed016b60-0708-4d06-9519-1484ff9992de/thumbnail/1200x630/56d5d4c63d64dec0ffca1dcb2b4e4f57/f5-benavides-cuban-fighters-final-transfer-frame-3720.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-30T00:17:21Z",
+      "description": "Ukrajinští představitelé tvrdí, že Kubáncům jsou nabízeny roční smlouvy se slibem měsíčního platu 2000 dolarů."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jety útočí na obranu Dolphins, pak přicházejí o dlouhý drive po chybě",
+      "original_title": "Jets’ offense runs over Dolphins’ defense, then fumbles away a long drive - NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-offense-runs-over-dolphins-defense-then-fumbles-away-a-long-drive",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/dc7f66a/2147483647/strip/true/crop/4847x2726+0+252/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2F9d%2Fc08a526347228889a17d137abc6a%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27206947",
+      "source": "NBCSports.com",
+      "publishedAt": "2025-09-29T23:47:56Z",
+      "description": "Jets po efektivním úvodním drive s běhovou hrou neskončili žádnými body."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Celoplošný výpadek internetu v Afghánistánu hlásí watchdog, Taliban vynucuje morální opatření",
-      "original_title": "Total internet blackout in Afghanistan, watchdog reports, as Taliban enforces morality measures - CNN",
-      "url": "https://www.cnn.com/2025/09/29/asia/internet-blackout-afghanistan-latam-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237754077.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-29T23:27:30Z",
-      "description": "Afghánistán se ponořil do celostátního výpadku internetu, Tálibán odpojil více než 43 milionů občanů od globální komunikace v rámci takzvaných „opatření na ochranu morálky“."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Vojenská vedení vyjadřují obavy z Hegsethovy nové strategie Pentagonu",
+      "title": "Vojenské špičky vyjadřují obavy z Hegsethovy nové strategie Pentagonu",
       "original_title": "Military leaders voice concern over Hegseth’s new Pentagon strategy - The Washington Post",
       "url": "https://www.washingtonpost.com/national-security/2025/09/29/hegseth-national-defense-strategy-trump-dissent/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZC4RQEB54AADYL6TL3LVSMANAQ_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-29T23:07:45Z",
-      "description": "Nejvyšší vojenský velitelé vyjádřili obavy z připravované obranné strategie Trumpovy administrativy, což odhaluje rozkol mezi politickým a vojenským vedením Pentagonu."
+      "description": "Nejvyšší představitelé armády vyjádřili obavy nad nadcházející obrannou strategií Trumpovy administrativy, což odhaluje propast mezi politickým a vojenským vedením Pentagonu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "JB Pritzker ostře kritizuje plán nasazení Národní gardy v Chicagu",
-      "original_title": "JB Pritzker blasts plan for National Guard deployment to Chicago - Politico",
-      "url": "https://www.politico.com/news/2025/09/29/jackbooted-thugs-pritzker-blasts-plan-for-national-guard-deployment-00585709",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8d%2Fbd%2F3abf8fc449e1886e5792ba4d5b01%2Fap25271776521293.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-29T22:53:34Z",
-      "description": "Představitelé Illinois odsoudili „zmilitarizovanou sílu“ jako protiústavní a politicky motivovanou."
+      "title": "Guvernér Illinoisu říká, že vojáci mohou být nasazeni v Chicagu, zatímco imigrační agenti hlídají v centru",
+      "original_title": "Illinois governor says troops could be deployed to Chicago as immigration agents patrol downtown - AP News",
+      "url": "https://apnews.com/article/immigration-chicago-portland-memphis-trump-arrests-b36199b00e0511e687c10fa83fd838b5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/47c06fa/2147483647/strip/true/crop/5999x3374+0+313/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F4b%2Ffdfc93214e62fac27dbb1e970898%2F63f31247e00d43bebccf55d4ab6edff2",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-29T22:48:00Z",
+      "description": "Pohled na ozbrojené, maskované a maskované agenty pohraniční stráže zatýkající poblíž slavných památek v centru Chicaga zvýšil obavy z rostoucího federálního zásahu Trumpovy administrativy ve měste..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Střelba v chrámu Církve Ježíše Krista Svatých posledních dnů v Michiganu: Co víme o obětech",
+      "title": "Masová střelba v chrámu Církve Ježíše Krista v Michiganu: Co víme o obětech",
       "original_title": "Michigan LDS temple mass shooting: What we know about the victims - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/US/michigan-lds-temple-mass-shooting-victims/story?id\\\\u003d126036535",
       "urlToImage": null,
@@ -81,46 +103,57 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Emily Bluntová nazvala umělou herečku Tilly Norwoodovou ‚opravdu děsivou‘ a varovala hollywoodská zastupitelství: ‚Nedělejte to‘",
+      "original_title": "Emily Blunt Calls AI Actress Tilly Norwood ‘Really Scary’ and Warns Hollywood Agencies: ‘Don’t Do That’ - Variety",
+      "url": "https://variety.com/2025/film/news/emily-blunt-ai-actress-tilly-norwood-reaction-1236534547/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/05/GettyImages-2150896970.jpg?crop=0px%2C186px%2C4995px%2C2812px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2025-09-29T22:31:00Z",
+      "description": "Emily Blunt se během rozhovoru dozvěděla o AI generované herečce Tilly Norwood, která byla představena na summitu v Curychu a již přitahuje pozornost agentů."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie dnes: Nasdaq uzavřel vyšší; dolar oslabuje kvůli hrozícímu zastavení vlády — Živě",
+      "original_title": "Stock Market Today: Nasdaq Closes Higher; Dollar Falls as Possible Government Shutdown Looms — Live Updates - The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2025",
+      "urlToImage": "https://images.wsj.net/im-34062673/social",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-09-29T22:07:00Z",
+      "description": "Akcie a společnosti v centru pozornosti dnes: Electronic Arts, Microsoft a AstraZeneca. Sledujte aktuální vývoj na indexech Dow, S&P 500 a Nasdaq."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Virus opičích neštovic objeven v odpadních vodách v okrese Pierce",
       "original_title": "Mpox (monkeypox) virus discovered in Pierce County wastewater - KOMO",
       "url": "https://komonews.com/news/local/mpox-monkeypox-virus-discovered-in-pierce-county-wastewater-health-disease-pandemic-pox-infection-transmission-rash-blisters-children-pregnant-contact",
       "urlToImage": "https://komonews.com/resources/media2/16x9/1080/986/0x237/90/e5f1ee8b-4d04-4f10-917b-412aaa2b1655-monkeypoxexamples2.jpg",
       "source": "KOMO News",
       "publishedAt": "2025-09-29T22:00:50Z",
-      "description": "Washington DOH detekoval ve stokových vodách v okrese Pierce virus mpox (opičích neštovic) klády I."
+      "description": "Washington DOH detekoval ve vodách okresu Pierce virus opičích neštovic známý jako kláda I."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak chce Cuomo využít Adamsovy nepřítomnosti",
-      "original_title": "How Cuomo plans to seize the Adams-less moment - Politico",
-      "url": "https://www.politico.com/news/2025/09/29/how-cuomo-plans-to-seize-the-adams-less-moment-00585510",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F27%2F24%2Fd74bde1844559eb8a97c3f1155eb%2Ffashion-new-york-officials-01515.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-29T21:54:06Z",
-      "description": "Andrew Cuomo v souboji o post starosty New Yorku zaostává za favoritem Zohranem Mamdanim o dvouciferný rozdíl. Věří, že odchod úřadujícího Erica Adamse to změní."
+      "title": "Nadcházející snímky observatoře Rubin mohou konkurovat těm z vesmírných teleskopů. Zde je návod",
+      "original_title": "The Rubin Observatory's upcoming images may stack up to space telescope ones. Here's how - Space",
+      "url": "https://www.space.com/astronomy/the-rubin-observatorys-upcoming-images-may-stack-up-to-space-telescope-ones-heres-how",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DTUMdYMg2eUtNMyUWQL45U-1242-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-29T22:00:00Z",
+      "description": "Algoritmus modeluje rozostření způsobené zemskou atmosférou a kompenzuje jej, čímž vytváří ostré a jasné snímky."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Portlandský radní a armádní veterán vyzývá příslušníky armády, aby odmítli nasazení v Portlandu – Oregon Public Broadcasting",
-      "original_title": "Portland councilor, Army veteran, calls on service members to reject Portland military deployment - Oregon Public Broadcasting - OPB",
-      "url": "https://www.opb.org/article/2025/09/29/portland-councilor-army-veteran-mitch-green-calls-service-member-reject-deployment/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/7CQ5MNN56VBE7CYY7VN7LNLL6U.JPG?auth=eb892d0ad49fba1aaf7e68c5f4b60fb760eb385da91d5ae93445a53e8be3abb3&width=1200&height=675&focal=1553%2C724",
-      "source": "OPB News",
-      "publishedAt": "2025-09-29T21:46:16Z",
-      "description": "Veterán z Portlandu v městské radě vyzývá současné i bývalé členy americké armády, aby se ohradili proti plánovanému nasazení Národní gardy v Portlandu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jednání v Bílém domě o rozpočtu skončilo bez dohody",
+      "title": "Bílý dům se na summitu o uzavření vlády nedohodl",
       "original_title": "White House shutdown summit fails to produce a deal - Politico",
       "url": "https://www.politico.com/news/2025/09/29/white-house-shutdown-summit-fails-to-produce-a-deal-00585426",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2d%2F42%2Fa80924f948578d42b954a142eb6b%2Fwhitehouse-congmeeting-001-84366.jpg",
       "source": "Politico",
       "publishedAt": "2025-09-29T21:09:14Z",
-      "description": "Mezi námi stále panují velké rozdíly,\" řekl poté vůdce senátní menšiny Chuck Schumer."
+      "description": "„Mezi námi stále existují velké rozdíly,“ řekl později vůdce menšiny v Senátu Chuck Schumer."
     },
     {
       "flag": "🌍",
@@ -131,62 +164,29 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1529787597.jpg?resize=1200,800",
       "source": "TechCrunch",
       "publishedAt": "2025-09-29T21:08:44Z",
-      "description": "Fintechový startup byl v roce 2021 odkoupen bankou JPMorgan Chase za 175 milionů dolarů. Banka později obvinila Frank z lží o jeho zákaznické základně."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Rory McIlroy odsoudil „nepřijatelné a urážlivé chování“ fanoušků v Bethpage na Ryder Cupu",
-      "original_title": "Rory McIlroy calls out ‘unacceptable and abusive behavior’ from Bethpage fans at Ryder Cup - The Seattle Times",
-      "url": "https://www.seattletimes.com/sports/rory-mcilroy-calls-out-unacceptable-and-abusive-behavior-from-bethpage-fans-at-ryder-cup/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/urnpublicidap.org86b5a189f6699a0734a77d27c9ebd8aaRyder_Cup_Golf_41708-copy.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-09-29T20:47:07Z",
-      "description": "Rory McIlroy pomohl Evropě vyhrát Ryder Cup a pak odsoudil nepřátelský newyorský dav za „nepřijatelné a urážlivé chování“."
+      "description": "Fintechový startup Frank koupila JPMorgan Chase v roce 2021 za 175 milionů dolarů. Banka později obvinila Frank ze lží o jeho zákaznické základně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Propouštění federálních zaměstnanců může při zastavení vlády stále nastat, uvádí Úřad pro personální řízení",
+      "title": "Propouštění federálních zaměstnanců může při výpadku vládních služeb stále proběhnout, uvádí Úřad pro personální management",
       "original_title": "Federal employee RIFs can still happen in a government shutdown, OPM says - Federal News Network",
       "url": "https://federalnewsnetwork.com/government-shutdown/2025/09/federal-employee-rifs-can-still-happen-in-a-government-shutdown-opm-says/",
       "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/01/GettyImages-475978254.jpg",
       "source": "Federal News Network",
       "publishedAt": "2025-09-29T20:23:47Z",
-      "description": "Nové pokyny OPM objasnily, že agentury mohou nechat zaměstnance pracující na RIFech pokračovat v práci bez přerušení i během odstávky vlády."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Starbucks uzavřel nejméně 11 poboček v oblasti Coloradského Front Range",
-      "original_title": "Starbucks closes at least 11 locations along Colorado’s Front Range - The Denver Post",
-      "url": "https://www.denverpost.com/2025/09/29/starbucks-closures-colorado-coffee/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/09/Starbucks_Dress_Code_99401.jpg?w=1024&h=682",
-      "source": "The Denver Post",
-      "publishedAt": "2025-09-29T20:02:08Z",
-      "description": "Kávový gigant ze Seattlu zavírá stovky poboček po USA, Kanadě a Evropě."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Selena Gomezová a Benny Blanco odhalili hosty své svatby, potvrzena účast více než 20 hvězd",
-      "original_title": "Selena Gomez & Benny Blanco’s Celeb Wedding Guests Revealed, 20+ Stars Confirmed to Have Attended - Just Jared",
-      "url": "https://www.justjared.com/2025/09/29/selena-gomez-benny-blancos-celeb-wedding-guests-revealed-20-stars-confirmed-to-have-attended/",
-      "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/09/selena-guests.jpg",
-      "source": "Just Jared",
-      "publishedAt": "2025-09-29T20:00:29Z",
-      "description": "Více se dozvíte uvnitř"
+      "description": "Nové pokyny OPM objasnily, že agentury mohou nechat zaměstnance pracující na RIFu pokračovat v práci bez přerušení i během výluky vlády."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Lauren Sánchez Bezosová představuje ofinu v kovové minisukni",
-      "original_title": "Lauren Sánchez Bezos Debuts Bangs in a Metallic Micro Minidress - Yahoo",
+      "title": "Lauren Sánchez Bezos představuje ofinu v kovovém mikromini - instyle.com",
+      "original_title": "Lauren Sánchez Bezos Debuts Bangs in a Metallic Micro Minidress - instyle.com",
       "url": "https://www.instyle.com/lauren-sanchez-bezos-debuts-bangs-metallic-micro-minidress-11820860",
       "urlToImage": "https://www.instyle.com/thmb/hJv9_IXoeDoyL95e9a4yVnHMsWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22342275521-2caaa0642b61442ab28e6797c3d43d4e.jpg",
       "source": "InStyle",
       "publishedAt": "2025-09-29T19:56:15Z",
-      "description": "Lauren Sánchez Bezos se zúčastnila narozeninové oslavy Sydney Sweeney, kde debutovala s tupírováním v kovové minisukni. Její nový look si prohlédněte zde."
+      "description": "Lauren Sánchez Bezos se zúčastnila narozeninové oslavy Sydney Sweeney, kde předvedla tupé ofinu v kovové minisukni. Její nový look si prohlédněte zde."
     },
     {
       "flag": "🌍",
@@ -197,29 +197,40 @@
       "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/nasa-reveals-earths-mysterious-halo-that-shatters-everything-you-thought-you-knew-about-our-planets-secrets.jpg",
       "source": "Rudebaguette.com",
       "publishedAt": "2025-09-29T19:52:43Z",
-      "description": "Nejnovější mise NASA slibuje prohloubit naše porozumění zemské atmosféře. Nedávno vypuštěná observatoř Carruthers Geocorona Observatory má za úkol studovat"
+      "description": "Nejnovější mise NASA slibuje prohloubit naše porozumění zemské atmosféře. Nedávno vypuštěná observatoř Carruthers Geocorona bude studovat"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Lesothská famo hudba: od pasteveckých písní k gangům",
+      "title": "Lesothské famo: od pasteveckých písní k gangům",
       "original_title": "Lesotho's Famo music: from shepherd songs to gang wars - NPR",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5518143/famo-lesotho-music-gangs",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+188/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F4f%2F2c0ee5a04f5cad1638b0a24a8d59%2Fgettyimages-1243960978.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-29T18:57:11Z",
-      "description": "V Lesothu se tradiční akordeonová hudba Famo zapletla do smrtících gangsterských rivalit. Z kdysi doprovodu pastevců a dělníků je dnes spojována s vraždami, zákazy vlády i bojem o kulturní identitu."
+      "description": "V Lesothu se tradiční akordeonová hudba zvaná Famo zapletla do smrtících gangsterských rivalit. Z někdejšího soundtracku pastevců a migrantů se stala spojována s vraždami, zákazy vlády i bojem o ku..."
+    },
+    {
+      "flag": "🌍",
+      "country": "fr",
+      "title": "Aktualizace iOS 26.0.1, macOS 26.0.1 a iPadOS 26.0.1 od Applu opravují řadu problémů",
+      "original_title": "Apple's iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 updates fix multiple issues - AppleInsider",
+      "url": "https://appleinsider.com/articles/25/09/29/apples-ios-2601-macos-2601-ipados-2601-updates-fix-multiple-issues",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/65263-136428-64774-135230-63919-132965-Apple-WWDC25-iOS-26-hero-250609-xl-xl-xl.jpg",
+      "source": "AppleInsider",
+      "publishedAt": "2025-09-29T17:43:00Z",
+      "description": "Společnost Apple vydala aktualizace iOS 26.0.1, macOS Tahoe 26.0.1 a dalších systémů se záplatami řešícími různá chyby."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "OpenAI umožní uživatelům nakupovat přímo v ChatGPT, což vyhnalo nahoru tyto dvě akcie - Investor's Business Daily",
-      "original_title": "OpenAI Will Let Users Shop Directly In ChatGPT, Sending These Two Stocks Surging - Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/etsy-stock-shopify-jump-chatgpt-direct-purchases/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/02/Stock-OpenAI-keyboard-01-shutt.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-09-29T18:40:00Z",
-      "description": "Akcie Etsy a Shopify posílily na zprávě, že ChatGPT umožní přímé nákupy na obou platformách ve svém populárním chatbotu."
+      "title": "Fúze realitních společností Compass-Anywhere může ztížit situaci malým brokerům",
+      "original_title": "Compass-Anywhere real estate merger could squeeze small brokerages - NPR",
+      "url": "https://www.npr.org/2025/09/29/nx-s1-5554360/real-estate-compass-anywhere-brokerages",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7336x4127+0+382/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2Fff%2Fe87f65e1467ab7ec4eb396fa79ef%2Fap25198767705722.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-29T16:45:36Z",
+      "description": "Dohoda oznámená tento týden by spojila dva největší rezidenční realitní makléře v USA podle objemu prodejů."
     },
     {
       "flag": "🌍",
@@ -230,23 +241,12 @@
       "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/09/Lifestyle-heart-Stocksy_txp1e56107aV6B400_Medium_3956867-Facebook.jpg",
       "source": "Medical News Today",
       "publishedAt": "2025-09-29T15:46:49Z",
-      "description": "Více než 99 % lidí, kteří prodělali infarkt, srdeční selhání nebo mrtvici, mělo alespoň jeden ze čtyř hlavních rizikových faktorů kardiovaskulárních onemocnění v nezdravé úrovni, uvádí nová studie."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Rozbor bizarního návrhu Tonyho Blaira na správu Gazy",
-      "original_title": "A breakdown of Tony Blair’s bizarre proposal to run Gaza - Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/breakdown-tony-blairs-bizarre-proposal-run-gaza",
-      "urlToImage": "https://www.middleeasteye.net/sites/default/files/images-story/Davos-Tony-Blair-World-Economic-Forum-22-January-2025-AFP.jpg",
-      "source": "Middle East Eye",
-      "publishedAt": "2025-09-29T15:44:23Z",
-      "description": "Podle uniklého návrhu bude mít navrhovaná přechodná správa na vrcholu globální miliardáře a podnikatele a na dně Palestince"
+      "description": "Více než 99 % lidí, kteří prodělali infarkt, srdeční selhání nebo mrtvici, mělo alespoň jeden ze čtyř hlavních rizikových faktorů kardiovaskulárních onemocnění nad zdravou úrovní, uvádí nová studie."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mezihvězdná kometa 3I/ATLAS brzy zmizí z dohledu – a vrátí se až koncem letošního roku",
+      "title": "Mezihvězdná kometa 3I/ATLAS mizí z dohledu – a vrátí se až koncem letošního roku",
       "original_title": "Interstellar Comet 3I/ATLAS Is About To Vanish From View – And Won't Be Back Until Later This Year - IFLScience",
       "url": "https://www.iflscience.com/interstellar-comet-3iatlas-is-about-to-vanish-from-view-and-wont-be-back-until-later-this-year-80982",
       "urlToImage": "https://assets.iflscience.com/assets/articleNo/80982/aImg/86704/comet-3i-atlas-meta.jpg",
@@ -257,90 +257,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Start rakety SpaceX Falcon 9 vytvořil na obloze západního pobřeží USA světélkujícího „medúzu“ (foto, video)",
-      "original_title": "SpaceX Falcon 9 launch paints glowing 'jellyfish' across Western US skies (photos, video) - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-paints-glowing-jellyfish-across-western-us-skies-photos-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/puBXziFERsEeA2ScBM6ecF-2560-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-29T15:35:42Z",
-      "description": "Z Los Angeles do Phoenixu předvedla raketa SpaceX úchvatnou podívanou."
+      "title": "Webbův teleskop NASA zkoumá disk kolem masivní planety, kde se formují měsíce - NASA Science (.gov)",
+      "original_title": "NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet - NASA Science (.gov)",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/",
+      "urlToImage": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2025/09/STScI-01K618ZQKCXY1N5V02DXDT56EY.png",
+      "source": "NASA",
+      "publishedAt": "2025-09-29T14:00:00Z",
+      "description": "Vesmírný teleskop Jamese Webba od NASA poskytl první přímá měření chemických a fyzikálních vlastností disku, z něhož by mohl vzniknout měsíc"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Počet hříchů, hvězdy, propadák a klíčová akce po remíze Packers s Cowboys",
-      "original_title": "Snap Counts, Stud, Dud and Defining Play Following Packers’ Tie at Cowboys - Sports Illustrated",
-      "url": "https://www.si.com/nfl/packers/onsi/snap-counts-stud-dud-and-defining-play-packers-tie-at-cowboys",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4632,h_2605,x_902,y_142/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/packer_central/01k6b0kd1ytasswhcznr.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-09-29T15:17:30Z",
-      "description": "Po vyhození velkého vedení si Packers z Dallasu odvezli remízu. Analýza počtu hracích akcí i hvězdy a zklamání zápasu"
+      "title": "Meta vylepšila brýle Ray-Ban Gen 2. Stojí to jen za ten lepší výdrž baterie.",
+      "original_title": "Meta's Revamped Ray-Ban Gen 2 Glasses Are Worth It Just for the Battery Boost - CNET",
+      "url": "https://www.cnet.com/tech/computing/metas-revamped-ray-ban-gen-2-glasses-are-worth-it-just-for-the-battery-boost/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/22f03b992f1ba563de92020cc254eaded914d8eb/hub/2025/09/17/6ea5d1c3-47e3-4da3-bce4-c78db056d3d6/meta-rayban-gen-2-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-09-29T12:03:34Z",
+      "description": "Recenze: Tyhle brýle mi už vydrží téměř celý den, ale AI je pořád ve vývoji."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "iPhone Fold se blíží, Samsung chystá hromadnou výrobu displejů",
-      "original_title": "iPhone Fold a step closer as Samsung prepping mass production of displays - 9to5Mac",
-      "url": "https://9to5mac.com/2025/09/29/iphone-fold-a-step-closer-as-samsung-prepping-mass-production-of-displays/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-09-29T14:34:00Z",
-      "description": "Očekávání, že Apple příští rok představí iPhone Fold, získalo další podporu po oznámení Samsungu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Otestoval jsem nový Snapdragon X2 Elite Extreme od Qualcommu. Zde jsou mé poznatky.",
-      "original_title": "I Benchmarked Qualcomm’s New Snapdragon X2 Elite Extreme. Here’s What I Learned - WIRED",
-      "url": "https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/",
-      "urlToImage": "https://media.wired.com/photos/68d9b8c118f0bb23d5ba8508/191:100/w_1280,c_limit/x2elite01.JPG",
-      "source": "Wired",
-      "publishedAt": "2025-09-29T13:00:00Z",
-      "description": "Provedli jsme první testy na referenčních jednotkách, abychom zjistili, jak si nový čip Qualcomm Snapdragon X2 Elite stojí proti konkurenci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Je čas upgradovat na iPhone 17? Jak si vedou starší iPhony",
+      "title": "Je čas upgradovat na iPhone 17? Jak si stojí starší iPhony",
       "original_title": "Is It Time to Upgrade to the iPhone 17? How Older iPhones Compare - CNET",
       "url": "https://www.cnet.com/tech/mobile/is-it-time-to-upgrade-to-the-iphone-17-how-older-iphones-compare/",
       "urlToImage": "https://www.cnet.com/a/img/resize/f7aaf67b3f23066ec5213fac0236085a2bdae3dc/hub/2025/09/10/d5610cbc-ca12-47e3-9a19-06fcc503107d/blue-iphone-17.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "CNET",
       "publishedAt": "2025-09-29T12:00:00Z",
-      "description": "iPhone 17 má oproti iPhonu 16 jen dílčí vylepšení, ale ve srovnání se staršími modely je rozdíl markantní."
+      "description": "iPhone 17 má oproti iPhonu 16 jen přírůstkové vylepšení, ale ve srovnání se staršími modely jsou rozdíly markantní."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trpíte zimní depresí? Světelná terapie vám může pomoci už teď",
+      "title": "Trpíte zimní depresí? Začněte s fototerapií včas, pomůže.",
       "original_title": "Prone to winter depression? Starting light therapy now can help - NPR",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-29T09:00:00Z",
-      "description": "S ubývajícím denním světlem může lidem klesat nálada. Miliony Američanů trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "JWST objevil bizarní planetu, kterou pečou polární záře daleko od jakékoli hvězdy",
-      "original_title": "JWST Finds Bizarre Planet Is Baked by Auroras, Far From Any Sun - ScienceAlert",
-      "url": "https://www.sciencealert.com/jwst-finds-bizarre-planet-is-baked-by-auroras-far-from-any-sun",
-      "urlToImage": "https://www.sciencealert.com/images/2025/09/Extrasolar-World-SIMP-0136-1.jpg",
-      "source": "ScienceAlert",
-      "publishedAt": "2025-09-29T01:46:52Z",
-      "description": "Co mohou polární záře na tulácké planetě naučit astronomy o formování a vývoji planet? Právě to se snaží objasnit nedávná studie publikovaná v Astronomy & Astrophysics, v níž mezinárodní tým výzkum..."
+      "description": "S ubývajícím světlem klesá i nálada. Miliony Američanů trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nízkodávková radioterapie výrazně ulevuje pacientům s bolestivou osteoartrózou kolene",
-      "original_title": "Low-dose radiation therapy offers substantial relief to people with painful knee osteoarthritis - Medical Xpress",
-      "url": "https://medicalxpress.com/news/2025-09-dose-therapy-substantial-relief-people.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/drawing-of-knee-arthri.jpg",
-      "source": "Medical Xpress",
-      "publishedAt": "2025-09-28T20:00:03Z",
-      "description": "Jediná dávka nízkodávkové radioterapie může být bezpečnou a účinnou alternativní léčbou bolestivé osteoartrózy kolene, ukazuje nová randomizovaná placebem kontrolovaná studie."
+      "title": "Jak alkohol přispívá k epidemii onemocnění jater",
+      "original_title": "How alcohol contributes to the epidemic of liver disease - The Conversation",
+      "url": "https://theconversation.com/how-alcohol-contributes-to-the-epidemic-of-liver-disease-262902",
+      "urlToImage": "https://images.theconversation.com/files/691759/original/file-20250919-56-moxjks.JPG?ixlib=rb-4.1.0&rect=0%2C869%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source": "The Conversation Africa",
+      "publishedAt": "2025-09-28T17:04:01Z",
+      "description": "Poškození jater způsobené alkoholem je problémem veřejného zdraví. Společně musíme lépe pečovat o svá jata tím, že podnikneme kroky ke snížení spotřeby alkoholu v populaci."
     }
   ]
 }
