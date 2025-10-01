@@ -1,27 +1,82 @@
 {
-  "last_updated": "2025-10-01T22:16:11",
+  "last_updated": "2025-10-01T23:15:49",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dow uzavřel na rekordním maximu, S&P 500 zaznamenal vítězný měsíc, zatímco investoři odhazují obavy z odstávky vlády",
-      "original_title": "Dow closes at record high, S&P 500 logs winning month, as investors shake off government shutdown concerns - CNBC",
-      "url": "https://www.cnbc.com/2025/09/29/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189906-17558955772025-08-22t203939z_1972801974_rc2jcgas251k_rtrmadp_0_usa-stocks.jpeg?v=1755895677&w=1920&h=1080",
+      "title": "Futures na akcie klesají kvůli hrozícímu zastavení činnosti vlády: Živé aktualizace",
+      "original_title": "Stock futures are lower as government shutdown looms: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/09/30/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205758-1759244566497-Traders-Photo-20250930-KK-PRESS-024.jpg?v=1759244708&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-09-30T20:33:00Z",
-      "description": "Hrozil možný výpadek americké vlády. Wall Street také mířil k neobvykle silnému září."
+      "publishedAt": "2025-10-01T00:05:00Z",
+      "description": "Akcie obvykle předchozí odstávky vlády přežily bez úhony, tentokrát však může být situace riskantnější kvůli řadě ekonomických faktorů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Webové stránky HUD viní z blížícího se výpadku ‚radikální levici‘",
-      "original_title": "HUD website blames looming shutdown on ‘Radical Left’ - Federal News Network",
-      "url": "https://federalnewsnetwork.com/government-shutdown/2025/09/hud-website-blames-looming-shutdown-on-radical-left/",
-      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/09/HUD2.png",
-      "source": "Federal News Network",
-      "publishedAt": "2025-09-30T20:03:45Z",
-      "description": "Zpráva v zářivě červeném banneru na hlavní stránce oficiálních webových stránek ministerstva bydlení a městského rozvoje (HUD) vyvolává otázky ohledně možného porušení zákona Hatch Act."
+      "title": "S rostoucím rizikem odstávky vlády Senát neschválil ani jeden ze dvou návrhů rozpočtu",
+      "original_title": "As 2 spending bills fail in Senate, chances to avoid a government shutdown fade - NPR",
+      "url": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5564x3130+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2F17%2F2638f02f4f5ea47676d2d6f7d04b%2Fgettyimages-2238385222.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-30T23:20:56Z",
+      "description": "Ve sněmovně ve středu neprošly dva oddělené stranické návrhy rozpočtu. Vláda skončí, pokud nedojde k poslednímu minutě k průlomu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpův CDC vrací název nemoci „monkeypox“ navzdory rasovým konotacím",
+      "original_title": "Trump’s CDC brings back “monkeypox” disease name despite racist connotation - Ars Technica",
+      "url": "https://arstechnica.com/health/2025/09/trumps-cdc-brings-back-monkeypox-disease-name-despite-racist-connotation/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-151054421-e1653346027144-1152x648.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-30T22:29:20Z",
+      "description": "Název byl nejen urážlivý, ale také nepřesný."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Federální agenti před newyorským imigračním soudem napadli novináře, jednoho zranili tak, že skončil v nemocnici",
+      "original_title": "Federal agents grab and shove journalists outside NYC immigration court, sending one to hospital - AP News",
+      "url": "https://apnews.com/article/nyc-immigration-journalists-shoving-manhattan-84d95f26278aa406eed37d72ed213452",
+      "urlToImage": "https://dims.apnews.com/dims4/default/67d7fd8/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F80%2F52%2F2c2c5acb3d4ad75e772d91810a1e%2Faf2d35dfd9bd4b3a85536603eb72ced3",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-30T22:17:00Z",
+      "description": "Federální agenti popadli a strkali do novinářů na chodbě u newyorského imigračního soudu, jednoho poslali do nemocnice. Středeční incident v budově č. 26 na Federal Plaza na Manhattanu je nejnovějš..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trumpova administrativa nezákonně sledovala propalestinské demonstranty, rozhodl soudce",
+      "original_title": "Trump administration illegally targeted pro-Palestinian protesters, judge rules - The Washington Post",
+      "url": "https://www.washingtonpost.com/education/2025/09/30/trump-administration-pro-palestinian-student-deportations-trial/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BNZF2TPUXTHCHDB5EEELP4FSM.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-09-30T22:06:58Z",
+      "description": "Podle rozsudku představovalo zadržování a deportace aktivistů bez občanství z počátku roku protiústavní porušení Prvního dodatku."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Meta Ray-Ban Display je nyní v prodeji, ale pouze ve vybraných prodejnách v USA",
+      "original_title": "Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores - UploadVR",
+      "url": "https://www.uploadvr.com/meta-ray-ban-display-now-available-in-us-stores/",
+      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/09/Meta-Ray-Ban-Display-and-Meta-Neural-Band-1.png",
+      "source": "UploadVR",
+      "publishedAt": "2025-09-30T21:11:15Z",
+      "description": "Meta Ray-Ban Display je nyní k prodeji, výhradně ve vybraných prodejnách v USA."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Nicole Kidmanová podala žádost o rozvod s Keithem Urbanem",
+      "original_title": "Nicole Kidman files for divorce from Keith Urban - BBC",
+      "url": "https://www.bbc.com/news/articles/cdjz7r8jk3ko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e35d/live/18a45a70-9d89-11f0-b732-8db235f47798.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-09-30T20:55:57Z",
+      "description": "Manželský pár z Hollywoodu má dvě děti a je sezdán od roku 2006."
     },
     {
       "flag": "🌍",
@@ -31,41 +86,30 @@
       "url": "https://www.axios.com/2025/09/30/hamas-response-trump-gaza-plan-qatar-egypt-turkey",
       "urlToImage": "https://images.axios.com/Fp8949BGx_Urh83XAB9B2Ljfhhw=/0x146:7174x4181/1366x768/2025/09/30/1759260002756.jpeg",
       "source": "Axios",
-      "publishedAt": "2025-09-30T19:28:11Z",
-      "description": "Trump uvedl, že Hamás má na odpověď tři až čtyři dny."
+      "publishedAt": "2025-09-30T19:26:16Z",
+      "description": "Trump uvedl, že dává Hamásu tři až čtyři dny na odpověď."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump a Hegseth na vzácné schůzce burcují vojáky a brojí proti „woke“ standardům",
-      "original_title": "Trump, Hegseth rally troops at rare meeting, rail against \"woke\" standards - CBS News",
-      "url": "https://www.cbsnews.com/live-updates/trump-hegseth-military-leaders-meeting/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/30/dbd271df-92c2-4ae4-a13e-b39d98925749/thumbnail/1200x630g2/a6bc14a8ffb6a1551337f5c1cc8c45aa/gettyimages-2238298708.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-30T19:21:02Z",
-      "description": "Ministr obrany Pete Hegseth propagoval nový název Ministerstvo války se slovy: „Éra Ministerstva obrany je u konce.“"
+      "title": "Rodina a přátelé obětí útoku na kostel v Grand Blanc spustili online sbírky",
+      "original_title": "Family, friends of Grand Blanc church attack victims launch online fundraisers - The Detroit News",
+      "url": "https://www.detroitnews.com/story/news/local/michigan/2025/09/30/family-friends-grand-blanc-church-attack-victims-launch-online-fundraisers/86436711007/",
+      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/09/30/PDTN/86437024007-phelps.jpg?crop=719,404,x0,y0&width=719&height=404&format=pjpg&auto=webp",
+      "source": "The Detroit News",
+      "publishedAt": "2025-09-30T18:44:47Z",
+      "description": "Stránky byly ověřeny v úterý."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX si pro poslední let Starship v tomto roce připravil několik překvapení",
+      "title": "SpaceX si pro poslední let Starship v tomto roce schovává pár triků v rukávu",
       "original_title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year - Ars Technica",
       "url": "https://arstechnica.com/space/2025/09/spacex-has-a-few-tricks-up-its-sleeve-for-the-last-starship-flight-of-the-year/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ship38staticfire-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-09-30T18:36:17Z",
-      "description": "SpaceX znovu použije stupně Super Heavy s 24 již použitými motory Raptor."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Silné zemětřesení na středních Filipínách poškodilo budovy a vyhnalo lidi z domovů",
-      "original_title": "Strong earthquake in central Philippines damages building and sends people out of their homes - AP News",
-      "url": "https://apnews.com/article/philippines-earthquake-cebu-daanbantayan-1544d688be8e6c966aaa7afb64338b28",
-      "urlToImage": "https://dims.apnews.com/dims4/default/96091b8/2147483647/strip/true/crop/1152x648+0+540/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F53%2Fd0e9d954a68435f9c79e40df54fb%2F9b5344028ee1462fa15af0878704e281",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-30T18:36:00Z",
-      "description": "Zemětřesení o síle 6,9 zabilo na Filipínách nejméně šest lidí"
+      "description": "SpaceX znovu použije urychlovač Super Heavy s 24 již letěnými motory Raptor."
     },
     {
       "flag": "🇺🇸",
@@ -76,128 +120,51 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23348793855560.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-30T18:00:18Z",
-      "description": "Prezident Donald Trump v úterý oznámil mnohostranné úsilí zaměřené na snížení nákladů na léky ve Spojených státech, včetně vytvoření přímého spotřebitelského webu „TrumpRx“, kde mohou Američané nak..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Florida oficiálně předala pozemek pro Trumpovu knihovnu.",
-      "original_title": "Florida officially hands over land for Trump library - Politico",
-      "url": "https://www.politico.com/news/2025/09/30/florida-officially-hands-land-trump-library-00588019",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb7%2F25%2F002817bd486f9ff36545578d3167%2Fmiami-parking-lot.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-30T17:39:59Z",
-      "description": "Eric Trump slíbil, že to bude „největší prezidentská knihovna, jaká kdy byla postavena“ a řekl, že „v souladu s DNA naší rodiny to bude jedna z nejkrásnějších budov, jaká kdy byla postavena — ikona..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Amazon představuje novou generaci chytrých reproduktorů Echo s umělou inteligencí, vytvořenou speciálně pro Alexa+ – informace na webu About Amazon",
-      "original_title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+ - about Amazon",
-      "url": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
-      "urlToImage": "https://assets.aboutamazon.com/dims4/default/43ebda6/2147483647/strip/true/crop/2000x1000+0+62/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F07%2Ffe%2Fb51fae6a4b178f5ee434e6163ae9%2Fpanospanay-echo-2025.png",
-      "source": "Aboutamazon.com",
-      "publishedAt": "2025-09-30T17:21:42Z",
-      "description": "Představujeme naše dosud nejpokročilejší zařízení Echo s prémiovým zvukem, AI procesory nové generace a senzory Omnisense pro proaktivnější a personalizovanější zážitky s Alexou+."
+      "description": "Prezident Donald Trump v úterý oznámil mnohostranné úsilí o snížení cen léků ve Spojených státech"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Afghánistán ochromen výpadkem internetu, který pokračuje druhý den",
+      "title": "Afghánistán paralyzován, výpadek internetu trvá druhý den",
       "original_title": "Afghanistan paralyzed as internet blackout stretches into second day - The Washington Post",
       "url": "https://www.washingtonpost.com/world/2025/09/30/afghanistan-internet-blackout-taliban/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HRHI4GJEGUSPUBZDWWREYYYBEU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-30T17:19:10Z",
-      "description": "Dva týdny poté, co režim naznačil plány na zákaz optického internetu, jsou přerušeny téměř všechny spoje s vnějším světem, uzemněna letadla a uzavřeny firmy."
+      "description": "Dva týdny poté, co režim naznačil záměr zakázat optický internet, jsou přerušena téměř všechna spojení s vnějším světem, uzemněna letadla a zavřeny podniky."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Oběti střelby v Michiganu: Mezi mrtvými jsou veterán námořnictva a oblíbený dědeček",
-      "original_title": "Michigan shooting victims: Navy veteran, beloved grandfather among those killed - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/michigan-lds-temple-mass-shooting-victims/story?id\\\\u003d126036535",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-30T17:07:52Z",
-      "description": ""
+      "title": "FTC žaluje Zillow a Redfin za nelegální dohodu na potlačení konkurence v reklamě na pronájmy - Federální obchodní komise (.gov)",
+      "original_title": "FTC Sues Zillow and Redfin Over Illegal Agreement to Suppress Rental Advertising Competition - Federal Trade Commission (.gov)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-sues-zillow-redfin-over-illegal-agreement-suppress-rental-advertising-competition",
+      "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
+      "source": "Ftc.gov",
+      "publishedAt": "2025-09-30T17:12:32Z",
+      "description": "FTC dnes zažalovala Zillow a Redfin za nezákonnou dohodu, která eliminuje Redfin jako konkurenta na trhu s inzerci pronájmu bytů na internetu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Další verze Windows 11 od Microsoftu nepřináší nové funkce, je ale už k dispozici",
-      "original_title": "Microsoft's next version of Windows 11 has no new features, but it's available now - Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-version-25h2-is-now-generally-available-microsoft-confirms-rollout-has-begun",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7kZUkvTX3qs2LE52ZBteaN-2560-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-09-30T17:00:00Z",
-      "description": "Nejnovější verze Windows 11 je nyní všeobecně dostupná, nepřináší žádné nové funkce ani změny, ale nabízí až 36 měsíců dodatečné podpory oproti verzi 24H2."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jídla z těstovin z Trader Joe's a Walmartu mohou souviset se smrtelným výskytem listeriózy",
-      "original_title": "Pasta meals from Trader Joe's and Walmart may be linked to a deadly listeria outbreak - NPR",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5557934/pasta-listeria-outbreak-walmart-trader-joes",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F0b%2F35e63e914c58af5bb4e07f7c0c86%2F2-images-3.png",
-      "source": "NPR",
-      "publishedAt": "2025-09-30T16:57:37Z",
-      "description": "USDA varuje: Předvařené těstoviny z Trader Joe's a Walmartu souvisí s celonárodním výskytem listeriózy, který zabil čtyři lidi a zranil nejméně 20 dalších."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Daniel Ek ze Spotify oznamuje, že se vzdá pozice výkonného ředitele",
-      "original_title": "Spotify's Daniel Ek announces that he'll step aside as CEO - NPR",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5558012/spotifys-daniel-ek-announces-that-hell-step-aside-as-ceo",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2811+0+234/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F4d%2F302a013f4336be915a3fe3240e40%2Fgettyimages-2184632198.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-30T16:33:07Z",
-      "description": "Zakladatel největší světové streamovací služby zůstane ve firmě jako výkonný předseda, nahradí ho dva spolupředsedové"
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Uniklé rendery Galaxy S26 Ultra odhalují obrovský nový výčnělek fotoaparátu od Samsungu",
-      "original_title": "Leaked Galaxy S26 Ultra renders show off Samsung’s massive new camera bump - 9to5Google",
-      "url": "http://9to5google.com/2025/09/30/leaked-samsung-galaxy-s26-ultra-renders-massive-new-camera-bump/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Ultra-CAD-bas-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-30T16:06:00Z",
-      "description": "Galaxy S26 Ultra bude zřejmě poměrně konzervativní smartphone, ale jeho nový fotoaparát může fanoušky naštvat."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Chemici odhalili strašidelnou pravdu o bludičkách",
-      "original_title": "Chemists Crack the Ghostly Truth Behind Will-o’-the-Wisps - Gizmodo",
-      "url": "https://gizmodo.com/sorry-ghost-hunters-will-o-the-wisps-are-just-electrified-swamp-farts-2000665578",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Will-o-the-wisp-and-snake-Hermann-Hendrich-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-09-30T16:05:44Z",
-      "description": "Vědci dlouho tušili, že metan s tím má něco společného. Ukázalo se, že měli částečně pravdu."
+      "title": "Amazon představuje nová zařízení Echo poháněná svou umělou inteligencí Alexa+",
+      "original_title": "Amazon unveils new Echo devices, powered by its AI, Alexa+ - TechCrunch",
+      "url": "https://techcrunch.com/2025/09/30/amazon-unveils-new-echo-devices-powered-by-its-al-alexa/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2025-09-30T15:55:07Z",
+      "description": "Amazon představuje nová zařízení Dot Max, Echo Studio, Echo Show 8 a Echo Show 11 poháněná umělou inteligencí."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Vědci použili lidské kožní buňky k vytvoření funkčních vajíček, což otevírá dveře novým léčbám neplodnosti",
-      "original_title": "Scientists use human skin cells to create functional eggs, opening a door to new infertility treatments - CNN",
-      "url": "https://www.cnn.com/2025/09/30/science/human-skin-cells-egg-infertility",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/spindle.jpg?c=16x9&q=w_800,c_fill",
+      "title": "Kontrola faktů: Trump v souvislosti s vládním shutdownem nepravdivě tvrdí, že demokraté chtějí poskytovat „ilegálům“ bezplatnou zdravotní péči",
+      "original_title": "Fact check: Trump falsely claims Democrats want to give free health care to ‘illegal aliens’ in government shutdown battle - CNN",
+      "url": "https://www.cnn.com/2025/09/30/politics/fact-check-trump-free-health-care-immigration",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237881233.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2025-09-30T15:48:54Z",
-      "description": "Vědci vytvořili funkční vajíčka z obyčejných lidských kožních buněk, což otevírá nové možnosti léčby neplodnosti."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump tvrdí, že v Portlandu je ‚anarchie‘. Místní ale popisují realitu, která je od toho velmi daleko",
-      "original_title": "Trump says ‘it’s anarchy’ in Portland. Here’s why locals say that’s far from reality - CNN",
-      "url": "https://www.cnn.com/2025/09/30/us/portland-residents-trump-troops",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-29t082257z-1116459759-rc2b1hacfkvi-rtrmadp-3-usa-trump-migration-protests.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-30T15:31:39Z",
-      "description": "Podle Donalda Trumpa jsou teroristé nejnovějšími vládci Portlandu a město zoufale potřebuje federální pomoc. Místní tvrdí, že z jeho pověstné výstřednosti se stává něco úplně jiného."
+      "publishedAt": "2025-09-30T15:29:05Z",
+      "description": "Během jednání o vládních výdajích obviňují prezident Donald Trump a další představitelé Republikánské strany demokraty, že požadují bezplatnou zdravotní péči pro „nelegální migranty“ výměnou za pod..."
     },
     {
       "flag": "🌍",
@@ -208,7 +175,7 @@
       "urlToImage": "https://www.al.com/resizer/v2/KPWXAFAWVFDQPP4PGMO4DKTQPY.jpg?auth=5c6054eed17c6cfb3ee7f5056851e2a8bd3e9f2a741ea3003ff7e1915f5f44c2&width=1280&smart=true&quality=90",
       "source": "AL.com",
       "publishedAt": "2025-09-30T15:17:00Z",
-      "description": "Objekt nepředstavuje pro Zemi žádné nebezpečí, ale přiblíží se k Jupiteru i Venuši."
+      "description": "Objekt nepředstavuje pro Zemi žádné nebezpečí, přiblíží se však k Jupiteru i Venuši."
     },
     {
       "flag": "🇬🇧",
@@ -224,40 +191,51 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Amazon představuje nové Fire TV, včetně nového modelu Omni QLED",
-      "original_title": "Amazon debuts its latest Fire TVs, including a new Omni QLED model - The Verge",
-      "url": "https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image-1-3.png?quality=90&strip=all&crop=0%2C10.782006784713%2C100%2C78.435986430574&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-09-30T14:58:35Z",
-      "description": "Tento nový model navazuje na nabídku Amazonu z roku 2024, která zahrnovala jeho první televizor s Mini LED technologií."
+      "title": "Amazon představuje novou řadu Fire TV s Alexou+, která vám rychle najde, co chcete sledovat – o společnosti Amazon",
+      "original_title": "Amazon announces new Fire TV lineup with Alexa+ to get you to what you want to watch, fast - about Amazon",
+      "url": "https://www.aboutamazon.com/news/devices/amazon-fire-tv-alexa-plus-fire-tv-stick",
+      "urlToImage": "https://assets.aboutamazon.com/dims4/default/5d7e8d6/2147483647/strip/true/crop/1600x800+0+6/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F03%2F87%2F70d4d17e43f383bbe5132dbd93b4%2Fringo-firetv-lineup-1600x900.jpg",
+      "source": "Aboutamazon.com",
+      "publishedAt": "2025-09-30T15:06:42Z",
+      "description": "Nová zařízení Fire TV jsou ještě rychlejší, chytřejší a navržená podle toho, jak televizi skutečně sledujete."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SAG-AFTRA reaguje na pobouření kolem umělé herečky Tilly Norwood: „Tvorba je a má zůstat zaměřená na člověka“",
-      "original_title": "SAG-AFTRA Responds To AI Actress Tilly Norwood Furore: “Creativity Is & Should Remain Human-Centered” - Deadline",
-      "url": "http://deadline.com/2025/09/sag-aftra-responds-ai-actress-tilly-norwood-1236565959/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/MixCollage-25-Sep-2025-10-53-AM-6889.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-09-30T12:24:00Z",
-      "description": "SAG-AFTRA reaguje na pobouření kolem AI herečky Tilly Norwood: „Tvorba je a má zůstat zaměřená na člověka“"
+      "title": "Gersh nepodepíše umělou herečku Tilly Norwood: ‚Nejsme ta taková agentura‘",
+      "original_title": "Gersh Will Not Sign AI Actress Tilly Norwood: 'We're Not That Agency' - Variety",
+      "url": "https://variety.com/2025/film/news/gersh-ai-actress-tilly-norwood-representation-1236534829/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/tilly.png?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-09-30T15:00:00Z",
+      "description": "Prezidentka Gersh Leslie Siebertová označuje fenomén Tilly Norwood za „děsivý“ a říká: „my nebudeme tou agenturou“, která by umělou inteligenci zastupovala."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Počet případů covidu roste s novými variantami ‚Nimbus‘ a ‚Stratus‘",
-      "original_title": "Covid cases rising with new variants 'Nimbus' and 'Stratus' - BBC",
-      "url": "https://www.bbc.com/news/articles/c3rv3y9jnryo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/01e0/live/b42d7b30-9e05-11f0-b741-177e3e2c2fc7.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-30T11:58:13Z",
-      "description": "Nemůžete do krku a máte teplotu? Možná jste se nakazili některou z nových podvariant covidu, které se na podzim šíří."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vědci vytvořili lidská vajíčka z kožních buněk a použili je k vytvoření embryí",
+      "original_title": "Scientists Made Human Eggs From Skin Cells and Used Them to Form Embryos - WIRED",
+      "url": "https://www.wired.com/story/scientists-made-human-eggs-from-skin-cells-and-used-them-to-make-embryos/",
+      "urlToImage": "https://media.wired.com/photos/68db187ef72c2584f926f0f7/191:100/w_1280,c_limit/oocyte.jpeg",
+      "source": "Wired",
+      "publishedAt": "2025-09-30T15:00:00Z",
+      "description": "Embrya nebyla použita k pokusu o vytvoření těhotenství, ale výzkumníci stojící za touto technikou tvrdí, že by jednou mohla pomoci řešit neplodnost."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Druhý zadržený zemřel po střelbě v zařízení ICE v Dallasu",
+      "original_title": "2nd detainee dies after Dallas ICE facility shooting - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/2nd-detainee-dies-dallas-ice-facility-shooting-rcna234658",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250930-ice-dallas-rs-a32de8.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-30T13:07:00Z",
+      "description": "Miguel Ángel García-Hernández, zadržený, který byl postřelen v zařízení pro imigraci a celní správu v Dallasu, zemřel, uvedl mluvčí národní organizace LULAC."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jak některé nosní spreje mohou chránit před covidem",
+      "title": "Jak mohou některé nosní spreje pomoci chránit před covidem",
       "original_title": "How some nasal sprays may help protect you from covid - The Washington Post",
       "url": "https://www.washingtonpost.com/wellness/2025/09/30/covid-nasal-spray-coronavirus/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ZWYZL3C4QEUJIVI7YTERG2P34.jpg&w=1440",
@@ -268,24 +246,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Většina lidí má před srdeční příhodou alespoň jeden rizikový faktor.",
+      "title": "NASA právě vypustila špionážní satelit pro atmosféru: Observatoř Carruthers sleduje únik zemského vodíku, zatímco vědci pátrají po cizích vodních světech",
+      "original_title": "\"NASA Just Launched Atmosphere Spy Satellite\": Carruthers Observatory Watches Earth's Hydrogen Escape While Scientists Hunt For Alien Water Worlds - Rude Baguette",
+      "url": "https://www.rudebaguette.com/en/2025/09/nasa-just-launched-atmosphere-spy-satellite-carruthers-observatory-watches-earths-hydrogen-escape-while-scientists-hunt-for-alien-water-worlds/",
+      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/nasa-reveals-earths-mysterious-halo-that-shatters-everything-you-thought-you-knew-about-our-planets-secrets.jpg",
+      "source": "Rudebaguette.com",
+      "publishedAt": "2025-09-29T19:52:43Z",
+      "description": "Nejnovější mise NASA slibuje prohloubit naše porozumění zemské atmosféře. Nedávno vypuštěná Carruthersova observatoř pro geokoronu má studovat"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Většina lidí má před srdeční příhodou alespoň jeden rizikový faktor",
       "original_title": "Most People Have At Least One Risk Factor Before a Cardiac Event - Healthline",
       "url": "https://www.healthline.com/health-news/cardiovascular-disease-most-people-have-modifiable-risk-factors",
       "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2025/09/seniors-walking-together-1200-628-facebook.jpg",
       "source": "Healthline",
       "publishedAt": "2025-09-29T19:06:12Z",
-      "description": "Nový výzkum zjistil, že většina lidí, kteří prodělají závažnou kardiovaskulární příhodu, měla modifikovatelné rizikové faktory, což odporuje tvrzení, že srdeční onemocnění často udeří bez varování...."
+      "description": "Nová studie zjistila, že většina lidí, kteří prodělali závažnou kardiovaskulární příhodu, měla ovlivnitelné rizikové faktory, což odporuje tvrzení, že srdeční onemocnění často udeří bez varování. V..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trpíte zimní depresí? Začněte se světelnou terapií právě teď.",
+      "title": "Trpíte zimní depresí? Začněte se světelnou terapií včas, pomůže.",
       "original_title": "Prone to winter depression? Starting light therapy now can help - NPR",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-29T09:00:00Z",
-      "description": "S ubývajícím světlem může lidem klesat nálada. Miliony Američanů trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
+      "description": "S ubývajícím denním světlem může u lidí docházet ke zhoršování nálady. Miliony dospělých v USA trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to již od podz..."
     }
   ]
 }
