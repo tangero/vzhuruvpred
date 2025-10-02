@@ -1,30 +1,40 @@
 {
-  "updated": "2025-10-01T21:22:40.305912",
+  "updated": "2025-10-02T01:54:27.863006",
   "trends": [
     {
       "rank": 1,
-      "query": "oneplay",
-      "news_title": "Monyová ovládla festival Serial Killer",
-      "news_url": "https://www.novinky.cz/clanek/kultura-tv-streaming-serial-monyova-ovladl-festival-serial-killer-40540893",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS0ysFMf1S0kZblZ8Tnjz9-t6l2kni7hBDQRnjln0hfYsPhuFf9dT8_c362O0",
-      "traffic": "2000++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=oneplay&geo=CZ"
+      "query": "champions league",
+      "news_title": "Ramos rozhodl o obratu PSG v Barceloně",
+      "news_url": "https://www.bbc.com/sport/football/live/c1edv126d27t",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBwBXTrYRydlugsfDldoGDOUGA8Q3iEpxNypzxgPLaCffGVk60sA5A39_jKnI",
+      "traffic": "500++ hledání",
+      "source": "BBC",
+      "explore_url": "https://trends.google.cz/trends/explore?q=champions league&geo=CZ"
     },
     {
       "rank": 2,
-      "query": "liga mistrů",
-      "news_title": "Barcelona inkasovala, bitva gigantů srovnána. Český brankář stále neprůstřelný.",
-      "news_url": "https://www.sport.cz/clanek/fotbal-liga-mistru-fotbalova-liga-mistru-nabizi-stret-gigantu-v-akci-bude-i-cesky-reprezentacni-brankar-5306681",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvCv_gZUBY-uV_tAwJQiNrd5Qo8cJHpbLrrBSgGNPGZqxdVb47cC0GiErkmP0",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=liga mistrů&geo=CZ"
+      "query": "psg",
+      "news_title": "FC Barcelona - PSG: přímý přenos (LM 2025/2026)",
+      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/fc-barcelone-psg-live/685519",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiheylP1MRtYa3wphbaN5eQEFKGSBMP57wP113MFBhfb-tP_hZ7YeO8I4Eglc",
+      "traffic": "500++ hledání",
+      "source": "L'Équipe",
+      "explore_url": "https://trends.google.cz/trends/explore?q=psg&geo=CZ"
     },
     {
       "rank": 3,
+      "query": "liga mistrů",
+      "news_title": "Slavia propadla s finalistou Ligy mistrů. Tohle v plánu neměla.",
+      "news_url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-bazliva-slavia-s-finalistou-ligy-mistru-propadla-tohle-v-planu-nemela-287448",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH-pRyx9DObN8jTg2IMHrUobuiULVTnQaeqVIfS0mNzQbWPqD7l2IvIRiHPMc",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=liga mistrů&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "delta",
-      "news_title": "Delta létá z New Yorku do Porta: ideální spojení",
+      "news_title": "Delta láká na přímé lety z New Yorku do Porta",
       "news_url": "https://news.delta.com/delta-uncorks-perfect-pairing-new-york-porto-portugal",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiJEJyP5L_X1yNWk32URWJCicdk9ktsiMioCz4JOoDX6yZp0ikRj6vuGSNj1g",
       "traffic": "200++ hledání",
@@ -32,9 +42,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=delta&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "query": "policie",
-      "news_title": "V Mnichově vybuchly bomby a hořel dům, policie zasahuje",
+      "news_title": "Výbuchy a požár v Mnichově: Policie zasahuje",
       "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-policie-v-mnichove-provadi-velky-zasah-media-pisi-o-strelbe-a-explozich-40541381",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv2ySzVnC-RCGw-y154IMMJehDtp2HbPRsaMZddxgnfcuQfIIEtuzWj9T3xS0",
       "traffic": "200++ hledání",
@@ -42,9 +52,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=policie&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "stan",
-      "news_title": "Okamura Rakušanovi: Jste český Don Corleone. Ministr: A vy srab a oslík.",
+      "news_title": "Okamura nazval Rakušana českým Donem Corleonem, ministr ho označil za sraba a oslíka.",
       "news_url": "https://www.stream.cz/cnn-prima-news/jste-cesky-don-corleone-vpalil-okamura-rakusanovi-a-vy-srab-a-oslik-reagoval-ministr-65366774",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF5PoAR0EFELtKijU8xL6apB_cZHL59ukuwxm7zdj9mNmOERyiRFNHYz4c0Aw",
       "traffic": "200++ hledání",
@@ -52,21 +62,11 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=stan&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "psg",
-      "news_title": "FC Barcelona - PSG v Lize mistrů živě",
-      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/fc-barcelone-psg-live/685519",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN21JziYZ49KRUyuaJs8ECJZ43jXPGNT9U70pUhUiDIoWabsN0FC-eIOj7iHc",
-      "traffic": "200++ hledání",
-      "source": "L'Équipe",
-      "explore_url": "https://trends.google.cz/trends/explore?q=psg&geo=CZ"
-    },
-    {
       "rank": 7,
       "query": "villarreal – juventus",
-      "news_title": "Villarreal vs Juventus: statistiky a vzájemné zápasy v Lize mistrů",
+      "news_title": "Pozdní gól Veigy zachránil pro Villarreal remízu 2:2 s Juventusem",
       "news_url": "https://www.bbc.com/sport/football/live/cdjzn0p9xjnt",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5a1Zz7IxriwsdzlgwyAlK5sv7eDWbj2Dw2m4oK_DI1rOLIrDKrXcL82ehIgA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDfnClFvr871-60E35hc_K_OFcivZwpU3BjUg95qbWZWCC6zm3WYceFptvT7g",
       "traffic": "200++ hledání",
       "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=villarreal – juventus&geo=CZ"
@@ -74,11 +74,11 @@
     {
       "rank": 8,
       "query": "al-zawraa – al nassr",
-      "news_title": "Al-Nassr přijel do Bagdádu bez Ronalda. Trenér vysvětluje jeho absenci.",
-      "news_url": "https://www.iraqinews.com/iraq/al-nassr-al-zawraa-clash-ronaldo-absence/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVGm2TMzROkwd_OjLBqbsL-AwJzCmMulU39OtNQgJlrGfwc35HOoyTCr5KDk",
+      "news_title": "Ronaldo v akci? Al-Nassr proti Al-Zawraa v Lize mistrů AFC",
+      "news_url": "https://timesofindia.indiatimes.com/sports/saudi-football/news/will-cristiano-ronaldo-feature-tonight-as-al-nassr-take-on-al-zawraa-in-afc-champions-league/articleshow/124261643.cms",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-8JH3krtZc4MHMp3Fz9knogC-cVilM6jsZKUWSBsjjVtQXf92we7id7QgRg",
       "traffic": "200++ hledání",
-      "source": "Iraqi News",
+      "source": "Times of India",
       "explore_url": "https://trends.google.cz/trends/explore?q=al-zawraa – al nassr&geo=CZ"
     }
   ]
