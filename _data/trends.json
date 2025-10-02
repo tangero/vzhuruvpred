@@ -1,14 +1,14 @@
 {
-  "updated": "2025-10-02T06:36:46.120503",
+  "updated": "2025-10-02T09:26:23.298278",
   "trends": [
     {
       "rank": 1,
       "query": "byd",
-      "news_title": "Buffett prodal podíl v čínské BYD. Investice splnila cíl.",
-      "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-parket-buffett-vycouval-z-cinske-dalnice-investice-v-byd-splnila-misi-287280",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlZt_nswLv-vEmAaVqwDtd8AABed4Bt3mVxd3yY3CRFnXNcH1LAcGQe5mWmYM",
+      "news_title": "Prodeje BYD poprvé v roce 2025 klesly, obavy ze zpomalení sílí",
+      "news_url": "https://www.cnbc.com/2025/10/02/byd-monthly-sales-tumble-for-the-first-time-in-2025-reinforcing-slowdown-concerns.html",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQysiJgzhAsPO8dedyvX3nhAqqtkYaD2Hz_RoaOr07EC38LtHKHw39aPYTdE3I",
       "traffic": "1000++ hledání",
-      "source": "Seznam Zprávy",
+      "source": "CNBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=byd&geo=CZ"
     },
     {
@@ -23,16 +23,26 @@
     },
     {
       "rank": 3,
-      "query": "psg",
-      "news_title": "FC Barcelona - PSG v Lize mistrů 2025/2026 ONLINE",
-      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/fc-barcelone-paris-sg-live/685519",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiheylP1MRtYa3wphbaN5eQEFKGSBMP57wP113MFBhfb-tP_hZ7YeO8I4Eglc",
+      "query": "champions league",
+      "news_title": "Monaco vs Man City: Kdo postoupí do čtvrtfinále Ligy mistrů?",
+      "news_url": "https://www.uefa.com/uefachampionsleague/match/2045934--monaco-vs-man-city/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXLiszaONt8b5rx1u0V6fR3HJ1XVZLW43lpG_1Gt--_qrP1gdwB7EpSD12DeI",
       "traffic": "500++ hledání",
-      "source": "L'Équipe",
-      "explore_url": "https://trends.google.cz/trends/explore?q=psg&geo=CZ"
+      "source": "UEFA.com",
+      "explore_url": "https://trends.google.cz/trends/explore?q=champions league&geo=CZ"
     },
     {
       "rank": 4,
+      "query": "liga mistrů",
+      "news_title": "PSG srazilo Barcelonu gólem v závěru, Kovář vychytal bod proti Leverkusenu",
+      "news_url": "https://www.idnes.cz/fotbal/pohary/liga-mistru-2-kolo-arsenal-barcelona-paris-st-germain.A251001_155804_fot_pohary_min",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg5CNNOiu0KxhQV45Ch4xT0L55vtw2357e-h2-I2kOEtlDuUE1LUN-F_HjWXE",
+      "traffic": "200++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=liga mistrů&geo=CZ"
+    },
+    {
+      "rank": 5,
       "query": "bvb – bilbao",
       "news_title": "Borussia Dortmund porazila Athletic Club 4:1",
       "news_url": "https://www.bbc.com/sport/football/live/c784vgq71eet",
@@ -42,23 +52,13 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=bvb – bilbao&geo=CZ"
     },
     {
-      "rank": 5,
-      "query": "policie",
-      "news_title": "Výbuchy a požár v Mnichově: Policie zasahuje",
-      "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-policie-v-mnichove-provadi-velky-zasah-media-pisi-o-strelbe-a-explozich-40541381",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv2ySzVnC-RCGw-y154IMMJehDtp2HbPRsaMZddxgnfcuQfIIEtuzWj9T3xS0",
-      "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=policie&geo=CZ"
-    },
-    {
       "rank": 6,
       "query": "delta",
-      "news_title": "Dvě letadla Delta se srazily na letišti LaGuardia v New Yorku",
-      "news_url": "https://www.dailymail.co.uk/news/article-15154603/delta-planes-collide-laguardia-new-york-airport.html",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWp3AhkUx70GBPYM0CKiapxsjb82zpquKVc8iGHQNq6zAbxwtKq9I1hBeF500",
+      "news_title": "Dvě letadla se srazila na letišti LaGuardia, křídlo prorazilo kokpit",
+      "news_url": "https://www.cnn.com/2025/10/02/us/lga-regional-jets-collide",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDdSuG7vs1keQgUckUbd0lqbSCSWgeyPlsDvtZmGYmievbsYV5niX3z6_Ou1Q",
       "traffic": "200++ hledání",
-      "source": "Daily Mail",
+      "source": "CNN",
       "explore_url": "https://trends.google.cz/trends/explore?q=delta&geo=CZ"
     },
     {
@@ -73,13 +73,13 @@
     },
     {
       "rank": 8,
-      "query": "villarreal – juventus",
-      "news_title": "Villarreal vs Juventus 2:2. Pozdní gól Veigy připravil Juventus o výhru.",
-      "news_url": "https://www.bbc.com/sport/football/live/cdjzn0p9xjnt",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5a1Zz7IxriwsdzlgwyAlK5sv7eDWbj2Dw2m4oK_DI1rOLIrDKrXcL82ehIgA",
-      "traffic": "200++ hledání",
+      "query": "greta thunberg",
+      "news_title": "Izraelské lodě zachytily flotilu plující do Gazy",
+      "news_url": "https://www.bbc.com/news/articles/c0lk292jww4o",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeYcWbfI8sRdAK8PyyAzBwTd502xErOyGQ2Yn-9S_7n1gmLUeKa7j6sHoIX7Y",
+      "traffic": "100++ hledání",
       "source": "BBC",
-      "explore_url": "https://trends.google.cz/trends/explore?q=villarreal – juventus&geo=CZ"
+      "explore_url": "https://trends.google.cz/trends/explore?q=greta thunberg&geo=CZ"
     }
   ]
 }
