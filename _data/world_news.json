@@ -1,82 +1,148 @@
 {
-  "last_updated": "2025-10-01T23:15:49",
+  "last_updated": "2025-10-02T01:19:09",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Futures na akcie klesají kvůli hrozícímu zastavení činnosti vlády: Živé aktualizace",
-      "original_title": "Stock futures are lower as government shutdown looms: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/09/30/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205758-1759244566497-Traders-Photo-20250930-KK-PRESS-024.jpg?v=1759244708&w=1920&h=1080",
+      "title": "Americké futures klesají s blížícím se výpadkem vládních služeb ve Washingtonu: Přehled trhů",
+      "original_title": "US Futures Slip as Washington Approaches Shutdown: Markets Wrap - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-30/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU9Ekz_.FHGU/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-01T02:16:00Z",
+      "description": "Futures na indexy S&amp;P 500 a Nasdaq 100 klesaly, jelikož se americká vláda blížila k odstávce poté, co provizorní rozpočtový návrh na odvrácení uzavření neprošel."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Scoop: Schumer mobilizuje demokraty, protože se blíží termín uzavření vlády",
+      "original_title": "Scoop: Schumer rallies Democrats as shutdown deadline looms - Axios",
+      "url": "https://www.axios.com/2025/09/30/schumer-democrats-senate-shutdown-rally",
+      "urlToImage": "https://images.axios.com/u00nTz7e8PLQ5YQxF0UpKYuF0cM=/0x34:4000x2284/1366x768/2025/09/30/1759266912826.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-10-01T00:49:22Z",
+      "description": "Schůzka demokratů v Senátu byla podle zdrojů motivující, zákonodárci se navzájem povzbuzovali, aby se postavili proti administrativě."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bílý dům stáhl nominaci E.J. Antoniho do čela Úřadu pro statistiku práce",
+      "original_title": "White House withdraws E.J. Antoni's nomination to run the Bureau of Labor Statistics - NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/ej-antoni-nomination-withdraw-trump-bls-rcna234833",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250813-EJ-Antoni-donald-trump-truth-social-vl-1032a-0bd469.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-01T00:37:00Z",
+      "description": "Bílý dům v úterý stáhl nominaci E.J."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zde si můžete předobjednat všechna nová zařízení Amazonu s Alexou a kdy dorazí",
+      "original_title": "Here’s where to preorder all of Amazon’s new Alexa devices and when they arrive - The Verge",
+      "url": "https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/2025-Echo-Studio-Press-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "source": "The Verge",
+      "publishedAt": "2025-10-01T00:15:00Z",
+      "description": "Na podzimní akci společnosti Amazon představili nové reproduktory Echo, zabezpečovací zařízení Ring, čtečky Kindle a další gadgety s Alexou, z nichž mnohé jsou již k dispozici k předobjednání."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Národní parky zůstanou při výpadku většinou otevřené",
+      "original_title": "National parks will remain mostly open in shutdown - Politico",
+      "url": "https://www.politico.com/news/2025/09/30/national-parks-will-remain-mostly-open-in-shutdown-main-00589074",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F22%2Fab%2Fa5af0c514b4fb7d41a381a202431%2Fimg-1791.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-01T00:01:13Z",
+      "description": "Trumpova administrativa chce použít poplatky za parky na financování minimálních počtů zaměstnanců."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie Niky posilují díky dobrým výsledkům, obrat společnosti pod vedením generální ředitelky Hillové zrychluje",
+      "original_title": "Nike shares jump on strong earnings, signs its turnaround is racing ahead under CEO Hill - CNBC",
+      "url": "https://www.cnbc.com/2025/09/30/nike-shares-jump-on-strong-earnings-signs-its-turnaround-is-racing-ahead-under-ceo-hill.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130714-1744382971413-108130714-1744374144836-gettyimages-2208978102-AFP_39XL7NP.jpg?v=1747858023&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-10-01T00:05:00Z",
-      "description": "Akcie obvykle předchozí odstávky vlády přežily bez úhony, tentokrát však může být situace riskantnější kvůli řadě ekonomických faktorů."
+      "publishedAt": "2025-09-30T23:57:01Z",
+      "description": "Akcie nejnovější pozice fondu přidaly více než 4 % v after-hodinovém obchodování v úterý."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "S rostoucím rizikem odstávky vlády Senát neschválil ani jeden ze dvou návrhů rozpočtu",
-      "original_title": "As 2 spending bills fail in Senate, chances to avoid a government shutdown fade - NPR",
-      "url": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5564x3130+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2F17%2F2638f02f4f5ea47676d2d6f7d04b%2Fgettyimages-2238385222.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-30T23:20:56Z",
-      "description": "Ve sněmovně ve středu neprošly dva oddělené stranické návrhy rozpočtu. Vláda skončí, pokud nedojde k poslednímu minutě k průlomu."
+      "title": "Přeživší z útoku v kostele v Michiganu říká, že se podívala střelci, který zabil jejího otce, do očí: \"Hned jsem mu tam odpustila",
+      "original_title": "Michigan church shooting survivor says she looked gunman who killed her father in the eyes: \"I forgave him right there\" - CBS News",
+      "url": "https://www.cbsnews.com/news/michigan-church-shooting-survivor-letter/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/28/48ebf823-82de-42fe-9957-9102dddac20d/thumbnail/1200x630/b616b5bf78abd705bc634f0b7c43ac27/gettyimages-2237614878.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-09-30T22:53:00Z",
+      "description": "V dopise zveřejněném v pondělí žena vylíčila události střelby v kostele Církve Ježíše Krista Svatých posledních dnů v Grand Blanc."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpův CDC vrací název nemoci „monkeypox“ navzdory rasovým konotacím",
-      "original_title": "Trump’s CDC brings back “monkeypox” disease name despite racist connotation - Ars Technica",
-      "url": "https://arstechnica.com/health/2025/09/trumps-cdc-brings-back-monkeypox-disease-name-despite-racist-connotation/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-151054421-e1653346027144-1152x648.jpeg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-30T22:29:20Z",
-      "description": "Název byl nejen urážlivý, ale také nepřesný."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Federální agenti před newyorským imigračním soudem napadli novináře, jednoho zranili tak, že skončil v nemocnici",
-      "original_title": "Federal agents grab and shove journalists outside NYC immigration court, sending one to hospital - AP News",
-      "url": "https://apnews.com/article/nyc-immigration-journalists-shoving-manhattan-84d95f26278aa406eed37d72ed213452",
-      "urlToImage": "https://dims.apnews.com/dims4/default/67d7fd8/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F80%2F52%2F2c2c5acb3d4ad75e772d91810a1e%2Faf2d35dfd9bd4b3a85536603eb72ced3",
-      "source": "Associated Press",
-      "publishedAt": "2025-09-30T22:17:00Z",
-      "description": "Federální agenti popadli a strkali do novinářů na chodbě u newyorského imigračního soudu, jednoho poslali do nemocnice. Středeční incident v budově č. 26 na Federal Plaza na Manhattanu je nejnovějš..."
+      "title": "Bill Burr obhajuje vystoupení na kontroverzním komediálním festivalu v Rijádu: „Jsou úplně jako my“",
+      "original_title": "Bill Burr Defends Performing at Controversial Riyadh Comedy Festival: “They’re Just Like Us” - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/news/general-news/bill-burr-riyadh-comedy-festival-controversy-1236389190/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/Bill-Burr-getty-H-2025.png?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-09-30T22:31:14Z",
+      "description": "Herečka-komedička popisuje svou zkušenost z akce: „Rozhodně jedna z tří nejlepších zkušeností, jakou jsem kdy zažil... Myslím, že to povede k mnoha pozitivním věcem.“"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Trumpova administrativa nezákonně sledovala propalestinské demonstranty, rozhodl soudce",
+      "title": "Trumpova administrativa nezákonně cílila na propalestinské demonstranty, rozhodl soudce",
       "original_title": "Trump administration illegally targeted pro-Palestinian protesters, judge rules - The Washington Post",
       "url": "https://www.washingtonpost.com/education/2025/09/30/trump-administration-pro-palestinian-student-deportations-trial/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BNZF2TPUXTHCHDB5EEELP4FSM.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-30T22:06:58Z",
-      "description": "Podle rozsudku představovalo zadržování a deportace aktivistů bez občanství z počátku roku protiústavní porušení Prvního dodatku."
+      "description": "Snaha o zadržení a deportaci aktivistů-cizinců byla protiústavním porušením Prvního dodatku, uvádí rozhodnutí soudu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Meta Ray-Ban Display je nyní v prodeji, ale pouze ve vybraných prodejnách v USA",
+      "title": "Vědci přeměnili lidské kožní buňky na vajíčka, ty jsou však zatím nepoužitelné",
+      "original_title": "Researchers turn human skin cells into eggs — but not yet usable ones - AP News",
+      "url": "https://apnews.com/article/infertility-eggs-sperm-skin-stem-cells-3b18eeaf47f1e46c7cf02cc3ddab12b8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2b02f9d/2147483647/strip/true/crop/3094x1740+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fc6%2Fa3b0059f48dafd87e1312ab28bf3%2Ff277df506faa4bbd861e009a5d9c0768",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-30T21:47:00Z",
+      "description": "Oregonští vědci použili lidské kožní buňky k vytvoření oplodnitelných vajíček, což je krok k vývoji laboratorně pěstovaných vajíček nebo spermií, které by jednoho dne mohly pomoci s početím. Experi..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Vědci objevili u obří exoplanety bohatý na uhlík disk, ve kterém se formují měsíce",
+      "original_title": "Researchers find a carbon-rich moon-forming disk around giant exoplanet - Ars Technica",
+      "url": "https://arstechnica.com/science/2025/09/researchers-find-a-carbon-rich-moon-forming-disk-around-giant-exoplanet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/image-1152x648.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-09-30T21:14:15Z",
+      "description": "Mnoho molekul uhlíku, ale málo známek vody v disku super-Jupitera."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Meta Ray-Ban Display je nyní v prodeji, ale pouze ve vybraných amerických prodejnách",
       "original_title": "Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores - UploadVR",
       "url": "https://www.uploadvr.com/meta-ray-ban-display-now-available-in-us-stores/",
       "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/09/Meta-Ray-Ban-Display-and-Meta-Neural-Band-1.png",
       "source": "UploadVR",
       "publishedAt": "2025-09-30T21:11:15Z",
-      "description": "Meta Ray-Ban Display je nyní k prodeji, výhradně ve vybraných prodejnách v USA."
+      "description": "Meta Ray-Ban Display je nyní k dostání exkluzivně ve vybraných prodejnách v USA."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Nicole Kidmanová podala žádost o rozvod s Keithem Urbanem",
-      "original_title": "Nicole Kidman files for divorce from Keith Urban - BBC",
-      "url": "https://www.bbc.com/news/articles/cdjz7r8jk3ko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e35d/live/18a45a70-9d89-11f0-b732-8db235f47798.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-30T20:55:57Z",
-      "description": "Manželský pár z Hollywoodu má dvě děti a je sezdán od roku 2006."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Reading Rainbow se vrací, novým hostitelem bude virální knihovník Mychal Threets",
+      "original_title": "'Reading Rainbow' to return, with viral librarian Mychal Threets as its host - NBC News",
+      "url": "https://www.nbcnews.com/news/nbcblk/reading-rainbow-reboot-viral-librarian-mychal-threets-host-rcna234777",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/240929-Mychal-Threets-ew-316p-4b4aad.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-09-30T21:06:33Z",
+      "description": "Mladí čtenáři mohou opět létat jako motýli po obloze."
     },
     {
       "flag": "🌍",
@@ -87,29 +153,7 @@
       "urlToImage": "https://images.axios.com/Fp8949BGx_Urh83XAB9B2Ljfhhw=/0x146:7174x4181/1366x768/2025/09/30/1759260002756.jpeg",
       "source": "Axios",
       "publishedAt": "2025-09-30T19:26:16Z",
-      "description": "Trump uvedl, že dává Hamásu tři až čtyři dny na odpověď."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Rodina a přátelé obětí útoku na kostel v Grand Blanc spustili online sbírky",
-      "original_title": "Family, friends of Grand Blanc church attack victims launch online fundraisers - The Detroit News",
-      "url": "https://www.detroitnews.com/story/news/local/michigan/2025/09/30/family-friends-grand-blanc-church-attack-victims-launch-online-fundraisers/86436711007/",
-      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/09/30/PDTN/86437024007-phelps.jpg?crop=719,404,x0,y0&width=719&height=404&format=pjpg&auto=webp",
-      "source": "The Detroit News",
-      "publishedAt": "2025-09-30T18:44:47Z",
-      "description": "Stránky byly ověřeny v úterý."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "SpaceX si pro poslední let Starship v tomto roce schovává pár triků v rukávu",
-      "original_title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year - Ars Technica",
-      "url": "https://arstechnica.com/space/2025/09/spacex-has-a-few-tricks-up-its-sleeve-for-the-last-starship-flight-of-the-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ship38staticfire-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-30T18:36:17Z",
-      "description": "SpaceX znovu použije urychlovač Super Heavy s 24 již letěnými motory Raptor."
+      "description": "Trump řekl, že Hamásu dává tři až čtyři dny na odpověď."
     },
     {
       "flag": "🇺🇸",
@@ -120,7 +164,7 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23348793855560.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-09-30T18:00:18Z",
-      "description": "Prezident Donald Trump v úterý oznámil mnohostranné úsilí o snížení cen léků ve Spojených státech"
+      "description": "Prezident Trump oznámil plán na snížení cen léků, včetně nového webu TrumpRx"
     },
     {
       "flag": "🇺🇸",
@@ -131,7 +175,7 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HRHI4GJEGUSPUBZDWWREYYYBEU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-30T17:19:10Z",
-      "description": "Dva týdny poté, co režim naznačil záměr zakázat optický internet, jsou přerušena téměř všechna spojení s vnějším světem, uzemněna letadla a zavřeny podniky."
+      "description": "Dva týdny poté, co režim naznačil plány na zákaz optického internetu, jsou přerušeny téměř všechny spoje s vnějším světem, uzemněna letadla a uzavřeny firmy."
     },
     {
       "flag": "🌍",
@@ -142,139 +186,106 @@
       "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
       "source": "Ftc.gov",
       "publishedAt": "2025-09-30T17:12:32Z",
-      "description": "FTC dnes zažalovala Zillow a Redfin za nezákonnou dohodu, která eliminuje Redfin jako konkurenta na trhu s inzerci pronájmu bytů na internetu"
+      "description": "FTC dnes zažalovala Zillow a Redfin kvůli nezákonné dohodě, která eliminuje Redfin jako konkurenta na trhu s inzerci pronájmů bytů na internetu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Amazon představuje nová zařízení Echo poháněná svou umělou inteligencí Alexa+",
-      "original_title": "Amazon unveils new Echo devices, powered by its AI, Alexa+ - TechCrunch",
-      "url": "https://techcrunch.com/2025/09/30/amazon-unveils-new-echo-devices-powered-by-its-al-alexa/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resize=1200,675",
-      "source": "TechCrunch",
-      "publishedAt": "2025-09-30T15:55:07Z",
-      "description": "Amazon představuje nová zařízení Dot Max, Echo Studio, Echo Show 8 a Echo Show 11 poháněná umělou inteligencí."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Kontrola faktů: Trump v souvislosti s vládním shutdownem nepravdivě tvrdí, že demokraté chtějí poskytovat „ilegálům“ bezplatnou zdravotní péči",
-      "original_title": "Fact check: Trump falsely claims Democrats want to give free health care to ‘illegal aliens’ in government shutdown battle - CNN",
-      "url": "https://www.cnn.com/2025/09/30/politics/fact-check-trump-free-health-care-immigration",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237881233.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-09-30T15:29:05Z",
-      "description": "Během jednání o vládních výdajích obviňují prezident Donald Trump a další představitelé Republikánské strany demokraty, že požadují bezplatnou zdravotní péči pro „nelegální migranty“ výměnou za pod..."
+      "title": "Daniel Ek ze Spotify oznamuje, že se vzdá postu výkonného ředitele",
+      "original_title": "Spotify's Daniel Ek announces that he'll step aside as CEO - NPR",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5558012/spotifys-daniel-ek-announces-that-hell-step-aside-as-ceo",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2811+0+234/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F4d%2F302a013f4336be915a3fe3240e40%2Fgettyimages-2184632198.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-30T16:33:07Z",
+      "description": "Zakladatel největší hudební streamovací služby na světě zůstane ve firmě jako výkonný předseda, nahradí ho dva spolupředsedové"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Záhadný objekt vstupující do sluneční soustavy je mnohem větší, než se myslelo. Může jít o ‚mimozemskou technologii‘",
-      "original_title": "Mysterious object entering solar system much larger than previously thought, could be ‘alien technology’ - AL.com",
-      "url": "https://www.al.com/news/2025/09/mysterious-object-entering-solar-system-much-larger-than-previously-thought-could-be-alien-technology.html",
-      "urlToImage": "https://www.al.com/resizer/v2/KPWXAFAWVFDQPP4PGMO4DKTQPY.jpg?auth=5c6054eed17c6cfb3ee7f5056851e2a8bd3e9f2a741ea3003ff7e1915f5f44c2&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-09-30T15:17:00Z",
-      "description": "Objekt nepředstavuje pro Zemi žádné nebezpečí, přiblíží se však k Jupiteru i Venuši."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Zakladatelka Franku Charlie Javice odsouzena za podvod na JPMorgan",
-      "original_title": "Frank founder Charlie Javice sentenced for JPMorgan fraud - BBC",
-      "url": "https://www.bbc.com/news/articles/c4gwj15djdxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4466/live/82b3bdf0-9e08-11f0-8750-d1ef73f551ff.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-09-30T15:14:52Z",
-      "description": "Podnikatel byl odsouzen k více než sedmi letům vězení za podvod na JPMorgan Chase."
+      "title": "Jak velká je kometa 3I/ATLAS? Podle nové studie je obrovská",
+      "original_title": "How big is 3I/ATLAS? New study suggests it's gigantic - Chron",
+      "url": "https://www.chron.com/news/space/article/interstellar-comet-3i-atlas-size-21074858.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/54/32/28493446/3/rawImage.jpg",
+      "source": "Chron.com",
+      "publishedAt": "2025-09-30T16:23:53Z",
+      "description": "Nové poznatky o mezihvězdném návštěvníkovi 3I/ATLAS naznačují, že je mnohem hmotnější, než se původně myslelo."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Amazon představuje novou řadu Fire TV s Alexou+, která vám rychle najde, co chcete sledovat – o společnosti Amazon",
-      "original_title": "Amazon announces new Fire TV lineup with Alexa+ to get you to what you want to watch, fast - about Amazon",
-      "url": "https://www.aboutamazon.com/news/devices/amazon-fire-tv-alexa-plus-fire-tv-stick",
-      "urlToImage": "https://assets.aboutamazon.com/dims4/default/5d7e8d6/2147483647/strip/true/crop/1600x800+0+6/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F03%2F87%2F70d4d17e43f383bbe5132dbd93b4%2Fringo-firetv-lineup-1600x900.jpg",
-      "source": "Aboutamazon.com",
-      "publishedAt": "2025-09-30T15:06:42Z",
-      "description": "Nová zařízení Fire TV jsou ještě rychlejší, chytřejší a navržená podle toho, jak televizi skutečně sledujete."
+      "title": "Amazon představuje barevný Kindle se stylusem a televizní klíček za 40 dolarů s podporou 4K videa",
+      "original_title": "Amazon Launches Color Kindle with Stylus, $40 TV Stick With 4K Video - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-30/amazon-devices-news-630-color-kindle-scribe-40-4k-fire-tv-stick-ring-blink",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkuRiIHOJ5A/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-30T14:51:30Z",
+      "description": "Společnost také představuje nové televizory a vylepšené produkty pro zabezpečení domácnosti od značek Ring a Blink."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Gersh nepodepíše umělou herečku Tilly Norwood: ‚Nejsme ta taková agentura‘",
-      "original_title": "Gersh Will Not Sign AI Actress Tilly Norwood: 'We're Not That Agency' - Variety",
-      "url": "https://variety.com/2025/film/news/gersh-ai-actress-tilly-norwood-representation-1236534829/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/09/tilly.png?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-09-30T15:00:00Z",
-      "description": "Prezidentka Gersh Leslie Siebertová označuje fenomén Tilly Norwood za „děsivý“ a říká: „my nebudeme tou agenturou“, která by umělou inteligenci zastupovala."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vědci vytvořili lidská vajíčka z kožních buněk a použili je k vytvoření embryí",
-      "original_title": "Scientists Made Human Eggs From Skin Cells and Used Them to Form Embryos - WIRED",
-      "url": "https://www.wired.com/story/scientists-made-human-eggs-from-skin-cells-and-used-them-to-make-embryos/",
-      "urlToImage": "https://media.wired.com/photos/68db187ef72c2584f926f0f7/191:100/w_1280,c_limit/oocyte.jpeg",
-      "source": "Wired",
-      "publishedAt": "2025-09-30T15:00:00Z",
-      "description": "Embrya nebyla použita k pokusu o vytvoření těhotenství, ale výzkumníci stojící za touto technikou tvrdí, že by jednou mohla pomoci řešit neplodnost."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Druhý zadržený zemřel po střelbě v zařízení ICE v Dallasu",
+      "title": "Druhý zadržený zemřel po střelbě v dallasém zařízení ICE",
       "original_title": "2nd detainee dies after Dallas ICE facility shooting - NBC News",
       "url": "https://www.nbcnews.com/news/us-news/2nd-detainee-dies-dallas-ice-facility-shooting-rcna234658",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250930-ice-dallas-rs-a32de8.jpg",
       "source": "NBC News",
       "publishedAt": "2025-09-30T13:07:00Z",
-      "description": "Miguel Ángel García-Hernández, zadržený, který byl postřelen v zařízení pro imigraci a celní správu v Dallasu, zemřel, uvedl mluvčí národní organizace LULAC."
+      "description": "Miguel Ángel García-Hernández, zadržený střelený v zařízení pro imigraci a celní správu v Dallasu, zemřel, uvedl mluvčí národní organizace LULAC."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jak mohou některé nosní spreje pomoci chránit před covidem",
+      "title": "Jak některé nosní spreje mohou pomoci chránit před covidem",
       "original_title": "How some nasal sprays may help protect you from covid - The Washington Post",
       "url": "https://www.washingtonpost.com/wellness/2025/09/30/covid-nasal-spray-coronavirus/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ZWYZL3C4QEUJIVI7YTERG2P34.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-09-30T10:01:12Z",
-      "description": "Jeden sprej blokuje bakterie a viry před proniknutím do nosní sliznice, čímž předchází infekci."
+      "description": "Jeden sprej funguje tak, že blokuje bakterie a viry před dosažením nosní sliznice, čímž předchází infekci."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "NASA právě vypustila špionážní satelit pro atmosféru: Observatoř Carruthers sleduje únik zemského vodíku, zatímco vědci pátrají po cizích vodních světech",
-      "original_title": "\"NASA Just Launched Atmosphere Spy Satellite\": Carruthers Observatory Watches Earth's Hydrogen Escape While Scientists Hunt For Alien Water Worlds - Rude Baguette",
-      "url": "https://www.rudebaguette.com/en/2025/09/nasa-just-launched-atmosphere-spy-satellite-carruthers-observatory-watches-earths-hydrogen-escape-while-scientists-hunt-for-alien-water-worlds/",
-      "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/nasa-reveals-earths-mysterious-halo-that-shatters-everything-you-thought-you-knew-about-our-planets-secrets.jpg",
-      "source": "Rudebaguette.com",
-      "publishedAt": "2025-09-29T19:52:43Z",
-      "description": "Nejnovější mise NASA slibuje prohloubit naše porozumění zemské atmosféře. Nedávno vypuštěná Carruthersova observatoř pro geokoronu má studovat"
+      "title": "SpaceX cílí na 13. října další start megarakety Starship",
+      "original_title": "SpaceX targeting Oct. 13 for next Starship megarocket launch - Space",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-oct-13-for-next-starship-megarocket-launch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/y4dKGS4fjmZzhVshYrKzpB-2560-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-09-30T08:29:52Z",
+      "description": "Let č. 11 bude posledním startem současné iterace Starshipu „Verze 2“."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Většina lidí má před srdeční příhodou alespoň jeden rizikový faktor",
-      "original_title": "Most People Have At Least One Risk Factor Before a Cardiac Event - Healthline",
-      "url": "https://www.healthline.com/health-news/cardiovascular-disease-most-people-have-modifiable-risk-factors",
-      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2025/09/seniors-walking-together-1200-628-facebook.jpg",
-      "source": "Healthline",
-      "publishedAt": "2025-09-29T19:06:12Z",
-      "description": "Nová studie zjistila, že většina lidí, kteří prodělali závažnou kardiovaskulární příhodu, měla ovlivnitelné rizikové faktory, což odporuje tvrzení, že srdeční onemocnění často udeří bez varování. V..."
+      "title": "Studie zjistila, že 99 % případů infarktu a mrtvice souvisí s \"ovlivnitelnými\" riziky",
+      "original_title": "Study finds 99% heart attack, stroke cases linked to 'modifiable' risks - upi.com",
+      "url": "https://www.upi.com",
+      "urlToImage": "//www.upi.com/img/upi-fb.png",
+      "source": "UPI.com",
+      "publishedAt": "2025-09-30T02:49:15Z",
+      "description": "UPI přináší nejnovější titulky z celého světa: Hlavní zprávy, Zábava, Zdraví, Byznys, Věda a Sportovní novinky - United Press International"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trpíte zimní depresí? Začněte se světelnou terapií včas, pomůže.",
+      "title": "Trpíte zimní depresí? Začněte se světelnou terapií právě teď",
       "original_title": "Prone to winter depression? Starting light therapy now can help - NPR",
       "url": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg",
       "source": "NPR",
       "publishedAt": "2025-09-29T09:00:00Z",
-      "description": "S ubývajícím denním světlem může u lidí docházet ke zhoršování nálady. Miliony dospělých v USA trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to již od podz..."
+      "description": "S ubývajícím denním světlem může lidem klesat nálada. Miliony dospělých v USA trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Diabetes insipidus: Opomíjená forma cukrovky s neobvyklými příznaky konečně dostala svůj název",
+      "original_title": "Neglected form of diabetes with unusual symptoms finally gets its own name - NPR",
+      "url": "https://www.npr.org/sections/goats-and-soda/2025/09/29/g-s1-90669/neglected-form-of-diabetes-with-unusual-symptoms-finally-gets-its-own-name",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fae%2Fc6e56ac045d1a06bea8b0ec0e94b%2Fgettyimages-825835842.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-29T09:00:00Z",
+      "description": "Neobvyklý typ cukrovky spojený s podvýživou má nyní jméno. Vědci žádají o širší uznání nově klasifikovaného diabetu 5. typu, aby podnítili lepší léčbu."
     }
   ]
 }
