@@ -1,93 +1,214 @@
 {
-  "last_updated": "2025-10-02T14:17:35",
+  "last_updated": "2025-10-02T15:18:39",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vláda USA začíná s výlukou, zákonodárci se nedohodli na rozpočtu",
-      "original_title": "Government shutdown begins as lawmakers fail to reach deal to extend funding - CBS News",
-      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-congress-senate-vote/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/30/f334d191-6ac0-408f-a859-65c0b8f2c122/thumbnail/1200x630/2aa3994482d4b82ac7d130840bbdc1da/screenshot-2025-09-30-at-11-05-27-am.png",
+      "title": "S páteční zprávou o pracovních místech pod otazníkem: ADP uvádí, že soukromé mzdy klesly v září o 32 000",
+      "original_title": "With Friday's jobs report in question, ADP shows private payrolls fell by 32,000 in September - CBS News",
+      "url": "https://www.cbsnews.com/news/adp-report-private-payrolls-32000-decline-september-bls-jobs-report/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/01/ed9090eb-af3c-4418-b908-14da1aba5f6a/thumbnail/1200x630g6/7aa8a2df415021486d7a9376b9981c28/gettyimages-1395278718.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-10-01T11:57:51Z",
-      "description": "První odstávka vlády za téměř sedm let začala o půlnoci poté, co zákonodárci nedosáhli dohody o prodloužení financování."
+      "publishedAt": "2025-10-01T15:55:50Z",
+      "description": "Měsíční zpráva uvádí, že soukromí zaměstnavatelé minulý měsíc zrušili 32 000 pracovních míst, což je další známka toho, že trh práce čelí novým výzvám."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Peloton uvádí novou éru s modernizovaným hardwarem a umělou inteligencí",
-      "original_title": "Peloton ushers in a new era with revamped hardware and AI - The Verge",
-      "url": "https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/pelotonbikepluscross.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-01T11:00:00Z",
-      "description": "Peloton právě oznámil kompletní obnovu produktové řady, přidává otočné displeje, vylepšené specifikace a umělou inteligenci Peloton IQ do každého modelu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Demokraté se vzácnou jednotou pustili do boje o zavření vlády proti Trumpovi",
-      "original_title": "Democrats embrace a shutdown fight in a rare moment of unity against Trump - AP News",
-      "url": "https://apnews.com/article/government-shutdown-democrats-republicans-trump-fight-c4949dace66c18d6099b5e23fd98b049",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d9a5d1c/2147483647/strip/true/crop/3936x2214+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F6a%2Fce7e4b17050c639bcce736f4b636%2F69aef028b13840eda030d389f6b4cb12",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-01T10:34:00Z",
-      "description": "Demokraté souhlasí, že je čas bojovat. Demokratičtí lídři napříč politickým spektrem krčí rameny nad riziky a přijímají uzavření vlády, které je podle nich potřeba k odražení prezidenta Donalda Tru..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dohoda Pfizeru o cenách léků s Trumpem zvyšuje tlak na další farmaceutické firmy",
-      "original_title": "Pfizer's drug pricing deal with Trump ratchets up pressure on other pharma companies - Axios",
-      "url": "https://www.axios.com/2025/10/01/pfizer-trump-deal-drug-companies",
-      "urlToImage": "https://images.axios.com/aJ_YYK7ULGpsFKzx-NMDiJOSP_M=/0x0:1920x1080/1366x768/2025/09/30/1759269351776.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-01T09:31:45Z",
-      "description": "Úterní oznámení zaskočilo průmysl nepřipravený."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nicole Kidman prý zná „tu druhou ženu“, která ukončila její manželství s Keithem Urbanem",
-      "original_title": "Nicole Kidman Knows ‘The Other Woman’ Who Ended Her Marriage With Keith Urban, Says Source - Yahoo",
-      "url": "https://www.mandatory.com/news/1667911-nicole-kidman-keith-urban-marriage-end-divorce-other-woman",
-      "urlToImage": "https://media.zenfs.com/en/mandatory_995/c273540ec508cd2d5b7b3f9a9c257f69",
-      "source": "Mandatory",
-      "publishedAt": "2025-10-01T06:49:00Z",
-      "description": "Manželství Nicole Kidmanové a Keitha Urbana je u konce. Herečka z filmu „Babygirl“ podala po 19 letech žádost o rozvod"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Medvědice 32 Chunková vítězkou Týdne tlustých medvědů 2025",
-      "original_title": "'32 Chunk' is 2025's 'Fat Bear Week' winner - NBC News",
-      "url": "https://www.nbcnews.com/news/animal-news/32-chunk-2025s-fat-bear-week-winner-rcna234849",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/250930-Brooks-Falls-Alaska-Katmai-National-Park-Bear-32-Chunk-ac-1133p-a54a79.jpg",
+      "title": "Bílý dům zmrazil 18 miliard dolarů pro newyorskou infrastrukturu",
+      "original_title": "White House freezes $18 billion in New York City infrastructure funding - NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/white-house-freezes-18-billion-new-york-city-infrastructure-funding-rcna234928",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251001-Russ-Vought-ch-1102-4428be.jpg",
       "source": "NBC News",
-      "publishedAt": "2025-10-01T06:39:00Z",
-      "description": "Z tuctu zůstal jen jeden: Jizvami posetý „32 Chunk“ se stal vítězem soutěže o nejtlustějšího medvěda na aljašské řece Brooks, oznámili v úterý pořadatelé"
+      "publishedAt": "2025-10-01T15:43:14Z",
+      "description": "Bílý dům pozastavuje miliardy dolarů pro newyorskou infrastrukturu, oznámil šéf rozpočtu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Cestující a řídící letového provozu mohou čelit narušení provozu při výpadku vládních služeb",
-      "original_title": "Travelers and air traffic controllers may face disruptions in a government shutdown - Axios",
-      "url": "https://www.axios.com/2025/09/30/government-shutdown-air-travel-disruptions",
-      "urlToImage": "https://images.axios.com/Orh6PsgwC4O0hQGfmLE2Klvt9Ks=/51x0:4040x2244/1366x768/2025/09/30/1759248823878.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-01T06:33:42Z",
-      "description": "Miliony cestujících by mohly zažít zpoždění letů a narušení provozu na letištích, pokud vláda zastaví činnost."
+      "title": "Keith Urban trapně odmítl chválu za manželství s Nicole Kidman před rozchodem",
+      "original_title": "Keith Urban Awkwardly Avoided Nicole Kidman Marriage Praise Before Breakup - E! Online",
+      "url": "https://www.eonline.com/news/1423254/keith-urban-avoided-nicole-kidman-marriage-praise-before-split",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250929/997a6edd-e263-48bb-a284-0c36ae733c2e_1759185632.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "source": "Eonline.com",
+      "publishedAt": "2025-10-01T15:13:00Z",
+      "description": "Dva měsíce předtím, než Nicole Kidmanová podala žádost o rozvod s Keithem Urbanem, countryový zpěvák jakoby odmítl chválu na jejich devatenáctileté manželství."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Bílý dům stahuje kontroverzního kandidáta na šéfa Úřadu pro statistiku práce",
-      "original_title": "White House withdraws controversial pick to lead Bureau of Labor Statistics - The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2025/09/30/white-house-withdraws-labor-nominee/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTVIBZOSILNCTXY7CLJG3YKVME_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-01T04:38:00Z",
-      "description": "Statistický úřad je bez šéfa od srpna, kdy Trump odvolal komisaře kvůli slabé zprávě o zaměstnanosti."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nejvyšší soud dovoluje člence rady Fedu Lise Cookové zůstat ve funkci do ústního jednání v lednu",
+      "original_title": "Supreme Court lets Fed Governor Lisa Cook keep job pending oral argument in January - CNBC",
+      "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190717-1757613262900-108190717-1756222781509-LisaCook.jpg?v=1759330133&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-01T14:52:51Z",
+      "description": "Prezident Donald Trump se pokusil odvolat guvernérku Federálního rezervního systému Lisu Cookovou kvůli údajnému podvodu s hypotékou u dvou domů."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Mnichovský Oktoberfest se znovu otevře po smrtelném požáru domu a bombové hrozbě",
+      "original_title": "Munich Oktoberfest to re-open after fatal house fire and bomb threat - BBC",
+      "url": "https://www.bbc.com/news/articles/c3rv2pv20rvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4acb/live/b7e46fd0-9ea1-11f0-b741-177e3e2c2fc7.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-01T14:45:35Z",
+      "description": "Roční pivní festival byl na několik hodin uzavřen kvůli možným souvislostem s explozí a požárem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Měsíc povědomí o rakovině prsu 2025 – Světová zdravotnická organizace (WHO)",
+      "original_title": "Breast Cancer Awareness Month 2025 - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/events/detail/2025/10/01/default-calendar/breast-cancer-awareness-month-2025",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/headquarters/initiatives/global-breast-cancer-initiative/gbci-2025-breast_cancer_month.tmb-1200v.jpg?sfvrsn=2d65dad4_1",
+      "source": "World Health Organization",
+      "publishedAt": "2025-10-01T14:04:48Z",
+      "description": "Říjen je měsícem osvěty o rakovině prsu, obdobím, kdy zvyšujeme povědomí, vzdáváme hold milionům životů zasažených touto nemocí a znovu potvrzujeme naše celosvětové odhodlání zajistit rovný přístup..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Stephen Colbert ukázal Jimmy Kimmelovi klip z momentu, kdy se dozvěděl, že jeho pořad je zrušen",
+      "original_title": "Stephen Colbert Shows Jimmy Kimmel Clip of the Moment He Learned His Show Was Suspended - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/stephen-colbert-canceled-interviewed-1236390759/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/Colbert-kimmel.png?crop=0px%2C51px%2C2352px%2C1316px&resize=1440%2C810",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-01T13:43:23Z",
+      "description": "Ve svém prvním rozhovoru od oznámení CBS o konci The Late Show v příštím roce Colbert popisuje zákulisí rozhodnutí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "USA získají podíl ve společnosti Lithium Americas a jejím těžebním projektu v Nevadě",
+      "original_title": "U.S. to Take Equity Stake in Lithium Americas and Its Nevada Mining Project - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/u-s-to-take-equity-stake-in-lithium-americas-and-its-nevada-mining-project-8938eab4",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-01T13:39:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Gemini přichází do Google Home s novými kamerami Nest a chytrým reproduktorem",
+      "original_title": "Gemini Arrives in Google Home With New Nest Cameras and a Smart Speaker - WIRED",
+      "url": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
+      "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
+      "source": "Wired",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "description": "Gemini nahrazuje Asistenta ve vaší chytré domácnosti, Google představil nový design aplikace Home a uvedl novou generaci zařízení Nest."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpovo farmaceutické clové hrozby ztrácí na síle po dohodě s Pfizerem, která uklidnila výrobce léků",
+      "original_title": "Trump's pharmaceutical tariff threat loses bite after Pfizer deal reassures drugmakers - CNBC",
+      "url": "https://www.cnbc.com/2025/10/01/trump-pharmaceutical-tariffs-pfizer-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205811-1759248258700-gettyimages-2238328629-wm029751_kj9ps1cp.jpeg?v=1759248296&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-01T12:56:49Z",
+      "description": "Dohoda Pfizeru s Trumpem byla pro farmaceutický průmysl úlevou, což signalizovalo, že výrobci léků mohou uzavírat podobné dohody, které je učiní imunními vůči clům."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpovy výroky o vysílání vojáků do amerických měst byly z projevu vytrženy z kontextu, říká předseda Sněmovny reprezentantů Johnson",
+      "original_title": "Trump's comments on sending troops to American cities were 'cherry-picked' from speech, Speaker Johnson says - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/trumps-comments-sending-troops-american-cities-cherry-picked/story?id\\\\u003d126109613",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-01T12:55:53Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jedna věc, na které se republikáni a demokraté shodnou, že ji nezavřou: národní parky",
+      "original_title": "1 thing Republicans and Democrats can agree not to shut down: National parks - Politico",
+      "url": "https://www.politico.com/news/2025/10/01/national-parks-shutdown-republicans-democrats-00589355",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd8%2Fc8%2F2d7250c14d0483b70c456f55cd8e%2Ftravel-trip-zion-and-bryce.JPEG",
+      "source": "Politico",
+      "publishedAt": "2025-10-01T12:00:00Z",
+      "description": "„Parky jsou místa, kam chodí mnoho lidí masírovat svou duši,“ řekl senátor John Hickenlooper (D-Colo.)."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Peloton předělává vybavení, spouští komerční divizi a před svátky zvyšuje ceny",
+      "original_title": "Peloton revamps equipment, launches commercial unit and raises prices ahead of holidays - CNBC",
+      "url": "https://www.cnbc.com/2025/10/01/peloton-revamps-equipment-raises-prices-ahead-of-holidays-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139923-1746188612822-gettyimages-2212371010-McGregor250501NYCbusinesses09.jpeg?v=1759258212&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-01T11:00:01Z",
+      "description": "Peloton před sezónou svátků mění sortiment a zdražuje předplatné i hardwarová zařízení."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "„Velká vlna“ se šíří naší galaxií a vytlačuje tisíce hvězd z jejich míst",
+      "original_title": "A 'Great Wave' is rippling through our galaxy, pushing thousands of stars out of place - Live Science",
+      "url": "https://www.livescience.com/space/astronomy/a-great-wave-is-rippling-through-our-galaxy-pushing-thousands-of-stars-out-of-place",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/84qWJovQQWiUaFPN9RLQag-1920-80.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-10-01T11:00:00Z",
+      "description": "Obrovská ‚vlna‘ se šíří Mléčnou dráhou a tlačí tisíce hvězd napříč galaxií a vědci netuší, co ji spustilo."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Indonéští záchranáři bojují s časem při hledání desítek lidí v troskách zřícené školy",
+      "original_title": "Indonesian rescue workers 'racing against time' in search for dozens in rubble of collapsed school - AP News",
+      "url": "https://apnews.com/article/indonesia-islamic-school-collapse-java-16259f65a7ff76165dc67020c7d619ee",
+      "urlToImage": "https://dims.apnews.com/dims4/default/aa33c14/2147483647/strip/true/crop/3970x2233+0+207/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F2b%2F8db6d01d78e7b5f9b4c5c3713f2e%2Fac2fc814e15e4988b939d604238e0570",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-01T10:49:00Z",
+      "description": "Indonéští záchranáři bojují s časem při hledání přeživších po zřícení školy ve východní Jávě. Nejméně 90 studentů je stále nezvěstných, tři potvrdili mrtvými a asi 100 zraněných. Úřady uvedly, že i..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nové údaje o extrémní produkci niklu u 3I/ATLAS - Avi Loeb",
+      "original_title": "New Data on the Extreme Nickel Production of 3I/ATLAS - Avi Loeb – Medium",
+      "url": "https://avi-loeb.medium.com/new-data-on-the-extreme-nickel-production-of-3i-atlas-c889b20342c1",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*xbDHhebe2e3M7vHydYIM9A.png",
+      "source": "Medium",
+      "publishedAt": "2025-10-01T10:35:30Z",
+      "description": "Nová zpráva (dostupná zde) z UVES spektrografu Evropského velmi velkého dalekohledu v Chile poskytuje údaje o anomálním…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jak nadšení bychom měli být z nejnovějšího objevu potenciálních biosignatur na Marsu: ‚Je to pravděpodobně nejlepší důkaz, který zatím máme‘",
+      "original_title": "How excited should we be about the latest Mars potential biosignature discovery: 'It's arguably the best evidence we have so far' - Space",
+      "url": "https://www.space.com/space-exploration/search-for-life/how-excited-should-we-be-about-the-latest-mars-potential-biosignature-discovery-its-arguably-the-best-evidence-we-have-so-far",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sPUXDMZfeB6upyUjQB4iSf-1600-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-10-01T10:00:00Z",
+      "description": "Nejsou to první tvrzení o známkách života na Marsu. Proč jsou teď vědci tak nadšení?"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Cassini dokazuje složitou chemii v oceánu Enceladu",
+      "original_title": "Cassini proves complex chemistry in Enceladus ocean - European Space Agency",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Cassini_proves_complex_chemistry_in_Enceladus_ocean",
+      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/06/enceladus_jets_and_shadows/17568049-1-eng-GB/Enceladus_jets_and_shadows_pillars.jpg",
+      "source": "Esa.int",
+      "publishedAt": "2025-10-01T09:03:52Z",
+      "description": "Vědci našli na Saturnově měsíci Enceladus nové komplexní organické molekuly"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Senzační odhalení: Jak izraelský útok nechtěně odstartoval Trumpův mírový plán pro Gazu",
+      "original_title": "Scoop: How an Israeli attack inadvertently launched Trump's Gaza peace plan - Axios",
+      "url": "https://www.axios.com/2025/10/01/scoop-how-an-israeli-attack-inadvertently-launched-trumps-gaza-peace-plan",
+      "urlToImage": "https://images.axios.com/tQli1-iPfjYcE8cswgDcCiYeUz0=/0x0:3000x2000/1366x768/2025/10/01/1759285063885.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-10-01T08:32:04Z",
+      "description": "Zákulisí vzniku Trumpova plánu během tří chaotických týdnů"
     },
     {
       "flag": "🇺🇸",
@@ -98,7 +219,7 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ULHDDKUSW2X3AVXBYWPOBN3NV4.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-10-01T03:53:55Z",
-      "description": "Zemětřesení o síle 6,9 stupně zasáhlo střední Filipíny, poškodilo četné podniky a připravilo města o elektřinu. Počet obětí pravděpodobně vzroste."
+      "description": "Zemětřesení o síle 6,9 stupně zasáhlo střed Filipín, poškodilo četné podniky a připravilo města o elektřinu. Počet obětí pravděpodobně poroste."
     },
     {
       "flag": "🌍",
@@ -109,7 +230,7 @@
       "urlToImage": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2018/05/17/132246_1330904.jpg.2000x1282_q95_crop-smart_upscale.jpg",
       "source": "Harvard Crimson",
       "publishedAt": "2025-10-01T03:10:54Z",
-      "description": "Prezident Donald Trump v úterý v Oválné pracovně novinářům řekl, že Bílý dům s Harvardem „dohod uzavřel“, ale dodal, že ještě není konečná."
+      "description": "Prezident Donald Trump v úterý v Oválné pracovně novinářům řekl, že Bílý dům s Harvardem „dohodou uzavřel“, ale varoval, že dohoda ještě není finální."
     },
     {
       "flag": "🇬🇧",
@@ -125,134 +246,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pixel Buds Pro 2 získávají překvapivou funkci okopírovanou od Applu",
-      "original_title": "The Pixel Buds Pro 2 gain a surprise feature by borrowing from Apple's playbook - Android Police",
-      "url": "https://www.androidpolice.com/the-pixel-buds-pro-2-charging-indicator-change/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/pixel-buds-pro-2-floor.jpg?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2025-10-01T02:28:00Z",
-      "description": "Přehled na první pohled"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Týden 3 „S hvězdami tančí“: Podívejte se, kdo byl po vyřazení „naštvaný“",
-      "original_title": "‘Dancing With The Stars’ Week 3: See Who Said She Was “Pissed” After Getting The Boot - Deadline",
-      "url": "http://deadline.com/2025/09/dancing-with-the-stars-week-3-who-went-home-1236566890/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/179226_EM209078.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-01T02:01:00Z",
-      "description": "Výsledky třetího týdne Dancing with the Stars: Kdo opustil soutěž během TikToku noci?"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "USA získají podíl ve společnosti Lithium Americas a jejím těžebním projektu v Nevadě",
-      "original_title": "U.S. to Take Equity Stake in Lithium Americas and Its Nevada Mining Project - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/u-s-to-take-equity-stake-in-lithium-americas-and-its-nevada-mining-project-8938eab4",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-01T01:57:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Přípis NASA: Činnosti při řádném vypnutí",
-      "original_title": "NASA Memo: Orderly Shutdown Activities - NASA Watch",
-      "url": "https://nasawatch.com/shutdown/nasa-memo-orderly-shutdown-activities/",
-      "urlToImage": "https://nasawatch.com/wp-content/uploads/2025/09/HOW-TURN-NASA-OFF.png",
-      "source": "Nasawatch.com",
-      "publishedAt": "2025-10-01T01:30:41Z",
-      "description": "Pozorně si projděte oznámení o formálním výlukovém volně. Pokud máte dotazy ke svému statusu, obraťte se na svého nadřízeného."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Živě: Amazon představil Echo Dot, Kindle Scribe Colorsoft, Fire TV a další. Reakce na akci 2025.",
+      "title": "Živě z akce Amazon 2025: Reakce na Echo Dot, Kindle Scribe Colorsoft, Fire TV a další",
       "original_title": "Amazon event 2025 live: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more - ZDNET",
       "url": "https://www.zdnet.com/home-and-office/smart-home/amazon-event-2025-live-reactions-to-echo-dot-kindle-scribe-colorsoft-fire-tv-more/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/e90e12319d4b6fafd364f688ab4455b4301b72e3/2025/09/30/23dffaf9-a89a-44cc-bc95-d356bbc5222d/dsc07846.jpg?auto=webp&fit=crop&height=675&width=1200",
       "source": "ZDNet",
       "publishedAt": "2025-10-01T00:52:00Z",
-      "description": "Před Prime Day obchodní gigant spustil záplavu chytrých zařízení pro domácnost včetně pokračování produktů Echo Dot, Kindle Scribe, Ring a dalších."
+      "description": "Před Prime Day představil obchodní gigant záplavu chytrých domácích zařízení včetně pokračování produktů Echo Dot, Kindle Scribe, Ring a dalších."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jsou brýle s umělou inteligencí dalším závodem o smartphone mezi USA a Čínou?",
-      "original_title": "Are AI glasses the next smartphone race between the US and China? - Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/tech-asia/are-ai-glasses-the-next-smartphone-race-between-the-us-and-china",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F6%2F7%2F4%2F11514767-1-eng-GB%2F8141625c3748-2025-07-26T120159Z_498916018_RC27UFA6OBOB_RTRMADP_3_CHINA-AI-EXPO.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "source": "Nikkei.com",
-      "publishedAt": "2025-09-30T20:11:00Z",
-      "description": "Displej Meta Ray-Ban a konkurenční zařízení mohou brzy uskutečnit osobní AI agenty"
+      "title": "Konec cesty: Seanu Combsovi byl zamítnut nový proces ani osvobození; Trest za sexuální obchodování v tomto týdnu",
+      "original_title": "End Of The Road: Sean Combs Denied New Trial Or Acquittal; Sentencing In Sex-Trafficking Case This Week - Deadline",
+      "url": "http://deadline.com/2025/09/diddy-no-new-trial-1236556188/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/Diddy-1.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-01T00:22:00Z",
+      "description": "Diddy po vyčerpání soudních možností zjišťuje, jaké vězení mu hrozí za prostituci"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kdy je nejvhodnější doba pro očkování vašeho dítěte proti chřipce?",
-      "original_title": "When Is the Best Time for Your Child to Get a Flu Shot? - AOL.com",
-      "url": "https://www.prevention.com/health/health-conditions/a68134972/when-is-the-best-time-for-your-child-to-get-a-flu-shot/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/doctor-putting-a-bandage-on-the-childs-arm-after-royalty-free-image-1757358638.pjpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
-      "source": "Prevention.com",
-      "publishedAt": "2025-09-30T17:38:27Z",
-      "description": "Lékaři a sestřičky radí, kdy je nejlepší čas nechat dítě očkovat, aby bylo chráněné celou zimu."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Uniklé rendery Galaxy S26 Ultra ukazují obrovský nový kryt fotoaparátu od Samsungu",
-      "original_title": "Leaked Galaxy S26 Ultra renders show off Samsung’s massive new camera bump - 9to5Google",
-      "url": "http://9to5google.com/2025/09/30/leaked-samsung-galaxy-s26-ultra-renders-massive-new-camera-bump/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Ultra-CAD-bas-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-09-30T16:06:00Z",
-      "description": "Galaxy S26 Ultra bude asi dost podobný smartphone, ale jeho nový fotoaparát může fanouškům vadit."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Záhadný objekt vstupující do sluneční soustavy je mnohem větší, než se myslelo. Může jít o ‚mimozemskou technologii‘",
-      "original_title": "Mysterious object entering solar system much larger than previously thought, could be ‘alien technology’ - AL.com",
-      "url": "https://www.al.com/news/2025/09/mysterious-object-entering-solar-system-much-larger-than-previously-thought-could-be-alien-technology.html",
-      "urlToImage": "https://www.al.com/resizer/v2/KPWXAFAWVFDQPP4PGMO4DKTQPY.jpg?auth=5c6054eed17c6cfb3ee7f5056851e2a8bd3e9f2a741ea3003ff7e1915f5f44c2&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-09-30T15:17:00Z",
-      "description": "Objekt nepředstavuje pro Zemi žádné nebezpečí, přiblíží se však k Jupiteru i Venuši."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Teleskop Gaia objevil velkou vlnu naší galaxie",
-      "original_title": "Gaia telescope discovers our galaxy's great wave - Phys.org",
-      "url": "https://phys.org/news/2025-09-gaia-telescope-galaxy-great.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/esas-gaia-telescope-di-3.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-09-30T13:33:04Z",
-      "description": "Naše galaxie Mléčná dráha nikdy neposedí: rotuje a viklá se. A nyní data z vesmírného teleskopu Gaia Evropské kosmické agentury odhalují, že naše galaxie má také obří vlnu, která se šíří ven z její..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump dal Hamásu ‚3 až 4 dny‘ na přijetí návrhu Bílého domu, jinak čelí ‚smutnému konci‘",
-      "original_title": "Trump gives Hamas ‘3 or 4 days’ to agree to White House proposal or face a ‘sad end’ - Politico",
-      "url": "https://www.politico.com/news/2025/09/30/trump-gives-hamas-3-or-4-days-to-agree-to-white-house-proposal-or-face-a-sad-end-00586421",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F75%2F29%2F0ac18ad8493086a6d10e75c72fdd%2Fwhite-house-12540.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-09-30T13:30:43Z",
-      "description": "Pokud Hamas nesouhlasí, Izrael půjde a udělá to, co musí, řekl prezident"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nenechte si ujít Mezinárodní noc pozorování Měsíce 2025: Jak se připojit k oslavám 4. října",
-      "original_title": "Don't miss International Observe the Moon Night 2025: How to join the celebration on Oct. 4 - Space",
-      "url": "https://www.space.com/stargazing/international-observe-the-moon-night-2025-how-to-get-involved-oct-4",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fztoX72KtyKm8AXYzPu727-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-09-30T13:00:00Z",
-      "description": "Pro Mezinárodní noc pozorování Měsíce 2025 je naplánováno přes 700 akcí."
+      "title": "„…Mnohem menší, než jsme čekali“: Akcie Fordu (NYSE:F) klesají, protože Ford přehodnocuje trh s elektromobily",
+      "original_title": "“…Way Smaller Than We Thought”: Ford Stock (NYSE:F) Slips as Ford Reconsiders EV Market - TipRanks",
+      "url": "https://www.tipranks.com/news/way-smaller-than-we-thought-ford-stock-nysef-slips-as-ford-reconsiders-ev-market",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/ford-shutterstock_2620882723-2-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-09-30T19:36:59Z",
+      "description": "Špatné zprávy pro tradičního výrobce automobilů Ford ($F): CEO Jim Farley zjistil, že trh po skončení dotací na elektromobily zdaleka není takový, jak…"
     }
   ]
 }
