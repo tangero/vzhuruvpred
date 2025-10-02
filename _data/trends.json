@@ -1,10 +1,20 @@
 {
-  "updated": "2025-10-02T01:54:27.863006",
+  "updated": "2025-10-02T03:32:31.318539",
   "trends": [
     {
       "rank": 1,
+      "query": "barcelona psg",
+      "news_title": "Barcelona 1-2 PSG: výsledek, průběh a góly",
+      "news_url": "https://as.com/futbol/champions/barcelona-psg-en-directo-ultima-hora-de-la-champions-league-hoy-en-vivo-n/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-6sUyMyZtnbs3v94Bt0H3NqiEvTrPp4sTdm7ZgKJtxj7wTY54ogxhCx-AlW4",
+      "traffic": "2000++ hledání",
+      "source": "Diario AS",
+      "explore_url": "https://trends.google.cz/trends/explore?q=barcelona psg&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "champions league",
-      "news_title": "Ramos rozhodl o obratu PSG v Barceloně",
+      "news_title": "PSG otočil zápas v Barceloně, vítězný gól dal Ramos",
       "news_url": "https://www.bbc.com/sport/football/live/c1edv126d27t",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBwBXTrYRydlugsfDldoGDOUGA8Q3iEpxNypzxgPLaCffGVk60sA5A39_jKnI",
       "traffic": "500++ hledání",
@@ -12,39 +22,29 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=champions league&geo=CZ"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "query": "psg",
-      "news_title": "FC Barcelona - PSG: přímý přenos (LM 2025/2026)",
-      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/fc-barcelone-psg-live/685519",
+      "news_title": "FC Barcelona - PSG (LM 2025/2026) živě",
+      "news_url": "https://www.lequipe.fr/Football/match-direct/ligue-des-champions/2025-2026/fc-barcelone-paris-sg-live/685519",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiheylP1MRtYa3wphbaN5eQEFKGSBMP57wP113MFBhfb-tP_hZ7YeO8I4Eglc",
       "traffic": "500++ hledání",
       "source": "L'Équipe",
       "explore_url": "https://trends.google.cz/trends/explore?q=psg&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "liga mistrů",
-      "news_title": "Slavia propadla s finalistou Ligy mistrů. Tohle v plánu neměla.",
-      "news_url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-bazliva-slavia-s-finalistou-ligy-mistru-propadla-tohle-v-planu-nemela-287448",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH-pRyx9DObN8jTg2IMHrUobuiULVTnQaeqVIfS0mNzQbWPqD7l2IvIRiHPMc",
-      "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=liga mistrů&geo=CZ"
-    },
-    {
       "rank": 4,
       "query": "delta",
-      "news_title": "Delta láká na přímé lety z New Yorku do Porta",
-      "news_url": "https://news.delta.com/delta-uncorks-perfect-pairing-new-york-porto-portugal",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiJEJyP5L_X1yNWk32URWJCicdk9ktsiMioCz4JOoDX6yZp0ikRj6vuGSNj1g",
+      "news_title": "Srážka letadel Delta na letišti LaGuardia při pojíždění",
+      "news_url": "https://abc7ny.com/post/delta-regional-jets-collide-low-speeds-taxing-laguardia-airport/17921202/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwiP5GJuy07IGXroNUUb7mLY1hQa9N7YsXh4Dnp_AdqlenF_44hnJIAnPjbiM",
       "traffic": "200++ hledání",
-      "source": "Delta News Hub",
+      "source": "ABC7 New York",
       "explore_url": "https://trends.google.cz/trends/explore?q=delta&geo=CZ"
     },
     {
       "rank": 5,
       "query": "policie",
-      "news_title": "Výbuchy a požár v Mnichově: Policie zasahuje",
+      "news_title": "V Mnichově výbuchy a zapálený dům, policie zasahuje",
       "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-policie-v-mnichove-provadi-velky-zasah-media-pisi-o-strelbe-a-explozich-40541381",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv2ySzVnC-RCGw-y154IMMJehDtp2HbPRsaMZddxgnfcuQfIIEtuzWj9T3xS0",
       "traffic": "200++ hledání",
@@ -53,33 +53,33 @@
     },
     {
       "rank": 6,
-      "query": "stan",
-      "news_title": "Okamura nazval Rakušana českým Donem Corleonem, ministr ho označil za sraba a oslíka.",
-      "news_url": "https://www.stream.cz/cnn-prima-news/jste-cesky-don-corleone-vpalil-okamura-rakusanovi-a-vy-srab-a-oslik-reagoval-ministr-65366774",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF5PoAR0EFELtKijU8xL6apB_cZHL59ukuwxm7zdj9mNmOERyiRFNHYz4c0Aw",
-      "traffic": "200++ hledání",
-      "source": "Stream.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=stan&geo=CZ"
-    },
-    {
-      "rank": 7,
       "query": "villarreal – juventus",
-      "news_title": "Pozdní gól Veigy zachránil pro Villarreal remízu 2:2 s Juventusem",
+      "news_title": "Pozdní gól Veigy! Villarreal srazil Juventus na remízu 2:2",
       "news_url": "https://www.bbc.com/sport/football/live/cdjzn0p9xjnt",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDfnClFvr871-60E35hc_K_OFcivZwpU3BjUg95qbWZWCC6zm3WYceFptvT7g",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5a1Zz7IxriwsdzlgwyAlK5sv7eDWbj2Dw2m4oK_DI1rOLIrDKrXcL82ehIgA",
       "traffic": "200++ hledání",
       "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=villarreal – juventus&geo=CZ"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "query": "al-zawraa – al nassr",
-      "news_title": "Ronaldo v akci? Al-Nassr proti Al-Zawraa v Lize mistrů AFC",
+      "news_title": "Ronaldo dnes v Lize mistrů? Al-Nassr hraje s Al-Zawraa",
       "news_url": "https://timesofindia.indiatimes.com/sports/saudi-football/news/will-cristiano-ronaldo-feature-tonight-as-al-nassr-take-on-al-zawraa-in-afc-champions-league/articleshow/124261643.cms",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-8JH3krtZc4MHMp3Fz9knogC-cVilM6jsZKUWSBsjjVtQXf92we7id7QgRg",
       "traffic": "200++ hledání",
       "source": "Times of India",
       "explore_url": "https://trends.google.cz/trends/explore?q=al-zawraa – al nassr&geo=CZ"
+    },
+    {
+      "rank": 8,
+      "query": "sora 2",
+      "news_title": "Sora 2 is here",
+      "news_url": "https://openai.com/index/sora-2/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmU2MOJRGIagnU95GFIkK0yMc8Rika98J-Eye4msZ2yM7uKrzz23jLasbfhOs",
+      "traffic": "100++ hledání",
+      "source": "OpenAI",
+      "explore_url": "https://trends.google.cz/trends/explore?q=sora 2&geo=CZ"
     }
   ]
 }
