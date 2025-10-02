@@ -1,20 +1,30 @@
 {
-  "updated": "2025-10-02T09:26:23.298278",
+  "updated": "2025-10-02T12:51:45.138619",
   "trends": [
     {
       "rank": 1,
+      "query": "volby 2025 čas",
+      "news_title": "Průvodce volbami 2025: Jak volit a kde sledovat výsledky",
+      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-2025-pruvodce-jak-volit-vysledky-285741",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTAMWYHZQY7N-B8XHdZ0VUBlDMyjac71jNOxawz1zqSAa5lK4ugVtkfoyJs6M",
+      "traffic": "1000++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=volby 2025 čas&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "byd",
       "news_title": "Prodeje BYD poprvé v roce 2025 klesly, obavy ze zpomalení sílí",
       "news_url": "https://www.cnbc.com/2025/10/02/byd-monthly-sales-tumble-for-the-first-time-in-2025-reinforcing-slowdown-concerns.html",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQysiJgzhAsPO8dedyvX3nhAqqtkYaD2Hz_RoaOr07EC38LtHKHw39aPYTdE3I",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN3Am8KkSkzttzspLdM3LhKZx52fV_RIOSZlCsYSuRJujINlik4Fui1ayAzgk",
       "traffic": "1000++ hledání",
       "source": "CNBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=byd&geo=CZ"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "query": "eva decastelo",
-      "news_title": "Eva Decastelo se vrací k manželovi",
+      "news_title": "Eva Decastelo se otevřeně vyjádřila k návratu k manželovi.",
       "news_url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/823270/moderatorka-eva-decastelo-47-otevrene-o-navratu-k-manzelovi.html",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTog-VPdbWyeH9sToMl5ydMqShMfmJbEOCZirxPRKtlO2peyfDPZ55acQFnfso",
       "traffic": "500++ hledání",
@@ -22,29 +32,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=eva decastelo&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "champions league",
-      "news_title": "Monaco vs Man City: Kdo postoupí do čtvrtfinále Ligy mistrů?",
-      "news_url": "https://www.uefa.com/uefachampionsleague/match/2045934--monaco-vs-man-city/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXLiszaONt8b5rx1u0V6fR3HJ1XVZLW43lpG_1Gt--_qrP1gdwB7EpSD12DeI",
-      "traffic": "500++ hledání",
-      "source": "UEFA.com",
-      "explore_url": "https://trends.google.cz/trends/explore?q=champions league&geo=CZ"
-    },
-    {
       "rank": 4,
-      "query": "liga mistrů",
-      "news_title": "PSG srazilo Barcelonu gólem v závěru, Kovář vychytal bod proti Leverkusenu",
-      "news_url": "https://www.idnes.cz/fotbal/pohary/liga-mistru-2-kolo-arsenal-barcelona-paris-st-germain.A251001_155804_fot_pohary_min",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg5CNNOiu0KxhQV45Ch4xT0L55vtw2357e-h2-I2kOEtlDuUE1LUN-F_HjWXE",
-      "traffic": "200++ hledání",
-      "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=liga mistrů&geo=CZ"
+      "query": "sora 2",
+      "news_title": "Sora 2: OpenAI představilo nástupce generátoru videa",
+      "news_url": "https://openai.com/index/sora-2/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmU2MOJRGIagnU95GFIkK0yMc8Rika98J-Eye4msZ2yM7uKrzz23jLasbfhOs",
+      "traffic": "500++ hledání",
+      "source": "OpenAI",
+      "explore_url": "https://trends.google.cz/trends/explore?q=sora 2&geo=CZ"
     },
     {
       "rank": 5,
       "query": "bvb – bilbao",
-      "news_title": "Borussia Dortmund porazila Athletic Club 4:1",
+      "news_title": "Dortmund poráží Athletic 4:1, Němci jsou stále neporaženi",
       "news_url": "https://www.bbc.com/sport/football/live/c784vgq71eet",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOa7vtLaL0E7iLe8Wsiz8fo_Pa6acNnRl9fI0mjINOkJFNC0GC98ojRADICVk",
       "traffic": "200++ hledání",
@@ -54,9 +54,9 @@
     {
       "rank": 6,
       "query": "delta",
-      "news_title": "Dvě letadla se srazila na letišti LaGuardia, křídlo prorazilo kokpit",
+      "news_title": "Dvě letadla Delta se srazila na letišti LaGuardia",
       "news_url": "https://www.cnn.com/2025/10/02/us/lga-regional-jets-collide",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDdSuG7vs1keQgUckUbd0lqbSCSWgeyPlsDvtZmGYmievbsYV5niX3z6_Ou1Q",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZFnCTtL9rTTt2glM8TJCKYg19bWwkTaQyughn-nFIeCHN6h68YZifmAk8ogQ",
       "traffic": "200++ hledání",
       "source": "CNN",
       "explore_url": "https://trends.google.cz/trends/explore?q=delta&geo=CZ"
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "query": "greta thunberg",
-      "news_title": "Izraelské lodě zachytily flotilu plující do Gazy",
+      "news_title": "Greta Thunberg zadržena při protestní akci u Pásma Gazy",
       "news_url": "https://www.bbc.com/news/articles/c0lk292jww4o",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeYcWbfI8sRdAK8PyyAzBwTd502xErOyGQ2Yn-9S_7n1gmLUeKa7j6sHoIX7Y",
       "traffic": "100++ hledání",
