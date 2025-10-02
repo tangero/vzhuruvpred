@@ -1,27 +1,126 @@
 {
-  "last_updated": "2025-10-02T18:25:32",
+  "last_updated": "2025-10-02T19:14:08",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "S páteční zprávou o pracovních místech v ohrožení: ADP uvádí pokles soukromých mezd o 32 000 v září",
-      "original_title": "With Friday's jobs report in question, ADP shows private payrolls fell by 32,000 in September - CBS News",
-      "url": "https://www.cbsnews.com/news/adp-report-private-payrolls-32000-decline-september-bls-jobs-report/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/01/ed9090eb-af3c-4418-b908-14da1aba5f6a/thumbnail/1200x630g6/7aa8a2df415021486d7a9376b9981c28/gettyimages-1395278718.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-01T15:55:50Z",
-      "description": "Měsíční zpráva ukazuje, že soukromí zaměstnavatelé propustili minulý měsíc 32 000 lidí, což je další známka toho, že trh práce čelí novým výzvám."
+      "title": "S&P 500 stoupá na nový rekord a smazává dřívější ztráty, když obchodníci vsází na krátké trvání výluky: Živé aktualizace",
+      "original_title": "S&P 500 rises to new record, reversing earlier losses as traders bet on short-lived shutdown: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/09/30/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206417-1759329302195-gettyimages-2238557578-anotherday123715787_yzf8hepg.jpeg?v=1759329360&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-01T18:26:00Z",
+      "description": "Akcie obvykle předchozí odstávky vlády ignorovaly, ale tentokrát to může být riskantnější kvůli řadě ekonomických podmínek."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bílý dům zmrazil 18 miliard dolarů na newyorskou infrastrukturu",
-      "original_title": "White House freezes $18 billion in New York City infrastructure funding - NBC News",
-      "url": "https://www.nbcnews.com/politics/trump-administration/white-house-freezes-18-billion-new-york-city-infrastructure-funding-rcna234928",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251001-Russ-Vought-ch-1102-4428be.jpg",
+      "title": "Jane Goodallová, světově proslulá výzkumnice šimpanzů a ochránkyně zvířat, zemřela ve věku 91 let",
+      "original_title": "Jane Goodall, renowned chimpanzee researcher and animal advocate, dies at 91 - NBC News",
+      "url": "https://www.nbcnews.com/news/obituaries/dr-jane-goodall-legendary-animal-rights-advocate-dies-91-rcna235001",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251001-jane-godall-gk-41ad35.jpg",
       "source": "NBC News",
-      "publishedAt": "2025-10-01T15:43:14Z",
-      "description": "Bílý dům pozastavuje miliardy dolarů pro newyorskou infrastrukturu, oznámil šéf rozpočtu"
+      "publishedAt": "2025-10-01T18:01:00Z",
+      "description": "Dr. Jane Goodallová, která bude připomínána jako zastánkyně zvířat a světová výzkumnice šimpanzů, zemřela přirozenou smrtí, oznámil v prohlášení zveřejněném ve středu Institut Jane Goodallové."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nejvyšší soud USA umožnil Lise Cookové zůstat v radě Fedu do roku 2026 a přijal případ na lednové projednání",
+      "original_title": "SCOTUS allows Lisa Cook to stay on Fed board into 2026, accepts case for January argument - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/scotus-allows-lisa-cook-stay-fed-2026-accepts/story?id\\\\u003d126118156",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-01T17:59:44Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "V Německu zadrželi tři údajné členy Hamásu kvůli plánování útoku na židovské instituce",
+      "original_title": "3 alleged Hamas members arrested in Germany on suspicion of plotting attacks on Jewish institutions - AP News",
+      "url": "https://apnews.com/article/germany-hamas-plot-israel-arrests-31138b68798f68192a5862ef5172f84f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-01T17:43:00Z",
+      "description": "V Německu zatkli tři údajné členy palestinské militantní skupiny Hamas. Podle úřadů jsou podezřelí z plánování útoků na izraelské nebo židovské instituce."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "V newyorské obecní věžové budově došlo po výbuchu k částečnému zřícení",
+      "original_title": "NYC public housing tower partially collapses after an explosion - AP News",
+      "url": "https://apnews.com/article/new-york-city-apartment-building-collapse-bronx-8fd1eea783efccf47112f9820e406bec",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1895c8a/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2Fea%2F5fca1dc2d6e06c6ae0782e726fc5%2Fa217c5c35a054a899cd65058e23a1fd8",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-01T17:01:00Z",
+      "description": "Po výbuchu v New Yorku se zřítil obrovský komín vysoký 20 pater, zranění nejsou"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Demokraté zrazují Američany kvůli odstávce vlády - Bílý dům (.gov)",
+      "original_title": "Democrats Betray Americans with Government Shutdown - The White House (.gov)",
+      "url": "https://www.whitehouse.gov/articles/2025/10/democrats-betray-americans-with-government-shutdown/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/10/morning-joe.jpg",
+      "source": "Whitehouse.gov",
+      "publishedAt": "2025-10-01T16:17:44Z",
+      "description": "Demokraté oficiálně přivodili plnohodnotné zastavení vlády — zinscenované radikálními levičáckými šílenci, kteří jejich stranu ovládají. Zatímco životy"
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Bermudy se připravují na úder sílícího hurikánu Imelda",
+      "original_title": "Bermuda braces for a pounding from strengthening Hurricane Imelda - Yale Climate Connections",
+      "url": "http://yaleclimateconnections.org/2025/10/bermuda-braces-for-a-pounding-from-strengthening-hurricane-imelda/",
+      "urlToImage": "https://yaleclimateconnections.org/wp-content/uploads/2025/10/imelda-sat-oct1.jpg",
+      "source": "Yale Climate Connections",
+      "publishedAt": "2025-10-01T16:13:37Z",
+      "description": "Hurikán by měl ve čtvrtek brzy ráno přejít přes Bermudy nebo se k nim přiblížit jako bouře druhé kategorie."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Echo, Kindle, Ring a další: Všechny nové produkty, které Amazon představil na svém podzimním hardwarovém eventu",
+      "original_title": "Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag",
+      "url": "https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-event-scribe-ring-echo-fire",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/04eBC17sQ8QYcZtKtImuOpX-1.fit_lim.size_1200x630.v1759257910.jpg",
+      "source": "PCMag.com",
+      "publishedAt": "2025-10-01T16:11:03Z",
+      "description": "Před nadcházejícími Prime Big Deal Days příští týden jsme se podívali na nové produkty z hardwarové nabídky Amazonu pro rok 2025."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Právní hrozby visí nad guvernérskými volbami v New Jersey po reportáži CBS News o vojenských záznamech Mikie Sherrillové",
+      "original_title": "Legal threats hang over NJ governor's race after CBS News report on Mikie Sherrill's military records - CBS News",
+      "url": "https://www.cbsnews.com/news/legal-threats-nj-governors-race-mikie-sherrills-military-records-jack-ciattarelli/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/01/dcca225a-84ad-4aa6-9d07-f9f3837a376c/thumbnail/1200x630g2/375e0bd2f81d3ccb35de0a859310385d/screenshot-2025-10-01-at-10-38-56-am.png",
+      "source": "CBS News",
+      "publishedAt": "2025-10-01T16:02:32Z",
+      "description": "Národní archiv přiznal, že se dopustil chyby, když poskytl převážně necenzurovanou verzi vojenských záznamů Mikie Sherrillové spojenci jejího protivníka."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Ford a GM nakupují vlastní elektromobily, aby zachovaly daňový kredit 7500 dolarů",
+      "original_title": "Ford and GM are buying their own EVs to keep the $7500 tax credit alive - The Verge",
+      "url": "https://www.theverge.com/news/789855/ford-and-gm-are-buying-their-own-evs-to-keep-the-7500-tax-credit-alive",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24533944/STK437_Electric_Vehicle_charge_EV.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-01T15:55:12Z",
+      "description": "Ford a GM skupují od dealerů nová elektrická vozidla, aby mohli uplatnit končící daňový kredit na vozy v leasingu do konce roku."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump zadrží miliardy dolarů na projektech tunelu Gateway a metra Second Ave.",
+      "original_title": "Trump to withhold billions of dollars from Gateway tunnel and Second Ave. subway projects - Politico",
+      "url": "https://www.politico.com/news/2025/10/01/trump-to-withhold-billions-of-dollars-from-gateway-tunnel-and-second-ave-subway-projects-00589772",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F99%2Fd5%2Fde7831384733bdf0cdc6451e05a6%2Fwhite-house-99846.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-01T15:31:51Z",
+      "description": "Krok byl oznámen několik hodin po zastavení činnosti federální vlády."
     },
     {
       "flag": "🌍",
@@ -32,23 +131,23 @@
       "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250929/997a6edd-e263-48bb-a284-0c36ae733c2e_1759185632.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
       "source": "Eonline.com",
       "publishedAt": "2025-10-01T15:13:00Z",
-      "description": "Dva měsíce předtím, než Nicole Kidmanová podala žádost o rozvod s Keithem Urbanem, countryový zpěvák jakoby odmítl pochvalu za jejich 19leté manželství."
+      "description": "Dva měsíce předtím, než Nicole Kidmanová podala žádost o rozvod s Keithem Urbanem, countryový zpěvák jakoby odmítl chválu na jejich 19leté manželství."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nejvyšší soud dovolil člence rady Fedu Lise Cookové ponechat si místo do ústního jednání v lednu",
-      "original_title": "Supreme Court lets Fed Governor Lisa Cook keep job pending oral argument in January - CNBC",
-      "url": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108190717-1757613262900-108190717-1756222781509-LisaCook.jpg?v=1759330133&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-01T14:52:51Z",
-      "description": "Prezident Donald Trump se pokusil odvolat guvernérku Federálního rezervního systému Lisu Cookovou s odůvodněním, že se dopustila podvodu při hypotéce u dvou domů."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Vědci zjistili, že genetické kořeny autismu se liší podle věku diagnózy",
+      "original_title": "Autism’s genetic roots differ by age of diagnosis, scientists find - Financial Times",
+      "url": "https://www.ft.com/content/77d8f44d-6df0-4785-8ca7-ef8093b49240",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0044d618-0055-4bda-83cf-f9c165625673.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-10-01T15:00:03Z",
+      "description": "Pojem zřejmě „popisuje více stavů“, tvrdí výzkumníci z cambridgeské univerzity"
     },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Mnichovský Oktoberfest se znovu otevře po smrtelném požáru domu a bombové hrozbě",
+      "title": "Mnichovský Oktoberfest se znovu otevře po smrtelném požáru domu a bombovém útoku",
       "original_title": "Munich Oktoberfest to re-open after fatal house fire and bomb threat - BBC",
       "url": "https://www.bbc.com/news/articles/c3rv2pv20rvo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4acb/live/b7e46fd0-9ea1-11f0-b741-177e3e2c2fc7.jpg",
@@ -59,35 +158,35 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Taylor Swift pokračuje v sérii nečekaných zachránců box officu s 'Release Party of a Showgirl",
+      "original_title": "Taylor Swift’s ‘Release Party of a Showgirl’ Continues Streak of Unexpected Box Office Saviors - Variety",
+      "url": "https://variety.com/2025/film/box-office/taylor-swift-showgirl-movie-box-office-surprises-1236533914/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/08/538429520_1326293905529091_8265958371857620387_n-e1756152870692.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-01T14:15:00Z",
+      "description": "Taylor Swift a \"The Release Party of a Showgirl\" jsou dalším nečekaným tahákem pro podporu tržeb kin."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Měsíc povědomí o rakovině prsu 2025 – Světová zdravotnická organizace (WHO)",
       "original_title": "Breast Cancer Awareness Month 2025 - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2025/10/01/default-calendar/breast-cancer-awareness-month-2025",
       "urlToImage": "https://cdn.who.int/media/images/default-source/headquarters/initiatives/global-breast-cancer-initiative/gbci-2025-breast_cancer_month.tmb-1200v.jpg?sfvrsn=2d65dad4_1",
       "source": "World Health Organization",
       "publishedAt": "2025-10-01T14:04:48Z",
-      "description": "Říjen je měsícem osvěty o rakovině prsu, obdobím, kdy je třeba zvyšovat povědomost, vzdát hold milionům životů zasažených rakovinou prsu a znovu potvrdit naše celosvětové odhodlání zajistit rovný p..."
+      "description": "Říjen je měsícem boje proti rakovině prsu, obdobím, kdy je třeba zvyšovat povědomí, uctít miliony životů zasažených touto nemocí a znovu potvrdit naše celosvětové odhodlání zajistit rovný přístup k..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Stephen Colbert pustil Jimmymu Kimmelovi klip z okamžiku, kdy se dozvěděl, že je jeho pořad pozastaven",
+      "title": "Stephen Colbert ukázal Jimmy Kimmelovi klip z momentu, kdy se dozvěděl, že je jeho pořad pozastaven",
       "original_title": "Stephen Colbert Shows Jimmy Kimmel Clip of the Moment He Learned His Show Was Suspended - The Hollywood Reporter",
       "url": "http://www.hollywoodreporter.com/tv/tv-news/stephen-colbert-canceled-interviewed-1236390759/",
       "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/Colbert-kimmel.png?crop=0px%2C51px%2C2352px%2C1316px&resize=1440%2C810",
       "source": "Hollywood Reporter",
       "publishedAt": "2025-10-01T13:43:23Z",
-      "description": "Ve svém prvním rozhovoru od oznámení CBS o konci pořadu The Late Show příští rok Colbert popisuje zákulisí rozhodnutí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "USA získají podíl v Lithium Americas a jejím těžebním projektu v Nevadě",
-      "original_title": "U.S. to Take Equity Stake in Lithium Americas and Its Nevada Mining Project - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/u-s-to-take-equity-stake-in-lithium-americas-and-its-nevada-mining-project-8938eab4",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-01T13:39:00Z",
-      "description": ""
+      "description": "Ve svém prvním rozhovoru od oznámení CBS o konci ‚The Late Show‘ příští rok Colbert popisuje zákulisí celého rozhodnutí."
     },
     {
       "flag": "🌍",
@@ -98,78 +197,45 @@
       "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
       "source": "Wired",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "description": "Gemini nahrazuje Asistenta ve vaší chytré domácnosti, Google redesignuje aplikaci Domov a spouští novou generaci zařízení Nest."
+      "description": "Gemini nahrazuje Asistenta ve vaší chytré domácnosti, Google představuje nový design aplikace Home a uvádí novou generaci zařízení Nest."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpova hrozba clem na léky pozbývá na síle po dohodě s Pfizerem, která uklidnila výrobce léčiv",
-      "original_title": "Trump's pharmaceutical tariff threat loses bite after Pfizer deal reassures drugmakers - CNBC",
-      "url": "https://www.cnbc.com/2025/10/01/trump-pharmaceutical-tariffs-pfizer-deal.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205811-1759248258700-gettyimages-2238328629-wm029751_kj9ps1cp.jpeg?v=1759248296&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-01T12:56:49Z",
-      "description": "Dohoda Pfizeru s Trumpem byla pro farmaceutický průmysl úlevou, neboť signalizovala, že výrobci léků mohou uzavírat podobné dohody, které je učiní imunními vůči clům."
+      "title": "Otestoval jsem Apple Watch SE 3 a neměl jsem pocit, že mi něco uniká",
+      "original_title": "I Tested the Apple Watch SE 3 and Didn't Feel Any FOMO - CNET",
+      "url": "https://www.cnet.com/tech/mobile/i-tested-the-apple-watch-se-3-and-i-didnt-feel-any-fomo/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/5af858b58c44141964da09a0a35cc29d07501f97/hub/2025/09/30/825ba195-a768-45f4-ac9f-2484935e33f5/applewatchse3-4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-10-01T12:00:04Z",
+      "description": "Recenze: Nejlevnější chytré hodinky od Applu jsou za 250 dolarů výhodnou koupí, která nabízí téměř vše, co byste od nositelné elektroniky chtěli, a to s překvapivě málo kompromisy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trumpovy výroky o vysílání vojáků do amerických měst byly z projevu vytrženy z kontextu, říká šéf Sněmovny reprezentantů Johnson",
-      "original_title": "Trump's comments on sending troops to American cities were 'cherry-picked' from speech, Speaker Johnson says - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/trumps-comments-sending-troops-american-cities-cherry-picked/story?id\\\\u003d126109613",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-01T12:55:53Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jediná věc, na které se republikáni a demokraté shodnou: nezavírat národní parky",
-      "original_title": "1 thing Republicans and Democrats can agree not to shut down: National parks - Politico",
-      "url": "https://www.politico.com/news/2025/10/01/national-parks-shutdown-republicans-democrats-00589355",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd8%2Fc8%2F2d7250c14d0483b70c456f55cd8e%2Ftravel-trip-zion-and-bryce.JPEG",
-      "source": "Politico",
+      "title": "Mohla by Čína dopravit na Zemi vzorky možných biosignatur z Marsu od vozítka Perseverance?",
+      "original_title": "Could China return the Perseverance rover's possible biosignature sample from Mars? - Space",
+      "url": "https://www.space.com/astronomy/mars/could-china-return-the-perseverance-rovers-possible-biosignature-sample-from-mars",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oXJHGYfackHAU96DCknSwe-1280-80.png",
+      "source": "Space.com",
       "publishedAt": "2025-10-01T12:00:00Z",
-      "description": "„Parky jsou místa, kam mnoho lidí chodí, aby si promasírovali duši,“ řekl senátor John Hickenlooper (D-Colo.)."
+      "description": "Sonda Perseverance možná objevila stopy po starověkém životu na Marsu, ale čínská mise Tianwen-3 by mohla být první, která dopraví vzorky zpět na Zemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Peloton předělává vybavení, spouští komerční divizi a před svátky zvyšuje ceny",
-      "original_title": "Peloton revamps equipment, launches commercial unit and raises prices ahead of holidays - CNBC",
-      "url": "https://www.cnbc.com/2025/10/01/peloton-revamps-equipment-raises-prices-ahead-of-holidays-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139923-1746188612822-gettyimages-2212371010-McGregor250501NYCbusinesses09.jpeg?v=1759258212&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-01T11:00:01Z",
-      "description": "Peloton před sezónou svátků mění sortiment a zdražuje předplatné i hardwarové vybavení."
+      "title": "Detekce organických sloučenin v čerstvě vyvržených zrnkách ledu z oceánu Enceladu",
+      "original_title": "Detection of organic compounds in freshly ejected ice grains from Enceladus’s ocean - Nature",
+      "url": "https://www.nature.com/articles/s41550-025-02655-y",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41550-025-02655-y/MediaObjects/41550_2025_2655_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2025-10-01T11:26:15Z",
+      "description": "Čerstvé ledové částečky z výtrysku na Enceladu byly analyzovány během nejrychlejšího průletu sondy Cassini. Objeveny byly organické sloučeniny s řadou chemických struktur, což naznačuje komplexní c..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "„Velká vlna“ se šíří naší galaxií a vytlačuje tisíce hvězd z jejich míst",
-      "original_title": "A 'Great Wave' is rippling through our galaxy, pushing thousands of stars out of place - Live Science",
-      "url": "https://www.livescience.com/space/astronomy/a-great-wave-is-rippling-through-our-galaxy-pushing-thousands-of-stars-out-of-place",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/84qWJovQQWiUaFPN9RLQag-1920-80.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-10-01T11:00:00Z",
-      "description": "Obrovská „vlna“ se šíří Mléčnou dráhou a tlačí tisíce hvězd napříč galaxií a vědci nevědí, co ji spustilo."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Indonéští záchranáři 'závodí s časem' při pátrání po desítkách lidí v troskách zřícené školy",
-      "original_title": "Indonesian rescue workers 'racing against time' in search for dozens in rubble of collapsed school - AP News",
-      "url": "https://apnews.com/article/indonesia-islamic-school-collapse-java-16259f65a7ff76165dc67020c7d619ee",
-      "urlToImage": "https://dims.apnews.com/dims4/default/aa33c14/2147483647/strip/true/crop/3970x2233+0+207/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F2b%2F8db6d01d78e7b5f9b4c5c3713f2e%2Fac2fc814e15e4988b939d604238e0570",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-01T10:49:00Z",
-      "description": "Indonéští záchranáři bojují s časem při hledání přeživších po zřícení školy ve východní Jávě."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nové údaje o extrémní produkci niklu v koměti 3I/ATLAS od Aviho Loeba",
+      "title": "Nové údaje o extrémní produkci niklu u 3I/ATLAS - Avi Loeb",
       "original_title": "New Data on the Extreme Nickel Production of 3I/ATLAS - Avi Loeb – Medium",
       "url": "https://avi-loeb.medium.com/new-data-on-the-extreme-nickel-production-of-3i-atlas-c889b20342c1",
       "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*xbDHhebe2e3M7vHydYIM9A.png",
@@ -180,101 +246,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak moc by nás měl vzrušovat nejnovější objev potenciálních biosignatur na Marsu: ‚Jde patrně o dosud nejlepší důkaz‘",
-      "original_title": "How excited should we be about the latest Mars potential biosignature discovery: 'It's arguably the best evidence we have so far' - Space",
-      "url": "https://www.space.com/space-exploration/search-for-life/how-excited-should-we-be-about-the-latest-mars-potential-biosignature-discovery-its-arguably-the-best-evidence-we-have-so-far",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sPUXDMZfeB6upyUjQB4iSf-1600-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-01T10:00:00Z",
-      "description": "Nejsou to první tvrzení o známkách života na Marsu. Proč jsou teď vědci tak nadšení?"
+      "title": "Senátor King z Maine vysvětluje své překvapivé hlasování pro návrh během odstávky vlády",
+      "original_title": "Maine Sen. King explains surprising 'yes' vote amid government shutdown - WPFO",
+      "url": "https://wgme.com/news/local/maine-senator-angus-kingexplains-surprising-yes-vote-amid-government-shutdown-donald-trump-federal-services-president-donald-trump-trump-administration-democrats-republicans-funding-concessions-social-security-food-stamps",
+      "urlToImage": "https://fox23maine.com/resources/media2/16x9/1279/986/0x1/90/b3439546-e909-4fb6-bc88-7554432e813d-SVGOVERNMENTSHUTDOWNxcodemix15_frame_216.jpeg",
+      "source": "WGME",
+      "publishedAt": "2025-10-01T10:19:50Z",
+      "description": "Toto je první odstávka vlády od prosince roku 2018."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Cassini prokázala složitou chemii v oceánu na Enceladu",
-      "original_title": "Cassini proves complex chemistry in Enceladus ocean - European Space Agency",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Cassini_proves_complex_chemistry_in_Enceladus_ocean",
-      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/06/enceladus_jets_and_shadows/17568049-1-eng-GB/Enceladus_jets_and_shadows_pillars.jpg",
-      "source": "Esa.int",
-      "publishedAt": "2025-10-01T09:03:52Z",
-      "description": "Vědci našli v datech ze sondy Cassini nové komplexní organické molekuly tryskající z měsíce Enceladus"
+      "title": "„Bude to chaos.“ Obhájci přírody znepokojeni z poslední chvíle oznámenými plány na uzavření národních parků",
+      "original_title": "‘Going to Be Chaos’: Advocates Alarmed by Last-Minute National Parks Shutdown Plans - KQED",
+      "url": "https://www.kqed.org/news/12058137/government-shutdown-2025-national-parks-planning-memo",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/09/250912-TrumpsSignageOrder-36-BL_qed.jpg",
+      "source": "KQED",
+      "publishedAt": "2025-10-01T00:55:02Z",
+      "description": "Mnoho parků zůstane otevřeno i během odstávky federální vlády, panují však nejasnosti ohledně toho, co mohou návštěvníci očekávat."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Senzační odhalení: Jak izraelský útok nechtěně odstartoval Trumpův mírový plán pro Gazu",
-      "original_title": "Scoop: How an Israeli attack inadvertently launched Trump's Gaza peace plan - Axios",
-      "url": "https://www.axios.com/2025/10/01/scoop-how-an-israeli-attack-inadvertently-launched-trumps-gaza-peace-plan",
-      "urlToImage": "https://images.axios.com/tQli1-iPfjYcE8cswgDcCiYeUz0=/0x0:3000x2000/1366x768/2025/10/01/1759285063885.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-01T08:32:04Z",
-      "description": "Zákulisí vzniku Trumpova plánu během tří chaotických týdnů."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Silné zemětřesení na středních Filipínách zabilo nejméně 26 lidí",
-      "original_title": "Powerful earthquake in central Philippines kills at least 26 - The Washington Post",
-      "url": "https://www.washingtonpost.com/climate-environment/2025/09/30/philippines-earthquake-cebu-bogo/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ULHDDKUSW2X3AVXBYWPOBN3NV4.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-01T03:53:55Z",
-      "description": "Zemětřesení o síle 6,9 stupně zasáhlo střední Filipíny, poškodilo četné podniky a připravilo města o elektřinu. Počet obětí pravděpodobně poroste."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump tvrdí, že Bílý dům uzavřel dohodu s Harvardem",
-      "original_title": "Trump Claims White House Has Struck Deal With Harvard - The Harvard Crimson",
-      "url": "https://www.thecrimson.com/article/2025/10/1/trump-says-harvard-deal/",
-      "urlToImage": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2018/05/17/132246_1330904.jpg.2000x1282_q95_crop-smart_upscale.jpg",
-      "source": "Harvard Crimson",
-      "publishedAt": "2025-10-01T03:10:54Z",
-      "description": "Prezident Donald Trump v úterý v Oválné pracovně novinářům řekl, že Bílý dům s Harvardem „dohod uzavřel“, ale dodal, že dohoda ještě není konečná."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Hollywoodské celebrity jsou pobouřeny novou ‚AI herečkou‘ Tilly Norwood",
-      "original_title": "Hollywood celebrities outraged over new 'AI actor' Tilly Norwood - BBC",
-      "url": "https://www.bbc.com/news/articles/c99glvn5870o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8329/live/9adbba00-9e57-11f0-8a84-ab55f9d26dc5.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-01T02:52:58Z",
-      "description": "Umělá herečka jedná s hollywoodskými agenturami o zastoupení pro velká plátna."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Živě z akce Amazon 2025: Reakce na Echo Dot, Kindle Scribe Colorsoft, Fire TV a další",
-      "original_title": "Amazon event 2025 live: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more - ZDNET",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/amazon-event-2025-live-reactions-to-echo-dot-kindle-scribe-colorsoft-fire-tv-more/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e90e12319d4b6fafd364f688ab4455b4301b72e3/2025/09/30/23dffaf9-a89a-44cc-bc95-d356bbc5222d/dsc07846.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "source": "ZDNet",
-      "publishedAt": "2025-10-01T00:52:00Z",
-      "description": "Před Prime Day obchodní gigant spustil záplavu chytrých domácích zařízení včetně pokračování produktů Echo Dot, Kindle Scribe, Ring a dalších."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Konec cesty: Seanu Combsovi byl zamítnut nový proces ani osvobození; trest v případě sexuálního obchodování vynesou tento týden",
-      "original_title": "End Of The Road: Sean Combs Denied New Trial Or Acquittal; Sentencing In Sex-Trafficking Case This Week - Deadline",
-      "url": "http://deadline.com/2025/09/diddy-no-new-trial-1236556188/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/Diddy-1.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-01T00:22:00Z",
-      "description": "Diddy po vyčerpání soudních možností zjišťuje, jaké vězení mu hrozí za prostituci"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„…Mnohem menší, než jsme si mysleli“: Akcie Fordu (NYSE:F) klesají, protože Ford přehodnocuje trh s elektromobily",
-      "original_title": "“…Way Smaller Than We Thought”: Ford Stock (NYSE:F) Slips as Ford Reconsiders EV Market - TipRanks",
-      "url": "https://www.tipranks.com/news/way-smaller-than-we-thought-ford-stock-nysef-slips-as-ford-reconsiders-ev-market",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/09/ford-shutterstock_2620882723-2-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-09-30T19:36:59Z",
-      "description": "Špatné zprávy pro tradičního výrobce automobilů Ford ($F): CEO Jim Farley zjistil, že trh po skončení dotací na elektromobily není ani zdaleka takový, jak…"
+      "title": "Environmentální triumf 400 milionů let v procesu tvorby",
+      "original_title": "An Environmental Triumph 400 Million Years in the Making - Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/environmental-triumph-fungi-forest-soil-restoration-climate-change/",
+      "urlToImage": "https://reasonstobecheerful.world/wp-content/uploads/2025/09/shutterstock_2549098681-scaled.jpg",
+      "source": "Reasonstobecheerful.world",
+      "publishedAt": "2025-09-30T08:03:12Z",
+      "description": "Ochránci přírody využívají tisícileté vztahy mezi rostlinami a houbami k obnově lesů, snížení spotřeby hnojiv a boji proti změně klimatu."
     }
   ]
 }
