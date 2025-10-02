@@ -1,27 +1,60 @@
 {
-  "last_updated": "2025-10-02T08:22:59",
+  "last_updated": "2025-10-02T09:18:55",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‚Smutný a znepokojivý konec.‘ Školní rada DMPS přijala rezignaci superintendenta Iana Robertse",
+      "title": "Federální vláda zavřela kvůli neprojednanému rozpočtu",
+      "original_title": "Federal government shuts down after Senate fails to pass funding measures - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/congressional-leaders-continue-blame-game-clock-ticks-shutdown/story?id\\\\u003d126083610",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-01T10:07:30Z",
+      "description": ""
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Bowen: Síla Trumpova plánu pro Gazu je v nastolené dynamice, slabina v nejasných detailech",
+      "original_title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness - BBC",
+      "url": "https://www.bbc.com/news/articles/cn829deeje3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/856b/live/1250dd50-9e7f-11f0-9e55-1fac313765d4.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-01T07:05:33Z",
+      "description": "Plán je významný okamžik, ale postrádá praktické detaily, které rozhodují o tom, zda diplomatické dohody vydrží, či nikoliv."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nicole Kidman zná ‚tu druhou‘, která ukončila její manželství s Keithem Urbanem, tvrdí zdroj",
+      "original_title": "Nicole Kidman Knows ‘The Other Woman’ Who Ended Her Marriage With Keith Urban, Says Source - Yahoo",
+      "url": "https://www.mandatory.com/news/1667911-nicole-kidman-keith-urban-marriage-end-divorce-other-woman",
+      "urlToImage": "https://media.zenfs.com/en/mandatory_995/c273540ec508cd2d5b7b3f9a9c257f69",
+      "source": "Mandatory",
+      "publishedAt": "2025-10-01T06:49:00Z",
+      "description": "Manželství Nicole Kidmanové a Keitha Urbana je u konce. Herečka z filmu „Babygirl“ podala po 19 letech žádost o rozvod."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "‚Smutný a znepokojivý konec.‘ Školní rada v Des Moines odhlasovala přijetí rezignace superintendenta Iana Robertse",
       "original_title": "'Sad and troubling end': DMPS board votes to accept resignation of Superintendent Ian Roberts - KCCI",
       "url": "https://www.kcci.com/article/ian-roberts-des-moines-schools-superintendent-attorney-news-conference-video/68135025",
       "urlToImage": "https://kubrick.htvapps.com/vidthumb/6ca7e561-b15d-4fdd-bba9-9308c5005ff0/c92c1fba-dcb7-4950-9cd0-aafc1a6e1800.jpg?crop=0.873xw:0.872xh;0.0572xw,0&resize=1200:*",
       "source": "KCCI Des Moines",
       "publishedAt": "2025-10-01T05:03:00Z",
-      "description": "Právníci Iana Robertse, superintendenta školského obvodu Des Moines, který byl minulý týden zatčen imigračními úřady, v úterý uspořádali tiskovou konferenci."
+      "description": "Právníci Iana Robertse, ředitele školského obvodu Des Moines, který byl minulý týden zatčen imigračními úřady, uspořádali v úterý tiskovou konferenci."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Silné zemětřesení na středních Filipínách zabilo nejméně 26 lidí",
-      "original_title": "Powerful earthquake in central Philippines kills at least 26 - The Washington Post",
-      "url": "https://www.washingtonpost.com/climate-environment/2025/09/30/philippines-earthquake-cebu-bogo/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ULHDDKUSW2X3AVXBYWPOBN3NV4.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-01T03:53:55Z",
-      "description": "Zemětřesení o síle 6,9 stupně zasáhlo střední Filipíny, poškodilo řadu podniků a připravilo města o elektřinu. Počet obětí pravděpodobně poroste."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Soudce vyloučil prokurátorku jmenovanou Trumpem z některých případů, protože „není platně ve službě“",
+      "original_title": "Judge disqualifies Trump-appointed Nevada prosecutor from some cases after finding she's \"not validly serving\" - CBS News",
+      "url": "https://www.cbsnews.com/news/judge-trump-nevada-prosecutor-not-validly-serving/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/01/1a64fd10-00db-493d-9c8d-e6dc51616e58/thumbnail/1200x630/ae5a8da043191a2a9cb2659dcc532d4e/ap25274041546946.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-01T03:24:36Z",
+      "description": "Soudce v úterý rozhodl, že nejvyšší federální prokurátor v Nevadě nezastává svou roli legálně. Je to podruhé, co soudce částečně odstavil jednoho z prokurátorů Trumpovy administrativy."
     },
     {
       "flag": "🌍",
@@ -37,13 +70,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V kávovém průmyslu se něco chystá. Co bude dál?",
-      "original_title": "Change is brewing in the coffee industry. What lies ahead? - NPR",
-      "url": "https://www.npr.org/2025/09/30/nx-s1-5553625/coffee-day-farmers-industry-climate-change-labor-stenophylla",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+860/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F78%2Fb201a2a1483495695d6103d30064%2Fgettyimages-2225489968.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-01T03:09:24Z",
-      "description": "Pěstitelé kávy čelí změně klimatu, nedostatku pracovních sil a příjmům pod hranicí chudoby. Na Mezinárodní den kávy bilancujeme o odvětví za tímto nápojem."
+      "title": "Mark Cuban dal Trumpovu navrhovanému webu s léky přímo pro spotřebitele známku ‚B‘",
+      "original_title": "Mark Cuban gives Trump's proposed direct-to-consumer prescription drugs website a 'B' - Business Insider",
+      "url": "https://www.businessinsider.com/mark-cuban-responds-to-trumprx-venture-make-drugs-more-affordable-2025-9",
+      "urlToImage": "https://i.insider.com/68dc8502cc993f9955cf4247?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-10-01T03:02:00Z",
+      "description": "Majitel řetězce Cost Plus Drugs, miliardář, udělil oznámenému webu Trumpovy administrativy, TrumpRx.gov, zatím známku „B“."
     },
     {
       "flag": "🇬🇧",
@@ -54,18 +87,7 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8329/live/9adbba00-9e57-11f0-8a84-ab55f9d26dc5.jpg",
       "source": "BBC News",
       "publishedAt": "2025-10-01T02:52:58Z",
-      "description": "Umělá herečka jedná s hollywoodskými agenturami o zastupování na velkém plátně."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Demokratická kongresmanka konfrontovala Johnsona kvůli videu s Trumpem vytvořenému umělou inteligencí: ‚Je rasistické. Měli byste to odsoudit‘",
-      "original_title": "Democratic congresswoman confronts Johnson over Trump AI video: ‘It’s racist. You should call it out’ - CNN",
-      "url": "https://www.cnn.com/2025/09/30/politics/madeleine-dean-johnson-ai-video-trump",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21990920-51607-73375594295-still.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-01T02:21:00Z",
-      "description": "Demokratická poslankyně Madeleine Deanová konfrontovala předsedu Sněmovny Mika Johnsona hned po zasedání kvůli sporu o financování několik hodin před zastavením činnosti vlády."
+      "description": "Umělá herečka jedná s hollywoodskými agenturami o zastoupení na velkém plátně."
     },
     {
       "flag": "🌍",
@@ -81,117 +103,84 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Meta Ray-Ban Display je nyní v prodeji, ale pouze ve vybraných prodejnách v USA",
-      "original_title": "Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores - UploadVR",
-      "url": "https://www.uploadvr.com/meta-ray-ban-display-now-available-in-us-stores/",
-      "urlToImage": "https://www.uploadvr.com/content/images/size/w1200/2025/09/Meta-Ray-Ban-Display-and-Meta-Neural-Band-1.png",
-      "source": "UploadVR",
-      "publishedAt": "2025-10-01T00:56:15Z",
-      "description": "Meta Ray-Ban Display se nyní prodává ve vybraných kamenných prodejnách v USA, ve většině z nich je ale k nákupu nutné si zajistit demo."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Australský skandál s opalovacími krémy sílí, další výrobky staženy z prodeje",
-      "original_title": "Australia sunscreen scandal grows as more products pulled off shelves - BBC",
-      "url": "https://www.bbc.com/news/articles/c62qdje2ll4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80c6/live/8ea388e0-9e5b-11f0-84a5-3b487a8b7460.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-01T00:51:19Z",
-      "description": "Skandál vyvolal masivní vlnu odporu v zemi s nejvyšším výskytem rakoviny kůže na světě."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Scoop: Schumer mobilizuje demokraty před blížícím se uzavřením vlády",
-      "original_title": "Scoop: Schumer rallies Democrats as shutdown deadline looms - Axios",
-      "url": "https://www.axios.com/2025/09/30/schumer-democrats-senate-shutdown-rally",
-      "urlToImage": "https://images.axios.com/u00nTz7e8PLQ5YQxF0UpKYuF0cM=/0x34:4000x2284/1366x768/2025/09/30/1759266912826.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-01T00:49:22Z",
-      "description": "Schůzka senátních demokratů v úterý byla podle několika zdrojů motivující, zákonodárci se navzájem povzbuzovali, aby se postavili proti administrativě."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Zde je, kde si můžete předobjednat všechna nová zařízení Amazonu s Alexou a kdy dorazí",
-      "original_title": "Here’s where to preorder all of Amazon’s new Alexa devices and when they arrive - The Verge",
-      "url": "https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/2025-Echo-Studio-Press-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "title": "Sláva novému šampiónu soutěže Otloukaný medvěd",
+      "original_title": "All hail the new Fat Bear Champion - The Verge",
+      "url": "https://www.theverge.com/news/789358/new-fat-bear-week-champion",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/32-Chunk-NPS-image-by-Christine-Loberg.jpg?quality=90&strip=all&crop=0%2C10.709186101856%2C100%2C78.581627796287&w=1200",
       "source": "The Verge",
-      "publishedAt": "2025-10-01T00:15:00Z",
-      "description": "Na podzimní akci Amazon představil nové reproduktory Echo, bezpečnostní zařízení Ring, čtečky Kindle a další zařízení s Alexou, mnohé z nich jsou již k předobjednání."
+      "publishedAt": "2025-10-01T01:10:00Z",
+      "description": "Žádní králové kromě Chanka"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak funguje čínské vízum K a může konkurovat vízu H-1B?",
-      "original_title": "How does China’s K visa work and can it compete with the H-1B? - Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2025/10/1/how-does-chinas-k-visa-work-and-can-it-compete-with-the-h-1b",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/GettyImages-1228232425-1-1759213970.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-10-01T00:05:34Z",
-      "description": "Čína zavádí nová víza pro zahraniční talenty v technických oborech právě v době, kdy USA zpřísňují podmínky pro H-1B."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Přeživší z útoku v kostele v Michiganu říká, že se podívala střelci, který zabil jejího otce, do očí: „Hned jsem mu odpustila“",
-      "original_title": "Michigan church shooting survivor says she looked gunman who killed her father in the eyes: \"I forgave him right there\" - CBS News",
-      "url": "https://www.cbsnews.com/news/michigan-church-shooting-survivor-letter/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/28/48ebf823-82de-42fe-9957-9102dddac20d/thumbnail/1200x630/b616b5bf78abd705bc634f0b7c43ac27/gettyimages-2237614878.jpg",
+      "title": "Desítky mrtvých po zemětřesení o síle 6,9 na Filipínách",
+      "original_title": "Dozens dead after 6.9-magnitude earthquake strikes Philippines - CBS News",
+      "url": "https://www.cbsnews.com/news/philippines-earthquake-dozens-dead/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/01/7dab0070-c5ee-4c39-8c55-c97da941925e/thumbnail/1200x630/d93e57716af031cbc8d9e39dcb42227a/gettyimages-2237920243.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-09-30T22:53:00Z",
-      "description": "V dopise zveřejněném v pondělí žena vylíčila události střelby v kostele Církve Ježíše Krista Svatých posledních dnů v Grand Blanc."
+      "publishedAt": "2025-10-01T01:02:00Z",
+      "description": "Zemětřesení o síle 6,9 stupně na Filipínách zabilo desítky lidí, záchranáři hledají přeživší."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V místnosti plné mužů vyzval Hegseth k posunu vojenské kultury od ‚woke‘ k ‚válečnickému‘",
-      "original_title": "In a room full of men, Hegseth called for a military culture shift from ‘woke’ to ‘warrior’ - The 19th News",
-      "url": "https://19thnews.org/2025/09/hegseth-military-culture-commanders/",
-      "urlToImage": "https://19thnews.org/wp-content/uploads/2025/09/hegseth_military.jpg",
-      "source": "19thnews.org",
-      "publishedAt": "2025-09-30T22:22:42Z",
-      "description": "Ministr obrany Pete Hegseth svolal stovky velitelů a odsoudil rozmanitost ve vojenských řadách."
+      "title": "Živě z akce Amazon 2025: Reakce na Echo Dot, Kindle Scribe Colorsoft, Fire TV a další",
+      "original_title": "Amazon event 2025 live: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more - ZDNET",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/amazon-event-2025-live-reactions-to-echo-dot-kindle-scribe-colorsoft-fire-tv-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e90e12319d4b6fafd364f688ab4455b4301b72e3/2025/09/30/23dffaf9-a89a-44cc-bc95-d356bbc5222d/dsc07846.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-10-01T00:52:00Z",
+      "description": "Před Prime Day představil obří prodejce záplavu chytrých zařízení pro domácnost včetně nových verzí Echo Dot, Kindle Scribe, Ring a dalších."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nicole Kidman podala žádost o rozvod s Keithem Urbanem z důvodu „neslučitelných rozdílů“",
-      "original_title": "Nicole Kidman files for divorce from Keith Urban, citing \"irreconcilable differences\" - CBS News",
-      "url": "https://www.cbsnews.com/news/nicole-kidman-files-divorce-keith-urban/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/30/76886af2-93f8-4e7c-bef2-70bfc639de16/thumbnail/1200x630/bfa9a688d8075dec7165556f2988ddaa/gettyimages-2214162692.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-09-30T22:15:00Z",
-      "description": "Nicole Kidman a Keith Urban jsou manželé od roku 2006 a mají spolu dvě dcery."
+      "title": "Státní zástupci žádají pro Seana 'Diddy' Combse více než 11 let vězení",
+      "original_title": "Prosecutors want Sean ‘Diddy’ Combs sentenced to more than 11 years in prison - AP News",
+      "url": "https://apnews.com/article/diddy-sean-combs-sentencing-government-submission-3153f78c3cfa754681cc9d52078a20fb",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7d7b28e/2147483647/strip/true/crop/3000x1688+0+320/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fae%2Fce%2F1713f8e89181d72290fc49d10303%2Fa4d3656e95ce46d0ac3574543ce03089",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-01T00:32:00Z",
+      "description": "Státní zástupci žádají newyorského federálního soudce o více než 11 let vězení pro hudebního magnáta Seana „Diddyho Combse"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump po dohodě s Pfizerem oznamuje spuštění webu 'TrumpRx' pro farmaceutické přípravky",
-      "original_title": "Trump announces 'TrumpRx' website for pharmaceutical drugs after Pfizer deal - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/trump-announces-trumprx-website-pharmaceutical-drugs-after-pfizer/story?id\\\\u003d126094779",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-09-30T21:16:55Z",
-      "description": ""
+      "title": "Prime Big Deal Days 2025: Všechno, co víme o říjnové slevové akci Amazonu",
+      "original_title": "Prime Big Deal Days 2025: Everything We Know About Amazon's October Sale - IGN",
+      "url": "https://www.ign.com/articles/amazon-prime-big-deal-days-2025-news-and-predictions",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/09/15/october-prime-day-sale-announced-dates-ign-1757936495080.png?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-10-01T00:23:11Z",
+      "description": "Vše, co potřebujete vědět před výprodejovou akcí"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "SpaceX má v rukávu ještě pár triků pro poslední let Starship tento rok",
-      "original_title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year - Ars Technica",
-      "url": "https://arstechnica.com/space/2025/09/spacex-has-a-few-tricks-up-its-sleeve-for-the-last-starship-flight-of-the-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ship38staticfire-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-09-30T18:36:17Z",
-      "description": "SpaceX znovu použije uryhlovací stupeň Super Heavy s 24 již letěnými motory Raptor."
+      "title": "Trumpova administrativa viní z odstávky demokraty, uvádí se v oficiálních varováních vlády s blížícím se termínem",
+      "original_title": "Trump administration blames Democrats for shutdown in official government warnings as deadline nears - AP News",
+      "url": "https://apnews.com/article/trump-shutdown-warning-democrats-hatch-act-hud-d21afb79d01007bdd39a9211af1e2b99",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b9fb90c/2147483647/strip/true/crop/2987x1680+0+155/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2Ff0%2Fb6af62075843c02fbe908c4b8ac0%2F76c45d53b4174bd28f9180370100794f",
+      "source": "Associated Press",
+      "publishedAt": "2025-09-30T23:33:00Z",
+      "description": "Trumpova administrativa využívá vládní komunikaci k obviňování demokratů z potenciálního odstávky americké vlády. V úterý se na webu ministerstva pro bydlení a rozvoj měst objevilo prohlášení obviň..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kdy je nejvhodnější doba nechat své dítě očkovat proti chřipce?",
+      "title": "Silver Lake upevňuje pozici mocného hráče akvizicí EA za 55 miliard dolarů",
+      "original_title": "Silver Lake Cements Power Broker Status With $55 Billion EA Deal - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-30/silver-lake-cements-power-broker-status-with-55-billion-ea-deal",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9OQn.78Yv_8/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-09-30T18:03:24Z",
+      "description": "Léta měly v rekordních knihách o největších leveraged buyoutech na prvních místech očekávaná jména: průkopníka oboru KKR &amp; Co. a bilionového behemota Blackstone Inc."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Kdy je nejlepší čas nechat své dítě očkovat proti chřipce?",
       "original_title": "When Is the Best Time for Your Child to Get a Flu Shot? - AOL.com",
       "url": "https://www.prevention.com/health/health-conditions/a68134972/when-is-the-best-time-for-your-child-to-get-a-flu-shot/",
       "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/doctor-putting-a-bandage-on-the-childs-arm-after-royalty-free-image-1757358638.pjpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
@@ -202,13 +191,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nová studie odhaluje, že 99 % infarktů a mrtvic má varovné příznaky, které lze odhalit včas",
-      "original_title": "New study reveals 99% of heart attacks and strokes have warning signs that can be detected early - Scripps News",
-      "url": "https://www.scrippsnews.com/health/new-study-reveals-99-of-heart-attacks-and-strokes-have-warning-signs-that-can-be-detected-early",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/e839d72/2147483647/strip/true/crop/5450x2861+0+612/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2F87%2F26f3898744619d1029523215321f%2Fshutterstock-2387615753.jpg",
-      "source": "Scrippsnews.com",
-      "publishedAt": "2025-09-30T16:15:55Z",
-      "description": "Nová studie ukazuje, že infarkty, mrtvice a srdeční choroby téměř vždy předcházejí varovné signály, což dává naději, že tyto život ohrožující události lze předcházet včasnými změnami."
+      "title": "Daniel Ek ze Spotify oznamuje, že se vzdá funkce generálního ředitele",
+      "original_title": "Spotify's Daniel Ek announces that he'll step aside as CEO - NPR",
+      "url": "https://www.npr.org/2025/09/30/nx-s1-5558012/spotifys-daniel-ek-announces-that-hell-step-aside-as-ceo",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2811+0+234/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F4d%2F302a013f4336be915a3fe3240e40%2Fgettyimages-2184632198.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-09-30T16:33:07Z",
+      "description": "Zakladatel největší hudební streamovací služby světa zůstane ve firmě jako výkonný předseda, nahradí ho dva spolugenerální ředitelé."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Uniklé rendery Galaxy S26 Ultra odhalují obrovský nový výčnělek fotoaparátu od Samsungu",
+      "original_title": "Leaked Galaxy S26 Ultra renders show off Samsung’s massive new camera bump - 9to5Google",
+      "url": "http://9to5google.com/2025/09/30/leaked-samsung-galaxy-s26-ultra-renders-massive-new-camera-bump/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Ultra-CAD-bas-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-09-30T16:06:00Z",
+      "description": "Galaxy S26 Ultra bude zřejmě poměrně konzervativní smartphone, ale jeho nový fotoaparát nemusí fanouškům sednout."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Populární herec a zpěvák je hledán policií poté, co jeho psi roztrhali sousedovic mazlíčka na kusy",
+      "original_title": "Popular actor and singer wanted by police after his dogs mauled neighbor’s pet to death - NJ.com",
+      "url": "https://www.nj.com/entertainment/2025/09/popular-actor-and-singer-wanted-by-police-after-his-dog-mauled-neighbors-pet-to-death.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/7I7W5DRBXNCJXNBI5WQHCGSKLE.jpg?auth=72a1ffeed1eb26ebbcb48c05ff3fda8525d11e9418d5f0f9a5aa38c72687ac3e&width=1280&smart=true&quality=90",
+      "source": "nj.com",
+      "publishedAt": "2025-09-30T15:22:00Z",
+      "description": "Bylo nahlášeno, že psům baviče se před incidentem několikrát volně pobíhali."
     },
     {
       "flag": "🌍",
@@ -224,13 +235,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Amazon představuje barevný Kindle se stylusem a televizní stick za 40 dolarů s podporou 4K videa",
+      "title": "Amazon představil barevný Kindle se stylusem a televizní klíček za 40 dolarů s podporou 4K videa",
       "original_title": "Amazon Launches Color Kindle with Stylus, $40 TV Stick With 4K Video - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2025-09-30/amazon-devices-news-630-color-kindle-scribe-40-4k-fire-tv-stick-ring-blink",
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkuRiIHOJ5A/v1/1200x800.jpg",
       "source": "Bloomberg",
       "publishedAt": "2025-09-30T14:51:30Z",
-      "description": "Společnost také uvádí na trh nové televizory a vylepšené produkty pro zabezpečení domácnosti od značek Ring a Blink."
+      "description": "Společnost také představuje nové televizory a vylepšené produkty pro zabezpečení domácnosti od značek Ring a Blink."
     },
     {
       "flag": "🌍",
@@ -246,7 +257,7 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jak mohou některé nosní spreje pomoci chránit před covidem",
+      "title": "Jak některé nosní spreje mohou pomoci chránit před covidem",
       "original_title": "How some nasal sprays may help protect you from covid - The Washington Post",
       "url": "https://www.washingtonpost.com/wellness/2025/09/30/covid-nasal-spray-coronavirus/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ZWYZL3C4QEUJIVI7YTERG2P34.jpg&w=1440",
@@ -257,7 +268,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "První pohled Jamesova Webbova vesmírného teleskopu na atmosféru exoplanety v obyvatelné zóně",
+      "title": "Virus opičích neštovic objeven v odpadních vodách v okrese Pierce",
+      "original_title": "Mpox (monkeypox) virus discovered in Pierce County wastewater - KOMO",
+      "url": "https://komonews.com/news/local/mpox-monkeypox-virus-discovered-in-pierce-county-wastewater-health-disease-pandemic-pox-infection-transmission-rash-blisters-children-pregnant-contact",
+      "urlToImage": "https://komonews.com/resources/media2/16x9/1080/986/0x237/90/e5f1ee8b-4d04-4f10-917b-412aaa2b1655-monkeypoxexamples2.jpg",
+      "source": "KOMO News",
+      "publishedAt": "2025-09-29T22:00:50Z",
+      "description": "Ministerstvo zdravotnictví státu Washington detekovalo ve vzorcích odpadních vod z okresu Pierce virus mpox (dříve neštovic opičích) z kladu I."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "První pohled vesmírného teleskopu Jamese Webba na atmosféru exoplanety v obyvatelné zóně",
       "original_title": "James Webb Space Telescope’s First Look at an Atmosphere on Habitable Zone Exoplanet - Good News Network",
       "url": "https://www.goodnewsnetwork.org/james-webb-space-telescopes-first-look-at-an-atmosphere-on-habitable-zone-exoplanet/",
       "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/09/Credit-NASA-ESA-CSA-J.-Olmsted-STScI.jpg",
@@ -268,13 +290,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trpíte zimní depresí? Začněte s fototerapií včas, pomůže.",
-      "original_title": "Prone to winter depression? Starting light therapy now can help - NPR",
-      "url": "https://www.npr.org/2025/09/29/nx-s1-5546611/seasonal-depression-light-therapy-mental-health",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F1a%2Fab3e0f9d41649a282e72f969164a%2Fgettyimages-1447989311.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-09-29T09:00:00Z",
-      "description": "S ubývajícím světlem může klesat i nálada. Miliony Američanů trpí sezónní afektivní poruchou. Světelná terapie může pomoci odvrátit zimní depresi, a to už od podzimu."
+      "title": "Rychlé změny v Antarktidě jsou pro svět ‚vážným varováním‘",
+      "original_title": "Rapid changes in the Antarctic are 'stark warning' to the world - Oceanographic Magazine",
+      "url": "https://oceanographicmagazine.com/news/rapid-change-happening-in-antarctica-is-stark-warning-to-the-world/",
+      "urlToImage": "https://cdn.oceanographicmagazine.com/wp-content/uploads/2025/09/29152703/Dylan-Shaw-Antarctica-scaled.jpg",
+      "source": "Oceanographic Magazine",
+      "publishedAt": "2025-09-29T14:32:05Z",
+      "description": "Vědci se sejdou tento týden v Londýně, aby vydali naléhavé varování: Antarktida se mění. A rychle. A dopadne to na nás všechny."
     }
   ]
 }
