@@ -1,126 +1,115 @@
 {
-  "last_updated": "2025-10-02T23:15:38",
+  "last_updated": "2025-10-03T01:18:48",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Živé zpravodajství o uzavření vlády: Bílý dům se chystá snížit financování o miliardy",
+      "title": "Futures na akcie jsou téměř beze změn, investoři přehlížejí hrozbu zavření vlády: Živé aktualizace",
+      "original_title": "Stock futures are little changed as investors look past government shutdown: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/10/01/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206502-1759334012356-Traders-OB-Photo-20251001-CC-PRESS-15.jpg?v=1759334321&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-01T23:24:00Z",
+      "description": "Hlavní americké akciové indexy ve středu uzavřely v kladném teritoriu kvůli nadějím, že zastavení financování bude krátké a omezí vážné dopady na ekonomiku."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Izraelské válečné lodě zachytily flotilu plující do Gazy",
+      "original_title": "Israeli naval ships intercept Gaza-bound flotilla - BBC",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/99e4/live/eceddee0-9f1f-11f0-92db-77261a15b9d2.png",
+      "source": "BBC News",
+      "publishedAt": "2025-10-01T22:39:57Z",
+      "description": "Klimatická aktivistka Greta Thunbergová je mezi aktivisty na palubě Globální flotily Sumud, které jsou odváženy do izraelského přístavu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Papež Lev XIV. říká, že ‚nelidské zacházení s imigranty‘ v USA není ‚pro-life‘",
+      "original_title": "Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life' - NPR",
+      "url": "https://www.npr.org/2025/10/01/nx-s1-5560169/pope-leo-xiv-says-inhuman-treatment-of-immigrants-in-the-u-s-isnt-pro-life",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5888x3312+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F34%2F76%2Fa1f0d5254d75b98885976d0c572b%2Fap25274289345422.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-01T21:53:21Z",
+      "description": "Papež Lev XIV. se vyjádřil k americké politice: katoličtí politici mají být hodnoceni podle celého spektra svých postojů a imigrační politika USA je „nehumánní“"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zemětřesení na moři zabilo na Filipínách nejméně 69 lidí, uvádějí úředníci",
+      "original_title": "Offshore earthquake kills at least 69 in Philippines, officials say - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/International/offshore-earthquake-kills-69-philippines-officials/story?id\\\\u003d126109221",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-01T21:45:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zmrazené federální prostředky pro tunel Hudson zasáhly do volebního klání o post guvernéra New Jersey",
+      "original_title": "Frozen federal funds for Hudson Tunnel project hit New Jersey's race for governor - NBC News",
+      "url": "https://www.nbcnews.com/politics/elections/frozen-federal-tunnel-funds-hit-new-jerseys-race-governor-rcna235020",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250926-Mikie-Sherrill-se-1017a-6f0892.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-01T21:16:12Z",
+      "description": "Kandidáti na guvernéra New Jersey se obviňují poté, co Trumpova administrativa zmrazila miliardy dolarů na federální financování dvou infrastrukturních projektů včetně tunelu Hudson spojujícího New..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Jane Goodallová, primatoložka a přítelkyně šimpanzů, zemřela ve věku 91 let",
+      "original_title": "Jane Goodall, primatologist and friend to chimpanzees, dies at 91 - The Washington Post",
+      "url": "https://www.washingtonpost.com/obituaries/2025/10/01/jane-goodall-dead/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTKMIRPPCQPWIQKJWQFEPNIXAE.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-01T21:13:47Z",
+      "description": "Využila svého světového věhlasu, aby upozornila na osud ubývajících populací šimpanzů a obecněji na nebezpečí ničení životního prostředí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Infografika popisuje 15 let inovací fotoaparátů Samsung: od původního Galaxy S po současnost",
+      "original_title": "Infographic details 15 years of Samsung camera innovations: from the original Galaxy S to today - GSMArena.com news - GSMArena.com",
+      "url": "https://www.gsmarena.com/infographic_details_15_years_of_samsung_camera_innovations_from_the_original_galaxy_s_to_today-news-69750.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/09/samsung-galaxy-s-series-camera-infographic/-952x498w6/gsmarena_000.jpg",
+      "source": "GSMArena.com",
+      "publishedAt": "2025-10-01T21:02:02Z",
+      "description": "Historie telefonů Galaxy S začíná v roce 2010 – první model měl 5MP fotoaparát s nahráváním videa v rozlišení 720p. S25 Ultra má 200MP fotoaparát s 8K videem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Živé zpravodajství o zastavení činnosti vlády: Bílý dům navrhuje snížit financování o miliardy",
       "original_title": "Government shutdown live updates as White House moves to cut billions in funding - CBS News",
       "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-shutdown-begins-trump/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/01/a0a7075e-6594-4523-aa69-599a67d50825/thumbnail/1200x630g2/3477b2fb4318da6574c89065c7c6dc92/gettyimages-2238171693.jpg",
       "source": "CBS News",
       "publishedAt": "2025-10-01T20:57:00Z",
-      "description": "První odstávka vlády za téměř sedm let začala, republikáni a demokraté se nedohodli na financování na rok 2025. Sledujte živé aktualizace."
+      "description": "První odstávka vlády za téměř sedm let je v plném proudu, republikáni a demokraté zůstávají v patu ohledně financování na rok 2025. Sledujte živé aktualizace zde."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Brock Purdy, Jauan Jennings a Ricky Pearsall vynechají zápas 49ers proti Rams",
-      "original_title": "Brock Purdy, Jauan Jennings, Ricky Pearsall all ruled out for 49ers-Rams - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-jauan-jennings-ricky-pearsall-all-ruled-out-for-49ers-rams",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/ffb5d10/2147483647/strip/true/crop/6884x3872+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2Faa%2F1c4729be435d97671dffd5aaea52%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27217119",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-10-01T20:25:00Z",
-      "description": "San Francisco bude ve čtvrtek večer oslabený, protože Mac Jones má nastoupit ke svému třetímu startu v sezóně."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Aktivisté tvrdí, že izraelské námořnictvo začalo zachycovat pomocnou flotilu mířící do Gazy",
-      "original_title": "Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla - NPR",
-      "url": "https://www.npr.org/2025/10/01/g-s1-91522/gaza-aid-flotilla-sumud-israel",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4877x2743+0+254/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd1%2Fbf%2F468a77a14fd7874436e7e6680c4c%2Fap25252530899493.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-01T20:12:53Z",
-      "description": "Globální flotila Sumud s Gretou Thunbergovou, vnukem Nelsona Mandely a evropskými poslanci na palubě zahrnuje asi 50 lodí a 500 aktivistů a veze symbolické množství humanitární pomoci."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Hollywood se netváří přívětivě k uměle vytvořené herečce Tilly Norwood",
-      "original_title": "Hollywood is not taking kindly to the AI-generated actress Tilly Norwood - TechCrunch",
-      "url": "https://techcrunch.com/2025/10/01/hollywood-is-not-taking-kindly-to-the-ai-generated-actress-tilly-norwood/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-01-at-3.00.40PM.png?resize=1200,821",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-01T19:37:10Z",
-      "description": "Tilly Norwood není skutečná, ale společnost, která ji vytvořila, doufá, že je první z mnoha hvězd generovaných umělou inteligencí."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Elon Musk je prvním člověkem v historii s majetkem za 500 miliard dolarů",
+      "title": "Elon Musk se stal prvním člověkem v historii s majetkem za 500 miliard dolarů",
       "original_title": "Elon Musk Just Became The First Person Ever Worth $500 Billion - Forbes",
       "url": "https://www.forbes.com/sites/mattdurot/2025/10/01/elon-musk-just-became-the-first-person-ever-worth-500-billion/",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dd81898000a9c801597194/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "source": "Forbes",
       "publishedAt": "2025-10-01T19:34:20Z",
-      "description": "Musk je na půli cesty k tomu, aby se stal prvním bilionářem v historii."
+      "description": "Musk je v půlce cesty k tomu, aby se stal prvním bilionářem v historii."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Nejvyšší soud dočasně umožňuje Lise Cookové zůstat ve správní radě Fedu",
-      "original_title": "Supreme Court allows Lisa Cook to remain on Fed board for now - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/10/01/trump-supreme-court-lisa-cook-federal-reserve/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47EA5WARQSMUTTDHXJR33RIX4_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-01T19:32:34Z",
-      "description": "Rozhodnutí nejvyššího soudu znamená, že Cooková může ve Fedu zůstat minimálně do ledna, kdy soud případ projedná. Trump usiloval o její odvolání."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Bílý dům se ohrazuje proti výroku papeže Lva, že imigranti jsou v USA vystaveni „nelidskému zacházení“",
-      "original_title": "White House pushes back on Pope Leo’s statement that immigrants are subject to 'inhuman treatment' in the U.S. - Politico",
-      "url": "https://www.politico.com/news/2025/10/01/white-house-pushes-back-on-pope-leos-statement-that-immigrants-are-subject-to-inhuman-treatment-in-the-u-s-00590470",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd0%2F15%2Fa0c76af940d8b54cd9a8b7d67dea%2Funlimiteduse-wh-10-01-25.JPG",
-      "source": "Politico",
-      "publishedAt": "2025-10-01T19:29:31Z",
-      "description": "Není to poprvé, co římský biskup kritizoval imigrační politiku Trumpovy administrativy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump zadrží miliardy dolarů na projektech tunelu Gateway a metra Second Ave.",
-      "original_title": "Trump to withhold billions of dollars from Gateway tunnel and Second Ave. subway projects - Politico",
-      "url": "https://www.politico.com/news/2025/10/01/trump-to-withhold-billions-of-dollars-from-gateway-tunnel-and-second-ave-subway-projects-00589772",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F99%2Fd5%2Fde7831384733bdf0cdc6451e05a6%2Fwhite-house-99846.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-01T18:59:11Z",
-      "description": "Krok byl oznámen několik hodin po zastavení činnosti federální vlády."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Výrobci aut prodlužují slevu 7500 dolarů na elektromobily po skončení federální dotace",
-      "original_title": "Automakers Extend $7,500 EV Discount After Federal Subsidy Expires - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-01/automakers-extend-7-500-ev-discount-as-federal-subsidy-expires",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imBJdRRaZwWU/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-01T18:56:44Z",
-      "description": "General Motors Co., Hyundai Motor Co. a Ford Motor Co. prodlouží slevy na vybrané elektromodely poté, co v úterý skončila federální daňová sleva 7 500 dolarů. Snaží se tak udržet dynamiku po prudké..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Zdravotnictví je klíčové pro demokraty v boji o rozpočet. Zde je to, co je třeba vědět.",
+      "title": "Zdravotní péče je klíčová pro demokraty v boji o rozpočtu. Co je třeba vědět.",
       "original_title": "Health care is key for Democrats in shutdown fight. Here’s what to know. - The Washington Post",
       "url": "https://www.washingtonpost.com/politics/2025/10/01/democrats-republicans-government-shutdown-health-care/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PAVR47NPYUTUUX6QNS4D7IIXVM.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-10-01T18:29:05Z",
-      "description": "Demokraté se snažili prodloužit dotace na dostupnou zdravotní péči. Republikáni falešně tvrdili, že demokraté chtějí dát nelegálním imigrantům plné zdravotní benefity."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Jane Goodallová, expertka na šimpanzy a bojovnice za práva zvířat, zemřela ve věku 91 let – sledujte aktuální dění",
-      "original_title": "Jane Goodall, chimpanzee expert and animal rights campaigner, dies age 91 - follow live - BBC",
-      "url": "https://www.bbc.com/news/live/c9qyw2ewl2nt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ee7/live/a951fe90-9ef3-11f0-b1c8-5d59c9f3a032.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-01T18:22:30Z",
-      "description": "Primatoložka byla podle svého ústavu \"neúnavnou zastánkyní\" ochrany druhů."
+      "description": "Demokraté se snažili prodloužit dotace na dostupnou zdravotní péči. Republikáni falešně tvrdili, že demokraté chtějí dát migrantům bez dokladů plné zdravotní dávky."
     },
     {
       "flag": "🇺🇸",
@@ -136,35 +125,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jane Fonda obnovuje protimccarthismusovou iniciativu svého otce na obranu svobody slova",
+      "title": "Bývalá hvězda Wall Street Charlie Javice se v dojemné omluvě akcionářům JPMorgan vyjádřila: „Cítím lítost hlubší, než jsem si dokázala představit“",
+      "original_title": "Former Wall Street darling Charlie Javice says 'I have remorse deeper than I knew possible' in tearful apology to JPMorgan shareholders - Fortune",
+      "url": "https://fortune.com/2025/10/01/charlie-javice-frank-jpmorgan-chase-fraud-prison-sentencing-speech/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2206723526-e1759244047657.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-10-01T18:03:00Z",
+      "description": "Třiatřicetiletá podnikatelka byla kdysi na Forbesově seznamu 30 pod 30. Právě ji odsoudili k sedmi letům vězení."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jane Fonda obnovuje protimccarthystickou iniciativu svého otce na obranu svobody slova",
       "original_title": "Jane Fonda relaunches her father's McCarthy-era free speech initiative - NBC News",
       "url": "https://www.nbcnews.com/news/us-news/jane-fonda-relaunches-committee-for-the-first-amendment-rcna234934",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251001-jane-jonda-gk-d57526.jpg",
       "source": "NBC News",
       "publishedAt": "2025-10-01T17:27:30Z",
-      "description": "Jane Fonda obnovila činnost Výboru pro první dodatek, iniciativu za svobodu slova, kterou původně založil její otec, hollywoodská ikona Henry Fonda."
+      "description": "Jane Fonda obnovila Výbor pro první dodatek, iniciativu za svobodu slova, kterou původně založil její otec, hollywoodská ikona Henry Fonda."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Akcie dnes: Dow a S&P 500 téměř beze změn, vláda USA zahájila shutdown — online zpravodajství",
-      "original_title": "Stock Market Today: Dow, S&P 500 Little Changed as Government Shutdown Begins — Live Updates - The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-government-shutdown-10-01-2025",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-01T17:02:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Německo zprávy: Oktoberfest se znovu otevírá po bombovém výhrůžce v Mnichově",
-      "original_title": "Germany news: Oktoberfest reopens after Munich bomb scare - DW",
-      "url": "https://www.dw.com/en/germany-news-oktoberfest-reopens-after-munich-bomb-scare/live-74195834",
-      "urlToImage": "https://static.dw.com/image/74208556_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-10-01T16:52:30Z",
-      "description": "Německý světoznámý pivní festival Oktoberfest byl ve středu na dlouhou dobu uzavřen pro návštěvníky kvůli požáru domu a podezření ze sebevraždy s možnou souvislostí s akcí. Více informací přináší DW."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Zde jsme se vyhnuli velké katastrofě\": Po částečném zřícení newyorského mrakodrapu nejsou žádní zranění",
+      "original_title": "'We avoided a major disaster here': No injuries after New York high-rise partially collapses - BBC",
+      "url": "https://www.bbc.com/news/live/c74dzy1zl94t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/225c/live/30f7b820-9edc-11f0-9cc3-55b0375a170c.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-01T17:15:00Z",
+      "description": "Větrací šachta v budově v Bronxu se zhroutila v 08:00 místního času po výbuchu."
     },
     {
       "flag": "🌍",
@@ -175,45 +164,12 @@
       "urlToImage": "https://i.pcmag.com/imagery/articles/04eBC17sQ8QYcZtKtImuOpX-1.fit_lim.size_1200x630.v1759257910.jpg",
       "source": "PCMag.com",
       "publishedAt": "2025-10-01T16:11:03Z",
-      "description": "Před nadcházejícími Prime Big Deal Days jsme se podívali na nové produkty z Amazonu pro rok 2025"
+      "description": "Před nadcházejícími Prime Big Deal Days jsme se podívali na nové produkty z řady hardwaru Amazonu pro rok 2025."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vlastnosti autismu mohou ovlivnit věk diagnózy – a totéž platí pro geny",
-      "original_title": "Features of autism can affect age of diagnosis – and so can genes - Nature",
-      "url": "https://www.nature.com/articles/d41586-025-03180-8",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03180-8/d41586-025-03180-8_51508968.jpg",
-      "source": "Nature.com",
-      "publishedAt": "2025-10-01T16:07:05Z",
-      "description": "Věk diagnózy autismu lze částečně vysvětlit genetickými faktory."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Co je to ‚dronová zeď‘? Lídři EU jednají o plánech, jak čelit ruským dronům.",
-      "original_title": "With EU leaders discussing plans to counter Russian drones, what exactly is a ‘drone wall’? - CNN",
-      "url": "https://www.cnn.com/2025/10/01/europe/drone-wall-eu-leaders-counter-russia-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237760732.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-01T15:38:28Z",
-      "description": "Po týdnech opakovaných narušení evropského vzdušného prostoru se úředníci scházejí v dánské metropoli Kodani, kde mají projednat několik opatření na ochranu nebe nad kontinentem včetně vlajkového p..."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Kevin Stefanski uznal, že obraty hrály velkou roli při přechodu od Joea Flacca k Dillonu Gabrielovi",
-      "original_title": "Kevin Stefanski acknowledged that turnovers played a big role in the switch from Joe Flacco to Dillon Gabriel - Cleveland.com",
-      "url": "https://www.cleveland.com/browns/2025/10/kevin-stefanski-acknowledged-that-turnovers-played-a-big-role-in-the-switch-from-joe-flacco-to-dillon-gabriel.html",
-      "urlToImage": "https://www.cleveland.com/resizer/v2/VP2JZO6RMJEOBFDPNVH276S6ZM.JPG?auth=151ad8393c497c5599d729e90707c09c64bc443d17f1547765c74edc5ab67413&width=1280&smart=true&quality=90",
-      "source": "cleveland.com",
-      "publishedAt": "2025-10-01T15:28:00Z",
-      "description": "Kevin Stefanski vysvětluje, proč nahradil Joea Flacca Dillonem Gabrielem."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Keith Urban trapně odmítl chválu na manželství s Nicole Kidman před rozchodem",
+      "title": "Keith Urban se trapně vyhýbal chvále na manželství s Nicole Kidman před rozchodem",
       "original_title": "Keith Urban Awkwardly Avoided Nicole Kidman Marriage Praise Before Breakup - E! Online",
       "url": "https://www.eonline.com/news/1423254/keith-urban-avoided-nicole-kidman-marriage-praise-before-split",
       "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20250929/997a6edd-e263-48bb-a284-0c36ae733c2e_1759185632.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
@@ -224,13 +180,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Část výškového obytného domu v New Yorku se zřítila, nejsou hlášena zranění - ABC News - Nejnovější zprávy a videa",
-      "original_title": "Part of a high-rise apartment building in New York City collapses, no injuries reported - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/wireStory/part-high-rise-apartment-building-new-york-city-126113752",
-      "urlToImage": "https://i.abcnewsfe.com/a/906c7032-a66a-431e-b3d8-7aafd06f993b/wirestory_8fd1eea783efccf47112f9820e406bec_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-10-01T15:08:34Z",
-      "description": "Po výbuchu se v New Yorku zřítil obrovský cihlový komín vysoký 20 pater na straně bytového domu, tuny trosek dopadly na zem"
+      "title": "Autoimunitní odpověď na protein C9orf72 při amyotrofické laterální skleróze",
+      "original_title": "Autoimmune response to C9orf72 protein in amyotrophic lateral sclerosis - Nature",
+      "url": "https://www.nature.com/articles/s41586-025-09588-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09588-6/MediaObjects/41586_2025_9588_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2025-10-01T15:09:40Z",
+      "description": "Analýza T-buněčných odpovědí u lidí s amyotrofickou laterální sklerózou ukazuje, že antigen C9orf72 je klíčovým cílem autoimunitních reakcí u tohoto onemocnění, a identifikuje epitopy C9orf72, kter..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Genetická studie naznačuje, že může existovat více forem autismu, ne jen různá míra závažnosti",
+      "original_title": "Different forms of autism may exist, not only different severities, genetic study shows - NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/autism-spectrum-disorder-genetic-analysis-multiple-forms-age-diagnosis-rcna234741",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250930-autism-sam-son-ew-553p-1e2c06.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-01T15:00:40Z",
+      "description": "Genetická analýza potvrzuje komplexnost poruch autistického spektra a to, že autismus nemá jedinou příčinu."
     },
     {
       "flag": "🇺🇸",
@@ -246,51 +213,51 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Taylor Swift a její ‘Release Party of a Showgirl’ pokračují v sérii nečekaných zachránců tržeb kin",
+      "original_title": "Taylor Swift’s ‘Release Party of a Showgirl’ Continues Streak of Unexpected Box Office Saviors - Variety",
+      "url": "https://variety.com/2025/film/box-office/taylor-swift-showgirl-movie-box-office-surprises-1236533914/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/08/538429520_1326293905529091_8265958371857620387_n-e1756152870692.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-01T14:15:00Z",
+      "description": "Taylor Swift a její \"Release Party of a Showgirl\" jsou novým nečekaným tahákem na podporu tržeb kin."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Měsíc povědomí o rakovině prsu 2025 – Světová zdravotnická organizace (WHO)",
       "original_title": "Breast Cancer Awareness Month 2025 - World Health Organization (WHO)",
       "url": "https://www.who.int/news-room/events/detail/2025/10/01/default-calendar/breast-cancer-awareness-month-2025",
       "urlToImage": "https://cdn.who.int/media/images/default-source/headquarters/initiatives/global-breast-cancer-initiative/gbci-2025-breast_cancer_month.tmb-1200v.jpg?sfvrsn=2d65dad4_1",
       "source": "World Health Organization",
       "publishedAt": "2025-10-01T14:04:48Z",
-      "description": "Říjen je měsícem osvěty o rakovině prsu, dobou, kdy je třeba zvyšovat povědomí, vzdát poctu milionům životů zasažených touto nemocí a znovu potvrdit naše celosvětové odhodlání zajistit rovný přístu..."
+      "description": "Říjen je měsícem osvěty o rakovině prsu, obdobím, kdy zvyšujeme povědomí, vzdáváme hold milionům životů zasažených touto nemocí a znovu potvrzujeme naše celosvětové odhodlání zajistit rovný přístup..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Google představuje nový reproduktor Google Home poháněný umělou inteligencí Gemini, který přijde na jaře 2026",
+      "title": "Google předvádí nový reproduktor Google Home s podporou Gemini, který přijde na jaře 2026",
       "original_title": "Google teases its new Gemini-powered Google Home speaker, coming in spring 2026 - TechCrunch",
       "url": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Google-Home-Speaker-Multi.png?resize=1200,755",
       "source": "TechCrunch",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "description": "Poněkud odložené spuštění dává společnosti čas zajistit, aby nová funkce Gemini dorazila i k zákazníkům Google Home se staršími zařízeními, a zároveň jim dává prostor na odstranění nedostatků."
+      "description": "Poněkud odložené spuštění dává společnosti čas zajistit, aby se nová funkce Gemini dostala i k zákazníkům se staršími zařízeními, a zároveň jim dává prostor na odstranění nedostatků."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nové televizory Philips s Roku mají vlastní imerzivní podsvícení",
-      "original_title": "Philips’ new Roku TVs come with their own immersive backlights - The Verge",
-      "url": "https://www.theverge.com/news/788962/philips-roku-ambilight-lcd-tv-backlights-bias-lighting",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/philips1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "description": "Televize jsou nyní dostupné ve velikostech až 65 palců a v cenovém rozmezí od 229 do 389 dolarů."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mohla by Čína vrátit z Marsu vzorek s možnými biosignaturami roveru Perseverance?",
+      "title": "Mohla by Čína dopravit na Zemi vzorek s možnými biosignaturami z Marsu od vozítka Perseverance?",
       "original_title": "Could China return the Perseverance rover's possible biosignature sample from Mars? - Space",
       "url": "https://www.space.com/astronomy/mars/could-china-return-the-perseverance-rovers-possible-biosignature-sample-from-mars",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/oXJHGYfackHAU96DCknSwe-1280-80.png",
       "source": "Space.com",
       "publishedAt": "2025-10-01T12:00:00Z",
-      "description": "Rover Perseverance NASA možná objevil stopy po dávném životu na Marsu, ale čínská mise Tianwen-3 by mohla být první, která dopraví vzorky zpět na Zemi."
+      "description": "Sonda Perseverance možná objevila stopy po dávném životu na Marsu, ale čínská mise Tianwen 3 by mohla být první, která dopraví vzorky zpět na Zemi."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bermudy se připravují na hurikán Imelda po tom, co je jen těsně minul vzdálenější Humberto",
+      "title": "Bermudy se připravují na hurikán Imelda poté, co je jen těsně minul vzdálenější Humberto",
       "original_title": "Bermuda braces for Hurricane Imelda after a glancing blow from more distant Humberto - CBS News",
       "url": "https://www.cbsnews.com/news/hurricane-imelda-humberto-maps-forecast-path-dangerous-surf-rip-currents-east-coast/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/01/b2ef9cc0-3fad-42e2-9c86-00a2573c5f6f/thumbnail/1200x630/62260c563cc5bc05d2937b175b70d600/ap25273581247833.jpg",
@@ -312,24 +279,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Úplněk v říjnu 2025: Kdy uvidíte východ „superúplňku sklizně“",
-      "original_title": "Full Moon October 2025: When To See The ‘Harvest Supermoon’ Rise - Forbes",
-      "url": "https://www.forbes.com/sites/jamiecartereurope/2025/10/01/full-moon-october-2025-when-to-see-the-harvest-moon-rise-where-you-are/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680669284bb85ac21cc4db5c/0x0.jpg?format=jpg&crop=954,536,x1513,y1889,safe&height=900&width=1600&fit=bounds",
-      "source": "Forbes",
-      "publishedAt": "2025-10-01T10:00:00Z",
-      "description": "Vše, co potřebujete vědět o říjnovém úplňku – superúplňku, včetně toho, kdy přesně, kde a jak jej nejlépe pozorovat z vašeho místa."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kdy je nejvhodnější doba pro očkování vašeho dítěte proti chřipce?",
-      "original_title": "When Is the Best Time for Your Child to Get a Flu Shot? - AOL.com",
-      "url": "https://www.prevention.com/health/health-conditions/a68134972/when-is-the-best-time-for-your-child-to-get-a-flu-shot/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/doctor-putting-a-bandage-on-the-childs-arm-after-royalty-free-image-1757358638.pjpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
-      "source": "Prevention.com",
-      "publishedAt": "2025-09-30T17:38:27Z",
-      "description": "Lékaři a sestřičky vysvětlují, kdy je nejlepší čas nechat své dítě očkovat, abyste jej ochránili po celou zimu."
+      "title": "V metropoli Minnesoty byly zaznamenány tři nové případy spalniček",
+      "original_title": "Three new measles cases detected in the Twin Cities - Bring Me The News",
+      "url": "https://bringmethenews.com/minnesota-news/three-new-measles-cases-detected-in-the-twin-cities",
+      "urlToImage": "https://bringmethenews.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE4MTIzMDAyNzQ1NzI2NTY2/child-sick.jpg",
+      "source": "Bring Me The News",
+      "publishedAt": "2025-09-30T18:29:34Z",
+      "description": "Zdravotníci nedávno potvrdili tři nové případy spalniček v oblasti Twin Cities."
     }
   ]
 }
