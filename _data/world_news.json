@@ -1,60 +1,93 @@
 {
-  "last_updated": "2025-10-03T14:16:49",
+  "last_updated": "2025-10-03T15:17:58",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dvě letadla společnosti Delta se srazily na pojížděcí dráze newyorského letiště LaGuardia",
+      "title": "Tesla hlásí rekordní čtvrtletní dodávky. Může za to Trump. - Barron's",
+      "original_title": "Tesla Posts Record Quarterly Deliveries. Trump Is Responsible. - Barron's",
+      "url": "https://www.barrons.com/articles/tesla-ev-deliveries-stock-price-bbebb4fb",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-10-02T13:43:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump označuje odstávku vlády za ‚bezprecedentní příležitost‘ ke škrtání dalších demokratických priorit",
+      "original_title": "Trump touts shutdown as 'unprecedented opportunity' to cut more Democratic priorities - CNBC",
+      "url": "https://www.cnbc.com/2025/10/02/trump-government-shutdown-updates-vought.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205783-1759410523090-108205783-17592463282025-09-30t152830z_1521167252_rc2f2hasl0ei_rtrmadp_0_usa-trump-1.jpg?v=1759410531&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-02T12:45:07Z",
+      "description": "Trump na Truth Social oznámil, že se setká s ředitelem Úřadu pro řízení a rozpočet Russellem Voughtem, aby projednali snížení agentur."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dvě letadla Delta se srazily na pojížděcí dráze newyorského letiště LaGuardia",
       "original_title": "Two Delta planes collide on taxiway of New York's LaGuardia Airport - CBS News",
       "url": "https://www.cbsnews.com/newyork/news/laguardia-airport-delta-planes-collide-on-taxiway/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/02/e648370e-3f0b-4d5a-ade9-7add6cc3699d/thumbnail/1200x630/43b735185244847322ea2df62042db1c/tarmac-plane.jpg",
       "source": "CBS News",
       "publishedAt": "2025-10-02T11:53:03Z",
-      "description": "Po srážce dvou letadel na letišti LaGuardia nedošlo k vážným zraněním, uvedli úředníci."
+      "description": "Podle úřadů se na letišti LaGuardia srazila dvě letadla, ale nikdo se nezranil."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Marocké protesty GenZ 212: Policie tvrdí, že dva mrtví byli zastřeleni v ‚sebeobraně‘",
+      "original_title": "Morocco GenZ 212 demonstrations: Police say two shot dead in 'self-defence' - BBC",
+      "url": "https://www.bbc.com/news/articles/cgrqpekyxpvo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56aa/live/c7c27130-9f7e-11f0-8978-23dd7eb26e73.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-02T11:31:03Z",
+      "description": "Policie zastřelila dva lidi z davu, který se snažil vtrhnout na stanici"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hakeem Jeffries využívá boje o zastavení vlády ke zvýšení svého celostátního profilu",
+      "title": "Texaské domácnosti by mohly nejvíce pocítit konec daňových úlev z ACA. Je tamní delegace republikánů ochotna uzavřít dohodu?",
+      "original_title": "Texas could bear the brunt of expiring ACA tax credits. Is the GOP delegation willing to make a deal? - The Texas Tribune",
+      "url": "https://www.texastribune.org/2025/10/02/texas-republicans-affordable-care-act-premium-tax-credits-shutdown/",
+      "urlToImage": "https://thumbnails.texastribune.org/JnobZv0ffbyhwLhUsnOQdVw-XPE=/1200x630/filters:quality(95):focal(0x0:3000x2000)/static.texastribune.org/media/files/1e40539805b6e5562fd9dced5b19f61a/20250312%20ACA%20REUTERS%2001.jpg",
+      "source": "The Texas Tribune",
+      "publishedAt": "2025-10-02T10:00:00Z",
+      "description": "Kongresoví demokraté chtějí obnovit Obamacare dotace jako součást dohody o obnovení činnosti vlády. Republikáni z Texasu říkají, že politika potřebuje zásadní reformy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Saturnův měsíc Enceladus chrlí organické molekuly, které by mohly pomoci vytvořit život",
+      "original_title": "Saturn's moon Enceladus is shooting out organic molecules that could help create life - Space",
+      "url": "https://www.space.com/astronomy/saturn/saturns-moon-enceladus-is-shooting-out-organic-molecules-that-could-help-create-life",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bqs8kEzUcZthsqvzH3XwYZ-1920-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-10-02T10:00:00Z",
+      "description": "Mohla by být zmrzlý měsíc Saturnu nejlepším místem pro hledání života ve sluneční soustavě?"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Hakeem Jeffries využívá spor o zastavení činnosti vlády ke zvýšení svého celostátního profilu",
       "original_title": "Hakeem Jeffries is seizing on the shutdown fight to raise his national profile - Politico",
       "url": "https://www.politico.com/news/2025/10/02/hakeem-jeffries-shutdown-fight-00591139",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa0%2F49%2F76e6dd704ce39b1a997d2d8e2e71%2Fu-s-congress-85253.jpg",
       "source": "Politico",
       "publishedAt": "2025-10-02T08:45:00Z",
-      "description": "Vedoucí menšiny v Sněmovně reprezentantů učinil nápadné kroky, aby se stal hlavní postavou ve vyhroceném sporu."
+      "description": "Vůdce menšiny ve Sněmovně reprezentantů učinil nápadné kroky, aby se stal hlavní postavou ve vyhroceném jednání."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Jak izraelské kroky způsobily hladomor v Gaze, názorně ukázáno",
-      "original_title": "How Israeli actions caused famine in Gaza, visualized - CNN",
-      "url": "https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl",
-      "urlToImage": null,
-      "source": "CNN",
-      "publishedAt": "2025-10-02T06:11:26Z",
-      "description": ""
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Horoskop na čtvrtek 2. října 2025 - Chicago Sun",
-      "original_title": "Horoscope for Thursday, October 02, 2025 - Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/horoscopes/2025/10/02/horoscopes-today-thursday-october-02-2025",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "source": "Suntimes.com",
-      "publishedAt": "2025-10-02T05:01:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Proč EU neuspěla s půjčkou pro Ukrajinu ve výši 140 miliard eur",
-      "original_title": "Why the EU failed to make headway on its €140bn loan to Ukraine - Financial Times",
-      "url": "https://www.ft.com/content/214dc782-8900-4531-87ac-3f01e7221849",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F74c3a08a-a45f-476e-a73b-67cf73d839a7.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-02T05:00:04Z",
-      "description": "Také v tomto newsletteru: Země EU chtějí lepší právní standardy pro zahraniční pracovníky"
+      "flag": "🌍",
+      "country": "global",
+      "title": "Zachycení flotily s pomocí pro Gazu Izraelem je jasným porušením mezinárodního práva.",
+      "original_title": "Israel’s interception of the Gaza aid flotilla is a clear violation of international law - The Conversation",
+      "url": "https://theconversation.com/israels-interception-of-the-gaza-aid-flotilla-is-a-clear-violation-of-international-law-266254",
+      "urlToImage": "https://images.theconversation.com/files/694011/original/file-20251002-66-2lf8pi.jpg?ixlib=rb-4.1.0&rect=0%2C256%2C3072%2C1536&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source": "The Conversation Africa",
+      "publishedAt": "2025-10-02T04:05:32Z",
+      "description": "Organizátoři flotily tvrdí, že izraelská armáda nastoupila na jejich lodě v mezinárodních vodách, kde mají právo na svobodu plavby."
     },
     {
       "flag": "🌍",
@@ -65,7 +98,29 @@
       "urlToImage": "https://img.ksl.com/slc/3112/311209/31120967.jpg?filter=kslv2/responsive_story_lg",
       "source": "KSL.com",
       "publishedAt": "2025-10-02T03:55:23Z",
-      "description": "Záchranáři použili bagry a pátrací psy k hledání přeživších na středních Filipínách po zemětřesení, které zabilo nejméně 72 lidí a zranilo přes 200 dalších."
+      "description": "Záchranáři použít bagry a pátrací psy při hledání přeživších na středních Filipínách po zemětřesení, které zabilo nejméně 72 lidí a zranilo přes 200 dalších."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Exkluzivně | Bílý dům žádá vysoké školy o podepsání rozsáhlé dohody pro získání výhody ve financování",
+      "original_title": "Exclusive | White House Asks Colleges to Sign Sweeping Agreement to Get Funding Advantage - The Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/education/trump-universities-compact-federal-funds-agreement-df158493",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-02T03:23:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Sean 'Diddy' Combs se staví proti žádosti 'Mie' o přednesení výpovědi oběti",
+      "original_title": "Sean 'Diddy' Combs opposes request from 'Mia' to give victim impact statement - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/sean-diddy-combs-opposes-request-mia-give-victim/story?id\\\\u003d126124458",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-02T01:52:30Z",
+      "description": ""
     },
     {
       "flag": "🌍",
@@ -76,194 +131,128 @@
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/02/6fa4d2cb-8435-42ba-880b-f7f793b2831b/thumbnail/1200x630/d3c352c0fb30621c26a43b23e4efc2dc/untitled-design.jpg",
       "source": "CBS News",
       "publishedAt": "2025-10-02T01:18:47Z",
-      "description": "Jednou z hlavních výtek republikánů během odstávky vlády je, že demokratičtí zákonodárci chtějí migranty v USA nelegálně zadarmo léčit. Demokraté to popírají."
+      "description": "Jednou z hlavních výtek republikánů během odstávky vlády je, že demokratičtí zákonodárci chtějí migrantům v USA nelegálně poskytovat bezplatnou zdravotní péči, což demokraté popírají."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vojákyně reagují na tvrzení o snížení standardů v armádě",
-      "original_title": "Female vets fire back at Hegseth over claims of lowered military standards - Axios",
-      "url": "https://www.axios.com/2025/10/01/hegseth-women-combat-roles-quantico-speech",
-      "urlToImage": "https://images.axios.com/1Nj7VNG0rZ3-doVTt0CC9nu1URY=/0x0:7522x4231/1366x768/2025/09/30/1759256042724.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-02T01:00:24Z",
-      "description": "Federální zákon již zakazuje genderové standardy pro konkrétní role."
+      "title": "Papež Lev o Trumpově mírovém plánu pro Gazu: ‚Zatím se zdá být realistickým návrhem‘",
+      "original_title": "Pope Leo on Trump’s Gaza peace plan: ‘So far it seems to be a realistic proposal’ - The Hill",
+      "url": "https://thehill.com/policy/international/5534238-pope-leo-trump-gaza-plan-hamas/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/05/AP25129395819473-e1746829634904.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2025-10-02T01:08:00Z",
+      "description": "Papež Lev XIV. označil Trumpův mírový plán pro Gazu za realistický"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Macron říká, že ropný tanker u Francie je spojený s ruskou stínovou flotilou a spáchal „závažná pochybení“",
-      "original_title": "Macron says oil tanker off France is linked to Russia's shadow fleet and committed \"serious wrongdoings\" - CBS News",
-      "url": "https://www.cbsnews.com/news/macron-russia-shadow-fleet-oil-tanker-off-france/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/01/14d5b106-e8d6-42f5-827f-1319c5cd0a7a/thumbnail/1200x630/fbf63ba3162d14d9452c4edc78fdc823/ap25274531555630.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-01T23:58:40Z",
-      "description": "Francouzské námořní síly před několika dny na žádost státních zástupců násilím zastavily tanker známý jako „Pushpa“ nebo „Boracay“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vance se směje kritice Trumpova deepfake videa s Jeffriesem: ‚Bavíme se‘ – ABC News – Nejnovější zprávy a videa",
-      "original_title": "Vance laughs off criticism of Trump's deepfake Jeffries video: 'We're having a good time' - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/vance-laughs-off-criticism-trumps-deepfake-jeffries-video/story?id\\\\u003d126126568",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-01T23:48:19Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Futures na akcie jsou téměř beze změn, investoři ignorují hrozbu vládního shut downu: Živé aktualizace",
+      "title": "Futures na akcie jsou téměř beze změn, investoři ignorují hrozbu zavření vlády: živé aktualizace",
       "original_title": "Stock futures are little changed as investors look past government shutdown: Live updates - CNBC",
       "url": "https://www.cnbc.com/2025/10/01/stock-market-today-live-updates.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206502-1759334012356-Traders-OB-Photo-20251001-CC-PRESS-15.jpg?v=1759334321&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-10-01T23:24:00Z",
-      "description": "Hlavní americké akciové indexy ve středu uzavřely v zelených číslech díky nadějím, že zastavení financování bude krátké a omezí vážné dopady na ekonomiku."
+      "description": "Hlavní americké akciové indexy ve středu uzavřely v zelených číslech díky nadějím, že výpadek financování bude krátký a jeho dopad na ekonomiku omezený."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Minnesota hlásí dalších 13 případů spalniček, celkový počet v roce 2025 tak stoupl na 18",
-      "original_title": "Minnesota reports 13 more measles cases, raising 2025 total to 18 - Star Tribune",
-      "url": "https://www.startribune.com/minnesota-reports-13-more-measles-cases-raising-2025-total-to-18/601484655",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/IYXT7P3NGZG37E3ZHEPWSMFLI4.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "source": "Minneapolis Star Tribune",
-      "publishedAt": "2025-10-01T22:26:34Z",
-      "description": "Letošní počet nakažených je pátý nejvyšší za posledních 15 let ve státě, kde proočkovanost proti spalničkám klesá. Žádný z nově nakažených nebyl očkován."
+      "title": "Apple odkládá lehčí Vision Pro a dává přednost chytrým brýlím",
+      "original_title": "Apple sidelines lighter Vision Pro to prioritize smart glasses - The Verge",
+      "url": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/246965_vision_pro_VPavic_0034.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-01T22:22:51Z",
+      "description": "Apple podle Bloomberga urychluje vývoj chytrých brýlí, které by konkurovaly Meta, a zastavuje plány na lehčí headset Vision Pro"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zmrazené federální prostředky pro projekt Hudson Tunnel ovlivnily volební závod o post guvernéra New Jersey.",
-      "original_title": "Frozen federal funds for Hudson Tunnel project hit New Jersey's race for governor - NBC News",
-      "url": "https://www.nbcnews.com/politics/elections/frozen-federal-tunnel-funds-hit-new-jerseys-race-governor-rcna235020",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250926-Mikie-Sherrill-se-1017a-6f0892.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-10-01T21:16:12Z",
-      "description": "Kandidáti na post guvernéra New Jersey se obviňují poté, co Trumpova administrativa zmrazila miliardy dolarů na federální projekty včetně tunelu Hudson"
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Nový firmware One UI 8.5 přináší ještě více vizuálních změn",
-      "original_title": "New One UI 8.5 firmware makes even more visual changes - SamMobile",
-      "url": "https://www.sammobile.com/news/samsung-one-ui-8-5-firmware-more-visual-changes/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/09/One-UI-8.5-update-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2025-10-01T21:05:00Z",
-      "description": "Vývoj One UI 8.5 pro zařízení Galaxy se nedávno zrychlil, což vedlo k úniku firmwaru pro Galaxy S25 Ultra, který odhalil mnoho chystaných úprav rozhraní. Nyní se objevilo novější sestavení, které u..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nicole Kidmanovi prý vadilo, že Keith Urban příliš nepodporoval její kariéru, uvádí zpráva o rozvodu",
+      "title": "Nicole Kidmanovi prý vadilo, že Keith Urban před rozvodem nepodporoval její kariéru",
       "original_title": "Nicole Kidman wished Keith Urban was more supportive of her career before filing for divorce, report says: The latest on the estranged couple - Yahoo",
       "url": "https://www.yahoo.com/entertainment/celebrity/article/nicole-kidman-wished-keith-urban-was-more-supportive-of-her-career-before-filing-for-divorce-report-says-the-latest-on-the-estranged-couple-210001144.html",
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KzNh7i0rrxEzlWIbvdD_aA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/937fe980-9edd-11f0-bf5c-53a0ecb2c641",
       "source": "Yahoo Entertainment",
       "publishedAt": "2025-10-01T21:00:01Z",
-      "description": "Kidmanová uvedla jako datum jejich rozchodu den podání žaloby, 30. září, a jako důvod rozpadu manželství uvedla nesmiřitelné rozdíly."
+      "description": "Kidmanová uvedla jako datum jejich rozchodu datum podání žaloby, 30. září, a jako důvod jejich rozchodu uvedla nepřekonatelné rozdíly."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Superúplněk sklidní září na noční obloze začátkem příštího týdne: Kdy bude vrcholit a předpověď oblačnosti",
-      "original_title": "Super harvest moon to dazzle the night sky early next week: When it will peak and cloud cover forecast - Yahoo",
-      "url": "https://www.yahoo.com/news/article/super-harvest-moon-to-dazzle-the-night-sky-early-next-week-when-it-will-peak-and-cloud-cover-forecast-205652659.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GWNaDZmY.X9N0PY9VOIzeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/AP19256844275249.jpg",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-10-01T20:56:52Z",
-      "description": "Říjnový úplněk zazáří na noční obloze začátkem příštího týdne."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Mormoni vybrali 200 000 dolarů pro rodinu střelce, který napadl jejich kostel",
-      "original_title": "Mormons raise $200,000 for family of gunman who attacked their church - The Washington Post",
-      "url": "https://www.washingtonpost.com/lifestyle/2025/10/01/lds-mormon-church-shooting-fundraiser-sanford/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KONP7TXOZHD2FZR2YKQ53TDRQ_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-01T19:47:07Z",
-      "description": "V dnech po střelbě v církvi LDS v Michiganu členové církve vybrali peníze pro rodiny obětí — i pro rodinu střelce."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Keith Urban změnil text písně inspirovaný Nicole Kidman, aby odkazoval na jinou ženu",
-      "original_title": "Keith Urban Changes Song Lyrics Inspired By Nicole Kidman To Reference Another Woman - HuffPost",
-      "url": "https://www.huffpost.com/entry/keith-urban-changes-song-lyrics-nicole-kidman_n_68dd3afbe4b0f3800bcd9eed",
-      "urlToImage": "https://img.huffingtonpost.com/asset/68dd59541800009a0a5d0d5b.jpeg?cache=uexYIliHW8&ops=1200_630",
-      "source": "HuffPost",
-      "publishedAt": "2025-10-01T17:27:08Z",
-      "description": "Video, na kterém Urban na nedávném koncertě mění text své písně \"The Fighter\", zveřejnili jen pár dní před zprávou o jeho rozchodu s Kidmanovou."
+      "title": "V Minnesotě tento týden zaznamenali 10 případů spalniček, všechny souvisejí s cestováním - 5 EYEWITNESS NEWS",
+      "original_title": "10 measles cases reported in Minnesota this week, all related to travel - 5 EYEWITNESS NEWS",
+      "url": "https://kstp.com/kstp-news/local-news/10-measles-cases-reported-in-minnesota-this-week-all-related-to-travel/",
+      "urlToImage": "https://kstp.com/wp-content/uploads/2024/08/measles-microscope.jpg",
+      "source": "Kstp.com",
+      "publishedAt": "2025-10-01T20:58:10Z",
+      "description": "Ministerstvo zdravotnictví Minnesoty potvrdilo od pondělí 10 případů spalniček, celkový počet případů ve státě tak v roce 2025 vzrostl na 18."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nová studie zvyšuje možnost příznivých podmínek pro život na Saturnově měsíci Enceladu",
-      "original_title": "New study adds to the possibility of favorable conditions for life at Saturn's moon Enceladus - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Technology/wireStory/new-study-adds-possibility-favorable-conditions-life-saturns-126107471",
-      "urlToImage": "https://i.abcnewsfe.com/a/4c1189f5-7c6c-460c-9fd1-2689e23f6fa7/wirestory_5391596d512c8e016936a45231b11e2e_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-10-01T17:03:45Z",
-      "description": "Vědci objevili nové typy organických látek v ledových gejzírech na Saturnově měsíci Enceladu"
+      "title": "Prezident SAG-AFTRA Sean Astin reaguje na umělou herečku Tilly Norwood",
+      "original_title": "SAG-AFTRA President Sean Astin Reacts to AI Actress Tilly Norwood - Variety",
+      "url": "https://variety.com/2025/film/news/sag-aftra-sean-astin-ai-actress-tilly-norwood-1236536540/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/astin-norwood.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-01T20:21:00Z",
+      "description": "Jak „herečka AI“ Tilly Norwoodová přitahuje pozornost celého národa, Sean Astin vystupuje jménem hereckého cechu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Barron's: Buffettův zájem o chemickou divizi Occidental může přinést překvapení",
-      "original_title": "A Berkshire Deal for Occidental Chemicals Unit Could Bring a Surprise - Barron's",
-      "url": "https://www.barrons.com/articles/berkshire-occidental-chemicals-buffett-b59ac190",
-      "urlToImage": "https://images.barrons.com/im-83359104/social",
-      "source": "Barron's",
-      "publishedAt": "2025-10-01T16:53:00Z",
-      "description": ""
+      "title": "Microsoft vydává ultra kompaktní aktualizaci Windows 11 25H2 – stáhněte si ji po jediném restartu",
+      "original_title": "Microsoft's ultra compact Windows 11 25H2 update is here - get it in a single restart - ZDNET",
+      "url": "https://www.zdnet.com/article/microsofts-ultra-compact-windows-11-25h2-update-is-here-get-it-in-a-single-restart/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/19b0e00b27ec2c4585b3120738ba2cb7ec5ad7eb/2025/10/01/9a8e564b-8f0f-4df3-af40-11ec87ed01b0/windows-11.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "ZDNet",
+      "publishedAt": "2025-10-01T17:37:00Z",
+      "description": "Postupně zaváděná aktualizace Windows 11 pro rok 2025 se instaluje rychleji než předchozí každoroční verze od Microsoftu. Již jsou s ní ale známy určité problémy."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple Vision Pro nové generace odhaleno v novém regulatorním podání",
-      "original_title": "Apple’s next-gen Vision Pro revealed in new regulatory filing - The Verge",
-      "url": "https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/vision-pro-filing.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-01T14:41:07Z",
-      "description": "Nový podnik u Federálního komunikačního úřadu odhaluje práci Applu na nové headsetové sadě Vision Pro."
+      "title": "Temná hmota a temná energie mohou být jen kosmickou iluzí",
+      "original_title": "Dark matter and dark energy may only be a cosmic illusion - Phys.org",
+      "url": "https://phys.org/news/2025-10-dark-energy-cosmic-illusion.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/dark-matter-and-dark-e.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-10-01T15:50:01Z",
+      "description": "Po desetiletí astronomové věřili, že temná hmota a temná energie tvoří většinu vesmíru. Nová studie však naznačuje, že možná vůbec neexistují. Místo toho by to, co vnímáme jako temnou hmotu a energ..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Gemini přichází do Google Home s novými kamerami Nest a chytrým reproduktorem",
-      "original_title": "Gemini Arrives in Google Home With New Nest Cameras and a Smart Speaker - WIRED",
-      "url": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
-      "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
-      "source": "Wired",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "description": "Gemini nahrazuje Asistenta ve vaší chytré domácnosti, Google představuje nový design aplikace Home a spouští novou generaci zařízení Nest."
+      "title": "Špatný spánek může stárnout mozek až o rok, ukazuje studie",
+      "original_title": "Poor Sleep Can Age Your Brain By A Year, Study Shows - Study Finds",
+      "url": "https://studyfinds.org/poor-sleep-brain-aging-year/",
+      "urlToImage": "https://studyfinds.org/wp-content/uploads/2019/08/AdobeStock_90379361.jpeg",
+      "source": "Study Finds",
+      "publishedAt": "2025-10-01T14:19:38Z",
+      "description": "Špatný spánek může mozek zestárnout téměř o rok, ukazuje nový výzkum. Pět klíčových spánkových návyků může pomoci chránit zdraví mozku a snížit dlouhodobá rizika."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Amazon představuje chytřejší Echo Show, zatímco čekáme na HomePod Touch/HomePad",
-      "original_title": "Amazon announces smarter Echo Show as we await HomePod Touch/HomePad - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/01/amazon-announces-smarter-echo-show-as-we-await-homepod-touch-homepad/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Amazon-announces-smarter-Echo-Show-as-we-await-HomePod-TouchHomePad.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-10-01T12:50:00Z",
-      "description": "Od Applu nečekáme dlouho očekávaný kombinovaný reproduktor a panel pro ovládání chytré domácnosti dříve než někdy příští rok. Byli jsme..."
+      "title": "3I/Atlas má 3. října schůzku s Marsem a lidské sondy čekají se zatajeným dechem",
+      "original_title": "3I/Atlas has a date with Mars on October 3, and human probes are waiting with bated breath - WION",
+      "url": "https://www.wionews.com/photos/3i-atlas-has-a-date-with-mars-on-october-3-here-is-what-nasa-and-esa-orbiters-can-capture-and-reveal-1759318661176",
+      "urlToImage": "https://cdn1.wionews.com/prod/wion/images/2025/20251001/image-1759319460151.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "publishedAt": "2025-10-01T12:03:00Z",
+      "description": "Mezihvězdná kometa 3I/Atlas přejde přes Mars během příštích dvou dnů. Vesmírné agentury z celého světa, které mají na rudé planetě orbitery, se chystají namířit je na cizí kometu. Zde je to, co moh..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mohla by Čína dopravit na Zemi možný vzorek biosignatury z Marsu od roveru Perseverance?",
-      "original_title": "Could China return the Perseverance rover's possible biosignature sample from Mars? - Space",
-      "url": "https://www.space.com/astronomy/mars/could-china-return-the-perseverance-rovers-possible-biosignature-sample-from-mars",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oXJHGYfackHAU96DCknSwe-1280-80.png",
-      "source": "Space.com",
-      "publishedAt": "2025-10-01T12:00:00Z",
-      "description": "Sonda Perseverance možná objevila stopy po dávném životu na Marsu, ale čínská mise Tianwen 3 by mohla být první, která dopraví vzorky na Zemi."
+      "title": "Masivní únik z Applu odhalil MacBook Pro M5, iPad Pro M5 a nové Vision Pro - Tom's Guide",
+      "original_title": "Massive Apple leak just tipped MacBook Pro M5, iPad Pro M5 and new Vision Pro - Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/vr-ar/massive-apple-leak-seemingly-confirms-new-pro-devices-heres-everything-to-expect",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2JhaVehuoHDADq8A842E4L-2000-80.jpg",
+      "source": "Tom's Guide",
+      "publishedAt": "2025-10-01T11:45:44Z",
+      "description": "Připravte se na spoustu nových zařízení Apple v říjnu"
     },
     {
       "flag": "🌍",
@@ -279,7 +268,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Leukovorin má místo v léčbě autismu, říká výzkumník, ale mírní očekávání rodičů – statnews.com",
+      "title": "Leucovorin má místo v léčbě autismu, říká výzkumník, ale mírní očekávání rodičů – statnews.com",
       "original_title": "Leucovorin has a place in autism treatment, researcher says, but he tamps down parents’ expectations - statnews.com",
       "url": "https://www.statnews.com/2025/10/01/leucovorin-autism-researcher-robert-hendren-lowers-expectations/",
       "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/ChatDSC02658-2-1024x576.jpg",
