@@ -1,10 +1,65 @@
 {
-  "last_updated": "2025-10-04T16:19:41",
+  "last_updated": "2025-10-04T17:13:15",
   "articles": [
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dow posiluje o 500 bodů do rekordu, Wall Street ignoruje obavy z shutdownu: Živé aktualizace",
+      "original_title": "Dow rallies 500 points to record as Wall Street looks past shutdown fears: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206414-1759329302141-gettyimages-2238557509-anotherday123715883_pygnxms1.jpeg?v=1759329360&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-03T16:43:00Z",
+      "description": "Tři hlavní americké indexy ve čtvrtek dosáhly celkově rekordních maxim, protože síla obchodování s umělou inteligencí přetrvávala."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Živé zpravodajství: Sean \"Diddy\" Combs před soudem, probíhá jednání v kauze obvinění z prostituce",
+      "original_title": "Sean \"Diddy\" Combs sentencing live updates as hearing for prostitution-related charges is underway - CBS News",
+      "url": "https://www.cbsnews.com/live-updates/diddy-sentencing-hearing/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/03/34e01797-2e6a-4f74-8b4c-df1628875eb0/thumbnail/1200x630/65d9dd589360bac1ddadc2cb05cea456/2025-09-24t154623z-280865120-rc2eygaxdhio-rtrmadp-3-people-sean-combs.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-03T16:29:00Z",
+      "description": "Sean \"Diddy\" Combs byl odsouzen za prostituci, trest mu vynese soud za tři měsíce."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple odstranil aplikaci ICEBlock po kritice ze strany Trumpovy administrativy",
+      "original_title": "Apple removes ICEBlock app after criticism from Trump administration - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/apple-removes-iceblock-app-criticism-trump-administration-rcna235333",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251003-ice-agents-rs-e7ada7.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-03T15:47:00Z",
+      "description": "Apple ve čtvrtek odstranil aplikaci, která uživatelům umožňovala sdílet informace o pohybu imigračních agentů"
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Trump dal Hamásu nedělní ultimátum k přijetí mírového plánu pro Gazu",
+      "original_title": "Trump gives Hamas Sunday deadline to accept Gaza peace plan - BBC",
+      "url": "https://www.bbc.com/news/articles/cdxq7zp7002o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a46e/live/6323eda0-a067-11f0-b2f9-dd258cdb2dcd.png",
+      "source": "BBC News",
+      "publishedAt": "2025-10-03T15:02:35Z",
+      "description": "20bodový návrh si klade za cíl okamžitě ukončit boje výměnou za propuštění rukojmích a zadržovaných Gazuňanů."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tesla a GM vedou rekordní prodeje elektromobilů v USA s koncem federálních pobídek",
+      "original_title": "Tesla, GM lead record U.S. EV sales this year as federal incentives end - CNBC",
+      "url": "https://www.cnbc.com/2025/10/03/tesla-gm-ev-sales.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108027666-1725020774249-IMG_8313.JPG?v=1759504901&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-03T14:52:38Z",
+      "description": "Podle nových údajů společnosti Motor Intelligence pro CNBC prodej elektromobilů za první tři čtvrtletí roku překonal hranici jednoho milionu vozů."
+    },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Vysoké školy zvažují, zda se připojí k Trumpovu plánu, nebo přijdou o federální výhody",
+      "title": "Vysoké školy zvažují, zda podpořit Trumpův plán, nebo přijít o federální výhody",
       "original_title": "Colleges weigh whether to sign onto Trump plan or forgo federal benefits - The Washington Post",
       "url": "https://www.washingtonpost.com/education/2025/10/03/trump-administration-college-funding-compact/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GLXLR6ZTFYA4SDAKWBI5DBB6LE_size-normalized.JPG&w=1440",
@@ -15,68 +70,68 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nejvyšší soud zváží zrušení přísného zákazu nošení zbraní na soukromém pozemku na Havaji",
+      "title": "Nejvyšší soud zváží zrušení přísného havajského zákazu nošení zbraní na soukromém pozemku",
       "original_title": "Supreme Court will consider overturning Hawaii’s strict ban on guns on private property - AP News",
       "url": "https://apnews.com/article/supreme-court-hawaii-guns-ed5a815c9f9c3f1397a3dd710fd7e17c",
       "urlToImage": "https://dims.apnews.com/dims4/default/9df6bd9/2147483647/strip/true/crop/5294x2978+0+276/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F98%2F15bf96f11e4ed789b0a532d8df22%2F6c34f5e64d2c46b2866b7564efc9ac57",
       "source": "Associated Press",
       "publishedAt": "2025-10-03T14:02:00Z",
-      "description": "Nejvyšší soud USA se bude zabývat právem na nošení zbraní na Havaji"
+      "description": "Nejvyšší soud se zabývá právem na nošení zbraní na Havaji"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Cori Bush zahajuje comebackovou kampaň za křeslo v Missouri",
+      "title": "Cori Bushová zahajuje comeback za křeslo v Missouri",
       "original_title": "Cori Bush launches comeback bid for Missouri seat - Politico",
       "url": "https://www.politico.com/live-updates/2025/10/03/congress/cori-bushs-comeback-00592723",
       "urlToImage": "https://www.politico.com/dims4/default/7628da1/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fff%2F1d%2F16b8be75444ab4f85d4d8897c452%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2165078168",
       "source": "Politico",
       "publishedAt": "2025-10-03T13:14:05Z",
-      "description": "Byla jednou ze dvou progresivních demokratů, kteří v primárkách loni v létě prohráli s kandidáty podporovanými AIPAC."
+      "description": "Byla jednou ze dvou progresivních demokratů, kteří v primárkách prohráli s kandidáty podporovanými AIPAC."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak se The Rock proměnil tělem i myslí v Marka Kerra",
+      "title": "Vyzkoušel jsem nové chytré domácí gadgety od Amazonu a Googlu. Ptejte se na cokoliv!",
+      "original_title": "I tried Amazon and Google’s new smart home gadgets. Ask me anything! - The Verge",
+      "url": "https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257993_Jen_Tuohy_AMA_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-03T13:03:07Z",
+      "description": "Od nových Echo Show po nová Nest Camery, nový chytrý reproduktor Google Home a nové hlasové asistenty – čeká nás spousta novinek z chytré domácnosti. Vy máte otázky, já mám odpovědi."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jak proměnil The Rock své tělo – i mysl – v Marka Kerra",
       "original_title": "How The Rock transformed his body -- and mind -- into Mark Kerr - ESPN",
       "url": "https://www.espn.com/mma/story/_/id/46467056/the-smashing-machine-rock-dwayne-johnson-transformation-mark-kerr",
       "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1002%2Fr1554680_1296x729_16%2D9.jpg",
       "source": "ESPN",
       "publishedAt": "2025-10-03T12:42:00Z",
-      "description": "Stát se Markem Kerrem, 193 centimetrů vysokým a 118 kilogramů vážícím bývalým bojovníkem MMA, byl pro Johnsona herecky zcela výjimečný proces."
+      "description": "Stát se Markem Kerrem, 191 centimetrů vysokým a 118 kilogramů vážícím bývalým bojovníkem MMA, byl během Johnsonovy herecké kariéry proces jako žádný jiný."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Lídr ze Silicon Valley, který přežil rozmach i krach internetu, předpovídá další divokou jízdu s umělou inteligencí",
-      "original_title": "Silicon Valley leader who navigated the internet's boom and bust sees another wild ride with AI - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/silicon-valley-leader-navigated-internets-123623069.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/99VfmAy5GqvMsuKRoH7VXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNTAw/https://media.zenfs.com/en/ap_finance_articles_694/394b04010995e0b5d4edeb1c1c7c40c2",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-10-03T12:36:23Z",
-      "description": "Bývalý generální ředitel Cisco Systems John Chambers se jako veterán z raných boomových dob internetu koncem ... naučil vše o volatilních výšinách a pádech technologií."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Afghánistán: Dvoudenní výpadek internetu ukazuje, že ani Tálibán nemůže vrátit čas zpět",
-      "original_title": "Afghanistan: A two-day internet blackout shows even the Taliban can’t turn back time - CNN",
-      "url": "https://www.cnn.com/2025/10/03/asia/afghanistan-internet-shutdown-intl-hnk-dst",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-10-01t172146z-39138360-rc233habfhzf-rtrmadp-3-afghanistan-internet.JPG?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-03T12:00:51Z",
-      "description": "Na 48 hodin se Tálibán pokusil vrátit Afghánistán v čase. Nařídil vypnout internet a telefonní sítě a odřízl tak miliony lidí od okolního světa."
+      "title": "Oběť útoku na manchesterskou synagogu možná zasáhla střela policisty, uvádí policie",
+      "original_title": "Manchester synagogue attack victim possibly killed by officer's gunshot, police say - CBS News",
+      "url": "https://www.cbsnews.com/news/manchester-synagogue-attack-victim-possibly-killed-by-police-gunshot/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/03/46fdc91f-4406-44ea-9ed7-32fbf556438a/thumbnail/1200x630/4fad294ebec9540f21d6e614373faa02/manchester-synagogue-2238549639.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-03T12:11:00Z",
+      "description": "Policie: Oběť útoku na manchesterskou synagogu možná zasáhla smrtící střela policisty, jde o „tragický a nepředvídaný“ důsledek rychlého zásahu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bývalí Patriots Mac Jones a Kendrick Bourne zářili v nočním vítězství 49ers",
-      "original_title": "Former Patriots Mac Jones, Kendrick Bourne both dominate in primetime win for 49ers - Boston.com",
-      "url": "https://www.boston.com/sports/new-england-patriots/2025/10/03/kendrick-bourne-mac-jones-49ers-nfl-football-san-francisco-rams/",
-      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/10/49ers_Rams_Football_32880-68df7ef1d764f-768x432.jpg",
-      "source": "Boston.com",
-      "publishedAt": "2025-10-03T11:53:00Z",
-      "description": "Mac Jones i Kendrick Bourne v hlavním čase ve čtvrtek pomohli 49ers porazit Rams v Los Angeles."
+      "title": "Toto dělá ze 40wattového nabíječky od Applu unikát",
+      "original_title": "Here's What Makes Apple's New 40-Watt Power Adapter Unique - CNET",
+      "url": "https://www.cnet.com/tech/mobile/heres-what-makes-apples-new-40-watt-power-adapter-unique/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/4f5275f74c51212b9960babcc134d546e4e98b4e/hub/2025/10/03/d8b101f9-216b-4728-b978-efcb614e5d3e/251002-clean-omt-ep-139-what-makes-apples-charger-so-special-no-text-v1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "source": "CNET",
+      "publishedAt": "2025-10-03T12:00:00Z",
+      "description": "Se správným vybavením získáte příkon navíc o 60 W."
     },
     {
       "flag": "🌍",
@@ -92,7 +147,18 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Odložení zveřejnění zprávy o zaměstnanosti kvůli výpadku skrývá možné ekonomické problémy",
+      "title": "Cracker Barrel se rozchází s designovým studiem za svou neúspěšnou změnu loga",
+      "original_title": "Cracker Barrel dumps the design firm behind its disastrous logo change - CNN",
+      "url": "https://www.cnn.com/2025/10/03/food/cracker-barrel-drops-design-firm",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/more-like-us-barrel-1.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-03T11:36:30Z",
+      "description": "Cracker Barrel se rozešel s designovou firmou, která vytvořila jeho kontroverzní nové logo a přepracoval restaurace. Řetězec restaurací změny začal implementovat, ale po vlně kritiky na internetu –..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Odložení zprávy o zaměstnanosti kvůli výpadku zastírá možné ekonomické problémy",
       "original_title": "Shutdown delays jobs report, obscuring potential economic problems - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/10/03/shutdown-economy-jobs-data-labor-department/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZZ3L6KDGXQ3U7EIWNQ7GNC3EU_size-normalized.jpg&w=1440",
@@ -103,24 +169,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Lucembursko má po abdikaci velkovévody nového panovníka",
-      "original_title": "Luxembourg crowns a new grand duke after the former grand duke abdicates - AP News",
-      "url": "https://apnews.com/article/luxembourg-grand-duke-henri-guillaume-7f2427da71b0f2d2be63d2ba5b97a943",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b0a37da/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F7b%2F737ad7f205d627e5092fe4b2a3d2%2F8e1c7f50b77d43ae9887ea042bf28c7d",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-03T10:47:00Z",
-      "description": "Velkovévoda Guillaume nastoupil na lucemburský trůn po složení přísahy v tradičním ceremoniálu v pátek. Guillaume přebírá vládu po svém otci Henri"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Policie přiznala, že zastřelila oběť z manchesterské synagogy, útok upozorňuje na antisemitismus v Británii",
-      "original_title": "Police admit they shot dead Manchester synagogue victim, as attack puts spotlight on antisemitism in UK - CNN",
-      "url": "https://www.cnn.com/2025/10/03/uk/manchester-attack-victim-shot-police-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25276361251138.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-03T10:09:22Z",
-      "description": "Podle policie jednu z obětí útoku v manchesterské synagoze pravděpodobně zastřelili ozbrojení policisté"
+      "title": "Jsou internetové zvěsti o kometě letící k Zemi pravdivé?",
+      "original_title": "Are internet rumours of a comet hurtling towards Earth true? - Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2025/10/3/are-internet-rumours-of-a-comet-hurtling-towards-earth-true",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/shutterstock_2671776079-1759482859.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-10-03T09:54:54Z",
+      "description": "Vesmírné agentury ujišťují, že kometa 3I/ATLAS nepředstavuje žádné nebezpečí, a to navzdory virálním konspiračním tvrzením."
     },
     {
       "flag": "🌍",
@@ -131,34 +186,23 @@
       "urlToImage": "https://images.axios.com/HmCgzVamc2V2weX3km0N2VEzyN0=/0x0:1920x1080/1366x768/2025/10/02/1759435722846.jpg",
       "source": "Axios",
       "publishedAt": "2025-10-03T09:05:24Z",
-      "description": "Zatím patová situace jen utvrzuje Bílý dům."
+      "description": "Zatímco tento konflikt Bílý dům pouze utvrzuje v jeho postoji."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Případy spalniček v Minnesotě rychle přibývají. Tady jsou místa v USA, kde se nemoc šíří.",
+      "title": "Případy spalniček v Minnesotě rychle přibývají. Podívejte se, kde se v USA šíří ohniska nákazy.",
       "original_title": "Measles cases quickly rising in Minnesota. Here's where outbreaks are spreading in the U.S. - NBC News",
       "url": "https://www.nbcnews.com/health/health-news/measles-minnesota-double-us-outbreaks-vaccine-continue-rcna235144",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-Meseals-aa-3415-3c94d9.jpg",
       "source": "NBC News",
       "publishedAt": "2025-10-03T09:00:00Z",
-      "description": "Spalničky se dál šíří po celé zemi, v Minnesotě počet případů rychle roste"
+      "description": "Ohniska spalniček dál plápolají a šíří se po zemi, případy se nyní rychle objevují v Minnesotě"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jeanne Shaheen je demokratická krotitelka odstávek",
-      "original_title": "Jeanne Shaheen is Democrats’ shutdown whisperer - Politico",
-      "url": "https://www.politico.com/news/2025/10/03/jeanne-shaheen-shutdown-negotiator-00592378",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2c%2F4e%2Fa313abc74d8ba942e2a857e85d09%2Fu-s-congress-35107.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-03T08:45:00Z",
-      "description": "Odcházející senátor se stal klíčovou postavou v bipartisanském jednání, které tento týden zesílilo."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Izrael zadržel poslední loď humanitární flotily do Gazy",
+      "title": "Izrael zadržel poslední loď z humanitární flotily do Gazy",
       "original_title": "Last boat in Gaza humanitarian flotilla intercepted by Israel - Al Jazeera",
       "url": "https://www.aljazeera.com/news/2025/10/3/israel-dismantles-gaza-humanitarian-flotilla-but-one-boat-sails",
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/Screenshot-2025-10-03-at-11.18.57-1759461564.png?resize=1200%2C630",
@@ -169,18 +213,7 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Strava žaluje Garmin a žádá, aby přestal prodávat téměř všechna zařízení – zde je důvod",
-      "original_title": "Strava sues Garmin, demands it stops selling nearly every device - Here's why - Cyclingnews",
-      "url": "https://www.cyclingnews.com/news/strava-sues-garmin-demands-it-stops-selling-nearly-every-device-heres-why/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/efKj3rsLBGHJbWovRVGwfR-1600-80.jpg",
-      "source": "Cyclingnews.com",
-      "publishedAt": "2025-10-03T08:23:47Z",
-      "description": "Strava požaduje okamžité zastavení prodeje zařízení Garmin"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vítejte v říjnu! Schlittler smetl výpady Bostonu dvanáctistrikeoutovým majstrštykem",
+      "title": "Vítejte v říjnu! Schlittler smetl výpady Bostonu dvanáctistrikeovým skvostem",
       "original_title": "Welcome to October! Schlittler shakes off Boston barbs with 12-K masterpiece - MLB.com",
       "url": "https://www.mlb.com/news/cam-schlittler-strikes-out-12-al-wild-card-series-game-3",
       "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/p6o7rcfwo9yerhfsk4xd.jpg",
@@ -191,101 +224,46 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "FDA schválila další generickou pilulku na potrat, což vyvolalo pobouření mezi konzervativci",
-      "original_title": "FDA approves another generic abortion pill, prompting outrage from conservatives - NPR",
-      "url": "https://www.npr.org/2025/10/02/nx-s1-5561155/fda-generic-abortion-pill",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5883x3309+0+306/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F62%2F69114ad84da89f6f736bc45fb6bd%2Ffda-abortionpill-ap.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-03T03:45:38Z",
-      "description": "Farmaceutická firma Evita Solutions oznámila na svém webu, že americký Úřad pro kontrolu potravin a léčiv schválil její nízkonákladovou formu pilulky pro ukončení těhotenství do desátého týdne."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dow Jones Futures rostou; Akcie AI v nákupních zónách, zatímco Tesla prodává na zprávách",
-      "original_title": "Dow Jones Futures Rise; AI Stocks In Buy Areas As Tesla Sells The News - Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-broadcom-stock-tesla-deliveries/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/11/stock-tesla-04-shutter.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-03T03:06:00Z",
-      "description": "Astera Labs se vrací s vervou, stejně jako spekulativní kvantové a jaderné projekty."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dave Chappelle o Saúdské Arábii: „Tady se mluví snadněji než v Americe“",
-      "original_title": "Dave Chappelle On Saudi Arabia: “It’s Easier To Talk Here Than It Is In America” - Deadline",
-      "url": "http://deadline.com/2025/10/dave-chappelle-saudi-arabia-critcism-1236568963/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/02/Dave-Chappelle.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-02T23:57:00Z",
-      "description": "Chappelle a další čelí kritice za účast na komediálním festivalu v Rijádu kvůli království špatnému zacházení s lidskými právy a svobodou slova."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "CDC stále nevydalo pokyny k očkování proti covidu, přístup je tak v nedohlednu",
       "original_title": "The CDC still hasn't issued COVID vaccine guidelines, leaving access in limbo - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5559439/cdc-covid-vaccine-guidelines",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+53/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F27%2Fbb0a8c474b1ea300858a75f25ec2%2Fgettyimages-1241439406.jpg",
       "source": "NPR",
       "publishedAt": "2025-10-02T20:35:49Z",
-      "description": "Přístup k vakcínám proti covidu-19 zůstává obtížný kvůli neobvyklému a nevysvětlenému zpoždění ze strany CDC při přijímání doporučení svých poradců."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Vědci varují před rizikem biologických zbraní založených na umělé inteligenci, které odhalila chyba v bezpečnostním softwaru",
-      "original_title": "Risk of AI bioweapons laid bare by flaw in security software, scientists warn - Financial Times",
-      "url": "https://www.ft.com/content/fe224712-9c9a-4a56-8f5b-70aa66aaf1fd",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fec6dec3d-efc4-49e7-aae0-e7b56df73216.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-02T18:00:05Z",
-      "description": "Vědci našli zranitelnost v systému, který chrání přístup k nebezpečnému genetickému materiálu"
+      "description": "Přístup k vakcínám proti covidu-19 zůstává obtížný kvůli neobvyklému a nevysvětlenému zpoždění ze strany CDC při schvalování doporučení svých poradců."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "První únik informací o Galaxy S26 Ultra ukazuje vestavěný „displej pro soukromí“",
-      "original_title": "Galaxy S26 Ultra leak shows first look at built-in 'privacy display' - Android Central",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s26-ultra-leak-shows-first-look-at-built-in-privacy-display",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3fqzNnL3N3pbAXo48sMCB7-2048-80.jpg",
-      "source": "Android Central",
-      "publishedAt": "2025-10-02T17:21:16Z",
-      "description": "Uniklé screenshoty potvrzují nové ovládací prvky pro soukromí displeje Galaxy S26 Ultra."
+      "title": "Kdy ‚super úplněk sklizně‘ odstartuje temnou sezónu",
+      "original_title": "When the ‘super harvest moon’ will usher in the dark season - OregonLive.com",
+      "url": "https://www.oregonlive.com/weather/2025/10/super-harvest-moon-will-usher-in-the-dark-season.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/KK6EXD6Z6VBTBKDVPPW3JQTL5I.JPG?auth=8df0f976e52cd07750877a8c347ae811cc9dbd1144ade76e9150ab355867e32b&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2025-10-02T16:00:00Z",
+      "description": "První podzimní úplněk bude o něco větší a jasnější než obvykle."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‚Pokémoni, nežalujte mě‘: Aplikace Sora 2 otevírá stavidla AI videím s Pikachuem, Mariem a dalšími",
-      "original_title": "'Pokémon Don't Sue Me': Sora 2 App Opens Floodgates to AI Videos of Pikachu, Mario and More - IGN",
-      "url": "https://www.ign.com/articles/pokmon-dont-sue-me-sora-2-app-opens-floodgates-to-ai-videos-of-pikachu-mario-and-more",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/02/untitled-1-1759416056810.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "source": "IGN",
-      "publishedAt": "2025-10-02T16:51:30Z",
-      "description": "Aplikace Sora 2 od OpenAI pro generování videa je naživu a hned po spuštění vytvořila nespočet videí s licencovanými postavami, jako jsou Mario, Pikachu a další."
+      "title": "Šéf Instagramu tvrdí, že váš telefon tajně nenahrává – a proč tomu stejně věříte",
+      "original_title": "Instagram boss says it's not secretly using your phone's microphone to record you – here's why you still believe it - TechSpot",
+      "url": "https://www.techspot.com/news/109718-instagram-boss-not-secretly-using-phone-microphone-record.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-29-image-6.jpg",
+      "source": "TechSpot",
+      "publishedAt": "2025-10-02T14:31:00Z",
+      "description": "Přesvědčení, že smartphony nás tajně odposlouchávají, aby nám zobrazovaly cílené reklamy, existuje téměř tak dlouho jako moderní telefony; většina lidí…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nenechte si ujít východ úplňku sklizňového superměsíce 6. října: Co očekávat",
-      "original_title": "Don't miss the full 'Harvest Supermoon' rise on Oct. 6: Here's what to expect - Space",
-      "url": "https://www.space.com/stargazing/dont-miss-full-harvest-supermoon-rise-oct-6-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ndSGDYZGvgPxEoQAMBFjmD-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-02T14:00:00Z",
-      "description": "První superúplněk roku 2025 vychází 6. října poblíž plynového obra Saturnu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mozaiková anatomie u raného fosilního šupinatého plaza",
-      "original_title": "Mosaic anatomy in an early fossil squamate - Nature",
-      "url": "https://www.nature.com/articles/s41586-025-09566-y",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09566-y/MediaObjects/41586_2025_9566_Fig1_HTML.png",
-      "source": "Nature.com",
-      "publishedAt": "2025-10-01T15:03:37Z",
-      "description": "Breugnathair elgolensis gen. et sp. nov., raný zástupce šupinatých identifikovaný z nově objevené kostry ze střední jury na ostrově Skye, poskytuje nové důkazy o původu hadů."
+      "title": "Vědci identifikovali nový druh z jury po objevení fosilie",
+      "original_title": "Scientists Identify New Jurassic Creature After Unearthing Fossil - The Daily Beast",
+      "url": "https://www.thedailybeast.com/scientists-identify-new-jurassic-creature-after-unearthing-fossil/",
+      "urlToImage": "https://www.thedailybeast.com/resizer/v2/UKS6DHQT2RGJHLATU6TBL5CCMQ.jpg?smart=true&auth=e48e1d17d7fccdebeaa5a6a192d616cc76cfabe37302e0b240a9c392c6d40015&width=1200&height=630",
+      "source": "Daily Beast",
+      "publishedAt": "2025-10-02T01:50:00Z",
+      "description": "Fascinující exemplář byl pojmenován podle oblasti, v níž byl objeven."
     }
   ]
 }
