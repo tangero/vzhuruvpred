@@ -1,76 +1,120 @@
 {
-  "last_updated": "2025-10-04T02:50:16",
+  "last_updated": "2025-10-04T03:23:20",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Lori Loughlin a Mossimo Giannulli se po 27 letech manželství rozešli",
-      "original_title": "Lori Loughlin and Mossimo Giannulli separate after 27 years of marriage - USA Today",
-      "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/10/02/lori-loughlin-mossimo-giannulli-separate/86486248007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/02/USAT/86486428007-20190403-t-200110-z-1482889686-rc-1356-fdc-8-a-0-rtrmadp-3-usaeducationcheating.JPG?crop=2016,1134,x0,y105&width=2016&height=1134&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-10-03T00:06:37Z",
-      "description": "Hvězda seriálu \"Full House\" Lori Loughlinová a módní návrhář Mossimo Giannulli se po téměř 28 letech manželství rozhodli dát si vztahu pauzu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Robert Morris, zakládající pastor Gateway Church, se v Oklahomě přiznal k vině v případu sexuálního zneužívání dítěte",
-      "original_title": "Robert Morris, Gateway Church founding pastor, pleads guilty in Oklahoma child sexual abuse case - CBS News",
-      "url": "https://www.cbsnews.com/texas/news/robert-morris-gateway-church-sexual-abuse-case-oklahoma/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/02/04627d35-c9a2-4a93-b918-9e30cf68aa2c/thumbnail/1200x630/4ad023ddb3b53256f3a4102528504315/cbstexas-robert-morris-handcuffs-oklahoma-1-1.jpg",
+      "title": "Vláda USA stále nefunguje, Bílý dům zvažuje „tisíce“ propouštění",
+      "original_title": "Government shutdown continues as White House weighs \"thousands\" of layoffs - CBS News",
+      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-second-day-trump-johnson/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/02/d49e7616-5bc3-4d9a-bf8b-816fa61a4ddf/thumbnail/1200x630g2/d6aaac2152ae3547b9bcbe6391d82ca9/gettyimages-2238243760.jpg",
       "source": "CBS News",
-      "publishedAt": "2025-10-03T00:05:39Z",
-      "description": "Dlouholetý pastor z Texasu se přiznal k nemravnému jednání s dítětem a vyřešil tak případ starý několik desetiletí spojený s obviněním ze zneužívání v Oklahomě."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Sean ‚Diddy‘ Combs se v dopise soudu před vynesením rozsudku označuje za ‚pokorného a zlomeného‘",
-      "original_title": "Sean ‘Diddy’ Combs says he’s ‘humbled and broken’ in letter to judge ahead of sentencing - CNN",
-      "url": "https://www.cnn.com/2025/10/02/entertainment/sean-diddy-combs-letter",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25233219410505.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-02T21:32:06Z",
-      "description": "Sean „Diddy“ Combs učinil ve čtvrtek vášnivou prosbu soudci, který vedl jeho proces, den předtím, než má být odsouzen za přepravu za účelem prostituce."
+      "publishedAt": "2025-10-03T03:05:00Z",
+      "description": "Vláda USA kvůli rozpočtu ve čtvrtek druhým dnem v provizorním režimu, dohoda v nedohlednu"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zdroje o rakovině prsu: Co potřebujete vědět o diagnóze, léčbě a podpoře",
-      "original_title": "Breast cancer resources: What you need to know about diagnosis, treatments, support - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Health/breast-cancer-resources-diagnosis-treatments-support/story?id\\\\u003d125960215",
+      "title": "Rodiče vysokoškolačky zabité při nehodě v Tesle tvrdí, že konstrukční vada ji uvěznila v hořícím voze",
+      "original_title": "Parents of college student killed in Tesla crash allege design flaw trapped her in the burning car - AP News",
+      "url": "https://apnews.com/article/tesla-crash-doors-musk-regulators-accident-burning-trapped-2a710dbbb859436090e0a4cb8a7c8f4c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b7b9b43/2147483647/strip/true/crop/4479x2519+0+175/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F22%2F674d21bd362a7ae495e896758c20%2F14a69037612a425d92ca646394db1e3e",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-03T01:15:00Z",
+      "description": "Rodiče žalují Teslu. Jejich dcera uhořela uvnitř vozu kvůli závadě na dveřích."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Guvernér Newsom hrozí, že kalifornským univerzitám podepsavším Trumpův „pakt“ zadrží miliardy",
+      "original_title": "Gov. Newsom threatens to withhold billions from California colleges that sign Trump's 'compact' - KCRA",
+      "url": "https://www.kcra.com/article/gov-newsom-threatens-to-withhold-billions-from-california-colleges-that-sign-trumps-compact/68366652",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/cdba40c8-0e37-4eb7-979c-a83ac1bcbfa8/6d22b295-9791-470f-baae-bd0736cc3927.jpeg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "source": "KCRA Sacramento",
+      "publishedAt": "2025-10-03T00:41:00Z",
+      "description": "Guvernér Gavin Newsom hrozí, že kalifornským vysokým školám zadrží miliardy z veřejných financí"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Warren Buffettův Berkshire opět přichází na pomoc Occidental Petroleum",
+      "original_title": "Warren Buffett’s Berkshire Comes to the Aid of Occidental Petroleum—Again - The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/berkshire-hathaway-occidental-petroleum-acquisition-db3f7c14",
       "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-02T21:15:39Z",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-03T00:00:00Z",
       "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "FDA potichu schválila generickou pilulku na potrat před uzavřením",
-      "original_title": "FDA quietly approved a generic abortion pill ahead of shutdown - NBC News",
-      "url": "https://www.nbcnews.com/health/womens-health/fda-approves-generic-abortion-pill-mifepristone-rcna235265",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220328-fda-headquarters-2020-ac-611p-17ec72.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-10-02T20:55:49Z",
-      "description": "FDA v úterý potichu schválila generickou verzi mifepristonu, jednoho ze dvou léků používaných při většině potratů v USA."
+      "title": "„Tohle jsem neřekl:“ Zpráva o nepřítomnosti se automaticky aktualizuje pro zaměstnance ministerstva školství na nucené dovolené",
+      "original_title": "‘Those were not my words:’ Out-of-office message automatically updated for furloughed Education Dept employees - Federal News Network",
+      "url": "https://federalnewsnetwork.com/government-shutdown/2025/10/those-were-not-my-words-out-of-office-message-automatically-updated-for-furloughed-education-dept-employees/",
+      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/10/Congress-Shutdown-Education_22507-scaled.jpg",
+      "source": "Federal News Network",
+      "publishedAt": "2025-10-02T22:59:59Z",
+      "description": "Tyto zprávy jsou nejnovějším příkladem, kdy Trumpova administrativa viní z odstávky vlády demokraty prostřednictvím oficiálních kanálů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Izraelské námořnictvo zachytilo lodě pokoušející se prorazit blokádu Gazy a zatklo aktivisty",
+      "title": "Přebírám plnou odpovědnost.' Sean Combs žádá v omluvném dopise soudce o mírný trest - ABC7 Los Angeles",
+      "original_title": "'I take full responsibility' Sean Combs asks for light sentence in apology letter to judge - ABC7 Los Angeles",
+      "url": "https://abc7.com/post/take-full-responsibility-sean-combs-asks-light-sentence-apology-letter-judge/17925929/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17925692_100225-wabc-ap-diddy-img.jpg?w=1600",
+      "source": "KABC-TV",
+      "publishedAt": "2025-10-02T21:30:32Z",
+      "description": "V dopise soudci, který vede jeho případ, se Sean Combs omluvil jak Cassii Venturové, tak ženě, která u soudu vypovídala pod jménem „Jane“, za to, že jim ublížil."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Izraelské námořnictvo zadrželo lodě, které se pokusily prorazit blokádu Gazy, a zatklo aktivisty",
       "original_title": "Israeli navy intercepts boats attempting to break Gaza blockade and arrests activists - AP News",
       "url": "https://apnews.com/article/israel-palestinians-gaza-flotilla-activists-efc168795ecaea6d569bcb3eba4254c5",
       "urlToImage": "https://dims.apnews.com/dims4/default/fbc8154/2147483647/strip/true/crop/2217x1247+0+115/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F04%2F66bfc71b8f5dfc017f71e06aced1%2F0c2f150ce3aa4bea94b68aad6c397468",
       "source": "Associated Press",
       "publishedAt": "2025-10-02T20:51:00Z",
-      "description": "Stovky izraelských policistů byly nasazeny v přístavu Ašdod, aby vyšetřovaly asi 450 zadržených aktivistů"
+      "description": "Stovky izraelských policistů byly vyslány do přístavu Ašdod, aby se vypořádaly s asi 450 zadrženými aktivisty"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bývalý školní inspektor z Des Moines zadržený imigračním úřadem je obviněn z federálních zločinů - ABC News - Breaking News, Latest News and Videos",
+      "title": "CDC stále nevydalo pokyny k očkování proti covidu, přístup je tak v nejistotě",
+      "original_title": "The CDC still hasn't issued COVID vaccine guidelines, leaving access in limbo - NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5559439/cdc-covid-vaccine-guidelines",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+53/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F27%2Fbb0a8c474b1ea300858a75f25ec2%2Fgettyimages-1241439406.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-02T20:35:49Z",
+      "description": "Přístup k vakcínám proti covidu-19 zůstává obtížný kvůli neobvyklému a nevysvětlenému zpoždění ze strany CDC při schvalování doporučení svých poradců."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Akcie Tesly klesají navzdory rekordnímu počtu dodávek za čtvrtletí. Co stálo za překvapivým výsledkem. - Barron's",
+      "original_title": "Tesla Stock Drops Despite Record Quarterly Deliveries. What Drove the Big Beat. - Barron's",
+      "url": "https://www.barrons.com/articles/tesla-ev-deliveries-stock-price-bbebb4fb",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-10-02T20:10:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Meziplanetární sonda u Marsu a Jupiteru prozkoumá mezihvězdnou kometu 3I/ATLAS při jejím průletu kolem Slunce.",
+      "original_title": "Interstellar comet 3I/ATLAS will be eyed by Mars and Jupiter probes as it zooms past the sun this month - Space",
+      "url": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-will-be-eyed-by-mars-and-jupiter-probes-as-it-zooms-past-the-sun-this-month",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uq9o3mKsVycBQF3Tjnh3WY-1600-80.png",
+      "source": "Space.com",
+      "publishedAt": "2025-10-02T19:00:00Z",
+      "description": "Pozorování komety 3I/ATLAS v této aktivní fázi poskytne dosud nejjasnější pohled na záhadu meziplanetárních komet."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Bývalý školní inspektor z Des Moines zadržený imigračními úřady je obviněn z federálních trestných činů",
       "original_title": "Former Des Moines superintendent who was detained by ICE federally charged - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/US/former-des-moines-superintendent-detained-ice-federally-charged/story?id\\\\u003d126156263",
       "urlToImage": null,
@@ -79,59 +123,48 @@
       "description": ""
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Zprávy „mimo kancelář“ zaslané jménem některých státních zaměstnanců bez jejich souhlasu viní z odstávky demokraty",
-      "original_title": "Out-of-office messages blaming Democrats for shutdown sent on behalf of some federal workers without their consent - CNN",
-      "url": "https://www.cnn.com/2025/10/02/politics/federal-workers-government-shutdown-emails-partisan",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/003-gettyimages-2203639210.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-02T18:27:53Z",
-      "description": "E-maily připomínají zprávy, které se objevily na několika stránkách agentur během výpadku a viní demokratické senátory z toho, že se Kongresu nepodařilo na začátku fiskálního roku schválit prodlouž..."
-    },
-    {
       "flag": "🌍",
       "country": "global",
-      "title": "Sora od OpenAI se vyšplhala na třetí příčku v americkém App Storu",
+      "title": "OpenAI Sora se vyšplhala na 3. příčku amerického App Storu",
       "original_title": "OpenAI’s Sora soars to No. 3 on the US App Store - TechCrunch",
       "url": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
       "source": "TechCrunch",
       "publishedAt": "2025-10-02T18:24:54Z",
-      "description": "Sora se stává třetí nejlepší aplikací v USA po 164 tisících stažení za 2 dny, což z ní dělá raný hit."
+      "description": "Sora se stává třetí nejstahovanější aplikací v USA po 164 tisících stažení za 2 dny, což z ní činí raný hit."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hlasování o víkendu je nepravděpodobné, říká Thune. Výpadek by mohl pokračovat i příští týden.",
-      "original_title": "Weekend votes ‘unlikely,’ Thune says, meaning shutdown could push into next week - Politico",
-      "url": "https://www.politico.com/live-updates/2025/10/02/congress/shutdown-senate-votes-weekend-00591890",
-      "urlToImage": "https://www.politico.com/dims4/default/c5d6f30/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd3%2F76%2F9c29f59d4ebcbae9cfb7d0ce91b3%2Fu-s-congress-36908.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-02T17:48:38Z",
-      "description": "Vedoucí většiny v Senátu také odmítl demokratické návrhy na kratší prozatímní řešení."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Záhadná \"toulavá planeta\" polyká 6 miliard tun plynu a prachu každou sekundu",
+      "title": "Záhadná \"toulavá planeta\" polyká šest miliard tun plynu a prachu každou vteřinu",
       "original_title": "Mysterious \"rogue planet\" spotted gobbling 6 billion tons of gas and dust a second - CBS News",
       "url": "https://www.cbsnews.com/news/mysterious-rogue-planet-spotted-gobbling-6-billion-tons-of-gas-and-dust-a-second/",
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/02/5cf07a01-151f-4f56-ade9-9e1a0fd38b76/thumbnail/1200x630/d32fe3852665d1c27618b249aeab0ea3/planet-558868718-1215118950660703-1210797856896397688-n.jpg",
       "source": "CBS News",
       "publishedAt": "2025-10-02T17:14:22Z",
-      "description": "Velmi velký dalekohled ESO pozoroval tuláckou planetu, která pohlcuje plyn a prach ze svého okolí tempem 6 miliard tun za sekundu."
+      "description": "Velmi velký dalekohled ESO pozoroval tuláckou planetu a odhalil, že pohlcuje plyn a prach ze svého okolí tempem 6 miliard tun za sekundu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trumpova administrativa škrtá téměř 8 miliard dolarů v projektech čisté energie v modrých státech",
+      "original_title": "Trump administration cuts nearly $8B in clean energy projects in blue states - AP News",
+      "url": "https://apnews.com/article/trump-clean-energy-hydrogen-hub-newsom-0223cb4469508bcea4f689c18c9ab65d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/14b7413/2147483647/strip/true/crop/5833x3281+0+304/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F52%2Fcf8d1f5003e7249aaec053e49a36%2Fd158655194964cd1b1a4fe77c93eb5a1",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-02T17:08:00Z",
+      "description": "Trumpova administrativa zrušila 7,6 miliardy dolarů určených na projekty čisté energie v 16 státech. Všechny tyto státy mají oba senátory, kteří hlasovali proti republikánskému návrhu zákona na udr..."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Šestislovná odpověď Nicole Kidmanové na rozvod s Tomem Cruisem znovu viralizuje po oznámení jejího rozchodu s Keithem Urbanem",
+      "title": "Šestislovná odpověď Nicole Kidmanové na rozvod s Tomem Cruisem znovu virálně šíří v souvislosti s rozchodem s Keithem Urbanem",
       "original_title": "Nicole Kidman's Six-Word Clapback About Her Divorce from Tom Cruise Goes Viral amid Her Keith Urban Split - People.com",
       "url": "https://people.com/nicole-kidman-comment-tom-cruise-divorce-goes-viral-after-keith-urban-split-11823041",
       "urlToImage": "https://people.com/thmb/0RMiyTFzBCu-KXrGkZXs4_KL9K0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(783x333:785x335)/nicole-kidman-tom-cruise-keith-urban-100225-c63d11aae0e44c3db5d13e8e5f82d1a9.jpg",
       "source": "PEOPLE",
       "publishedAt": "2025-10-02T17:06:03Z",
-      "description": "Vystoupení Nicole Kidman v pořadu The Late Show z roku 2001 je virální poté, co se herečka rozešla s manželem Keithem Urbanem."
+      "description": "Vystoupení Nicole Kidman v pořadu The Late Show z srpna 2001 znovu virálně šíří internetem po jejím rozchodu s manželem Keithem Urbanem."
     },
     {
       "flag": "🌍",
@@ -142,7 +175,7 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/10/measlesgirl-1200x675.jpg",
       "source": "Gizmodo.com",
       "publishedAt": "2025-10-02T17:00:36Z",
-      "description": "V USA letos zaznamenali přes 1500 případů spalniček, nejvíce od vymýcení nemoci v zemi."
+      "description": "V USA letos zaznamenali přes 1500 případů spalniček, nejvíce od vymýcení této nemoci v zemi."
     },
     {
       "flag": "🌍",
@@ -164,67 +197,34 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iMessage-antitrust-threat-removed.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5Mac",
       "publishedAt": "2025-10-02T16:52:00Z",
-      "description": "Od vydání iOS 26 před měsícem mají někteří uživatelé iPhonů problémy s iMessage a svým telefonním číslem. Apple..."
+      "description": "Od vydání systému iOS 26 minulý měsíc mají někteří uživatelé iPhonu problémy s používáním iMessage se svými telefonními čísly. Apple..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Berkshire Hathaway koupí OxyChem od Occidental za 9,7 miliardy dolarů. Akcie Occidental klesají. - Barron's",
-      "original_title": "Berkshire Hathaway to Buy OxyChem From Occidental for $9.7 Billion. Occidental Stock Falls. - Barron's",
-      "url": "https://www.barrons.com/articles/berkshire-hathaway-oxychem-occidental-petroleum-stock-e453216b",
-      "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-10-02T15:47:00Z",
-      "description": ""
+      "title": "Eiffelova věž se uzavřela kvůli celostátním stávkám ve Francii",
+      "original_title": "Eiffel Tower closes amid nationwide strikes in France - CBS News",
+      "url": "https://www.cbsnews.com/news/eiffel-tower-closed-strikes-france/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/02/814c8296-68f4-43eb-be47-9a4234bbf5e1/thumbnail/1200x630/17c16d3a4b4274751f4f8612fa13a120/gettyimages-2238361518.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-02T16:35:18Z",
+      "description": "Demonstranti vyšli do ulic více než 200 měst po celé Francii, aby protestovali proti škrtům ve výdajích a požadovali vyšší daně pro bohaté."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "The Rock se vrací jako 'The Smashing Machine' (a říká, že jeho máma si tento rozhovor zamiluje)",
+      "title": "Dwayne 'The Rock' Johnson se vrací jako 'Ničitel' (a říká, že jeho máma si tento rozhovor zamiluje)",
       "original_title": "'The Rock' returns as 'The Smashing Machine' (and says his mom will love this interview) - NPR",
       "url": "https://www.npr.org/2025/10/02/nx-s1-5554338/dwayne-johnson-the-rock-mma-mark-kerr-smashing-machine",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5527x3109+1478+337/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F94%2Fe4b5892d442887d9ce2b8ca1e82e%2Ftsm-03761.jpg",
       "source": "NPR",
       "publishedAt": "2025-10-02T15:19:19Z",
-      "description": "Bývalý wrestler WWE zvažoval kariéru v MMA, než došel k závěru: „Nemám rád, když mě někdo praští do obličeje.“ Johnson hraje bojovníka MMA Marka Kerra v novém filmu."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Samsung One UI 8.5 uniká stále častěji, přidává „3D“ ikony a více z Liquid Glass [Galerie]",
-      "original_title": "Samsung's One UI 8.5 update keeps leaking, adding '3D' icons and more Liquid Glass vibes [Gallery] - 9to5Google",
-      "url": "http://9to5google.com/2025/10/02/samsung-one-ui-8-5-3d-icons-liquid-glass/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-flip-7-45.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-10-02T15:15:00Z",
-      "description": "Další velká aktualizace Galaxy od Samsungu, One UI 8.5, stále uniká na veřejnost a přináší řadu vizuálních změn"
+      "description": "Bývalý wrestler WWE zvažoval kariéru v MMA, než si uvědomil: „Nemám rád, když mě někdo praští do obličeje.“ Johnson hraje bojovníka MMA Marka Kerra v novém filmu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Eiffelova věž je uzavřena kvůli celostátním stávkám proti úsporným opatřením ve Francii - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Eiffel Tower closed as nationwide strikes held across France against austerity - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/International/wireStory/eiffel-tower-closed-nationwide-strikes-held-france-austerity-126152581",
-      "urlToImage": "https://i.abcnewsfe.com/a/e3c8a286-3538-4831-83b3-4b70d09739ae/wirestory_6e229da30e2dbe51bdb00b1416cb4a91_16x9.jpg?w=1600",
-      "source": "ABC News",
-      "publishedAt": "2025-10-02T14:55:41Z",
-      "description": "Demonstranti vyšli do ulic Paříže a více než 200 dalších míst po celé Francii, aby odsoudili škrty ve výdajích a požadovali vyšší daně pro bohaté"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Přístup k vakcíně proti covidu, vysvětleno",
-      "original_title": "COVID Vaccine Access, Explained - The Dispatch",
-      "url": "https://thedispatch.com/article/how-to-get-covid-vaccine-explained/",
-      "urlToImage": "https://thedispatch.com/wp-content/uploads/2025/10/GettyImages-1993770587.jpg?w=1024",
-      "source": "Thedispatch.com",
-      "publishedAt": "2025-10-02T14:51:03Z",
-      "description": "Co znamenají změny na federální a státní úrovni pro očkování proti covidu"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple odkládá přepracování Vision Pro a soustředí se na brýle s AI",
+      "title": "Apple odkládá přepracování Vision Pro a soustředí se na brýle s umělou inteligencí",
       "original_title": "Apple shelves Vision Pro overhaul to focus on AI glasses - TechCrunch",
       "url": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/CMC_6538.jpg?resize=1200,800",
@@ -235,57 +235,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "V čem by se George Washington neshodl s Petem Hegsethem o schopnosti velet a o tom, co dělá válečníka",
-      "original_title": "Where George Washington would disagree with Pete Hegseth about fitness for command and what makes a warrior - The Conversation",
-      "url": "https://theconversation.com/where-george-washington-would-disagree-with-pete-hegseth-about-fitness-for-command-and-what-makes-a-warrior-266530",
-      "urlToImage": "https://images.theconversation.com/files/693960/original/file-20251001-56-yz7h4o.jpg?ixlib=rb-4.1.0&rect=0%2C871%2C5100%2C2550&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source": "The Conversation Africa",
-      "publishedAt": "2025-10-02T12:44:14Z",
-      "description": "Washingtonův ‚válečnický étos‘ byl založen na slušnosti, umírněnosti a schopnosti jednat s odvahou, aniž by podlehl vzteku. Tento ideál vybudoval armádu – a časem i republiku."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Satelitní služba T-Mobile nyní podporuje Google Maps, WhatsApp, X a další",
-      "original_title": "T-Mobile’s satellite service now supports Google Maps, WhatsApp, X, and more - The Verge",
-      "url": "https://www.theverge.com/news/790412/t-mobile-satellite-service-apps-x-whatsapp-google-maps",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/acastro_STK067__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-02T11:34:48Z",
-      "description": "T-Mobile rozšířil svou satelitní službu pro mobily v USA na několik oblíbených aplikací"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "Exkluzivně: bývalá ředitelka CDC mluví o tom, proč byla propuštěna",
       "original_title": "Exclusive: ex-CDC director talks about why she was fired - Nature",
       "url": "https://www.nature.com/articles/d41586-025-03179-1",
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03179-1/d41586-025-03179-1_51502942.jpg",
       "source": "Nature.com",
       "publishedAt": "2025-10-02T11:24:01Z",
-      "description": "„Jako vědec bych to nikdy neudělala,“ říká Susan Monarezová o tom, že byla požádána o schválení změn v doporučeních pro vakcíny, aniž by znala podrobnosti."
+      "description": "„Jako vědec bych to nikdy neudělala,“ říká Susan Monarezová o žádosti schválit změny v doporučeních pro vakcíny bez znalosti podrobností."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Co byste měli vědět před nákupem doplňků stravy s folátem a folinovou kyselinou",
+      "original_title": "What you should know before buying folate and folinic acid supplements - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/09/29/folate-supplements-vs-leucovorin/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L3N6ZEJ5PRJBJA6IFW42UBGTYU.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-01T17:00:30Z",
+      "description": "Lékaři varují před zaměňováním volně prodejných doplňků s lékem leukovorin, který Trumpova administrativa propaguje jako léčbu autismu."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Samsung se chystá na uvedení TriFoldu tento měsíc, zatímco popularita Galaxy Z Fold 7 exploduje",
+      "original_title": "Samsung preps for TriFold launch this month as Galaxy Z Fold 7 popularity explodes - 9to5Google",
+      "url": "http://9to5google.com/2025/10/01/samsung-preps-for-trifold-launch-october-galaxy-z-fold-7-popularity/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-01T16:20:00Z",
+      "description": "Se Z Fold 7 jako skutečným hitem chce Samsung v nadcházejících týdnech představit svůj trojklopný smartphone."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Saturnův měsíc Enceladus chrlí organické molekuly, které by mohly pomoci vytvořit život",
-      "original_title": "Saturn's moon Enceladus is shooting out organic molecules that could help create life - Space",
-      "url": "https://www.space.com/astronomy/saturn/saturns-moon-enceladus-is-shooting-out-organic-molecules-that-could-help-create-life",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bqs8kEzUcZthsqvzH3XwYZ-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-02T10:00:00Z",
-      "description": "Mohla by být Saturnův zmrzlý měsíc nejlepším místem pro hledání života ve sluneční soustavě?"
+      "title": "Lidsky specifický regulační mechanism odhalený v modelu preimplantačního vývoje",
+      "original_title": "A human-specific regulatory mechanism revealed in a pre-implantation model - Nature",
+      "url": "https://www.nature.com/articles/s41586-025-09571-1",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09571-1/MediaObjects/41586_2025_9571_Fig1_HTML.png",
+      "source": "Nature.com",
+      "publishedAt": "2025-10-01T15:56:15Z",
+      "description": "Genetická manipulace blastoidů odhaluje roli nedávno vzniklých transpozonů a genů ve vývoji člověka."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mohla by Čína vrátit z Marsu vzorek s možnými biosignaturami roveru Perseverance?",
+      "title": "Mohla by Čína dopravit na Zemi vzorek s možnou biosignaturou z marsovského roveru Perseverance?",
       "original_title": "Could China return the Perseverance rover's possible biosignature sample from Mars? - Space",
       "url": "https://www.space.com/astronomy/mars/could-china-return-the-perseverance-rovers-possible-biosignature-sample-from-mars",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/oXJHGYfackHAU96DCknSwe-1280-80.png",
       "source": "Space.com",
       "publishedAt": "2025-10-01T12:00:00Z",
-      "description": "Sonda Perseverance možná objevila stopy po dávném životu na Marsu, ale čínská mise Tianwen 3 by mohla být první, která dopraví vzorky na Zemi."
+      "description": "Sonda Perseverance možná objevila stopy po dávném životu na Marsu, ale čínská mise Tianwen-3 by mohla být první, která dopraví vzorky zpět na Zemi."
     }
   ]
 }
