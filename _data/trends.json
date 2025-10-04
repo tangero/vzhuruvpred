@@ -1,20 +1,20 @@
 {
-  "updated": "2025-10-04T06:33:53.838985",
+  "updated": "2025-10-04T09:22:32.990185",
   "trends": [
     {
       "rank": 1,
-      "query": "jana paulová",
-      "news_title": "Jana Paulová: Na jevišti jsem doma, publikum mi dává energii",
-      "news_url": "https://radioblanik.cz/aktualne/pepovi-partaci/jana-paulova-na-jevisti-jsem-doma-publikum-mi-dava-energii",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0XsAmbDOW2O0JiqajAV_odlWEn-jgC3TnvDGDmOe1eqd_cx3vlhFc_v9yKL4",
-      "traffic": "2000++ hledání",
-      "source": "Rádio BLANÍK",
-      "explore_url": "https://trends.google.cz/trends/explore?q=jana paulová&geo=CZ"
+      "query": "ivan klima",
+      "news_title": "Zemřel spisovatel a bývalý disident Ivan Klíma",
+      "news_url": "https://www.novinky.cz/clanek/domaci-zemrel-spisovatel-a-byvaly-disident-ivan-klima-40542016",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1eSw0lFBN9kItDnvREsTfOFse6imRYTF8D6MKDBoDPRilSd1SJQEhw9rOr-g",
+      "traffic": "1000++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ivan klima&geo=CZ"
     },
     {
       "rank": 2,
       "query": "pavel horváth",
-      "news_title": "Kučera: Mrzí mě, že jsem nedal 300 ligových startů, teď mám hlavně hudbu",
+      "news_title": "Kučera: Mrzí mě, že jsem nedal 300 ligových startů, teď mám v hlavě hlavně hudbu",
       "news_url": "https://radiozurnal.rozhlas.cz/mrzi-me-ze-jsem-nedal-tri-sta-ligovych-startu-ale-ted-mam-v-hlave-predevsim-9566274",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnsc0cs0YvY434aWrDXw_j4DVKafe4d73UjdlDtr26yJg_rWFADSaq3imNgQ",
       "traffic": "1000++ hledání",
@@ -23,16 +23,26 @@
     },
     {
       "rank": 3,
-      "query": "david gilmour",
-      "news_title": "Pink Floyd: Průvodce smutkem k 50. výročí alba",
-      "news_url": "https://www.thecrimson.com/article/2025/9/30/pink-floyd-wish-you-were-here-retrospective/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXUrVUWenZhOqFuarlFBbrJnb5TpcATrzMASMhHLVhGLthhvnbJiGIrexTbKo",
+      "query": "arthur jones",
+      "news_title": "Havrani truchlí za úmrtím Arthura Jonese",
+      "news_url": "https://www.baltimoreravens.com/news/arthur-jones-death-ravens-super-bowl-winner-defensive-tackle-2025",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuI8vtrWTZdNG2UG-KQSj48EEmp25U0aej-43gcL8vbGFy0L18jKmME4S1frQ",
       "traffic": "500++ hledání",
-      "source": "The Harvard Crimson",
-      "explore_url": "https://trends.google.cz/trends/explore?q=david gilmour&geo=CZ"
+      "source": "Baltimore Ravens",
+      "explore_url": "https://trends.google.cz/trends/explore?q=arthur jones&geo=CZ"
     },
     {
       "rank": 4,
+      "query": "david gilmour",
+      "news_title": "Donovan tvrdí, že stál u zrodu Led Zeppelin",
+      "news_url": "https://www.telegraph.co.uk/music/interviews/donovan-interview/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQocK2BQTJk4--bpRRkkwDDB3fHPsp-Z32RzhfamnH_YbbtFr5kY3OedxMTEA8",
+      "traffic": "500++ hledání",
+      "source": "The Telegraph",
+      "explore_url": "https://trends.google.cz/trends/explore?q=david gilmour&geo=CZ"
+    },
+    {
+      "rank": 5,
       "query": "kateřina svitková",
       "news_title": "Svitková, čtyřnásobná fotbalistka roku, je těhotná",
       "news_url": "https://www.sport.cz/clanek/fotbal-ctyrnasobna-nejlepsi-ceska-fotbalistka-roku-svitkova-je-tehotna-5308383",
@@ -40,16 +50,6 @@
       "traffic": "500++ hledání",
       "source": "Sport.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=kateřina svitková&geo=CZ"
-    },
-    {
-      "rank": 5,
-      "query": "volby dnes",
-      "news_title": "Volby 2025: Kdy se začne jednat o vládě? Brání tomu časová vzdálenost",
-      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-o-vlade-se-zacne-jednat-uz-v-sobotu-v-noci-stacilo-to-bude-mit-trochu-z-ruky-40541896",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrykx2v69OdLavucxVDKblkrZrf2D8UQncDGiKQbRddzeqjfcRY-qRP060--g",
-      "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=volby dnes&geo=CZ"
     },
     {
       "rank": 6,
@@ -64,7 +64,7 @@
     {
       "rank": 7,
       "query": "opp",
-      "news_title": "Výstraha a uzavírka dálnice na severu Ont. Ozbrojený a nebezpečný pachatel",
+      "news_title": "Výstraha a uzavírka dálnice na severu Ontaria, ozbrojený a nebezpečný pachatel",
       "news_url": "https://www.ctvnews.ca/northern-ontario/article/emergency-alert-highway-closure-in-northern-ont-town-suspect-armed-and-dangerous-opp/",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5tlNhXeQBWXlKczSq_16dZm9BVJVUuz2asrrlvYM6vaPYeLvf1KSE5SAIyU",
       "traffic": "200++ hledání",
@@ -73,13 +73,13 @@
     },
     {
       "rank": 8,
-      "query": "aha",
-      "news_title": "Dagmar Havlová pokřtila album Štefana Margity",
-      "news_url": "https://www.ceskenoviny.cz/zpravy/2728765",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOJR41vgAs9p2Y9t3Ut-Yv-3aXgoG0va4fJ-R31i-6QwC01VwokprpxmQ4yxY",
+      "query": "václav klaus",
+      "news_title": "Orbán přivítal v Budapešti exprezidenta Václava Klause",
+      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-po-merkelove-privital-orban-v-budapesti-exprezidenta-vaclava-klause-287803",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRszghiwCjOATfYSa2b6aaDOfLG2x_q10b9Ayc2WebbfTix2b7M7GMClBqC9hA",
       "traffic": "100++ hledání",
-      "source": "České noviny",
-      "explore_url": "https://trends.google.cz/trends/explore?q=aha&geo=CZ"
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=václav klaus&geo=CZ"
     }
   ]
 }
