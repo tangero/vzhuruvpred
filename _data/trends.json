@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-04T01:49:39.116129",
+  "updated": "2025-10-04T03:30:01.518472",
   "trends": [
     {
       "rank": 1,
@@ -13,18 +13,8 @@
     },
     {
       "rank": 2,
-      "query": "drony praha",
-      "news_title": "Policie řeší anonymní hlášení o dronech na pražském letišti, dorazila speciální technika.",
-      "news_url": "https://www.novinky.cz/clanek/krimi-policie-proveruje-hlaseni-o-dronech-u-ruzyne-40541986",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTVu5ZJEC4q-qCODPgNhqdAkJrdaZ1_gMoGsUxdrc0XjcHqJwWe12s2lhIssI",
-      "traffic": "1000++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=drony praha&geo=CZ"
-    },
-    {
-      "rank": 3,
       "query": "pavel horváth",
-      "news_title": "Kučera: Mrzí mě, že jsem nedal 300 ligových startů, teď mám v hlavě hudbu",
+      "news_title": "Kučera: Tři sta startů mi chybí, teď je v hlavě hlavně hudba",
       "news_url": "https://radiozurnal.rozhlas.cz/mrzi-me-ze-jsem-nedal-tri-sta-ligovych-startu-ale-ted-mam-v-hlave-predevsim-9566274",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnsc0cs0YvY434aWrDXw_j4DVKafe4d73UjdlDtr26yJg_rWFADSaq3imNgQ",
       "traffic": "1000++ hledání",
@@ -32,7 +22,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=pavel horváth&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "query": "david gilmour",
       "news_title": "Roger Waters lituje rozpadu Pink Floyd po svém odchodu",
       "news_url": "https://cultfollowing.co.uk/2025/10/03/roger-waters-says-he-regrets-fallout-between-pink-floyd-members-after-he-left-the-band/",
@@ -42,9 +32,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=david gilmour&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "query": "kateřina svitková",
-      "news_title": "Svitková, 4x nejlepší fotbalistka ČR, je těhotná",
+      "news_title": "Svitková, čtyřnásobná fotbalistka roku, je těhotná",
       "news_url": "https://www.sport.cz/clanek/fotbal-ctyrnasobna-nejlepsi-ceska-fotbalistka-roku-svitkova-je-tehotna-5308383",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrRLly9t0fmZpEPPsC0diKHboDIRiluamnYmPC0SSlmKgJ7orqJ6uyctC0OAc",
       "traffic": "500++ hledání",
@@ -52,9 +42,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=kateřina svitková&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "query": "balin miller fall",
-      "news_title": "Horolezec Balin Miller spadl při pokusu zdolat El Capitan",
+      "news_title": "Horolezec Balin Miller spadl při zdolávání El Capitan",
       "news_url": "https://www.novinky.cz/clanek/zahranicni-amerika-smrt-v-primem-prenosu-horolezec-balin-miller-spadl-pri-pokusu-zdolat-el-capitan-40541984",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgvvxnPueAfnewInx0unCzvGC658cRsOGRnr626cTAdOUBlHhi44KvCAs7s0o",
       "traffic": "500++ hledání",
@@ -62,9 +52,19 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=balin miller fall&geo=CZ"
     },
     {
+      "rank": 6,
+      "query": "stardance tour",
+      "news_title": "StarDance Tour odstartovala. Natěšený Leoš Mareš přišel do haly první, následoval i smutek.",
+      "news_url": "https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-zaujalo-nas-leos-mares-zari-na-tanecnim-parketu-neprisel-jsem-zvitezit-hlavne-nechci-delat-ostudu-sampionum-100610",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0tbXLz-cpVnp19ZiwdSXvyJpGgC9meOS0ZHuKskUGZLFjghZ6Cqdg0ISdPEk",
+      "traffic": "500++ hledání",
+      "source": "Proženy.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=stardance tour&geo=CZ"
+    },
+    {
       "rank": 7,
       "query": "opp",
-      "news_title": "Policie zabavila konopí za 122 milionů dolarů na území Mohawků",
+      "news_title": "Policie zabavila konopí za 122 milionů dolarů na území Tyendinaga Mohawků",
       "news_url": "https://www.ctvnews.ca/ottawa/article/opp-seize-122m-worth-of-cannabis-plants-in-organized-crime-grow-op-bust-on-tyendinaga-mohawk-territory/",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkl0DPkdHlEo9fKlWHTYGBCzJppcdh9iUm7GWSGNBfd3G8oMEr2HnDTKqWB4o",
       "traffic": "200++ hledání",
@@ -74,9 +74,9 @@
     {
       "rank": 8,
       "query": "bournemouth – fulham",
-      "news_title": "Bournemouth otočil zápas s Fulhamem, Semenyo dvakrát skóroval",
-      "news_url": "https://www.bbc.com/sport/football/live/cwylxyvq4jpt",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdjwWf8axVBZnNpyPRNBdQZzIZ-5bQ-cat_Iin6sM7mjnp2B_lDu3FPEnY_A",
+      "news_title": "Semenyo žene Bournemouth k nečekaným výšinám",
+      "news_url": "https://www.bbc.com/sport/football/articles/cly18xx7rnno",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWodYlm7kubs3gc2-hU7s8jbPc628P_hFx8oitJMNbIMsJRKPD8skLDoE8lGw",
       "traffic": "200++ hledání",
       "source": "BBC",
       "explore_url": "https://trends.google.cz/trends/explore?q=bournemouth – fulham&geo=CZ"
