@@ -1,6 +1,72 @@
 {
-  "last_updated": "2025-10-05T12:33:24",
+  "last_updated": "2025-10-05T13:20:22",
   "articles": [
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Podle Zelenského si ruský úder na nádraží vyžádal nejméně 30 zraněných",
+      "original_title": "At least 30 injured in Russian strike on railway station, Zelensky says - BBC",
+      "url": "https://www.bbc.com/news/articles/czewkn06y1no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-04T11:48:24Z",
+      "description": "Podle něj předběžné zprávy uvádějí, že v místě stávky byli vlakový personál a cestující."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Izraelská armáda přechází k čistě obranným operacím v Pásmu Gazy",
+      "original_title": "IDF shifts to solely defensive operations in the Gaza Strip - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-869370",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/683512",
+      "source": "The Jerusalem Post",
+      "publishedAt": "2025-10-04T11:30:21Z",
+      "description": "Gaza zůstane v obležení, ale IDF se neposune z dosažených linií, uvedla N12."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Sean ‘Diddy’ Combs byl po celodenním soudním jednání odsouzen k více než 4 letům vězení. Jak jsme se k tomu dostali.",
+      "original_title": "Sean ‘Diddy’ Combs was sentenced to over 4 years in prison after day-long court hearing. How we got here - CNN",
+      "url": "https://www.cnn.com/2025/10/04/entertainment/sean-diddy-combs-was-sentenced-to-over-4-years-in-prison-after-an-arduous-day-in-court-how-we-got-here",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25276648039201-20251004025646515.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-04T10:30:52Z",
+      "description": "Federální soudce odsoudil Seana „Diddyho Combse ke 4 letům a 2 měsícům vězení"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Středoškolačka s bolestí kyčle a pak život ohrožující diagnóza",
+      "original_title": "A high-schooler with hip pain, then a life-threatening diagnosis - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/10/04/rare-medical-condition-spinal-cord/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGZIPVJI5BHL5GKLPLWTWTP7MQ.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-04T10:08:57Z",
+      "description": "Jeden lékař jí řekl, že bolest kyčle je způsobená zkroucenou pánví. Další tvrdil, že bolest má jen v hlavě."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Izrael se připravuje na propuštění rukojmích poté, co Hamas souhlasil s částmi Trumpova mírového plánu",
+      "original_title": "Israel prepares for hostage release after Hamas agrees to parts of Trump’s peace plan - Financial Times",
+      "url": "https://www.ft.com/content/c6bdbb2c-40a5-4906-a94f-b810ed379739",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1fd0fc76-305b-476b-862a-f9f1b2143175.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-10-04T09:21:24Z",
+      "description": "Americký prezident nařídil Izraeli přestat bombardovat, ale obyvatelé Gazy hlásí roztroušené exploze"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Guvernér Severní Karolíny podepsal zákon o trestní justici po smrti ukrajinského uprchlíka",
+      "original_title": "North Carolina governor signs criminal justice bill into law after Ukrainian refugee’s death - CNN",
+      "url": "https://www.cnn.com/2025/10/04/us/north-carolina-criminal-justice-law-ukrainian-train-stabbing-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25247556648764.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-04T09:21:19Z",
+      "description": "Severokarolínský demokratický guvernér v pátek podepsal zákon o trestní justici, který schválil republikány kontrolovaný zákonodárný sbor státu jako reakci na smrt ukrajinské uprchlice pobodané na ..."
+    },
     {
       "flag": "🇺🇸",
       "country": "us",
@@ -13,48 +79,26 @@
       "description": "Nový lídr převezme otěže čtvrté největší světové ekonomiky v době neobvyklé politické nestability, rostoucích cen a sílících regionálních napětí."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Více než 300 000 Venezuelanů hrozí deportace podle nového rozhodnutí nejvyššího soudu",
-      "original_title": "More than 300,000 Venezuelans at risk of deportation under new Supreme Court ruling - Axios",
-      "url": "https://www.axios.com/2025/10/03/trump-venezuela-deportations-supreme-court-ruling",
-      "urlToImage": "https://images.axios.com/ykI1fH7GoR70OepGqOZZiDzPfOU=/0x0:4000x2250/1366x768/2025/10/03/1759530364453.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-04T07:30:14Z",
-      "description": "Nejvyšší soud rozhodl, že Trump může znovu zrušit ochranu TPS pro Venezuelany."
-    },
-    {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Sean ‘Diddy’ Combs byl odsouzen k více než 4 letům vězení. Co bude následovat?",
-      "original_title": "Sean ‘Diddy’ Combs was sentenced to over 4 years. Here’s what’s next. - The Washington Post",
-      "url": "https://www.washingtonpost.com/entertainment/music/2025/10/03/diddy-sentenced-prison-time-sean-combs/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X26OA6H7IRCDVFG4VTWXSDSDFY.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-04T06:35:43Z",
-      "description": "Soudce nařídil Combsovi zaplatit pokutu 500 000 dolarů a uložil pětiletý podmíněný dohled po výkonu trestu. Jeho obhajoba plánuje podat odvolání."
+      "title": "Horoskop na sobotu 4. října 2025 - Chicago Sun",
+      "original_title": "Horoscope for Saturday, October 04, 2025 - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/horoscopes/2025/10/04/horoscopes-today-saturday-october-04-2025",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-10-04T05:01:00Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Váš denní horoskop: 4. října 2025",
-      "original_title": "Your daily horoscope: October 4, 2025 - The Globe and Mail",
-      "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-october-4-2025/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/LMZRFELKY5CP7NSCTCPEMNCFII.png?auth=47107fdfbf7ea0ccde091a624e8a92236787276e7c23c335aea3275bb34aa7eb&width=1200&height=800&quality=80&smart=true",
-      "source": "The Globe And Mail",
-      "publishedAt": "2025-10-04T04:01:00Z",
-      "description": "Váš denní horoskop na sobotu 4. října 2025"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump čelí první žalobě za zastavení vstupního poplatku 100 000 USD za H-1B (3)",
-      "original_title": "Trump Hit With First Lawsuit to Halt $100,000 H-1B Entry Fee (3) - Bloomberg Law News",
-      "url": "https://news.bloomberglaw.com/daily-labor-report/trump-hit-with-first-lawsuit-to-block-100-000-h-1b-entry-fee",
-      "urlToImage": "https://db0ip7zd23b50.cloudfront.net/dims4/default/d4c3ee1/2147483647/crop/5471x2102+0+742/resize/959x370%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F27%2F4a%2F497cd088473daabcdd68429ce9a3%2Fgettyimages-1227766764.jpg",
-      "source": "Bloomberglaw.com",
-      "publishedAt": "2025-10-04T03:31:00Z",
-      "description": "Federální soud by měl zrušit nový poplatek 100 000 dolarů zavedený Trumpovou administrativou pro držitele víz H-1B, tvrdí žaloba podaná koalicí odborů, poskytovatelů zdravotní péče, akademických sk..."
+      "title": "Charlie Hunnam odhaluje svou proměnu v Eda Geina pro film ‘Monster’ a prozrazuje radu Sarah Paulsonové",
+      "original_title": "Charlie Hunnam Unmasks His Transformation Into Ed Gein for ‘Monster,’ Reveals Sarah Paulson’s Advice - hollywoodreporter.com",
+      "url": "http://www.hollywoodreporter.com/tv/tv-features/monster-charlie-hunnam-ed-gein-transformation-interview-1236392250/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Monster__The_Ed_Gein_Story_n_S1_E3_00_20_01_23R-e1757945891347.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-04T02:57:24Z",
+      "description": "Herečka prohlásila pro The Hollywood Reporter, že svou práci na pochopení sériového vraha pojala jako zobrazení příběhu o „duševním zdraví a důsledcích zneužívání a izolace“."
     },
     {
       "flag": "🇫🇷",
@@ -65,62 +109,40 @@
       "urlToImage": "https://s.hdnux.com/photos/01/54/56/52/28502691/3/rawImage.jpg",
       "source": "San Francisco Chronicle",
       "publishedAt": "2025-10-04T02:47:51Z",
-      "description": "Guvernér Gavin Newsom uvedl, že jeho administrativa může kvůli tomuto kroku podat žalobu, v závislosti na tom, co bude vojákům nařízeno tam dělat."
+      "description": "Guvernér Gavin Newsom řekl, že jeho administrativa může kvůli tomuto kroku podat žalobu, v závislosti na tom, co budou vojáci požádáni, aby tam dělali."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Guvernér Severní Karolíny podepsal zákon o trestní justici po smrti ukrajinské uprchlice",
-      "original_title": "North Carolina governor signs criminal justice bill into law after Ukrainian refugee’s death - AP News",
-      "url": "https://apnews.com/article/north-carolina-governor-legislation-train-stabbing-89628f222063cb8f8b153df084f22b80",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9c0c338/2147483647/strip/true/crop/5396x3035+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2Fb1%2Fe5c4d46e5c4f7151d086c50c6151%2F6c705d18651e4fb780816aca1fa566f5",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-04T01:34:00Z",
-      "description": "Severokarolínský demokratický guvernér podepsal zákon o trestní justici prosazený republikány kontrolovaným zákonodárným sborem v reakci na smrt ukrajinské uprchlice po pobodání ve vlaku v Charlott..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "OpenAI slibuje „jemnější“ kontrolu IP u Sory poté, co se ve video aplikaci objevily postavy z Hollywoodu",
-      "original_title": "OpenAI Promises “More Granular” Control of IP in Sora After Hollywood Characters Flood Video App - hollywoodreporter.com",
-      "url": "http://www.hollywoodreporter.com/business/digital/openai-walks-back-opt-out-sora-video-app-ip-characters-1236393079/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/GettyImages-1778704897-copy.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-10-04T01:16:35Z",
-      "description": "Generální ředitel OpenAI Sam Altman v pátek pozdě večer uvedl, že technologická společnost také prozkoumá sdílení výnosů s držiteli autorských práv."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Domnělý vrah Kavanaugha byl odsouzen k více než osmi letům vězení",
-      "original_title": "Would-be Kavanaugh assassin sentenced to over 8 years in prison - Politico",
-      "url": "https://www.politico.com/news/2025/10/03/kavanaugh-assassin-sentencing-00593998",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1f%2F3a%2F3a447ac945cbaa91598731537553%2Fsupreme-court-kavanaugh-50146.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-03T23:19:20Z",
-      "description": "Státní zástupci žádali o třicetiletý trest."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Netanjahu nařídil útoky dronů na humanitární lodě u Tuniska mířící do Gazy, tvrdí zdroje",
-      "original_title": "Netanyahu ordered drone attacks on Gaza-bound humanitarian aid boats off Tunisia, sources say - CBS News",
-      "url": "https://www.cbsnews.com/news/netanyahu-drone-attacks-gaza-aid-boats-tunisia/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/03/4d1e5b13-4f07-4d24-b3a7-63f68dcae9df/thumbnail/1200x630/a0416e72748d0610eb2c20809483ac20/sumud-flotilla-2025-09-10t022726z-939082202.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-03T23:03:51Z",
-      "description": "Nikdo nebyl zraněn, když dvě plavidla z flotily směřující do Gazy minulý měsíc záhadně zachvátil požár."
+      "title": "Apple odstranil aplikaci ICEBlock po kritice ze strany Trumpovy administrativy",
+      "original_title": "Apple removes ICEBlock app after criticism from Trump administration - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/apple-removes-iceblock-app-criticism-trump-administration-rcna235333",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251003-ice-agents-rs-e7ada7.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-03T23:08:00Z",
+      "description": "Apple ve čtvrtek uvedlo, že odstraní aplikaci, která uživatelům umožňuje sdílet informace o spatřeních agentů imigrační a celní služby (ICE), kterou kritizoval šéf ICE."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Google údajně testuje modem MediaTek pro Tensor G6 a Pixel 11 - 9to5Google",
+      "title": "Google údajně testuje modem MediaTek pro Tensor G6 a Pixel 11 – 9to5Google",
       "original_title": "Google reportedly testing MediaTek modem for Tensor G6 and Pixel 11 - 9to5Google",
       "url": "http://9to5google.com/2025/10/03/pixel-11-tensor-g6-modem/",
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-repair-tensor-g5-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
       "publishedAt": "2025-10-03T21:58:00Z",
-      "description": "Tensor G6 pro Pixel 11 by měl přejít na modem MediaTek. Pixel 10 je na trhu jen něco přes měsíc..."
+      "description": "Tensor G6 pro Pixel 11 by měl přejít na modem MediaTek. Pixel 10 je starý jen něco přes měsíc…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pusť to hned!\": Video ukazuje, jak byl střelec z michiganského kostela naposledy vyzván, aby se vzdal",
+      "original_title": "'Drop it now!': Video shows Michigan church shooter was ordered to give up before he was killed - AP News",
+      "url": "https://apnews.com/article/michigan-church-shooting-video-grand-blanc-b74ec2abe9960cb1406c1af6a78d502a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8450247/2147483647/strip/true/crop/3261x1834+0+170/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2Fe3%2F56b108e426ac9313d53f234753cd%2F99f18ba07ece4bba93f7445ec5e29d2f",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-03T21:49:00Z",
+      "description": "Michiganská policie zveřejnila krátké záběry z bodyskopu ze střetu s masovým střelcem v kostele. Strážníci na místě opakovaně vyzývali: \"Pusť zbraň! Pusť ji hned!\", než byl Thomas \"Jake\" Sanford sm..."
     },
     {
       "flag": "🌍",
@@ -131,133 +153,111 @@
       "urlToImage": "https://images.mktw.net/im-51746529/social",
       "source": "MarketWatch",
       "publishedAt": "2025-10-03T20:54:00Z",
-      "description": "Dow a S&P 500 v pátek prodloužily svou sérii zisků, technologický Nasdaq mírně klesl. Všechny tři indexy uzavřely týden v zisku navzdory hrozbě odstávky vlády USA."
+      "description": "Dow a S&P 500 v pátek prodloužily svou sérii zisků, zatímco technologický Nasdaq mírně oslabil. Všechny tři americké akciové indexy zaznamenaly týdenní zisky navzdory hrozbě zastavení činnosti vlád..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Starbucks zavírá pět poboček v okrese Snohomish",
+      "title": "Školní obvod Des Moines podá žalobu na konzultační firmu poté, co byl superintendent zadržen imigrační policií",
+      "original_title": "Des Moines school district says it will pursue legal action against consulting firm after superintendent detained by ICE - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/des-moines-school-district-pursue-legal-action-consulting/story?id\\\\u003d126186026",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-03T20:48:45Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Starbucks uzavírá pět poboček v okrese Snohomish",
       "original_title": "Starbucks shutters five locations in Snohomish County - Everett Herald",
       "url": "https://www.heraldnet.com/news/the-end-has-come-for-five-snohomish-county-starbucks/",
       "urlToImage": "https://www.heraldnet.com/wp-content/uploads/2025/10/40512429_web1_TSR-Starbucks99-EDH-250930-fs.jpg",
       "source": "The Daily Herald",
       "publishedAt": "2025-10-03T20:33:00Z",
-      "description": "Zavírání poboček v Lynnwoodu, Edmondsu, Mill Creek a Bothellu přichází v době, kdy se generální ředitel Starbucks Brian Niccol snaží zvrátit klesající tržby."
+      "description": "Zavírání poboček v Lynnwoodu, Edmondsu, Mill Creeku a Bothellu přichází v době, kdy se generální ředitel Starbucks Brian Niccol snaží zvrátit klesající tržby."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "6 seriálů o skutečných zločinech, které si pustíte po seriálu 'Monster: Příběh Eda Geina' na Netflixu",
-      "original_title": "6 true crime TV shows to stream after 'Monster: The Ed Gein Story' on Netflix - Yahoo",
-      "url": "https://www.yahoo.com/entertainment/tv/article/6-true-crime-tv-shows-to-stream-after-monster-the-ed-gein-story-on-netflix-200049456.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r69pty_ZrDa7rpHEOiaI.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzY7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/4f1612a0-9e34-11f0-9b7d-87f3d851f907",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2025-10-03T20:00:49Z",
-      "description": "Nové true crime seriály, které byste měli sledovat po zhlédnutí \"Monster: The Ed Gein Story"
+      "title": "Trump po kritice republikánů zrušil škrt 187 milionů dolarů na financování bezpečnosti v New Yorku",
+      "original_title": "Trump undoes $187 million cut to NY security funds after GOP outcry - Axios",
+      "url": "https://www.axios.com/2025/10/03/trump-restores-ny-counterterrorism-security-funding",
+      "urlToImage": "https://images.axios.com/4_SoAEIKKrp3hIkORX80d5lTOS8=/0x276:6000x3651/1366x768/2025/10/03/1759516241575.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-10-03T19:42:40Z",
+      "description": "Změna nastala po dvoustranné kritice a obavách o bezpečnost."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Stojíme před výlukou vlády, nejde o výhru či prohru demokratů nebo republikánů, říká senátor Warnock",
+      "title": "Aplikace umělé inteligence Gemini od Googlu by se brzy mohla dočkat velké proměny",
+      "original_title": "Google’s Gemini AI app could soon be getting a big makeover - TechCrunch",
+      "url": "https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-03T19:18:43Z",
+      "description": "Společnost zřejmě experimentuje s novým uživatelským rozhraním, které by změnilo aplikaci z chatbotového vzhledu na posouvatelný kanál s doporučenými prompty doplněnými o poutavé fotografie."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Stojí za odstávkou vlády to, kdo vyhraje nebo prohraje, ne demokraté nebo republikáni, říká senátor Warnock",
       "original_title": "Shutdown standoff not about whether Democrats or GOP 'win or lose,' says Sen. Warnock - NPR",
       "url": "https://www.npr.org/2025/10/03/nx-s1-5560877/federal-shutdown-democrats-healthcare-warnock-georgia",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5080x2858+0+265/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2F92%2F297b2b644037857fd41089c4fb4a%2Fgettyimages-2233025748.jpg",
       "source": "NPR",
       "publishedAt": "2025-10-03T19:14:53Z",
-      "description": "Americký senátor za Georgii Raphael Warnock z Demokratické strany uvedl, že škrty ve zdravotnictví poškozují lidi bez ohledu na stranickou příslušnost, a „doufá proti vší naději“, že GOP a Bílý dům..."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Planeta Y? Astronomové našli nové stopy po skryté planetě v naší sluneční soustavě",
-      "original_title": "Planet Y? Astronomers find fresh clues of hidden world in our solar system - CNN",
-      "url": "https://www.cnn.com/2025/10/03/science/planet-y-solar-system-study",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/planet-9-art-1-1400.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-03T18:03:14Z",
-      "description": "Podle nové studie existuje v naší sluneční soustavě možná další planeta. Vědci ji pojmenovali Planeta Y."
+      "description": "Americký senátor Raphael Warnock říká, že škrty ve zdravotnictví škodí všem bez ohledu na stranickou příslušnost"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Harvest Moon 2025: Vzácny říjnový superúplněk vystoupá na obloze spolu s padajícími hvězdami",
+      "title": "Harvest Moon 2025: Vzácny říjnový superúplněk vystoupá na oblohu spolu s padajícími hvězdami",
       "original_title": "Harvest Moon 2025: Watch a rare October supermoon rise amid shooting stars - Live Science",
       "url": "https://www.livescience.com/space/the-moon/harvest-moon-2025-watch-a-rare-october-supermoon-rise-amid-shooting-stars",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/idrmhtNiCq25rahBgJoWfL-1600-80.png",
       "source": "Live Science",
       "publishedAt": "2025-10-03T15:39:07Z",
-      "description": "Slavný Harvest Moon — první ze tří superúplňků roku 2025 — bude prvním podzimním úplňkem, který vyjde 6. a 7. října."
+      "description": "Slavný Harvest Moon — první ze tří superúplňků roku 2025 — bude prvním podzimním úplňkem, který vyjde 6. až 7. října."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Recenze Apple iPhone 17 Pro: Přiláká vás foťák, nadchne vás baterie",
+      "title": "Microsoft se chystá spustit bezplatné Xbox Cloud Gaming s reklamami",
+      "original_title": "Microsoft is about to launch free Xbox Cloud Gaming with ads - The Verge",
+      "url": "https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-03T15:18:15Z",
+      "description": "Microsoft se chystá spustit reklamami podporovanou verzi Xbox Cloud Gaming. Bezplatné streamování testuje interně."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Recenze Apple iPhone 17 Pro: Přiláká vás fotoaparát, nadchne vás baterie",
       "original_title": "Apple iPhone 17 Pro review: Come for the camera, stay for the battery - Ars Technica",
       "url": "https://arstechnica.com/gadgets/2025/10/apple-iphone-17-pro-review-come-for-the-camera-stay-for-the-battery/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3437-1152x648.jpeg",
       "source": "Ars Technica",
       "publishedAt": "2025-10-03T15:04:37Z",
-      "description": "Pokud je váš iPhone vaším hlavním nebo jediným fotoaparátem, iPhone 17 Pro je pro vás."
+      "description": "Pokud je váš iPhone hlavním nebo jediným fotoaparátem, iPhone 17 Pro je pro vás."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Apple Watch Ultra 3, které si zasloužíte, existuje: Apple ho jen nevyrobil",
-      "original_title": "The Apple Watch Ultra 3 you deserve exists: Apple just didn’t build it - PhoneArena",
-      "url": "https://www.phonearena.com/news/the-apple-watch-ultra-3-you-deserve_id174634",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/174634-wide-two_1200/The-Apple-Watch-Ultra-3-you-deserve-exists-Apple-just-didnt-build-it.jpg",
-      "source": "PhoneArena",
-      "publishedAt": "2025-10-03T14:33:28Z",
-      "description": "Je to nejlepší chytré hodinky od Applu, ale ne ty nejlepší na trhu."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Většina užívání aspirinu u středního věku může být podle nového hodnocení zbytečná",
-      "original_title": "Most aspirin use in middle-aged adults may be unnecessary under new assessment - Medical Xpress",
-      "url": "https://medicalxpress.com/news/2025-10-aspirin-middle-aged-adults-unnecessary.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/taking-medicine.jpg",
-      "source": "Medical Xpress",
-      "publishedAt": "2025-10-03T14:30:01Z",
-      "description": "Rochester General Hospital, University of Texas Southwestern Medical Center a Aga Khan University uvádějí, že použití novějších rovnic pro výpočet kardiovaskulárního rizika by mohlo výrazně snížit ..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mac Jones podává třídní odpověď ohledně situace s quarterbackem 49ers po velké výhře nad Rams",
-      "original_title": "Mac Jones Has Classy Answer About 49ers QB Situation After Big Win vs. Rams - Sports Illustrated",
-      "url": "https://www.si.com/nfl/mac-jones-classy-answer-49ers-qb-situation-big-win-vs-rams",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_830,h_466,x_0,y_46/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01k6n1nrsdrzrs9hryna.png",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-10-03T13:08:08Z",
-      "description": "Náhradní rozehrávač se bravurně vyrovnal s dotazem po kariérním zápase."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Vyzkoušel jsem nové chytré domácí gadgety od Amazonu a Googlu. Ptejte se na cokoliv!",
-      "original_title": "I tried Amazon and Google’s new smart home gadgets. Ask me anything! - The Verge",
-      "url": "https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257993_Jen_Tuohy_AMA_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-03T13:03:07Z",
-      "description": "Od nových Echo Show po nová Nest Cam, nový chytrý reproduktor Google Home a nové hlasové asistenty – čeká nás spousta nových chytrých domácích zařízení. Vy máte otázky, já mám odpovědi."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Detektor kovů zazněl: Nález roveru Perseverance je novým zářivým vodítkem v pátrání po životě na Marsu",
+      "title": "Detektor kovů zazněl\": Nález roveru Perseverance je novým zářivým vodítkem v hledání života na Marsu",
       "original_title": "'The metal detector has gone off': Perseverance rover's find is a shiny new clue in the search for life on Mars - Space",
       "url": "https://www.space.com/astronomy/mars/the-metal-detector-has-gone-off-perseverance-rovers-find-is-a-shiny-new-clue-in-the-search-for-life-on-mars",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/TAdaVAkHPhPbicym76RrpM-1920-80.jpg",
       "source": "Space.com",
       "publishedAt": "2025-10-03T10:00:00Z",
-      "description": "Tohle je chvíle, kdy vám pípne detektor kovů a vykopete něco lesklého. Teď ještě musíte zjistit, co přesně to je – ale už máte něco, s čím pracovat."
+      "description": "Toto je chvíle, kdy zazněl detektor kovů a vykopal jste něco lesklého. Teď ještě musíte zjistit, co přesně to je – ale už máte něco, s čím pracovat."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Rakovina prsu v číslech: Jak se za posledních 40 let zlepšila míra přežití - ABC News - Zprávy, nejnovější zprávy a videa",
+      "title": "Rakovina prsu v číslech: Jak se za posledních 40 let zlepšila míra přežití - ABC News - Nejnovější zprávy a videa",
       "original_title": "Breast cancer by the numbers: How survival rates have improved over the past 40 years - ABC News - Breaking News, Latest News and Videos",
       "url": "https://abcnews.go.com/Health/Recipes/story?id=40",
       "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
@@ -268,18 +268,29 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Počet případů spalniček v Minnesotě rychle roste. Zde se šíří ohniska nákazy v USA.",
+      "title": "Ptáci po celém světě používají k varování před hrozbami stejný zvuk",
+      "original_title": "Birds all over the world use the same sound to warn of threats - The Conversation",
+      "url": "https://theconversation.com/birds-all-over-the-world-use-the-same-sound-to-warn-of-threats-266618",
+      "urlToImage": "https://images.theconversation.com/files/694242/original/file-20251003-56-5sec6z.jpg?ixlib=rb-4.1.0&rect=0%2C308%2C3509%2C1754&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source": "The Conversation Africa",
+      "publishedAt": "2025-10-03T09:00:17Z",
+      "description": "Zjištění nové studie o komunikaci ptáků nabízejí klíčové poznatky o původu jazyka."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Případy spalniček v Minnesotě rychle přibývají. Podívejte se, kde se nemoc šíří v USA.",
       "original_title": "Measles cases quickly rising in Minnesota. Here's where outbreaks are spreading in the U.S. - NBC News",
       "url": "https://www.nbcnews.com/health/health-news/measles-minnesota-double-us-outbreaks-vaccine-continue-rcna235144",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250228-Meseals-aa-3415-3c94d9.jpg",
       "source": "NBC News",
       "publishedAt": "2025-10-03T09:00:00Z",
-      "description": "Spalničky dál v zemi plápolají a šíří se, v Minnesotě přibývá případů rychlým tempem"
+      "description": "Spalničky se dál šíří po celé zemi, v Minnesotě počet případů rychle roste"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "CDC stále nevydalo pokyny k očkování proti covidu, přístup je tak v nejistotě",
+      "title": "CDC stále nevydala pokyny k očkování proti covidu, přístup je tak v nedohlednu",
       "original_title": "The CDC still hasn't issued COVID vaccine guidelines, leaving access in limbo - NPR",
       "url": "https://www.npr.org/sections/shots-health-news/2025/10/02/nx-s1-5559439/cdc-covid-vaccine-guidelines",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+53/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F27%2Fbb0a8c474b1ea300858a75f25ec2%2Fgettyimages-1241439406.jpg",
