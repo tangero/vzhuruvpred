@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-06T12:54:57.231552",
+  "updated": "2025-10-06T15:26:27.365403",
   "trends": [
     {
       "rank": 1,
+      "query": "amd stock",
+      "news_title": "OpenAI a AMD oznamují velkou dohodu. Nová fáze boomu umělé inteligence.",
+      "news_url": "https://www.wsj.com/tech/ai/openai-amd-deal-ai-chips-ed92cc42",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBYWpxahhXOmDbUxBek75fXEM8OHhHGlxlMMhi0AeDSp-hyKOdusFnWzpvL94",
+      "traffic": "2000++ hledání",
+      "source": "The Wall Street Journal",
+      "explore_url": "https://trends.google.cz/trends/explore?q=amd stock&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "evakuace letiste vaclava havla",
       "news_title": "Evakuace na pražském letišti po poškození tlačítka cestujícím",
       "news_url": "https://www.novinky.cz/clanek/krimi-evakuace-na-prazskem-letisti-cestujici-poskodil-omylem-tlacitko-40542288",
@@ -10,16 +20,6 @@
       "traffic": "2000++ hledání",
       "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=evakuace letiste vaclava havla&geo=CZ"
-    },
-    {
-      "rank": 2,
-      "query": "amd stock",
-      "news_title": "OpenAI a AMD uzavřely masivní dohodu na AI čipy",
-      "news_url": "https://www.wsj.com/tech/ai/openai-amd-announce-massive-computing-deal-marking-new-phase-of-ai-boom-ed92cc42",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBYWpxahhXOmDbUxBek75fXEM8OHhHGlxlMMhi0AeDSp-hyKOdusFnWzpvL94",
-      "traffic": "1000++ hledání",
-      "source": "The Wall Street Journal",
-      "explore_url": "https://trends.google.cz/trends/explore?q=amd stock&geo=CZ"
     },
     {
       "rank": 3,
@@ -33,8 +33,28 @@
     },
     {
       "rank": 4,
+      "query": "gibraltar",
+      "news_title": "Gibraltar v centru dění: Velké lokální i mezinárodní akce",
+      "news_url": "https://www.gbc.gi/news/big-local-and-international-events-take-centre-stage-in-gibraltar",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwfjTus3fVUQEEYBE0_8qkBg6eas7Bltvt3WuWTEWs2_B44t8A6Y9aMoYR7Vk",
+      "traffic": "200++ hledání",
+      "source": "Gibraltar Broadcasting Corporation",
+      "explore_url": "https://trends.google.cz/trends/explore?q=gibraltar&geo=CZ"
+    },
+    {
+      "rank": 5,
+      "query": "lukáš langmajer",
+      "news_title": "Jitka Boho poprvé o vztahu s Langmajerem: Chci být opatrnější",
+      "news_url": "https://www.stream.cz/showtime-prima-pauza/jitka-boho-poprve-promluvila-o-vztahu-s-langmajerem-chci-byt-opatrnejsi-priznala-65367548",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvmFA2NbpJnpIYYyHtNP5LOgxw57qGl5WpPWe7zV1mVVmtJih4MKSCEylBQw",
+      "traffic": "200++ hledání",
+      "source": "Stream.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=lukáš langmajer&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "hbo max",
-      "news_title": "Disney+ v Česku zdražil o 80 % od svého uvedení",
+      "news_title": "Disney+ v Česku zdražil o 80 % od svého startu",
       "news_url": "https://avmania.zive.cz/disney-v-cesku-opet-zdrazuje-uz-stoji-o-80--vic-nez-kdyz-zde-pred-lety-zacinalo",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTQFcvvkN-4-uwvaZ3_kwLKrVMPbg79Dq9k63bCtthfmtTgg-1j70F8DPeU0A",
       "traffic": "200++ hledání",
@@ -42,44 +62,24 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=hbo max&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "query": "zbyněk stanjura",
-      "news_title": "Kroužkování lidovců naštvalo ODS a otřáslo koalicí. Slaví mladí a ženy.",
-      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-krouzkovani-lidovcu-nastvalo-ods-a-znervoznelo-koalici-slavi-mladi-a-zeny-288192",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMO0SmCxV8qjXC1JXueGeZVz4CTLDqijHglp0lML-gTJ-lsIp65K6o3EhVUyc",
+      "news_title": "Vládní voliči zmasakrovali lídry kandidátek, chtěli konec strejcokracie.",
+      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-volic-chtel-konec-strejcokracie-vladni-volici-zmasakrovali-lidry-kandidatek-288331",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOaRQ89MkrClN9c0KCU7uOYHvuZ2-1uEd_02wDcb0Gf7h3N11zym0VgbOYQAk",
       "traffic": "200++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=zbyněk stanjura&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "výsledky voleb 2025 podle obcí",
-      "news_title": "Volební výsledky ve všech obcích: Jak se zbarvila republika",
-      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-2025-vysledky-mapa-obce-282379",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQY1uCq9pLeGRNCuSNYw3yORyEpkUVzEYs0jLtJN5z6UuKOXyO3pvaZlQIiEY",
-      "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=výsledky voleb 2025 podle obcí&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "adeline watkins",
-      "news_title": "Skutečná Adeline chodila s Geinem? Pravdivý příběh Suzanny Son",
-      "news_url": "https://www.marieclaire.com/culture/tv-shows/who-was-adeline-watkins-monster-the-ed-gein-story/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1e0isyoubGaRhWFHPKuXrVGjs10FcNO09GPj2zgygJfCqEIfW4q32UyuY9-4",
-      "traffic": "200++ hledání",
-      "source": "Marie Claire",
-      "explore_url": "https://trends.google.cz/trends/explore?q=adeline watkins&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "greta thunberg",
-      "news_title": "Izrael obviněn z zadržení Thunbergové v zamořené cele",
-      "news_url": "https://www.theguardian.com/world/2025/oct/04/greta-thunberg-israel-gaza-sweden",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMZoKAP8WGbcALvrbpOb_RjP9PH6OiovHwYa0zqS9vPHHOthCg_ltNypLf6-Y",
+      "query": "socdem",
+      "news_title": "Kompletní vedení SOCDEM končí",
+      "news_url": "https://www.novinky.cz/clanek/domaci-kompletni-vedeni-zdecimovane-socdem-konci-40542534",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUT2ThS3ubtiPaNPggrvZfx4WYq7xBlm9MPFZoRGQDKNc7Dt5Rlaow_akZFP4",
       "traffic": "100++ hledání",
-      "source": "The Guardian",
-      "explore_url": "https://trends.google.cz/trends/explore?q=greta thunberg&geo=CZ"
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=socdem&geo=CZ"
     }
   ]
 }
