@@ -1,21 +1,98 @@
 {
-  "last_updated": "2025-10-06T17:16:27",
+  "last_updated": "2025-10-06T18:27:22",
   "articles": [
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Střelba v Montgomery v Alabamě si podle policie vyžádala 14 zraněných a 2 mrtvé",
-      "original_title": "Shooting in Montgomery, Alabama, leaves 14 injured, 2 dead, police say - USA Today",
-      "url": "https://www.usatoday.com/story/news/nation/2025/10/05/montgomery-alabama-mass-shooting/86535695007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/05/USAT/86536435007-86534217007-shooting-02.jpg?crop=3299,1857,x0,y80&width=3200&height=1802&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-10-05T14:15:14Z",
-      "description": "Podle policie v Montgomery došlo k střelbě 4. října v rušné turistické čtvrti města."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Pohřeb oběti útoku na manchesterskou synagogu Melvina Cravitze",
+      "original_title": "Manchester synagogue attack victim Melvin Cravitz's funeral held - BBC",
+      "url": "https://www.bbc.com/news/articles/cx2r51x17jpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d6c4/live/152449f0-a1f3-11f0-ab23-d127b1d8dfad.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-05T18:25:53Z",
+      "description": "Stovky lidí se přišly rozloučit s Melvinem Cravitzem, který zemřel při čtvrtečním útoku na synagogu."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Proč odkládání čerpání sociálního zabezpečení nemusí dávat smysl",
+      "title": "Ike Turner Jr., syn Tiny a Ika Turnerových, zemřel ve věku 67 let",
+      "original_title": "Ike Turner Jr., Son of Tina and Ike Turner, Dead at 67 - TMZ",
+      "url": "https://www.tmz.com/2025/10/05/ike-turner-jr-dead/",
+      "urlToImage": "https://imagez.tmz.com/image/bb/16by9/2025/10/05/bbc863ce0f574b5699fa24305b0102ab_xl.jpg",
+      "source": "TMZ",
+      "publishedAt": "2025-10-05T17:01:21Z",
+      "description": "Syn Tiny Turnerové a Ika Turnera, Ike Turner Jr., zemřel ... zjistil TMZ."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Trump říká, že podle něj budou rukojmí v Gaze osvobozeni „velmi brzy“",
+      "original_title": "Trump says he thinks Gaza hostages will be freed 'very soon' - BBC",
+      "url": "https://www.bbc.com/news/articles/cj3y6g43248o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8fbf/live/3ca902c0-a209-11f0-88a9-adaa114cb856.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-05T16:29:32Z",
+      "description": "Stávky v Gaze pokračují, zatímco zprostředkovatelé se chystají na pondělní jednání v Egyptě"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "V Chicagu zastřelili protestujícího pohraničníci, kteří tvrdí, že je konvoj přepadl - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Protester shot in Chicago by border patrol agents who claim they were 'ambushed' by convoy - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/homeland-security-requests-national-guard-chicago-despite-protests/story?id\\\\u003d126218735",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-05T16:18:45Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Podle Hassetta začnou propouštění, pokud Trump usoudí, že jednání o ukončení činnosti vlády uvázla na mrtvém bodě",
+      "original_title": "'There will start to be layoffs' if Trump decides shutdown talks have stalled, Hassett says - CNBC",
+      "url": "https://www.cnbc.com/2025/10/05/trump-layoffs-government-shutdown-kevin-hassett-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108191413-17563120822025-08-27t133731z_1467133196_rc2pfgaixlc2_rtrmadp_0_usa-trump.jpeg?v=1756312180&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-05T15:44:20Z",
+      "description": "Demokraté trvají na svých požadavcích ve zdravotní péči a usilují o trvalé prodání zvýšených daňových úlev na pojistné v rámci návrhu financování."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "2 mrtví a 12 zraněných při střelbě v centru Montgomery v Alabamě",
+      "original_title": "2 killed and 12 wounded in shooting in downtown Montgomery, Alabama - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/alabama-shooting-downtown-montgomery-rcna235207",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251005-alabama-fair-shooting-vl-1028a-2470a6.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-05T15:23:00Z",
+      "description": "Nejméně dva lidé včetně teenagera zemřeli a další desítky byly zraněny při střelbě v centru Montgomery v sobotu večer, když město hostilo několik víkendových oslav."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tržby kin: Koncertní film Taylor Swift vtrhl do kin s 33 miliony, ‚Smashing Machine‘ s Dwaynem Johnsonem propadl se 6 miliony",
+      "original_title": "Box Office: Taylor Swift’s ‘Release Party of a Showgirl’ Triumphs With $33 Million, Dwayne Johnson’s ‘Smashing Machine’ Bombs With $6 Million - Variety",
+      "url": "https://variety.com/2025/film/box-office/taylor-swift-release-party-showgirl-box-office-debut-smashing-machine-bombs-1236540485/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/08/Promo-C-1-e1755538738705.jpg?crop=0px%2C0px%2C3196px%2C1798px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2025-10-05T15:01:00Z",
+      "description": "Taylor Swiftová s \"Afterparty showmanka\" kraluje tržbám, Dwayne Johnson a jeho \"Ničitel\" propadli se šesti miliony."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Soudce dočasně zablokoval Trumpově administrativě nasazení vojáků v Portlandu v Oregonu",
+      "original_title": "Judge temporarily blocks Trump administration from deploying troops in Portland, Oregon - AP News",
+      "url": "https://apnews.com/article/deployment-trump-portland-national-guard-lawsuit-8a0323d49b708ebf905527f897352832",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bdd4842/2147483647/strip/true/crop/8014x4508+0+418/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5e%2Fb6%2Fc315358e44fab6093cff7ebdcd6c%2Fap25278152013154.jpg",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-05T14:16:00Z",
+      "description": "Federální soudce v Oregonu dočasně zablokoval vládě prezidenta Donalda Trumpa nasazení Národní gardy v Portlandu."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Proč odkládání sociálních dávek nemusí dávat smysl",
       "original_title": "Why Delaying Your Social Security Benefits May Not Make Sense - The Wall Street Journal",
       "url": "https://www.wsj.com/personal-finance/retirement/delay-social-security-retirement-cc6e1bbc",
       "urlToImage": null,
@@ -26,62 +103,40 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dillon Gabriel přihrávkou na TD dává Browns vedení proti Vikings v Londýně",
+      "title": "Přihrávka Dillona Gabriela na touchdown dává Brownům vedení nad Vikings v Londýně",
       "original_title": "Dillon Gabriel TD pass gives Browns lead over Vikings in London - NBC Sports",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dillon-gabriel-td-pass-gives-browns-lead-over-vikings-in-london",
       "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/9769a7f/2147483647/strip/true/crop/4992x2808+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F0d%2F8013036c4238abef9f48551c20e6%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27038352",
       "source": "NBCSports.com",
       "publishedAt": "2025-10-05T13:54:03Z",
-      "description": "Začátečník z Brownsů vypadá na začátku slibně."
+      "description": "Začátečník z týmu Browns vypadá na začátku slibně."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Herečka ze seriálu Vice Principals Kimberly Hébert Gregory zemřela ve 52 letech",
-      "original_title": "Kimberly Hébert Gregory, Vice Principals Actress, Dead at 52 - TVLine",
-      "url": "https://tvline.com/news/kimberly-hebert-gregory-cause-of-death-vice-principals-dies-obituary-1235528649/",
-      "urlToImage": "https://tvline.com/wp-content/uploads/2025/10/Kimberly-Hebert-Gregory.jpg?w=650",
-      "source": "TVLine",
-      "publishedAt": "2025-10-05T13:29:54Z",
-      "description": "Zemřela Kimberly Hébert Gregoryová z seriálu Vice Principals."
+      "title": "Setkání s imigrační správou: Jako David proti Goliáši",
+      "original_title": "Encountering ICE: A \"David vs. Goliath\" moment - CBS News",
+      "url": "https://www.cbsnews.com/news/encountering-ice-a-david-vs-goliath-moment/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/04/e7da5ee7-85c8-4302-a1b2-728f70d17f14/thumbnail/1200x630/895dbf664fec70ae6389f37be0e51593/ice-agents-1280.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-05T13:28:54Z",
+      "description": "V jednom městě za druhým testuje Trumpova administrativa hranice zákona při zadržování lidí podezřelých z nelegálního pobytu, z nichž mnozí nemají žádný záznam v rejstříku trestů."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Hamás vysílá delegaci do Egypta k jednáním o dohodě o rukojmích",
-      "original_title": "Hamas delegation heads to Egypt for hostage deal talks - The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-869440",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/683743",
-      "source": "The Jerusalem Post",
-      "publishedAt": "2025-10-05T13:25:34Z",
-      "description": "Zdroj také poznamenal, že cílem káhirských jednání je „začít uspořádávat podmínky v terénu v přípravě na propuštění rukojmích a palestinských vězňů“."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump Netanjahuovi o jednáních o Gaze: „Jsi pořád tak zatraceně negativní“",
-      "original_title": "Scoop — Trump to Netanyahu on Gaza talks: \"You're always so f***ing negative\" - Axios",
-      "url": "https://www.axios.com/2025/10/05/trump-netanyahu-call-gaza-peace-deal-hamas",
-      "urlToImage": "https://images.axios.com/mmcsg6CpCor0GVTYZYAFlqsmcMs=/0x326:4000x2576/1366x768/2025/10/05/1759628819191.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-05T12:22:51Z",
-      "description": "„Nevím, proč jsi pořád tak negativní. Tohle je výhra. Ber to.“"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trumpův plán omezí invalidní důchody pro starší Američany",
+      "title": "Trumpův plán omezí dávky pro starší Američany se zdravotním postižením",
       "original_title": "Trump plan will limit disability benefits for older Americans - The Washington Post",
       "url": "https://www.washingtonpost.com/politics/2025/10/05/disability-social-security-age-benefits/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2HLFZOMDKM5AZF2G43SWBT42OY.JPG&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-10-05T11:31:58Z",
-      "description": "Představitelé Trumpovy administrativy zvažují, že při posuzování pracovní schopnosti přestanou brát v potaz věk."
+      "description": "Představitelé Trumpovy administrativy zvažují, že při posuzování pracovní schopnosti odstraní věk jako faktor."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Proč je oběžná rovina komety 3I/ATLAS skloněna o 5 stupňů vůči rovině ekliptiky? - Avi Loeb",
+      "title": "Proč je orbitální rovina komety 3I/ATLAS skloněna o 5 stupňů vůči rovině ekliptiky? - Avi Loeb",
       "original_title": "Why is the Orbital Plane of 3I/ATLAS Inclined by 5 degrees Relative to the Ecliptic Plane? - Avi Loeb – Medium",
       "url": "https://avi-loeb.medium.com/why-is-the-orbital-plane-of-3i-atlas-inclined-by-5-degrees-relative-to-the-ecliptic-plane-3b07e5222bff",
       "urlToImage": "https://miro.medium.com/v2/resize:fit:600/1*iGBI554qo5y6CS4I2kYK5g.png",
@@ -92,68 +147,24 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jejich rodiče je nikdy nenechali očkovat. Jako mladí dospělí stojí před volbou.",
+      "title": "Jejich rodiče je nikdy nenechali očkovat. Jako mladí dospělí stáli před volbou.",
       "original_title": "Their parents never got them vaccinated. As young adults, they faced a choice. - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/10/05/vaccines-skepticism-childhood-family-impacts/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMU6JDDQ2NYC44ME5NLOFOFKOY.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-10-05T10:32:04Z",
-      "description": "Klesající proočkovanost po celé zemi znamená, že více dětí vyroste bez ochrany před zničujícími nemocemi, dokud nebudou dost staré, aby se mohly rozhodnout samy, obvykle ve věku 18 let."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Japonsko se připravuje na ‚obchodování s Takaichiovou‘, když se první žena chystá převzít moc",
-      "original_title": "Japan gears up for ‘Takaichi trade’ as first female leader prepares for power - Financial Times",
-      "url": "https://www.ft.com/content/2f7c57f3-7208-42cd-8acc-a3d17694f382",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14da3d02-d924-4978-8b93-45387f9819b4.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-05T09:01:33Z",
-      "description": "Tvrdý konzervativec má oživit stimuly, výdaje a ostrou zahraniční politiku éry Abenomiku"
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Česká republika: V parlamentních volbách vyhrála strana miliardáře a populisty Andreje Babiše",
-      "original_title": "Czech Republic: Billionaire populist Andrej Babis' party wins parliamentary election - BBC",
-      "url": "https://www.bbc.com/news/articles/c62qezmr92lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69ed/live/a4881e70-a138-11f0-92db-77261a15b9d2.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-05T06:38:01Z",
-      "description": "Jeho hnutí ANO však podle předběžných výsledků nezískalo většinu."
+      "description": "Klesající proočkovanost po celé zemi znamená, že více dětí vyroste bez ochrany před zničujícími nemocemi, dokud nebudou dost staré, aby se mohly samy rozhodnout, obvykle ve věku 18 let."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Úvodní skeč SNL: Trump varuje herce, že by s ním neměli zacházet špatně – jinak se dočkají následků",
-      "original_title": "‘SNL’ Cold Open: Trump Warns Cast They Better Not Be Mean to Him—Or Else - Rolling Stone",
-      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/snl-donald-trump-warns-cast-better-behave-late-night-television-1235440854/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-05-at-12.16.58-AM.png?w=1364&h=717&crop=1",
-      "source": "Rolling Stone",
-      "publishedAt": "2025-10-05T04:24:01Z",
-      "description": "Premiéra 51. řady SNL začíná varováním Donalda Trumpa pro členy hereckého obsahu, že jejich vtipy je mohou draze stát."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Muž ze San Francisca, který velel pomocné lodi do Gazy, je nyní držen v izraelském vězení",
-      "original_title": "S.F. man who captained a Gaza aid vessel is now being held in an Israeli prison - San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/sf/article/s-f-man-captained-gaza-aid-vessel-now-held-21084289.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/57/12/28504739/5/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-10-05T01:51:01Z",
-      "description": "Sanfranciský Logan Hollarsmith, kapitán lodi s pomocí pro Gazu, je mezi stovkami aktivistů zadržovaných v izraelském vězení"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "„The Life Of A Showgirl“ stanoví druhé nejlepší skóre v prodeji alba za první den; Taylor Swift oznamuje 8 akustických bonusových skladeb",
-      "original_title": "‘The Life Of A Showgirl’ Sets Second-Best Record For First-Day Album Sales; Taylor Swift Announces 8 Acoustic Bonus Tracks - Deadline",
-      "url": "http://deadline.com/2025/10/taylor-swifts-life-of-a-showgirl-album-sales-bonus-tracks-1236570393/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-2238895677.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-05T01:30:00Z",
-      "description": "Taylor Swift a život showgirl se zařadil na druhé místo v žebříčku nejprodávanějších alb prvního dne a přichází s osmi bonusovými akustickými skladbami."
+      "title": "Bitcoin stoupá k rekordu, obchod s „znehodnocením“ podněcuje růst rizikových aktiv",
+      "original_title": "Bitcoin Rises to a Record as ‘Debasement’ Trade Spurs Risk Rally - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-05/bitcoin-rises-to-a-record-as-debasement-trade-spurs-risk-rally",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq26eORKPasg/v0/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-05T04:54:00Z",
+      "description": "Bitcoin stanovil další absolutní maximum, když širší růst rizikových aktiv v souvislosti s výlukou americké vlády podpořil největší kryptoměnu světa."
     },
     {
       "flag": "🌍",
@@ -164,62 +175,40 @@
       "urlToImage": "https://scitechdaily.com/images/Lab-Technician-Holding-Blood-Sample-Test-Tube.jpg",
       "source": "SciTechDaily",
       "publishedAt": "2025-10-04T23:14:53Z",
-      "description": "Test HPV-DeepSeek od Mass General Brigham umožňuje mnohem dřívější detekci rakoviny z vzorku krve a otevírá nové možnosti screeningu nádorů hlavy a krku souvisejících s HPV. Lidský papilomavirus (H..."
+      "description": "Test HPV-DeepSeek od Mass General Brigham umožňuje mnohem dřívější odhalení rakoviny z krevního vzorku a vytváří novou příležitost pro screening nádorů hlavy a krku souvisejících s HPV. Lidský papi..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Právníci Seana 'Diddy' Combse plánují podat odvolání, čelí dalšímu trestu odnětí svobody",
-      "original_title": "Sean 'Diddy' Combs' lawyers plan to appeal as convicted hip-hop star faces more years behind bars - AP News",
-      "url": "https://apnews.com/article/sean-diddy-combs-conviction-sentencing-b0717306a88214efcaef8a2aee0cd04e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/02b7021/2147483647/strip/true/crop/6007x3379+0+313/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F45%2F93eb2eb988b3b645d698d74c278e%2F89efd9539a39475eb25aeb3fd096e332",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-04T19:24:00Z",
-      "description": "Právníci Seana „Diddyho Combse plánují podat odvolání poté, co byl tento držitel ceny Grammy a hudební manažer v pátek odsouzen k více než čtyřem letům vězení. Byl odsouzen za převážení lidí přes h..."
+      "title": "Desítky mrtvých v Gaze navzdory Trumpově výzvě k zastavení bombardování",
+      "original_title": "Dozens killed in Gaza despite Trump's call for Israel to halt bombing - KSL.com",
+      "url": "https://www.ksl.com/article/51385180/dozens-killed-in-gaza-despite-trumps-call-for-israel-to-halt-bombing",
+      "urlToImage": "https://img.ksl.com/slc/3112/311240/31124048.JPG?filter=kslv2/responsive_story_lg",
+      "source": "KSL.com",
+      "publishedAt": "2025-10-04T20:49:31Z",
+      "description": "V Gaze zemřely po izraelských útocích desítky lidí, oznámili zdravotníci. Navzdory výzvě Trumpa k zastavení bombardování."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jižní Karolína potvrdila vypuknutí spalniček, počet případů v USA je nejvyšší za 25 let",
+      "title": "Jižní Karolína potvrzuje vypuknutí spalniček, počet případů v USA je nejvyšší za 25 let",
       "original_title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High - HuffPost",
       "url": "https://www.huffpost.com/entry/south-carolina-confirms-measles-outbreak-with-us-cases-at-25-year-high_n_68e152b6e4b01314b83e05ae",
       "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
       "source": "HuffPost",
       "publishedAt": "2025-10-04T18:27:48Z",
-      "description": "„Lidé zasažení epidemií nebyli očkováni a neměli imunitu z předchozí infekce spalničkami,“ potvrdil státní zdravotní ústav."
+      "description": "Lidé zasažení epidemií spalniček nebyli očkováni a neměli imunitu z předchozí nákazy, potvrdil zdravotní ústav."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hegseth odvolal náčelníka štábu námořnictva – upi.com",
-      "original_title": "Hegseth fires Navy chief of staff - upi.com",
-      "url": "https://www.upi.com",
-      "urlToImage": "//www.upi.com/img/upi-fb.png",
-      "source": "UPI.com",
-      "publishedAt": "2025-10-04T18:10:21Z",
-      "description": "UPI přináší nejnovější zprávy z celého světa: Hlavní události, Zábava, Zdraví, Ekonomika, Věda a Sportovní zpravodajství - United Press International"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Našel jsem 13 nejlepších akcí na Apple produkty pro Prime Big Deal Days – ušetřete na iPadech, MacBookách, AirPodech a dalších - Tom's Guide",
-      "original_title": "I've found the 13 best Apple deals for Prime Big Deal Days — save big on iPads, MacBooks, AirPods and more - Tom's Guide",
-      "url": "https://www.tomsguide.com/sales-events/amazon-prime-october-big-deal-days-apple-discounts-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fh5grMFY7KivGPtGZi59ih-2000-80.jpg",
-      "source": "Tom's Guide",
-      "publishedAt": "2025-10-04T17:09:30Z",
-      "description": "Událost je téměř připravena začít a obchody se již hrnou."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Demokraté svým postojem ke shutdownu ukazují nový, tvrdší přístup k Trumpovi",
-      "original_title": "Democrats’ defiance on shutdown shows a new, tougher approach to Trump - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/10/04/democrats-trump-shutdown-obamacare/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5GSN3GF75HWKW46M6H6AUNLZA.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-04T17:00:00Z",
-      "description": "Po osmi měsících útoku ze strany republikánů strana v podstatě opustila snahy o smíření či spolupráci."
+      "title": "Tři superúplňky v řadě rozzáří noční oblohu",
+      "original_title": "3 straight dazzling supermoons to illuminate the night sky - KOMO",
+      "url": "https://komonews.com/news/local/supermoon-harvest-beaver-cold-nasa-night-sky-outer-space-perigee-fall-autumn-winter",
+      "urlToImage": "https://komonews.com/resources/media/ecda8e8d-8287-4320-9632-f243940c61bc-large16x9_bluemoon_10.jpg",
+      "source": "KOMO News",
+      "publishedAt": "2025-10-04T15:30:00Z",
+      "description": "Držte palce, aby zbytek roku přinesl jasné noci, na obloze se totiž objeví hned tři superúplňky za sebou."
     },
     {
       "flag": "🌍",
@@ -235,46 +224,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Mezinárodní noc pozorování Měsíce 2025: 4 úkazy na měsíčním povrchu, které uvidíte 4. října",
-      "original_title": "International Observe the Moon Night 2025: 4 things to see on the lunar surface on Oct. 4 - Space",
-      "url": "https://www.space.com/stargazing/international-observe-the-moon-night-2025-4-things-to-see-on-the-lunar-surface-on-oct-4",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qD2KY8xzPo8Turtm536N3d-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-04T10:00:00Z",
-      "description": "Mezinárodní noc pozorování Měsíce 2025 se koná 4. října."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "Astrofotografové zachytili oslnivé nové pohledy na kometu C/2025 A6 (Lemmon), která se zjasňuje pro říjnovou oblohu",
       "original_title": "Astrophotographers capture dazzling new views of Comet C/2025 A6 (Lemmon) as it brightens for October skies - Space",
       "url": "https://www.space.com/stargazing/astrophotography/astrophotographers-capture-dazzling-new-views-of-comet-c-2025-a6-lemmon-as-it-brightens-for-october-skies",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/TpZV55cEeabq6xpnHrSpma-1920-80.jpg",
       "source": "Space.com",
       "publishedAt": "2025-10-03T21:00:00Z",
-      "description": "Kometa C/2025 A6 (Lemmon) zesiluje a brzy by mohla být viditelná pouhým okem na říjnové noční obloze."
+      "description": "Kometa C/2025 A6 (Lemmon) zesiluje a již brzy by mohla být viditelná pouhým okem na říjnové noční obloze."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Snapchat začne účtovat poplatky za úložiště – jak ukládat vzpomínky zdarma",
+      "title": "Snapchat začne účtovat za úložiště – jak ukládat Memories zdarma",
       "original_title": "Snapchat is going to charge for storage — here’s how to save your Memories for free - TechCrunch",
       "url": "https://techcrunch.com/2025/10/03/snapchat-is-going-to-charge-for-storage-heres-how-to-save-your-memories-for-free/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
       "source": "TechCrunch",
       "publishedAt": "2025-10-03T19:26:02Z",
-      "description": "Pokud vaše paměťové položky překročí nový limit, budete si je muset buď exportovat, nebo si zaregistrovat jeden z nových plánů úložiště paměťových položek ve Snapchatu, abyste je zachovali."
+      "description": "Pokud vaše paměťové položky překročí nový limit, budete si je muset buď exportovat, nebo si pořídit jeden z nových plánů úložiště Pamětí od Snapchatu, abyste si je zachovali."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Kvůli zavření vlády nevyšla zpráva o zaměstnanosti. Co bychom se z ní dozvěděli o ekonomice",
+      "title": "Kvůli výpadku nebyla zveřejněna zpráva o zaměstnanosti. Co by o ekonomice řekla, kdyby vyšla.",
       "original_title": "The shutdown meant no jobs report. Here's what it would have said about the economy - CNBC",
       "url": "https://www.cnbc.com/2025/10/03/shutdown-jobs-report-economy.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206734-1759352726135-gettyimages-2238210877-US_JOBS.jpeg?v=1759352801&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-10-03T18:18:08Z",
-      "description": "Zatímco BLS kvůli odstávce mlčí, jiné zprávy naznačují, že trh práce v září jen tak tak držel krok."
+      "description": "Zatímco BLS kvůli výpadku mlčí, jiné zprávy naznačují, že trh práce v září jen pokračoval v zaběhnutých kolejích."
     }
   ]
 }
