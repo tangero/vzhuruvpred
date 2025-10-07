@@ -1,71 +1,82 @@
 {
-  "last_updated": "2025-10-07T08:24:36",
+  "last_updated": "2025-10-07T09:19:32",
   "articles": [
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Soudce dočasně zakázal Trumpovi vysílat do Oregonu jednotky Národní gardy",
-      "original_title": "Judge temporarily blocks Trump from any sending National Guard troops to Oregon - Axios",
-      "url": "https://www.axios.com/2025/10/06/trump-california-national-guard-oregon-portland-newsom",
-      "urlToImage": "https://images.axios.com/GDEhgyhNADKX3WduPkU6JRxLTis=/0x0:6000x3375/1366x768/2025/10/06/1759721490396.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-06T05:15:49Z",
-      "description": "Rozsudek padl poté, co se Kalifornie připojila k Oregonu v žalobě napadající kroky Trumpovy administrativy."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Japonský akciový index Nikkei vyskočil téměř o 5 % poté, co vládní strana zvolila do vedení Takaichiovou",
-      "original_title": "Japan’s Nikkei stock index jumps nearly 5% after its ruling party picked Takaichi to lead - AP News",
-      "url": "https://apnews.com/article/stocks-markets-japan-trump-shutdown-3504432f743bfd4a91b124436d5e2eb0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/6440806/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F25%2F72%2F5da9bb3921099a5ee2ef11e957d6%2F7958cd21be674e46a8f792afb6eba947",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-06T05:05:00Z",
-      "description": "Japonský akciový index Nikkei vyskočil téměř o 5 poté, co vládní strana zvolila do svého čela ultrakonzervativní kandidátku a pravděpodobně první premiérku. Ostatní asijské trhy také převážně posil..."
-    },
     {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Mount Everest: Na tibetských svazích uvězněny stovky lidí, probíhá záchranná akce",
-      "original_title": "Mount Everest: Rescue under way after hundreds trapped on Tibetan slopes - BBC",
-      "url": "https://www.bbc.com/news/live/c0m4309mxygt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed4b/live/32045130-a281-11f0-928c-71dbb8619e94.jpg",
+      "title": "Soudce Trumpovi zakázal vyslat Národní gardu z Kalifornie do Portlandu",
+      "original_title": "Judge blocks Trump from sending National Guard from California to Portland - BBC",
+      "url": "https://www.bbc.com/news/articles/c740elm70z7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4846/live/fcbf6450-a245-11f0-98b7-cdc4bf2f32f3.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-10-06T03:34:53Z",
-      "description": "Byl jsem tak šťastný, že jsem se dostal ven,\" říká po dvou dnech nezvykle silného sněžení v Himálajích turista BBC"
+      "publishedAt": "2025-10-06T08:39:54Z",
+      "description": "Rozhodnutí z pozdní nedělní doby přichází den poté, co stejná soudkyně zakázala nasazení jednotek ze státu Oregon."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Horoskop na pondělí 6. října 2025 - Chicago Sun",
+      "original_title": "Horoscope for Monday, October 06, 2025 - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/horoscopes/2025/10/06/horoscopes-today-monday-october-06-2025",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-10-06T05:01:00Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Instruktor zemřel při seskoku padákem v Nashville, druhý parašutista byl zachráněn ze stromu",
+      "title": "Sněhová bouře uvěznila stovky turistů na Mount Everestu během čínského státního svátku",
+      "original_title": "Snowstorm traps hundreds of hikers on Mount Everest during China’s national holiday - AP News",
+      "url": "https://apnews.com/article/china-everest-hikers-trapped-snow-tibet-7adfd234f02f565c7b191de6c3610d1d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/26c19d7/2147483647/strip/true/crop/2511x1412+0+131/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F06%2F1b8e25ffd356b64e713dfc4ad117%2F271169d3ff12459fbf75fb1b29f69b85",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-06T04:10:00Z",
+      "description": "Záchranáři pomáhají stovkám turistů uvězněných těžkým sněhem na Everestu"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Instruktor zemřel při seskoku padákem v Nashville; druhý parašutista byl zachráněn ze stromu",
       "original_title": "Instructor dies in Nashville skydiving incident; 2nd skydiver rescued from tree - NBC News",
       "url": "https://www.nbcnews.com/news/us-news/instructor-dies-nashville-skydiving-incident-2nd-skydiver-rescued-tree-rcna235805",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/25106-nashville-skydiving-accident-rc-852p-142b01.jpg",
       "source": "NBC News",
       "publishedAt": "2025-10-06T03:32:00Z",
-      "description": "Skydivingový instruktor (35) zemřel po pádu z nebe bez padáku, uvedla policie v Nashville"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump podle Pritzka vyšle vojáky Národní gardy z Texasu do Illinois, uvádí NBC 5 Chicago",
-      "original_title": "Trump to deploy Texas National Guard troops to Illinois, Pritzker says - NBC 5 Chicago",
-      "url": "https://www.nbcchicago.com/news/local/chicago-politics/trump-to-deploy-texas-national-guard-troops-to-chicago-pritzker-says/3833957/",
-      "urlToImage": "https://media.nbcchicago.com/2025/02/AP25030754565213.jpg?quality=85&strip=all&resize=1200%2C675",
-      "source": "NBC Chicago",
-      "publishedAt": "2025-10-06T02:04:38Z",
-      "description": "Prezident Donald Trump plánuje vyslat 400 příslušníků Národní gardy Texasu do Illinois, Oregonu a dalších států, uvedl guvernér Illinois J.B. Pritzker."
+      "description": "Pětatřicetiletý instruktor seskoku padákem zemřel poté, co podle policie v Nashvillu v Tennessee „patrně spadl z nebe bez padáku“"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Po vojenském zásahu v bytě na South Shore se kongresmani semkli kolem obyvatel - Chicago Sun",
+      "title": "Po vojenském zásahu v bytovém domě na South Shore se kongresmani zastali obyvatel - Chicago Sun",
       "original_title": "After military-style raid on South Shore apartment, Congress members rally around residents - Chicago Sun-Times",
       "url": "https://chicago.suntimes.com/immigration/2025/10/05/congress-members-rally-south-shore-apartment-ice-raid",
       "urlToImage": "https://cst.brightspotcdn.com/dims4/default/af7dc55/2147483647/strip/true/crop/3000x1713+0+144/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2Fe7%2F9c418db24be7a24bf46461626dbc%2Fsouthshorefolo-100625-7.jpg",
       "source": "Suntimes.com",
       "publishedAt": "2025-10-06T01:58:00Z",
       "description": "Federální agenti ve středu ráno přistáli s vrtulníkem na budově v 7500 S. South Shore Dr., zatkli 37 lidí a zanechali po sobě popraskaná okna, rozbité dveře a spoustu bolesti. Zákonodárci volají po..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Americké akciové futures po rekordní rally stabilní i přes zavření vlády",
+      "original_title": "U.S. Stock Futures Steady after Record Rally, Despite Government Shutdown - TipRanks",
+      "url": "https://www.tipranks.com/news/u-s-futures-steady-after-record-rally-despite-government-shutdown",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/stock-market-1-750x406.jpg",
+      "source": "Tipranks.com",
+      "publishedAt": "2025-10-06T01:44:34Z",
+      "description": "Americké futures na akcie zůstaly v neděli večer stabilní po rekordním růstu z minulého týdne, ačkoli se neukázalo žádné znamení konce odstávky vlády. Futures na&..."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Sean Payton a Evan Engram se na sebe v zápase Broncos proti Eagles „naštvali“. Pak to ale začalo klapat.",
+      "original_title": "Sean Payton, Evan Engram got ‘pissed’ at each other in Broncos’ win over Eagles. Then they clicked. - The Denver Post",
+      "url": "https://www.denverpost.com/2025/10/05/evan-engram-sean-payton-broncos-eagles-argument/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/10/TDP-Z-Broncos-Eagles-Football_241858680.jpg?w=1024&h=683",
+      "source": "The Denver Post",
+      "publishedAt": "2025-10-06T01:30:33Z",
+      "description": "Nakonec Evanova Engrama řeč těla řekla dost, aby Sean Payton promluvil."
     },
     {
       "flag": "🇺🇸",
@@ -76,111 +87,67 @@
       "urlToImage": "https://static.toiimg.com/photo/124328307.cms",
       "source": "The Times of India",
       "publishedAt": "2025-10-06T01:02:00Z",
-      "description": "Podle Světové zdravotnické organizace bude do roku 2040 kolorektální karcinom každoročně způsobovat 1,6 milionu úmrtí a 3,2 milionu nových případů. Jedná se o ohromující nárůst o 73 % oproti součas..."
+      "description": "Podle WHO bude do roku 2040 kolorektální karcinom ročně způsobovat 1,6 milionu úmrtí a 3,2 milionu nových případů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump zřejmě prozradil další úder proti údajnému člunu drogového kartelu",
-      "original_title": "Trump appears to reveal another strike on alleged cartel drug boat - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/trump-appears-reveal-strike-alleged-cartel-drug-boat/story?id\\\\u003d126237676",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-06T00:41:14Z",
-      "description": ""
+      "title": "Fotografie: Trump slaví 250. výročí námořnictva během odstávky vlády",
+      "original_title": "Photos: Trump marks Navy's 250th anniversary during government shutdown - Axios",
+      "url": "https://www.axios.com/2025/10/05/trump-marks-us-navys-250th-anniversary-photos",
+      "urlToImage": "https://images.axios.com/BH03GdNqfc2rAJBsye6vjKHPzNs=/0x0:1920x1080/1366x768/2025/10/05/1759701429113.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-10-05T23:42:04Z",
+      "description": "Trump během akce s ukázkou střelby vinil z odstávky demokraty."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Gisèle Pelicotová znovu čelí před soudem jednomu ze svých násilníků",
+      "original_title": "Gisèle Pelicot faces one of her rapists in court again - BBC",
+      "url": "https://www.bbc.com/news/articles/cdx2d9lynk1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea4a/live/a58cb880-a27d-11f0-b741-177e3e2c2fc7.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-05T23:07:07Z",
+      "description": "Dominantní postoj Gisèle Pelicotové byl ve Francii vnímán jako okamžik metoo, ale nadšení z něj zřejmě vadne."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Britney Spears uvedla, že spadla ze schodů a koleno jí občas vypoví službu",
-      "original_title": "Britney Spears Says She Fell Down Stairs, Knee Snaps Out Occasionally - TMZ",
-      "url": "https://www.tmz.com/2025/10/05/britney-spears-says-she-fell-down-stairs-knee-snapped-out/",
-      "urlToImage": "https://imagez.tmz.com/image/a9/16by9/2025/10/05/a9cb5d562be04970aaa9b6a262712902_xl.jpg",
-      "source": "TMZ",
-      "publishedAt": "2025-10-06T00:22:20Z",
-      "description": "Britney Spears si při pádu u kamarádky vážně poranila koleno, ale teď je prý vše v pořádku – prý se jí zase vrátilo na místo."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Podívejte se na Taylor Swift a její tmavě hnědou proměnu v hudebním videu \"Fate of Ophelia\" - E! News",
-      "original_title": "See Taylor Swift's Dark Brunette Hair Transformation in \"Fate of Ophelia\" Music Video - E! News",
-      "url": "https://www.eonline.com/news/1423384/taylor-swifts-the-life-of-a-showgirl-music-video-hair-transformation",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20251003/595ce3a5-fec5-4c81-8c18-efda04f1cf8b_1759532080.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "source": "Eonline.com",
-      "publishedAt": "2025-10-05T23:10:00Z",
-      "description": "V hudebním videu k nové písni Taylor Swift „Osud Ofélie“, které je zjevně o jejím snoubenci Travisi Kelcem, předvedla zpěvačka Life of a Showgirl dramatickou proměnu v tmavě hnědých vlasech."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Interpretace pruhu na novém snímku 3I/ATLAS z kamery roveru Perseverance - Avi Loeb",
+      "title": "Interpretace pruhu na novém snímku komety 3I/ATLAS z kamery roveru Perseverance - Avi Loeb",
       "original_title": "Interpretation of the Stripe in the New Image of 3I/ATLAS from the Perseverance Rover Camera - Avi Loeb – Medium",
       "url": "https://avi-loeb.medium.com/interpretation-of-the-stripe-in-the-new-image-of-3i-atlas-from-the-perseverance-rover-camera-7c5332c60ff1",
       "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*jpuxecuXEpKkqE2V3t8i1g.jpeg",
       "source": "Medium",
       "publishedAt": "2025-10-05T22:29:12Z",
-      "description": "Dne 4. října 2025 v 21:33:39 místního středního slunečního času na Marsu pořídila pravá navigační kamera (Navcam) na palubě vozítka NASA Mars Perseverance…"
+      "description": "Dne 4. října 2025 v průměrný místní sluneční čas 21:33:39 na Marsu pořídila pravá navigační kamera (Navcam) na palubě vozítka NASA Mars Perseverance…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Futures na akcie se po rekordním týdnu téměř nemění, vláda stále bez rozpočtu: Živé aktualizace",
-      "original_title": "Stock futures are little changed after a record-setting week as government shutdown continues: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/10/05/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200047-17581256502025-09-17t160240z_726583784_rc2ptgaq293y_rtrmadp_0_usa-stocks.jpeg?v=1758125920&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-05T22:20:00Z",
-      "description": "Akciové futures se v neděli večer téměř nezměnily, protože americká vláda pokračuje v odstávce po týdnu, během kterého Wall Street dosáhl rekordních maxim."
+      "title": "Během říjnové generální konference nebyl oznámen žádný nový chrám – KSL TV 5",
+      "original_title": "No new temples announced during October General Conference - KSL TV 5",
+      "url": "https://ksltv.com/religion/general-conference/no-new-temples-announced/828558/",
+      "urlToImage": "https://ksltv.com/wp-content/uploads/2025/10/President-Oaks-e1759681481178.jpg",
+      "source": "ksltv.com",
+      "publishedAt": "2025-10-05T21:58:51Z",
+      "description": "President Dallin H. Oaks z Rady dvanácti apoštolů oznámil, že na 195. pololetní generální konferenci nebude oznámena žádná nová stavba chrámu Církve Ježíše Krista Svatých posledních dnů."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Foster Poultry Farms stahuje z trhu téměř 4 miliony liber kuřecích kornů kvůli dřevu v těstíčku",
-      "original_title": "Foster Poultry Farms recalls nearly 4 million pounds of chicken corn dogs due to wood in batter - AP News",
-      "url": "https://apnews.com/article/recall-corn-dogs-wood-batter-68edfe482dfe16a60dd34f0d8f18937a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-05T21:42:00Z",
-      "description": "Společnost Foster Poultry Farms stahuje z trhu přes 3,8 milionu liber kuřecích kornoutů poté, co bylo v těstíčku nalezeno dřevo."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Střelba v Montgomery zabila teenagerku a ženu, zranění utrpělo dalších 12 lidí: ‚Takové nejsme‘",
-      "original_title": "Montgomery mass shooting kills teen and woman; 12 others injured: ‘This is not who we are’ - AL.com",
-      "url": "https://www.al.com/crime/2025/10/mass-shooting-in-downtown-montgomery-2-dead-12-injured.html",
-      "urlToImage": "https://www.al.com/resizer/v2/DO7EOFTJ6RCGHC7L3L6LELUSQ4.jpg?auth=ad4e9e27777d0ea4575412893041ee202e0ae72a5b7ae866a126633bb0d6b2e0&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-10-05T20:12:00Z",
-      "description": "Střelba vypukla krátce po 23:30 v sobotu nedaleko ulic Bibb Street a Commerce Street."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Úplný sklizňový superúplněk se v říjnu objevuje vzácně",
+      "title": "Úplňkový superměsíc sklizně se objevil v říjnu, což je vzácné",
       "original_title": "Full harvest supermoon makes rare October appearance - WTOP",
       "url": "https://wtop.com/the-space-place/2025/10/full-harvest-supermoon-makes-rare-october-appearance/",
       "urlToImage": "https://wtop.com/wp-content/uploads/2025/10/ALMOST-FULL-HARVEST-MOON-2022-DSCN0041-scaled-e1759691796933.jpeg",
       "source": "WTOP",
       "publishedAt": "2025-10-05T20:10:33Z",
-      "description": "Přejme si v pondělí večer jasnou oblohu, abychom mohli pozorovat pěknou nebeskou podívanou: superúplněk sklizňového měsíce."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Ruský letecký útok napříč Ukrajinou poškodil energetické sítě a zabil pět lidí",
-      "original_title": "Russian air attack across Ukraine damages energy networks, kills five - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/10/05/ukraine-russia-energy-attack/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFJKIHEV46SA3ARYZ3LMABHGSU_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-05T20:10:32Z",
-      "description": "Útok drony a raketami zasáhl devět regionů a desetitisíce lidí připravil o elektřinu, když Rusko před zimou stupňuje na Ukrajině energetickou válku."
+      "description": "Přejme si v pondělí večer jasnou oblohu, abychom mohli pozorovat pěkný nebeský úkaz: úplněk sklizňového superměsíce."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Bílý dům kritizuje ‚SNL‘ za úvodní skeč o Trumpovi a Brendanu Carr",
+      "title": "Bílý dům se ohradil proti ‚SNL‘ kvůli úvodní skeči o Trumpovi a Brendanu Carrovi",
       "original_title": "White House Slams 'SNL' After Cold Open Targets Trump and Brendan Carr - Variety",
       "url": "https://variety.com/2025/tv/news/white-house-responds-snl-trump-brendan-carr-fcc-late-night-1236540655/",
       "urlToImage": "https://variety.com/wp-content/uploads/2025/10/MixCollage-05-Oct-2025-12-54-PM-2582.jpg?w=1000&h=563&crop=1",
@@ -191,35 +158,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Taylor Swift: Showgirl vydělala rekordních 33 milionů, Smashing Machine Dwayna Johnsona propadl s šesti miliony",
-      "original_title": "Taylor Swift’s ‘Showgirl’ Rocks Box Office With $33M, Dwayne Johnson’s ‘Smashing Machine’ Opens to Career-Worst $6M - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/taylor-swift-showgirl-box-office-dwayne-johnson-1236392420/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/TLOASPromo-H-2025.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-10-05T20:05:19Z",
-      "description": "Film ‚Showgirl‘ vydělal obrovské sumy za 89minutový „kinematografický zážitek“, který není koncertním filmem ani dokumentem, ale (chytrou) propagační akcí pro Swiftové nové album. V zahraničí utrži..."
+      "title": "Taylor Swift a její ‚Oficiální párty showmanka‘ vyhrály víkendové tržby v kinech - Barron's",
+      "original_title": "Taylor Swift’s ‘Official Release Party of a Showgirl’ Wins Weekend Box Office - Barron's",
+      "url": "https://www.barrons.com/articles/taylor-swift-showgirl-movies-box-office-b697d3f6",
+      "urlToImage": null,
+      "source": "Barron's",
+      "publishedAt": "2025-10-05T18:09:00Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Blízký východ: Před jednáními v Egyptě jsou hlášeny údery v Gaze",
-      "original_title": "Middle East: Gaza strikes reported ahead of Egypt talks - DW",
-      "url": "https://www.dw.com/en/middle-east-gaza-strikes-reported-ahead-of-egypt-talks/live-74240796",
-      "urlToImage": "https://static.dw.com/image/74239612_6.jpg",
-      "source": "DW (English)",
-      "publishedAt": "2025-10-05T11:47:46Z",
-      "description": "V Gaze byly hlášeny nové izraelské údery, zatímco vyjednavači z Izraele, USA a Hamásu míří do Egypta na jednání. Sýrie mezitím po svržení Bašára Asada pořádá první volby."
+      "title": "Po návratu Nejvyššího soudu čekají Trumpovy prezidentské pravomoci zásadní zkoušky",
+      "original_title": "As Supreme Court returns, major tests ahead for Trump's presidential power - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/supreme-court-returns-major-tests-ahead-trumps-presidential/story?id\\\\u003d126130571",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-05T13:03:08Z",
+      "description": ""
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Jejich rodiče je nenechali očkovat. Jako mladí dospělí stáli před volbou.",
-      "original_title": "Their parents never got them vaccinated. As young adults, they faced a choice. - The Washington Post",
-      "url": "https://www.washingtonpost.com/health/2025/10/05/vaccines-skepticism-childhood-family-impacts/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMU6JDDQ2NYC44ME5NLOFOFKOY.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-05T10:32:04Z",
-      "description": "Klesající proočkovanost po celé zemi znamená, že více dětí vyroste bez ochrany před zničujícími nemocemi, dokud nebudou dost staré, aby se mohly rozhodnout samy, obvykle ve věku 18 let."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Epické pátrání po planetě podobné Zemi",
+      "original_title": "The epic hunt for a planet just like Earth - BBC",
+      "url": "https://www.bbc.com/future/article/20251003-the-epic-hunt-for-a-planet-just-like-earth",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0m6nj30.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-05T09:00:53Z",
+      "description": "Lovci exoplanet Christopher Watson a Annelies Mortier vysvětlují dlouhé pátrání po „dvojčeti Země“ schopném udržet život."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Američané po osmdesátce, které nikdo nechce zaměstnat. Zakládají si proto vlastní firmy.",
+      "original_title": "Meet the Americans in their 80s who can't get hired and are starting businesses instead - Business Insider",
+      "url": "https://www.businessinsider.com/starting-business-retirement-80s-cant-get-hired-2025-9",
+      "urlToImage": "https://i.insider.com/68dd8a8bcc993f9955cf57a1?width=1200&format=jpeg",
+      "source": "Business Insider",
+      "publishedAt": "2025-10-05T08:08:04Z",
+      "description": "Starší Američané věří, že založení vlastního podnikání je jejich nejlepší cestou k finančnímu úspěchu. Pro některé je to jediný způsob, jak si vydělat na živobytí."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Průlomový krevní test odhalí rakovinu hlavy a krku až 10 let před prvními příznaky",
+      "original_title": "Breakthrough Blood Test Detects Head and Neck Cancer up to 10 Years Before Symptoms - SciTechDaily",
+      "url": "https://scitechdaily.com/breakthrough-blood-test-detects-head-and-neck-cancer-up-to-10-years-before-symptoms/",
+      "urlToImage": "https://scitechdaily.com/images/Lab-Technician-Holding-Blood-Sample-Test-Tube.jpg",
+      "source": "SciTechDaily",
+      "publishedAt": "2025-10-04T23:14:53Z",
+      "description": "Test HPV-DeepSeek od Mass General Brigham umožňuje mnohem dřívější odhalení rakoviny z krevního vzorku a otevírá tak nové možnosti screeningu nádorů hlavy a krku souvisejících s HPV. Lidský papilom..."
     },
     {
       "flag": "🌍",
@@ -230,7 +219,7 @@
       "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715260423_4_story.jpg",
       "source": "Neowin",
       "publishedAt": "2025-10-04T18:40:00Z",
-      "description": "Microsoft vydal nové aktualizace pro Windows 11 pod označením KB5066683 a KB5066687 pro nastavení a obnovení."
+      "description": "Společnost Microsoft vydala nové aktualizace pro Windows 11 pod označením KB5066683 a KB5066687 pro nastavení a obnovení."
     },
     {
       "flag": "🇺🇸",
@@ -241,40 +230,18 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
       "source": "HuffPost",
       "publishedAt": "2025-10-04T18:27:48Z",
-      "description": "Lidé zasažení epidemií nebyli očkováni a neměli imunitu z předchozí nákazy spalničkami, potvrdil zdravotní ústav."
+      "description": "Lidé zapojení do epidemie nebyli očkováni a neměli imunitu z předchozí nákazy spalničkami, potvrdil státní zdravotní ústav."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "3 nejlepší dividendové akcie k nákupu právě teď podle analytiků, 10. 4. 2025",
-      "original_title": "3 Best Dividend Stocks to Buy Now, According to Analysts, 10/4/2025 - TipRanks",
-      "url": "https://www.tipranks.com/news/3-best-dividend-stocks-to-buy-now-according-to-analysts-10-4-2025",
-      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/dividend-stocks-750x406.jpg",
-      "source": "Tipranks.com",
-      "publishedAt": "2025-10-04T12:34:01Z",
-      "description": "Akcie s dividendami jsou skvělým způsobem, jak generovat pasivní příjem, a v současné nejisté situaci na trhu mohou být považovány za bezpečnou sázku. Tyto akcie..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "ESA inauguruje v Austrálii anténu pro hluboký vesmír",
-      "original_title": "ESA inaugurates deep space antenna in Australia - European Space Agency",
-      "url": "https://www.esa.int/Enabling_Support/Operations/ESA_inaugurates_deep_space_antenna_in_Australia",
-      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/esa_s_fourth_deep_space_antenna_in_new_norcia_australia/26878142-1-eng-GB/ESA_s_fourth_deep_space_antenna_in_New_Norcia_Australia_pillars.jpg",
-      "source": "Esa.int",
-      "publishedAt": "2025-10-04T09:38:57Z",
-      "description": "Evropská kosmická agentura (ESA) rozšířila své schopnosti komunikace s vědeckými, průzkumnými a bezpečnostními misemi napříč Sluneční soustavou inaugurací nové 35metrové antény pro hluboký vesmír –..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Cassini dokazuje komplexní chemii v oceánu Enceladu",
-      "original_title": "Cassini proves complex chemistry in Enceladus ocean - European Space Agency",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Cassini_proves_complex_chemistry_in_Enceladus_ocean",
-      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/06/enceladus_jets_and_shadows/17568049-1-eng-GB/Enceladus_jets_and_shadows_pillars.jpg",
-      "source": "Esa.int",
-      "publishedAt": "2025-10-01T09:03:52Z",
-      "description": "Vědci našli v datech ze sondy Cassini nové komplexní organické molekuly tryskající z měsíce Enceladus"
+      "title": "Sobotní citace: Ptačí novinky: Supi jako kurátoři a nově objevené mezidruhové varovné volání",
+      "original_title": "Saturday Citations: Bird news: Vultures as curators and a newly discovered interspecies warning call - Phys.org",
+      "url": "https://phys.org/news/2025-10-saturday-citations-bird-news-vultures.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/saturday-citations-bir.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-10-04T12:30:01Z",
+      "description": "Tento týden vědci oznámili, že mírný dietní stres podporuje zdravé stárnutí. Inženýři vytvořili umělé neurony, které mohou přímo komunikovat s živými buňkami. A pozorování temné energie naznačují, ..."
     }
   ]
 }
