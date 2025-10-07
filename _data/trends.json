@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-07T01:55:04.524644",
+  "updated": "2025-10-07T03:34:20.500671",
   "trends": [
     {
       "rank": 1,
@@ -23,8 +23,18 @@
     },
     {
       "rank": 3,
+      "query": "petr pavel volby",
+      "news_title": "Pavel: Je zájem o trojkoaliční vládu se 108 hlasy",
+      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-pavel-k-povolebnim-vyjednavanim-40542464",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZj4gOarZp1obZV3XBsrUnfGd6qSQjYdrlnAeHDfZX476pW_l8owCFs9EJ50",
+      "traffic": "200++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=petr pavel volby&geo=CZ"
+    },
+    {
+      "rank": 4,
       "query": "renata vesecká",
-      "news_title": "Končící ministryně Decroix: Nevěřím Babišovu hnutí ani nos mezi očima",
+      "news_title": "Končící ministryně Decroix: ANO ani Babišovi nevěřím nos mezi očima",
       "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-neverim-babisovu-hnuti-ani-nos-mezi-ocima-rika-koncici-ministryne-decroix-40542254",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvfH2jI6QKr6OijRZbPhfg4ZivEjVWP81DnTWLlK9fjsAdnm7RHz63qDupXyE",
       "traffic": "200++ hledání",
@@ -32,9 +42,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=renata vesecká&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "query": "helena vondráčková",
-      "news_title": "Salava z Amfory slavil 70: velkolepá party, slzy i odjezdy v protisměru",
+      "news_title": "Šéf Amfory Salava slavil 70: Velkolepá party, slzy i odjezdy v protisměru",
       "news_url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/823630/sef-amfory-salava-slavil-70-velkolepa-party-slzy-i-odjezdy-v-protismeru.html",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToV1Oza7tKKp_jDtZBRpHhES00ct5fRBDPt_a72a_wACkwNF6nDq1D-9hbdQg",
       "traffic": "200++ hledání",
@@ -42,9 +52,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=helena vondráčková&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "query": "monika absolonová",
-      "news_title": "Absolonová poprvé ve Vsetíně s pořadem Bez řečí",
+      "news_title": "Monika Absolonová poprvé vystoupí ve Vsetíně s koncertem Bez řečí.",
       "news_url": "https://valassky.denik.cz/volny-cas/vsetin-dum-kultury-monika-absolonova-koncert-rijen2025.html",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuukieJQmxaUnqcHWSyfheTu_ZOT8oKb6VpENJ0w1p5kiOMb9NwRY_nP6CNtc",
       "traffic": "200++ hledání",
@@ -52,19 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=monika absolonová&geo=CZ"
     },
     {
-      "rank": 6,
-      "query": "macinka",
-      "news_title": "Turek: Macinka skvělý pro životní prostředí, Klempíř pro kulturu",
-      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-turek-macinka-by-byl-skvelym-ministrem-zivotniho-prostredi-a-klempir-kultury-40542604",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbEFsf3mGFpAHTEj8XUcZThMnDZ67huBwO9r0aGrgxVJ_zeYlPOAdIgU3ruPw",
-      "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=macinka&geo=CZ"
-    },
-    {
       "rank": 7,
       "query": "kouzlo derby",
-      "news_title": "Kouzlo derby (2025) online ke zhlédnutí na prima+",
+      "news_title": "Kouzlo derby (2025) online – celý film na Prima+",
       "news_url": "https://www.iprima.cz/filmy/kouzlo-derby",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG_eAwaAKLKoI-RtZ1UWCKNKPwl2ZI23kTZaA6qRFg0Y67F4Wdde1_DOCzNI",
       "traffic": "200++ hledání",
@@ -73,13 +73,13 @@
     },
     {
       "rank": 8,
-      "query": "kalousek",
-      "news_title": "Kalousek: Nemůžeme nechat Babiše Okamurovi, jde o toleranci",
-      "news_url": "https://zpravy.aktualne.cz/domaci/politicka-sikana-nemuzeme-nechat-babise-okamurovi-rika-kalou/r~34e2cf1ea2c011f0b553ac1f6b220ee8/",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvYwI-bAYnRH-x2A--rYSnwqmDpe1bEg_1QGU0RDehlS1A9nmr9Rmk_u88xc",
+      "query": "uplnek rijen",
+      "news_title": "Týdenní horoskop (6.–12.10.2025): Panna vyřeší rodinu, Ryby čeká láska",
+      "news_url": "https://www.idnes.cz/onadnes/vztahy/horoskop-znameni-zverokruh-laska-vztahy-budoucnost.A251002_121846_ona-vztahy_abar/2",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdOdPY8Npi6zOEKU4GJ2GFtEChckZBdwiQwslirVihRPEf5A6ocjMMc_Z1dqQ",
       "traffic": "100++ hledání",
-      "source": "Aktuálně",
-      "explore_url": "https://trends.google.cz/trends/explore?q=kalousek&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=uplnek rijen&geo=CZ"
     }
   ]
 }
