@@ -1,10 +1,20 @@
 {
-  "updated": "2025-10-07T09:27:31.735102",
+  "updated": "2025-10-07T12:54:17.165661",
   "trends": [
     {
       "rank": 1,
+      "query": "angela merkelová",
+      "news_title": "Polsko a Estonsko kritizují Merkelovou jako nejškodlivější německou političku století",
+      "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-nejskodlivejsi-nemecka-politicka-stoleti-polsko-a-estonsko-se-tvrde-oprely-do-merkelove-40542543",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEMDGqYBD1j06cH79EySOZG3z08Ymecf6aXoN6D-7nJueJHb0GiGGEmxAZrU",
+      "traffic": "500++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=angela merkelová&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "love island",
-      "news_title": "Miška o odstoupení z Love Islandu a lásce k Honzovi",
+      "news_title": "Miška o důvodu odstoupení z Love Islandu a lásce k Honzovi",
       "news_url": "https://tv.nova.cz/porad/love-island/video-bonus/129441-exkluzivne-miska-o-duvodu-odstoupeni-z-love-islandu-i-lasce-k-honzovi",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7h0uCpFp8xzrVxxvDkJNyY_L4LDIfBAsDNlB5p-4LcuUg0vlXmR-UNcL7wKs",
       "traffic": "500++ hledání",
@@ -12,7 +22,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=love island&geo=CZ"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "query": "jan šatra",
       "news_title": "Zemřel trombonista Jan Šatra",
       "news_url": "https://www.novinky.cz/clanek/kultura-hudba-zemrel-trombonista-jan-satra-40542609",
@@ -22,29 +32,29 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=jan šatra&geo=CZ"
     },
     {
-      "rank": 3,
-      "query": "angela merkelová",
-      "news_title": "Polsko a Estonsko kritizují Merkelovou jako nejškodlivější německou političku století",
-      "news_url": "https://www.novinky.cz/clanek/zahranicni-evropa-nejskodlivejsi-nemecka-politicka-stoleti-polsko-a-estonsko-se-tvrde-oprely-do-merkelove-40542543",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEMDGqYBD1j06cH79EySOZG3z08Ymecf6aXoN6D-7nJueJHb0GiGGEmxAZrU",
-      "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=angela merkelová&geo=CZ"
-    },
-    {
       "rank": 4,
-      "query": "uplnek rijen",
-      "news_title": "Úplněk v Beranu 7.10.2025 vás překvapí a změní mnohé",
+      "query": "uplnek",
+      "news_title": "Úplněk v Beranu 7. října 2025 přinese překvapivé změny. Zjistěte, co čeká vaše znamení.",
       "news_url": "https://www.idnes.cz/onadnes/vztahy/uplnek-v-beranu-rijen-2025-ritual-energie-astrologie-datum.A250923_091547_ona-vztahy_vanky",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyEirWKmYQkQLx73awq1HIpzEDcLcJi2P_irQX5y_y6WzLuvH_B_TYXak1h3E",
-      "traffic": "200++ hledání",
+      "traffic": "500++ hledání",
       "source": "iDNES.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=uplnek rijen&geo=CZ"
+      "explore_url": "https://trends.google.cz/trends/explore?q=uplnek&geo=CZ"
     },
     {
       "rank": 5,
+      "query": "marie kršková",
+      "news_title": "Marie Kršková zůstává starostkou Orlického Podhůří a míří do sněmovny",
+      "news_url": "https://orlicky.denik.cz/zpravy_region/marie-krskova-z-orlickeho-podhuri-zustane-starostkou-a-uz-ma-plany-do-snemovny-2.html",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRprVLajh9ww2P6qW2Z69y_EL34nWIhP8iscPvrf-p9NltuQ601GIa9le8v2fY",
+      "traffic": "200++ hledání",
+      "source": "Orlický deník",
+      "explore_url": "https://trends.google.cz/trends/explore?q=marie kršková&geo=CZ"
+    },
+    {
+      "rank": 6,
       "query": "renata vesecká",
-      "news_title": "Končící ministryně Decroix: Babišovu hnutí nevěřím ani nos mezi očima",
+      "news_title": "Končící ministryně Decroix: Babišovu hnutí ani nos mezi očima nevěřím",
       "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-neverim-babisovu-hnuti-ani-nos-mezi-ocima-rika-koncici-ministryne-decroix-40542254",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvfH2jI6QKr6OijRZbPhfg4ZivEjVWP81DnTWLlK9fjsAdnm7RHz63qDupXyE",
       "traffic": "200++ hledání",
@@ -52,9 +62,9 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=renata vesecká&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "query": "helena vondráčková",
-      "news_title": "Helena Vondráčková: Zavržená umělci i po rozloučení s Havlem",
+      "news_title": "Helena Vondráčková zavržena řadou umělců, vrcholem bylo rozloučení s Havlem",
       "news_url": "https://magazin.osobnosti.cz/neoblibena-helena-vondrackova-za-komunismu-vystoupeni/",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFXXGbYgM1dXA0SyRoyYPl-F2eA29Kv01qFqhFUyE1cIIuQ714lIHgboqG8os",
       "traffic": "200++ hledání",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=helena vondráčková&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "monika absolonová",
-      "news_title": "Monika Absolonová poprvé vystoupí ve Vsetíně s koncertem Bez řečí",
-      "news_url": "https://valassky.denik.cz/volny-cas/vsetin-dum-kultury-monika-absolonova-koncert-rijen2025.html",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuukieJQmxaUnqcHWSyfheTu_ZOT8oKb6VpENJ0w1p5kiOMb9NwRY_nP6CNtc",
-      "traffic": "200++ hledání",
-      "source": "Valašský deník",
-      "explore_url": "https://trends.google.cz/trends/explore?q=monika absolonová&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "macinka",
-      "news_title": "Turek: Je pravděpodobné, že budu ministr zahraničí",
-      "news_url": "https://www.novinky.cz/clanek/domaci-je-pravdepodobne-ze-budu-ministr-zahranici-rekl-turek-40542647",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDINji53hKID6-yGRZJIlWFa2L1rYOWhaltnU0CuhZN3QJKFrFRq5Af0QK_2A",
-      "traffic": "200++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=macinka&geo=CZ"
+      "query": "tomahawk",
+      "news_title": "Trump chtěl vědět, co plánuje Ukrajina s raketami Tomahawk",
+      "news_url": "https://www.reuters.com/world/europe/trump-says-he-would-want-know-ukraines-plans-tomahawk-missiles-2025-10-06/",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELc37jOrqrj-_ZUXaB9bEIp6wumdAYSEf8nFwQCZSZYwhl2QYZZOiNaXR-7g",
+      "traffic": "100++ hledání",
+      "source": "Reuters",
+      "explore_url": "https://trends.google.cz/trends/explore?q=tomahawk&geo=CZ"
     }
   ]
 }
