@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-06T21:22:11.848455",
+  "updated": "2025-10-07T01:55:04.524644",
   "trends": [
     {
       "rank": 1,
+      "query": "love island",
+      "news_title": "Dominika v trojúhelníku: přitahuje ji Miška, Honza je kamarád",
+      "news_url": "https://tv.nova.cz/porad/love-island/video-bonus/129405-dominika-v-milostnem-trojuhelniku-miska-ji-pritahuje-honza-je-kamarad",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMHjH1T1xenZu9hAsLHMBno7Pad8--VK4MFXyphVst66L-KHl77-2J_NzeQf4",
+      "traffic": "500++ hledání",
+      "source": "TV Nova",
+      "explore_url": "https://trends.google.cz/trends/explore?q=love island&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "jan šatra",
       "news_title": "Zemřel trombonista Jan Šatra",
       "news_url": "https://www.novinky.cz/clanek/kultura-hudba-zemrel-trombonista-jan-satra-40542609",
@@ -10,16 +20,6 @@
       "traffic": "500++ hledání",
       "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=jan šatra&geo=CZ"
-    },
-    {
-      "rank": 2,
-      "query": "love island",
-      "news_title": "Miška z Love Islandu venku podváděl Honza, tvrdí Dominika",
-      "news_url": "https://tv.nova.cz/porad/love-island/video-ukazka/49948-rana-pro-misku-z-love-islandu-honza-ma-venku-holku-rika-dominika",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPA9J1tMenNr2qa9bLpFULp7Mes8j6fTYkdN6JazNHJMca4FsIwGenVP-xCOU",
-      "traffic": "200++ hledání",
-      "source": "TV Nova",
-      "explore_url": "https://trends.google.cz/trends/explore?q=love island&geo=CZ"
     },
     {
       "rank": 3,
@@ -34,7 +34,7 @@
     {
       "rank": 4,
       "query": "helena vondráčková",
-      "news_title": "Šéf Amfory Salava slavil 70: Velkolepá party se slzami i odjezdy v protisměru.",
+      "news_title": "Salava z Amfory slavil 70: velkolepá party, slzy i odjezdy v protisměru",
       "news_url": "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/823630/sef-amfory-salava-slavil-70-velkolepa-party-slzy-i-odjezdy-v-protismeru.html",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToV1Oza7tKKp_jDtZBRpHhES00ct5fRBDPt_a72a_wACkwNF6nDq1D-9hbdQg",
       "traffic": "200++ hledání",
@@ -44,19 +44,19 @@
     {
       "rank": 5,
       "query": "monika absolonová",
-      "news_title": "Absolonová má doma gurmány: Tadeáš i Matouš si užívají lívance",
-      "news_url": "https://www.lifee.cz/monika-absolonova-ma-doma-dva-male-gurmany-tadeas-i-matous-si-uzivaji-novy-recept-na-livance-ddaa2",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxJkKobzDL-HGoVTSlQhOcan8ZtBWMVWRmdIvbdNK3DHkNv264SeU9f2ihSXo",
+      "news_title": "Absolonová poprvé ve Vsetíně s pořadem Bez řečí",
+      "news_url": "https://valassky.denik.cz/volny-cas/vsetin-dum-kultury-monika-absolonova-koncert-rijen2025.html",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuukieJQmxaUnqcHWSyfheTu_ZOT8oKb6VpENJ0w1p5kiOMb9NwRY_nP6CNtc",
       "traffic": "200++ hledání",
-      "source": "Lifee.cz",
+      "source": "Valašský deník",
       "explore_url": "https://trends.google.cz/trends/explore?q=monika absolonová&geo=CZ"
     },
     {
       "rank": 6,
       "query": "macinka",
-      "news_title": "Pavel: Je zájem o trojkoaliční vládu se 108 hlasy",
-      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-pavel-k-povolebnim-vyjednavanim-40542464",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZj4gOarZp1obZV3XBsrUnfGd6qSQjYdrlnAeHDfZX476pW_l8owCFs9EJ50",
+      "news_title": "Turek: Macinka skvělý pro životní prostředí, Klempíř pro kulturu",
+      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-turek-macinka-by-byl-skvelym-ministrem-zivotniho-prostredi-a-klempir-kultury-40542604",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbEFsf3mGFpAHTEj8XUcZThMnDZ67huBwO9r0aGrgxVJ_zeYlPOAdIgU3ruPw",
       "traffic": "200++ hledání",
       "source": "Novinky",
       "explore_url": "https://trends.google.cz/trends/explore?q=macinka&geo=CZ"
@@ -64,7 +64,7 @@
     {
       "rank": 7,
       "query": "kouzlo derby",
-      "news_title": "Kouzlo derby (2025) – celý film ke zhlédnutí online na prima+",
+      "news_title": "Kouzlo derby (2025) online ke zhlédnutí na prima+",
       "news_url": "https://www.iprima.cz/filmy/kouzlo-derby",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG_eAwaAKLKoI-RtZ1UWCKNKPwl2ZI23kTZaA6qRFg0Y67F4Wdde1_DOCzNI",
       "traffic": "200++ hledání",
@@ -74,7 +74,7 @@
     {
       "rank": 8,
       "query": "kalousek",
-      "news_title": "Kalousek: Nemůžeme nechat Babiše Okamurovi, mluví o toleranci",
+      "news_title": "Kalousek: Nemůžeme nechat Babiše Okamurovi, jde o toleranci",
       "news_url": "https://zpravy.aktualne.cz/domaci/politicka-sikana-nemuzeme-nechat-babise-okamurovi-rika-kalou/r~34e2cf1ea2c011f0b553ac1f6b220ee8/",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvYwI-bAYnRH-x2A--rYSnwqmDpe1bEg_1QGU0RDehlS1A9nmr9Rmk_u88xc",
       "traffic": "100++ hledání",
