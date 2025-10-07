@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-10-07T17:16:13",
+  "last_updated": "2025-10-07T18:27:19",
   "articles": [
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Senát se vrací v pondělí bez dohody, která by odvrátila zastavení činnosti vlády",
+      "title": "Senát se vrací v pondělí bez dohody, která by zabránila zastavení činnosti vlády",
       "original_title": "The Senate is back Monday with no shutdown deal in sight - The Washington Post",
       "url": "https://www.washingtonpost.com/business/2025/10/06/government-shutdown-senate-deadlock/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJCV676L5RJXZJJPTCUHSXLCEE.JPG&w=1440",
@@ -32,7 +32,7 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/2415337/2147483647/strip/true/crop/5166x2906+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2Fd8%2F5143d7664cd39a4b8b8d66568bbc%2Fap23173436989874.jpg",
       "source": "Associated Press",
       "publishedAt": "2025-10-06T15:51:00Z",
-      "description": "Paramount kupuje úspěšný komentářový web The Free Press a jeho zakladatelku Bari Weiss jmenoval šéfredaktorkou CBS News"
+      "description": "Paramount kupuje úspěšný komentářový web The Free Press a jeho zakladatelku Bari Weissovou jmenoval šéfredaktorkou CBS News"
     },
     {
       "flag": "🇺🇸",
@@ -43,12 +43,12 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AQH3NM7BQBBPNKAUXDPW4LWZ5E.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-10-06T15:46:44Z",
-      "description": "Podle čínských státních médií bylo zachráněno na 350 turistů, 200 jich zůstává uvězněno. Záchranné práce v Tibetu pokračují."
+      "description": "Podle čínských státních médií bylo v pondělí zachráněno na 350 turistů, 200 jich zůstává uvězněno. Záchranné práce v Tibetu pokračují."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Akcie AMD prudce rostou, protože čipmaker uzavřel dohodu s OpenAI - Investor's Business Daily",
+      "title": "Akcie AMD prudce rostou, protože výrobce čipů je poslední, kdo uzavřel dohodu s OpenAI - Investor's Business Daily",
       "original_title": "AMD Stock Surges As Chipmaker Latest To Get OpenAI Deal - Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/amd-stock-chipmaker-latest-openai-deal/",
       "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/STOCK-AMD-01-shutter.jpg",
@@ -65,18 +65,18 @@
       "urlToImage": "https://sammyguru.com/wp-content/uploads/2025/09/OUI8-Banner-1.png",
       "source": "Sammyguru.com",
       "publishedAt": "2025-10-06T15:08:25Z",
-      "description": "Samsung se chystá představit řadu Galaxy S26 s One UI 8.5 a řadou nových funkcí a vylepšení."
+      "description": "Samsung chystá uvedení řady Galaxy S26 s One UI 8.5, která přináší řadu nových funkcí a vylepšení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Illinois a Chicago podaly žalobu, aby zabránily Trumpovi vyslat Národní gardu",
+      "title": "Illinois a Chicago podaly žalobu na zablokování Trumpova nasazení Národní gardy",
       "original_title": "Illinois and Chicago file lawsuit to block Trump deployment of National Guard - CBS News",
       "url": "https://www.cbsnews.com/chicago/news/illinois-lawsuit-trump-national-guard-chicago/",
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/06/69dbe101-8750-4545-b082-bdc29d924d95/thumbnail/1200x630/a7f711851d0e1c00949ef2dbdf52b55e/cbsn-fusion-judge-blocks-trump-administration-from-sending-any-national-guard-troops-to-oregon-thumbnail.jpg",
       "source": "CBS News",
       "publishedAt": "2025-10-06T14:53:32Z",
-      "description": "Stát Illinois a město Chicago žalují Trumpovu administrativu kvůli plánům na nasazení Národní gardy."
+      "description": "Stát Illinois a město Chicago žalují Trumpovu administrativu kvůli plánům nasadit Národní gardu."
     },
     {
       "flag": "🇬🇧",
@@ -87,23 +87,23 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0af9/live/011b8bb0-a2b8-11f0-b741-177e3e2c2fc7.jpg",
       "source": "BBC News",
       "publishedAt": "2025-10-06T14:43:21Z",
-      "description": "Aktivisté byli zadrženi, když izraelské síly zachytily lodě, které se snažily prolomit námořní blokádu Gazy a dodat humanitární pomoc."
+      "description": "Aktivisté byli zadrženi, když izraelské síly přerušily pokus lodí prolomit námořní blokádu Gazy a dodat pomoc."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "CDC schvaluje podzimní vakcíny proti covidu. Získat ji nemusí být snadné v závislosti na tom, kde žijete.",
+      "title": "CDC schvaluje podzimní očkování proti covidu. Získat vakcínu nemusí být snadné v závislosti na tom, kde žijete.",
       "original_title": "CDC signs off on fall Covid shots. It may not be easy to get one, depending on where you live. - NBC News",
       "url": "https://www.nbcnews.com/health/health-news/cdc-signs-fall-covid-shots-may-not-easy-get-one-depending-live-rcna233418",
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250924-covid-vaccine-cs-d05739.jpg",
       "source": "NBC News",
       "publishedAt": "2025-10-06T14:35:00Z",
-      "description": "CDC doporučuje vakcínu proti covidu lidem nad 65 let po konzultaci s lékařem"
+      "description": "Centrum pro kontrolu a prevenci nemocí v pondělí aktualizovalo pokyny k očkování proti covidu a doporučuje vakcíny lidem od 65 let pouze po konzultaci s lékařem nebo lékárníkem"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Členové Rush Geddy Lee a Alex Lifeson oznamují reunion tour na rok 2026",
+      "title": "Geddy Lee a Alex Lifeson z Rush oznamují reunionové turné na rok 2026",
       "original_title": "Rush Members Geddy Lee and Alex Lifeson Announce 2026 Reunion Tour - Variety",
       "url": "https://variety.com/2025/music/news/rush-reunion-tour-2026-geddy-lee-alex-lifeson-new-drummer-1236540828/",
       "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Rush-press-photo-Richard-Sibbald-e1759758957927.jpg?w=1000&h=563&crop=1",
@@ -114,18 +114,18 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Experti se ptají, zda Ravens po prohře s Texans dosáhli dna | Late for Work",
+      "title": "Odborníci se ptají, zda Ravens po prohře s Texansy dosáhli ‚úplného dna‘ | Late for Work",
       "original_title": "Pundits Question Whether Ravens Hit ‘Rock Bottom’ With Loss to Texans | Late for Work - Baltimore Ravens",
       "url": "https://www.baltimoreravens.com/news/ravens-texans-week-5-reaction-rock-bottom-loss-injuries-lamar-jackson-playoff-race",
       "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/tir9tqakmacdz52bhqti",
       "source": "BaltimoreRavens.com",
       "publishedAt": "2025-10-06T13:46:24Z",
-      "description": "Další tým s problémy v útoku si poradil s obranou Ravens. Útočníci Ravens selhali bez Lamara Jacksona. Podle analytiků sezona Ravens ještě není ztracená."
+      "description": "Další tápající ofenzíva si napravila statistiky proti obraně Ravens. Ofenziva Ravens bez Lamara Jacksona selhala. Podle analytiků sezona Ravens ještě není ztracená."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vaše hlasy mluví za vše: Pixel 10 Pro XL porazil iPhone 17 Pro (a to o hodně)",
+      "title": "Vaše hlasy to říkají za vše: Pixel 10 Pro XL vyfotil lépe než iPhone 17 Pro (a o dost)",
       "original_title": "Your votes say it all: Pixel 10 Pro XL outshot the iPhone 17 Pro (by a lot) - PhoneArena",
       "url": "https://www.phonearena.com/news/votes-say-pixel-10-pro-xl-outshot-iphone-17-pro_id174683",
       "urlToImage": "https://m-cdn.phonearena.com/images/article/174683-wide-two_1200/Your-votes-say-it-all-Pixel-10-Pro-XL-outshot-the-iPhone-17-Pro-by-a-lot.jpg",
@@ -147,57 +147,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Travis Kelce oslavil narozeniny na Swiftině filmu 'Showgirl' s rodinou",
+      "title": "Travis Kelce oslavil narozeniny s rodinou na filmu Taylor Swift 'Showgirl",
       "original_title": "Travis Kelce Celebrates Birthday at Taylor Swift's 'Showgirl' Movie With Family - TMZ",
       "url": "https://www.tmz.com/2025/10/06/travis-kelce-birthday-taylor-swift-showgirl-movie-family/",
       "urlToImage": "https://imagez.tmz.com/image/28/16by9/2025/10/06/288db143174b40fd9175f4f9b4d96ff1_xl.jpg",
       "source": "TMZ",
       "publishedAt": "2025-10-06T13:29:56Z",
-      "description": "Travis Kelce se rozhodl být na svých 36. narozeninách oporou své nastávající místo večírku s kamarády. S rodinou zavítal do kina na Taylorin nový film."
+      "description": "Travis Kelce se rozhodl být na svých 36. narozeninách oporou pro svou snoubenku místo aby chlastal s kámoši. S rodinou zavítal do kina na Taylorin nový film."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "OpenAI a Jony Ive zápasí s technickými detaily utajovaného nového AI zařízení",
+      "title": "OpenAI a Jony Ive řeší technické detaily tajemného nového AI zařízení",
       "original_title": "OpenAI, Jony Ive struggle with technical details on secretive new AI gadget - Ars Technica",
       "url": "https://arstechnica.com/ai/2025/10/openai-jony-ive-struggle-with-technical-details-on-secretive-new-ai-gadget/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/altman-ive-1152x648.jpg",
       "source": "Ars Technica",
       "publishedAt": "2025-10-06T13:21:57Z",
-      "description": "Tvůrce ChatGPT spolupracuje s bývalým šéfem designu Applu na spuštění osobního asistenta."
+      "description": "Výrobce ChatGPT spolupracuje s bývalým šéfem designu Applu na spuštění osobního asistenta."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‚Gilmore Girls‘ slaví 25 let: Herci a tvůrkyně prozrazují herecká tajemství, popularitu seriálu a touží po filmu",
+      "title": "‚Gilmore Girls‘ slaví 25 let: Tvůrci a herci prozrazují herecká tajemství, popularitu seriálu a touhu po filmu",
       "original_title": "‘Gilmore Girls’ Turns 25: Cast and Creator Spill Casting Secrets, Talk Show’s Popularity and Hopes for a Movie - The Hollywood Reporter",
       "url": "http://www.hollywoodreporter.com/tv/tv-features/gilmore-girls-25-anniversary-casting-secrets-movie-1236366577/",
       "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/gilmoregirls-SPLASH-2025.jpg?w=1440&h=810&crop=1",
       "source": "Hollywood Reporter",
       "publishedAt": "2025-10-06T13:10:32Z",
-      "description": "Když milovaná dramedie slaví výročí, tvůrkyně Amy Sherman-Palladino a hvězdy Lauren Grahamová, Kelly Bishopová a Scott Patterson vzpomínají, jak se z náhodného námětu stal kultovní hit, který ovlád..."
+      "description": "Když milovaná dramedie slaví výročí, její tvůrkyně Amy Sherman-Palladino a hvězdy Lauren Graham, Kelly Bishop a Scott Patterson vzpomínají, jak se z náhodného nápadu stal kultovní seriál, který ovl..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Verizon jmenoval novým šéfem bývalého šéfa PayPalu Dana Schulmana, nahradí Hanse Vestberga",
+      "title": "Verizon jmenoval novým generálním ředitelem bývalého šéfa PayPalu Dana Schulmana, nahradí Hanse Vestberga",
       "original_title": "Verizon names former PayPal boss Dan Schulman as new CEO, replacing Hans Vestberg - CNBC",
       "url": "https://www.cnbc.com/2025/10/06/verizon-ceo-dan-schulman-replaces-hans-vestberg.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106351594-1579791977326dsc03513r.jpg?v=1579792034&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-10-06T12:42:40Z",
-      "description": "Verizon v pondělí jmenoval bývalého šéfa PayPalu Dana Schulmana novým generálním ředitelem společnosti, funkce se ujímá okamžitě a nahrazuje Hanse Vestberga."
+      "description": "Verizon jmenoval bývalého šéfa PayPalu Dana Schulmana novým generálním ředitelem společnosti"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Růst online výdajů o svátcích se zpomalí na 5,3 %, nakupující hledají slevy",
+      "title": "Růst online výdajů o svátcích zpomalí na 5,3 %, zákazníci hledají slevy",
       "original_title": "Online holiday spending growth set to slow to 5.3% as shoppers seek discounts - CNBC",
       "url": "https://www.cnbc.com/2025/10/06/online-holiday-spending-growth-adobe-report.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108081969-1735925319773-gettyimages-1744124538-252-0350.jpeg?v=1759429577&w=1920&h=1080",
       "source": "CNBC",
       "publishedAt": "2025-10-06T12:00:01Z",
-      "description": "Maloobchodní tržby v USA drží krok, ale obavy z vyšších cel a klesající důvěra spotřebitelů komplikují výhled na svátky."
+      "description": "Americké maloobchodní tržby si udržují tempo, ale obavy z vyšších cel a poklesající důvěry spotřebitelů komplikují výhled na svátky."
     },
     {
       "flag": "🇬🇧",
@@ -208,45 +208,45 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a650/live/54b668f0-a2bb-11f0-b2c5-019105d9c0cd.jpg",
       "source": "BBC News",
       "publishedAt": "2025-10-06T11:48:47Z",
-      "description": "Vyjednavači z Izraele a Hamásu míří do egyptského Šarm aš-Šajchu, aby zahájili nepřímé rozhovory o ukončení války mezi Izraelem a Gázou."
+      "description": "Vyjednavači z Izraele a Hamásu míří do egyptského Šarm aš-Šajchu k nepřímým jednáním o ukončení války v Gaze"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Odhodlaná lékařka poslala děti pryč a pomohla porazit jeden z nejnebezpečnějších virů světa.",
+      "title": "Odvážná lékařka poslala své děti pryč a pomohla porazit jeden z nejnebezpečnějších virů na světě.",
       "original_title": "A bold doctor sent her kids away and helped beat one of the world's deadliest viruses - NPR",
       "url": "https://www.npr.org/sections/goats-and-soda/2025/10/06/g-s1-91435/virus-marburg-deadly-disease-rwanda",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3849x2165+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fb93572db4df29a1349e865cb252c%2Fmarbur-doctor-final-16x9-1.jpg",
       "source": "NPR",
       "publishedAt": "2025-10-06T11:39:37Z",
-      "description": "Před rokem čelila Rwanda prvnímu výskytu viru Marburg. Lékařka Tsion Firew vzpomíná, jak moc se bála — a že ji to nezastavilo v klíčové roli při mimořádně účinné reakci."
+      "description": "Před rokem čelila Rwanda prvnímu výskytu viru Marburg. Lékařka Tsion Firew vzpomíná, jak měla strach – a jak jí to nezabránilo sehrát klíčovou roli v mimořádně účinné reakci."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Říjnový úplněk je první superúplněk roku. Kdy ho můžete vidět?",
+      "title": "Říjnový úplněk je prvním superúplňkem roku. Kdy ho můžete vidět?",
       "original_title": "October’s full harvest moon is the first supermoon of the year. Here’s when to see it - CNN",
       "url": "https://www.cnn.com/2025/10/06/science/full-harvest-supermoon-october",
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24263306915383.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
       "publishedAt": "2025-10-06T11:30:51Z",
-      "description": "Úplněk sklizňového měsíce dosáhne vrcholu v pondělí, jde o první ze tří superúplňků v řadě."
+      "description": "Úplný sklizňový měsíc dosáhne maxima v pondělí a je první ze tří superúplňků za sebou."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "NIH mi nařídilo zastavit můj ‚nebezpečný‘ výzkum zesílení funkce. Není vůbec nebezpečný. - statnews.com",
+      "title": "NIH mi nařídilo zastavit můj ‚nebezpečný‘ výzkum zesílení funkce. Vůbec není nebezpečný - statnews.com",
       "original_title": "The NIH ordered me to stop my ‘dangerous’ gain-of-function research. It isn’t dangerous at all - statnews.com",
       "url": "https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/",
       "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/10/AP110810090800-1024x576.jpg",
       "source": "STAT",
       "publishedAt": "2025-10-06T08:30:45Z",
-      "description": "Bezpečný zisk funkce je nezbytný pro nalezení nových léčebných postupů pro nemoci, jako je tuberkulóza — NIH však zavedl neopodstatněné zastavení výzkumu."
+      "description": "Bezpečný výzkum zisku funkce je nezbytný k nalezení nových léčebných postupů pro nemoci, jako je tuberkulóza — NIH však zavedl neopodstatněné zastavení."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Japonští dozorci dluhopisů se připravují na volnější fiskální politiku po vítězství Sanae Takaichiové ve stranických volbách",
+      "title": "Japonští dozorci nad dluhopisy se připravují na volnější fiskální politiku po vítězství Sanae Takaichiové ve stranických volbách",
       "original_title": "Japan’s bond vigilantes brace for looser fiscal stance after Sanae Takaichi wins party vote - CNBC",
       "url": "https://www.cnbc.com/2025/10/06/sanae-takaichi-win-jolts-japan-bonds-as-traders-brace-for-looser-fiscal-stance.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184553-1754974296878-gettyimages-541383870-189009.jpeg?v=1754974308&w=1920&h=1080",
@@ -257,24 +257,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Taylor Swift reaguje na zvěsti, že po svatbě opustí hudbu: „Je to šokující urážka“",
+      "title": "Taylor Swift reaguje na zvěsti, že po svatbě opustí hudbu: „Je to šokující a urážlivé“",
       "original_title": "Taylor Swift responds to rumours that she'll quit music after getting married: \"It's a shockingly offensive thing to say\" - NME",
       "url": "https://www.nme.com/news/music/taylor-swift-responds-to-rumours-that-shell-quit-music-after-getting-married-its-a-shockingly-offensive-thing-to-say-3897414",
       "urlToImage": "https://www.nme.com/wp-content/uploads/2025/08/taylor-swift-the-life-of-a-showgirl-4@2000x1270.jpg",
       "source": "NME",
       "publishedAt": "2025-10-06T07:50:41Z",
-      "description": "Taylor Swift reaguje na zvěsti, že po svatbě opustí hudbu: „Je to šokující urážka“"
+      "description": "Taylor Swift reaguje na zvěsti, že po svatbě opustí hudbu: „Je to šokující a urážlivé“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nový výzkum naznačuje, že systémy červených trpaslíků pravděpodobně nemají pokročilé civilizace",
+      "title": "Nový výzkum naznačuje, že systémy červených trpaslíků pravděpodobně nehostí pokročilé civilizace",
       "original_title": "New Research Suggests Red Dwarf Systems are Unlikely to Have Advanced Civilizations - Universe Today",
       "url": "https://www.universetoday.com/articles/new-research-suggests-red-dwarf-systems-are-unlikely-to-have-advanced-civilizations",
       "urlToImage": "https://www.universetoday.com/article_images/exoplanet-with-clouds-orbiting-red-dwarf_20251005_024726.jpg",
       "source": "Universe Today",
       "publishedAt": "2025-10-05T22:46:00Z",
-      "description": "Zatímco žádný důkaz života mimo Zemi nebyl (dosud) nalezen, předpokládá se, že život a obyvatelné planety jsou pravidlem (podle Koperníkova principu). Zatímco výzkumy exoplanet odhalily několik kam..."
+      "description": "Přestože zatím nebyl nalezen žádný důkaz o životě mimo Zemi, předpokládá se, že život a obyvatelné planety jsou pravidlem (podle Koperníkova principu). Studie exoplanet mezitím odhalily několik kam..."
     },
     {
       "flag": "🇬🇧",
@@ -285,7 +285,7 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11fb/live/1d4988b0-9f6f-11f0-99d3-79886bca9dc5.jpg",
       "source": "BBC News",
       "publishedAt": "2025-10-05T00:58:12Z",
-      "description": "Malý jihoafrický stát čelí jedné z nejrychleji rostoucích epidemií HIV na světě."
+      "description": "Malý jihoafrický národ čelí jedné z nejrychleji rostoucích epidemií HIV na světě."
     }
   ]
 }
