@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-10-07T02:56:41",
+  "last_updated": "2025-10-07T04:21:47",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Rakovina tlustého střeva: TENTO jednoduchý test vám může zachránit život, říká přední americký lékař",
+      "original_title": "Colon cancer: THIS simple test can save your life, a top US doc says - Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/colon-cancer-this-simple-test-can-save-your-life-a-top-us-doc-says/photostory/124328295.cms",
+      "urlToImage": "https://static.toiimg.com/photo/124328307.cms",
+      "source": "The Times of India",
+      "publishedAt": "2025-10-06T01:02:00Z",
+      "description": "Podle WHO bude do roku 2040 rakovina tlustého střeva a konečníku ročně způsobovat 1,6 milionu úmrtí a 3,2 milionu nových případů. Jedná se o ohromující nárůst o 73 % oproti současným číslům. Jde o ..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump zřejmě prozradil další úder proti údajnému člunu s drogami kartelu - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Trump appears to reveal another strike on alleged cartel drug boat - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/trump-appears-reveal-strike-alleged-cartel-drug-boat/story?id\\\\u003d126237676",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-06T00:41:14Z",
+      "description": ""
+    },
     {
       "flag": "🌍",
       "country": "global",
@@ -10,40 +32,18 @@
       "urlToImage": "https://imagez.tmz.com/image/a9/16by9/2025/10/05/a9cb5d562be04970aaa9b6a262712902_xl.jpg",
       "source": "TMZ",
       "publishedAt": "2025-10-06T00:22:20Z",
-      "description": "Britney Spears si při pádu u kamarádky vážně poranila koleno, teď je ale prý v pořádku – prasklo prý zpět na místo"
+      "description": "Britney Spears si při pádu u kamarádky vážně poranila koleno, ale teď je prý zase v pořádku – prasklo prý zpátky na místo."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump námořníkům o výplatě zadržované kvůli shutdownu: „Nedělejte si s tím starosti“",
-      "original_title": "Trump to sailors on pay held back by shutdown: ‘Do not worry about it’ - The Hill",
-      "url": "https://thehill.com/policy/defense/5540015-trump-military-pay-government-shutdown/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/10/AP25278737548734-e1759709724791.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2025-10-06T00:17:00Z",
-      "description": "Prezident Trump v neděli řekl námořníkům, aby se nestarali o své výplaty, které jsou zadržovány kvůli současnému zastavení činnosti vlády."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Titáni snížili vedení Cardinals na 21:12 po chybě Emariho Demercada",
-      "original_title": "Titans cut Cardinals lead to 21-12 after Emari Demercado blunder - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-cut-cardinals-lead-to-21-12-after-emari-demercado-blunder",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/97e32fc/2147483647/strip/true/crop/4036x2270+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2F66%2Fb0631c6f4a09810485b981e4e1fa%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2239444357",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-10-05T22:52:11Z",
-      "description": "Běhající záložník Cardinals Emari Demercado se od wideouta Colts Adonaie Mitchella nepoučil."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump ignoruje republikánskou kandidátku na guvernéra Virginie, i když je kritizována za přílišnou oddanost hnutí MAGA",
-      "original_title": "Trump snubs Virginia’s GOP nominee for governor even as she’s attacked as too ‘MAGA’ - CNN",
-      "url": "https://www.cnn.com/2025/10/05/politics/trump-winsome-earle-sears-endorse-virginia-governor",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2223140483-20251005201132123.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-05T22:37:39Z",
-      "description": "Politické kruhy ve Virginii bedlivě sledovaly, zda Trump udělí podporu Winsome Earle-Searsové vzhledem ke jejich komplikovanému vztahu."
+      "title": "Federální zaměstnanci žalují ministerstvo školství kvůli stranicky zaměřeným e-mailům o uzavření",
+      "original_title": "Federal workers sue Education Department over partisan shutdown emails - NPR",
+      "url": "https://www.npr.org/2025/10/05/nx-s1-5563182/shutdown-lawsuit-education-department-partisan-messages",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7877x4431+0+410/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Faa%2F163f4ae54dd1970ccf9cb96be049%2Fgettyimages-2206055353.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-05T23:23:38Z",
+      "description": "Zaměstnanci tvrdí, že jejich zprávy o nepřítomnosti byly bez jejich souhlasu změněny tak, aby obsahovaly text obviňující z odstávky demokraty."
     },
     {
       "flag": "🌍",
@@ -54,23 +54,23 @@
       "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*jpuxecuXEpKkqE2V3t8i1g.jpeg",
       "source": "Medium",
       "publishedAt": "2025-10-05T22:29:12Z",
-      "description": "Dne 4. října 2025 v průměrný místní sluneční čas 21:33:39 na Marsu, kamera Right Navigation Camera (Navcam) na palubě vozítka NASA Mars Perseverance…"
+      "description": "Dne 4. října 2025 v 21:33:39 místního středního slunečního času na Marsu pořídila pravá navigační kamera (Navcam) na palubě vozítka NASA Mars Perseverance…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Během říjnové generální konference nebyl oznámen žádný nový chrám – KSL TV 5",
-      "original_title": "No new temples announced during October General Conference - KSL TV 5",
-      "url": "https://ksltv.com/religion/general-conference/no-new-temples-announced/828558/",
-      "urlToImage": "https://ksltv.com/wp-content/uploads/2025/10/President-Oaks-e1759681481178.jpg",
-      "source": "ksltv.com",
-      "publishedAt": "2025-10-05T21:58:51Z",
-      "description": "President Dallin H. Oaks z Rady dvanácti apoštolů oznámil, že na 195. pololetní generální konferenci nebude oznámena výstavba žádných nových chrámů Církve Ježíše Krista Svatých posledních dnů."
+      "title": "Akciové futures se po rekordním týdnu téměř nemění, vládní odstávka pokračuje: Živé aktualizace",
+      "original_title": "Stock futures are little changed after a record-setting week as government shutdown continues: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/10/05/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200047-17581256502025-09-17t160240z_726583784_rc2ptgaq293y_rtrmadp_0_usa-stocks.jpeg?v=1758125920&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-05T22:20:00Z",
+      "description": "Akciové futures se v neděli večer téměř nezměnily, zatímco americká vláda pokračuje v odstávce po týdnu, během kterého Wall Street dosáhl rekordních maxim."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Foster Poultry Farms stahuje téměř 4 miliony liber kuřecích kornoutů z trhu kvůli dřevu v těstíčku",
+      "title": "Foster Poultry Farms stahuje téměř 4 miliony liber kuřecích kornoutů kvůli dřevu v těstíčku",
       "original_title": "Foster Poultry Farms recalls nearly 4 million pounds of chicken corn dogs due to wood in batter - AP News",
       "url": "https://apnews.com/article/recall-corn-dogs-wood-batter-68edfe482dfe16a60dd34f0d8f18937a",
       "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
@@ -81,46 +81,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump naléhá na Izrael a Hamas, aby do několika dní uzavřeli dohodu o Gaze",
+      "title": "Magomed Ankalaev poprvé promluvil po knockout prohře s Alexem Pereirou",
+      "original_title": "Magomed Ankalaev releases first statement since knockout loss to Alex Pereira - MMA Fighting",
+      "url": "https://www.mmafighting.com/latest-news/448629/magomed-ankalaev-releases-first-statement-since-knockout-loss-to-alex-pereira",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/10/gettyimages-2239296519.jpg?quality=90&strip=all&crop=0%2C0.97829382949956%2C100%2C78.539392464293&w=1200",
+      "source": "MMA Fighting",
+      "publishedAt": "2025-10-05T21:00:00Z",
+      "description": "Magomed Ankalaev vydal první prohlášení od knockoutové prohry s Alexem Pereirou na UFC 320."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump naléhá na Izrael a Hamas, aby dohodu o Gaze uzavřeli během několika dní",
       "original_title": "Trump pushing Israel and Hamas for Gaza deal within days - Axios",
       "url": "https://www.axios.com/2025/10/05/trump-israel-hamas-gaza-deal-days",
       "urlToImage": "https://images.axios.com/KgWNGjDmxCWgxJbjRguKrFFdbAE=/0x0:3178x1788/1366x768/2025/10/05/1759689244949.jpeg",
       "source": "Axios",
       "publishedAt": "2025-10-05T20:18:49Z",
-      "description": "„Je to skvělá dohoda pro Izrael a arabský svět,“ říká Trump."
+      "description": "„Je to skvělý obchod pro Izrael a arabský svět,“ říká Trump."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Hamás vysílá delegaci do Egypta k jednáním o dohodě o rukojmích",
+      "title": "Hamás vysílá delegaci do Egypta kvůli jednáním o dohodě o rukojmích",
       "original_title": "Hamas delegation heads to Egypt for hostage deal talks - The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-869440",
       "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/683743",
       "source": "The Jerusalem Post",
       "publishedAt": "2025-10-05T20:12:53Z",
-      "description": "Zdroj také poznamenal, že cílem káhirských jednání je „začít uspořádávat podmínky v terénu v přípravě na propuštění rukojmích a palestinských vězňů“."
+      "description": "Zdroj také poznamenal, že cílem káhirských jednání je „začít uspořádávat podmínky v terénu v přípravě na propuštění rukojmích a palestinských vězňů.“"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Střelba v Montgomery zabila mladíka a ženu, zraněno dalších 12: ‚Takové nejsme‘",
+      "title": "Střelba v Montgomery zabila dospívajícího a ženu, dalších 12 zraněno: ‚Takoví nejsme‘",
       "original_title": "Montgomery mass shooting kills teen and woman; 12 others injured: ‘This is not who we are’ - AL.com",
       "url": "https://www.al.com/crime/2025/10/mass-shooting-in-downtown-montgomery-2-dead-12-injured.html",
       "urlToImage": "https://www.al.com/resizer/v2/DO7EOFTJ6RCGHC7L3L6LELUSQ4.jpg?auth=ad4e9e27777d0ea4575412893041ee202e0ae72a5b7ae866a126633bb0d6b2e0&width=1280&smart=true&quality=90",
       "source": "AL.com",
       "publishedAt": "2025-10-05T20:12:00Z",
-      "description": "Střelba vypukla krátce po 23:30 v sobotu v ulicích Bibb Street a Commerce Street."
+      "description": "Střelba vypukla krátce po 23:30 v sobotu v blízkosti ulic Bibb Street a Commerce Street."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Úplňkový superměsíc se vzácným říjnovým výskytem",
+      "title": "Úplný sklizňový superúplněk se v říjnu objevuje vzácně",
       "original_title": "Full harvest supermoon makes rare October appearance - WTOP",
       "url": "https://wtop.com/the-space-place/2025/10/full-harvest-supermoon-makes-rare-october-appearance/",
       "urlToImage": "https://wtop.com/wp-content/uploads/2025/10/ALMOST-FULL-HARVEST-MOON-2022-DSCN0041-scaled-e1759691796933.jpeg",
       "source": "WTOP",
       "publishedAt": "2025-10-05T20:10:33Z",
-      "description": "Přejme si v pondělní noc jasnou oblohu, uvidíme totiž pěknou nebeskou podívanou: superúplněk sklizňového měsíce."
+      "description": "Přejme si jasnou oblohu v pondělí večer, uvidíme totiž pěknou nebeskou podívanou: superúplněk sklizňového měsíce."
     },
     {
       "flag": "🇺🇸",
@@ -131,18 +142,18 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFJKIHEV46SA3ARYZ3LMABHGSU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-10-05T20:10:32Z",
-      "description": "Dronový a raketový útok zasáhl devět oblastí a desetitisíce lidí připravil o elektřinu, když Rusko před zimou stupňuje na Ukrajině energetickou válku."
+      "description": "Útok drony a raketami zasáhl devět regionů a desetitisíce lidí ponechal bez elektřiny, když Rusko zesiluje svou energetickou válku před zimou na Ukrajině."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Taylor Swift v roli ‚Showgirl‘ dobyla tržby 33 milionů, Dwayne Johnson se svým ‚Smashing Machine‘ zaznamenal nejhorší start kariéry s 6 miliony",
+      "title": "Taylor Swift v roli ‚Showgirl‘ dobývá tržby 33 milionů, Dwayne Johnson se svým filmem ‚Smashing Machine‘ zažívá nejhorší start kariéry s 6 miliony",
       "original_title": "Taylor Swift’s ‘Showgirl’ Rocks Box Office With $33M, Dwayne Johnson’s ‘Smashing Machine’ Opens to Career-Worst $6M - The Hollywood Reporter",
       "url": "http://www.hollywoodreporter.com/movies/movie-news/taylor-swift-showgirl-box-office-dwayne-johnson-1236392420/",
       "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/TLOASPromo-H-2025.jpg?w=1296&h=730&crop=1",
       "source": "Hollywood Reporter",
       "publishedAt": "2025-10-05T20:05:19Z",
-      "description": "‚Showgirl‘ přilákala obrovské počty diváků na 89minutový ‚kinematografický zážitek‘, který není koncertním filmem ani dokumentem, ale spíše (chytře promyšleným) propagačním trikem na Swiftové nové ..."
+      "description": "‚Showgirl‘ přilákala obrovské množství diváků na 89minutový ‚filmový zážitek‘, který není koncertním filmem ani dokumentem, ale (chytře promyšleným) propagačním tahem pro Swiftové nové album. V zah..."
     },
     {
       "flag": "🇺🇸",
@@ -158,123 +169,101 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Imigrační agenti v Chicagu nasazují vrtulníky a chemické prostředky, jsou stále agresivnější",
+      "title": "Imigrační agenti v Chicagu používají vrtulníky a chemické látky, jsou stále agresivnější",
       "original_title": "Using helicopters and chemical agents, immigration agents become increasingly aggressive in Chicago - AP News",
       "url": "https://apnews.com/article/chicago-immigration-federal-arrests-helicopter-trump-ice-8dbf688f78f3b6d1b8fdb989557b28c4",
       "urlToImage": "https://dims.apnews.com/dims4/default/5ca1329/2147483647/strip/true/crop/5998x3374+0+314/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F38%2F5b951078957f942cfd6373205e70%2F86e54423960e4a49bb79f73e1cc7d83e",
       "source": "Associated Press",
       "publishedAt": "2025-10-05T19:46:00Z",
-      "description": "Aktivisté, obyvatelé a volení zástupci tvrdí, že agresivnější taktika federálních agentů pro imigraci vyvolává násilí a napětí ve třetím největším městě USA. Včetně zásahu v obytném komplexu z vrtu..."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Pohřeb oběti útoku na manchesterskou synagogu Melvina Cravitze",
-      "original_title": "Manchester synagogue attack victim Melvin Cravitz's funeral held - BBC",
-      "url": "https://www.bbc.com/news/articles/cx2r51x17jpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d6c4/live/152449f0-a1f3-11f0-ab23-d127b1d8dfad.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-05T18:25:53Z",
-      "description": "Stovky lidí se přišly rozloučit s Melvinem Cravitzem, který zemřel při čtvrtečním útoku na synagogu."
+      "description": "Aktivisté, obyvatelé a volení představitelé tvrdí, že stále agresivnější taktika federálních imigračních agentů vyvolává násilí a přiživuje napětí v komunitách třetího největšího města země. Včetně..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Masové protesty od Amsterdamu po Istanbul protestují proti izraelské genocidě v Gaze",
-      "original_title": "Mass protests from Amsterdam to Istanbul denounce Israel’s Gaza genocide - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/10/5/mass-protests-from-amsterdam-to-istanbul-denounce-israels-gaza-genocide",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/000_77RE6ZR-1759681783.jpg?resize=1200%2C675",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-10-05T17:32:12Z",
-      "description": "Stovky tisíc lidí v Evropě a na Blízkém východě pochodují proti pokračující genocidě Izraele v Gaze."
+      "title": "Pokud přehlédnete příšerné logo, vypadá Audacity 4 docela skvěle",
+      "original_title": "If you can get past the terrible logo, Audacity 4 looks pretty great - The Verge",
+      "url": "https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Audacity.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-05T17:37:55Z",
+      "description": "Po 25 letech se Audacity změnilo z jednoduchého editoru zvuku v noční můru uživatelského prostředí. Pokud dokážete přehlédnout hrozný nový logotyp, vypadá verze 4, že by to mohla napravit."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "OpenAI a Jony Ive možná zápasí s podobou svého zařízení s umělou inteligencí",
-      "original_title": "OpenAI and Jony Ive may be struggling to figure out their AI device - TechCrunch",
-      "url": "https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-05T16:34:26Z",
-      "description": "OpenAI a Jony Ive údajně čelí značným technickým výzvám při vývoji bezdisplejového zařízení poháněného umělou inteligencí."
+      "title": "Vánice uvěznila stovky horolezců na Mount Everestu",
+      "original_title": "Blizzard strands hundreds of climbers on Mount Everest - DW",
+      "url": "https://www.dw.com/en/blizzard-strands-hundreds-of-climbers-on-mount-everest/a-74242838",
+      "urlToImage": "https://static.dw.com/image/74242574_6.jpg",
+      "source": "DW (English)",
+      "publishedAt": "2025-10-05T16:07:50Z",
+      "description": "Sněhová bouře uvězňuje horolezce na tibetské straně Mount Everestu. Stany byly poškozeny těsně pod základním táborem na severním svahu, jsou hlášeny oběti a záchranné cesty zpočátku zablokovány."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jak tento oblíbený obchod posiluje zlato a bitcoin jako zajištění proti slabšímu dolaru",
+      "title": "Jak tento oblíbený obchod posiluje zlato a bitcoin jako pojistku proti slabšímu dolaru",
       "original_title": "How this popular trade is boosting gold and bitcoin as hedges to a weaker dollar - MarketWatch",
       "url": "https://www.marketwatch.com/story/how-one-of-2025s-most-popular-trades-is-boosting-gold-and-bitcoin-and-may-keep-going-during-the-government-shutdown-a9994256",
-      "urlToImage": null,
+      "urlToImage": "https://images.mktw.net/im-15498157/social",
       "source": "MarketWatch",
       "publishedAt": "2025-10-05T16:00:00Z",
-      "description": ""
+      "description": "Takzvaný obchod se znehodnocením měny – přijímaný od konce roku 2024 drobnými investory jako zajištění proti slabšímu dolaru – by se od této chvíle mohl zrychlit."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Reinforcement Gap – aneb proč se některé dovednosti umělé inteligence zlepšují rychleji než jiné",
+      "original_title": "The Reinforcement Gap — or why some AI skills improve faster than others - TechCrunch",
+      "url": "https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1575097396.jpg?resize=1200,675",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-05T15:00:00Z",
+      "description": "Úkoly umělé inteligence, u nichž dobře funguje učení posilováním, se rychle zlepšují a hrozí, že zbytek odvětví nechají pozadu."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Kdo byla matka Eda Geina? Podívejte se do dětství „monstrózního“ sériového vraha a na to, jak údajně inspirovalo jeho zločiny",
+      "original_title": "Who Was Ed Gein's Mother? Inside the “Monster” Serial Killer's Childhood (and How It Allegedly Inspired His Crimes) - Yahoo News Canada",
+      "url": "https://people.com/who-was-ed-gein-mother-11819491",
+      "urlToImage": "https://people.com/thmb/B6E8Aoafbg76LFTAzQVwZsPIC7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(988x472:990x474)/ed-gein-mom-augusta-gein-093025-93f43ec255f54dd689feb29c8605ab55.jpg",
+      "source": "PEOPLE",
+      "publishedAt": "2025-10-05T12:00:00Z",
+      "description": "Netflixův dokument „Monster: Příběh Eda Geina“ mapuje zločiny nechvalně známého sériového vraha. Zde je vše, co byste měli vědět o jeho matce Augustě a jejím vztahu se synem."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Jejich rodiče je nenechali očkovat. Jako mladí dospělí stáli před volbou.",
+      "title": "Jejich rodiče je nikdy nenechali očkovat. Jako mladí dospělí stáli před volbou.",
       "original_title": "Their parents never got them vaccinated. As young adults, they faced a choice. - The Washington Post",
       "url": "https://www.washingtonpost.com/health/2025/10/05/vaccines-skepticism-childhood-family-impacts/",
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMU6JDDQ2NYC44ME5NLOFOFKOY.jpg&w=1440",
       "source": "The Washington Post",
       "publishedAt": "2025-10-05T10:32:04Z",
-      "description": "Klesající proočkovanost v zemi znamená, že více dětí vyroste bez ochrany před zničujícími nemocemi, dokud nebudou dost staré, aby se mohly rozhodnout samy, obvykle v 18 letech."
+      "description": "Klesající proočkovanost po celé zemi znamená, že více dětí vyroste bez ochrany před zničujícími nemocemi, dokud nebudou dost staré, aby se mohly rozhodnout samy, obvykle v 18 letech."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "S přáteli je téměř všechno lepší, zjistil výzkum",
-      "original_title": "Doing almost anything is better with friends, research finds - The Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2025/10/05/friends-activities-happiness-research/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YG4EMGKOBNHNPOAFCUI3UQHSEA.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-05T10:31:46Z",
-      "description": "Možná přicházíte o kus štěstí, když děláte své každodenní činnosti úplně sami."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Průlomový krevní test odhalí rakovinu hlavy a krku až 10 let před prvními příznaky",
-      "original_title": "Breakthrough Blood Test Detects Head and Neck Cancer up to 10 Years Before Symptoms - SciTechDaily",
-      "url": "https://scitechdaily.com/breakthrough-blood-test-detects-head-and-neck-cancer-up-to-10-years-before-symptoms/",
-      "urlToImage": "https://scitechdaily.com/images/Lab-Technician-Holding-Blood-Sample-Test-Tube.jpg",
-      "source": "SciTechDaily",
-      "publishedAt": "2025-10-04T23:14:53Z",
-      "description": "Test HPV-DeepSeek od Mass General Brigham umožňuje mnohem dřívější odhalení rakoviny z vzorku krve a vytváří novou příležitost pro screening nádorů hlavy a krku souvisejících s HPV. Lidský papiloma..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Rite Aid končí jako lékárenský řetězec po opakovaných bankrotech",
-      "original_title": "Rite Aid bows out as pharmacy chain after repeated bankruptcies - Scripps News",
-      "url": "https://www.scrippsnews.com/business/company-news/rite-aid-bows-out-as-pharmacy-chain-after-repeated-bankruptcies",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/7620145/2147483647/strip/true/crop/5203x2732+0+237/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fcb%2F6d%2F8322a3e049b59c6156f3ca2437bc%2Fap25113694599949.jpg",
-      "source": "Scrippsnews.com",
-      "publishedAt": "2025-10-04T19:38:21Z",
-      "description": "Rite Aid zavřel své poslední pobočky po druhé bankruptě, zmenšil se z 2100 prodejen na méně než 100 a vyvolal obavy o dostupnost lékáren."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Jižní Karolína potvrdila výskyt spalniček, počet případů v USA je nejvyšší za 25 let",
+      "title": "Jižní Karolína potvrdila vypuknutí spalniček, případy v USA jsou na 25letém maximu",
       "original_title": "South Carolina Confirms Measles Outbreak With U.S. Cases At 25-Year High - HuffPost",
       "url": "https://www.huffpost.com/entry/south-carolina-confirms-measles-outbreak-with-us-cases-at-25-year-high_n_68e152b6e4b01314b83e05ae",
       "urlToImage": "https://img.huffingtonpost.com/asset/68e1609c14000004e25c6e7e.jpeg?ops=1200_630",
       "source": "HuffPost",
       "publishedAt": "2025-10-04T18:27:48Z",
-      "description": "„Lidé zapojení do vypuknutí nákazy neočkovaní a neměli imunitu z předchozí infekce spalničkami,“ potvrdil státní zdravotní ústav."
+      "description": "Lidé zasažení epidemií nebyli očkováni a neměli imunitu z předchozí nákazy spalničkami, potvrdil zdravotní ústav."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Oblíbený nástroj pro obcházení požadavků Windows 11 získal nové ovládací prvky Windows Update a vylepšení pro 25H2",
+      "title": "Oblíbený nástroj Skip pro požadavky Windows 11 získal nové ovládací prvky Windows Update a vylepšení pro 25H2",
       "original_title": "Popular Windows 11 requirements skip app gets new Windows Update controls and 25H2 tweaks - Neowin",
       "url": "https://www.neowin.net/news/popular-windows-11-requirements-skip-app-gets-new-windows-update-controls-and-25h2-tweaks/",
       "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/10/1759579292_flyoobe_1.25_story.webp",
       "source": "Neowin",
       "publishedAt": "2025-10-04T12:10:00Z",
-      "description": "Tento oblíbený nástroj pro odlehčení Windows 11 a obejití hardwarových požadavků byl aktualizován na novou verzi s dalšími optimalizacemi pro Windows 11 25H2 a další."
+      "description": "Tento oblíbený nástroj pro odstranění bloatwaru z Windows 11 a obejtí hardwarových požadavků byl aktualizován na novou verzi s dalšími optimalizacemi pro Windows 11 25H2 a další."
     },
     {
       "flag": "🌍",
@@ -285,18 +274,18 @@
       "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/09/esa_s_fourth_deep_space_antenna_in_new_norcia_australia/26878142-1-eng-GB/ESA_s_fourth_deep_space_antenna_in_New_Norcia_Australia_pillars.jpg",
       "source": "Esa.int",
       "publishedAt": "2025-10-04T09:38:57Z",
-      "description": "Evropská kosmická agentura (ESA) rozšířila své schopnosti komunikace s vědeckými, průzkumnými a bezpečnostními misemi napříč naší sluneční soustavou inaugurací nové 35metrové antény pro hluboký ves..."
+      "description": "Evropská kosmická agentura (ESA) rozšířila své kapacity pro komunikaci s vědeckými, průzkumnými a bezpečnostními misemi napříč Sluneční soustavou inaugurací nové 35metrové antény pro hluboký vesmír..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Cassini dokazuje komplexní chemii v oceánu Enceladu",
+      "title": "Cassini dokazuje složitou chemii v oceánu na Enceladu",
       "original_title": "Cassini proves complex chemistry in Enceladus ocean - European Space Agency",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Cassini_proves_complex_chemistry_in_Enceladus_ocean",
       "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/06/enceladus_jets_and_shadows/17568049-1-eng-GB/Enceladus_jets_and_shadows_pillars.jpg",
       "source": "Esa.int",
       "publishedAt": "2025-10-01T09:03:52Z",
-      "description": "Vědci našli v datech ze sondy Cassini nové komplexní organické molekuly tryskající z měsíce Enceladus"
+      "description": "Vědci objevili nové komplexní organické molekuly tryskající z Enceladu"
     }
   ]
 }
