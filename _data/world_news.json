@@ -1,6 +1,72 @@
 {
-  "last_updated": "2025-10-08T22:17:07",
+  "last_updated": "2025-10-08T23:16:01",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "We found the 106 best Prime Day-level sales during Amazon’s Prime Big Deal Days",
+      "original_title": "We found the 106 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2025-10-07",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-08T00:30:00Z",
+      "description": "Amazon’s October Prime Day event is here and so are the savings. We found 106 of the best deals that are worth shopping before the sale officially goes live."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Supreme Court seems highly doubtful of limits on conversion therapy for minors",
+      "original_title": "Supreme Court seems highly doubtful of limits on conversion therapy for minors - NPR",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5563987/supreme-court-conversion-therapy-colorado",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5566x3131+0+290/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F41%2F8a37f5c8497296357e691e288121%2Fgettyimages-2157829281-20.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-07T23:31:44Z",
+      "description": "The court appeared ready to invalidate laws in some two dozen states that bar therapists from practicing a version of therapy that seeks to change a teenager's sexual orientation or gender identity."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Google’s latest AI model uses a web browser like you do",
+      "original_title": "Google’s latest AI model uses a web browser like you do - The Verge",
+      "url": "https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-07T22:43:33Z",
+      "description": "Google has released a new Gemini AI model to developers that’s designed to use a browser to navigate around and interact with web pages designed for people."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Government shutdown drags on as health care compromise remains elusive",
+      "original_title": "Government shutdown drags on as health care compromise remains elusive - AP News",
+      "url": "https://apnews.com/article/shutdown-health-care-subsidies-obamacare-congress-10b2ae9648bc5252fc2bd485ddc83493",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8682656/2147483647/strip/true/crop/4847x2726+0+253/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F01%2F71a5cc0b0cf0284ced0ee8dd46b9%2F1cc275aa7c4a4ba8a76e5a999ca498cf",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-07T22:36:00Z",
+      "description": "To hear party leaders talk, the seventh day of the government shutdown sounded a lot like the first. Democrats are seeking negotiations on expiring health care subsidies while Republicans say they won"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Senate confirms largest bloc yet of Trump nominees",
+      "original_title": "Senate confirms largest bloc yet of Trump nominees - Politico",
+      "url": "https://www.politico.com/live-updates/2025/10/07/congress/more-noms-confirmed-00597290",
+      "urlToImage": "https://www.politico.com/dims4/default/007e442/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcd%2F1c%2Fe26edaef4c84aa94d18eb5937dd2%2Fu-s-congress-27898.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-07T22:32:46Z",
+      "description": "Herschel Walker and Sergio Gor were among those confirmed Tuesday evening."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Homeland Security Secretary Kristi Noem arrives in Portland for Tuesday visit - Oregon Public Broadcasting",
+      "original_title": "Homeland Security Secretary Kristi Noem arrives in Portland for Tuesday visit - Oregon Public Broadcasting - OPB",
+      "url": "https://www.opb.org/article/2025/10/07/homeland-security-security-kristi-noem-portland-visit/",
+      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/O4WVIJQISJDUBFBLUNNWPDGKO4.JPG?auth=651e1afce1050dfffa895e9e15d7477ca3c51c889a098dd92f5ade666b0c01dd&width=1200&height=675&smart=true",
+      "source": "OPB News",
+      "publishedAt": "2025-10-07T22:30:00Z",
+      "description": "The secretary arrived at a U.S. Immigration and Customs Enforcement facility in Portland just after noon Tuesday. Portland police officers had blocked off streets and cordoned off observers and protes"
+    },
     {
       "flag": "🌍",
       "country": "global",
@@ -15,13 +81,46 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "We handpicked 30 October Prime Day deals you can get for under $25",
-      "original_title": "We handpicked 30 October Prime Day deals you can get for under $25 - The Verge",
-      "url": "https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22461385/vpavic_4547_20210421_0067.jpg?quality=90&strip=all&crop=0%2C12.642439174623%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-07T21:30:00Z",
-      "description": "We’ve rounded up the best discounts on must-have wireless earbuds, Bluetooth trackers, and smart speakers for October Prime Day — all of which are under $25."
+      "title": "European Mars orbiter spies interstellar comet 3I/ATLAS zooming past Red Planet (photos)",
+      "original_title": "European Mars orbiter spies interstellar comet 3I/ATLAS zooming past Red Planet (photos) - Space",
+      "url": "https://www.space.com/astronomy/comets/european-mars-orbiter-spies-interstellar-comet-3i-atlas-zooming-past-red-planet-photos",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hai4kZLAAXLSnjaXxxfRFH-1280-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-10-07T22:00:00Z",
+      "description": "\"Though our Mars orbiters continue to make impressive contributions to Mars science, it's always extra exciting to see them responding to unexpected situations like this one.\""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dolly Parton's Sister Is Praying for Country Icon Amid Health Issues",
+      "original_title": "Dolly Parton's Sister Is Praying for Country Icon Amid Health Issues - Variety",
+      "url": "https://variety.com/2025/music/news/dolly-parton-sister-praying-health-issues-1236542641/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-1439345358.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-07T21:56:00Z",
+      "description": "Dolly Parton's sister Frieda is asking fans of the Queen of Country to \"pray with me\" amid Dolly's continued health struggles."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Airport staffing shortages cause flight delays a week into shutdown",
+      "original_title": "Airport staffing shortages cause flight delays a week into shutdown - The Washington Post",
+      "url": "https://www.washingtonpost.com/transportation/2025/10/07/flight-delays-government-shutdown-faa/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HCBDHVY3MR4WOGFA4FQKV2KQJI_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-07T21:35:30Z",
+      "description": "The delays came after Transportation Secretary Sean P. Duffy warned the shutdown could add to the strain on air traffic controllers and lead to cancellations."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "White House says it will use tariff revenue to fund federal food aid for mothers and young children",
+      "original_title": "White House says it will use tariff revenue to fund federal food aid for mothers and young children - CNN",
+      "url": "https://www.cnn.com/2025/10/07/politics/tariff-revenue-federal-food-aid",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23348597974618.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-07T21:27:17Z",
+      "description": "The Trump administration said Tuesday it will use tariff funds to keep afloat a federal food assistance program for nearly 7 million pregnant women, new moms and young children during the government s"
     },
     {
       "flag": "🌍",
@@ -35,6 +134,17 @@
       "description": "Most people can get vaccinated at their local pharmacy like normal."
     },
     {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Texas National Guard arrives in Illinois, as Gov. Pritzker calls for end of Trump administration's 'authoritarian march' - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Texas National Guard arrives in Illinois, as Gov. Pritzker calls for end of Trump administration's 'authoritarian march' - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/texas-national-guard-headed-illinois-gov-pritzker-calls/story?id\\\\u003d126283676",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-07T21:11:15Z",
+      "description": ""
+    },
+    {
       "flag": "🇺🇸",
       "country": "us",
       "title": "Tesla launches cheaper Model Y following end of US EV subsidies",
@@ -44,6 +154,17 @@
       "source": "Financial Times",
       "publishedAt": "2025-10-07T20:58:09Z",
       "description": "New $37,990 ‘standard’ version is 15% less expensive than the previous base offering"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Photos capture rare Harvest supermoon here and around the world",
+      "original_title": "Photos capture rare Harvest supermoon here and around the world - The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/10/07/metro/harvest-moon-photos-2025/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IRUXGAHDPLKKVA7J6PVBF2MFFM.jpg?auth=ed0b6943dccade1f23d8e0a518d4396930fd08971845cb92a60634adfdeda185&width=1440",
+      "source": "The Boston Globe",
+      "publishedAt": "2025-10-07T20:41:02Z",
+      "description": "An October Harvest Moon dazzled onlookers as this first of three supermoons of 2025 graced the night sky."
     },
     {
       "flag": "🇺🇸",
@@ -68,70 +189,48 @@
       "description": "Gold futures have soared above $4,000 per troy ounce for the first time, as many investors seek a “safe haven” to park their money during the continuing U.S. government shutdown. The going price for N"
     },
     {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "‘Gemini 2.5 Computer Use’ model enters preview with strong web, Android performance - 9to5Google",
-      "original_title": "‘Gemini 2.5 Computer Use’ model enters preview with strong web, Android performance - 9to5Google",
-      "url": "http://9to5google.com/2025/10/07/gemini-2-5-computer-use-model/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Gemini-2.5-Computer-Use.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-10-07T20:26:00Z",
-      "description": "Google is now letting developers preview the Gemini 2.5 Computer Use model behind Project Mariner and agentic features in AI Mode."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build",
+      "original_title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-listing.jpeg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-07T19:47:19Z",
+      "description": "Microsoft has locked down well-documented workarounds in recent test builds."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dolly Parton's sister asks for prayers amid country music star's 'health challenges'",
-      "original_title": "Dolly Parton's sister asks for prayers amid country music star's 'health challenges' - WLOS",
-      "url": "https://wlos.com/news/local/dolly-parton-sister-freida-asks-requests-prayers-worldwide-country-music-star-health-challenges-dollywood-las-vegas-residency-concerts-procedures-praying",
-      "urlToImage": "https://wlos.com/resources/media/bde41614-a530-405d-8efb-f3f7da5f4448-large16x9_IMG_3632.jpg?1632414852934",
-      "source": "WLOS",
-      "publishedAt": "2025-10-07T20:09:21Z",
-      "description": "Freida Parton, the sister of country music star Dolly Parton, is asking the world to pray amid the famous singer's recent \"health challenges.\""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of Circular Deals",
-      "original_title": "OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of Circular Deals - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVCmWYBLxgq0/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-07T20:00:10Z",
-      "description": "A wave of deals and partnerships are escalating concerns that the trillion-dollar AI boom is being propped up by interconnected business transactions."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Closest view' yet of interstellar comet 3I/ATLAS captured by Mars orbiter",
-      "original_title": "'Closest view' yet of interstellar comet 3I/ATLAS captured by Mars orbiter - Live Science",
-      "url": "https://www.livescience.com/space/comets/closest-view-yet-of-interstellar-comet-3i-atlas-captured-by-mars-orbiter",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3ABJfcgp4nCKsDnNHSmL8B.gif",
-      "source": "Live Science",
-      "publishedAt": "2025-10-07T19:53:03Z",
-      "description": "The European Space Agency's ExoMars orbiter has captured the closest view yet of the interstellar comet 3I/ATLAS. The images reveal the comet's bright coma but show no signs of a tail."
+      "title": "Deadly bacteria may be lurking in meals from popular meal kit service, warns USDA",
+      "original_title": "Deadly bacteria may be lurking in meals from popular meal kit service, warns USDA - Syracuse.com",
+      "url": "https://www.syracuse.com/us-news/2025/10/listeria-may-be-lurking-in-meals-from-popular-meal-kit-service-warns-usda.html",
+      "urlToImage": "https://www.syracuse.com/resizer/v2/FLM33R7YMRD67JDKZEUOQUCCJQ.jpg?auth=c8cb9adadc53836ebf7474708ddb26696e4216fdb5ae08711263aa334665b0ee&width=1280&smart=true&quality=90",
+      "source": "syracuse.com",
+      "publishedAt": "2025-10-07T18:28:00Z",
+      "description": "Two meal options from the meal subscription service joins the growing list of recalled products since June."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Supreme Court sharply questions law banning conversion therapy",
-      "original_title": "Supreme Court sharply questions law banning conversion therapy - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/10/07/supreme-court-gay-conversion-therapy-ban/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D6CUQ2NPDNVBRA5L6PHSDM6LYM.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-07T18:27:31Z",
-      "description": "Supreme Court sharpy questions Colorado law that bans efforts to changing minors’ sexual identity, suggesting it violates free speech rights of therapists."
+      "title": "Takeaways from Attorney General Pam Bondi’s contentious Senate hearing",
+      "original_title": "Takeaways from Attorney General Pam Bondi’s contentious Senate hearing - CNN",
+      "url": "https://www.cnn.com/2025/10/07/politics/bondi-senate-hearing-takeaways",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239324898.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-07T18:21:06Z",
+      "description": "Attorney General Pam Bondi’s appearance before the Senate Judiciary Committee on Tuesday showed the sharp divide between the left and the right on how justice in the US is being carried out."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Air traffic controllers working without pay begin to call out sick, leading to flight cancellations and delays nationwide - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Air traffic controllers working without pay begin to call out sick, leading to flight cancellations and delays nationwide - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/air-traffic-controllers-working-pay-begin-call-sick/story?id\\\\u003d126289491",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-07T17:36:09Z",
-      "description": ""
+      "title": "U.S. envoy Steve Witkoff, Jared Kushner heading to Egypt as Gaza ceasefire talks continue",
+      "original_title": "U.S. envoy Steve Witkoff, Jared Kushner heading to Egypt as Gaza ceasefire talks continue - CBS News",
+      "url": "https://www.cbsnews.com/news/steve-witkoff-jared-kushner-egypt-gaza-ceasefire-talks/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/07/ede4e45e-6235-40b3-bd69-b737610b9176/thumbnail/1200x630g1/683a5218b242a88b6beac56b17ae86da/gettyimages-2238128796.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-07T18:13:00Z",
+      "description": "White House spokesperson Karoline Leavitt said Steve Witkoff and Jared Kushner were on hand to take part in indirect talks between Israel and Hamas, which aim to end the war in Gaza."
     },
     {
       "flag": "🌍",
@@ -147,13 +246,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Watch: Bondi testifies before Senate panel at first hearing since Comey indictment",
-      "original_title": "Watch: Bondi testifies before Senate panel at first hearing since Comey indictment - NPR",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5563934/bondi-senate-judiciary-committee-testify",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7441x4186+0+388/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F04%2Ff81a6e7647d480eef7a89f977d6c%2Fgettyimages-2239755464.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-07T16:21:00Z",
-      "description": "Attorney General Pam Bondi is testifying before the Senate Judiciary Committee amid mounting concerns that the DOJ is being weaponized to go after President Trump's perceived enemies."
+      "title": "iOS 26.1 public beta 2 now available, here’s what’s new - 9to5Mac",
+      "original_title": "iOS 26.1 public beta 2 now available, here’s what’s new - 9to5Mac",
+      "url": "https://9to5mac.com/2025/10/07/ios-26-1-public-beta-2-now-available-heres-whats-new/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iOS-26.1-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-10-07T17:23:00Z",
+      "description": "Apple has released iOS and iPadOS 26.1 public beta 2, here’s everything new in the latest software updates."
     },
     {
       "flag": "🌍",
@@ -167,59 +266,26 @@
       "description": "A review of Tron: Ares which reboots the 43-year-old franchise in an attempt to make the ever-changing AI technology still relevant to audiences."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Mike Johnson brushes off Marjorie Taylor Greene’s health care attack",
-      "original_title": "Mike Johnson brushes off Marjorie Taylor Greene’s health care attack - Politico",
-      "url": "https://www.politico.com/live-updates/2025/10/07/congress/mike-johnson-marjorie-taylor-greene-obamacare-00596240",
-      "urlToImage": "https://www.politico.com/dims4/default/71feab7/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F10%2F4b%2F1f2691d242b6a7c4c76452a90ff1%2Fu-s-congress-12032.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-07T15:57:09Z",
-      "description": "The Georgia representative lambasted GOP leaders in social media posts that showed cracks in Republican unity amid the government shutdown."
-    },
-    {
       "flag": "🇬🇧",
       "country": "gb",
-      "title": "Time may be running out for Master of clocks Macron: What next for France?",
-      "original_title": "Time may be running out for Master of clocks Macron: What next for France? - BBC",
-      "url": "https://www.bbc.com/news/articles/c0kn04453z8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4cbf/live/d73f4a40-a391-11f0-928c-71dbb8619e94.jpg",
+      "title": "Canadian amusement park threatens to euthanise 30 beluga whales",
+      "original_title": "Canadian amusement park threatens to euthanise 30 beluga whales - BBC",
+      "url": "https://www.bbc.com/news/articles/c8jmddp1v49o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28aa/live/bb474f10-a371-11f0-b6c8-ab6f97553cbf.jpg",
       "source": "BBC News",
-      "publishedAt": "2025-10-07T15:56:00Z",
-      "description": "After eight years in office, Emmanuel Macron's position as president is coming under increasing pressure as France's political crisis escalates."
+      "publishedAt": "2025-10-07T12:58:18Z",
+      "description": "The Canadian government blocked Marineland's attempt to export the animals to a park in China."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "How Trump could use the Insurrection Act to send troops to American cities",
-      "original_title": "How Trump could use the Insurrection Act to send troops to American cities - Axios",
-      "url": "https://www.axios.com/2025/10/07/trump-insurrection-act-national-guard-chicago-portland",
-      "urlToImage": "https://images.axios.com/l8_PTVsJfAnVNp1sGdYztKybkYc=/0x96:4000x2346/1366x768/2025/10/07/1759844625665.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-07T15:49:21Z",
-      "description": "The president told reporters Monday that \"we have an Insurrection Act for a reason.\""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Newest developer beta backtracks on one iPadOS 26 multitasking decision",
-      "original_title": "Newest developer beta backtracks on one iPadOS 26 multitasking decision - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/10/newest-developer-beta-backtracks-on-one-ipados-26-multitasking-decision/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-WWDC25-iPadOS-26-hero-250609-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-07T15:42:23Z",
-      "description": "Apple had removed many of the iPad’s old multitasking modes in the new update."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "October's full Harvest Moon — See breathtaking photos of 1st supermoon of 2025",
-      "original_title": "October's full Harvest Moon — See breathtaking photos of 1st supermoon of 2025 - Space",
-      "url": "https://www.space.com/stargazing/see-breathtaking-photos-of-full-harvest-moon-supermoon-october-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TEd7JZSTgETNX4kshJKt4G-709-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-07T12:15:16Z",
-      "description": "See the best images of the October 2025 full Harvest Supermoon."
+      "title": "Greta Thunberg Went Through ‘Torture’ in Israeli Custody, Fellow Activists Say",
+      "original_title": "Greta Thunberg Went Through ‘Torture’ in Israeli Custody, Fellow Activists Say - The Cut",
+      "url": "http://www.thecut.com/article/greta-thunberg-was-tortured-by-israeli-forces-witnesses-say.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/188/08d/291e146798ab15d5ac34c7c7f28a3b68bc-greta-thunberg.1x.rsocial.w1200.jpg",
+      "source": "The Cut",
+      "publishedAt": "2025-10-07T12:00:02Z",
+      "description": "Thunberg was one of 437 international citizens sailing to Gaza with the Global Sumud Flotilla to deliver humanitarian aid when they were intercepted by Israeli forces."
     },
     {
       "flag": "🌍",
@@ -236,34 +302,12 @@
       "flag": "🌍",
       "country": "global",
       "title": "Both diet and regular sodas are linked to liver disease, new study finds",
-      "original_title": "Both diet and regular sodas are linked to liver disease, new study finds - AOL.com",
-      "url": "https://www.medicalnewstoday.com/articles/diet-and-regular-sodas-are-linked-to-liver-disease/",
-      "urlToImage": "https://media.zenfs.com/en/aol_medicalnewstoday_320/a0a2fccb8e89909672735470e02eb5b5",
+      "original_title": "Both diet and regular sodas are linked to liver disease, new study finds - Medical News Today",
+      "url": "https://www.medicalnewstoday.com/articles/diet-and-regular-sodas-are-linked-to-liver-disease",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/10/drink-cans-liver-disease-risk-1200-628-facebook.jpg",
       "source": "Medical News Today",
-      "publishedAt": "2025-10-07T11:06:10Z",
-      "description": "Both sugar-sweetened beverages and low or non-sugar-sweetened beverages were linked to an increased risk for metabolic dysfunction-associated steatotic liver..."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Attorney for woman shot by Border Patrol claims agent said, ‘Do something b----’ before shooting",
-      "original_title": "Attorney for woman shot by Border Patrol claims agent said, ‘Do something b----’ before shooting - WBEZ Chicago",
-      "url": "https://www.wbez.org/public-safety/2025/10/07/marimar-martinez-anthony-ian-santos-ruiz-border-patrol-shooting-brighton-park",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/427df5f/2147483647/strip/true/crop/5834x3330+0+280/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2Fe9%2F507fcb44485a808fc85c7c3f3f9f%2Ficeshooting-100525-0027.JPG",
-      "source": "WBEZ",
-      "publishedAt": "2025-10-07T10:30:00Z",
-      "description": "Body-camera video appears to contradict the government's claim that Marimar Martinez drove toward officers before one of them opened fire at her Saturday morning in Brighton Park, her attorney alleged"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Google begins inviting users to try Gemini for Home",
-      "original_title": "Google begins inviting users to try Gemini for Home - Android Police",
-      "url": "https://www.androidpolice.com/google-begins-inviting-users-to-try-gemini-for-home/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/gemini-google-home-logo.jpg?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2025-10-07T08:48:00Z",
-      "description": "Check your inbox!"
+      "publishedAt": "2025-10-07T10:52:57Z",
+      "description": "Both sugar-sweetened beverages and low or non-sugar-sweetened beverages were linked to an increased risk for metabolic dysfunction-associated steatotic liver disease (MASLD), in a new study."
     },
     {
       "flag": "🌍",
