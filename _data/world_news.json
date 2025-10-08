@@ -1,27 +1,71 @@
 {
-  "last_updated": "2025-10-08T08:25:07",
+  "last_updated": "2025-10-08T09:19:40",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Timothée Chalamet’s ‘Marty Supreme’: First Reactions From the Premiere",
-      "original_title": "Timothée Chalamet’s ‘Marty Supreme’: First Reactions From the Premiere - The Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/timothee-chalamet-marty-supreme-first-reactions-josh-safdie-1236394559/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/Marty-Supreme.jpg?w=1296&h=730&crop=1",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2025-10-07T05:17:19Z",
-      "description": "Josh Safdie's film, which debuted at the New York Film Festival, is set to hit theaters on Dec. 25."
+      "title": "Medical helicopter crashes on California freeway, crew taken to area hospitals, company says - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Medical helicopter crashes on California freeway, crew taken to area hospitals, company says - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/medical-helicopter-crashes-california-freeway-crew-area-hospitals/story?id\\\\u003d126278919",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-07T07:41:51Z",
+      "description": ""
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Not true': Donald Trump says he did not tell Netanyahu to not be negative; claims Israel PM has been pos",
-      "original_title": "'Not true': Donald Trump says he did not tell Netanyahu to not be negative; claims Israel PM has been pos - Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/not-true-donald-trump-says-he-did-not-tell-netanyahu-to-not-be-negative-claims-israel-pm-has-been-positive-on-gaza-deal/articleshow/124352389.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-124352651,width-1070,height-580,imgsize-31860,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "source": "The Times of India",
-      "publishedAt": "2025-10-07T04:08:00Z",
-      "description": "US News: US President Donald Trump has denied reports of telling Israeli PM Benjamin Netanyahu to be less negative after Hamas accepted key aspects of his Gaza"
+      "title": "Hamas celebrates two years since October 7, calls terror attack a ‘glorious day’",
+      "original_title": "Hamas celebrates two years since October 7, calls terror attack a ‘glorious day’ - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-869653",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/564641",
+      "source": "The Jerusalem Post",
+      "publishedAt": "2025-10-07T07:05:21Z",
+      "description": "The Hamas terror organization shared a statement celebrating the two-year mark since the October 7 attacks, with an AI video that showed Yahya Sinwar and footage from the terror attack."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Gaza peace talks: The key sticking points",
+      "original_title": "Gaza peace talks: The key sticking points - BBC",
+      "url": "https://www.bbc.com/news/articles/c930v44dg2ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a650/live/54b668f0-a2bb-11f0-b2c5-019105d9c0cd.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-07T06:31:54Z",
+      "description": "Negotiators from Israel and Hamas are heading to Sharm El-Sheikh, Egypt, to start indirect talks about ending the Israel-Gaza war."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Government shutdown hits air travel, closing a control tower and causing delays across the country",
+      "original_title": "Government shutdown hits air travel, closing a control tower and causing delays across the country - CNN",
+      "url": "https://www.cnn.com/2025/10/07/us/government-shutdown-air-travel-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239229953.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-07T05:38:46Z",
+      "description": "The impact of the government shutdown hit travelers across the United States  Monday, as air traffic controllers called out sick, closing a control tower and leading to delays at major airports."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Jennifer Lopez Poses with Her Twins, 17, at “Kiss of the Spider Woman” N.Y.C Screening",
+      "original_title": "Jennifer Lopez Poses with Her Twins, 17, at “Kiss of the Spider Woman” N.Y.C Screening - Yahoo News UK",
+      "url": "https://people.com/jennifer-lopez-poses-with-twins-17-at-kiss-of-the-spider-woman-n-y-c-screening-11825389",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/beR2FFmQqU11MzsVtrWXFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/3ceb2107a5585b556de3ac36585b8abf",
+      "source": "PEOPLE",
+      "publishedAt": "2025-10-07T03:04:00Z",
+      "description": "The 17-year-olds had a night out in the Big Apple with their mom"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Asia stocks buoyed by tech gains, Japan at record high as rate hike bets unwind",
+      "original_title": "Asia stocks buoyed by tech gains, Japan at record high as rate hike bets unwind - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-buoyed-by-tech-gains-japan-at-record-high-as-rate-hike-bets-unwind-4274071",
+      "urlToImage": "https://i-invdn-com.investing.com/news/NikkeiStockExchange_800x533_L_1602065534.jpg",
+      "source": "Investing.com",
+      "publishedAt": "2025-10-07T02:58:22Z",
+      "description": "Asia stocks buoyed by tech gains, Japan at record high as rate hike bets unwind"
     },
     {
       "flag": "🌍",
@@ -37,35 +81,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "White House UFC Fight To Take Place On Trump’s Birthday",
-      "original_title": "White House UFC Fight To Take Place On Trump’s Birthday - Deadline",
-      "url": "http://deadline.com/2025/10/white-house-ufc-fight-trump-birthday-1236571830/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-2209993247.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-07T02:04:00Z",
-      "description": "The president says the event, perviously scheduled to celebrate the country's 250th birthday will now be timed to his own 80th birthday."
+      "title": "Scientist who graduated from Portland high school wins Nobel Prize in medicine",
+      "original_title": "Scientist who graduated from Portland high school wins Nobel Prize in medicine - OregonLive.com",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/2025/10/scientist-who-graduated-from-portland-high-school-wins-nobel-prize-in-medicine.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/N4L2HCMAYRD3JG4XEMHAA33IMU.jpg?auth=4043045b9d57473ec93f740926e6e67eb681145f05da95a281da1edaa697df8f&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2025-10-07T01:43:00Z",
+      "description": "The Nobel Prize winner initially ignored a call from Sweden early Monday, believing it was a spam call."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’",
-      "original_title": "Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’ - WIRED",
-      "url": "https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/",
-      "urlToImage": "https://media.wired.com/photos/68e408a2089e9a406fb333fb/191:100/w_1280,c_limit/gear-jony-ive-openai-AP25141660380307.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-10-07T01:19:00Z",
-      "description": "“I don’t think we have an easy relationship with our technology at the moment,” the former Apple designer said at OpenAI's developer conference in San Francisco on Monday."
+      "title": "October's Harvest Moon lights up sky as first supermoon of 2025",
+      "original_title": "October's Harvest Moon lights up sky as first supermoon of 2025 - USA Today",
+      "url": "https://www.usatoday.com/picture-gallery/news/2025/10/06/supermoon-2025-harvest-full-moon-photos/86557906007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/07/USAT/86557765007-20251007-t-004458-z-1948845378-rc-2-m-6-ha-4-ugqg-rtrmadp-3-supermoonusa.JPG?crop=5873,3305,x0,y58&width=3200&height=1801&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2025-10-07T01:28:21Z",
+      "description": "See the beauty of the first supermoon of 2025, known as the Harvest Moon."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Sean 'Diddy' Combs' lawyers want him sent to a New Jersey federal prison that offers drug treatment",
-      "original_title": "Sean 'Diddy' Combs' lawyers want him sent to a New Jersey federal prison that offers drug treatment - AP News",
-      "url": "https://apnews.com/article/sean-diddy-combs-sentencing-prison-9f9140853aceb96705865f851af40526",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b52e7eb/2147483647/strip/true/crop/4032x2268+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F21%2F10bc1c4575acb792482033787b24%2F2090cc4f6e5d4f25970fc5f8f320a0d2",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-06T23:43:00Z",
-      "description": "Sean “Diddy” Combs’ lawyers want the hip-hop mogul sent to a low-security federal prison in New Jersey to serve his four-year, two-month prison sentence. They told a judge Monday that the facility’s d"
+      "title": "Timothée Chalamet’s ‘Marty Supreme’ Gets Surprise New York Film Festival World Premiere",
+      "original_title": "Timothée Chalamet’s ‘Marty Supreme’ Gets Surprise New York Film Festival World Premiere - Variety",
+      "url": "https://variety.com/2025/film/news/timothee-chalamet-marty-supreme-surprise-nyff-premiere-1236538398/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/03/Marty-Supreme.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-07T00:37:00Z",
+      "description": "Timothée Chalamet and Josh Safdie's 'Marty Supreme' will get surprise New York Film Festival world premiere."
     },
     {
       "flag": "🌍",
@@ -79,15 +123,15 @@
       "description": "The deployment would \"undermine public safety by inciting a public outcry,\" the lawsuit states."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "The Supreme Court didn’t save Google from Epic, and now the clock is ticking",
-      "original_title": "The Supreme Court didn’t save Google from Epic, and now the clock is ticking - The Verge",
-      "url": "https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047547/236883_Epic_Vs_Google_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-06T23:28:10Z",
-      "description": "The US Supreme Court has denied Google’s request for a partial stay in Epic v. Google, meaning the permanent injunction is still in effect and coming up fast."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Donald Trump threatens to invoke 200-year-old Insurrection Act to deploy troops",
+      "original_title": "Donald Trump threatens to invoke 200-year-old Insurrection Act to deploy troops - Financial Times",
+      "url": "https://www.ft.com/content/ee3c2f14-7726-47bb-805e-32e1f311e7a1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe283fd7e-facc-4414-86ba-8c7a614e75fb.jpg?source=next-barrier-page",
+      "source": "Financial Times",
+      "publishedAt": "2025-10-06T22:38:06Z",
+      "description": "Warning to use 19th century law comes as president faces legal setbacks in bid to put soldiers on streets of US cities"
     },
     {
       "flag": "🌍",
@@ -114,13 +158,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Appeals judges will decide fate of Portland troop deployment - Oregon Public Broadcasting",
-      "original_title": "Appeals judges will decide fate of Portland troop deployment - Oregon Public Broadcasting - OPB",
-      "url": "https://www.opb.org/article/2025/10/06/appeals-judges-portland-troop-deployment/",
-      "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/D6YHTQKQSFH3RIOAKPRR4QQDDI.JPG?auth=214ac22bceec3742faf24349fb2026250ff2766f0b3b545b8d54dd7372b3dfc3&width=1200&height=675&smart=true",
-      "source": "OPB News",
-      "publishedAt": "2025-10-06T21:33:53Z",
-      "description": "The Trump administration is hoping to undo orders blocking the National Guard."
+      "title": "This 2025 iPad Is Now 3x Cheaper Than the iPad Pro, Amazon Clears Stock at a Record Low",
+      "original_title": "This 2025 iPad Is Now 3x Cheaper Than the iPad Pro, Amazon Clears Stock at a Record Low - Kotaku",
+      "url": "https://kotaku.com/this-2025-ipad-is-now-3x-cheaper-than-the-ipad-pro-amazon-clears-stock-at-a-record-low-2000631789",
+      "urlToImage": null,
+      "source": "Kotaku",
+      "publishedAt": "2025-10-06T22:14:10Z",
+      "description": ""
     },
     {
       "flag": "🌍",
@@ -180,19 +224,30 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dwayne Johnson on Smashing Machine Being Worst Box Office Opening Ever",
-      "original_title": "Dwayne Johnson on Smashing Machine Being Worst Box Office Opening Ever - Variety",
-      "url": "https://variety.com/2025/film/news/dwayne-johnson-smashing-machine-worst-box-office-opening-1236541398/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-2233858666.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-10-06T19:19:00Z",
-      "description": "Dwayne Johnson says you can't always look at box office as 'The Smashing Machine' becomes his worst opening ever."
+      "title": "CDC announces changes to COVID, childhood vaccines, touting 'informed consent'",
+      "original_title": "CDC announces changes to COVID, childhood vaccines, touting 'informed consent' - CIDRAP",
+      "url": "https://www.cidrap.umn.edu/covid-19/cdc-announces-changes-covid-childhood-vaccines-touting-informed-consent",
+      "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/iStock-2190554549.jpg?itok=wMoGzEl_",
+      "source": "Umn.edu",
+      "publishedAt": "2025-10-06T20:25:07Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dwayne Johnson Reacts to ‘Smashing Machine’ Flopping: “You Can’t Control Box Office Results”",
+      "original_title": "Dwayne Johnson Reacts to ‘Smashing Machine’ Flopping: “You Can’t Control Box Office Results” - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-smashing-machine-box-office-response-1236394148/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/https___cdn.sanity.io_images_xq1bjtf4_production_2663588789556ecd86e33bc7d6985ef712d5a88f-8192x5464-H-2025.jpg?w=1296&h=730&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-06T19:52:53Z",
+      "description": "The star plays UFC legend Mark Kerr in A24's biopic film from director Benny Safdie."
     },
     {
       "flag": "🌍",
       "country": "global",
       "title": "NASA Rover Appears to Catch Photo of Mysterious Interstellar Object From Surface of Mars",
-      "original_title": "NASA Rover Appears to Catch Photo of Mysterious Interstellar Object From Surface of Mars - Yahoo",
+      "original_title": "NASA Rover Appears to Catch Photo of Mysterious Interstellar Object From Surface of Mars - Futurism",
       "url": "https://futurism.com/space/nasa-mars-rover-photo-interstellar-object",
       "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/nasa-mars-rover-photo-interstellar-object.jpg?quality=85",
       "source": "Futurism",
@@ -202,57 +257,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Study suggests new ways to reduce risk of young kids developing peanut allergies - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Study suggests new ways to reduce risk of young kids developing peanut allergies - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/GMA/Wellness/study-suggests-new-ways-reduce-risk-young-kids/story?id\\\\u003d126246976",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-06T18:22:30Z",
-      "description": ""
+      "title": "Apple releases macOS Tahoe 26.1 developer beta 2 - 9to5Mac",
+      "original_title": "Apple releases macOS Tahoe 26.1 developer beta 2 - 9to5Mac",
+      "url": "https://9to5mac.com/2025/10/06/apple-releases-macos-tahoe-26-1-developer-beta-2/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/macOS-26.1-b2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-10-06T17:13:00Z",
+      "description": "Two weeks after releasing macOS 26.1 developer beta 1, the company is now rolling out developer beta 2, ahead of its official launch."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Samsung starts rolling out Android 16 to the Galaxy S22 series, its final major update - 9to5Google",
+      "original_title": "Samsung starts rolling out Android 16 to the Galaxy S22 series, its final major update - 9to5Google",
+      "url": "http://9to5google.com/2025/10/06/samsung-galaxy-s22-android-16-update-starts-rolling-out/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/03/samsung_galaxy_s22_plus_2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-06T13:05:00Z",
+      "description": "Samsung is rolling out Android 16 for the Galaxy S22 series, but it's the last major update the series will receive."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Instagram introduces new ‘Ring’ award for top creators",
-      "original_title": "Instagram introduces new ‘Ring’ award for top creators - TechCrunch",
-      "url": "https://techcrunch.com/2025/10/06/instagram-introduces-new-ring-award-for-top-creators/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/instagram-GettyImages-2150186181.jpg?resize=1200,889",
-      "source": "TechCrunch",
-      "publishedAt": "2025-10-06T18:11:10Z",
-      "description": "The move comes as Meta has been scaling back its creator payout programs over the past few years."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Watch the 1st supermoon of 2025 shine tonight with this free Harvest Moon livestream",
-      "original_title": "Watch the 1st supermoon of 2025 shine tonight with this free Harvest Moon livestream - Space",
-      "url": "https://www.space.com/stargazing/watch-the-first-supermoon-of-2025-shine-tonight-with-this-free-harvest-moon-livestream",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BQq7YivQsTbhAV4b9Y6D7G-1920-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-06T17:00:00Z",
-      "description": "Tune in to see this year's first supermoon as it lights up the autumn sky above the Italian countryside."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "A long-requested Taskbar feature is finally rolling out on Windows 11",
-      "original_title": "A long-requested Taskbar feature is finally rolling out on Windows 11 - Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-begins-rolling-out-highly-anticipated-taskbar-feature-for-windows-11-power-users",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HwoBi3taLrcQXHjWcWqedN-2560-80.jpg",
-      "source": "Windows Central",
-      "publishedAt": "2025-10-06T11:04:23Z",
-      "description": "Multiple-monitor users will finally be able to open the notification center on displays that aren't their primary monitor with the latest Windows 11 update."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Saturn’s Moon Shows Major Signs of Life",
-      "original_title": "Saturn’s Moon Shows Major Signs of Life - Futurism",
-      "url": "https://futurism.com/space/saturn-moon-enceladus-signs-life-molecules",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/10/saturn-moon-enceladus-signs-life-molecules.jpg?quality=85",
-      "source": "Futurism",
-      "publishedAt": "2025-10-05T16:45:00Z",
-      "description": "Astronomers have found that Saturn's moon, Enceladus, is spewing out copious amounts of complex organic molecules, signs of habitability."
+      "title": "Plan to Reflect Sunlight to Power Solar Panels at Night Upsets Astronomers",
+      "original_title": "Plan to Reflect Sunlight to Power Solar Panels at Night Upsets Astronomers - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-06/sequoia-backed-startup-faces-pushback-over-plan-to-reflect-sunlight-to-earth",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itHQ5cD_MVJQ/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-06T11:30:08Z",
+      "description": "Reflect Orbital aims to launch its first of a planned 4,000 satellites into orbit next year. Scientists worry that it would be “ruinous” for research."
     }
   ]
 }
