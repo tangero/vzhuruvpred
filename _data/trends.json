@@ -1,18 +1,28 @@
 {
-  "updated": "2025-10-08T03:33:24.245906",
+  "updated": "2025-10-08T06:37:49.411142",
   "trends": [
     {
       "rank": 1,
       "query": "anna polívková",
-      "news_title": "Míra Nosek vzal na premiéru krásnou partnerku. Martin Pechlát opět s Annou Polívkovou",
-      "news_url": "https://www.expres.cz/celebrity/mira-nosek-vzal-na-premieru-krasnou-partnerku-martin-pechlat-opet-s-annou-polivkovou.A251007_104215_dx-celebrity_stes",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpBwDUsGVLg7cCryjvyMMulNaniEJje2G8UNrWAAM4KuC_qnx8sbIYGaxWee8",
+      "news_title": "Výjimečně vyvedla i manžela: Po boku italského sympaťáka, kterého si loni vzala, Anna Polívková jen kvete",
+      "news_url": "https://www.super.cz/clanek/celebrity-vyjimecne-vyvedla-i-manzela-po-boku-italskeho-sympataka-ktereho-si-loni-vzala-anna-polivkova-jen-kvete-1518614",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjiyPH3KQyY23Y-wj4CV0jUpgi-A4NEtj9rB_DAyDykuPJOvppwtXpPX6HXE",
       "traffic": "1000++ hledání",
-      "source": "Expres.cz",
+      "source": "Super.cz",
       "explore_url": "https://trends.google.cz/trends/explore?q=anna polívková&geo=CZ"
     },
     {
       "rank": 2,
+      "query": "zemřela učitelka",
+      "news_title": "Stream Originals: Hymna Tondy Blaníka – Krátká videa Seznam.cz",
+      "news_url": "https://www.seznam.cz/kratka-videa/263996440",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOGKJxn5eMR2FVIJ_WXiqiqGGo2rOt8mqDXNmoYmsM-AV1T9wuovMlHI-BCfI",
+      "traffic": "1000++ hledání",
+      "source": "Seznam",
+      "explore_url": "https://trends.google.cz/trends/explore?q=zemřela učitelka&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "tipsport",
       "news_title": "Tipsport a Aircash: více jak 700 Kč zdarma, tipovačka o tisíce a denní soutěž o 7 500 Kč",
       "news_url": "https://www.kurzovesazeni.com/tipsport-a-aircash/",
@@ -22,7 +32,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=tipsport&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "query": "thylane blondeau",
       "news_title": "‘Most beautiful girl in the world’ Thylane Blondeau turns heads at Paris fashion week — and swears she hasn’t had work done",
       "news_url": "https://www.yahoo.com/entertainment/celebrity/articles/most-beautiful-girl-world-thylane-183505066.html",
@@ -32,27 +42,37 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=thylane blondeau&geo=CZ"
     },
     {
-      "rank": 4,
-      "query": "chance",
-      "news_title": "Live updates: Gaza ceasefire talks underway as Israel marks anniversary of October 7 attack",
-      "news_url": "https://www.cnn.com/world/live-news/israel-hamas-gaza-war-10-07-25",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeV_PQ2pJIfrIkO3e1lGH7lGZ9axjBR8WXlSsS79Amxh6P_01LmUiTcS_A9FA",
+      "rank": 5,
+      "query": "nhl",
+      "news_title": "Nečas vlétl do nové sezony NHL, výhru řídil dvěma góly. Na úvod slaví i obhájci",
+      "news_url": "https://www.idnes.cz/hokej/nhl/vysledky-nhl.A251008_071642_nhl_mkr",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVcYhEC_pJavoDl9NgBXbZbEEfrvHydHtZMAvQuPUZJI66K68z7jFctLgXsbE",
       "traffic": "200++ hledání",
-      "source": "CNN",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=nhl&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "chance",
+      "news_title": "Hamas wants ‘guarantees’ Israel will end Gaza war as talks on day 2 wrap up",
+      "news_url": "https://www.aljazeera.com/news/2025/10/7/hamas-lays-down-conditions-for-peace-deal-as-israel-continues-bombing-gaza",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhqa0T0ix3aoDBNG11s6HEMhSbEHx_P_lL0iANhtT3PA7ioYOaE0YkWE_Eqo4",
+      "traffic": "200++ hledání",
+      "source": "Al Jazeera",
       "explore_url": "https://trends.google.cz/trends/explore?q=chance&geo=CZ"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "query": "martin kuba",
-      "news_title": "Odchází podceňovaný profesor, jenž se odmítal předvádět na sítích",
-      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-odchazi-podcenovany-profesor-jenz-se-odmital-predvadet-na-sitich-288527",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6Ss0sXYXmJe0PL9TtUlpdGRKAPlgvtzMFW7ka68Zri0FFI9zxWnPiBopbEqU",
+      "news_title": "Jak dál po Fialovi? Spolu nejspíš končí, novým lídrem ODS bude asi Kupka",
+      "news_url": "https://www.seznamzpravy.cz/clanek/domaci-politika-jak-dal-po-fialovi-spolu-nejspis-konci-novym-lidrem-ods-bude-asi-kupka-288547",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHXCnxamlaFq4zL41f-0oTZzYPARUzZJS9FQVsrQfByugckJL0xrtrzR2r6s",
       "traffic": "200++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=martin kuba&geo=CZ"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "query": "akcie čez",
       "news_title": "Akcie ČEZ posilují. Spekulace na jeho zestátnění po vítězství ANO zesílily",
       "news_url": "https://www.seznamzpravy.cz/clanek/ekonomika-akcie-cez-posiluji-spekulace-na-jeho-zestatneni-po-vitezstvi-ano-zesilily-288318",
@@ -60,26 +80,6 @@
       "traffic": "200++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=akcie čez&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "tereza brodská",
-      "news_title": "S kým má syna Tereza Brodská z Ulice: Samuel vypadá jako Brodský, má krásnou a úspěšnou partnerku",
-      "news_url": "https://medium.seznam.cz/clanek/hubert-novak-s-kym-ma-syna-tereza-brodska-z-ulice-samuel-vypada-jako-brodsky-ma-krasnou-a-uspesnou-partnerku-194749",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWytQncOFj4YLceGHA09mNvG8VVdV4tl5e-0IqbnMJkzHlUGq-hEN98hmUAnI",
-      "traffic": "200++ hledání",
-      "source": "Médium.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=tereza brodská&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "zemřela učitelka",
-      "news_title": "Stream Originals: Hymna Tondy Blaníka – Krátká videa Seznam.cz",
-      "news_url": "https://www.seznam.cz/kratka-videa/263996440",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOGKJxn5eMR2FVIJ_WXiqiqGGo2rOt8mqDXNmoYmsM-AV1T9wuovMlHI-BCfI",
-      "traffic": "200++ hledání",
-      "source": "Seznam",
-      "explore_url": "https://trends.google.cz/trends/explore?q=zemřela učitelka&geo=CZ"
     }
   ]
 }
