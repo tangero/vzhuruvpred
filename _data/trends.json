@@ -1,8 +1,28 @@
 {
-  "updated": "2025-10-08T15:27:17.631931",
+  "updated": "2025-10-08T18:37:33.121773",
   "trends": [
     {
       "rank": 1,
+      "query": "taťána malá",
+      "news_title": "Tisková konference hnutí ANO",
+      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-tiskova-konference-hnuti-ano-40542869",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSVqmeT4KTKx-1uSWPJukbobJ8H09TWeS4ah1oWk6W6uDb4CtRcO4uG0WNrw",
+      "traffic": "2000++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=taťána malá&geo=CZ"
+    },
+    {
+      "rank": 2,
+      "query": "knihobot",
+      "news_title": "Brigádníci Knihobotu popisují špatné pracovní podmínky. „Ne každý se na takovou práci hodí,“ oponuje ředitel firmy",
+      "news_url": "https://denikn.cz/1862164/brigadnici-knihobotu-popisuji-spatne-pracovni-podminky-ne-kazdy-se-na-takovou-praci-hodi-oponuje-reditel-firmy/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqFPVhKHQJ6ZZl00yLaeAq39Eg7nU-sPqilBNahwGBEfxe5qw_m6MY4LZDVOY",
+      "traffic": "2000++ hledání",
+      "source": "Deník N",
+      "explore_url": "https://trends.google.cz/trends/explore?q=knihobot&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "petr kellner",
       "news_title": "Exspolupracovník a novinář, který se dostal blízko. Poslechněte si bonusové rozhovory ze Série Kellner",
       "news_url": "https://www.irozhlas.cz/zpravy-domov/exspolupracovnik-a-novinar-ktery-se-dostal-blizko-poslechnete-si-bonusove_2510070800_jva",
@@ -12,34 +32,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=petr kellner&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "taťána malá",
-      "news_title": "Tisková konference hnutí ANO",
-      "news_url": "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-tiskova-konference-hnuti-ano-40542869",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSVqmeT4KTKx-1uSWPJukbobJ8H09TWeS4ah1oWk6W6uDb4CtRcO4uG0WNrw",
-      "traffic": "1000++ hledání",
-      "source": "Novinky",
-      "explore_url": "https://trends.google.cz/trends/explore?q=taťána malá&geo=CZ"
-    },
-    {
-      "rank": 3,
-      "query": "knihobot",
-      "news_title": "Brigádníci Knihobotu popisují špatné pracovní podmínky. „Ne každý se na takovou práci hodí,“ oponuje ředitel firmy",
-      "news_url": "https://denikn.cz/1862164/brigadnici-knihobotu-popisuji-spatne-pracovni-podminky-ne-kazdy-se-na-takovou-praci-hodi-oponuje-reditel-firmy/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqFPVhKHQJ6ZZl00yLaeAq39Eg7nU-sPqilBNahwGBEfxe5qw_m6MY4LZDVOY",
-      "traffic": "1000++ hledání",
-      "source": "Deník N",
-      "explore_url": "https://trends.google.cz/trends/explore?q=knihobot&geo=CZ"
-    },
-    {
       "rank": 4,
-      "query": "anna polívková",
-      "news_title": "Výjimečně vyvedla i manžela: Po boku italského sympaťáka, kterého si loni vzala, Anna Polívková jen kvete",
-      "news_url": "https://www.super.cz/clanek/celebrity-vyjimecne-vyvedla-i-manzela-po-boku-italskeho-sympataka-ktereho-si-loni-vzala-anna-polivkova-jen-kvete-1518614",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjiyPH3KQyY23Y-wj4CV0jUpgi-A4NEtj9rB_DAyDykuPJOvppwtXpPX6HXE",
-      "traffic": "1000++ hledání",
-      "source": "Super.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=anna polívková&geo=CZ"
+      "query": "jaroslav nedvěd",
+      "news_title": "Gross končí ve Spartě, nahradí ho klubová ikona",
+      "news_url": "https://www.sport.cz/clanek/hokej-extraliga-gross-konci-ve-sparte-5311693",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6zRRwvAigWABkS9Fbwk0hf3ZnLvVsQ2yLXe_GNTZttUbi1b3XvljHEL7AJvo",
+      "traffic": "500++ hledání",
+      "source": "Sport.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=jaroslav nedvěd&geo=CZ"
     },
     {
       "rank": 5,
@@ -53,6 +53,16 @@
     },
     {
       "rank": 6,
+      "query": "josef klíma",
+      "news_title": "Den před Silvestrem jsem slyšel krutou diagnózu, přiznal Josef Klíma",
+      "news_url": "https://www.stream.cz/face-to-face/den-pred-silvestrem-jsem-slysel-krutou-diagnozu-priznal-josef-klima-65370092",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPVq2gW0MRHjzOsd38hPEb7F1nicCo0vWdbanRA6-UlcIzBE93BU0zJkx50m0",
+      "traffic": "200++ hledání",
+      "source": "Stream.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=josef klíma&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "nhl",
       "news_title": "NHL | Márty party. Nečas motá hlavy soupeřům i managementu Colorada",
       "news_url": "https://www.sport.cz/clanek/hokej-nhl-marty-party-necas-mota-hlavy-souperum-i-managementu-colorada-5311500",
@@ -62,24 +72,14 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=nhl&geo=CZ"
     },
     {
-      "rank": 7,
-      "query": "chance",
-      "news_title": "MS fotbal | Nováčkem v pětatřiceti. Chramosta nevěřil a ptal se Hübschmana, jestli si dělá srandu",
-      "news_url": "https://www.sport.cz/clanek/fotbal-ms-novackem-v-petatriceti-reprezentant-chramosta-musel-odlozit-oslavu-narozenin-a-touzi-po-rekordu-5311107",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNJHO0HTkTj17nvbCiVoYStPVXdmLwVtiF1wxkwXTkoKjSGKUF83bzEoXtYIQ",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=chance&geo=CZ"
-    },
-    {
       "rank": 8,
-      "query": "martin kuba",
-      "news_title": "Odchází podceňovaný profesor, jenž se odmítal předvádět na sítích",
-      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-odchazi-podcenovany-profesor-jenz-se-odmital-predvadet-na-sitich-288527",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6Ss0sXYXmJe0PL9TtUlpdGRKAPlgvtzMFW7ka68Zri0FFI9zxWnPiBopbEqU",
+      "query": "chance",
+      "news_title": "Já a nejstarší debutant? Rekordy mám rád, říká reprezentační nováček Chramosta",
+      "news_url": "https://www.idnes.cz/fotbal/reprezentace/jan-chramosta-jablonec-reprezentace-novacek-debutant.A251007_160758_fot_reprez_min",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsh2yyA6Q-GGZlwe3BWlnUM5xx-4KyXa5pfJ4wbO5i7bCZHn4VgiG_EnAj0ak",
       "traffic": "200++ hledání",
-      "source": "Seznam Zprávy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=martin kuba&geo=CZ"
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=chance&geo=CZ"
     }
   ]
 }
