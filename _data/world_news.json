@@ -1,16 +1,27 @@
 {
-  "last_updated": "2025-10-08T23:16:01",
+  "last_updated": "2025-10-09T01:20:34",
   "articles": [
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "We found the 106 best Prime Day-level sales during Amazon’s Prime Big Deal Days",
-      "original_title": "We found the 106 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2025-10-07",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-08T00:30:00Z",
-      "description": "Amazon’s October Prime Day event is here and so are the savings. We found 106 of the best deals that are worth shopping before the sale officially goes live."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump-backed Van Epps and Democrat Behn win Tennessee primaries for special House election",
+      "original_title": "Trump-backed Van Epps and Democrat Behn win Tennessee primaries for special House election - Politico",
+      "url": "https://www.politico.com/news/2025/10/07/trump-backed-van-epps-and-democrat-behn-win-tennessee-primaries-for-us-house-special-election-00597519",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1c%2F46%2F157bdf144b1c968bd263cc609056%2Felection-2025-tennessee-congress-49226.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-08T01:49:38Z",
+      "description": "They are seeking to replace Republican Mark Green, who stepped down."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "US airports continue to see delays as shutdown hits air travel",
+      "original_title": "US airports continue to see delays as shutdown hits air travel - BBC",
+      "url": "https://www.bbc.com/news/articles/cx27z97ryr0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c90/live/c9b1c220-a370-11f0-b6c8-ab6f97553cbf.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-08T01:06:16Z",
+      "description": "Air traffic controllers, expected to work without pay during the shutdown, have been calling out sick."
     },
     {
       "flag": "🌍",
@@ -26,6 +37,50 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "October Prime Day 2025: Best last-minute day 1 deals on Amazon Canada — shop Bose, Apple, Dyson, Lego and more on sale for Big Deal Days",
+      "original_title": "October Prime Day 2025: Best last-minute day 1 deals on Amazon Canada — shop Bose, Apple, Dyson, Lego and more on sale for Big Deal Days - Yahoo Lifestyle Canada",
+      "url": "https://ca.style.yahoo.com/october-prime-day-2025-best-last-minute-day-1-deals-on-amazon-canada--shop-bose-apple-dyson-lego-and-more-on-sale-for-big-deal-days-223548947.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TSVtMYsqSkaecJS4BDpC2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/26e2a230-a3cf-11f0-bf3d-b43d1fd0b0ff",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-07T23:08:03Z",
+      "description": "The first day of Prime Big Deal Days 2025 is almost over — shop the year's best deals."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tesla offers cheaper versions of 2 electric vehicles in bid to win back market share in tough year",
+      "original_title": "Tesla offers cheaper versions of 2 electric vehicles in bid to win back market share in tough year - AP News",
+      "url": "https://apnews.com/article/tesla-model-y-cheaper-musk-7dd6213c456fa2c16a676176081a3227",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fa2c948/2147483647/strip/true/crop/5608x3155+0+292/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F5c%2F288feb40cc64b7fe571951e72e8d%2F9ef8d93a473d4312bfef99abf8a2b05d",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-07T23:07:00Z",
+      "description": "Tesla announced the launch of cheaper versions of two of its electric vehicles Tuesday in hopes of reviving flagging sales. The new Model Y, costing just under $40,000 with a stripped-down interior, c"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump's off-script comments cause shutdown headaches for GOP",
+      "original_title": "Trump's off-script comments cause shutdown headaches for GOP - Politico",
+      "url": "https://www.politico.com/news/2025/10/07/shutdown-republicans-disarray-00597018",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2a%2F42%2F600142d344d7ae6aecf23b165bf9%2Fu-s-congress-29078.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-07T23:06:11Z",
+      "description": "President Donald Trump, Speaker Mike Johnson and Senate Majority Leader John Thune are straining to project a united front against Democrats."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Senate GOP beats Biden's confirmation numbers",
+      "original_title": "Senate GOP beats Biden's confirmation numbers - Axios",
+      "url": "https://www.axios.com/2025/10/07/senate-republicans-trump-nominees-biden",
+      "urlToImage": "https://images.axios.com/0UZaGPwmThPZzXAeT1G_OXOARYQ=/0x292:6000x3667/1366x768/2025/10/07/1759862754853.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-10-07T22:46:24Z",
+      "description": "Thanks to new rules through the \"nuclear option.\""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "Google’s latest AI model uses a web browser like you do",
       "original_title": "Google’s latest AI model uses a web browser like you do - The Verge",
       "url": "https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents",
@@ -37,24 +92,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Government shutdown drags on as health care compromise remains elusive",
-      "original_title": "Government shutdown drags on as health care compromise remains elusive - AP News",
-      "url": "https://apnews.com/article/shutdown-health-care-subsidies-obamacare-congress-10b2ae9648bc5252fc2bd485ddc83493",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8682656/2147483647/strip/true/crop/4847x2726+0+253/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F01%2F71a5cc0b0cf0284ced0ee8dd46b9%2F1cc275aa7c4a4ba8a76e5a999ca498cf",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-07T22:36:00Z",
-      "description": "To hear party leaders talk, the seventh day of the government shutdown sounded a lot like the first. Democrats are seeking negotiations on expiring health care subsidies while Republicans say they won"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Senate confirms largest bloc yet of Trump nominees",
-      "original_title": "Senate confirms largest bloc yet of Trump nominees - Politico",
-      "url": "https://www.politico.com/live-updates/2025/10/07/congress/more-noms-confirmed-00597290",
-      "urlToImage": "https://www.politico.com/dims4/default/007e442/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcd%2F1c%2Fe26edaef4c84aa94d18eb5937dd2%2Fu-s-congress-27898.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-07T22:32:46Z",
-      "description": "Herschel Walker and Sergio Gor were among those confirmed Tuesday evening."
+      "title": "Acting CDC director says to break up MMR shot",
+      "original_title": "Acting CDC director says to break up MMR shot - The Hill",
+      "url": "https://thehill.com/newsletters/health-care/5544062-acting-cdc-director-says-to-break-up-mmr-shot/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/08/oneilljim_kennedyrobert_hhs_AP.jpg?w=1280",
+      "source": "The Hill",
+      "publishedAt": "2025-10-07T22:42:00Z",
+      "description": "Click in for more news from The Hill {beacon} Health Care   The Big Story  Acting CDC director says to break up MMR shot  Deputy Health Secretary and acting CDC Director Jim O’Neill called for vaccine"
     },
     {
       "flag": "🌍",
@@ -92,39 +136,6 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dolly Parton's Sister Is Praying for Country Icon Amid Health Issues",
-      "original_title": "Dolly Parton's Sister Is Praying for Country Icon Amid Health Issues - Variety",
-      "url": "https://variety.com/2025/music/news/dolly-parton-sister-praying-health-issues-1236542641/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-1439345358.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-10-07T21:56:00Z",
-      "description": "Dolly Parton's sister Frieda is asking fans of the Queen of Country to \"pray with me\" amid Dolly's continued health struggles."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Airport staffing shortages cause flight delays a week into shutdown",
-      "original_title": "Airport staffing shortages cause flight delays a week into shutdown - The Washington Post",
-      "url": "https://www.washingtonpost.com/transportation/2025/10/07/flight-delays-government-shutdown-faa/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HCBDHVY3MR4WOGFA4FQKV2KQJI_size-normalized.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-07T21:35:30Z",
-      "description": "The delays came after Transportation Secretary Sean P. Duffy warned the shutdown could add to the strain on air traffic controllers and lead to cancellations."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "White House says it will use tariff revenue to fund federal food aid for mothers and young children",
-      "original_title": "White House says it will use tariff revenue to fund federal food aid for mothers and young children - CNN",
-      "url": "https://www.cnn.com/2025/10/07/politics/tariff-revenue-federal-food-aid",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23348597974618.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-07T21:27:17Z",
-      "description": "The Trump administration said Tuesday it will use tariff funds to keep afloat a federal food assistance program for nearly 7 million pregnant women, new moms and young children during the government s"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "After RFK Jr.’s shenanigans, COVID shot access will be a lot like last year",
       "original_title": "After RFK Jr.’s shenanigans, COVID shot access will be a lot like last year - Ars Technica",
       "url": "https://arstechnica.com/health/2025/10/after-rfk-jr-s-shenanigans-covid-shot-access-will-be-a-lot-like-last-year/",
@@ -136,35 +147,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Texas National Guard arrives in Illinois, as Gov. Pritzker calls for end of Trump administration's 'authoritarian march' - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Texas National Guard arrives in Illinois, as Gov. Pritzker calls for end of Trump administration's 'authoritarian march' - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/texas-national-guard-headed-illinois-gov-pritzker-calls/story?id\\\\u003d126283676",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-07T21:11:15Z",
-      "description": ""
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Tesla launches cheaper Model Y following end of US EV subsidies",
-      "original_title": "Tesla launches cheaper Model Y following end of US EV subsidies - Financial Times",
-      "url": "https://www.ft.com/content/43d9a540-5d00-4a12-b80a-2f730716bed0",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5526603-09b5-4e48-a5cd-8b0c4a9e4558.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-07T20:58:09Z",
-      "description": "New $37,990 ‘standard’ version is 15% less expensive than the previous base offering"
+      "title": "Top analyst on concerns about Nvidia fueling an AI bubble: 'We've seen this movie before. It was called Enron, Tyco'",
+      "original_title": "Top analyst on concerns about Nvidia fueling an AI bubble: 'We've seen this movie before. It was called Enron, Tyco' - Fortune",
+      "url": "https://fortune.com/2025/10/07/ai-bubble-cisco-moment-dotcom-crash-nvidia-jensen-huang-top-analyst/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2225192613-e1759530128473.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-10-07T21:15:25Z",
+      "description": "\"The guy at the epicenter [is] basically starting to do what all ultimate bad actors do in the final inning,\" Morgan Stanley's Lisa Shalett tells Fortune."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Photos capture rare Harvest supermoon here and around the world",
-      "original_title": "Photos capture rare Harvest supermoon here and around the world - The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/10/07/metro/harvest-moon-photos-2025/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IRUXGAHDPLKKVA7J6PVBF2MFFM.jpg?auth=ed0b6943dccade1f23d8e0a518d4396930fd08971845cb92a60634adfdeda185&width=1440",
-      "source": "The Boston Globe",
-      "publishedAt": "2025-10-07T20:41:02Z",
-      "description": "An October Harvest Moon dazzled onlookers as this first of three supermoons of 2025 graced the night sky."
+      "title": "Futures: A Cheap Tesla Model Y? IBM, Iren Jump On AI (Live) - Investor's Business Daily",
+      "original_title": "Futures: A Cheap Tesla Model Y? IBM, Iren Jump On AI (Live) - Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ibm-iren-amd-applovin-cheap-tesla-model-y/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/11/stock-bear-wave-02-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-07T20:38:00Z",
+      "description": "The stock market closed Monday right at record highs."
     },
     {
       "flag": "🇺🇸",
@@ -180,35 +180,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Gold futures rise above $4,000 per ounce for the first time",
-      "original_title": "Gold futures rise above $4,000 per ounce for the first time - AP News",
-      "url": "https://apnews.com/article/gold-record-price-silver-shutdown-fbe2b3c43780923569a7b5db1a55f06b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a1a6ed5/2147483647/strip/true/crop/5647x3176+0+294/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2Fed%2Fd5e0ac458afb49f11cad0c1c94dc%2F54c6fc701be2445aad67cd7f775aec43",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-07T20:29:00Z",
-      "description": "Gold futures have soared above $4,000 per troy ounce for the first time, as many investors seek a “safe haven” to park their money during the continuing U.S. government shutdown. The going price for N"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build",
-      "original_title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-listing.jpeg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-07T19:47:19Z",
-      "description": "Microsoft has locked down well-documented workarounds in recent test builds."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Deadly bacteria may be lurking in meals from popular meal kit service, warns USDA",
-      "original_title": "Deadly bacteria may be lurking in meals from popular meal kit service, warns USDA - Syracuse.com",
-      "url": "https://www.syracuse.com/us-news/2025/10/listeria-may-be-lurking-in-meals-from-popular-meal-kit-service-warns-usda.html",
-      "urlToImage": "https://www.syracuse.com/resizer/v2/FLM33R7YMRD67JDKZEUOQUCCJQ.jpg?auth=c8cb9adadc53836ebf7474708ddb26696e4216fdb5ae08711263aa334665b0ee&width=1280&smart=true&quality=90",
-      "source": "syracuse.com",
-      "publishedAt": "2025-10-07T18:28:00Z",
-      "description": "Two meal options from the meal subscription service joins the growing list of recalled products since June."
+      "title": "Trump says he'd consider invoking the Insurrection Act. What does that mean? - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Trump says he'd consider invoking the Insurrection Act. What does that mean? - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/trump-hed-invoking-insurrection-act/story?id\\\\u003d126290311",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-07T19:51:25Z",
+      "description": ""
     },
     {
       "flag": "🇺🇸",
@@ -224,57 +202,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "U.S. envoy Steve Witkoff, Jared Kushner heading to Egypt as Gaza ceasefire talks continue",
-      "original_title": "U.S. envoy Steve Witkoff, Jared Kushner heading to Egypt as Gaza ceasefire talks continue - CBS News",
-      "url": "https://www.cbsnews.com/news/steve-witkoff-jared-kushner-egypt-gaza-ceasefire-talks/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/07/ede4e45e-6235-40b3-bd69-b737610b9176/thumbnail/1200x630g1/683a5218b242a88b6beac56b17ae86da/gettyimages-2238128796.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-07T18:13:00Z",
-      "description": "White House spokesperson Karoline Leavitt said Steve Witkoff and Jared Kushner were on hand to take part in indirect talks between Israel and Hamas, which aim to end the war in Gaza."
+      "title": "Newest developer beta backtracks on one iPadOS 26 multitasking decision",
+      "original_title": "Newest developer beta backtracks on one iPadOS 26 multitasking decision - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2025/10/newest-developer-beta-backtracks-on-one-ipados-26-multitasking-decision/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-WWDC25-iPadOS-26-hero-250609-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-07T15:42:23Z",
+      "description": "Apple had removed many of the iPad’s old multitasking modes in the new update."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "These numbers show how 2 years of war have devastated Palestinian lives in Gaza",
-      "original_title": "These numbers show how 2 years of war have devastated Palestinian lives in Gaza - NPR",
-      "url": "https://www.npr.org/2025/10/07/g-s1-92367/october-7-two-years-gaza-war-israel-hamas-palestinians",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8220x4624+0+428/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F63%2F25ebd441405b9314f50cf3e27d7e%2Fap25279533003553.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-07T17:26:50Z",
-      "description": "It's been two years since Hamas-led militants attacked Israel, killing some 1,200 people and taking 251 hostages. In response, Israeli leaders promised a punishing offensive. Here are some numbers sho"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "iOS 26.1 public beta 2 now available, here’s what’s new - 9to5Mac",
-      "original_title": "iOS 26.1 public beta 2 now available, here’s what’s new - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/07/ios-26-1-public-beta-2-now-available-heres-whats-new/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iOS-26.1-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-10-07T17:23:00Z",
-      "description": "Apple has released iOS and iPadOS 26.1 public beta 2, here’s everything new in the latest software updates."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "‘Tron: Ares’ Review: Jared Leto Goes Full-Boat AI On Greta Lee In Robotic Reboot Of Disney’s Digital Franchise",
-      "original_title": "‘Tron: Ares’ Review: Jared Leto Goes Full-Boat AI On Greta Lee In Robotic Reboot Of Disney’s Digital Franchise - Deadline",
-      "url": "http://deadline.com/2025/10/tron-ares-review-jared-leto-greta-lee-robotic-reboot-1236571930/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/Tron-Ares.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-07T16:00:00Z",
-      "description": "A review of Tron: Ares which reboots the 43-year-old franchise in an attempt to make the ever-changing AI technology still relevant to audiences."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Canadian amusement park threatens to euthanise 30 beluga whales",
-      "original_title": "Canadian amusement park threatens to euthanise 30 beluga whales - BBC",
-      "url": "https://www.bbc.com/news/articles/c8jmddp1v49o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28aa/live/bb474f10-a371-11f0-b6c8-ab6f97553cbf.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-07T12:58:18Z",
-      "description": "The Canadian government blocked Marineland's attempt to export the animals to a park in China."
+      "title": "Rare intersex spider among new species discovered in Thailand",
+      "original_title": "Rare intersex spider among new species discovered in Thailand - Phys.org",
+      "url": "https://phys.org/news/2025-10-rare-intersex-spider-species-thailand.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/rare-intersex-spider-a.jpg",
+      "source": "Phys.Org",
+      "publishedAt": "2025-10-07T15:30:06Z",
+      "description": "A new species of spider was recently discovered near a forested area in Nong Rong, Phanom Thuan, Kanchanaburi, in western Thailand. The spiders were presented to researchers at the Chulalongkorn Unive"
     },
     {
       "flag": "🌍",
@@ -286,6 +231,17 @@
       "source": "The Cut",
       "publishedAt": "2025-10-07T12:00:02Z",
       "description": "Thunberg was one of 437 international citizens sailing to Gaza with the Global Sumud Flotilla to deliver humanitarian aid when they were intercepted by Israeli forces."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "PHOTOS: Harvest Moon illuminates night sky",
+      "original_title": "PHOTOS: Harvest Moon illuminates night sky - WGAL",
+      "url": "https://www.wgal.com/article/photos-harvest-moon-pa-supermoon/68870843",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/image0-68e4d3fb6bba5.jpeg?crop=1.00xw:0.488xh;0,0.136xh&resize=1200:*",
+      "source": "WGAL Susquehanna Valley Pa.",
+      "publishedAt": "2025-10-07T11:54:00Z",
+      "description": "The harvest moon rose Monday night, marking the first of three consecutive supermoons this year."
     },
     {
       "flag": "🌍",
@@ -308,28 +264,6 @@
       "source": "Medical News Today",
       "publishedAt": "2025-10-07T10:52:57Z",
       "description": "Both sugar-sweetened beverages and low or non-sugar-sweetened beverages were linked to an increased risk for metabolic dysfunction-associated steatotic liver disease (MASLD), in a new study."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Acting CDC director calls to 'break up' the measles, mumps and rubella vaccine into three shots",
-      "original_title": "Acting CDC director calls to 'break up' the measles, mumps and rubella vaccine into three shots - NBC News",
-      "url": "https://www.nbcnews.com/health/health-news/separate-measles-mumps-rubella-vaccine-acting-cdc-director-rcna235971",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251006-jim-oneill-gk-fb4c2e.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-10-06T21:27:51Z",
-      "description": "Acting CDC Director Jim O’Neill called on vaccine manufacturers to develop separate shots for measles, mumps and rubella instead of the current combination vaccine."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Quantum uncertainty captured in real time using femtosecond light pulses",
-      "original_title": "Quantum uncertainty captured in real time using femtosecond light pulses - Phys.org",
-      "url": "https://phys.org/news/2025-10-quantum-uncertainty-captured-real-femtosecond.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2025/quantum-uncertainty-ta.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-10-06T17:40:03Z",
-      "description": "Researchers from the University of Arizona, working with an international team, have captured and controlled quantum uncertainty in real time using ultrafast pulses of light. Their discovery, publishe"
     }
   ]
 }
