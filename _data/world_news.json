@@ -1,38 +1,126 @@
 {
-  "last_updated": "2025-10-09T14:18:25",
+  "last_updated": "2025-10-09T15:29:39",
   "articles": [
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "James Comey updates: Ex-FBI director faces court",
-      "original_title": "James Comey updates: Ex-FBI director faces court - BBC",
-      "url": "https://www.bbc.com/news/live/cly14kplv02t",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a821/live/1873be00-a2ee-11f0-92db-77261a15b9d2.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T14:14:42Z",
-      "description": "He has been accused of making false statements to Congress in a 2020 testimony, but he says he is innocent."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "We found the 117 best Prime Day-level sales during Amazon’s Prime Big Deal Days",
+      "original_title": "We found the 117 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2025-10-08",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-08T16:45:00Z",
+      "description": "Amazon’s October Prime Day event has entered its second day. We found 117 of the best deals that are worth shopping before the sale officially ends."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Stock Market Today: Dow, S&P 500, Nasdaq Open Up; Tesla, Oracle, Nvidia, Intel; Fed Minutes; Gold Price Record - Barron's",
-      "original_title": "Stock Market Today: Dow, S&P 500, Nasdaq Open Up; Tesla, Oracle, Nvidia, Intel; Fed Minutes; Gold Price Record - Barron's",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-100825",
-      "urlToImage": "https://images.barrons.com/im-783602/social",
-      "source": "Barron's",
-      "publishedAt": "2025-10-08T13:43:00Z",
-      "description": "The Dow, S&P 500, and Nasdaq are rising as the stock market awaits minutes from the Federal Reserve's last monetary policy meeting for clues about its forward path on interest rates."
+      "title": "Man arrested, faces federal charge in connection with Palisades Fire: DOJ - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Man arrested, faces federal charge in connection with Palisades Fire: DOJ - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/arrest-made-connection-palisades-fire/story?id\\\\u003d126328318",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-08T16:14:22Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "President Trump posts on Truth Social that Mayor Johnson, Gov. Pritzker \"should be in jail\"",
-      "original_title": "President Trump posts on Truth Social that Mayor Johnson, Gov. Pritzker \"should be in jail\" - CBS News",
-      "url": "https://www.cbsnews.com/chicago/news/president-trump-posts-johnson-pritzker-jail/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/07/e7e5f145-974a-4983-86dd-d92ca7965d3b/thumbnail/1200x630/4424cdb9120d7286d55c7196f19b517f/cbsn-fusion-trump-considers-invoking-insurrection-act-to-justify-sending-troops-to-oregon-thumbnail.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-08T13:05:59Z",
-      "description": "President Trump posts that Johnson, Pritzker \"should be in jail\""
+      "title": "Zach Bryan responds to backlash over song 'Bad News' amid claims it is anti-ICE",
+      "original_title": "Zach Bryan responds to backlash over song 'Bad News' amid claims it is anti-ICE - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/zach-bryan-responds-backlash-song-bad-news-claims-anti-ice-rcna236338",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251008-zach-bryan-rs-9e3812.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-08T14:53:11Z",
+      "description": "Country music star Zach Bryan responded Tuesday to criticism over his upcoming song \"Bad News\" amid claims that it is critical of ICE, explaining that it is about his love for the country and anyone w"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Former FBI director Comey pleads not guilty to federal charges of lying to Congress",
+      "original_title": "Former FBI director Comey pleads not guilty to federal charges of lying to Congress - NPR",
+      "url": "https://www.npr.org/2025/10/08/g-s1-92516/comey-arraignment-justice-department",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F18%2F52b473a54bbaacce32719b65209d%2Fgettyimages-2215980542.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-08T14:52:38Z",
+      "description": "The former FBI director, who has long been one of President Trump's most vocal critics, was indicted last month on two counts stemming from his testimony before the Senate Judiciary Committee in Septe"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Democrats largely stand behind Jay Jones after violent texts",
+      "original_title": "Democrats largely stand behind Jay Jones after violent texts - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/10/08/jay-jones-texts-democrats-violence-republicans/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FNPH4N4HMDO2WI366WLBFGR2ZU.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-08T14:33:51Z",
+      "description": "Amid concerns about political violence, some say the party risks looking hypocritical by sticking with the nominee for Virginia attorney general."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Senior U.S. negotiators join Gaza ceasefire talks as momentum builds",
+      "original_title": "Senior U.S. negotiators join Gaza ceasefire talks as momentum builds - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/10/08/us-israel-gaza-egypt-peace-talks/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLXMZRUWD6BGJLYUKGGJUQCYCM_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-08T14:26:48Z",
+      "description": "Steve Witkoff and Jared Kushner joined Gaza ceasefire talks in Egypt, signaling some hope for a breakthrough, though major sticking points remain."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Worried about splitting up the MMR vaccine into three separate shots? You should be, this doctor says",
+      "original_title": "Worried about splitting up the MMR vaccine into three separate shots? You should be, this doctor says - CNN",
+      "url": "https://www.cnn.com/2025/10/08/health/mmr-vaccine-split-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-02-27t191853z-344967874-rc233dacjkv1-rtrmadp-3-usa-health-measles-texas-20251007190403686.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-08T14:20:27Z",
+      "description": "While President Donald Trump is pushing to split the MMR vaccine into three shots, experts say there’s no scientific reason for it, and it could lead to lower vaccination rates."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "IMF chief warns of economic uncertainty and offers this advice: ‘Buckle up’",
+      "original_title": "IMF chief warns of economic uncertainty and offers this advice: ‘Buckle up’ - AP News",
+      "url": "https://apnews.com/article/imf-world-bank-economy-trump-gold-growth-c3de4975e9005cc9da5bbbe958657543",
+      "urlToImage": "https://dims.apnews.com/dims4/default/44a4fe4/2147483647/strip/true/crop/6000x3375+0+313/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F36%2F05%2F91628817cc17be99804c5ee8d8d9%2Fb2b00877343243da91d7019f79a1de11",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-08T14:09:00Z",
+      "description": "The global economy may be holding up better than expected despite major shocks such as President Donald Trump’s tariffs, but the head of the International Monetary Fund says that resilience may not la"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "More FAA staffing shortages as government shutdown enters 8th day",
+      "original_title": "More FAA staffing shortages as government shutdown enters 8th day - CNN",
+      "url": "https://www.cnn.com/2025/10/08/us/more-faa-staffing-shortages",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213276680-20251008122241045.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-08T13:43:52Z",
+      "description": "The Federal Aviation Administration is again reporting short staffing at air traffic control operations as the government shutdown enters its eighth day."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Google begins inviting users to try Gemini for Home",
+      "original_title": "Google begins inviting users to try Gemini for Home - Android Police",
+      "url": "https://www.androidpolice.com/google-begins-inviting-users-to-try-gemini-for-home/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/gemini-google-home-logo.jpg?w=1600&h=900&fit=crop",
+      "source": "Android Police",
+      "publishedAt": "2025-10-08T13:04:50Z",
+      "description": "Check your inbox!"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Katie Porter threatens to walk out of TV interview",
+      "original_title": "Katie Porter threatens to walk out of TV interview - Politico",
+      "url": "https://www.politico.com/news/2025/10/08/katie-porter-tv-interview-00597571",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F17%2Fc8%2Fa5e22ea74d3fa5eeb1d01168d960%2Fcalifornia-democrats-29255.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-08T13:00:00Z",
+      "description": "“I don't want to have an unhappy experience with you, and I don't want this all on camera,” Porter said to the reporter."
     },
     {
       "flag": "🌍",
@@ -44,6 +132,17 @@
       "source": "Yahoo Entertainment",
       "publishedAt": "2025-10-08T12:42:38Z",
       "description": "Dolly Parton's sister said the singer \"hasn't been feeling her best.\""
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Crunch day in French crisis as outgoing PM Lecornu tries to avert new elections",
+      "original_title": "Crunch day in French crisis as outgoing PM Lecornu tries to avert new elections - BBC",
+      "url": "https://www.bbc.com/news/articles/cj9zkzl21kmo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5724/live/0b88b620-a43b-11f0-b741-177e3e2c2fc7.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-08T12:04:43Z",
+      "description": "Sébastien Lecornu has been given until Wednesday evening to come up with a plan for the \"stability of the country\"."
     },
     {
       "flag": "🌍",
@@ -59,17 +158,6 @@
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Hundreds of Mount Everest hikers rescued from snowstorm, 10 remain",
-      "original_title": "Hundreds of Mount Everest hikers rescued from snowstorm, 10 remain - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/10/08/everest-hikers-trapped-blizzard/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6O5WNSK5WXF7Q43R4U2XZRG23Y.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-08T11:51:50Z",
-      "description": "Some 580 hikers and over 300 mountain guides, yak handlers or support staff were rescued, Chinese state media said, after heavy snows stranded them on Mount Everest."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
       "title": "‘Unusual’ new side effect of drugs like Ozempic becoming ‘increasingly common’",
       "original_title": "‘Unusual’ new side effect of drugs like Ozempic becoming ‘increasingly common’ - AOL.com",
       "url": "https://nypost.com/2025/10/07/health/new-unusual-side-effect-of-glp-1-drugs-like-ozempic-on-the-rise/",
@@ -77,28 +165,6 @@
       "source": "New York Post",
       "publishedAt": "2025-10-08T11:25:59Z",
       "description": "Experts warn the strange side effect could lead to delayed diagnoses and treatments, as well as unnecessary medical interventions."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Floating electrons on a sea of helium",
-      "original_title": "Floating electrons on a sea of helium - Ars Technica",
-      "url": "https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1397148346-2560x1440-1759878485.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-08T11:08:52Z",
-      "description": "Yes, it’s another potential qubit. But it’s also some very cool physics."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple Stores are using new MagSafe chargers with silicone rings for iPhone 17 demo units - 9to5Mac",
-      "original_title": "Apple Stores are using new MagSafe chargers with silicone rings for iPhone 17 demo units - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/08/apple-store-iphone-17-magsafe-silicone-scratch-wear/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-store-silicone-ring-iphone-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-10-08T11:04:00Z",
-      "description": "In the aftermath of the iPhone 17 launch, there was a bit of a ‘scratchgate’ controversy as customers noticed iPhone..."
     },
     {
       "flag": "🌍",
@@ -121,17 +187,6 @@
       "source": "Axios",
       "publishedAt": "2025-10-08T09:31:30Z",
       "description": "Investors are seeking to diversify from dollar-denominated assets."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Time may be running out for master of clocks Macron: What next for France?",
-      "original_title": "Time may be running out for master of clocks Macron: What next for France? - BBC",
-      "url": "https://www.bbc.com/news/articles/c0kn04453z8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4cbf/live/d73f4a40-a391-11f0-928c-71dbb8619e94.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T08:36:58Z",
-      "description": "After eight years in office, Emmanuel Macron's position as president is coming under increasing pressure as France's political crisis escalates."
     },
     {
       "flag": "🌍",
@@ -169,17 +224,6 @@
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Amazon October Prime Day 2025: The 150+ top deals to shop now",
-      "original_title": "Amazon October Prime Day 2025: The 150+ top deals to shop now - Mashable",
-      "url": "https://mashable.com/article/amazon-october-prime-day-deals-2025-day-2",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/060W35746X1EwZKhpsm9Nic/hero-image.fill.size_1200x675.v1759900176.png",
-      "source": "Mashable",
-      "publishedAt": "2025-10-08T08:15:00Z",
-      "description": "Some of our favorite products are at record-low prices, but you only have 24 hours to save."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
       "title": "Dumb Tesla news: \"affordable\" new Model Y costs $2,000 more than before",
       "original_title": "Dumb Tesla news: \"affordable\" new Model Y costs $2,000 more than before - Electrek",
       "url": "http://electrek.co/2025/10/07/dumb-tesla-news-affordable-new-model-y-costs-2000-more-than-before/",
@@ -187,17 +231,6 @@
       "source": "Electrek",
       "publishedAt": "2025-10-08T02:41:00Z",
       "description": "Tesla is making it easier than ever to make fun of them by rolling out a new, \"affordable\" Model Y that costs $2,000 more than before."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Dazzling supermoon illuminates skylines around the world",
-      "original_title": "Dazzling supermoon illuminates skylines around the world - BBC",
-      "url": "https://www.bbc.com/news/articles/cx2xzk1nd2eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cfaf/live/efe8af80-a3d9-11f0-bc95-1520d15cd340.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T02:17:19Z",
-      "description": "From Paris to Taipei, this week's supermoon - also known as the Harvest and Hunter's moon - captured in photos."
     },
     {
       "flag": "🌍",
@@ -222,59 +255,15 @@
       "description": "The images taken by two Mars orbiters show a bright, fuzzy white dot of the comet, also known as 3I/ATLAS, appearing to move against a backdrop of distant stars."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Federal workers erupt over latest White House threat to withhold their pay",
-      "original_title": "Federal workers erupt over latest White House threat to withhold their pay - Axios",
-      "url": "https://www.axios.com/2025/10/07/government-shutdown-federal-workers",
-      "urlToImage": "https://images.axios.com/4ZUDGW9zOj06USj8FiME8B9ktZM=/1366x768/smart/2025/04/23/160223-1745424143997.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-08T00:48:25Z",
-      "description": "750,000 federal employees are currently on furlough."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Supreme Court seems highly doubtful of limits on conversion therapy for minors",
-      "original_title": "Supreme Court seems highly doubtful of limits on conversion therapy for minors - NPR",
-      "url": "https://www.npr.org/2025/10/07/nx-s1-5563987/supreme-court-conversion-therapy-colorado",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5566x3131+0+290/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F41%2F8a37f5c8497296357e691e288121%2Fgettyimages-2157829281-20.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-07T23:31:44Z",
-      "description": "The court appeared ready to invalidate laws in some two dozen states that bar therapists from practicing a version of therapy that seeks to change a teenager's sexual orientation or gender identity."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Google’s latest AI model uses a web browser like you do",
-      "original_title": "Google’s latest AI model uses a web browser like you do - The Verge",
-      "url": "https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-07T22:43:33Z",
-      "description": "Google has released a new Gemini AI model to developers that’s designed to use a browser to navigate around and interact with web pages designed for people."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Acting CDC director says to break up MMR shot",
-      "original_title": "Acting CDC director says to break up MMR shot - The Hill",
-      "url": "https://thehill.com/newsletters/health-care/5544062-acting-cdc-director-says-to-break-up-mmr-shot/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/08/oneilljim_kennedyrobert_hhs_AP.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2025-10-07T22:42:00Z",
-      "description": "Click in for more news from The Hill {beacon} Health Care   The Big Story  Acting CDC director says to break up MMR shot  Deputy Health Secretary and acting CDC Director Jim O’Neill called for vaccine"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Flight delays spread amid controller staffing issues as shutdown drags on",
-      "original_title": "Flight delays spread amid controller staffing issues as shutdown drags on - Politico",
-      "url": "https://www.politico.com/news/2025/10/07/flight-delays-controller-staffing-shutdown-00596825",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbf%2F8b%2Fdcf3f917437d87367abbeb8cf16f%2Fgovernment-shutdown-85872.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-07T22:31:41Z",
-      "description": "Staffing-related delays were starting to show up at airports in Nashville and Chicago on Tuesday evening, with more expected."
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "‘Gemini 2.5 Computer Use’ model enters preview with strong web, Android performance - 9to5Google",
+      "original_title": "‘Gemini 2.5 Computer Use’ model enters preview with strong web, Android performance - 9to5Google",
+      "url": "http://9to5google.com/2025/10/07/gemini-2-5-computer-use-model/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Gemini-2.5-Computer-Use.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-07T20:26:00Z",
+      "description": "Google is now letting developers preview the Gemini 2.5 Computer Use model behind Project Mariner and agentic features in AI Mode."
     },
     {
       "flag": "🌍",
@@ -288,15 +277,26 @@
       "description": "LeBron James' new marketing campaign with Hennessy frustrated some fans and branding experts, but others say it effectively generated buzz."
     },
     {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Google hints at future new Nest Hub, ‘an incredible form factor’ for Gemini for Home - 9to5Google",
+      "original_title": "Google hints at future new Nest Hub, ‘an incredible form factor’ for Gemini for Home - 9to5Google",
+      "url": "http://9to5google.com/2025/10/07/google-nest-hub-new-model-teaser/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/Photo-frame-demo-Nest-Hub-2nd-Gen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-07T17:15:00Z",
+      "description": "Google has teased a future new Nest Hub, calling the form factor \"incredible\" for its Gemini for Home push."
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Primeval Star May Be the Most ‘Pristine’ Object Ever Discovered in the Universe",
-      "original_title": "Primeval Star May Be the Most ‘Pristine’ Object Ever Discovered in the Universe - Gizmodo",
-      "url": "https://gizmodo.com/primeval-star-may-be-the-most-pristine-object-ever-discovered-in-the-universe-2000668098",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/large-magellanic-cloud-wide-shot-1200x675.jpg",
-      "source": "Gizmodo.com",
-      "publishedAt": "2025-10-07T13:13:49Z",
-      "description": "Astronomers didn't think these kinds of stars still existed—until now."
+      "title": "Harvest supermoon photos: See the moon at its biggest and brightest in pictures from around the world",
+      "original_title": "Harvest supermoon photos: See the moon at its biggest and brightest in pictures from around the world - Live Science",
+      "url": "https://www.livescience.com/space/the-moon/harvest-supermoon-photos-see-the-moon-at-its-biggest-and-brightest-in-pictures-from-around-the-world",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LDsyXTzWE3E2gh9AUxBeDP-2560-80.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-10-07T16:03:07Z",
+      "description": "This year's full 'Harvest moon' was also a supermoon. Check out some of the best images of this lunar event with our worldwide gallery."
     },
     {
       "flag": "🌍",
@@ -308,6 +308,28 @@
       "source": "NPR",
       "publishedAt": "2025-10-07T11:41:03Z",
       "description": "Inspired by a military strategy to ward off disease-carrying mosquitoes, researchers see if the technique will help cut malaria infections in little ones."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "The Red Sea experienced 'one of the most extreme environmental events on Earth' 6 million years ago",
+      "original_title": "The Red Sea experienced 'one of the most extreme environmental events on Earth' 6 million years ago - Live Science",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/the-red-sea-experienced-one-of-the-most-extreme-environmental-events-on-earth-6-million-years-ago",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KFnb5xDdX5DBXUUzcUNnkh-1600-80.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-10-07T10:27:52Z",
+      "description": "The Red Sea became a desert about 6.2 million years ago, before a massive flood from the Indian Ocean turned it into a waterway again."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Alienware Has Black Friday Worthy Deals on Gaming PCs and Laptops Better than October Prime Day",
+      "original_title": "Alienware Has Black Friday Worthy Deals on Gaming PCs and Laptops Better than October Prime Day - IGN",
+      "url": "https://www.ign.com/articles/dell-alienware-deals-on-gaming-pcs-and-laptops-october-prime-day-2025",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/10/06/alienwareroundup-1759790744153.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "IGN",
+      "publishedAt": "2025-10-06T20:11:54Z",
+      "description": "Save on a new prebuilt desktop this October."
     }
   ]
 }
