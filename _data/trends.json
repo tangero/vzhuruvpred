@@ -1,8 +1,18 @@
 {
-  "updated": "2025-10-09T09:27:17.136004",
+  "updated": "2025-10-09T12:54:29.095922",
   "trends": [
     {
       "rank": 1,
+      "query": "ministr financí",
+      "news_title": "Mladší, vzdělanější, vyváženější. Podle čeho si Češi vykroužkovali Sněmovnu",
+      "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-mladsi-vzdelanejsi-vyvazenejsi-podle-ceho-si-cesi-vykrouzkovali-snemovnu-288460",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEBIgo9dRwbPmyj_X3bfxwxTRlcDgEeHOTSXCoceR-aVDl2JJutubBSGeP4vg",
+      "traffic": "500++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ministr financí&geo=CZ"
+    },
+    {
+      "rank": 2,
       "query": "sarah haváčová",
       "news_title": "Herečka Sarah Haváčová vstoupila do armády: Když jsem poprvé vypálila, ukápla mi slza",
       "news_url": "https://zeny.iprima.cz/herecka-sarah-havacova-vstoupila-do-armady-pri-prvnim-vystrelu-ukapla-slza-487868",
@@ -12,34 +22,24 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=sarah haváčová&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "sora",
-      "news_title": "Sora 2 is here",
-      "news_url": "https://openai.com/index/sora-2/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmU2MOJRGIagnU95GFIkK0yMc8Rika98J-Eye4msZ2yM7uKrzz23jLasbfhOs",
-      "traffic": "500++ hledání",
-      "source": "OpenAI",
-      "explore_url": "https://trends.google.cz/trends/explore?q=sora&geo=CZ"
-    },
-    {
       "rank": 3,
-      "query": "knihobot čelí bojkotu",
-      "news_title": "Česko versus Knihobot. Desítky lidí na sociálních sítích obvinily oblíbenou firmu z neférového jednání",
-      "news_url": "https://news.refresher.cz/191034-Cesko-versus-Knihobot-Desitky-lidi-na-socialnich-sitich-obvinily-oblibenou-firmu-z-neferoveho-jednani",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lKWBmQDswcqmaTW9w_NKmtdL_1q7lU7HEpymqPjPA1MUvIJYdwgOp_0QAvI",
-      "traffic": "500++ hledání",
-      "source": "REFRESHER.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=knihobot čelí bojkotu&geo=CZ"
+      "query": "msc meraviglia",
+      "news_title": "MSC Cruises to Replace MSC Virtuosa with MSC Meraviglia in U.K. From 2027",
+      "news_url": "https://www.cruisecritic.com/news/msc-cruises-replace-msc-virtuosa-msc-meraviglia-u-k-2027/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8XrgBOJ_4YuAFekGdEi0j1FmZZQzXnW2OK_vUTDgSHuHu5Om0cWq4qGnSia4",
+      "traffic": "200++ hledání",
+      "source": "Cruise Critic",
+      "explore_url": "https://trends.google.cz/trends/explore?q=msc meraviglia&geo=CZ"
     },
     {
       "rank": 4,
-      "query": "daniela brzobohatá",
-      "news_title": "Zrádci pod palbou vítězky Nicole Šáchové. Odhalila, kdo se ve hře nejvíc spálil",
-      "news_url": "https://www.stream.cz/outsider-a-insider/zradci-pod-palbou-vitezky-nicole-sachova-odhalila-kdo-se-ve-hre-nejvic-spalil-65365466",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0tinM0FmKTxmYrGpYlYOdVM_d94la4lqjyKImiYp67PLhzF579H1c-sCaUJ8",
-      "traffic": "500++ hledání",
-      "source": "Stream.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=daniela brzobohatá&geo=CZ"
+      "query": "lászló krasznahorkai",
+      "news_title": "Maďarský spisovatel Krasznahorkai dostal Nobelovu cenu za literaturu",
+      "news_url": "https://www.seznamzpravy.cz/clanek/kultura-nobelova-cena-za-literaturu-2025-288752",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ8WfyUJyDWQjwJz9cMhPIwi3qbJmQLPrZM_5ygqh7XBUrUV-anI8Bi9uOrfE",
+      "traffic": "200++ hledání",
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=lászló krasznahorkai&geo=CZ"
     },
     {
       "rank": 5,
@@ -54,32 +54,32 @@
     {
       "rank": 6,
       "query": "fermato",
-      "news_title": "Notte di paura a Mutigliano: uomo arrestato dopo aver aggredito moglie, figli e militari",
-      "news_url": "https://www.lanazione.it/lucca/cronaca/notte-di-paura-a-mutigliano-uomo-arrestato-dopo-aver-aggredito-moglie-figli-e-militari-2cd60b2f",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRS9ooFXe2wtYf67_nFUpQaHDfMm_sWUj-uDjresly-qdDoQ36ucJ7YJYmHZEo",
+      "news_title": "Ferno: 180kg di droga sul camion, sequestro e arresto",
+      "news_url": "https://www.rete55.it/notizie/cronaca/ferno-180kg-di-droga-sul-camion-sequestro-e-arresto/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAll64ZG9iigOoD6Xe0-rGNvaecTb3U_hiWg40nHsyvgIIxh6MwCYDX6TqZZ8",
       "traffic": "200++ hledání",
-      "source": "La Nazione",
+      "source": "Rete 55",
       "explore_url": "https://trends.google.cz/trends/explore?q=fermato&geo=CZ"
     },
     {
       "rank": 7,
-      "query": "ted bundy",
-      "news_title": "The One Famous Killer Ryan Murphy Won't Tackle In Netflix's Monster",
-      "news_url": "https://www.slashfilm.com/1986225/why-ryan-murphy-monster-wont-cover-ted-bundy-netflix/",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTroYvdIG2Lc7R0TblQkuhugfr7kppHPPLOfKvUEIArK87_nQL081ygGQUmVoA",
+      "query": "sora",
+      "news_title": "Sora 2 is here",
+      "news_url": "https://openai.com/index/sora-2/",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmU2MOJRGIagnU95GFIkK0yMc8Rika98J-Eye4msZ2yM7uKrzz23jLasbfhOs",
       "traffic": "200++ hledání",
-      "source": "SlashFilm",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ted bundy&geo=CZ"
+      "source": "OpenAI",
+      "explore_url": "https://trends.google.cz/trends/explore?q=sora&geo=CZ"
     },
     {
       "rank": 8,
-      "query": "meg ryan",
-      "news_title": "Meg Ryan po dlouhých měsících mezi lidmi: Ve flitrových šatech zatahovala bříško a pokusy o úsměv dopadly všelijak",
-      "news_url": "https://www.super.cz/clanek/celebrity-meg-ryan-po-dlouhych-mesicich-mezi-lidmi-ve-flitrovych-satech-zatahovala-brisko-a-pokusy-o-usmev-dopadly-vselijak-1518651",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUYK1b-lKh8USDjQJFsfrSV_MMT8Epf1uLnj7g9iqjvjnpG_i9DtxIP_mZibI",
-      "traffic": "100++ hledání",
-      "source": "Super.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=meg ryan&geo=CZ"
+      "query": "ted bundy",
+      "news_title": "Charlie Hunnam Reveals His Girlfriend Had One Rule About Him Playing Serial Killer Ed Gein",
+      "news_url": "https://www.eonline.com/news/1423426/charlie-hunnam-on-playing-ed-gein-in-monster",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHG-dJ-3tJcN_cgPDLwjwlsuxHf0dgHeocOro6Or2zBh7U0xuhvH6FfkjAn8",
+      "traffic": "200++ hledání",
+      "source": "E! News",
+      "explore_url": "https://trends.google.cz/trends/explore?q=ted bundy&geo=CZ"
     }
   ]
 }
