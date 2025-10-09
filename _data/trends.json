@@ -1,8 +1,28 @@
 {
-  "updated": "2025-10-09T15:36:14.448391",
+  "updated": "2025-10-09T18:36:01.944890",
   "trends": [
     {
       "rank": 1,
+      "query": "česko – chorvatsko",
+      "news_title": "ONLINE: Česko - Chorvatsko, v obraně Vitík i Zelený, v ofenzivě nastoupí trio ze Slavie",
+      "news_url": "https://www.idnes.cz/fotbal/reprezentace/ms-2026-kvalifikace-cesko-chorvatsko-online-zpravodajstvi.A251009_110948_fot_reprez_tals",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZXUdLVaFxKfyeEjYWKnYCQnyaNOHPJwfC5fs9NMoWJTFiAc9KsAuSEigwk0",
+      "traffic": "5000++ hledání",
+      "source": "iDNES.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=česko – chorvatsko&geo=CZ"
+    },
+    {
+      "rank": 2,
+      "query": "twitch",
+      "news_title": "Twitch streamer gives birth in front 29,000 viewers, and chat was unhinged",
+      "news_url": "https://www.polygon.com/twitch-birth-fandy-chat-livestream-baby-world-of-warcraft/",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREEsNgRQKmjY8Fp_E8RHrgIKDp880PEP3Yev7kd0bYXr9L0ceLiaJFR-hH3w8",
+      "traffic": "500++ hledání",
+      "source": "Polygon",
+      "explore_url": "https://trends.google.cz/trends/explore?q=twitch&geo=CZ"
+    },
+    {
+      "rank": 3,
       "query": "ministr financí",
       "news_title": "Mladší, vzdělanější, vyváženější. Podle čeho si Češi vykroužkovali Sněmovnu",
       "news_url": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-mladsi-vzdelanejsi-vyvazenejsi-podle-ceho-si-cesi-vykrouzkovali-snemovnu-288460",
@@ -12,17 +32,37 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=ministr financí&geo=CZ"
     },
     {
-      "rank": 2,
-      "query": "sarah haváčová",
-      "news_title": "Herečka Sarah Haváčová vstoupila do armády: Když jsem poprvé vypálila, ukápla mi slza",
-      "news_url": "https://zeny.iprima.cz/herecka-sarah-havacova-vstoupila-do-armady-pri-prvnim-vystrelu-ukapla-slza-487868",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs44p89nlM00gmoZz1TgyQzjrTbjcygtOF5IcgxmLFM2GRQ4OtV2ohA0ai-rk",
-      "traffic": "500++ hledání",
-      "source": "Prima Ženy",
-      "explore_url": "https://trends.google.cz/trends/explore?q=sarah haváčová&geo=CZ"
+      "rank": 4,
+      "query": "namibie",
+      "news_title": "Wildfires Ravage One of Africa’s Largest Nature Reserves",
+      "news_url": "https://www.bellingcat.com/news/2025/10/07/wildfires-ravage-one-of-africas-largest-nature-reserves/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEwnREC3Ho5HcntYyOjfcYtXKHB5Vr3eckqljsZdAGTtyP0neFYQLIEqr7ycM",
+      "traffic": "200++ hledání",
+      "source": "Bellingcat",
+      "explore_url": "https://trends.google.cz/trends/explore?q=namibie&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "query": "důchodový věk vrátíme",
+      "news_title": "Důchodový věk vrátíme, slibují strany skládající vládu. Mladí budou muset vydělat přes 100 miliard ročně navíc",
+      "news_url": "https://www.novinky.cz/clanek/ekonomika-duchodovy-vek-vratime-slibuji-strany-skladajici-vladu-mladi-budou-muset-vydelat-pres-100-miliard-rocne-navic-40542749",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQArXGO1tQj3bhICibg1MCPryGJe9Hg-NLh49OqInPwQvOcuReS8amTG4LL3io",
+      "traffic": "200++ hledání",
+      "source": "Novinky",
+      "explore_url": "https://trends.google.cz/trends/explore?q=důchodový věk vrátíme&geo=CZ"
+    },
+    {
+      "rank": 6,
+      "query": "atv",
+      "news_title": "Julian Fleming, former college football star, charged in death of girlfriend in ATV crash",
+      "news_url": "https://www.nbcnews.com/news/us-news/julian-fleming-former-college-football-star-charged-homicide-death-gir-rcna236637",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE6ffwD9Zp8dlfxUwavMXauM6MFXgDsSBnrETAlcx_Pl8DlOOukrnZU4NwNJA",
+      "traffic": "200++ hledání",
+      "source": "NBC News",
+      "explore_url": "https://trends.google.cz/trends/explore?q=atv&geo=CZ"
+    },
+    {
+      "rank": 7,
       "query": "msc meraviglia",
       "news_title": "MSC Cruises to Replace MSC Virtuosa with MSC Meraviglia in U.K. From 2027",
       "news_url": "https://www.cruisecritic.com/news/msc-cruises-replace-msc-virtuosa-msc-meraviglia-u-k-2027/",
@@ -32,7 +72,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=msc meraviglia&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "query": "lászló krasznahorkai",
       "news_title": "Síla umění uprostřed apokalypsy. Nobelovu cenu získal Krasznahorkai",
       "news_url": "https://www.seznamzpravy.cz/clanek/kultura-nobelova-cena-za-literaturu-2025-288752",
@@ -40,46 +80,6 @@
       "traffic": "200++ hledání",
       "source": "Seznam Zprávy",
       "explore_url": "https://trends.google.cz/trends/explore?q=lászló krasznahorkai&geo=CZ"
-    },
-    {
-      "rank": 5,
-      "query": "nhl",
-      "news_title": "NHL | Námět, scénář, režie: Pastrňák. I bostonský kouč byl paf z výkonu české hvězdy",
-      "news_url": "https://www.sport.cz/clanek/hokej-nhl-namet-scenar-rezie-pastrnak-i-bostonsky-kouc-byl-paf-z-vykonu-ceske-hvezdy-5312063",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBIFuxqbBvKBOO8SB89JSbD3JWjjpqZq0NgZ26_XhLS3r_ELlP4-GuiRnnbGY",
-      "traffic": "200++ hledání",
-      "source": "Sport.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=nhl&geo=CZ"
-    },
-    {
-      "rank": 6,
-      "query": "fermato",
-      "news_title": "Ferno: 180kg di droga sul camion, sequestro e arresto",
-      "news_url": "https://www.rete55.it/notizie/cronaca/ferno-180kg-di-droga-sul-camion-sequestro-e-arresto/",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAll64ZG9iigOoD6Xe0-rGNvaecTb3U_hiWg40nHsyvgIIxh6MwCYDX6TqZZ8",
-      "traffic": "200++ hledání",
-      "source": "Rete 55",
-      "explore_url": "https://trends.google.cz/trends/explore?q=fermato&geo=CZ"
-    },
-    {
-      "rank": 7,
-      "query": "sora",
-      "news_title": "What the Arrival of A.I. Video Generators Like Sora Means for Us",
-      "news_url": "https://www.nytimes.com/2025/10/09/technology/personaltech/sora-ai-video-impact.html",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHTaZwtkYY-aLc-jOF9vPEEkXgXtibsbxJlri8NlwGCQHw3jfNwj_xsmGUImQ",
-      "traffic": "200++ hledání",
-      "source": "The New York Times",
-      "explore_url": "https://trends.google.cz/trends/explore?q=sora&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "ted bundy",
-      "news_title": "Charlie Hunnam Reveals His Girlfriend Had One Rule About Him Playing Serial Killer Ed Gein",
-      "news_url": "https://www.eonline.com/news/1423426/charlie-hunnam-on-playing-ed-gein-in-monster",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHG-dJ-3tJcN_cgPDLwjwlsuxHf0dgHeocOro6Or2zBh7U0xuhvH6FfkjAn8",
-      "traffic": "200++ hledání",
-      "source": "E! Online",
-      "explore_url": "https://trends.google.cz/trends/explore?q=ted bundy&geo=CZ"
     }
   ]
 }
