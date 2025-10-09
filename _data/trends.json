@@ -1,18 +1,8 @@
 {
-  "updated": "2025-10-09T03:35:34.215117",
+  "updated": "2025-10-09T06:38:11.923187",
   "trends": [
     {
       "rank": 1,
-      "query": "veronika arichteva",
-      "news_title": "Tragédie herečky Veroniky Arichtevy: Přišla o miminko. Mám srdce na milion kousků, pláče",
-      "news_url": "https://cnn.iprima.cz/smutek-v-rodine-veroniky-arichteva-prisli-jsme-o-nase-miminko-sverila-se-herecka-488093",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yHLf6ypkMjZlYek10awWq58hVikH6Hc8SyK8toj3bs5AtSblCy9DKSpajVc",
-      "traffic": "10000++ hledání",
-      "source": "CNN Prima NEWS",
-      "explore_url": "https://trends.google.cz/trends/explore?q=veronika arichteva&geo=CZ"
-    },
-    {
-      "rank": 2,
       "query": "ocko",
       "news_title": "Po ztrátě dítěte už nechce být sama. Sympatická Mirka hledá lásku v Naked Attraction",
       "news_url": "https://www.idnes.cz/zpravy/revue/spolecnost/naked-attraction-mirka-monika-timkova-prvni-dil-naha-seznamka-ocko.A251007_131928_lidicky_nh",
@@ -22,7 +12,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=ocko&geo=CZ"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "query": "sarah haváčová",
       "news_title": "Herečka Sarah Haváčová vstoupila do armády: Když jsem poprvé vypálila, ukápla mi slza",
       "news_url": "https://zeny.iprima.cz/herecka-sarah-havacova-vstoupila-do-armady-pri-prvnim-vystrelu-ukapla-slza-487868",
@@ -32,7 +22,7 @@
       "explore_url": "https://trends.google.cz/trends/explore?q=sarah haváčová&geo=CZ"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "query": "sora",
       "news_title": "Sora 2 is here",
       "news_url": "https://openai.com/index/sora-2/",
@@ -40,6 +30,16 @@
       "traffic": "500++ hledání",
       "source": "OpenAI",
       "explore_url": "https://trends.google.cz/trends/explore?q=sora&geo=CZ"
+    },
+    {
+      "rank": 4,
+      "query": "knihobot čelí bojkotu",
+      "news_title": "Česko versus Knihobot. Desítky lidí na sociálních sítích obvinily oblíbenou firmu z neférového jednání",
+      "news_url": "https://news.refresher.cz/191034-Cesko-versus-Knihobot-Desitky-lidi-na-socialnich-sitich-obvinily-oblibenou-firmu-z-neferoveho-jednani",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lKWBmQDswcqmaTW9w_NKmtdL_1q7lU7HEpymqPjPA1MUvIJYdwgOp_0QAvI",
+      "traffic": "500++ hledání",
+      "source": "REFRESHER.cz",
+      "explore_url": "https://trends.google.cz/trends/explore?q=knihobot čelí bojkotu&geo=CZ"
     },
     {
       "rank": 5,
@@ -53,16 +53,26 @@
     },
     {
       "rank": 6,
-      "query": "fermato",
-      "news_title": "Notte di paura a Mutigliano: uomo arrestato dopo aver aggredito moglie, figli e militari",
-      "news_url": "https://www.lanazione.it/lucca/cronaca/notte-di-paura-a-mutigliano-uomo-arrestato-dopo-aver-aggredito-moglie-figli-e-militari-2cd60b2f",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRS9ooFXe2wtYf67_nFUpQaHDfMm_sWUj-uDjresly-qdDoQ36ucJ7YJYmHZEo",
+      "query": "nhl",
+      "news_title": "První zápas sezony a Pastrňák řádil. Boston je jeho, stává se z něj šéf",
+      "news_url": "https://www.seznamzpravy.cz/clanek/sport-hokej-prvni-zapas-a-pastrnak-radil-slavny-novinar-ho-vidi-jako-velkou-osobnost-288701",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXx8gWzdtveQLpRkzwJk6-38IQgPuh_iNWCrT7Q4vXxt4164HVspTx-owYJI",
       "traffic": "200++ hledání",
-      "source": "La Nazione",
-      "explore_url": "https://trends.google.cz/trends/explore?q=fermato&geo=CZ"
+      "source": "Seznam Zprávy",
+      "explore_url": "https://trends.google.cz/trends/explore?q=nhl&geo=CZ"
     },
     {
       "rank": 7,
+      "query": "fermato",
+      "news_title": "Scusaci, mostro",
+      "news_url": "https://www.ilfoglio.it/contro-mastro-ciliegia/2025/10/09/news/scusaci-mostro-8181623/",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcST_vHInWbtFNzuzJ-H7c-NCVfe3DZsp4v1h-q8PyC3uidDKMOqeFOsUh1RroU",
+      "traffic": "200++ hledání",
+      "source": "Il Foglio",
+      "explore_url": "https://trends.google.cz/trends/explore?q=fermato&geo=CZ"
+    },
+    {
+      "rank": 8,
       "query": "ted bundy",
       "news_title": "The One Famous Killer Ryan Murphy Won't Tackle In Netflix's Monster",
       "news_url": "https://www.slashfilm.com/1986225/why-ryan-murphy-monster-wont-cover-ted-bundy-netflix/",
@@ -70,16 +80,6 @@
       "traffic": "200++ hledání",
       "source": "SlashFilm",
       "explore_url": "https://trends.google.cz/trends/explore?q=ted bundy&geo=CZ"
-    },
-    {
-      "rank": 8,
-      "query": "knihobot čelí bojkotu",
-      "news_title": "Česko versus Knihobot. Desítky lidí na sociálních sítích obvinily oblíbenou firmu z neférového jednání",
-      "news_url": "https://news.refresher.cz/191034-Cesko-versus-Knihobot-Desitky-lidi-na-socialnich-sitich-obvinily-oblibenou-firmu-z-neferoveho-jednani",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lKWBmQDswcqmaTW9w_NKmtdL_1q7lU7HEpymqPjPA1MUvIJYdwgOp_0QAvI",
-      "traffic": "200++ hledání",
-      "source": "REFRESHER.cz",
-      "explore_url": "https://trends.google.cz/trends/explore?q=knihobot čelí bojkotu&geo=CZ"
     }
   ]
 }
