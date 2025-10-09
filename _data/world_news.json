@@ -1,6 +1,105 @@
 {
-  "last_updated": "2025-10-09T12:38:31",
+  "last_updated": "2025-10-09T13:29:15",
   "articles": [
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "James Comey updates: Ex-FBI director faces court",
+      "original_title": "James Comey updates: Ex-FBI director faces court - BBC",
+      "url": "https://www.bbc.com/news/live/cly14kplv02t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a821/live/1873be00-a2ee-11f0-92db-77261a15b9d2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-08T14:14:42Z",
+      "description": "He has been accused of making false statements to Congress in a 2020 testimony, but he says he is innocent."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq Open Up; Tesla, Oracle, Nvidia, Intel; Fed Minutes; Gold Price Record - Barron's",
+      "original_title": "Stock Market Today: Dow, S&P 500, Nasdaq Open Up; Tesla, Oracle, Nvidia, Intel; Fed Minutes; Gold Price Record - Barron's",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-100825",
+      "urlToImage": "https://images.barrons.com/im-783602/social",
+      "source": "Barron's",
+      "publishedAt": "2025-10-08T13:43:00Z",
+      "description": "The Dow, S&P 500, and Nasdaq are rising as the stock market awaits minutes from the Federal Reserve's last monetary policy meeting for clues about its forward path on interest rates."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "President Trump posts on Truth Social that Mayor Johnson, Gov. Pritzker \"should be in jail\"",
+      "original_title": "President Trump posts on Truth Social that Mayor Johnson, Gov. Pritzker \"should be in jail\" - CBS News",
+      "url": "https://www.cbsnews.com/chicago/news/president-trump-posts-johnson-pritzker-jail/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/07/e7e5f145-974a-4983-86dd-d92ca7965d3b/thumbnail/1200x630/4424cdb9120d7286d55c7196f19b517f/cbsn-fusion-trump-considers-invoking-insurrection-act-to-justify-sending-troops-to-oregon-thumbnail.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-08T13:05:59Z",
+      "description": "President Trump posts that Johnson, Pritzker \"should be in jail\""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dolly Parton's sister shares new statement after asking for prayers for singer's health: 'I didn't mean to scare anyone'",
+      "original_title": "Dolly Parton's sister shares new statement after asking for prayers for singer's health: 'I didn't mean to scare anyone' - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/article/dolly-partons-sister-shares-new-statement-after-asking-for-prayers-for-singers-health-i-didnt-mean-to-scare-anyone-213416821.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t00wpa2fpJY2IncHBO4rZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/thumb-dolly-parton-sick.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-08T12:42:38Z",
+      "description": "Dolly Parton's sister said the singer \"hasn't been feeling her best.\""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "The 250 Greatest Songs of the 21st Century So Far - rollingstone.com",
+      "original_title": "The 250 Greatest Songs of the 21st Century So Far - rollingstone.com",
+      "url": "http://www.rollingstone.com/music/music-lists/best-songs-of-the-21st-century-1235410452/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/RS-250-Songs-FINAL-1800x1200-12Sec.00_00_00_05.Still001.jpg?w=1600&h=900&crop=1",
+      "source": "Rolling Stone",
+      "publishedAt": "2025-10-08T11:53:16Z",
+      "description": "The 250 greatest songs of the 21st century so far -- from all over the musical map and every corner of the globe"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Hundreds of Mount Everest hikers rescued from snowstorm, 10 remain",
+      "original_title": "Hundreds of Mount Everest hikers rescued from snowstorm, 10 remain - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/10/08/everest-hikers-trapped-blizzard/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6O5WNSK5WXF7Q43R4U2XZRG23Y.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-08T11:51:50Z",
+      "description": "Some 580 hikers and over 300 mountain guides, yak handlers or support staff were rescued, Chinese state media said, after heavy snows stranded them on Mount Everest."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "‘Unusual’ new side effect of drugs like Ozempic becoming ‘increasingly common’",
+      "original_title": "‘Unusual’ new side effect of drugs like Ozempic becoming ‘increasingly common’ - AOL.com",
+      "url": "https://nypost.com/2025/10/07/health/new-unusual-side-effect-of-glp-1-drugs-like-ozempic-on-the-rise/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-tfwoycgkl-1759856263009.jpg?quality=75&strip=all&1759845473&w=1024",
+      "source": "New York Post",
+      "publishedAt": "2025-10-08T11:25:59Z",
+      "description": "Experts warn the strange side effect could lead to delayed diagnoses and treatments, as well as unnecessary medical interventions."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Floating electrons on a sea of helium",
+      "original_title": "Floating electrons on a sea of helium - Ars Technica",
+      "url": "https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1397148346-2560x1440-1759878485.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-08T11:08:52Z",
+      "description": "Yes, it’s another potential qubit. But it’s also some very cool physics."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple Stores are using new MagSafe chargers with silicone rings for iPhone 17 demo units - 9to5Mac",
+      "original_title": "Apple Stores are using new MagSafe chargers with silicone rings for iPhone 17 demo units - 9to5Mac",
+      "url": "https://9to5mac.com/2025/10/08/apple-store-iphone-17-magsafe-silicone-scratch-wear/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-store-silicone-ring-iphone-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-10-08T11:04:00Z",
+      "description": "In the aftermath of the iPhone 17 launch, there was a bit of a ‘scratchgate’ controversy as customers noticed iPhone..."
+    },
     {
       "flag": "🌍",
       "country": "global",
@@ -13,15 +112,15 @@
       "description": "Even as the White House insists the president is on firm legal ground in sending troops to Oregon, the president has floated invoking the Insurrection Act."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Chemistry Nobel awarded to three scientists for their work on metal organic frameworks",
-      "original_title": "Chemistry Nobel awarded to three scientists for their work on metal organic frameworks - BBC",
-      "url": "https://www.bbc.com/news/articles/c0r0l742kpjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6ed1/live/b8c53f60-a432-11f0-928c-71dbb8619e94.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T09:52:38Z",
-      "description": "The winners of the prestigious science prize was announced by the Nobel committee in Sweden."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Gold's rally signals investors' eroding trust in the U.S.",
+      "original_title": "Gold's rally signals investors' eroding trust in the U.S. - Axios",
+      "url": "https://www.axios.com/2025/10/08/gold-dollar-rally-trade",
+      "urlToImage": "https://images.axios.com/4ihRR4ShCFf7EogT9bxU5_TeB9Q=/0x0:1600x900/1366x768/2025/10/07/1759872198801.png",
+      "source": "Axios",
+      "publishedAt": "2025-10-08T09:31:30Z",
+      "description": "Investors are seeking to diversify from dollar-denominated assets."
     },
     {
       "flag": "🇬🇧",
@@ -37,68 +136,57 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hundreds of hikers rescued from Mount Everest after severe snowstorm",
-      "original_title": "Hundreds of hikers rescued from Mount Everest after severe snowstorm - NPR",
-      "url": "https://www.npr.org/2025/10/08/g-s1-92435/hikers-rescued-from-mount-everest",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2523x1419+0+131/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F5c%2F27dbf7e84dd18939c9355e538111%2Fap25279300109863.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-08T05:02:59Z",
-      "description": "About 900 hikers, guides and other staff who were stranded by a weekend snowstorm on the Chinese side of Mount Everest have reached safety, state media said late Tuesday."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Kushner and Trump envoy arrive in Egypt for crucial negotiations on Gaza deal",
-      "original_title": "Kushner and Trump envoy arrive in Egypt for crucial negotiations on Gaza deal - Axios",
-      "url": "https://www.axios.com/2025/10/08/trump-kushner-witkoff-egypt-gaza-ceasefire-talks-israel-hamas",
-      "urlToImage": "https://images.axios.com/KjvWxVRmL0CA7lASmNBLpOSOMeA=/0x0:3840x2160/1366x768/2025/10/08/1759896614412.jpeg",
-      "source": "Axios",
-      "publishedAt": "2025-10-08T04:45:44Z",
-      "description": "Trump and his team are pushing hard for both Israel and Hamas to conclude their negotiations within days and reach a deal."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "‘Dump Here’ fan who caught Cal Raleigh’s HR ball ‘in shock’ over lucky grab",
-      "original_title": "‘Dump Here’ fan who caught Cal Raleigh’s HR ball ‘in shock’ over lucky grab - The Seattle Times",
-      "url": "https://www.seattletimes.com/sports/mariners/dump-here-fan-who-caught-cal-raleighs-hr-ball-in-shock-over-lucky-grab/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/10/10072025_tzr_tzr_194600.jpg?d=1200x630",
-      "source": "The Seattle Times",
-      "publishedAt": "2025-10-08T04:15:45Z",
-      "description": "A lucky Mariners fan wearing a fitting \"DUMP HERE 61\" shirt in a sea of orange caught Cal Raleigh's home-run ball Tuesday. Then he got to meet the Big Dumper himself."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Dolly Parton's sister asks fans to pray for country singer",
-      "original_title": "Dolly Parton's sister asks fans to pray for country singer - BBC",
-      "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T03:07:22Z",
-      "description": "The message comes a week after the 79-year-old musician postponed gigs due to health issues."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump-backed Van Epps and Democrat Behn win Tennessee primaries for US House special election",
-      "original_title": "Trump-backed Van Epps and Democrat Behn win Tennessee primaries for US House special election - AP News",
-      "url": "https://apnews.com/article/tennessee-congress-special-election-district-7-2025-da192cf9ef69d86fab781246a772d2ae",
-      "urlToImage": "https://dims.apnews.com/dims4/default/024e48a/2147483647/strip/true/crop/6299x3543+0+328/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F58%2F5f%2F83370113b5668fd4154b3d7c0631%2Fe3c8df6bd5bf44689cde35c013c18b93",
+      "title": "Captain clutch: Aaron Judge does it all and rescues Yankees with 'amazing swing' against Blue Jays",
+      "original_title": "Captain clutch: Aaron Judge does it all and rescues Yankees with 'amazing swing' against Blue Jays - AP News",
+      "url": "https://apnews.com/article/aaron-judge-yankees-blue-jays-mlb-playoffs-a6eae77aa2b4687db226e00318e00e9e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e59becd/2147483647/strip/true/crop/5199x2924+0+273/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2F64%2Fe8fac6b4746391cf99be8fca609f%2F26ee21a431694e99965e44b990b8177f",
       "source": "Associated Press",
-      "publishedAt": "2025-10-08T03:05:00Z",
-      "description": "Matt Van Epps, a former commissioner in Tennessee Gov. Bill Lee’s administration, has won a crowded Republican primary in the special election to replace a GOP congressman who left office this summer."
+      "publishedAt": "2025-10-08T08:30:00Z",
+      "description": "When the New York Yankees needed someone to save them Tuesday night, Aaron Judge practically put on a cape. Captain clutch, indeed. In a do-it-all performance for the ages, Judge hit a tying homer and"
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Gold surges past record $4,000 an ounce as uncertainty fuels rally",
-      "original_title": "Gold surges past record $4,000 an ounce as uncertainty fuels rally - BBC",
-      "url": "https://www.bbc.com/news/articles/c8ex3wgjlexo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bf57/live/95f02230-a3eb-11f0-90de-cfdf69951f7c.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T02:59:25Z",
-      "description": "Analysts point to delays in the reporting of economic data due to the US government shutdown as one reason for the rise."
+      "flag": "🌍",
+      "country": "global",
+      "title": "The CDC’s most recent updates on COVID-19 vaccinations",
+      "original_title": "The CDC’s most recent updates on COVID-19 vaccinations - WTOP",
+      "url": "https://wtop.com/local/2025/10/getting-covid-19-shots-what-recent-cdc-updates/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2024/09/Be_Well-Fall-Vaccines_08163-scaled.jpg",
+      "source": "WTOP",
+      "publishedAt": "2025-10-08T08:23:57Z",
+      "description": "The most recent recommendations from the CDC on COVID-19 vaccines call for “vaccination based on shared clinical decision-making.”"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "The Draconid meteor shower peaks tonight: Here's what to expect",
+      "original_title": "The Draconid meteor shower peaks tonight: Here's what to expect - Space",
+      "url": "https://www.space.com/stargazing/meteor-showers/draconid-meteor-shower-peaks-tonight-heres-what-to-expect-oct-8-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PWGy9qCQ6hafuVZyhxEpzT-1552-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-10-08T08:21:10Z",
+      "description": "The Draconid meteor shower peaks on Oct. 8, as a waning gibbous moon graces the night sky."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Amazon October Prime Day 2025: The 150+ top deals to shop now",
+      "original_title": "Amazon October Prime Day 2025: The 150+ top deals to shop now - Mashable",
+      "url": "https://mashable.com/article/amazon-october-prime-day-deals-2025-day-2",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/060W35746X1EwZKhpsm9Nic/hero-image.fill.size_1200x675.v1759900176.png",
+      "source": "Mashable",
+      "publishedAt": "2025-10-08T08:15:00Z",
+      "description": "Some of our favorite products are at record-low prices, but you only have 24 hours to save."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Dumb Tesla news: \"affordable\" new Model Y costs $2,000 more than before",
+      "original_title": "Dumb Tesla news: \"affordable\" new Model Y costs $2,000 more than before - Electrek",
+      "url": "http://electrek.co/2025/10/07/dumb-tesla-news-affordable-new-model-y-costs-2000-more-than-before/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/10/cheaper-tesla_2k-more.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "Electrek",
+      "publishedAt": "2025-10-08T02:41:00Z",
+      "description": "Tesla is making it easier than ever to make fun of them by rolling out a new, \"affordable\" Model Y that costs $2,000 more than before."
     },
     {
       "flag": "🇬🇧",
@@ -114,35 +202,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‘Dancing With The Stars’ Week 4 Ends With Another Shocking Elimination",
-      "original_title": "‘Dancing With The Stars’ Week 4 Ends With Another Shocking Elimination - Deadline",
-      "url": "http://deadline.com/2025/10/dancing-with-the-stars-week-4-recap-who-went-home-1236572683/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/179417_ST_8264.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-08T02:00:00Z",
-      "description": "'Dancing With The Stars' Week 4 Ends With Another Shocking Elimination"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Homeland Security Sec. Kristi Noem visits ICE facility at center of Portland protests - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Homeland Security Sec. Kristi Noem visits ICE facility at center of Portland protests - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/kristi-noem-portland-ice-facility/story?id\\\\u003d126312341",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-08T01:38:30Z",
-      "description": ""
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Photos: Texas National Guard troops arrive in Chicago area for Trump crackdown",
-      "original_title": "Photos: Texas National Guard troops arrive in Chicago area for Trump crackdown - Axios",
-      "url": "https://www.axios.com/2025/10/08/texas-national-guard-troops-chicago-trump-photos",
-      "urlToImage": "https://images.axios.com/x0QE9tooPFvrI_NMP0LsKw1MO-0=/0x0:1920x1080/1366x768/2025/10/08/1759884878843.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-08T01:21:47Z",
-      "description": "Despite Illinois suing the Trump administration, the National Guard arrived near Chicago today."
+      "title": "Trump-backed Matt Van Epps wins GOP primary in Tennessee House race",
+      "original_title": "Trump-backed Matt Van Epps wins GOP primary in Tennessee House race - CBS News",
+      "url": "https://www.cbsnews.com/news/matt-van-epps-trump-tennessee-gop-house-primary-aftyn-behn/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/08/1184e911-c7dd-4322-b6f2-1948a2bad557/thumbnail/1200x630/c2564d88a95719583864d1b61680c7e1/ap25281061198340.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-08T02:01:00Z",
+      "description": "Matt Van Epps has won a crowded Republican primary in a Tennessee special House election, after securing President Trump's endorsement."
     },
     {
       "flag": "🌍",
@@ -158,13 +224,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Spot gold prices hit $4,000 for the first time as global uncertainty fuels safe-haven demand",
-      "original_title": "Spot gold prices hit $4,000 for the first time as global uncertainty fuels safe-haven demand - CNBC",
-      "url": "https://www.cnbc.com/2025/10/08/asia-pacific-markets-wednesday-nikkei-225-hang-seng-index.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181441-1754354295438-gettyimages-962144676-hkk_16_dsc04380.jpeg?v=1754354376&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-07T23:51:04Z",
-      "description": "Mainland China and South Korean markets are closed for the holidays."
+      "title": "Federal workers erupt over latest White House threat to withhold their pay",
+      "original_title": "Federal workers erupt over latest White House threat to withhold their pay - Axios",
+      "url": "https://www.axios.com/2025/10/07/government-shutdown-federal-workers",
+      "urlToImage": "https://images.axios.com/4ZUDGW9zOj06USj8FiME8B9ktZM=/1366x768/smart/2025/04/23/160223-1745424143997.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-10-08T00:48:25Z",
+      "description": "750,000 federal employees are currently on furlough."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Supreme Court seems highly doubtful of limits on conversion therapy for minors",
+      "original_title": "Supreme Court seems highly doubtful of limits on conversion therapy for minors - NPR",
+      "url": "https://www.npr.org/2025/10/07/nx-s1-5563987/supreme-court-conversion-therapy-colorado",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5566x3131+0+290/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F41%2F8a37f5c8497296357e691e288121%2Fgettyimages-2157829281-20.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-07T23:31:44Z",
+      "description": "The court appeared ready to invalidate laws in some two dozen states that bar therapists from practicing a version of therapy that seeks to change a teenager's sexual orientation or gender identity."
     },
     {
       "flag": "🌍",
@@ -191,90 +268,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "United States Department of Homeland Security Responds to Anti-ICE Lyrics in Zach Bryan Song Snippet",
-      "original_title": "United States Department of Homeland Security Responds to Anti-ICE Lyrics in Zach Bryan Song Snippet - Pitchfork",
-      "url": "https://pitchfork.com/news/united-states-department-of-homeland-security-responds-to-anti-ice-lyrics-in-zach-bryan-song-snippet/",
-      "urlToImage": "https://media.pitchfork.com/photos/68e589b5b03947d1084d7929/16:9/w_1280,c_limit/Zach-Bryan.jpeg",
-      "source": "Pitchfork",
-      "publishedAt": "2025-10-07T22:31:25Z",
-      "description": "DHS assistant secretary of public affairs Tricia McLaughlin told Bryan that he should “stick to ‘Pink Skies,’” referencing a song from his last album"
+      "title": "Flight delays spread amid controller staffing issues as shutdown drags on",
+      "original_title": "Flight delays spread amid controller staffing issues as shutdown drags on - Politico",
+      "url": "https://www.politico.com/news/2025/10/07/flight-delays-controller-staffing-shutdown-00596825",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbf%2F8b%2Fdcf3f917437d87367abbeb8cf16f%2Fgovernment-shutdown-85872.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-07T22:31:41Z",
+      "description": "Staffing-related delays were starting to show up at airports in Nashville and Chicago on Tuesday evening, with more expected."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Government shutdown live updates as dispute emerges over back pay for furloughed workers",
-      "original_title": "Government shutdown live updates as dispute emerges over back pay for furloughed workers - CBS News",
-      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-senate-vote-trump-air-traffic-controllers/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/07/45c0809e-86e2-4076-9cf0-43ce611d2e93/thumbnail/1200x630/1ca7a464f57b842b4d4d25f73343dbbb/gettyimages-2239326130.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-07T22:15:00Z",
-      "description": "The 2025 government shutdown entered its seventh day on Tuesday as both sides remained locked in their positions, with no sign of relenting. Follow live updates here."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "The next Apple Watch activity challenge is all about looking inward - 9to5Mac",
-      "original_title": "The next Apple Watch activity challenge is all about looking inward - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/07/apple-watch-activity-challenge-october-2025/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-mindfulness-activity-challenge.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-10-07T21:29:00Z",
-      "description": "And if you collect Apple Watch activity challenge trophies and stickers, mark your calendar for this Friday, October 10."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "After RFK Jr.’s shenanigans, COVID shot access will be a lot like last year",
-      "original_title": "After RFK Jr.’s shenanigans, COVID shot access will be a lot like last year - Ars Technica",
-      "url": "https://arstechnica.com/health/2025/10/after-rfk-jr-s-shenanigans-covid-shot-access-will-be-a-lot-like-last-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2168151364-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-07T21:24:57Z",
-      "description": "Most people can get vaccinated at their local pharmacy like normal."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Pamela Bondi stonewalls Democrats at DOJ oversight hearing",
-      "original_title": "Pamela Bondi stonewalls Democrats at DOJ oversight hearing - Roll Call",
-      "url": "https://rollcall.com/2025/10/07/pamela-bondi-stonewalls-democrats-at-doj-oversight-hearing/",
-      "urlToImage": "https://rollcall.com/app/uploads/2025/10/bondi_BC_017_100725.jpg",
-      "source": "Roll Call",
-      "publishedAt": "2025-10-07T19:24:17Z",
-      "description": "Attorney General Pamela Bondi repeatedly declined to answer questions from Democratic senators during a Senate oversight hearing Tuesday."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tesla reveals its long-awaited more affordable models: the $36,990 Model 3 Standard and $39,990 Model Y Standard",
-      "original_title": "Tesla reveals its long-awaited more affordable models: the $36,990 Model 3 Standard and $39,990 Model Y Standard - Business Insider",
-      "url": "https://www.businessinsider.com/tesla-model-y-3-standard-price-release-date-2025-10",
-      "urlToImage": "https://i.insider.com/68e568015dbc4fd10daa5e0c?width=1200&format=jpeg",
+      "title": "LeBron James' Hennessy ad stunt generates buzz, but raises eyebrows among branding experts",
+      "original_title": "LeBron James' Hennessy ad stunt generates buzz, but raises eyebrows among branding experts - Business Insider",
+      "url": "https://www.businessinsider.com/lebron-james-hennessy-ad-stunt-buzz-fan-frustration-brand-experts-2025-10",
+      "urlToImage": "https://i.insider.com/68e56c695dbc4fd10daa5eb0?width=1080&format=jpeg",
       "source": "Business Insider",
-      "publishedAt": "2025-10-07T18:40:00Z",
-      "description": "On Tuesday, the EV giant unveiled the long-awaited budget-friendly version of the Model Y, along with a cheaper Model 3."
+      "publishedAt": "2025-10-07T20:19:00Z",
+      "description": "LeBron James' new marketing campaign with Hennessy frustrated some fans and branding experts, but others say it effectively generated buzz."
     },
     {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "UFS 5.0 storage promises to be twice as fast for AI’s sake, hopefully enticing Google Pixel - 9to5Google",
-      "original_title": "UFS 5.0 storage promises to be twice as fast for AI’s sake, hopefully enticing Google Pixel - 9to5Google",
-      "url": "http://9to5google.com/2025/10/07/ufs-5-0-speed-improvement/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-Pro-XL-in-Moonstone-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5google.com",
-      "publishedAt": "2025-10-07T14:40:00Z",
-      "description": "UFS 5.0 has been announced and its key improvement is storage that's twice as fast for AI's sake, which will hopefully entice Google Pixel."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Galaxy Z Flip 7 and Fold 7 just got their biggest discounts yet in the USA",
-      "original_title": "Galaxy Z Flip 7 and Fold 7 just got their biggest discounts yet in the USA - SamMobile",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-7-biggest-discounts-in-the-usa/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/07/Galaxy-Z-Flip-7-and-Fold-7-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2025-10-07T13:25:00Z",
-      "description": "Samsung USA has launched what might be the best Galaxy Z Flip 7 and Galaxy Z Fold 7 deals to date. Not only can you save a good chunk of cash without a trade-in, but you can also buy the phones with a"
+      "flag": "🌍",
+      "country": "global",
+      "title": "Primeval Star May Be the Most ‘Pristine’ Object Ever Discovered in the Universe",
+      "original_title": "Primeval Star May Be the Most ‘Pristine’ Object Ever Discovered in the Universe - Gizmodo",
+      "url": "https://gizmodo.com/primeval-star-may-be-the-most-pristine-object-ever-discovered-in-the-universe-2000668098",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/large-magellanic-cloud-wide-shot-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-10-07T13:13:49Z",
+      "description": "Astronomers didn't think these kinds of stars still existed—until now."
     },
     {
       "flag": "🌍",
@@ -286,39 +308,6 @@
       "source": "NPR",
       "publishedAt": "2025-10-07T11:41:03Z",
       "description": "Inspired by a military strategy to ward off disease-carrying mosquitoes, researchers see if the technique will help cut malaria infections in little ones."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Both diet and regular sodas are linked to liver disease, new study finds",
-      "original_title": "Both diet and regular sodas are linked to liver disease, new study finds - Medical News Today",
-      "url": "https://www.medicalnewstoday.com/articles/diet-and-regular-sodas-are-linked-to-liver-disease",
-      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/10/drink-cans-liver-disease-risk-1200-628-facebook.jpg",
-      "source": "Medical News Today",
-      "publishedAt": "2025-10-07T10:52:57Z",
-      "description": "Both sugar-sweetened beverages and low or non-sugar-sweetened beverages were linked to an increased risk for metabolic dysfunction-associated steatotic liver disease (MASLD), in a new study."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "The Red Sea experienced 'one of the most extreme environmental events on Earth' 6 million years ago",
-      "original_title": "The Red Sea experienced 'one of the most extreme environmental events on Earth' 6 million years ago - Live Science",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/the-red-sea-experienced-one-of-the-most-extreme-environmental-events-on-earth-6-million-years-ago",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KFnb5xDdX5DBXUUzcUNnkh-1600-80.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-10-07T10:27:52Z",
-      "description": "The Red Sea became a desert about 6.2 million years ago, before a massive flood from the Indian Ocean turned it into a waterway again."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea (video)",
-      "original_title": "SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea (video) - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-10-59-asog",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qpBJCvyVtYtXtzWijo93Mg-2000-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-07T06:57:43Z",
-      "description": "It was SpaceX's 130th launch of the year already."
     }
   ]
 }
