@@ -1,49 +1,82 @@
 {
-  "last_updated": "2025-10-10T22:15:59",
+  "last_updated": "2025-10-10T23:15:35",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "China Moves to Limit Rare Earth Exports. These Mining Stocks Are Gaining. - Barron's",
-      "original_title": "China Moves to Limit Rare Earth Exports. These Mining Stocks Are Gaining. - Barron's",
-      "url": "https://www.barrons.com/articles/china-rare-earth-exports-mining-stocks-0aae3682",
+      "title": "Judge temporarily blocks National Guard deployment in Illinois amid Chicago, Portland hearings - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Judge temporarily blocks National Guard deployment in Illinois amid Chicago, Portland hearings - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/trumps-national-guard-faces-critical-legal-tests/story?id\\\\u003d126354650",
       "urlToImage": null,
-      "source": "Barron's",
-      "publishedAt": "2025-10-09T20:17:00Z",
+      "source": "ABC News",
+      "publishedAt": "2025-10-09T22:52:30Z",
       "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Interstellar Object 3I/ATLAS May Be A 10-Billion-Year-Old Time Capsule From An Earlier Age Of The Universe",
-      "original_title": "Interstellar Object 3I/ATLAS May Be A 10-Billion-Year-Old Time Capsule From An Earlier Age Of The Universe - IFLScience",
-      "url": "https://www.iflscience.com/interstellar-object-3iatlas-may-be-a-10-billion-year-old-time-capsule-from-an-earlier-age-of-the-universe-81077",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/81077/aImg/86857/3i-atlas-meta.png",
-      "source": "IFLScience",
-      "publishedAt": "2025-10-09T19:34:42Z",
-      "description": "3I/ATLAS may not have had a close encounter in 10 million years, before it approached our Solar System."
+      "title": "Trump’s trade war has India hugging Britain close - politico.eu",
+      "original_title": "Trump’s trade war has India hugging Britain close - politico.eu",
+      "url": "https://www.politico.eu/article/donald-trump-trade-war-india-britain-tariffs-keir-starmer-narendra-modi/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-2240063717-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-10-09T19:33:45Z",
+      "description": "The U.S. president’s second stint in office is   binding the two countries together — and prompting London to look the other way on contentious issues."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Shedeur Sanders Reveals Message to Dillon Gabriel After He Became Browns' Starter",
+      "original_title": "Shedeur Sanders Reveals Message to Dillon Gabriel After He Became Browns' Starter - Sports Illustrated",
+      "url": "https://www.si.com/nfl/shedeur-sanders-reveals-message-dillon-gabriel-after-he-became-browns-starter-quarterback",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3742,h_2104,x_0,y_100/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k755xzzd1g4m9mwv7n.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-10-09T19:31:27Z",
+      "description": "Shedeur Sanders shares what he said to Dillon Gabriel after he became the Browns' starter."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "RFK Jr.’s new shocking autism theory leaves internet in disbelief",
+      "original_title": "RFK Jr.’s new shocking autism theory leaves internet in disbelief - AL.com",
+      "url": "https://www.al.com/politics/2025/10/rfk-jrs-new-shocking-autism-theory-leaves-internet-in-disbelief.html",
+      "urlToImage": "https://www.al.com/resizer/v2/YMRFFI3UNBFKNNQFM3SM5UVXJ4.jpg?auth=f6f2ae833542639906391d3285e7989979812d39bee967e41db04504e3cf57d2&width=1280&smart=true&quality=90",
+      "source": "AL.com",
+      "publishedAt": "2025-10-09T19:23:00Z",
+      "description": "Kennedy’s latest theory left critics scratching their heads."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Tesla hit with probe after crashes involving a self-driving feature that Musk has boasted about",
+      "original_title": "Tesla hit with probe after crashes involving a self-driving feature that Musk has boasted about - AP News",
+      "url": "https://apnews.com/article/tesla-full-selfdriving-investigation-nhtsa-1f7fe4da8df2abfa03341c30a0f1b8b5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/9ac3a3a/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F8d%2Fa623c19997c684b66e238c4269be%2F4ac4cd5f4eeb4a1d9e44c14ee8655b47",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-09T19:21:00Z",
+      "description": "Federal regulators have opened yet another investigation into Tesla’s so-called full-self driving technology after dozens of incidents in which the electric vehicle maker’s cars ran red lights or drov"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "3 arrested in suspected terror plot targeting Belgian PM Bart De Wever - politico.eu",
+      "original_title": "3 arrested in suspected terror plot targeting Belgian PM Bart De Wever - politico.eu",
+      "url": "https://www.politico.eu/article/belgium-terror-plot-prime-minister-bart-de-wever-crime/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-2230608763-scaled.jpg",
+      "source": "POLITICO.eu",
+      "publishedAt": "2025-10-09T18:55:00Z",
+      "description": "Federal investigators are probing evidence of plans to use a drone to deploy an explosive device."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages",
-      "original_title": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/10/09/israel-hamas-gaza-deal-ceasefire-live/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GITDWFAI4ZPZMEIJXWDEPY5E3E.JPG&w=1440",
+      "title": "Katie Porter’s bid for governor is getting noticed – but not how she wants",
+      "original_title": "Katie Porter’s bid for governor is getting noticed – but not how she wants - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/10/09/katie-porter-california-governor-viral-videos/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S3RW4XQ4EWC2IIDMBGV3WZ7DUE_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-10-09T18:48:11Z",
-      "description": "The ceasefire deal’s initial phase, if implemented, would halt fighting in Gaza to release hostages in exchange for Israel’s release of Palestinian prisoners."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Democrats give Trump credit for Gaza deal but stop short of backing GOP calls to award him Nobel Peace Prize",
-      "original_title": "Democrats give Trump credit for Gaza deal but stop short of backing GOP calls to award him Nobel Peace Prize - CNN",
-      "url": "https://www.cnn.com/2025/10/09/politics/democrats-credit-trump-gaza-deal-nobel-peace-prize",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-10-09t173247z-8000957-rc2h8har4x5y-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-09T18:42:58Z",
-      "description": "Democratic senators on Thursday gave some credit to President Donald Trump for brokering phase one of a ceasefire deal between Israel and Hamas but warned of potential challenges in enacting the plan."
+      "publishedAt": "2025-10-09T18:41:33Z",
+      "description": "Two viral videos have brought unwelcome attention to the former congresswoman, who has been leading polls in the 2026 California governor’s race."
     },
     {
       "flag": "🇺🇸",
@@ -68,17 +101,6 @@
       "description": "Here’s some good news to go along with Michael De Luca and Pam Abdy’s reup as Warner Bros Motion Picture Chairs: A Minecraft Movie 2 is in the work at Warner Bros with Jared Hess returning to direct t"
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Rubik’s Cube gets a $299 update, complete with IPS screens and its own apps",
-      "original_title": "Rubik’s Cube gets a $299 update, complete with IPS screens and its own apps - Ars Technica",
-      "url": "https://arstechnica.com/culture/2025/10/rubiks-cube-reimagined-as-a-multi-game-multi-screened-gadget-for-299/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_5476-1152x648-1760030724.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-09T18:10:18Z",
-      "description": "The Rubik’s WOWCube is a 2×2 cube with modern twists."
-    },
-    {
       "flag": "🇬🇧",
       "country": "gb",
       "title": "Naked mole rats reveal genetic secret to long life",
@@ -92,13 +114,46 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pressuring Democrats, Johnson rules out standalone troop pay bill",
-      "original_title": "Pressuring Democrats, Johnson rules out standalone troop pay bill - Politico",
-      "url": "https://www.politico.com/live-updates/2025/10/09/congress/mike-johnson-rules-out-troop-pay-bill-00599885",
-      "urlToImage": "https://www.politico.com/dims4/default/18185ed/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ffd%2F29%2F140a051749a98c62ea2f03de8f58%2Fu-s-congress-34035.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-09T16:57:14Z",
-      "description": "The speaker told GOP lawmakers on a Thursday call that the House has already done its job."
+      "title": "Delta’s bet on wealthy Americans driving the economy is working: Premium seats are set to overtake main cabin for the first time in history",
+      "original_title": "Delta’s bet on wealthy Americans driving the economy is working: Premium seats are set to overtake main cabin for the first time in history - Fortune",
+      "url": "https://fortune.com/2025/10/09/delta-earnings-premium-seat-surpass-main-cabin-wealthy-americans-economy/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2234065531.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-10-09T17:21:25Z",
+      "description": "Premium is on track to overtake main cabin in 2026, a year ahead of schedule, per the third-quarter earnings call from America’s most profitable airline."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Boston nor'easter weather forecast calls for strong wind gusts, heavy rain for part of holiday weekend",
+      "original_title": "Boston nor'easter weather forecast calls for strong wind gusts, heavy rain for part of holiday weekend - CBS News",
+      "url": "https://www.cbsnews.com/boston/news/boston-noreaster-weather-maps-weekend/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/09/7be3ad10-d9ea-43e4-857d-9109375c9bde/thumbnail/1200x630/108317f81be35877f42327e82d7421e1/sun-radar-nor.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-09T17:16:37Z",
+      "description": "A nor'easter is set to hit Boston on the holiday weekend. Maps show the latest weather forecast."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Comet 3I/ATLAS is losing water 'like a fire hose' on full blast, 'rewriting what we thought we knew' about alien star systems",
+      "original_title": "Comet 3I/ATLAS is losing water 'like a fire hose' on full blast, 'rewriting what we thought we knew' about alien star systems - Live Science",
+      "url": "https://www.livescience.com/space/comets/comet-3i-atlas-is-losing-water-like-a-fire-hose-on-full-blast-rewriting-what-we-thought-we-knew-about-alien-star-systems",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UEr7tQDntYC9ZzFG2trbY7-1920-80.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-10-09T17:13:10Z",
+      "description": "Researchers have discovered that interstellar comet 3I/ATLAS has been shedding water, providing insights into the building blocks of life outside of our solar system and the evolution of interstellar "
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Column | I tracked Amazon’s Prime Day prices. We’ve been played.",
+      "original_title": "Column | I tracked Amazon’s Prime Day prices. We’ve been played. - The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZJWTJ5NQLJCANBFAC7G2YETX4I.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-09T17:00:00Z",
+      "description": "Here’s what you should do to actually get a good deal on Amazon."
     },
     {
       "flag": "🌍",
@@ -114,46 +169,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Delta Predicts Premium Seat Sales to Overtake Economy as Soon as 2026",
-      "original_title": "Delta Predicts Premium Seat Sales to Overtake Economy as Soon as 2026 - The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/delta-earnings-q3-2025-dal-stock-10e1ace7",
-      "urlToImage": null,
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-09T16:43:00Z",
-      "description": ""
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Robert Roberson: Texas court blocks execution of death row inmate in shaken baby case",
-      "original_title": "Robert Roberson: Texas court blocks execution of death row inmate in shaken baby case - BBC",
-      "url": "https://www.bbc.com/news/articles/cn4lexk7wn7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/abc2/live/cb2fc6f0-a52e-11f0-bf56-21413d90bb1e.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-09T16:41:31Z",
-      "description": "Robert Roberson's execution is halted under the state's  \"junk science\" law that allows courts to re-examine convictions based on outdated science."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "What to know about the Nobel Peace Prize",
-      "original_title": "What to know about the Nobel Peace Prize - NPR",
-      "url": "https://www.npr.org/2025/10/09/nx-s1-5567786/nobel-peace-prize-explained",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7535x4238+0+392/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F20%2F4dae2161455abf52494616a23c9d%2Fgettyimages-2173737057.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-09T16:17:08Z",
-      "description": "Anticipation is growing and bookies around the world are taking bets on who'll be awarded this year's Nobel Peace Prize. Here is what to know ahead of the award announcement this week."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Schumer Taunts Americans as Democrat Shutdown Crushes Them - The White House (.gov)",
-      "original_title": "Schumer Taunts Americans as Democrat Shutdown Crushes Them - The White House (.gov)",
-      "url": "https://www.whitehouse.gov/articles/2025/10/schumer-taunts-americans-as-democrat-shutdown-crushes-them/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/10/schumer.jpg",
-      "source": "Whitehouse.gov",
-      "publishedAt": "2025-10-09T16:01:09Z",
-      "description": "Chuck Schumer’s disgusting claim that “every day gets better“ is a sickening display of elitist indifference as the Democrat Shutdown plunges hardworking"
+      "title": "Aziz Ansari Defends Riyadh Comedy Festival Participation During ‘Jimmy Kimmel Live!’ Interview",
+      "original_title": "Aziz Ansari Defends Riyadh Comedy Festival Participation During ‘Jimmy Kimmel Live!’ Interview - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/aziz-ansari-riyadh-comedy-festival-jimmy-kimmel-live-1236396832/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2234088884.jpg?crop=0px%2C90px%2C1298px%2C726px&resize=1440%2C810",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-09T16:00:20Z",
+      "description": "The ‘Good Fortune’ director stopped by Kimmel’s show where he opened up on Saudi Arabia: “To me, a comedy festival felt like something that’s pushing things to be more open and to push a dialogue.”"
     },
     {
       "flag": "🇬🇧",
@@ -167,15 +189,26 @@
       "description": "A French court increases by a year the jail term of the only man who challenged his conviction for raping Gisèle Pelicot."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Federal court to weigh Trump’s deployment of National Guard troops in Chicago area",
-      "original_title": "Federal court to weigh Trump’s deployment of National Guard troops in Chicago area - AP News",
-      "url": "https://apnews.com/article/national-guard-trump-chicago-portland-court-b5d227814d775159eb9c3814779b3ae3",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d615aa9/2147483647/strip/true/crop/3000x1688+0+157/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2Fb4%2F1e28a0484f205850deb72811c393%2Fd28352dfb49b4a9d86e9b68519b2031f",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-09T15:22:00Z",
-      "description": "The state of Illinois is urging a judge to order the National Guard to stand down in the Chicago area. The state calls the deployment a constitutional crisis and suggests that President Donald Trump's"
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Motorola’s ultra-thin answer to Apple and Samsung doesn’t skip a beat on battery [Gallery] - 9to5Google",
+      "original_title": "Motorola’s ultra-thin answer to Apple and Samsung doesn’t skip a beat on battery [Gallery] - 9to5Google",
+      "url": "http://9to5google.com/2025/10/09/motorola-edge-70-battery-specs-leaked/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Motorola-Edge-70-leak-battery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5google.com",
+      "publishedAt": "2025-10-09T15:29:00Z",
+      "description": "Every phone manufacturer wants to make a thin phone now, and one of the most experienced ones is showing exactly..."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Israeli cabinet to vote on Gaza deal that would bring ceasefire and hostages' release - live updates",
+      "original_title": "Israeli cabinet to vote on Gaza deal that would bring ceasefire and hostages' release - live updates - BBC",
+      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b590/live/f9c2d140-a526-11f0-94a8-5d6a26920553.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-09T14:38:01Z",
+      "description": "Donald Trump says the Israeli hostages could be released on \"Monday or Tuesday\", and that the process is complicated: \"They are in places you don't want to be.\""
     },
     {
       "flag": "🌍",
@@ -191,17 +224,6 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Blue Jays’ Bullpen Masterclass Ends Yankees’ Season",
-      "original_title": "Blue Jays’ Bullpen Masterclass Ends Yankees’ Season - Sports Illustrated",
-      "url": "https://www.si.com/mlb/blue-jays-bullpen-masterclass-ends-yankees-season",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2320,h_1305,x_0,y_144/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01k74hwwgwjc6bkqs9fx.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-10-09T13:23:58Z",
-      "description": "Blue Jays move on to ALCS."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics",
       "original_title": "Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics - The Verge",
       "url": "https://www.theverge.com/report/797146/intel-panther-lake-core-series-3-architecture-platform-feature-reveal",
@@ -209,17 +231,6 @@
       "source": "The Verge",
       "publishedAt": "2025-10-09T13:00:00Z",
       "description": "Intel’s Panther Lake, built on its 18A process, is the foundation of its next Intel Core Ultra Series 3 laptop chips. Here’s what we know."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "The Arch Manning Experience vs. the Arch Manning–Industrial Complex",
-      "original_title": "The Arch Manning Experience vs. the Arch Manning–Industrial Complex - The Ringer",
-      "url": "https://www.theringer.com/2025/10/09/college-football/arch-manning-texas-longhorns-struggles-college-football-recruiting",
-      "urlToImage": "https://wp.theringer.com/wp-content/uploads/2025/10/cropped-archmanning_getty_ringere-scaled-1.jpg",
-      "source": "The Ringer",
-      "publishedAt": "2025-10-09T12:38:43Z",
-      "description": "What do Manning’s struggles this season tell us about him as a player—and the system that hailed him as the next big thing?"
     },
     {
       "flag": "🌍",
@@ -235,28 +246,6 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Nobel Prize for Literature awarded to Hungarian writer László Krasznahorkai",
-      "original_title": "Nobel Prize for Literature awarded to Hungarian writer László Krasznahorkai - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/10/9/nobel-prize-for-literature-awarded",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/AP25282275715095-1-1760009039.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-10-09T11:07:22Z",
-      "description": "Krasznahorkai, 71, was recognised for his ‘compelling and visionary oeuvre’."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Colombia's president says boat struck by US was carrying Colombians",
-      "original_title": "Colombia's president says boat struck by US was carrying Colombians - BBC",
-      "url": "https://www.bbc.com/news/articles/c89dz920p0do",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e9fb/live/fcd1f390-a506-11f0-b748-37792a239250.png",
-      "source": "BBC News",
-      "publishedAt": "2025-10-09T09:13:13Z",
-      "description": "The White House calls the allegation \"baseless\" as the US Senate rejected a measure to bar Trump from using force against the boats."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "Bird flu cases are spiking again after a summer respite",
       "original_title": "Bird flu cases are spiking again after a summer respite - NBC News",
       "url": "https://www.nbcnews.com/science/science-news/bird-flu-cases-spiking-rcna235519",
@@ -266,59 +255,37 @@
       "description": "Bird flu cases are rising earlier than expected as wild birds migrate. That could make for a challenging autumn, but it's too early to say whether egg prices will go up."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "A man in China lived more than 170 days after transplant with pig liver, doctors report",
-      "original_title": "A man in China lived more than 170 days after transplant with pig liver, doctors report - CNN",
-      "url": "https://www.cnn.com/2025/10/09/health/pig-liver-transplant-china",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/group-photo.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-09T04:01:52Z",
-      "description": "Doctors in China say they transplanted a genetically modified pig liver into a 71-year-old man who lived 171 days after the procedure, and 38 of those days were with the pig organ in place – a first t"
+      "flag": "🌍",
+      "country": "global",
+      "title": "Drinking Diet Soda May Raise Your Liver Disease Risk by Up to 60%, New Study Says",
+      "original_title": "Drinking Diet Soda May Raise Your Liver Disease Risk by Up to 60%, New Study Says - EatingWell",
+      "url": "https://www.eatingwell.com/is-diet-soda-bad-for-your-liver-study-11826944",
+      "urlToImage": "https://www.eatingwell.com/thmb/QAXqoMEyvrmt4VzUr6alO_1vVNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sodas-Even-Diet-Ones-May-Raise-Your-Liver-Disease-Risk-New-Study-Suggests-41e405603ca14c8e9f73a8dc655114ce.jpg",
+      "source": "Eatingwell.com",
+      "publishedAt": "2025-10-08T21:41:47Z",
+      "description": "Both sugary and diet sodas may raise the risk of liver disease. Learn how your drink choices impact your health and why water is the safest option."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "S&P 500 futures are little changed after benchmark rises to all-time high: Live updates",
-      "original_title": "S&P 500 futures are little changed after benchmark rises to all-time high: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2025/10/08/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209356-1759934708494-Traders-Photo-20251007-KK-PRESS-008.jpg?v=1759934831&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-08T23:37:00Z",
-      "description": "The S&P 500 and Nasdaq Composite finished Wedneday's session at records."
+      "title": "Amazon customers are disturbed by new Ring camera feature",
+      "original_title": "Amazon customers are disturbed by new Ring camera feature - TheStreet",
+      "url": "https://www.thestreet.com/retail/amazon-customers-are-disturbed-by-new-ring-camera-feature",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE4MzAzNDE1Nzk5Nzg1MzA4/amazons-fall-product-event-1.jpg",
+      "source": "TheStreet",
+      "publishedAt": "2025-10-08T12:07:00Z",
+      "description": "Amazon recently unveiled an upcoming change to Ring devices, which is making customers uncomfortable."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "NCDHHS reports first flu-related death of 2025-2026 season in western NC",
-      "original_title": "NCDHHS reports first flu-related death of 2025-2026 season in western NC - WLOS",
-      "url": "https://wlos.com/news/local/first-flu-related-death-ncdhhs-adult-reports-2025-2026-season-western-nc-north-carolina-wnc-virus-illness-department-health-human-services-covid-19-rsv",
-      "urlToImage": "https://wlos.com/resources/media/6543f783-20ca-4a35-bc4c-21d687e31b3e-large16x9_AP19108763545202.jpg?1555689010951",
-      "source": "WLOS",
-      "publishedAt": "2025-10-08T20:30:46Z",
-      "description": "On Oct. 8, the North Carolina Department of Health and Human Services announced the first flu-related death of the 2025-2026 flu season, an adult in WNC."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Dust devils reveal surprising raging winds on Mars",
-      "original_title": "Dust devils reveal surprising raging winds on Mars - CNN",
-      "url": "https://www.cnn.com/2025/10/08/science/martian-dust-devils-orbital-images",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/my36-017977-189-0-rgbwpan-browse-site1.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-08T18:55:14Z",
-      "description": "Whirling dust devils and winds on Mars can move at an unexpected 99 miles per hour. The dust they send into the atmosphere could affect future missions."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes",
-      "original_title": "Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/features/2025-10-08/google-pixel-10-pro-fold-pixel-watch-4-review-new-ai-tricks-familiar-designs",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW5T4Uyqrd_g/v1/1200x800.jpg",
-      "source": "Bloomberg",
-      "publishedAt": "2025-10-08T17:00:07Z",
-      "description": "After releasing a trio of Pixel 10 smartphones this summer, Alphabet Inc.’s Google is back with the remainder of its 2025 Pixel lineup."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Spectacular sight for harvest supermoon hunters in South West",
+      "original_title": "Spectacular sight for harvest supermoon hunters in South West - BBC",
+      "url": "https://www.bbc.com/news/articles/c4gz1ql3j83o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be80/live/a214d510-a418-11f0-8a6a-83594c206e97.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-08T10:59:15Z",
+      "description": "Appearing especially bright and large, supermoons occur when the moon is closest to Earth."
     }
   ]
 }
