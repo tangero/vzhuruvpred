@@ -1,49 +1,38 @@
 {
-  "last_updated": "2025-10-10T02:59:58",
+  "last_updated": "2025-10-10T04:21:30",
   "articles": [
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan",
-      "original_title": "Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan - BBC",
-      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/058f/live/0f190400-a497-11f0-928c-71dbb8619e94.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-09T00:43:29Z",
-      "description": "Israel agreed to withdraw troops and all Israeli hostages will be released, the US president says, although timings remain unclear."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Gaza peace deal reached, hostages to be freed",
+      "original_title": "Gaza peace deal reached, hostages to be freed - Axios",
+      "url": "https://www.axios.com/2025/10/08/gaza-deal-trump-announce-war-over",
+      "urlToImage": "https://images.axios.com/ykSpG-bhALlB48oGVXCj5biArDc=/0x0:5808x3267/1366x768/2025/10/08/1759960962704.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-10-09T01:56:03Z",
+      "description": "The announcement comes two years after Oct. 7, with 67,000 Palestinians killed."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Trump receives urgent note from Rubio on Mideast peace deal during antifa roundtable",
-      "original_title": "Trump receives urgent note from Rubio on Mideast peace deal during antifa roundtable - AP News",
-      "url": "https://apnews.com/article/trump-rubio-note-middle-east-peace-f570658c65daefab6d0af9b29e851dd7",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a0f0055/2147483647/strip/true/crop/4134x2325+0+215/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F5d%2F7eda3110153fc998ecc2a0105a9f%2Fb7c3f8dcc7f340488cd3a76bb5c6fa03",
+      "title": "Katie Porter’s viral videos plunge campaign into ‘disaster’",
+      "original_title": "Katie Porter’s viral videos plunge campaign into ‘disaster’ - Politico",
+      "url": "https://www.politico.com/news/2025/10/08/katie-porter-viral-videos-campaign-disaster-00599452",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffd%2F57%2Fee3e0a14472b931ef1ff073cf307%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1241179247",
+      "source": "Politico",
+      "publishedAt": "2025-10-09T01:31:38Z",
+      "description": "“Is this a disaster? Yes,” a veteran Sacramento strategist concluded."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dolly Parton responds to concerns about her health: ‘I’m not dying’",
+      "original_title": "Dolly Parton responds to concerns about her health: ‘I’m not dying’ - AP News",
+      "url": "https://apnews.com/article/dolly-parton-health-scare-87029f4aee369c1c756ff22df2361726",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1cf1e3b/2147483647/strip/true/crop/4470x2514+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2Fe2%2Fcde7d9ac2f8d1d2804cd403f4d13%2F501027d30f71414396690f5f3e590359",
       "source": "Associated Press",
-      "publishedAt": "2025-10-09T00:34:00Z",
-      "description": "Secretary of State Marco Rubio passed President Donald Trump a note during a White House event, hinting that a Mideast peace deal was close. An AP photographer in the room zoomed in on the handwriting"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "We found the 123 best Prime Day-level sales during Amazon’s Prime Big Deal Days",
-      "original_title": "We found the 123 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2025-10-08",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-08T22:40:00Z",
-      "description": "Amazon’s October Prime Day event ends tonight. We found 123 of the best deals that are worth shopping during the final hours of the sale."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump says Chicago mayor, Illinois governor should be jailed for response to ICE",
-      "original_title": "Trump says Chicago mayor, Illinois governor should be jailed for response to ICE - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/10/08/trump-chicago-jail-johnson-pritzker/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PMEKKXOV5VLKMPBNGT4VO2QNU.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-08T22:37:58Z",
-      "description": "Trump, providing no evidence, said Brandon Johnson and JB Pritzker should go to jail, accusing the two Democrats of “failing to protect” immigration agents."
+      "publishedAt": "2025-10-08T23:23:00Z",
+      "description": "Dolly Parton says not to worry, she “ain't dead yet.\" That's what the country superstar shared in a video on social media Wednesday following public speculation about her health. Late last month Parto"
     },
     {
       "flag": "🌍",
@@ -55,6 +44,28 @@
       "source": "Variety",
       "publishedAt": "2025-10-08T22:34:00Z",
       "description": "Jimmy Kimmel pressed Aziz Ansari on performing at the controversial Riyadh Comedy Festival, calling the Saudi government a 'brutal regime.'"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "How escaped New Orleans inmate Derrick Groves was captured after 5 months",
+      "original_title": "How escaped New Orleans inmate Derrick Groves was captured after 5 months - CBS News",
+      "url": "https://www.cbsnews.com/news/how-new-orleans-inmate-derrick-groves-captured-after-5-months-marshals/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/08/19336607-f6ce-4cf7-9a32-ac7d0b9df679/thumbnail/1200x630/fd6f3ce0b77d377833ddb1aae7653b65/derrick-groves-copy.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-08T21:44:00Z",
+      "description": "The last of 10 inmates who escaped a New Orleans jail in mid-May was captured Wednesday, after a tip led law enforcement to an Atlanta home."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Appeals court lifts order on Portland National Guard, deployment still blocked - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Appeals court lifts order on Portland National Guard, deployment still blocked - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/appeals-court-lifts-order-portland-national-guard-deployment/story?id\\\\u003d126345146",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-08T21:33:45Z",
+      "description": ""
     },
     {
       "flag": "🇺🇸",
@@ -79,26 +90,48 @@
       "description": "Central bank says market concentration hasn’t been this extreme in 50 years."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "UNC exploring potential Bill Belichick ‘exit strategy’ as ‘weird’ rumors surface",
-      "original_title": "UNC exploring potential Bill Belichick ‘exit strategy’ as ‘weird’ rumors surface - New York Post",
-      "url": "https://nypost.com/2025/10/08/sports/unc-exploring-potential-bill-belichick-exit-strategy-as-weird-rumors-surface/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-r5binilux-1759959305504.jpg?quality=75&strip=all&1759944953&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-10-08T21:16:00Z",
-      "description": "Bill Belichick’s days in Chapel Hill may already be numbered."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Fed Officials Discussed Risk of Housing Market Collapse at Recent Meeting to Cut Interest Rates",
+      "original_title": "Fed Officials Discussed Risk of Housing Market Collapse at Recent Meeting to Cut Interest Rates - Realtor.com",
+      "url": "https://www.realtor.com/news/trends/fed-fomc-meeting-minutes-september-2025/",
+      "urlToImage": null,
+      "source": "Realtor.com News",
+      "publishedAt": "2025-10-08T21:11:26Z",
+      "description": ""
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Macron will nominate new French prime minister in 48 hours",
+      "original_title": "Macron will nominate new French prime minister in 48 hours - BBC",
+      "url": "https://www.bbc.com/news/articles/cj6xjpee1xjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c717/live/89beaff0-a480-11f0-892d-8503a9b17f9b.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-08T20:50:17Z",
+      "description": "Sébastien Lecornu, the outgoing prime minister, said MPs recognise the pressing need to pass a budget by the end of the year."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "IRS tells employees furlough backpay guaranteed, while WH counters in memo",
-      "original_title": "IRS tells employees furlough backpay guaranteed, while WH counters in memo - Axios",
-      "url": "https://www.axios.com/2025/10/08/trump-furlough-government-shutdown-back-pay-irs",
-      "urlToImage": "https://images.axios.com/IK_fLtNRh6U148m9SFHBV9JWx0c=/0x143:4000x2393/1366x768/2025/10/08/1759950994636.jpg",
-      "source": "Axios",
-      "publishedAt": "2025-10-08T19:57:12Z",
-      "description": "That comes after Axios reported on a White House memo saying workers weren't guaranteed compensation."
+      "title": "Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters",
+      "original_title": "Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters - CBS News",
+      "url": "https://www.cbsnews.com/news/pope-leo-trump-immigration-crackdown-migrant-letters/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/08/71ace047-b034-46e6-8e9a-816bcb9e696f/thumbnail/1200x630/686be22e08222003ed4118d0d1d94b6d/gettyimages-2239387965.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-08T20:31:00Z",
+      "description": "A Texas bishop showed Pope Leo XIV a packet of letters from immigrant families \"terrorized\" by fear that they and their loved ones will be rounded up and deported."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "What are your holiday shopping plans? NPR wants to hear from you",
+      "original_title": "What are your holiday shopping plans? NPR wants to hear from you - NPR",
+      "url": "https://www.npr.org/2025/10/08/nx-s1-5566783/holiday-shopping-black-friday-christmas-gifts",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Ffc%2F1ec9aa9b4b7ea6848192e6198c0a%2Fgettyimages-2186822529.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-08T19:45:12Z",
+      "description": "Is this the season of cutbacks or splurges? As we prepare to cover holiday shopping and deals, NPR wants to hear from you, whatever your plans may be."
     },
     {
       "flag": "🌍",
@@ -114,46 +147,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Vance heads to Indiana after Republicans warn White House of stalled redistricting push",
-      "original_title": "Vance heads to Indiana after Republicans warn White House of stalled redistricting push - Politico",
-      "url": "https://www.politico.com/news/2025/10/08/vance-indiana-redistricting-00598104",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F50%2Fd0%2F528c499a48cebce9fbab643f2ff8%2Fwhite-house-92528.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-08T18:56:23Z",
-      "description": "It marks the vice president's second trip to the Hoosier State over the remapping effort."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Florida man arrested, charged with ‘maliciously starting’ catastrophic L.A. Palisades Fire",
-      "original_title": "Florida man arrested, charged with ‘maliciously starting’ catastrophic L.A. Palisades Fire - San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/california-wildfires/article/palisades-fire-arrest-made-federal-investigation-21090699.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/47/35/46/27122094/3/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-10-08T18:56:15Z",
-      "description": "Jonathan Rinderknecht, 29, was arrested in connection with starting a fire on Jan. 1, 2025, that turned into the deadly Palisades Fire."
+      "title": "Nicole Kidman hinted at Keith Urban separation before it was made public",
+      "original_title": "Nicole Kidman hinted at Keith Urban separation before it was made public - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/article/nicole-kidman-hinted-at-keith-urban-separation-before-it-was-made-public-190244145.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/4WZDOOaQSCprXUGRlPCbdQ--~B/aD02MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/xGettyImages-2239223060.jpg",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-08T19:02:44Z",
+      "description": "While chatting with Vogue for its November issue, Kidman spoke about the unpredictability of life — and how suddenly things can change."
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Dust devils reveal surprising raging winds on Mars",
-      "original_title": "Dust devils reveal surprising raging winds on Mars - CNN",
-      "url": "https://www.cnn.com/2025/10/08/science/martian-dust-devils-orbital-images",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/my36-017977-189-0-rgbwpan-browse-site1.jpg?c=16x9&q=w_800,c_fill",
+      "title": "Israel assesses Hamas may not be able to return all remaining dead hostages, sources say",
+      "original_title": "Israel assesses Hamas may not be able to return all remaining dead hostages, sources say - CNN",
+      "url": "https://www.cnn.com/2025/10/08/middleeast/israel-hamas-dead-hostages-return-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239183946.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2025-10-08T18:55:14Z",
-      "description": "Whirling dust devils and winds on Mars can move at an unexpected 99 miles per hour. The dust they send into the atmosphere could affect future missions."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Last of 10 New Orleans escapees captured after nearly 5 months following standoff with Atlanta police",
-      "original_title": "Last of 10 New Orleans escapees captured after nearly 5 months following standoff with Atlanta police - CNN",
-      "url": "https://www.cnn.com/2025/10/08/us/derrick-groves-new-orleans-inmate-atlanta",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/derrick-groves.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-08T18:20:14Z",
-      "description": "Derrick Groves, the last of 10 prisoners who had been on the run since escaping jail in New Orleans nearly five months ago, has been captured at a residence in Atlanta, according to the US Marshals."
+      "publishedAt": "2025-10-08T17:14:24Z",
+      "description": "Israel assesses that Hamas may not be able to find and return all the remaining dead hostages in Gaza, according to three Israeli sources, a fact that may complicate efforts to reach a deal to end the"
     },
     {
       "flag": "🌍",
@@ -180,6 +191,28 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Portland Protesters Don Animal Costumes To Mock Trump Administration's ‘War Zone’ Claims",
+      "original_title": "Portland Protesters Don Animal Costumes To Mock Trump Administration's ‘War Zone’ Claims - The New York Sun",
+      "url": "https://www.nysun.com/article/portland-protesters-don-animal-costumes-to-mock-trump-administrations-war-zone-claims",
+      "urlToImage": "https://wp.nysun.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-08-at-12.37.14-PM.png?w=1200&h=630&fit=fill&fm=jpg&fl=progressive",
+      "source": "New York Sun",
+      "publishedAt": "2025-10-08T16:39:52Z",
+      "description": "The whimsical protest tactic emerges as Trump and Oregon leaders clash over federal troop deployment."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Save Hundreds With These Desktop Deals, But You Better Do it Before Prime Day Ends",
+      "original_title": "Save Hundreds With These Desktop Deals, But You Better Do it Before Prime Day Ends - PCMag",
+      "url": "https://www.pcmag.com/news/best-desktop-deals-prime-day-oct-2025-day-2",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/02SLC7tp9nOvXxKDow68ws6-1.fit_lim.size_1200x630.v1759939354.jpg",
+      "source": "PCMag.com",
+      "publishedAt": "2025-10-08T16:18:45Z",
+      "description": "Dreaming about a new desktop to replace your struggling battlestation? Amazon Prime Big Deal Days has deep discounts on PCs, from pint-sized portables to gaming dominators. Grab one before the sale en"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "You can still save up to 70 percent on headphones from Bose and Sony today",
       "original_title": "You can still save up to 70 percent on headphones from Bose and Sony today - The Verge",
       "url": "https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025",
@@ -187,28 +220,6 @@
       "source": "The Verge",
       "publishedAt": "2025-10-08T16:10:33Z",
       "description": "Thanks to Amazon’s October Prime Day sale, you can save more than 70 percent on some of our favorite headphones, including picks from Apple, Sony, and Bose."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "James Comey pleads not guilty to criminal charges following Trump pressure to prosecute",
-      "original_title": "James Comey pleads not guilty to criminal charges following Trump pressure to prosecute - Politico",
-      "url": "https://www.politico.com/news/2025/10/08/james-comey-pleads-not-guilty-trial-date-00597839",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2c%2Fb9%2Fb8c0fa59418a80266a57e594dada%2Ftrump-russia-probe-82874.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-08T15:33:59Z",
-      "description": "The judge set a trial date of Jan. 5."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "2025 Key Races: Jones Texts Rock Virginia and Checking in on California and Pennsylvania",
-      "original_title": "2025 Key Races: Jones Texts Rock Virginia and Checking in on California and Pennsylvania - Center For Politics",
-      "url": "https://centerforpolitics.org/crystalball/2025-key-races-the-jones-text-flood-strikes-virginia-and-checking-in-on-california-and-pennsylvania/",
-      "urlToImage": null,
-      "source": "Centerforpolitics.org",
-      "publishedAt": "2025-10-08T15:10:00Z",
-      "description": "We react to the bombshell texts from Virginia Democratic attorney general candidate Jay Jones that were revealed late last week, and we also take a quick look at a couple of other key races this Novem"
     },
     {
       "flag": "🇺🇸",
@@ -222,26 +233,15 @@
       "description": "While President Donald Trump is pushing to split the MMR vaccine into three shots, experts say there’s no scientific reason for it, and it could lead to lower vaccination rates."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Inside one battle-scarred Gaza building, displaced families tell the story of war",
-      "original_title": "Inside one battle-scarred Gaza building, displaced families tell the story of war - BBC",
-      "url": "https://www.bbc.com/news/articles/cy4jz7l7qv8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34ee/live/88e540b0-a450-11f0-92db-77261a15b9d2.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T12:15:20Z",
-      "description": "The Skeik building, in a quiet road in western Gaza City, has seen many families pass through it since the war began."
-    },
-    {
       "flag": "🌍",
       "country": "global",
-      "title": "Interstellar Object 3I/ATLAS May Be A 10-Billion-Year-Old Time Capsule From An Earlier Age Of The Universe",
-      "original_title": "Interstellar Object 3I/ATLAS May Be A 10-Billion-Year-Old Time Capsule From An Earlier Age Of The Universe - IFLScience",
-      "url": "https://www.iflscience.com/interstellar-object-3iatlas-may-be-a-10-billion-year-old-time-capsule-from-an-earlier-age-of-the-universe-81077",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/81077/aImg/86857/3i-atlas-meta.png",
-      "source": "IFLScience",
-      "publishedAt": "2025-10-08T09:39:46Z",
-      "description": "3I/ATLAS may not have had a close encounter in 10 million years, before it approached our Solar System."
+      "title": "Scientists just proved the moai could walk, solving a 500-year mystery",
+      "original_title": "Scientists just proved the moai could walk, solving a 500-year mystery - ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251008030938.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/walking-easter-island-moai.webp",
+      "source": "Science Daily",
+      "publishedAt": "2025-10-08T13:44:51Z",
+      "description": "Researchers confirmed that Rapa Nui’s moai statues could “walk” upright using a rocking motion, aided by rope and just a few people. Experiments with replicas and 3D models revealed design features li"
     },
     {
       "flag": "🌍",
@@ -279,24 +279,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Facebook Adds Topic Search Recommendations and Friend Likes To Reels",
-      "original_title": "Facebook Adds Topic Search Recommendations and Friend Likes To Reels - Social Media Today",
-      "url": "https://www.socialmediatoday.com/news/facebook-improves-reels-recommendations-friend-bubbles/802263/",
-      "urlToImage": "https://imgproxy.divecdn.com/sbEfnuLy5KN66cww0Y8T2XugIztS885Q7QhJZ7gbAVY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl9mcmllbmRfYnViYmxlczIucG5n.webp",
-      "source": "Social Media Today",
-      "publishedAt": "2025-10-07T18:51:09Z",
-      "description": "Some new measures to get Facebook users to spend more time scrolling Reels."
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Galaxy Z Flip 7 and Fold 7 just got their biggest discounts yet in the USA",
-      "original_title": "Galaxy Z Flip 7 and Fold 7 just got their biggest discounts yet in the USA - SamMobile",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-7-biggest-discounts-in-the-usa/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/07/Galaxy-Z-Flip-7-and-Fold-7-1200x675.jpg",
-      "source": "SamMobile",
-      "publishedAt": "2025-10-07T13:25:00Z",
-      "description": "Samsung USA has launched what might be the best Galaxy Z Flip 7 and Galaxy Z Fold 7 deals to date. Not only can you save a good chunk of cash without a trade-in, but you can also buy the phones with a"
+      "title": "Legendary Apple designer Jony Ive wants to fix our relationship with the phones he helped create—and has up to 20 different OpenAI gadgets to do so",
+      "original_title": "Legendary Apple designer Jony Ive wants to fix our relationship with the phones he helped create—and has up to 20 different OpenAI gadgets to do so - Fortune",
+      "url": "https://fortune.com/2025/10/07/legendary-apple-designer-jony-ive-wants-to-fix-our-relationships-with-technology-openai/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1191537321-e1759853269454.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-10-07T17:50:35Z",
+      "description": "Ive said he hopes the new generation of AI-first devices brings more joy and less anxiety."
     }
   ]
 }
