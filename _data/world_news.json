@@ -1,27 +1,71 @@
 {
-  "last_updated": "2025-10-09T23:16:19",
+  "last_updated": "2025-10-10T01:20:54",
   "articles": [
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "President Trump posts on Truth Social that Chicago Mayor Johnson, Gov. Pritzker \"should be in jail\"",
-      "original_title": "President Trump posts on Truth Social that Chicago Mayor Johnson, Gov. Pritzker \"should be in jail\" - CBS News",
-      "url": "https://www.cbsnews.com/chicago/news/president-trump-posts-johnson-pritzker-jail/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/07/e7e5f145-974a-4983-86dd-d92ca7965d3b/thumbnail/1200x630/4424cdb9120d7286d55c7196f19b517f/cbsn-fusion-trump-considers-invoking-insurrection-act-to-justify-sending-troops-to-oregon-thumbnail.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-08T21:45:52Z",
-      "description": "President Trump posts that Johnson, Pritzker \"should be in jail\""
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan",
+      "original_title": "Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan - BBC",
+      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/058f/live/0f190400-a497-11f0-928c-71dbb8619e94.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-09T00:43:29Z",
+      "description": "Israel agreed to withdraw troops and all Israeli hostages will be released, the US president says, although timings remain unclear."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Tensions flare on Capitol Hill over government shutdown: 'Keep your mouth shut' - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Tensions flare on Capitol Hill over government shutdown: 'Keep your mouth shut' - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/tensions-flare-capitol-hill-government-shutdown-mouth-shut/story?id\\\\u003d126341090",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-08T21:35:58Z",
-      "description": ""
+      "title": "Trump receives urgent note from Rubio on Mideast peace deal during antifa roundtable",
+      "original_title": "Trump receives urgent note from Rubio on Mideast peace deal during antifa roundtable - AP News",
+      "url": "https://apnews.com/article/trump-rubio-note-middle-east-peace-f570658c65daefab6d0af9b29e851dd7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a0f0055/2147483647/strip/true/crop/4134x2325+0+215/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F5d%2F7eda3110153fc998ecc2a0105a9f%2Fb7c3f8dcc7f340488cd3a76bb5c6fa03",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-09T00:34:00Z",
+      "description": "Secretary of State Marco Rubio passed President Donald Trump a note during a White House event, hinting that a Mideast peace deal was close. An AP photographer in the room zoomed in on the handwriting"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "We found the 123 best Prime Day-level sales during Amazon’s Prime Big Deal Days",
+      "original_title": "We found the 123 best Prime Day-level sales during Amazon’s Prime Big Deal Days - CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2025-10-08",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-08T22:40:00Z",
+      "description": "Amazon’s October Prime Day event ends tonight. We found 123 of the best deals that are worth shopping during the final hours of the sale."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Trump says Chicago mayor, Illinois governor should be jailed for response to ICE",
+      "original_title": "Trump says Chicago mayor, Illinois governor should be jailed for response to ICE - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/10/08/trump-chicago-jail-johnson-pritzker/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PMEKKXOV5VLKMPBNGT4VO2QNU.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-08T22:37:58Z",
+      "description": "Trump, providing no evidence, said Brandon Johnson and JB Pritzker should go to jail, accusing the two Democrats of “failing to protect” immigration agents."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Jimmy Kimmel Grills Aziz Ansari on Riyadh Comedy Performance in Tense Interview: It’s a ‘Brutal Regime’ and ‘These Are Not Good People’",
+      "original_title": "Jimmy Kimmel Grills Aziz Ansari on Riyadh Comedy Performance in Tense Interview: It’s a ‘Brutal Regime’ and ‘These Are Not Good People’ - Variety",
+      "url": "https://variety.com/2025/tv/news/jimmy-kimmel-grills-aziz-ansari-riyadh-comedy-festival-1236543742/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/MixCollage-08-Oct-2025-05-56-PM-8064-e1759960618391.jpg?w=1000&h=563&crop=1",
+      "source": "Variety",
+      "publishedAt": "2025-10-08T22:34:00Z",
+      "description": "Jimmy Kimmel pressed Aziz Ansari on performing at the controversial Riyadh Comedy Festival, calling the Saudi government a 'brutal regime.'"
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "‘Everyone’s just getting destroyed’: MTG calls on Johnson to bring House back to DC and rails on GOP handling of health care",
+      "original_title": "‘Everyone’s just getting destroyed’: MTG calls on Johnson to bring House back to DC and rails on GOP handling of health care - CNN",
+      "url": "https://www.cnn.com/2025/10/08/politics/mtg-shutdown-trump",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2198342958.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-08T21:23:48Z",
+      "description": "GOP Rep. Marjorie Taylor Greene broke sharply with her party leaders on Wednesday as they tried to project a united front in the deepening standoff with Democrats over health care and the government s"
     },
     {
       "flag": "🌍",
@@ -48,35 +92,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters",
-      "original_title": "Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters - CBS News",
-      "url": "https://www.cbsnews.com/news/pope-leo-trump-immigration-crackdown-migrant-letters/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/08/71ace047-b034-46e6-8e9a-816bcb9e696f/thumbnail/1200x630/686be22e08222003ed4118d0d1d94b6d/gettyimages-2239387965.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-08T20:31:00Z",
-      "description": "A Texas bishop showed Pope Leo XIV a packet of letters from immigrant families \"terrorized\" by fear that they and their loved ones will be rounded up and deported."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Macron to name new PM in next 48 hours - politico.eu",
-      "original_title": "Macron to name new PM in next 48 hours - politico.eu",
-      "url": "https://www.politico.eu/article/sebastien-lecornu-france-prime-minister-french-political-crisis/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239146930-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-10-08T19:55:00Z",
-      "description": "The Elysée’s statement comes after consultations with the current prime minister on the crisis that has engulfed France."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "What to do if your flight is delayed or canceled during the US government shutdown",
-      "original_title": "What to do if your flight is delayed or canceled during the US government shutdown - AP News",
-      "url": "https://apnews.com/article/government-shutdown-travel-delays-canceled-flights-38bd3f9d066b064b5f2aa248864fe13b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0948dd3/2147483647/strip/true/crop/5096x2867+0+265/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F09%2F3a1b1707501f527e64068e2c50d8%2F5aafa6adf638468b9937656ebbd5160a",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-08T19:50:00Z",
-      "description": "The federal government shutdown has entered its second week, and already shortages of air traffic controllers have strained operations and disrupted flights at some U.S. airports. The situation may we"
+      "title": "IRS tells employees furlough backpay guaranteed, while WH counters in memo",
+      "original_title": "IRS tells employees furlough backpay guaranteed, while WH counters in memo - Axios",
+      "url": "https://www.axios.com/2025/10/08/trump-furlough-government-shutdown-back-pay-irs",
+      "urlToImage": "https://images.axios.com/IK_fLtNRh6U148m9SFHBV9JWx0c=/0x143:4000x2393/1366x768/2025/10/08/1759950994636.jpg",
+      "source": "Axios",
+      "publishedAt": "2025-10-08T19:57:12Z",
+      "description": "That comes after Axios reported on a White House memo saying workers weren't guaranteed compensation."
     },
     {
       "flag": "🌍",
@@ -92,13 +114,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Comey pleads not guilty as lawyers signal intent to argue Trump foe's case is politically motivated",
-      "original_title": "Comey pleads not guilty as lawyers signal intent to argue Trump foe's case is politically motivated - AP News",
-      "url": "https://apnews.com/article/trump-comey-justice-department-russia-court-appearance-141a5ada1f3c1018b7a417f2a156673f",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1fbcba4/2147483647/strip/true/crop/4610x2593+0+240/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2Ffd%2F51974aff34d2fcb83900b06d9ada%2Fb99a83316aa840c8956bde75c8285241",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-08T18:56:00Z",
-      "description": "Former FBI Director James Comey has pleaded not guilty in a criminal case that has highlighted the Justice Department’s efforts to target adversaries of President Donald Trump. Comey's lawyers said We"
+      "title": "Vance heads to Indiana after Republicans warn White House of stalled redistricting push",
+      "original_title": "Vance heads to Indiana after Republicans warn White House of stalled redistricting push - Politico",
+      "url": "https://www.politico.com/news/2025/10/08/vance-indiana-redistricting-00598104",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F50%2Fd0%2F528c499a48cebce9fbab643f2ff8%2Fwhite-house-92528.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-08T18:56:23Z",
+      "description": "It marks the vice president's second trip to the Hoosier State over the remapping effort."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "Florida man arrested, charged with ‘maliciously starting’ catastrophic L.A. Palisades Fire",
+      "original_title": "Florida man arrested, charged with ‘maliciously starting’ catastrophic L.A. Palisades Fire - San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/california-wildfires/article/palisades-fire-arrest-made-federal-investigation-21090699.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/47/35/46/27122094/3/rawImage.jpg",
+      "source": "San Francisco Chronicle",
+      "publishedAt": "2025-10-08T18:56:15Z",
+      "description": "Jonathan Rinderknecht, 29, was arrested in connection with starting a fire on Jan. 1, 2025, that turned into the deadly Palisades Fire."
     },
     {
       "flag": "🇺🇸",
@@ -112,59 +145,26 @@
       "description": "Whirling dust devils and winds on Mars can move at an unexpected 99 miles per hour. The dust they send into the atmosphere could affect future missions."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Trump administration officials seriously discussing invoking Insurrection Act, sources say",
-      "original_title": "Trump administration officials seriously discussing invoking Insurrection Act, sources say - NBC News",
-      "url": "https://www.nbcnews.com/politics/national-security/trump-officials-insurrection-act-national-guard-deployment-sources-rcna236194",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251007-trump-ch-1323-a57269.jpg",
-      "source": "NBC News",
-      "publishedAt": "2025-10-08T18:55:05Z",
-      "description": "A decision is not expected to be imminent, one source said, but debate within the administration has shifted recently to more deeply exploring how and when the act might be invoked."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Last of 10 New Orleans escapees captured after nearly 5 months following standoff with Atlanta police",
+      "original_title": "Last of 10 New Orleans escapees captured after nearly 5 months following standoff with Atlanta police - CNN",
+      "url": "https://www.cnn.com/2025/10/08/us/derrick-groves-new-orleans-inmate-atlanta",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/derrick-groves.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-08T18:20:14Z",
+      "description": "Derrick Groves, the last of 10 prisoners who had been on the run since escaping jail in New Orleans nearly five months ago, has been captured at a residence in Atlanta, according to the US Marshals."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Zac Taylor: We’ll start Joe Flacco vs. Packers this week",
-      "original_title": "Zac Taylor: We’ll start Joe Flacco vs. Packers this week - NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zac-taylor-well-start-joe-flacco-vs-packers-this-week",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b66f3f9/2147483647/strip/true/crop/8030x4517+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2F52%2Fb09bc8ee4aec952d784a407e8221%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236754728",
-      "source": "NBCSports.com",
-      "publishedAt": "2025-10-08T18:10:15Z",
-      "description": "It’s official: Joe Flacco will start for the Bengals on Sunday when they play the Packers."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Taylor Swift Beats Adele’s First-Week Album Sales Record With The Life of a Showgirl",
-      "original_title": "Taylor Swift Beats Adele’s First-Week Album Sales Record With The Life of a Showgirl - Pitchfork",
-      "url": "https://pitchfork.com/news/taylor-swift-beats-adeles-first-week-album-sales-record-with-the-life-of-a-showgirl/",
-      "urlToImage": "https://media.pitchfork.com/photos/68e69a73aaa8cf100d6453c5/16:9/w_1280,c_limit/taylor%20swift%20life%20of%20a%20showgirl%20album%20sales.jpg",
-      "source": "Pitchfork",
-      "publishedAt": "2025-10-08T17:40:45Z",
-      "description": "Swift’s new album surpasses Adele’s 25 with 3.5 million equivalent unit sales, and nears the record for actual copies sold"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dolly Parton Posts Video Saying ‘I’m Not Dying!’ Amid Health Concerns: ‘Do I Look Sick to You?’",
-      "original_title": "Dolly Parton Posts Video Saying ‘I’m Not Dying!’ Amid Health Concerns: ‘Do I Look Sick to You?’ - Variety",
-      "url": "https://variety.com/2025/music/news/dolly-parton-video-health-not-dying-1236543285/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/03/GettyImages-2206128974-e1759943292426.jpg?w=1000&h=563&crop=1",
-      "source": "Variety",
-      "publishedAt": "2025-10-08T17:29:00Z",
-      "description": "Dolly Parton has issued a statement assuring fans that she is doing fine, after her sister's public plea for prayer for her health set off alarm bells."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Florida man charged with intentionally setting Pacific Palisades fire in LA",
-      "original_title": "Florida man charged with intentionally setting Pacific Palisades fire in LA - CNBC",
-      "url": "https://www.cnbc.com/2025/10/08/la-fire-pacific-palisades-jonathan-rinderknecht.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108084177-1736427817397-gettyimages-2192436605-AFP_36TD6BT.jpeg?v=1759943542&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-08T17:03:32Z",
-      "description": "The Palisades Fire in early January burned thousands of homes and killed multiple people as flames spread rapidly in heavy winds up to 100 miles per hour."
+      "title": "James Webb telescope finds 'remarkable' evidence that a black hole plowed through a galaxy, leaving an enormous scar behind",
+      "original_title": "James Webb telescope finds 'remarkable' evidence that a black hole plowed through a galaxy, leaving an enormous scar behind - Live Science",
+      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-finds-remarkable-evidence-that-a-black-hole-plowed-through-a-galaxy-leaving-an-enormous-scar-behind",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nncziUx4LsHDWThxdtExRe-1920-80.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-10-08T17:02:39Z",
+      "description": "Using JWST and ALMA data, astronomers have spotted a superlong and narrow 'galactic contrail,' possibly produced by a black hole. The gas- and dust-rich tail is 20,000 light-years long but just 650 li"
     },
     {
       "flag": "🌍",
@@ -180,24 +180,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Save Hundreds With These Desktop Deals, But You Better Do it Before Prime Day Ends",
-      "original_title": "Save Hundreds With These Desktop Deals, But You Better Do it Before Prime Day Ends - PCMag",
-      "url": "https://www.pcmag.com/news/best-desktop-deals-prime-day-oct-2025-day-2",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/02SLC7tp9nOvXxKDow68ws6-1.fit_lim.size_1200x630.v1759939354.jpg",
-      "source": "PCMag.com",
-      "publishedAt": "2025-10-08T16:18:45Z",
-      "description": "Dreaming about a new desktop to replace your struggling battlestation? Amazon Prime Big Deal Days has deep discounts on PCs, from pint-sized portables to gaming dominators. Grab one before the sale en"
+      "title": "You can still save up to 70 percent on headphones from Bose and Sony today",
+      "original_title": "You can still save up to 70 percent on headphones from Bose and Sony today - The Verge",
+      "url": "https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25008888/DSCF3714.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-08T16:10:33Z",
+      "description": "Thanks to Amazon’s October Prime Day sale, you can save more than 70 percent on some of our favorite headphones, including picks from Apple, Sony, and Bose."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Jay Jones texting scandal breathes new life into GOP push in Virginia",
-      "original_title": "Jay Jones texting scandal breathes new life into GOP push in Virginia - Politico",
-      "url": "https://www.politico.com/news/2025/10/08/jones-fallout-00596731",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F69%2Fe8%2Fee8820f044f2a5b5b6e7d8fb983b%2Fimg-9632.jpg",
+      "title": "James Comey pleads not guilty to criminal charges following Trump pressure to prosecute",
+      "original_title": "James Comey pleads not guilty to criminal charges following Trump pressure to prosecute - Politico",
+      "url": "https://www.politico.com/news/2025/10/08/james-comey-pleads-not-guilty-trial-date-00597839",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2c%2Fb9%2Fb8c0fa59418a80266a57e594dada%2Ftrump-russia-probe-82874.jpg",
       "source": "Politico",
-      "publishedAt": "2025-10-08T15:03:01Z",
-      "description": "The fallout from the Democratic attorney general candidate's unfiltered text messages has scrambled the bellwether race."
+      "publishedAt": "2025-10-08T15:33:59Z",
+      "description": "The judge set a trial date of Jan. 5."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "2025 Key Races: Jones Texts Rock Virginia and Checking in on California and Pennsylvania",
+      "original_title": "2025 Key Races: Jones Texts Rock Virginia and Checking in on California and Pennsylvania - Center For Politics",
+      "url": "https://centerforpolitics.org/crystalball/2025-key-races-the-jones-text-flood-strikes-virginia-and-checking-in-on-california-and-pennsylvania/",
+      "urlToImage": null,
+      "source": "Centerforpolitics.org",
+      "publishedAt": "2025-10-08T15:10:00Z",
+      "description": "We react to the bombshell texts from Virginia Democratic attorney general candidate Jay Jones that were revealed late last week, and we also take a quick look at a couple of other key races this Novem"
     },
     {
       "flag": "🇺🇸",
@@ -211,26 +222,15 @@
       "description": "While President Donald Trump is pushing to split the MMR vaccine into three shots, experts say there’s no scientific reason for it, and it could lead to lower vaccination rates."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Our favorite batteries and chargers are on sale for October Prime Day",
-      "original_title": "Our favorite batteries and chargers are on sale for October Prime Day - The Verge",
-      "url": "https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Baseus-Laptop-Charger-20K-100W-4-Port.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-08T13:00:00Z",
-      "description": "Anker, Belkin, Baseus, and Ugreen are all offering discounted charging accessories as part of Prime Big Deal Days. Here are the deals worth taking advantage of."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "With the Texas National Guard now in Illinois, here’s what you need to know about the unit",
-      "original_title": "With the Texas National Guard now in Illinois, here’s what you need to know about the unit - The Texas Tribune",
-      "url": "https://www.texastribune.org/2025/10/08/texas-national-guard-abbott-deployment-chicago/",
-      "urlToImage": "https://thumbnails.texastribune.org/FhGEcI_CgVzgrvgLPnfdXvvAC0A=/1200x630/filters:quality(95):focal(0x0:3000x2000)/static.texastribune.org/media/files/314c11871a4da944d8de0b735d12905a/2025-10-07T104520Z_RTRMADP_3_ZUMA.jpg",
-      "source": "The Texas Tribune",
-      "publishedAt": "2025-10-08T10:00:00Z",
-      "description": "The Texas National Guard, no stranger to being deployed for immigration enforcement, is in the Midwest to “safeguard” ICE officers."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Inside one battle-scarred Gaza building, displaced families tell the story of war",
+      "original_title": "Inside one battle-scarred Gaza building, displaced families tell the story of war - BBC",
+      "url": "https://www.bbc.com/news/articles/cy4jz7l7qv8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34ee/live/88e540b0-a450-11f0-92db-77261a15b9d2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-08T12:15:20Z",
+      "description": "The Skeik building, in a quiet road in western Gaza City, has seen many families pass through it since the war began."
     },
     {
       "flag": "🌍",
@@ -268,17 +268,6 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "LeBron James' Hennessy ad stunt generates buzz, but raises eyebrows among branding experts",
-      "original_title": "LeBron James' Hennessy ad stunt generates buzz, but raises eyebrows among branding experts - Business Insider",
-      "url": "https://www.businessinsider.com/lebron-james-hennessy-ad-stunt-buzz-fan-frustration-brand-experts-2025-10",
-      "urlToImage": "https://i.insider.com/68e56c695dbc4fd10daa5eb0?width=1080&format=jpeg",
-      "source": "Business Insider",
-      "publishedAt": "2025-10-07T20:19:00Z",
-      "description": "LeBron James' new marketing campaign with Hennessy frustrated some fans and branding experts, but others say it effectively generated buzz."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "Fatty liver disease risk linked to both sugary and diet drinks - upi.com",
       "original_title": "Fatty liver disease risk linked to both sugary and diet drinks - upi.com",
       "url": "https://www.upi.com",
@@ -286,6 +275,17 @@
       "source": "UPI.com",
       "publishedAt": "2025-10-07T19:00:06Z",
       "description": "Researchers released a study suggesting both sugary drinks and diet sodas are associated with a higher risk of consumers developing fatty liver disease."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Facebook Adds Topic Search Recommendations and Friend Likes To Reels",
+      "original_title": "Facebook Adds Topic Search Recommendations and Friend Likes To Reels - Social Media Today",
+      "url": "https://www.socialmediatoday.com/news/facebook-improves-reels-recommendations-friend-bubbles/802263/",
+      "urlToImage": "https://imgproxy.divecdn.com/sbEfnuLy5KN66cww0Y8T2XugIztS885Q7QhJZ7gbAVY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl9mcmllbmRfYnViYmxlczIucG5n.webp",
+      "source": "Social Media Today",
+      "publishedAt": "2025-10-07T18:51:09Z",
+      "description": "Some new measures to get Facebook users to spend more time scrolling Reels."
     },
     {
       "flag": "🇫🇷",
@@ -297,17 +297,6 @@
       "source": "SamMobile",
       "publishedAt": "2025-10-07T13:25:00Z",
       "description": "Samsung USA has launched what might be the best Galaxy Z Flip 7 and Galaxy Z Fold 7 deals to date. Not only can you save a good chunk of cash without a trade-in, but you can also buy the phones with a"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea (video)",
-      "original_title": "SpaceX launches 28 Starlink satellites from Florida, lands rocket at sea (video) - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-10-59-asog",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qpBJCvyVtYtXtzWijo93Mg-2000-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-07T06:57:43Z",
-      "description": "It was SpaceX's 130th launch of the year already."
     }
   ]
 }
