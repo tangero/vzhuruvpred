@@ -1,27 +1,38 @@
 {
-  "last_updated": "2025-10-10T10:19:31",
+  "last_updated": "2025-10-10T11:15:41",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Interstellar Object 3I/ATLAS May Be A 10-Billion-Year-Old Time Capsule From An Earlier Age Of The Universe",
-      "original_title": "Interstellar Object 3I/ATLAS May Be A 10-Billion-Year-Old Time Capsule From An Earlier Age Of The Universe - IFLScience",
-      "url": "https://www.iflscience.com/interstellar-object-3iatlas-may-be-a-10-billion-year-old-time-capsule-from-an-earlier-age-of-the-universe-81077",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/81077/aImg/86857/3i-atlas-meta.png",
-      "source": "IFLScience",
-      "publishedAt": "2025-10-09T10:32:14Z",
-      "description": "3I/ATLAS may not have had a close encounter in 10 million years, before it approached our Solar System."
+      "title": "Wyoming library director fired amid uproar over books with LGBTQ+ themes wins $700,000 settlement",
+      "original_title": "Wyoming library director fired amid uproar over books with LGBTQ+ themes wins $700,000 settlement - CBS News",
+      "url": "https://www.cbsnews.com/news/wyoming-library-director-fired-lgbtq-books-700000-settlement/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/09/b6ea9627-74fc-47d3-b961-12c10bf2e8a5/thumbnail/1200x630g3/d43ed8dfe9046cb0a3afb5533e19a79d/ap25281854013540.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-09T11:09:00Z",
+      "description": "Terri Lesley was fired amid an uproar over books ​with sexual content and LGBTQ+ themes that some people complained were inappropriate for youngsters."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Ferrari shares plunge 13% after carmaker updates guidance, halves EV sales target",
-      "original_title": "Ferrari shares plunge 13% after carmaker updates guidance, halves EV sales target - CNBC",
-      "url": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209816-1759999171127-gettyimages-2157996982-ITALY_FERRARI.jpeg?v=1760000250&w=1920&h=1080",
+      "title": "Nobel Peace Prize 2025: What are Trump’s credentials, and can he win?",
+      "original_title": "Nobel Peace Prize 2025: What are Trump’s credentials, and can he win? - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/10/9/nobel-peace-prize-2025-what-are-trumps-credentials-and-can-he-win",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-01T142411Z_1284592287_RC2G2HAJR6AR_RTRMADP_3_EUROPE-STOCKS-HEALTHCARE-1759485521.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera English",
+      "publishedAt": "2025-10-09T10:41:15Z",
+      "description": "With the Gaza ceasefire deal, Trump claims to have helped broker peace in eight wars. Do his assertions hold up?"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "PepsiCo earnings top estimates as international markets fuel sales growth",
+      "original_title": "PepsiCo earnings top estimates as international markets fuel sales growth - CNBC",
+      "url": "https://www.cnbc.com/2025/10/09/pepsico-pep-q3-2025-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108096948-17386717182025-02-04t111540z_1282919389_rc2of9a61lyu_rtrmadp_0_pepsico-results.jpeg?v=1738671794&w=1920&h=1080",
       "source": "CNBC",
-      "publishedAt": "2025-10-09T10:11:24Z",
-      "description": "Italian carmaker Ferrari on Thursday dialled back its electrification ambitions, saying fully electric vehicles will make up just 20% of its range by 2030."
+      "publishedAt": "2025-10-09T10:07:15Z",
+      "description": "The food and beverage giant PepsiCo reiterated its full-year forecast."
     },
     {
       "flag": "🇺🇸",
@@ -46,15 +57,26 @@
       "description": "\"This has never happened before,\" said Illinois Gov. J.B. Pritzker."
     },
     {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Comey’s challenge of Lindsey Halligan is the latest bid to derail Trump’s top prosecutors",
+      "original_title": "Comey’s challenge of Lindsey Halligan is the latest bid to derail Trump’s top prosecutors - CNN",
+      "url": "https://www.cnn.com/2025/10/09/politics/trump-halligan-doj-appointment-challenged-comey",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25232710877768.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-09T09:00:53Z",
+      "description": "Before FBI Director James Comey heads to trial in January over charges of lying to Congress, his team plans to put the prosecutors — and specifically President Donald Trump’s handpicked interim US Att"
+    },
+    {
       "flag": "🌍",
       "country": "global",
-      "title": "Hegseth’s firing of Navy official compounds ‘culture of fear’ inside Pentagon",
-      "original_title": "Hegseth’s firing of Navy official compounds ‘culture of fear’ inside Pentagon - Politico",
-      "url": "https://www.politico.com/news/2025/10/09/hegseth-culture-of-fear-navy-firing-00598159",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fba%2Fd5%2Fd5c68f54451b822fe80e565960fe%2Ftrump-navy-52117.jpg",
-      "source": "Politico",
+      "title": "Bird flu cases are spiking again after a summer respite",
+      "original_title": "Bird flu cases are spiking again after a summer respite - NBC News",
+      "url": "https://www.nbcnews.com/science/science-news/bird-flu-cases-spiking-rcna235519",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251009-poultry-farm-michigan-mb-1249-d800b7.jpg",
+      "source": "NBC News",
       "publishedAt": "2025-10-09T09:00:00Z",
-      "description": "“It’s better just to keep your head down,” said one senior defense official."
+      "description": "Bird flu cases are rising earlier than expected as wild birds migrate. That could make for a challenging autumn, but it's too early to say whether egg prices will go up."
     },
     {
       "flag": "🇺🇸",
@@ -81,79 +103,90 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Einav Zangauker to Arutz Sheva: Tears of joy haven't stopped flowing",
-      "original_title": "Einav Zangauker to Arutz Sheva: Tears of joy haven't stopped flowing - Israel National News",
-      "url": "https://www.israelnationalnews.com/news/416008",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1200512.jpg",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2025-10-09T04:54:00Z",
-      "description": "Einav, the mother of hostage Matan Zangauker, tells Arutz Sheva about her feelings and excitement after Israel and Hamas agreed to a deal for his release."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Giants looking to end the Eagles curse — they refuse to talk about",
-      "original_title": "Giants looking to end the Eagles curse — they refuse to talk about - New York Post",
-      "url": "https://nypost.com/2025/10/08/sports/giants-looking-to-end-eagles-curse-they-refuse-to-talk-about/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-49m8rdbf4-1759966108810.jpg?quality=75&strip=all&1759951812&w=1024",
-      "source": "New York Post",
-      "publishedAt": "2025-10-09T00:45:00Z",
-      "description": "Not acknowledging the facts does not make the facts cease to exist."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan",
-      "original_title": "Trump says Israel and Hamas 'both sign off' on first phase of Gaza peace plan - BBC",
-      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/058f/live/0f190400-a497-11f0-928c-71dbb8619e94.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-09T00:43:29Z",
-      "description": "Israel agreed to withdraw troops and all Israeli hostages will be released, the US president says, although timings remain unclear."
+      "title": "Jimmy Kimmel Wants Dana Walden To Be The Next Disney CEO, But Doesn’t Want To Talk About His Late-Night Future",
+      "original_title": "Jimmy Kimmel Wants Dana Walden To Be The Next Disney CEO, But Doesn’t Want To Talk About His Late-Night Future - Deadline",
+      "url": "http://deadline.com/2025/10/jimmy-kimmel-dana-walden-disney-ceo-late-night-future-1236574085/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-2236595528-e1759923509477.jpg?w=1024",
+      "source": "Deadline",
+      "publishedAt": "2025-10-09T03:36:00Z",
+      "description": "However, Kimmel doesn't want to talk about his late-night future"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Blue Origin rolls out powerful New Glenn rocket for testing ahead of Mars launch (video)",
-      "original_title": "Blue Origin rolls out powerful New Glenn rocket for testing ahead of Mars launch (video) - Space",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-rolls-out-powerful-new-glenn-rocket-for-testing-ahead-of-mars-launch-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jprYKMhdndF49BvCoRAa6Z-1992-80.jpg",
-      "source": "Space.com",
-      "publishedAt": "2025-10-08T23:39:48Z",
-      "description": "New Glenn is scheduled to launch NASA's ESCAPADE Mars mission in late October or November."
+      "title": "AP photos show Rubio’s urgent note to Trump before announcement of Mideast peace deal",
+      "original_title": "AP photos show Rubio’s urgent note to Trump before announcement of Mideast peace deal - AP News",
+      "url": "https://apnews.com/article/trump-rubio-note-middle-east-peace-f570658c65daefab6d0af9b29e851dd7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/862bc47/2147483647/strip/true/crop/3165x1780+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fa0%2Fd153b1ccd7c053d1c19eca38d6ef%2F5bc9b2b8f2344a4b85f6bac006060ce5",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-09T02:39:00Z",
+      "description": "Secretary of State Marco Rubio passed President Donald Trump a note during a White House event, hinting that a Mideast peace deal was close. An AP photographer in the room zoomed in on the handwriting"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Court gives Trump control over Oregon National Guard, though deployment still on hold",
-      "original_title": "Court gives Trump control over Oregon National Guard, though deployment still on hold - The Hill",
-      "url": "https://thehill.com/newsletters/defense-national-security/5546119-court-gives-trump-control-over-oregon-national-guard-though-deployment-still-on-hold/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/10/AP25279757021724-1-e1759791756978.jpg?w=1280",
-      "source": "The Hill",
-      "publishedAt": "2025-10-08T22:14:00Z",
-      "description": "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security   The Big Story  Court gives Trump control over Oregon National Guard, though deploymen"
+      "title": "Oregon National Guard troops can remain under Trump’s control but cannot deploy to Portland: appeals court",
+      "original_title": "Oregon National Guard troops can remain under Trump’s control but cannot deploy to Portland: appeals court - OregonLive.com",
+      "url": "https://www.oregonlive.com/crime/2025/10/oregon-national-guard-members-can-remained-federalized-but-not-deployed-appeals-court-says.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/YOUMRMSB6RDVVGGVHLAOYG4RW4.JPG?auth=fde78a2c9f946800f411af907efe4b212f513b2cebc0829902be6e1c165082b1&width=1280&smart=true&quality=90",
+      "source": "OregonLive",
+      "publishedAt": "2025-10-09T00:44:00Z",
+      "description": "The administrative hold, or stay, issued by the 9th Circuit is temporary and imposed while the court considers a more permanent response."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Major Pixel Watch update breathes new life into older models",
-      "original_title": "Major Pixel Watch update breathes new life into older models - Android Police",
-      "url": "https://www.androidpolice.com/google-wear-os-6-landing-on-pixel-watch-2-and-3/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/07/google-pixel-watch-2-hands-on-3-16-9.jpg?w=1600&h=900&fit=crop",
-      "source": "Android Police",
-      "publishedAt": "2025-10-08T21:03:00Z",
-      "description": "It's time to experience Wears OS 6"
+      "title": "House Democrats press Johnson to bring Pay Our Troops Act to the floor early next week",
+      "original_title": "House Democrats press Johnson to bring Pay Our Troops Act to the floor early next week - Federal News Network",
+      "url": "https://federalnewsnetwork.com/congress/2025/10/house-democrats-press-johnson-to-bring-pay-our-troops-act-to-the-floor-early-next-week/",
+      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/07/Congress_Trump_01662-scaled.jpg",
+      "source": "Federal News Network",
+      "publishedAt": "2025-10-08T22:36:04Z",
+      "description": "Speaker Mike Johnson (R-La.) rejected Democrats' push to reconvene early next week to vote on a bill that would ensure troops get paid on Oct. 15."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters",
-      "original_title": "Pope Leo urges U.S. bishops to speak about Trump's immigration crackdown after being shown migrants' letters - CBS News",
-      "url": "https://www.cbsnews.com/news/pope-leo-trump-immigration-crackdown-migrant-letters/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/08/71ace047-b034-46e6-8e9a-816bcb9e696f/thumbnail/1200x630/686be22e08222003ed4118d0d1d94b6d/gettyimages-2239387965.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-08T20:31:00Z",
-      "description": "A Texas bishop showed Pope Leo XIV a packet of letters from immigrant families \"terrorized\" by fear that they and their loved ones will be rounded up and deported."
+      "title": "New Bengals QB Joe Flacco Was Speed-Dating the Playbook While Heading Down the Highway to Cincinnati",
+      "original_title": "New Bengals QB Joe Flacco Was Speed-Dating the Playbook While Heading Down the Highway to Cincinnati - Sports Illustrated",
+      "url": "https://www.si.com/nfl/bengals/new-bengals-qb-joe-flacco-was-speed-dating-the-playbook-while-heading-down-the-highway-to-cincinnati-01k72tb17sac",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3300,h_1856,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_bengals/01k72tp634sf1gkm0pht.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-10-08T21:17:12Z",
+      "description": "New Bengals QB Joe Flacco didn't wait to get to town before diving into the playbook."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "iPhone Ultra: Why Apple might go ‘Ultra’ next year with new model - 9to5Mac",
+      "original_title": "iPhone Ultra: Why Apple might go ‘Ultra’ next year with new model - 9to5Mac",
+      "url": "https://9to5mac.com/2025/10/08/iphone-ultra-why-apple-might-go-ultra-next-year-with-new-model/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-ultra-fold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "9to5Mac",
+      "publishedAt": "2025-10-08T20:32:00Z",
+      "description": "Next year is rumored to bring Apple’s first ever foldable iPhone. Here are three reasons why that foldable might be the first ‘iPhone Ultra.’"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "October 2025 Pixel updates start heading out, including fix for Pixel 10 display glitches",
+      "original_title": "October 2025 Pixel updates start heading out, including fix for Pixel 10 display glitches - Android Authority",
+      "url": "https://www.androidauthority.com/october-2025-pixel-update-3605572/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-in-Frost-vs-Google-Pixel-10-Pro-in-Moonstone-2-of-5.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-10-08T20:20:25Z",
+      "description": "Learn what fixes to expect from Google's October 2025 Pixel update, hitting Pixel 7 and newer devices now."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "5 last-chance Apple deals everyone’s buying before Prime Day ends 🍎",
+      "original_title": "5 last-chance Apple deals everyone’s buying before Prime Day ends 🍎 - USA Today",
+      "url": "https://www.usatoday.com/story/shopping/2025/10/08/best-selling-apple-deals-amazon-prime-day/86579535007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/08/USAT/86579945007-applenew.png?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+      "source": "USA Today",
+      "publishedAt": "2025-10-08T20:11:47Z",
+      "description": "Amazon Prime Big Deal Days ends tonight! Shop 5 best-selling Apple deals, including AirPods, iPads, AirTags and Apple Watch Series 10—up to 34% off."
     },
     {
       "flag": "🌍",
@@ -169,79 +202,46 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Dancing dust devils trace raging winds on Mars",
-      "original_title": "Dancing dust devils trace raging winds on Mars - European Space Agency",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dancing_dust_devils_trace_raging_winds_on_Mars",
-      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/mars_express_sees_a_dust_devil_dancing_across_mars/26900419-1-eng-GB/Mars_Express_sees_a_dust_devil_dancing_across_Mars_pillars.gif",
-      "source": "Esa.int",
-      "publishedAt": "2025-10-08T17:59:15Z",
+      "title": "Astronomers catch rare glimpse of interstellar comet 3I/ATLAS as it flies by Mars - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Astronomers catch rare glimpse of interstellar comet 3I/ATLAS as it flies by Mars - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/astronomers-catch-rare-glimpse-interstellar-comet-3iatlas-flies/story?id\\\\u003d126327154",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-08T18:22:30Z",
       "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "iPhone 18 Fold rumored to use combination of aluminum and titanium - 9to5Mac",
-      "original_title": "iPhone 18 Fold rumored to use combination of aluminum and titanium - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/08/iphone-18-fold-rumored-to-use-combination-of-aluminum-and-titanium/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/iPhone-Fold-will-have-Face-ID-embedded-in-the-display-%E2%80%93-leaker.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-10-08T17:57:00Z",
-      "description": "A new report today from analyst Jeff Pu has details on what to expect from next year’s highly-anticipated iPhone 18..."
+      "title": "Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes",
+      "original_title": "Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/features/2025-10-08/google-pixel-10-pro-fold-pixel-watch-4-review-new-ai-tricks-familiar-designs",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW5T4Uyqrd_g/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-08T17:00:07Z",
+      "description": "After releasing a trio of Pixel 10 smartphones this summer, Alphabet Inc.’s Google is back with the remainder of its 2025 Pixel lineup."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Taylor Swift Beats Adele’s First-Week Album Sales Record With The Life of a Showgirl - pitchfork.com",
-      "original_title": "Taylor Swift Beats Adele’s First-Week Album Sales Record With The Life of a Showgirl - pitchfork.com",
-      "url": "https://pitchfork.com/news/taylor-swift-beats-adeles-first-week-album-sales-record-with-the-life-of-a-showgirl/",
-      "urlToImage": "https://media.pitchfork.com/photos/68e69a73aaa8cf100d6453c5/16:9/w_1280,c_limit/taylor%20swift%20life%20of%20a%20showgirl%20album%20sales.jpg",
-      "source": "Pitchfork",
-      "publishedAt": "2025-10-08T17:40:45Z",
-      "description": "Swift’s new album surpasses Adele’s 25 with 3.5 million equivalent unit sales, and nears the record for actual copies sold"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Worried about splitting up the MMR vaccine into three separate shots? You should be, this doctor says",
-      "original_title": "Worried about splitting up the MMR vaccine into three separate shots? You should be, this doctor says - CNN",
-      "url": "https://www.cnn.com/2025/10/08/health/mmr-vaccine-split-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-02-27t191853z-344967874-rc233dacjkv1-rtrmadp-3-usa-health-measles-texas-20251007190403686.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-08T14:20:27Z",
-      "description": "While President Donald Trump is pushing to split the MMR vaccine into three shots, experts say there’s no scientific reason for it, and it could lead to lower vaccination rates."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Donald Trump looms large over Nobel Peace Prize",
-      "original_title": "Donald Trump looms large over Nobel Peace Prize - Financial Times",
-      "url": "https://www.ft.com/content/df530fcf-917d-44af-981b-021f99ff2ee6",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7b2c8e1-215d-45cb-949a-bd14fa5e1d59.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-08T11:35:50Z",
-      "description": "US president pressures Norwegian government and independent committee to select him on Friday"
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Spectacular sight for harvest supermoon hunters in South West",
-      "original_title": "Spectacular sight for harvest supermoon hunters in South West - BBC",
-      "url": "https://www.bbc.com/news/articles/c4gz1ql3j83o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be80/live/a214d510-a418-11f0-8a6a-83594c206e97.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T10:59:15Z",
-      "description": "Appearing especially bright and large, supermoons occur when the moon is closest to Earth."
+      "title": "Startling close call as undetected asteroid flies close to Earth",
+      "original_title": "Startling close call as undetected asteroid flies close to Earth - Chron",
+      "url": "https://www.chron.com/news/space/article/asteroid-almost-hits-earth-21090235.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/54/61/15/28513104/3/rawImage.jpg",
+      "source": "Chron.com",
+      "publishedAt": "2025-10-08T16:35:07Z",
+      "description": "NASA failed to detect a near-Earth asteroid before it flew lower than the orbit of many satellites."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "The CDC’s most recent updates on COVID-19 vaccinations",
-      "original_title": "The CDC’s most recent updates on COVID-19 vaccinations - WTOP",
-      "url": "https://wtop.com/local/2025/10/getting-covid-19-shots-what-recent-cdc-updates/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/09/Be_Well-Fall-Vaccines_08163-scaled.jpg",
-      "source": "WTOP",
-      "publishedAt": "2025-10-08T08:23:57Z",
-      "description": "The most recent recommendations from the CDC on COVID-19 vaccines call for “vaccination based on shared clinical decision-making.”"
+      "title": "JWST spots dust-cloaked 'red supergiant' star just before it went supernova",
+      "original_title": "JWST spots dust-cloaked 'red supergiant' star just before it went supernova - Space",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/jwst-spots-dust-cloaked-red-supergiant-star-just-before-it-went-supernova",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DrxhAoaggw5FtkhVwtHtHM-2560-80.jpg",
+      "source": "Space.com",
+      "publishedAt": "2025-10-08T13:01:00Z",
+      "description": "\"It's the reddest, dustiest red supergiant that we've seen explode as a supernova.\""
     },
     {
       "flag": "🇫🇷",
@@ -257,13 +257,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Facebook Adds Topic Search Recommendations and Friend Likes To Reels",
-      "original_title": "Facebook Adds Topic Search Recommendations and Friend Likes To Reels - Social Media Today",
-      "url": "https://www.socialmediatoday.com/news/facebook-improves-reels-recommendations-friend-bubbles/802263/",
-      "urlToImage": "https://imgproxy.divecdn.com/sbEfnuLy5KN66cww0Y8T2XugIztS885Q7QhJZ7gbAVY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl9mcmllbmRfYnViYmxlczIucG5n.webp",
-      "source": "Social Media Today",
-      "publishedAt": "2025-10-07T18:51:09Z",
-      "description": "Some new measures to get Facebook users to spend more time scrolling Reels."
+      "title": "Fatty liver disease risk linked to both sugary and diet drinks - upi.com",
+      "original_title": "Fatty liver disease risk linked to both sugary and diet drinks - upi.com",
+      "url": "https://www.upi.com",
+      "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/6641759844090/2025/1/0ce0a4f23928ee3b0ee425d01b1e92aa/v1.5/Fatty-liver-disease-risk-linked-to-both-sugary-and-diet-drinks.jpg",
+      "source": "UPI.com",
+      "publishedAt": "2025-10-07T19:00:06Z",
+      "description": "Researchers released a study suggesting both sugary drinks and diet sodas are associated with a higher risk of consumers developing fatty liver disease."
     }
   ]
 }
