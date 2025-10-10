@@ -1,49 +1,225 @@
 {
-  "last_updated": "2025-10-10T14:18:01",
+  "last_updated": "2025-10-10T15:17:56",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Wyoming library director fired amid uproar over books with LGBTQ+ themes wins $700,000 settlement",
-      "original_title": "Wyoming library director fired amid uproar over books with LGBTQ+ themes wins $700,000 settlement - CBS News",
-      "url": "https://www.cbsnews.com/news/wyoming-library-director-fired-lgbtq-books-700000-settlement/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/09/b6ea9627-74fc-47d3-b961-12c10bf2e8a5/thumbnail/1200x630g3/d43ed8dfe9046cb0a3afb5533e19a79d/ap25281854013540.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-09T11:09:00Z",
-      "description": "Terri Lesley was fired amid an uproar over books ​with sexual content and LGBTQ+ themes that some people complained were inappropriate for youngsters."
+      "title": "Marjorie Taylor Greene ‘putting blame’ on GOP congressional leaders for shutdown",
+      "original_title": "Marjorie Taylor Greene ‘putting blame’ on GOP congressional leaders for shutdown - Politico",
+      "url": "https://www.politico.com/live-updates/2025/10/09/congress/marjorie-taylor-greene-shutdown-blame-00599774",
+      "urlToImage": "https://www.politico.com/dims4/default/85aa1b3/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F3f%2F48%2F2163857a4b728397ab1073e86b73%2Fu-s-congress-15594.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-09T16:08:44Z",
+      "description": "Greene has continued to be a thorn in the side of Republican leadership in recent weeks, splitting from Trump and the GOP on a string of high-profile topics."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Nobel Peace Prize 2025: What are Trump’s credentials, and can he win?",
-      "original_title": "Nobel Peace Prize 2025: What are Trump’s credentials, and can he win? - Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/10/9/nobel-peace-prize-2025-what-are-trumps-credentials-and-can-he-win",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-01T142411Z_1284592287_RC2G2HAJR6AR_RTRMADP_3_EUROPE-STOCKS-HEALTHCARE-1759485521.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera English",
-      "publishedAt": "2025-10-09T10:41:15Z",
-      "description": "With the Gaza ceasefire deal, Trump claims to have helped broker peace in eight wars. Do his assertions hold up?"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "PepsiCo earnings top estimates as international markets fuel sales growth",
-      "original_title": "PepsiCo earnings top estimates as international markets fuel sales growth - CNBC",
-      "url": "https://www.cnbc.com/2025/10/09/pepsico-pep-q3-2025-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108096948-17386717182025-02-04t111540z_1282919389_rc2of9a61lyu_rtrmadp_0_pepsico-results.jpeg?v=1738671794&w=1920&h=1080",
-      "source": "CNBC",
-      "publishedAt": "2025-10-09T10:07:15Z",
-      "description": "The food and beverage giant PepsiCo reiterated its full-year forecast."
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Israeli cabinet to vote on Gaza deal that would bring ceasefire and hostages' release - live updates",
+      "original_title": "Israeli cabinet to vote on Gaza deal that would bring ceasefire and hostages' release - live updates - BBC",
+      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b590/live/f9c2d140-a526-11f0-94a8-5d6a26920553.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-09T14:38:01Z",
+      "description": "Donald Trump says the Israeli hostages could be released on \"Monday or Tuesday\", and that the process is complicated: \"They are in places you don't want to be.\""
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "AI has carried the stock market. Concerns are mounting about a bubble",
-      "original_title": "AI has carried the stock market. Concerns are mounting about a bubble - CNN",
-      "url": "https://www.cnn.com/2025/10/09/investing/us-stock-market-ai-bubble-concerns",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237752227.jpg?c=16x9&q=w_800,c_fill",
+      "title": "What’s going on with Justin Bieber and his mom?",
+      "original_title": "What’s going on with Justin Bieber and his mom? - CNN",
+      "url": "https://www.cnn.com/2025/10/09/entertainment/justin-bieber-mom-praying",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237518870.jpg?c=16x9&q=w_800,c_fill",
       "source": "CNN",
-      "publishedAt": "2025-10-09T09:30:51Z",
-      "description": "Enthusiasm about artificial intelligence has propelled markets to record highs this year. But the fierce ascent has also raised concerns about a bubble."
+      "publishedAt": "2025-10-09T14:32:33Z",
+      "description": "She’s praying for him, but it sounds like Justin Bieber’s mom doesn’t have to worry about him."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Texas court blocks execution of death row inmate Robert Roberson",
+      "original_title": "Texas court blocks execution of death row inmate Robert Roberson - The Texas Tribune",
+      "url": "https://www.texastribune.org/2025/10/09/robert-roberson-execution-blocked-texas-court-of-criminal-appeals/",
+      "urlToImage": "https://thumbnails.texastribune.org/goxp8NTNYjfgvOMRJsdGmQ9dz3M=/1200x630/filters:quality(95):focal(0x0:3500x2333)/static.texastribune.org/media/files/023db18c72c4babd07b797c9793be2bc/Robert%20Roberson%20IPL%20TT%2021.jpg",
+      "source": "The Texas Tribune",
+      "publishedAt": "2025-10-09T14:20:02Z",
+      "description": "Roberson was scheduled to be executed Oct. 16 after being convicted of capital murder in 2003 for the death of his two-year-old daughter Nikki."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Apple Event This October? Here's the Latest on What to Expect",
+      "original_title": "Apple Event This October? Here's the Latest on What to Expect - MacRumors",
+      "url": "https://www.macrumors.com/2025/10/09/apple-event-october-2025-rumors-2/",
+      "urlToImage": "https://images.macrumors.com/t/TRppOO7MrPBZLHzHLn3JUyuMwqo=/1852x/article-new/2021/10/10.18.21-event-banner-16X9.jpg",
+      "source": "MacRumors",
+      "publishedAt": "2025-10-09T14:00:00Z",
+      "description": "While it is unclear if Apple will host an October event this year, or stick to press releases, rumors suggest it will announce several new products..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nintendo ‘Close to You’ videos revealed as first short films created by Nintendo Pictures",
+      "original_title": "Nintendo ‘Close to You’ videos revealed as first short films created by Nintendo Pictures - Gematsu",
+      "url": "https://www.gematsu.com/2025/10/nintendo-close-to-you-videos-revealed-as-first-short-films-created-by-nintendo-pictures",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2025/10/Close-to-You_10-09-25.jpg",
+      "source": "Gematsu",
+      "publishedAt": "2025-10-09T13:23:33Z",
+      "description": "The Pikmin-themed “Close to You” animated videos released by Nintendo this week are the first short films created by Nintendo subsidiary Nintendo Pictures, Nintendo announced."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Pope Leo condemns economies that marginalize the poor while the wealthy live in a bubble of luxury",
+      "original_title": "Pope Leo condemns economies that marginalize the poor while the wealthy live in a bubble of luxury - AP News",
+      "url": "https://apnews.com/article/vatican-poor-pope-leo-francis-wealth-elite-fb63ece4f0c302c7a321a09da52374ac",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e1e0356/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2Fcd%2Fd6f25b094d56e515585acb5e5f1e%2F93ee1867a70d46e48e259e53b22989e3",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-09T13:13:00Z",
+      "description": "Pope Leo XIV has criticized how wealthy people live in a “bubble of comfort and luxury” while the poor suffer. Leo confirmed on Thursday that he is in perfect lockstep with Pope Francis on matters of "
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Airport Delays Move the Government Shutdown Fight to the Tarmac",
+      "original_title": "Airport Delays Move the Government Shutdown Fight to the Tarmac - The Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/air-traffic-controllers-government-shutdown-1cbd12f2",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-09T13:10:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dear Tilly Norwood: Some Blunt Advice, Actress to “Actress,” From Betty Gilpin",
+      "original_title": "Dear Tilly Norwood: Some Blunt Advice, Actress to “Actress,” From Betty Gilpin - The Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/tilly-norwood-ai-actress-betty-gilpin-guest-essay-1236396217/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/FotoJet-2025-10-02T134344.288.jpg?w=1440&h=810&crop=1",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2025-10-09T13:00:17Z",
+      "description": "The Emmy-nominated actor and author pens an open letter to the AI avatar that's got Hollywood in a tizzy."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics",
+      "original_title": "Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics - The Verge",
+      "url": "https://www.theverge.com/report/797146/intel-panther-lake-core-series-3-architecture-platform-feature-reveal",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/intel-panther-lake.jpg?quality=90&strip=all&crop=0%2C9.6571756436922%2C100%2C80.685648712616&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-09T13:00:00Z",
+      "description": "Intel’s Panther Lake, built on its 18A process, is the foundation of its next Intel Core Ultra Series 3 laptop chips. Here’s what we know."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "China curbs rare earth exports, raising stakes before Trump-Xi talks",
+      "original_title": "China curbs rare earth exports, raising stakes before Trump-Xi talks - NPR",
+      "url": "https://www.npr.org/2025/10/09/g-s1-92685/china-curbs-rare-earth-exports-raising-stakes-before-trump-xi-talks",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F65%2Fd0eeed394b039e3e1493396f978c%2Fgettyimages-2210032597.jpg",
+      "source": "NPR",
+      "publishedAt": "2025-10-09T12:46:51Z",
+      "description": "Analysts say Thursday's announcement is China's bid to strengthen its leverage in trade talks with the U.S., ahead of a planned leaders' meeting."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "They're coming back': Israelis await return of Gaza hostages",
+      "original_title": "'They're coming back': Israelis await return of Gaza hostages - Yahoo News UK",
+      "url": "https://uk.news.yahoo.com/theyre-coming-back-israelis-await-103531886.html",
+      "urlToImage": "https://media.zenfs.com/en/afp.co.uk/594177206ac1e2027284984a280e77f3",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-09T12:39:31Z",
+      "description": "Thousands of jubilant Israelis gathered in a Tel Aviv square Thursday, hopeful for the return of hostages held in Gaza, after two years of fear and worry. In..."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Republican voter registration surges in N.J. as political landscape shifts. See the numbers.",
+      "original_title": "Republican voter registration surges in N.J. as political landscape shifts. See the numbers. - NJ.com",
+      "url": "https://www.nj.com/politics/2025/10/republican-voter-registration-surges-in-nj-as-political-landscape-shifts-see-the-numbers.html",
+      "urlToImage": "https://www.nj.com/resizer/v2/EJIGUR4ZHZHWJLJ3THIRFUSR7Y.jpeg?auth=8700a092a01900635cdbb82e8478a554850bf1f38179714164fa91674f048caa&width=1280&smart=true&quality=90",
+      "source": "nj.com",
+      "publishedAt": "2025-10-09T12:01:00Z",
+      "description": "Democrats still dominate in New Jersey. But Republicans have added tens of thousands of new voters to their rolls since the last gubernatorial election."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Alex Rodriguez Defends Aaron Boone, Crushes Yankees' Roster Construction",
+      "original_title": "Alex Rodriguez Defends Aaron Boone, Crushes Yankees' Roster Construction - Sports Illustrated",
+      "url": "https://www.si.com/mlb/alex-rodriguez-defends-aaron-boone-crushes-yankees-roster-construction",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_6277,h_3530,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k74cdzkbph2f7nxmc6.jpg",
+      "source": "Sports Illustrated",
+      "publishedAt": "2025-10-09T11:49:57Z",
+      "description": "The former Yankees star points out what he believes is the real problem."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Norway on Edge Over Trump Ahead of Nobel Peace Prize Verdict",
+      "original_title": "Norway on Edge Over Trump Ahead of Nobel Peace Prize Verdict - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-09/norway-on-edge-over-trump-ahead-of-nobel-peace-prize-verdict",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Ximqmxe8EY/v1/1200x798.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-09T11:35:29Z",
+      "description": "Norway is bracing for the aftermath of the Nobel Peace Prize announcement on Friday as the Nordic nation has faced increasing pressure from Donald Trump and his administration to award it to the US le"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Former Democratic Rep. Katie Porter nearly exits tense interview in her run for California governor - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Former Democratic Rep. Katie Porter nearly exits tense interview in her run for California governor - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/wireStory/former-democratic-rep-katie-porter-exits-tense-interview-126347328",
+      "urlToImage": "https://i.abcnewsfe.com/a/60b74fd8-7add-4303-bd5f-a7dfac76ed79/wirestory_92307acbc907ebb8e464ec1d248c11e4_16x9.jpg?w=1600",
+      "source": "ABC News",
+      "publishedAt": "2025-10-09T11:01:56Z",
+      "description": "A Democratic running for California governor nearly cut off a TV interview after a tense back-and-forth with a reporter"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Scientists discover gold nanoparticles hidden in spruce tree needles",
+      "original_title": "Scientists discover gold nanoparticles hidden in spruce tree needles - Live Science",
+      "url": "https://www.livescience.com/planet-earth/plants/scientists-discover-gold-nannoparticles-hidden-in-spruce-tree-needles",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pMCvmZZxfCt2jmq9HgbSSG-1600-80.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-10-09T10:44:18Z",
+      "description": "Spruce tree needles contain tiny gold particles — and they could indicate large gold deposits beneath the surface."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Why Wall Street Analysts Say We’re Not in an AI Bubble… Yet",
+      "original_title": "Why Wall Street Analysts Say We’re Not in an AI Bubble… Yet - Investopedia",
+      "url": "https://www.investopedia.com/wall-street-analysts-ai-bubble-stock-market-11826943",
+      "urlToImage": "https://www.investopedia.com/thmb/jRtkdwYt1C4cRirmT72GwCLRtq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22203292932-ec43d97339384193b29f4d2292386d13.jpg",
+      "source": "Investopedia",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "description": "A spate of unusual deals within the AI ecosystem has recently fueled concern that the AI boom is actually an AI bubble, but some professional market watchers say this isn't 1999—at least not yet."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "What’s Really Going On in Portland, According to Police Reports",
+      "original_title": "What’s Really Going On in Portland, According to Police Reports - The Wall Street Journal",
+      "url": "https://www.wsj.com/politics/policy/whats-really-going-on-in-portland-according-to-police-reports-be02370f",
+      "urlToImage": null,
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-09T09:30:00Z",
+      "description": ""
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Colombia's president says boat struck by US was carrying Colombians",
+      "original_title": "Colombia's president says boat struck by US was carrying Colombians - BBC",
+      "url": "https://www.bbc.com/news/articles/c89dz920p0do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e9fb/live/fcd1f390-a506-11f0-b748-37792a239250.png",
+      "source": "BBC News",
+      "publishedAt": "2025-10-09T09:13:13Z",
+      "description": "The White House calls the allegation \"baseless\" as the US Senate rejected a measure to bar Trump from using force against the boats."
     },
     {
       "flag": "🌍",
@@ -57,17 +233,6 @@
       "description": "\"This has never happened before,\" said Illinois Gov. J.B. Pritzker."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Comey’s challenge of Lindsey Halligan is the latest bid to derail Trump’s top prosecutors",
-      "original_title": "Comey’s challenge of Lindsey Halligan is the latest bid to derail Trump’s top prosecutors - CNN",
-      "url": "https://www.cnn.com/2025/10/09/politics/trump-halligan-doj-appointment-challenged-comey",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25232710877768.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-09T09:00:53Z",
-      "description": "Before FBI Director James Comey heads to trial in January over charges of lying to Congress, his team plans to put the prosecutors — and specifically President Donald Trump’s handpicked interim US Att"
-    },
-    {
       "flag": "🌍",
       "country": "global",
       "title": "Bird flu cases are spiking again after a summer respite",
@@ -77,17 +242,6 @@
       "source": "NBC News",
       "publishedAt": "2025-10-09T09:00:00Z",
       "description": "Bird flu cases are rising earlier than expected as wild birds migrate. That could make for a challenging autumn, but it's too early to say whether egg prices will go up."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Trump has had his sights on Portland, Oregon, for years. This is how we got here",
-      "original_title": "Trump has had his sights on Portland, Oregon, for years. This is how we got here - CNN",
-      "url": "https://www.cnn.com/2025/10/09/us/portland-oregon-trump-history",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239338526.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-09T08:00:53Z",
-      "description": "The president has taken aim at some of the country’s largest Democratic-run cities, sending in federal officers and, in some cases, the US military to aid immigration enforcement and root out what he "
     },
     {
       "flag": "🌍",
@@ -101,114 +255,59 @@
       "description": "Taylor Swift dished with Seth Meyers about her wedding invites, 'The Life of a Showgirl' and Travis Kelce's botched intro to Greta Gerwig."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Jimmy Kimmel Wants Dana Walden To Be The Next Disney CEO, But Doesn’t Want To Talk About His Late-Night Future",
-      "original_title": "Jimmy Kimmel Wants Dana Walden To Be The Next Disney CEO, But Doesn’t Want To Talk About His Late-Night Future - Deadline",
-      "url": "http://deadline.com/2025/10/jimmy-kimmel-dana-walden-disney-ceo-late-night-future-1236574085/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-2236595528-e1759923509477.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-09T03:36:00Z",
-      "description": "However, Kimmel doesn't want to talk about his late-night future"
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "A man in China lived more than 170 days after transplant with pig liver, doctors report",
+      "original_title": "A man in China lived more than 170 days after transplant with pig liver, doctors report - CNN",
+      "url": "https://www.cnn.com/2025/10/09/health/pig-liver-transplant-china",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/group-photo.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-09T04:01:52Z",
+      "description": "Doctors in China say they transplanted a genetically modified pig liver into a 71-year-old man who lived 171 days after the procedure, and 38 of those days were with the pig organ in place – a first t"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "AP photos show Rubio’s urgent note to Trump before announcement of Mideast peace deal",
-      "original_title": "AP photos show Rubio’s urgent note to Trump before announcement of Mideast peace deal - AP News",
-      "url": "https://apnews.com/article/trump-rubio-note-middle-east-peace-f570658c65daefab6d0af9b29e851dd7",
-      "urlToImage": "https://dims.apnews.com/dims4/default/862bc47/2147483647/strip/true/crop/3165x1780+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fa0%2Fd153b1ccd7c053d1c19eca38d6ef%2F5bc9b2b8f2344a4b85f6bac006060ce5",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-09T02:39:00Z",
-      "description": "Secretary of State Marco Rubio passed President Donald Trump a note during a White House event, hinting that a Mideast peace deal was close. An AP photographer in the room zoomed in on the handwriting"
+      "title": "CDC, its advisers quietly expand access to Covid-19 shot for pregnant women",
+      "original_title": "CDC, its advisers quietly expand access to Covid-19 shot for pregnant women - Politico",
+      "url": "https://www.politico.com/news/2025/10/08/cdc-covid-vaccine-pregnant-women-recommendation-00599151",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fea%2F1b%2Fb6f0bbc0409bacfc36a31a881f37%2Ftrump-63280.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-09T00:46:51Z",
+      "description": "The panel voted to undo an action by Health Secretary Robert F. Kennedy Jr. which removed the vaccine from the immunization schedule for pregnant women."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Oregon National Guard troops can remain under Trump’s control but cannot deploy to Portland: appeals court",
-      "original_title": "Oregon National Guard troops can remain under Trump’s control but cannot deploy to Portland: appeals court - OregonLive.com",
-      "url": "https://www.oregonlive.com/crime/2025/10/oregon-national-guard-members-can-remained-federalized-but-not-deployed-appeals-court-says.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/YOUMRMSB6RDVVGGVHLAOYG4RW4.JPG?auth=fde78a2c9f946800f411af907efe4b212f513b2cebc0829902be6e1c165082b1&width=1280&smart=true&quality=90",
-      "source": "OregonLive",
-      "publishedAt": "2025-10-09T00:44:00Z",
-      "description": "The administrative hold, or stay, issued by the 9th Circuit is temporary and imposed while the court considers a more permanent response."
+      "title": "S&P 500 futures are little changed after benchmark rises to all-time high: Live updates",
+      "original_title": "S&P 500 futures are little changed after benchmark rises to all-time high: Live updates - CNBC",
+      "url": "https://www.cnbc.com/2025/10/08/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209356-1759934708494-Traders-Photo-20251007-KK-PRESS-008.jpg?v=1759934831&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-08T23:37:00Z",
+      "description": "The S&P 500 and Nasdaq Composite finished Wedneday's session at records."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "House Democrats press Johnson to bring Pay Our Troops Act to the floor early next week",
-      "original_title": "House Democrats press Johnson to bring Pay Our Troops Act to the floor early next week - Federal News Network",
-      "url": "https://federalnewsnetwork.com/congress/2025/10/house-democrats-press-johnson-to-bring-pay-our-troops-act-to-the-floor-early-next-week/",
-      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2025/07/Congress_Trump_01662-scaled.jpg",
-      "source": "Federal News Network",
-      "publishedAt": "2025-10-08T22:36:04Z",
-      "description": "Speaker Mike Johnson (R-La.) rejected Democrats' push to reconvene early next week to vote on a bill that would ensure troops get paid on Oct. 15."
+      "title": "Drinking Diet Soda May Raise Your Liver Disease Risk by Up to 60%, New Study Says",
+      "original_title": "Drinking Diet Soda May Raise Your Liver Disease Risk by Up to 60%, New Study Says - EatingWell",
+      "url": "https://www.eatingwell.com/is-diet-soda-bad-for-your-liver-study-11826944",
+      "urlToImage": "https://www.eatingwell.com/thmb/QAXqoMEyvrmt4VzUr6alO_1vVNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sodas-Even-Diet-Ones-May-Raise-Your-Liver-Disease-Risk-New-Study-Suggests-41e405603ca14c8e9f73a8dc655114ce.jpg",
+      "source": "Eatingwell.com",
+      "publishedAt": "2025-10-08T21:41:47Z",
+      "description": "Both sugary and diet sodas may raise the risk of liver disease. Learn how your drink choices impact your health and why water is the safest option."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "New Bengals QB Joe Flacco Was Speed-Dating the Playbook While Heading Down the Highway to Cincinnati",
-      "original_title": "New Bengals QB Joe Flacco Was Speed-Dating the Playbook While Heading Down the Highway to Cincinnati - Sports Illustrated",
-      "url": "https://www.si.com/nfl/bengals/new-bengals-qb-joe-flacco-was-speed-dating-the-playbook-while-heading-down-the-highway-to-cincinnati-01k72tb17sac",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3300,h_1856,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_bengals/01k72tp634sf1gkm0pht.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-10-08T21:17:12Z",
-      "description": "New Bengals QB Joe Flacco didn't wait to get to town before diving into the playbook."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "iPhone Ultra: Why Apple might go ‘Ultra’ next year with new model - 9to5Mac",
-      "original_title": "iPhone Ultra: Why Apple might go ‘Ultra’ next year with new model - 9to5Mac",
-      "url": "https://9to5mac.com/2025/10/08/iphone-ultra-why-apple-might-go-ultra-next-year-with-new-model/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-ultra-fold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "source": "9to5Mac",
-      "publishedAt": "2025-10-08T20:32:00Z",
-      "description": "Next year is rumored to bring Apple’s first ever foldable iPhone. Here are three reasons why that foldable might be the first ‘iPhone Ultra.’"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "October 2025 Pixel updates start heading out, including fix for Pixel 10 display glitches",
-      "original_title": "October 2025 Pixel updates start heading out, including fix for Pixel 10 display glitches - Android Authority",
-      "url": "https://www.androidauthority.com/october-2025-pixel-update-3605572/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-in-Frost-vs-Google-Pixel-10-Pro-in-Moonstone-2-of-5.jpg",
-      "source": "Android Authority",
-      "publishedAt": "2025-10-08T20:20:25Z",
-      "description": "Learn what fixes to expect from Google's October 2025 Pixel update, hitting Pixel 7 and newer devices now."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "5 last-chance Apple deals everyone’s buying before Prime Day ends 🍎",
-      "original_title": "5 last-chance Apple deals everyone’s buying before Prime Day ends 🍎 - USA Today",
-      "url": "https://www.usatoday.com/story/shopping/2025/10/08/best-selling-apple-deals-amazon-prime-day/86579535007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/10/08/USAT/86579945007-applenew.png?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
-      "source": "USA Today",
-      "publishedAt": "2025-10-08T20:11:47Z",
-      "description": "Amazon Prime Big Deal Days ends tonight! Shop 5 best-selling Apple deals, including AirPods, iPads, AirTags and Apple Watch Series 10—up to 34% off."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "State reports season's first flu death out of western North Carolina",
-      "original_title": "State reports season's first flu death out of western North Carolina - WRAL.com",
-      "url": "https://www.wral.com/lifestyle/health/flu-deaths-north-carolina-october-2025/",
-      "urlToImage": "https://images.wral.com/5b1e3a3b-4a8a-4488-980d-6bf5482e7d24?w=1200&h=630",
-      "source": "WRAL.com",
-      "publishedAt": "2025-10-08T19:35:50Z",
-      "description": "On Wednesday, the North Carolina Department of Health and Human Services said an adult in western North Carolina died from flu complications during the first week of October."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Astronomers catch rare glimpse of interstellar comet 3I/ATLAS as it flies by Mars - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Astronomers catch rare glimpse of interstellar comet 3I/ATLAS as it flies by Mars - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/astronomers-catch-rare-glimpse-interstellar-comet-3iatlas-flies/story?id\\\\u003d126327154",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-08T18:22:30Z",
-      "description": ""
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Dust devils reveal surprising raging winds on Mars",
+      "original_title": "Dust devils reveal surprising raging winds on Mars - CNN",
+      "url": "https://www.cnn.com/2025/10/08/science/martian-dust-devils-orbital-images",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/my36-017977-189-0-rgbwpan-browse-site1.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-08T18:55:14Z",
+      "description": "Whirling dust devils and winds on Mars can move at an unexpected 99 miles per hour. The dust they send into the atmosphere could affect future missions."
     },
     {
       "flag": "🌍",
@@ -242,28 +341,6 @@
       "source": "Space.com",
       "publishedAt": "2025-10-08T13:01:00Z",
       "description": "\"It's the reddest, dustiest red supergiant that we've seen explode as a supernova.\""
-    },
-    {
-      "flag": "🇫🇷",
-      "country": "fr",
-      "title": "Mask mandates return in parts of the Bay Area as virus season nears",
-      "original_title": "Mask mandates return in parts of the Bay Area as virus season nears - San Francisco Chronicle",
-      "url": "https://www.sfchronicle.com/health/article/bay-area-mask-mandates-21088785.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/54/60/61/28511305/5/rawImage.jpg",
-      "source": "San Francisco Chronicle",
-      "publishedAt": "2025-10-08T06:17:07Z",
-      "description": "Several Bay Area counties are reinstating mask requirements in hospitals and care facilities to protect patients during flu, COVID, and RSV season."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Fatty liver disease risk linked to both sugary and diet drinks - upi.com",
-      "original_title": "Fatty liver disease risk linked to both sugary and diet drinks - upi.com",
-      "url": "https://www.upi.com",
-      "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/6641759844090/2025/1/0ce0a4f23928ee3b0ee425d01b1e92aa/v1.5/Fatty-liver-disease-risk-linked-to-both-sugary-and-diet-drinks.jpg",
-      "source": "UPI.com",
-      "publishedAt": "2025-10-07T19:00:06Z",
-      "description": "Researchers released a study suggesting both sugary drinks and diet sodas are associated with a higher risk of consumers developing fatty liver disease."
     }
   ]
 }
