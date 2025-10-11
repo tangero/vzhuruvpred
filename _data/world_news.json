@@ -1,27 +1,38 @@
 {
-  "last_updated": "2025-10-11T06:24:28",
+  "last_updated": "2025-10-11T07:15:13",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "7.4-magnitude earthquake strikes offshore from southern Philippines and may cause tsunami - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "7.4-magnitude earthquake strikes offshore from southern Philippines and may cause tsunami - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Technology/wireStory/76-magnitude-earthquake-strikes-offshore-southern-philippines-126385978",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "source": "ABC News",
-      "publishedAt": "2025-10-10T03:12:06Z",
-      "description": "An offshore earthquake with a preliminary magnitude of 7.4 hit off a southern Philippine province Friday morning and a tsunami was possible nearby"
+      "title": "Nicole Kidman & Keith Urban Suffered ‘Major Loss of Intimacy’ Years Ago, Source Claims",
+      "original_title": "Nicole Kidman & Keith Urban Suffered ‘Major Loss of Intimacy’ Years Ago, Source Claims - Yahoo",
+      "url": "https://www.realitytea.com/2025/10/09/nicole-kidman-keith-urban-split-loss-of-intimacy-marriage-report/",
+      "urlToImage": "https://www.realitytea.com/wp-content/uploads/sites/6/2025/10/Nicole-Kidman-and-Keith-Urban-1-2.jpg?resize=1200,630",
+      "source": "Reality Tea",
+      "publishedAt": "2025-10-10T04:03:00Z",
+      "description": "Nicole Kidman and Keith Urban were pulling apart and living separating lives much before the divorce filing."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Justice Department indicts N.Y. attorney general",
+      "original_title": "Justice Department indicts N.Y. attorney general - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2025/10/09/letitia-james-grand-jury-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7JBR63PRJVBYJBNPUM2MDZKQE_size-normalized.jpg&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-10T03:55:49Z",
+      "description": "The Justice Department won an indictment against New York Attorney General Letitia James, accusing her of committing mortgage fraud in 2023."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Grey’s Anatomy Kills Off [Spoiler] in Season 22 Premiere, Surviving Co-Star Reacts: ‘It Definitely Hurt to See That’",
-      "original_title": "Grey’s Anatomy Kills Off [Spoiler] in Season 22 Premiere, Surviving Co-Star Reacts: ‘It Definitely Hurt to See That’ - TVLine",
-      "url": "https://tvline.com/recaps/greys-anatomy-season-22-premiere-recap-monica-dies-natalie-morales-1235529562/",
-      "urlToImage": "https://tvline.com/wp-content/uploads/2025/10/greys-anatomy-season-22-episode-1-monica-beltran-dies.jpg?w=650",
-      "source": "TVLine",
+      "title": "‘Grey’s Anatomy’ Explosion Casualty Revealed: Departing Actor Speaks About Getting The News, Character’s Death Scene, Favorite Episode & More",
+      "original_title": "‘Grey’s Anatomy’ Explosion Casualty Revealed: Departing Actor Speaks About Getting The News, Character’s Death Scene, Favorite Episode & More - Deadline",
+      "url": "http://deadline.com/2025/10/greys-anatomy-natalie-morales-monica-leaving-1236575430/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/Greys-anatomy-2.jpg?w=1024",
+      "source": "Deadline",
       "publishedAt": "2025-10-10T03:00:00Z",
-      "description": "Not everyone made it out of Thursday's 'Grey's Anatomy' Season 22 premiere alive. Read TVLine's full interview with one of the lucky survivors."
+      "description": "'Grey's Anatomy' Season 22 premiere reveals a cast departure -- the sole casualty from the massive OR explosion."
     },
     {
       "flag": "🌍",
@@ -48,6 +59,17 @@
     {
       "flag": "🇺🇸",
       "country": "us",
+      "title": "Federal judge hits Trump administration credibility in siding with city and state against National Guard deployment - Chicago Sun",
+      "original_title": "Federal judge hits Trump administration credibility in siding with city and state against National Guard deployment - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/donald-trump/2025/10/09/federal-judge-set-to-hear-arguments-in-high-stakes-national-guard-hearing",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/aaa6d07/2147483647/strip/true/crop/3756x2144+0+180/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F18%2F8aadc14f4750b0656b1ac20f57ef%2Fnationalguard-100825-15.jpg",
+      "source": "Suntimes.com",
+      "publishedAt": "2025-10-10T01:02:00Z",
+      "description": "Judge's order bars 'federalization and deployment of the National Guard of the United States within Illinois' for at least 14 days."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
       "title": "Ukraine says ‘massive’ Russian attack underway targeting energy infrastructure",
       "original_title": "Ukraine says ‘massive’ Russian attack underway targeting energy infrastructure - CNN",
       "url": "https://www.cnn.com/2025/10/09/europe/russia-ukraine-infrastructure-attack-hnk-intl",
@@ -55,17 +77,6 @@
       "source": "CNN",
       "publishedAt": "2025-10-10T00:55:00Z",
       "description": "Russia is carrying out a “massive attack” on Ukraine’s energy infrastructure, top Ukrainian officials said early Friday, with parts of the capital Kyiv left without power."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Judge blocks Trump from deploying troops in Illinois for now",
-      "original_title": "Judge blocks Trump from deploying troops in Illinois for now - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/10/09/trump-portland-chicago-national-guard-appeal/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCWSD77V3OZ7YUYWC4C5WM5BW4_size-normalized.JPG&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-10T00:50:30Z",
-      "description": "Officials in Oregon and Illinois had challenged the Trump administration’s push to dispatch the National Guard in both states."
     },
     {
       "flag": "🌍",
@@ -112,6 +123,28 @@
       "description": "Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels."
     },
     {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Trump tariffs: Swiss companies target alternative export markets",
+      "original_title": "Trump tariffs: Swiss companies target alternative export markets - BBC",
+      "url": "https://www.bbc.com/news/articles/cy4r12pzxgko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/de46/live/89c0d8f0-9dd4-11f0-92db-77261a15b9d2.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-09T23:10:24Z",
+      "description": "Swiss exporters are looking at new markets after being hit by heavy US tariffs."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Day 3 of Amazon October Prime Day is ending soon — 50 best last-minute deals up to 69% off: Save on iPads, headphones and more",
+      "original_title": "Day 3 of Amazon October Prime Day is ending soon — 50 best last-minute deals up to 69% off: Save on iPads, headphones and more - Yahoo Lifestyle Canada",
+      "url": "https://ca.style.yahoo.com/day-3-of-amazon-october-prime-day-is-ending-soon--50-best-last-minute-deals-up-to-69-off-save-on-ipads-headphones-and-more-225057163.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XMpCHlGo_HhAf6gsAYlWSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/df0b47e0-a55f-11f0-bfef-cba0335a5fa6",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-09T22:50:57Z",
+      "description": "These are the absolute best fall Prime Day deals in Canada, according to shopping experts."
+    },
+    {
       "flag": "🌍",
       "country": "global",
       "title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
@@ -134,6 +167,39 @@
       "description": "The United States is sending about 200 troops to Israel to help support and monitor the ceasefire deal in Gaza as part of a team that includes partner nations, nongovernmental organizations and privat"
     },
     {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "How Trump secured a Gaza breakthrough which eluded Biden",
+      "original_title": "How Trump secured a Gaza breakthrough which eluded Biden - BBC",
+      "url": "https://www.bbc.com/news/articles/cj3yke64vp6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3234/live/7769f100-a54a-11f0-b8ec-574ff83ad78e.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-09T21:09:48Z",
+      "description": "Trump's unique style and his relationships with key players helped but there were also factors beyond his control."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Human Rights Watch Refuses Aziz Ansari Riyadh Comedy Festival Donation",
+      "original_title": "Human Rights Watch Refuses Aziz Ansari Riyadh Comedy Festival Donation - Variety",
+      "url": "https://variety.com/2025/tv/news/human-rights-watch-refuses-aziz-ansari-riyadh-donation-1236544862/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/10/GettyImages-2239251912.jpg?crop=0px%2C141px%2C6000px%2C3375px&resize=1000%2C563",
+      "source": "Variety",
+      "publishedAt": "2025-10-09T21:04:00Z",
+      "description": "Human Rights Watch says it 'cannot accept' donations from Aziz Ansari and other comedians who performed at the Riyadh Comedy Festival in Saudi Arabia."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests",
+      "original_title": "Some Naked Mole-Rats Are Just Born to Clean Toilets, Study Suggests - Gizmodo",
+      "url": "https://gizmodo.com/some-naked-mole-rats-are-just-born-to-clean-toilets-study-suggests-2000670578",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/naked-mole-rat-1200x675.jpg",
+      "source": "Gizmodo.com",
+      "publishedAt": "2025-10-09T19:50:51Z",
+      "description": "A new study suggests that individuals in naked mole-rat colonies are assigned specific roles, including digging, garbage transport, and “toilet” duties."
+    },
+    {
       "flag": "🌍",
       "country": "global",
       "title": "Trump’s trade war has India hugging Britain close - politico.eu",
@@ -143,28 +209,6 @@
       "source": "POLITICO.eu",
       "publishedAt": "2025-10-09T19:33:45Z",
       "description": "The U.S. president’s second stint in office is   binding the two countries together — and prompting London to look the other way on contentious issues."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Shedeur Sanders Reveals Message to Dillon Gabriel After He Became Browns' Starter",
-      "original_title": "Shedeur Sanders Reveals Message to Dillon Gabriel After He Became Browns' Starter - Sports Illustrated",
-      "url": "https://www.si.com/nfl/shedeur-sanders-reveals-message-dillon-gabriel-after-he-became-browns-starter-quarterback",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3742,h_2104,x_0,y_100/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01k755xzzd1g4m9mwv7n.jpg",
-      "source": "Sports Illustrated",
-      "publishedAt": "2025-10-09T19:31:27Z",
-      "description": "Shedeur Sanders shares what he said to Dillon Gabriel after he became the Browns' starter."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Naked mole rats live for decades — genetic tweaks reveal insights into ageing",
-      "original_title": "Naked mole rats live for decades — genetic tweaks reveal insights into ageing - Nature",
-      "url": "https://www.nature.com/articles/d41586-025-03279-y",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03279-y/d41586-025-03279-y_51546490.jpg",
-      "source": "Nature.com",
-      "publishedAt": "2025-10-09T18:08:54Z",
-      "description": "Four subtle changes to an enzyme might explain the hairless rodents’ longevity."
     },
     {
       "flag": "🇺🇸",
@@ -180,79 +224,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Delta’s bet on wealthy Americans driving the economy is working: Premium seats are set to overtake main cabin for the first time in history",
-      "original_title": "Delta’s bet on wealthy Americans driving the economy is working: Premium seats are set to overtake main cabin for the first time in history - Fortune",
-      "url": "https://fortune.com/2025/10/09/delta-earnings-premium-seat-surpass-main-cabin-wealthy-americans-economy/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2234065531.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-09T17:21:25Z",
-      "description": "Premium is on track to overtake main cabin in 2026, a year ahead of schedule, per the third-quarter earnings call from America’s most profitable airline."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Column | I tracked Amazon’s Prime Day prices. We’ve been played.",
-      "original_title": "Column | I tracked Amazon’s Prime Day prices. We’ve been played. - The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZJWTJ5NQLJCANBFAC7G2YETX4I.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-09T17:00:00Z",
-      "description": "Here’s what you should do to actually get a good deal on Amazon."
+      "title": "Intel unveils new processor powered by its 18A semiconductor tech",
+      "original_title": "Intel unveils new processor powered by its 18A semiconductor tech - TechCrunch",
+      "url": "https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024",
+      "source": "TechCrunch",
+      "publishedAt": "2025-10-09T17:45:47Z",
+      "description": "Intel announces new processors produced in Arizona as the company looks to increase its U.S. manufacturing."
     },
     {
       "flag": "🇫🇷",
       "country": "fr",
-      "title": "Motorola’s ultra-thin answer to Apple and Samsung doesn’t skip a beat on battery [Gallery] - 9to5Google",
-      "original_title": "Motorola’s ultra-thin answer to Apple and Samsung doesn’t skip a beat on battery [Gallery] - 9to5Google",
-      "url": "http://9to5google.com/2025/10/09/motorola-edge-70-battery-specs-leaked/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Motorola-Edge-70-leak-battery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Google thinks the Pixel 10 Pro Fold is a big leap thanks to gearless hinge - 9to5Google",
+      "original_title": "Google thinks the Pixel 10 Pro Fold is a big leap thanks to gearless hinge - 9to5Google",
+      "url": "http://9to5google.com/2025/10/09/pixel-10-pro-fold-design/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-Fold-vs-Pixel-9-Pro-Fold-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "source": "9to5google.com",
-      "publishedAt": "2025-10-09T15:29:00Z",
-      "description": "Every phone manufacturer wants to make a thin phone now, and one of the most experienced ones is showing exactly..."
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Israeli cabinet to vote on Gaza deal that would bring ceasefire and hostages' release - live updates",
-      "original_title": "Israeli cabinet to vote on Gaza deal that would bring ceasefire and hostages' release - live updates - BBC",
-      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b590/live/f9c2d140-a526-11f0-94a8-5d6a26920553.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-09T14:38:01Z",
-      "description": "Donald Trump says the Israeli hostages could be released on \"Monday or Tuesday\", and that the process is complicated: \"They are in places you don't want to be.\""
+      "publishedAt": "2025-10-09T17:26:00Z",
+      "description": "With the Pixel 10 Pro Fold now available, Google is detailing some of the design and engineering decisions that it made..."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Covid Shots Are About to Be Widely Available Again",
-      "original_title": "Covid Shots Are About to Be Widely Available Again - WIRED",
-      "url": "https://www.wired.com/story/covid-shots-are-about-to-be-widely-available-again-vaccines-cdc/",
-      "urlToImage": "https://media.wired.com/photos/68e68f44251274c0216234de/191:100/w_1280,c_limit/sci-covid-vax-1234262574.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-10-09T14:24:00Z",
-      "description": "The CDC no longer broadly recommends the Covid-19 vaccine, but US residents will still be able to get one if they want."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Fact-checking Trump’s October Cabinet meeting",
-      "original_title": "Fact-checking Trump’s October Cabinet meeting - PolitiFact",
-      "url": "https://www.politifact.com/article/2025/oct/09/live-fact-checking-trump-cabinet-israel-ceasefire/",
-      "urlToImage": "https://static.politifact.com/CACHE/images/politifact/photos/AP25282585327635/a41edee44e52f276fcdd1bf22f8fb29b.jpg",
-      "source": "PolitiFact",
-      "publishedAt": "2025-10-09T14:08:54Z",
-      "description": "The Trump administration holds a a Cabinet meeting on the ninth day of a federal government shutdown. PolitiFact will fact-check the meeting"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics",
-      "original_title": "Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics - The Verge",
-      "url": "https://www.theverge.com/report/797146/intel-panther-lake-core-series-3-architecture-platform-feature-reveal",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/intel-panther-lake.jpg?quality=90&strip=all&crop=0%2C9.6571756436922%2C100%2C80.685648712616&w=1200",
-      "source": "The Verge",
-      "publishedAt": "2025-10-09T13:00:00Z",
-      "description": "Intel’s Panther Lake, built on its 18A process, is the foundation of its next Intel Core Ultra Series 3 laptop chips. Here’s what we know."
+      "title": "Boston nor'easter weather forecast calls for strong wind gusts, heavy rain for part of holiday weekend",
+      "original_title": "Boston nor'easter weather forecast calls for strong wind gusts, heavy rain for part of holiday weekend - CBS News",
+      "url": "https://www.cbsnews.com/boston/news/boston-noreaster-weather-maps-weekend/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/09/7be3ad10-d9ea-43e4-857d-9109375c9bde/thumbnail/1200x630/108317f81be35877f42327e82d7421e1/sun-radar-nor.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-09T17:16:37Z",
+      "description": "A nor'easter is set to hit Boston on the holiday weekend. Maps show the latest weather forecast."
     },
     {
       "flag": "🌍",
@@ -279,24 +279,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Amazon customers are disturbed by new Ring camera feature",
-      "original_title": "Amazon customers are disturbed by new Ring camera feature - TheStreet",
-      "url": "https://www.thestreet.com/retail/amazon-customers-are-disturbed-by-new-ring-camera-feature",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE4MzAzNDE1Nzk5Nzg1MzA4/amazons-fall-product-event-1.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-10-08T12:07:00Z",
-      "description": "Amazon recently unveiled an upcoming change to Ring devices, which is making customers uncomfortable."
+      "title": "This new Ring camera feature is seriously creeping people out",
+      "original_title": "This new Ring camera feature is seriously creeping people out - Android Authority",
+      "url": "https://www.androidauthority.com/ring-familiar-faces-feature-backlash-3605662/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/09/ring-wired-doorbell-new.jpg",
+      "source": "Android Authority",
+      "publishedAt": "2025-10-09T06:03:39Z",
+      "description": "Ring's new Familiar Faces feature will deploy facial recognition tech and users are pointing out everything that could go wrong."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "No Good Art Comes From Greed",
-      "original_title": "No Good Art Comes From Greed - Defector",
-      "url": "https://defector.com/taylor-swift-life-of-a-showgirl-bad-greed",
-      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/10/GettyImages-2197310482-e1759766060120.jpg",
-      "source": "Defector.com",
-      "publishedAt": "2025-10-06T16:15:00Z",
-      "description": "The packages arrived square and thin and carefully wrapped on Saturday afternoon. There were three of them, but only one was mine. If I could have rejected my package, sent it back from whence it came"
+      "title": "NCDHHS reports first flu-related death of 2025-2026 season in western NC",
+      "original_title": "NCDHHS reports first flu-related death of 2025-2026 season in western NC - WLOS",
+      "url": "https://wlos.com/news/local/first-flu-related-death-ncdhhs-adult-reports-2025-2026-season-western-nc-north-carolina-wnc-virus-illness-department-health-human-services-covid-19-rsv",
+      "urlToImage": "https://wlos.com/resources/media/6543f783-20ca-4a35-bc4c-21d687e31b3e-large16x9_AP19108763545202.jpg?1555689010951",
+      "source": "WLOS",
+      "publishedAt": "2025-10-08T20:30:46Z",
+      "description": "On Oct. 8, the North Carolina Department of Health and Human Services announced the first flu-related death of the 2025-2026 flu season, an adult in WNC."
     }
   ]
 }
