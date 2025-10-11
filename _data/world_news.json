@@ -1,16 +1,71 @@
 {
-  "last_updated": "2025-10-11T18:21:37",
+  "last_updated": "2025-10-11T19:12:25",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Multiple people dead in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Multiple people dead in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/US/tennessee-explosives-plant-manufacturer-explosion/story?id\\\\u003d126405185",
-      "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-10T16:08:07Z",
-      "description": ""
+      "title": "Gaza ceasefire live updates: Israeli hostage release countdown begins as Palestinians return to Gaza's north",
+      "original_title": "Gaza ceasefire live updates: Israeli hostage release countdown begins as Palestinians return to Gaza's north - CBS News",
+      "url": "https://www.cbsnews.com/live-updates/israel-hamas-peace-deal-live-updates-gaza-ceasefire-day-1/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/10/99d39e27-8cc8-401f-b0f6-6301b781dabc/thumbnail/1200x630/f7ed09900a01a83fbe319051e922d634/gettyimages-2239713588.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-10T18:08:00Z",
+      "description": "Israeli Prime Minister Benjamin Netanyahu vows \"Hamas will disarm,\" easy way or the hard way, as Israel's military says a Gaza ceasefire is in effect."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "OMB says ‘substantial’ federal employee layoffs have begun",
+      "original_title": "OMB says ‘substantial’ federal employee layoffs have begun - Federal News Network",
+      "url": "https://federalnewsnetwork.com/government-shutdown/2025/10/omb-says-substantial-federal-employee-layoffs-have-begun/",
+      "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2019/03/Trump_39093.jpg",
+      "source": "Federal News Network",
+      "publishedAt": "2025-10-10T17:41:27Z",
+      "description": "Just before the shutdown, OMB told agencies to draft RIF plans for programs that wouldn’t have alternative funding sources."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Peru’s president removed amid rising crime, corruption allegations",
+      "original_title": "Peru’s president removed amid rising crime, corruption allegations - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/10/10/peru-president-dina-boluarte-impeached-jose-jeri/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH5MXDHTH7F2STZFBPTY5IPYFY.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-10T17:34:56Z",
+      "description": "After Dina Boluarte’s ouster, acting president José Jerí promised a war on crime."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "MIT is first school to reject Trump administration's agenda in exchange for funding benefits",
+      "original_title": "MIT is first school to reject Trump administration's agenda in exchange for funding benefits - NBC News",
+      "url": "https://www.nbcnews.com/news/education/mit-rejects-trump-agenda-funding-benefits-rcna236894",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251010-mit-ch-1150-36f78b.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-10T16:45:42Z",
+      "description": "The Massachusetts Institute of Technology on Friday became the first school to reject an offer of federal funds in exchange for agreeing to the Trump administration's education agenda"
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "White House slams Nobel Committee for not awarding Peace Prize to Trump",
+      "original_title": "White House slams Nobel Committee for not awarding Peace Prize to Trump - BBC",
+      "url": "https://www.bbc.com/news/articles/c7842qg15p6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/df32/live/ce09e190-a5f5-11f0-af09-bf7f0464c1dc.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-10T16:14:54Z",
+      "description": "A spokesman says the Nobel Committee placed \"politics over peace\" in awarding the coveted award to Venezuela's opposition leader."
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Massive blast at military explosives plant in Tennessee leaves multiple people dead, several ‘unaccounted for’",
+      "original_title": "Massive blast at military explosives plant in Tennessee leaves multiple people dead, several ‘unaccounted for’ - CNN",
+      "url": "https://www.cnn.com/2025/10/10/us/hickman-county-explosion-tennessee",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/hickman-03-20251010160525661.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-10T16:13:19Z",
+      "description": "Multiple people are dead or unaccounted for after a military explosives facility in Tennessee blew up Friday morning, rattling nearby homes and setting off smaller explosions, local officials say."
     },
     {
       "flag": "🌍",
@@ -48,35 +103,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Hegseth announces Qatar will build air force facility at U.S. base in Idaho",
-      "original_title": "Hegseth announces Qatar will build air force facility at U.S. base in Idaho - CBS News",
-      "url": "https://www.cbsnews.com/news/hegseth-qatar-air-force-facility-us-base-idaho/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/10/a5a9fb10-75d6-4985-a88a-9445bbdb33e7/thumbnail/1200x630/23b2d0fae165f0268ec350e5ca354c50/2025-10-10t145334z-98295910-rc219hapq9tc-rtrmadp-3-usa-qatar.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-10T15:42:00Z",
-      "description": "The move is a sign of increasingly close ties between the U.S. and Qatar."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Battlefield 6 Server Status - Is BF6 Down?",
-      "original_title": "Battlefield 6 Server Status - Is BF6 Down? - GameSpot",
-      "url": "https://www.gamespot.com/articles/battlefield-6-server-status-is-bf6-down/1100-6535366/",
-      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1850/18507742/4583210-ss_e7672a36bcf33e3e664c314b9fb3db59a7b0944c.jpg",
-      "source": "GameSpot",
-      "publishedAt": "2025-10-10T15:23:28Z",
-      "description": "If you're struggling to get into the latest installment in the Battlefield series, we've got all you need to know on the current Battlefield 6 server status and queue times."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Video shows moment Nobel Peace Prize recipient Maria Corina Machado learns about honor: \"I am just one person\"",
-      "original_title": "Video shows moment Nobel Peace Prize recipient Maria Corina Machado learns about honor: \"I am just one person\" - CBS News",
-      "url": "https://www.cbsnews.com/news/video-nobel-peace-prize-maria-corina-machado-venezuela/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/10/1256d053-cc42-483f-bad0-ab87aa1c2917/thumbnail/1200x630g2/8ae4be5e133c1086e5eb7c88ebd80219/gettyimages-2192558653.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-10T15:14:19Z",
-      "description": "An emotional Maria Corina Machado can be heard saying she was honored, humbled and grateful \"on behalf of the Venezuelan people\" to receive the Nobel Peace Prize."
+      "title": "Melania Trump says she and Putin communicating about children affected by war - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Melania Trump says she and Putin communicating about children affected by war - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/Politics/melania-trump-putin-communicating-children-affected-war/story?id\\\\u003d126397912",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-10T15:33:45Z",
+      "description": ""
     },
     {
       "flag": "🌍",
@@ -92,46 +125,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Woman with the German keys\" identified by Interpol 21 years after her body was found in Dutch nature reserve",
-      "original_title": "\"Woman with the German keys\" identified by Interpol 21 years after her body was found in Dutch nature reserve - CBS News",
-      "url": "https://www.cbsnews.com/news/woman-with-german-keys-identified-interpol-body-found-2004/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/10/8893bd1d-45bc-43a8-81ec-3afe1aff8bc2/thumbnail/1200x630g6/71c52c81fa1056f4368d7534c37ef125/keys-0ee4e6347715-nl10-identified-en2.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-10T14:25:32Z",
-      "description": "Eva Maria Pommer's body was found on July 4, 2004. She was dressed in an unusual number of layers of clothing for the summertime, Interpol said."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Dodgers advance to NLCS, beat Phillies 2-1 on Kerkering’s 11th-inning error",
-      "original_title": "Dodgers advance to NLCS, beat Phillies 2-1 on Kerkering’s 11th-inning error - AP News",
-      "url": "https://apnews.com/article/phillies-dodgers-score-nlds-af672515e8130d1e6408cb29ac07b6d2",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d1a65fe/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2F75%2Ffde58c697d4add458165afed659e%2F062c4071a5e44160a893abaf215c18be",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-10T14:14:00Z",
-      "description": "Orion Kerkering made a wild throw past home instead of tossing to first after mishandling Andy Pages’ bases-loaded comebacker with two outs in the 11th inning, and the Los Angeles Dodgers beat the Phi"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Two powerful quakes strike off southern Philippines, killing at least 7 people",
-      "original_title": "Two powerful quakes strike off southern Philippines, killing at least 7 people - AP News",
-      "url": "https://apnews.com/article/philippines-earthquake-tsunami-b4136101b62a313ff327737433748e27",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0f13b18/2147483647/strip/true/crop/1731x974+0+90/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F11%2F7a4998af1c2727526e2928ea8043%2Fe56fb08e20c846d8911e3b4fdd278add",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-10T13:53:00Z",
-      "description": "Philippine seismologists say that a new offshore earthquake with a preliminary 6.8 magnitude hit the same southern region struck earlier by an earthquake with a magnitude of 7.4. Philippine Institute "
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "John Lodge, singer and bassist of Moody Blues during classic era, dies at 82",
-      "original_title": "John Lodge, singer and bassist of Moody Blues during classic era, dies at 82 - AP News",
-      "url": "https://apnews.com/article/moody-blues-john-lodge-death-8bc738f385048867148c9edb2d9cc003",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e0238d0/2147483647/strip/true/crop/2000x1125+0+152/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2Fdb%2Fbfd1fa8d3cb7d5e359f707865553%2F2a0c2d844e2c4282989fca152a92354c",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-10T13:39:00Z",
-      "description": "John Lodge, the singer and bassist of The Moody Blues, has died at 82. His family announced Friday that Lodge died suddenly and unexpectedly. He was surrounded by loved ones and the music of The Everl"
+      "title": "The insidious legal strategy Trump and Stephen Miller are using against their enemies - vox.com",
+      "original_title": "The insidious legal strategy Trump and Stephen Miller are using against their enemies - vox.com",
+      "url": "https://www.vox.com/politics/464395/trump-letitia-james-stephen-miller-soros-actblue-indivisible-retribution",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2237397769.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "Vox",
+      "publishedAt": "2025-10-10T14:45:00Z",
+      "description": "﻿They’re bringing weak cases that will likely fail — again, and again, and again."
     },
     {
       "flag": "🇺🇸",
@@ -145,15 +145,15 @@
       "description": "Scientists have shot two black holes orbiting each other, offering the first ever definitive proof that these intergalactic voids come in pairs, per a new study published in the Astrophysical Journ…"
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "UN official says scaled-up aid deliveries to Gaza will begin Sunday",
-      "original_title": "UN official says scaled-up aid deliveries to Gaza will begin Sunday - AP News",
-      "url": "https://apnews.com/article/gaza-shelling-ceasefire-israel-c832ff32cf332805ffb50bffa35e8220",
-      "urlToImage": "https://dims.apnews.com/dims4/default/bbea1fb/2147483647/strip/true/crop/8220x4624+0+428/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fb3%2Fae50e5682fbba1feb22c739553da%2F9cc2f8f8c8694887b32ee43478d9409a",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-10T12:26:00Z",
-      "description": "Tens of thousands of Palestinians headed back to the heavily destroyed northern Gaza Strip as a U.S.-brokered ceasefire came into effect on Friday. The deal has raised hopes for ending the Israel-Hama"
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Burkina Faso refuses to take deportees as US stops issuing visas",
+      "original_title": "Burkina Faso refuses to take deportees as US stops issuing visas - BBC",
+      "url": "https://www.bbc.com/news/articles/c2lx5r2z475o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/47f0/live/ffaa27b0-a5f4-11f0-af09-bf7f0464c1dc.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-10T13:07:08Z",
+      "description": "The West African nation's foreign minister asks if the decision led to the US suspending issuing visas."
     },
     {
       "flag": "🌍",
@@ -165,6 +165,17 @@
       "source": "Axios",
       "publishedAt": "2025-10-10T12:16:16Z",
       "description": "The federal government is poised to reopen the safety debate about aluminum in vaccines."
+    },
+    {
+      "flag": "🇫🇷",
+      "country": "fr",
+      "title": "NASA to Pack Astronauts Onto a Chip in The Name of Space Health",
+      "original_title": "NASA to Pack Astronauts Onto a Chip in The Name of Space Health - ScienceAlert",
+      "url": "https://www.sciencealert.com/nasa-to-pack-astronauts-onto-a-chip-in-the-name-of-space-health",
+      "urlToImage": "https://www.sciencealert.com/images/2025/10/avatar_lab_chip_header.jpg",
+      "source": "ScienceAlert",
+      "publishedAt": "2025-10-10T12:01:21Z",
+      "description": "When NASA launches its next stage in lunar exploration next year, its crew will be literally beside themselves as they swing around the Moon."
     },
     {
       "flag": "🌍",
@@ -180,6 +191,17 @@
     {
       "flag": "🌍",
       "country": "global",
+      "title": "Capitol agenda: No deal as the shutdown marches toward Week Three",
+      "original_title": "Capitol agenda: No deal as the shutdown marches toward Week Three - Politico",
+      "url": "https://www.politico.com/live-updates/2025/10/10/congress/shutdown-timeline-military-paychecks-obamacare-schumer-shaheen-00601839",
+      "urlToImage": "https://www.politico.com/dims4/default/c975511/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcc%2F33%2F506b0ddb40ed9d267c7630172c6d%2Fu-s-congress-42824.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-10T12:00:00Z",
+      "description": "Republicans plan to shift their CR vote strategy once the Senate returns next week."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
       "title": "No Doubt Announces Residency at Las Vegas’ Sphere and Reveals 2026 Dates",
       "original_title": "No Doubt Announces Residency at Las Vegas’ Sphere and Reveals 2026 Dates - Variety",
       "url": "https://variety.com/2025/music/news/no-doubt-announces-2026-residency-las-vegas-sphere-1236545053/",
@@ -191,24 +213,24 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Global selloff underway as traders sour on U.S. government shutdown and doubts about the Fed grow",
-      "original_title": "Global selloff underway as traders sour on U.S. government shutdown and doubts about the Fed grow - Fortune",
-      "url": "https://fortune.com/2025/10/10/stocks-global-us-government-shutdown-fed-rate-cut/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2239318936_7b89e1.jpg?resize=1200,600",
-      "source": "Fortune",
-      "publishedAt": "2025-10-10T10:23:00Z",
-      "description": "It’s not chaos, but it’s not good."
+      "title": "Copilot on Windows can now create Office documents and connect to Gmail",
+      "original_title": "Copilot on Windows can now create Office documents and connect to Gmail - The Verge",
+      "url": "https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-10T09:47:59Z",
+      "description": "Microsoft is updating its Copilot app on Windows to let the AI assistant create Office files. Documents can be created from the chat interface."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "When Trump demands prosecutions, his DOJ now obeys",
-      "original_title": "When Trump demands prosecutions, his DOJ now obeys - Politico",
-      "url": "https://www.politico.com/news/2025/10/10/trump-doj-prosecutions-comey-james-00601838",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb0%2Fcc%2Fb49d1e474e97993aff1a7ca30b6a%2Ftrump-antifa-45707.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-10T09:55:00Z",
-      "description": "Donald Trump has long called for imprisoning his opponents. For the first time, he has a Justice Department willing to do his bidding."
+      "title": "Massive Russian attack on Ukraine energy sector prompts sharp Zelenskyy rebuke and call for more help from allies",
+      "original_title": "Massive Russian attack on Ukraine energy sector prompts sharp Zelenskyy rebuke and call for more help from allies - CBS News",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-massive-attack-energy-sector-zelenskyy/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/10/80517078-8c8c-4e60-bc3b-55853832a3c8/thumbnail/1200x630/b5516bbaad9a1afbef1f97175a3ff701/gettyimages-2240227033.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-10T09:34:00Z",
+      "description": "Russian drone and missile strikes caused blackouts across large swaths of Ukraine, damaged residential buildings and injured at least 20 people in Kyiv, authorities said."
     },
     {
       "flag": "🇬🇧",
@@ -222,48 +244,37 @@
       "description": "A judge calls the row between the rappers \"the most infamous rap battle in the genre's history\"."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "How Trump’s envoys got Gaza deal over the finish line",
-      "original_title": "How Trump’s envoys got Gaza deal over the finish line - Politico",
-      "url": "https://www.politico.com/news/2025/10/09/trumps-envoys-gaza-deal-00601374",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbf%2F52%2Fb6b061d142a58dc2e0b291fa685f%2Fegypt-mideast-wars-gaza-us-82948.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-10T01:59:50Z",
-      "description": "Envoys Steve Witkoff and Jared Kushner dictated the final compromises to speed the talks to completion"
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Tsunami threat passes in Philippines and Indonesia after powerful quake, warning agency says",
+      "original_title": "Tsunami threat passes in Philippines and Indonesia after powerful quake, warning agency says - BBC",
+      "url": "https://www.bbc.com/news/live/c33r1dgnmnvt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0f7/live/e13046c0-a58b-11f0-bf40-7162c25b432e.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-10T05:35:14Z",
+      "description": "The Pacific Tsunami Warning Center earlier warned of waves of up to 3m (10ft) above tide level reaching the Philippine coast."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "FACT FOCUS: Trump paints a grim portrait of Portland. The story on the ground is much less extreme",
-      "original_title": "FACT FOCUS: Trump paints a grim portrait of Portland. The story on the ground is much less extreme - AP News",
-      "url": "https://apnews.com/article/fact-check-trump-portland-oregon-protests-antifa-203826406efb7420911ae756b4331f60",
-      "urlToImage": "https://dims.apnews.com/dims4/default/df0f6dc/2147483647/strip/true/crop/4254x2393+0+222/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2Fc7%2Ff8bf299dbb07e5cec71713d81d63%2F0b6b234a6a0d40928bb231a2817bf5ca",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-10T01:24:00Z",
-      "description": "President Donald Trump and his administration have described Portland, Oregon, as a city under siege by antifa, labeling it a war zone. However, the reality in Portland is less extreme. There have bee"
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Ukraine says ‘massive’ Russian attack targeted energy infrastructure",
-      "original_title": "Ukraine says ‘massive’ Russian attack targeted energy infrastructure - CNN",
-      "url": "https://www.cnn.com/2025/10/09/europe/russia-ukraine-infrastructure-attack-hnk-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239619912.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-10T00:55:00Z",
-      "description": "Russia carried out a “massive attack” on Ukraine’s energy infrastructure, top Ukrainian officials said early Friday, leaving parts of the capital Kyiv without power."
+      "title": "The Fascinating Waveguide Technology Inside Meta’s Ray-Ban Display Glasses",
+      "original_title": "The Fascinating Waveguide Technology Inside Meta’s Ray-Ban Display Glasses - Hackaday",
+      "url": "https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2025/10/ifixit_Meta_Glasses_119.jpg",
+      "source": "Hackaday",
+      "publishedAt": "2025-10-10T02:00:00Z",
+      "description": "Recently the avid teardown folk over at iFixit got their paws on Meta’s Ray-Ban Display glasses, for a literal in-depth look at these smart glasses. Along the way they came across the fascina…"
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Google Explains Gearless Hinge System on Pixel 10 Pro Fold",
-      "original_title": "Google Explains Gearless Hinge System on Pixel 10 Pro Fold - Droid Life",
-      "url": "https://www.droid-life.com/2025/10/09/pixel-10-pro-fold-gearless-hinge/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-1200x628-cropped.jpg",
-      "source": "Droid Life",
-      "publishedAt": "2025-10-09T21:56:31Z",
-      "description": "Pixel 10 Pro Fold features a completely redesigned hinge system, one that has no gears. It’s a gearless hinge. This is a big deal because gears can wear down over time, as well as get crud stuck up in"
+      "title": "New species of Jurassic 'sword dragon' could help solve an evolutionary mystery",
+      "original_title": "New species of Jurassic 'sword dragon' could help solve an evolutionary mystery - Live Science",
+      "url": "https://www.livescience.com/animals/extinct-species/new-species-of-jurassic-sword-dragon-could-help-solve-an-evolutionary-mystery",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xaubTnbRejWWbReoGpTD93-1920-80.jpg",
+      "source": "Live Science",
+      "publishedAt": "2025-10-10T00:00:00Z",
+      "description": "The newly discovered ichthyosaur dubbed Xiphodracon goldencapsis was about 10 feet long and had a sword-shaped snout."
     },
     {
       "flag": "🇺🇸",
@@ -275,17 +286,6 @@
       "source": "Thetimes.com",
       "publishedAt": "2025-10-09T18:00:00Z",
       "description": "Scientists analysed Europe’s biggest bats to find how they target their prey, capturing distress calls and even the sound of chewing"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Second-farthest object ever spotted by James Webb telescope may be something we've never seen before",
-      "original_title": "Second-farthest object ever spotted by James Webb telescope may be something we've never seen before - Live Science",
-      "url": "https://www.livescience.com/space/cosmology/james-webb-telescope-may-have-spotted-controversial-dark-stars-in-the-far-universe",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wnmeHkvAwMTSavjfKJxMjf-1920-80.jpg",
-      "source": "Live Science",
-      "publishedAt": "2025-10-09T15:49:02Z",
-      "description": "Using observations from the James Webb Space Telescope, astrophysicists have spotted what they say is compelling evidence of a new type of cosmic object called a 'dark star.'"
     },
     {
       "flag": "🌍",
