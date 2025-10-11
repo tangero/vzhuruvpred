@@ -1,16 +1,82 @@
 {
-  "last_updated": "2025-10-11T02:52:40",
+  "last_updated": "2025-10-11T03:25:23",
   "articles": [
+    {
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Judge blocks Trump from deploying troops in Illinois for now",
+      "original_title": "Judge blocks Trump from deploying troops in Illinois for now - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2025/10/09/trump-portland-chicago-national-guard-appeal/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCWSD77V3OZ7YUYWC4C5WM5BW4_size-normalized.JPG&w=1440",
+      "source": "The Washington Post",
+      "publishedAt": "2025-10-10T00:50:30Z",
+      "description": "Officials in Oregon and Illinois had challenged the Trump administration’s push to dispatch the National Guard in both states."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "Fossil found on UK coast is unique 'sword dragon' species",
+      "original_title": "Fossil found on UK coast is unique 'sword dragon' species - BBC",
+      "url": "https://www.bbc.com/news/articles/cdjzvzzy0mxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7eb1/live/cdd866d0-a530-11f0-b741-177e3e2c2fc7.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-10T00:20:07Z",
+      "description": "Scientists say the newly discovered species of marine reptile probably met a grisly end."
+    },
+    {
+      "flag": "🇬🇧",
+      "country": "gb",
+      "title": "US kicks off controversial financial rescue plan for Argentina",
+      "original_title": "US kicks off controversial financial rescue plan for Argentina - BBC",
+      "url": "https://www.bbc.com/news/articles/c203vx56lqyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d157/live/35fa1e00-a556-11f0-9384-df5a4052ae6a.jpg",
+      "source": "BBC News",
+      "publishedAt": "2025-10-10T00:09:38Z",
+      "description": "The Trump administration will purchase pesos in a bid to calm Argentina's economic crisis."
+    },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Judge temporarily blocks National Guard deployment in Illinois amid Chicago, Portland hearings - ABC News - Breaking News, Latest News and Videos",
-      "original_title": "Judge temporarily blocks National Guard deployment in Illinois amid Chicago, Portland hearings - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://abcnews.go.com/Politics/trumps-national-guard-faces-critical-legal-tests/story?id\\\\u003d126354650",
+      "title": "Spanberger and Earle-Sears tussle over violent political rhetoric in only debate",
+      "original_title": "Spanberger and Earle-Sears tussle over violent political rhetoric in only debate - Politico",
+      "url": "https://www.politico.com/news/2025/10/09/spanberger-earle-sears-violent-political-rhetoric-debate-00601171",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F3b%2F3d%2F8d1c5cf647ee87a3503eda835c91%2Felection-2025-virginia-48797.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-09T23:53:31Z",
+      "description": "The Republican pressed Spanberger on a 2022 text message sent by the Democratic candidate for Virginia attorney general."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "The 11th-Hour Campaign to Land Trump a Nobel Peace Prize",
+      "original_title": "The 11th-Hour Campaign to Land Trump a Nobel Peace Prize - The Wall Street Journal",
+      "url": "https://www.wsj.com/world/trump-nobel-peace-prize-campaign-e30ec554",
       "urlToImage": null,
-      "source": "ABC News",
-      "publishedAt": "2025-10-09T22:52:30Z",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2025-10-09T23:03:00Z",
       "description": ""
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Day 3 of Amazon October Prime Day is ending soon — 50 best last-minute deals up to 69% off: Save on iPads, headphones and more",
+      "original_title": "Day 3 of Amazon October Prime Day is ending soon — 50 best last-minute deals up to 69% off: Save on iPads, headphones and more - Yahoo Lifestyle Canada",
+      "url": "https://ca.style.yahoo.com/day-3-of-amazon-october-prime-day-is-ending-soon--50-best-last-minute-deals-up-to-69-off-save-on-ipads-headphones-and-more-225057163.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XMpCHlGo_HhAf6gsAYlWSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/df0b47e0-a55f-11f0-bfef-cba0335a5fa6",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2025-10-09T22:50:57Z",
+      "description": "These are the absolute best fall Prime Day deals in Canada, according to shopping experts."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
+      "original_title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting - Ars Technica",
+      "url": "https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-1152x648.jpg",
+      "source": "Ars Technica",
+      "publishedAt": "2025-10-09T22:17:09Z",
+      "description": "The committee aims to take on the entire childhood vaccine schedule."
     },
     {
       "flag": "🌍",
@@ -35,39 +101,6 @@
       "description": "Shedeur Sanders shares what he said to Dillon Gabriel after he became the Browns' starter."
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "RFK Jr.’s new shocking autism theory leaves internet in disbelief",
-      "original_title": "RFK Jr.’s new shocking autism theory leaves internet in disbelief - AL.com",
-      "url": "https://www.al.com/politics/2025/10/rfk-jrs-new-shocking-autism-theory-leaves-internet-in-disbelief.html",
-      "urlToImage": "https://www.al.com/resizer/v2/YMRFFI3UNBFKNNQFM3SM5UVXJ4.jpg?auth=f6f2ae833542639906391d3285e7989979812d39bee967e41db04504e3cf57d2&width=1280&smart=true&quality=90",
-      "source": "AL.com",
-      "publishedAt": "2025-10-09T19:23:00Z",
-      "description": "Kennedy’s latest theory left critics scratching their heads."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Tesla hit with probe after crashes involving a self-driving feature that Musk has boasted about",
-      "original_title": "Tesla hit with probe after crashes involving a self-driving feature that Musk has boasted about - AP News",
-      "url": "https://apnews.com/article/tesla-full-selfdriving-investigation-nhtsa-1f7fe4da8df2abfa03341c30a0f1b8b5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9ac3a3a/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2F8d%2Fa623c19997c684b66e238c4269be%2F4ac4cd5f4eeb4a1d9e44c14ee8655b47",
-      "source": "Associated Press",
-      "publishedAt": "2025-10-09T19:21:00Z",
-      "description": "Federal regulators have opened yet another investigation into Tesla’s so-called full-self driving technology after dozens of incidents in which the electric vehicle maker’s cars ran red lights or drov"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "3 arrested in suspected terror plot targeting Belgian PM Bart De Wever - politico.eu",
-      "original_title": "3 arrested in suspected terror plot targeting Belgian PM Bart De Wever - politico.eu",
-      "url": "https://www.politico.eu/article/belgium-terror-plot-prime-minister-bart-de-wever-crime/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-2230608763-scaled.jpg",
-      "source": "POLITICO.eu",
-      "publishedAt": "2025-10-09T18:55:00Z",
-      "description": "Federal investigators are probing evidence of plans to use a drone to deploy an explosive device."
-    },
-    {
       "flag": "🇺🇸",
       "country": "us",
       "title": "Katie Porter’s bid for governor is getting noticed – but not how she wants",
@@ -79,37 +112,26 @@
       "description": "Two viral videos have brought unwelcome attention to the former congresswoman, who has been leading polls in the 2026 California governor’s race."
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "US justice department launches inquiry into First Brands",
-      "original_title": "US justice department launches inquiry into First Brands - Financial Times",
-      "url": "https://www.ft.com/content/9eec3cbf-264b-4cae-bf5e-311b83fef7fc",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F674197e2-1f80-434d-bac1-870ae105513a.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-09T18:24:37Z",
-      "description": "New York prosecutors’ probe into bankrupt company is at an early stage and described as a fact-finding mission"
+      "flag": "🌍",
+      "country": "global",
+      "title": "Naked mole rats live for decades — genetic tweaks reveal insights into ageing",
+      "original_title": "Naked mole rats live for decades — genetic tweaks reveal insights into ageing - Nature",
+      "url": "https://www.nature.com/articles/d41586-025-03279-y",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03279-y/d41586-025-03279-y_51546490.jpg",
+      "source": "Nature.com",
+      "publishedAt": "2025-10-09T18:08:54Z",
+      "description": "Four subtle changes to an enzyme might explain the hairless rodents’ longevity."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "‘Minecraft 2’ Is Happening With Director Jared Hess Returning, Summer 2027 Release Set",
-      "original_title": "‘Minecraft 2’ Is Happening With Director Jared Hess Returning, Summer 2027 Release Set - Deadline",
-      "url": "http://deadline.com/2025/10/minecraft-2-release-date-1236574896/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/MCDMIMO_WB022.jpg?w=1024",
+      "title": "Bradley Cooper Eyeing ‘Ocean’s’ Prequel At Warner Bros. Starring Margot Robbie",
+      "original_title": "Bradley Cooper Eyeing ‘Ocean’s’ Prequel At Warner Bros. Starring Margot Robbie - Deadline",
+      "url": "http://deadline.com/2025/10/bradley-cooper-oceans-prequel-margot-robbie-1236574659/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/Bradley-Cooper-and-Margot-Robbie.jpg?w=1024",
       "source": "Deadline",
-      "publishedAt": "2025-10-09T18:11:00Z",
-      "description": "Here’s some good news to go along with Michael De Luca and Pam Abdy’s reup as Warner Bros Motion Picture Chairs: A Minecraft Movie 2 is in the work at Warner Bros with Jared Hess returning to direct t"
-    },
-    {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Naked mole rats reveal genetic secret to long life",
-      "original_title": "Naked mole rats reveal genetic secret to long life - BBC",
-      "url": "https://www.bbc.com/news/articles/cz7rxy21lxwo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d1e4/live/bb740ed0-a4fa-11f0-b741-177e3e2c2fc7.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-09T18:06:04Z",
-      "description": "The bald, subterranean rats are the world's longest-lived rodent."
+      "publishedAt": "2025-10-09T18:02:00Z",
+      "description": "Bradley Cooper is in negotiations to star opposite Margot Robbie in the Ocean's Eleven prequel movie at Warner Bros."
     },
     {
       "flag": "🌍",
@@ -125,17 +147,6 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Boston nor'easter weather forecast calls for strong wind gusts, heavy rain for part of holiday weekend",
-      "original_title": "Boston nor'easter weather forecast calls for strong wind gusts, heavy rain for part of holiday weekend - CBS News",
-      "url": "https://www.cbsnews.com/boston/news/boston-noreaster-weather-maps-weekend/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/09/7be3ad10-d9ea-43e4-857d-9109375c9bde/thumbnail/1200x630/108317f81be35877f42327e82d7421e1/sun-radar-nor.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-09T17:16:37Z",
-      "description": "A nor'easter is set to hit Boston on the holiday weekend. Maps show the latest weather forecast."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
       "title": "Comet 3I/ATLAS is losing water 'like a fire hose' on full blast, 'rewriting what we thought we knew' about alien star systems",
       "original_title": "Comet 3I/ATLAS is losing water 'like a fire hose' on full blast, 'rewriting what we thought we knew' about alien star systems - Live Science",
       "url": "https://www.livescience.com/space/comets/comet-3i-atlas-is-losing-water-like-a-fire-hose-on-full-blast-rewriting-what-we-thought-we-knew-about-alien-star-systems",
@@ -145,15 +156,15 @@
       "description": "Researchers have discovered that interstellar comet 3I/ATLAS has been shedding water, providing insights into the building blocks of life outside of our solar system and the evolution of interstellar "
     },
     {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Column | I tracked Amazon’s Prime Day prices. We’ve been played.",
-      "original_title": "Column | I tracked Amazon’s Prime Day prices. We’ve been played. - The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZJWTJ5NQLJCANBFAC7G2YETX4I.jpg&w=1440",
-      "source": "The Washington Post",
-      "publishedAt": "2025-10-09T17:00:00Z",
-      "description": "Here’s what you should do to actually get a good deal on Amazon."
+      "flag": "🌍",
+      "country": "global",
+      "title": "Trump promises cuts to programs favored by Democrats",
+      "original_title": "Trump promises cuts to programs favored by Democrats - Politico",
+      "url": "https://www.politico.com/news/2025/10/09/trump-promises-cuts-democrats-programs-00599884",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd9%2Fd7%2F577421d84cefb4018fcc066cba7d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2240137132",
+      "source": "Politico",
+      "publishedAt": "2025-10-09T16:53:11Z",
+      "description": "“I hate to tell you, but we are cutting Democrat programs,” the president said."
     },
     {
       "flag": "🌍",
@@ -200,17 +211,6 @@
       "description": "Every phone manufacturer wants to make a thin phone now, and one of the most experienced ones is showing exactly..."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Israeli cabinet to vote on Gaza deal that would bring ceasefire and hostages' release - live updates",
-      "original_title": "Israeli cabinet to vote on Gaza deal that would bring ceasefire and hostages' release - live updates - BBC",
-      "url": "https://www.bbc.com/news/live/cx2nzlj2j4kt",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b590/live/f9c2d140-a526-11f0-94a8-5d6a26920553.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-09T14:38:01Z",
-      "description": "Donald Trump says the Israeli hostages could be released on \"Monday or Tuesday\", and that the process is complicated: \"They are in places you don't want to be.\""
-    },
-    {
       "flag": "🌍",
       "country": "global",
       "title": "Covid Shots Are About to Be Widely Available Again",
@@ -231,6 +231,17 @@
       "source": "The Verge",
       "publishedAt": "2025-10-09T13:00:00Z",
       "description": "Intel’s Panther Lake, built on its 18A process, is the foundation of its next Intel Core Ultra Series 3 laptop chips. Here’s what we know."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Here’s what the OpenAI-AMD deal says about Nvidia",
+      "original_title": "Here’s what the OpenAI-AMD deal says about Nvidia - MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-what-the-openai-amd-deal-says-about-nvidia-9a305c69",
+      "urlToImage": "https://images.mktw.net/im-02703322/social",
+      "source": "MarketWatch",
+      "publishedAt": "2025-10-09T12:14:00Z",
+      "description": "OpenAI says it’s buying AMD chips to get more computing power. Analysts also see benefits to diversifying away from Nvidia and likely securing favorable pricing."
     },
     {
       "flag": "🌍",
@@ -257,35 +268,35 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Drinking Diet Soda May Raise Your Liver Disease Risk by Up to 60%, New Study Says",
-      "original_title": "Drinking Diet Soda May Raise Your Liver Disease Risk by Up to 60%, New Study Says - EatingWell",
-      "url": "https://www.eatingwell.com/is-diet-soda-bad-for-your-liver-study-11826944",
-      "urlToImage": "https://www.eatingwell.com/thmb/QAXqoMEyvrmt4VzUr6alO_1vVNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sodas-Even-Diet-Ones-May-Raise-Your-Liver-Disease-Risk-New-Study-Suggests-41e405603ca14c8e9f73a8dc655114ce.jpg",
-      "source": "Eatingwell.com",
-      "publishedAt": "2025-10-08T21:41:47Z",
-      "description": "Both sugary and diet sodas may raise the risk of liver disease. Learn how your drink choices impact your health and why water is the safest option."
+      "title": "NCDHHS reports first flu-related death of 2025-2026 season in western NC",
+      "original_title": "NCDHHS reports first flu-related death of 2025-2026 season in western NC - WLOS",
+      "url": "https://wlos.com/news/local/first-flu-related-death-ncdhhs-adult-reports-2025-2026-season-western-nc-north-carolina-wnc-virus-illness-department-health-human-services-covid-19-rsv",
+      "urlToImage": "https://wlos.com/resources/media/6543f783-20ca-4a35-bc4c-21d687e31b3e-large16x9_AP19108763545202.jpg?1555689010951",
+      "source": "WLOS",
+      "publishedAt": "2025-10-08T20:30:46Z",
+      "description": "On Oct. 8, the North Carolina Department of Health and Human Services announced the first flu-related death of the 2025-2026 flu season, an adult in WNC."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Amazon customers are disturbed by new Ring camera feature",
-      "original_title": "Amazon customers are disturbed by new Ring camera feature - TheStreet",
-      "url": "https://www.thestreet.com/retail/amazon-customers-are-disturbed-by-new-ring-camera-feature",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE4MzAzNDE1Nzk5Nzg1MzA4/amazons-fall-product-event-1.jpg",
-      "source": "TheStreet",
-      "publishedAt": "2025-10-08T12:07:00Z",
-      "description": "Amazon recently unveiled an upcoming change to Ring devices, which is making customers uncomfortable."
+      "title": "Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes",
+      "original_title": "Google’s New Foldable, Smartwatch Emphasize AI Rather Than Hardware Changes - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/features/2025-10-08/google-pixel-10-pro-fold-pixel-watch-4-review-new-ai-tricks-familiar-designs",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW5T4Uyqrd_g/v1/1200x800.jpg",
+      "source": "Bloomberg",
+      "publishedAt": "2025-10-08T17:00:07Z",
+      "description": "After releasing a trio of Pixel 10 smartphones this summer, Alphabet Inc.’s Google is back with the remainder of its 2025 Pixel lineup."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Spectacular sight for harvest supermoon hunters in South West",
-      "original_title": "Spectacular sight for harvest supermoon hunters in South West - BBC",
-      "url": "https://www.bbc.com/news/articles/c4gz1ql3j83o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be80/live/a214d510-a418-11f0-8a6a-83594c206e97.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-08T10:59:15Z",
-      "description": "Appearing especially bright and large, supermoons occur when the moon is closest to Earth."
+      "flag": "🌍",
+      "country": "global",
+      "title": "No Good Art Comes From Greed",
+      "original_title": "No Good Art Comes From Greed - Defector",
+      "url": "https://defector.com/taylor-swift-life-of-a-showgirl-bad-greed",
+      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/10/GettyImages-2197310482-e1759766060120.jpg",
+      "source": "Defector.com",
+      "publishedAt": "2025-10-06T16:15:00Z",
+      "description": "The packages arrived square and thin and carefully wrapped on Saturday afternoon. There were three of them, but only one was mine. If I could have rejected my package, sent it back from whence it came"
     }
   ]
 }
