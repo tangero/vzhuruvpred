@@ -1,60 +1,181 @@
 {
-  "last_updated": "2025-10-11T16:19:21",
+  "last_updated": "2025-10-11T17:13:17",
   "articles": [
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Stock Market Today: Dow Edges Higher; Consumer-Sentiment Steady; Gold Prices Rise — Live Updates",
-      "original_title": "Stock Market Today: Dow Edges Higher; Consumer-Sentiment Steady; Gold Prices Rise — Live Updates - The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-10-2025",
-      "urlToImage": "https://images.wsj.net/im-34062673/social",
-      "source": "The Wall Street Journal",
-      "publishedAt": "2025-10-10T14:15:00Z",
-      "description": "Trump’s tariffs and the government shutdown continue to affect the economy. Follow live updates on the Dow, S&P 500, Nasdaq and other markets, including bitcoin and gold."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza",
-      "original_title": "Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN",
-      "url": "https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-agreement-10-10-25",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2239520862.jpg?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-10T14:12:00Z",
-      "description": "The Israeli military said that a ceasefire was now in effect in Gaza, as its forces pull back in accordance with the deal approved by the government overnight. Follow for live news updates."
+      "title": "Multiple people dead in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos",
+      "original_title": "Multiple people dead in 'devastating blast' at explosives manufacturer in Tennessee: Sheriff - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.go.com/US/tennessee-explosives-plant-manufacturer-explosion/story?id\\\\u003d126405185",
+      "urlToImage": null,
+      "source": "ABC News",
+      "publishedAt": "2025-10-10T16:08:07Z",
+      "description": ""
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Timely troop pay is now in Trump’s hands",
-      "original_title": "Timely troop pay is now in Trump’s hands - Politico",
-      "url": "https://www.politico.com/live-updates/2025/10/10/congress/timely-troop-pay-is-now-in-trumps-hands-00601881",
-      "urlToImage": "https://www.politico.com/dims4/default/5858a96/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F41%2Fe6%2Fae0447c14a77aa04483ab01ad6f1%2Ftrump-navy-15073.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-10T14:11:36Z",
-      "description": "Congress will not be able to act in time to get servicemembers their Oct. 15 paychecks."
+      "title": "Billie Eilish violently yanked by audience member during Miami concert",
+      "original_title": "Billie Eilish violently yanked by audience member during Miami concert - NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/billie-eilish-violently-yanked-audience-member-miami-concert-rcna236869",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251010-Billie-Eilish-miami-ew-1017a-a3ae9a.jpg",
+      "source": "NBC News",
+      "publishedAt": "2025-10-10T16:05:43Z",
+      "description": "A fan at a Billie Eilish concert in Miami violently yanked the famed singer-songwriter toward the crowd, viral videos of the scary incident showed"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Powerful 7.4-magnitude earthquake rocks southern Philippines",
-      "original_title": "Powerful 7.4-magnitude earthquake rocks southern Philippines - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/10/10/powerful-quake-hits-philippines-davao/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZZPXZPY46KNESDS2U344Q5HDHA.jpg&w=1440",
+      "title": "In an age of vaccine skepticism, parents trust pediatricians most",
+      "original_title": "In an age of vaccine skepticism, parents trust pediatricians most - The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2025/10/10/pediatricians-vaccine-trust-influencers-rfk-jr/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R7FPX3P56VHEYLWX35SI2BEXKU_size-normalized.jpg&w=1440",
       "source": "The Washington Post",
-      "publishedAt": "2025-10-10T12:38:56Z",
-      "description": "The quake, centered off the coast of Mindanao, struck at 9:43 a.m. local time but the extent of the damage was not immediately clear."
+      "publishedAt": "2025-10-10T16:01:46Z",
+      "description": "A Washington Post-KFF poll finds that pediatricians are the most trusted source for vaccine information and that confidence in them is a strong predictor of vaccination."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dow drops 400 points after Trump says China becoming 'hostile' over rare earth metals, cancels Xi meeting",
+      "original_title": "Dow drops 400 points after Trump says China becoming 'hostile' over rare earth metals, cancels Xi meeting - CNBC",
+      "url": "https://www.cnbc.com/2025/10/09/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107367057-1706715548662-gettyimages-1967855530-AFP_34HB8TN.jpeg?v=1759257460&w=1920&h=1080",
+      "source": "CNBC",
+      "publishedAt": "2025-10-10T15:43:00Z",
+      "description": "The Trump post sparked a rapid sell-off in stocks Friday."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Hegseth announces Qatar will build air force facility at U.S. base in Idaho",
+      "original_title": "Hegseth announces Qatar will build air force facility at U.S. base in Idaho - CBS News",
+      "url": "https://www.cbsnews.com/news/hegseth-qatar-air-force-facility-us-base-idaho/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/10/a5a9fb10-75d6-4985-a88a-9445bbdb33e7/thumbnail/1200x630/23b2d0fae165f0268ec350e5ca354c50/2025-10-10t145334z-98295910-rc219hapq9tc-rtrmadp-3-usa-qatar.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-10T15:42:00Z",
+      "description": "The move is a sign of increasingly close ties between the U.S. and Qatar."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Battlefield 6 Server Status - Is BF6 Down?",
+      "original_title": "Battlefield 6 Server Status - Is BF6 Down? - GameSpot",
+      "url": "https://www.gamespot.com/articles/battlefield-6-server-status-is-bf6-down/1100-6535366/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1850/18507742/4583210-ss_e7672a36bcf33e3e664c314b9fb3db59a7b0944c.jpg",
+      "source": "GameSpot",
+      "publishedAt": "2025-10-10T15:23:28Z",
+      "description": "If you're struggling to get into the latest installment in the Battlefield series, we've got all you need to know on the current Battlefield 6 server status and queue times."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Video shows moment Nobel Peace Prize recipient Maria Corina Machado learns about honor: \"I am just one person\"",
+      "original_title": "Video shows moment Nobel Peace Prize recipient Maria Corina Machado learns about honor: \"I am just one person\" - CBS News",
+      "url": "https://www.cbsnews.com/news/video-nobel-peace-prize-maria-corina-machado-venezuela/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/10/1256d053-cc42-483f-bad0-ab87aa1c2917/thumbnail/1200x630g2/8ae4be5e133c1086e5eb7c88ebd80219/gettyimages-2192558653.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-10T15:14:19Z",
+      "description": "An emotional Maria Corina Machado can be heard saying she was honored, humbled and grateful \"on behalf of the Venezuelan people\" to receive the Nobel Peace Prize."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "So much for Ford and GM’s scheme to extend the EV tax credit",
+      "original_title": "So much for Ford and GM’s scheme to extend the EV tax credit - The Verge",
+      "url": "https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK437_ELECTRIC_VEHICLE_EVS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "The Verge",
+      "publishedAt": "2025-10-10T14:55:36Z",
+      "description": "Ford and GM are killing their plan to extend the $7,500 EV tax credit to customers through the end of the year, after a couple of Republican senators snitched."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Woman with the German keys\" identified by Interpol 21 years after her body was found in Dutch nature reserve",
+      "original_title": "\"Woman with the German keys\" identified by Interpol 21 years after her body was found in Dutch nature reserve - CBS News",
+      "url": "https://www.cbsnews.com/news/woman-with-german-keys-identified-interpol-body-found-2004/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/10/8893bd1d-45bc-43a8-81ec-3afe1aff8bc2/thumbnail/1200x630g6/71c52c81fa1056f4368d7534c37ef125/keys-0ee4e6347715-nl10-identified-en2.jpg",
+      "source": "CBS News",
+      "publishedAt": "2025-10-10T14:25:32Z",
+      "description": "Eva Maria Pommer's body was found on July 4, 2004. She was dressed in an unusual number of layers of clothing for the summertime, Interpol said."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Dodgers advance to NLCS, beat Phillies 2-1 on Kerkering’s 11th-inning error",
+      "original_title": "Dodgers advance to NLCS, beat Phillies 2-1 on Kerkering’s 11th-inning error - AP News",
+      "url": "https://apnews.com/article/phillies-dodgers-score-nlds-af672515e8130d1e6408cb29ac07b6d2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d1a65fe/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2F75%2Ffde58c697d4add458165afed659e%2F062c4071a5e44160a893abaf215c18be",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-10T14:14:00Z",
+      "description": "Orion Kerkering made a wild throw past home instead of tossing to first after mishandling Andy Pages’ bases-loaded comebacker with two outs in the 11th inning, and the Los Angeles Dodgers beat the Phi"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Two powerful quakes strike off southern Philippines, killing at least 7 people",
+      "original_title": "Two powerful quakes strike off southern Philippines, killing at least 7 people - AP News",
+      "url": "https://apnews.com/article/philippines-earthquake-tsunami-b4136101b62a313ff327737433748e27",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0f13b18/2147483647/strip/true/crop/1731x974+0+90/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F11%2F7a4998af1c2727526e2928ea8043%2Fe56fb08e20c846d8911e3b4fdd278add",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-10T13:53:00Z",
+      "description": "Philippine seismologists say that a new offshore earthquake with a preliminary 6.8 magnitude hit the same southern region struck earlier by an earthquake with a magnitude of 7.4. Philippine Institute "
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "John Lodge, singer and bassist of Moody Blues during classic era, dies at 82",
+      "original_title": "John Lodge, singer and bassist of Moody Blues during classic era, dies at 82 - AP News",
+      "url": "https://apnews.com/article/moody-blues-john-lodge-death-8bc738f385048867148c9edb2d9cc003",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e0238d0/2147483647/strip/true/crop/2000x1125+0+152/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2Fdb%2Fbfd1fa8d3cb7d5e359f707865553%2F2a0c2d844e2c4282989fca152a92354c",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-10T13:39:00Z",
+      "description": "John Lodge, the singer and bassist of The Moody Blues, has died at 82. His family announced Friday that Lodge died suddenly and unexpectedly. He was surrounded by loved ones and the music of The Everl"
     },
     {
       "flag": "🇺🇸",
       "country": "us",
-      "title": "Dan Orlovsky reveals what makes Eagles’ offense ‘predictable’ after ugly ‘TNF’ loss to Giants",
-      "original_title": "Dan Orlovsky reveals what makes Eagles’ offense ‘predictable’ after ugly ‘TNF’ loss to Giants - New York Post",
-      "url": "https://nypost.com/2025/10/10/sports/dan-orlovsky-reveals-what-makes-eagles-offense-predictable-after-ugly-tnf-loss-to-giants/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-z3prrm3pa-1760096656676.jpg?quality=75&strip=all&1760082315&w=1024",
+      "title": "Groundbreaking new image proves existence of black hole pairs — seen orbiting each other for the first time",
+      "original_title": "Groundbreaking new image proves existence of black hole pairs — seen orbiting each other for the first time - New York Post",
+      "url": "https://nypost.com/2025/10/10/science/groundbreaking-new-image-proves-existence-of-black-hole-pairs/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/newspress-collage-8xxztei5p-1760101209380.jpg?quality=75&strip=all&1760086855&w=1024",
       "source": "New York Post",
-      "publishedAt": "2025-10-10T12:13:00Z",
-      "description": "The Eagles have a bigger tell than Teddy KGB and its sinking their “predictable” offense."
+      "publishedAt": "2025-10-10T13:13:00Z",
+      "description": "Scientists have shot two black holes orbiting each other, offering the first ever definitive proof that these intergalactic voids come in pairs, per a new study published in the Astrophysical Journ…"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "UN official says scaled-up aid deliveries to Gaza will begin Sunday",
+      "original_title": "UN official says scaled-up aid deliveries to Gaza will begin Sunday - AP News",
+      "url": "https://apnews.com/article/gaza-shelling-ceasefire-israel-c832ff32cf332805ffb50bffa35e8220",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bbea1fb/2147483647/strip/true/crop/8220x4624+0+428/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fb3%2Fae50e5682fbba1feb22c739553da%2F9cc2f8f8c8694887b32ee43478d9409a",
+      "source": "Associated Press",
+      "publishedAt": "2025-10-10T12:26:00Z",
+      "description": "Tens of thousands of Palestinians headed back to the heavily destroyed northern Gaza Strip as a U.S.-brokered ceasefire came into effect on Friday. The deal has raised hopes for ending the Israel-Hama"
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "RFK Jr.'s next vaccine target",
+      "original_title": "RFK Jr.'s next vaccine target - Axios",
+      "url": "https://www.axios.com/2025/10/10/rfk-vaccine-aluminum-trump-ban",
+      "urlToImage": "https://images.axios.com/yM2v4FXR4rjb6vSwSJOlDVtvj_I=/0x0:1920x1080/1366x768/2025/10/09/1760042231922.jpeg",
+      "source": "Axios",
+      "publishedAt": "2025-10-10T12:16:16Z",
+      "description": "The federal government is poised to reopen the safety debate about aluminum in vaccines."
+    },
+    {
+      "flag": "🌍",
+      "country": "global",
+      "title": "Nvidia Has A Problem In China. Meet The Chipmakers Vying To Replace The AI Titan In A Key Market. - Investor's Business Daily",
+      "original_title": "Nvidia Has A Problem In China. Meet The Chipmakers Vying To Replace The AI Titan In A Key Market. - Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-china-problem/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/08/Stock-Nvidiastockchart-01-adobe.jpg",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2025-10-10T12:01:00Z",
+      "description": "Nvidia stock has dominated the artificial intelligence space, but may soon face a new challenge in one of it's largest markets."
     },
     {
       "flag": "🌍",
@@ -68,48 +189,26 @@
       "description": "No Doubt will stage a residency at Las Vegas' Sphere after rumors that they'd be heading to Sin City."
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Google may be forced to make changes to search engine in UK",
-      "original_title": "Google may be forced to make changes to search engine in UK - BBC",
-      "url": "https://www.bbc.com/news/articles/c98d7p8l9pro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8e84/live/e03ce540-a5bb-11f0-9c0f-2728b7b5fddd.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-10T10:47:33Z",
-      "description": "The regulator has given it \"strategic market status\", opening the door to what it calls \"proportionate interventions.\""
+      "flag": "🌍",
+      "country": "global",
+      "title": "Global selloff underway as traders sour on U.S. government shutdown and doubts about the Fed grow",
+      "original_title": "Global selloff underway as traders sour on U.S. government shutdown and doubts about the Fed grow - Fortune",
+      "url": "https://fortune.com/2025/10/10/stocks-global-us-government-shutdown-fed-rate-cut/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2239318936_7b89e1.jpg?resize=1200,600",
+      "source": "Fortune",
+      "publishedAt": "2025-10-10T10:23:00Z",
+      "description": "It’s not chaos, but it’s not good."
     },
     {
       "flag": "🌍",
       "country": "global",
-      "title": "October 10 Chilly Today Then Developing Coastal Storm Brings Rain Saturday And More Wind Sunday To Monday",
-      "original_title": "October 10 Chilly Today Then Developing Coastal Storm Brings Rain Saturday And More Wind Sunday To Monday - Just In Weather",
-      "url": "https://justinweather.com/2025/10/10/october-10-chilly-today-then-developing-coastal-storm-brings-rain-saturday-and-more-wind-sunday-to-monday/",
-      "urlToImage": "https://justinweather.com/wp-content/uploads/2025/10/October-10-weather-Friday-morning.jpg",
-      "source": "Justinweather.com",
-      "publishedAt": "2025-10-10T10:42:22Z",
-      "description": "Chilly weather is settling in today as a coastal storm develops, bringing rain Saturday and stronger winds from Sunday into Monday across the region."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "Scientists discovered something alarming seeping out from beneath the ocean around Antarctica",
-      "original_title": "Scientists discovered something alarming seeping out from beneath the ocean around Antarctica - CNN",
-      "url": "https://www.cnn.com/2025/10/10/climate/methane-seeps-antarctica",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/divers-surveying-a-methane-seep-at-cape-evans-credit-leigh-tait-earth-sciences-nz.png?c=16x9&q=w_800,c_fill",
-      "source": "CNN",
-      "publishedAt": "2025-10-10T10:00:51Z",
-      "description": "Planet-heating methane is escaping from cracks in the Antarctic seabed, with new seeps being discovered at an “astonishing rate,” raising fears that future global warming predictions may have been und"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Snapdragon 8 Elite Gen 5 Sample Made On Samsung’s 2nm GAA Process Was Recently Sent To Qualcomm, Signaling Some Positive News",
-      "original_title": "Snapdragon 8 Elite Gen 5 Sample Made On Samsung’s 2nm GAA Process Was Recently Sent To Qualcomm, Signaling Some Positive News - Wccftech",
-      "url": "https://wccftech.com/snapdragon-8-elite-gen-5-sample-on-samsung-2nm-gaa-process-sent-to-qualcomm/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/Snapdragon-8-Elite-Gen-5-4.jpg",
-      "source": "Wccftech",
-      "publishedAt": "2025-10-10T07:47:00Z",
-      "description": "Qualcomm may move to a dual-sourcing approach as Samsung was recently reported to have supplied a Snapdragon 8 Elite Gen 5 sample"
+      "title": "When Trump demands prosecutions, his DOJ now obeys",
+      "original_title": "When Trump demands prosecutions, his DOJ now obeys - Politico",
+      "url": "https://www.politico.com/news/2025/10/10/trump-doj-prosecutions-comey-james-00601838",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb0%2Fcc%2Fb49d1e474e97993aff1a7ca30b6a%2Ftrump-antifa-45707.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-10T09:55:00Z",
+      "description": "Donald Trump has long called for imprisoning his opponents. For the first time, he has a Justice Department willing to do his bidding."
     },
     {
       "flag": "🇬🇧",
@@ -125,46 +224,13 @@
     {
       "flag": "🌍",
       "country": "global",
-      "title": "Peru's Congress removes President Boluarte as a crime wave grips the country",
-      "original_title": "Peru's Congress removes President Boluarte as a crime wave grips the country - NPR",
-      "url": "https://www.npr.org/2025/10/10/nx-s1-5570600/peru-impeachment-trial-boluarte",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5366x3018+0+279/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F50%2F768b9af24d13954a53822c012689%2Fap25266586314097.jpg",
-      "source": "NPR",
-      "publishedAt": "2025-10-10T05:11:09Z",
-      "description": "Lawmakers voted overwhelmingly to swiftly remove Peru's first female president shortly after midnight, marking yet another leadership shake-up in a nation rocked by violence and political turmoil."
-    },
-    {
-      "flag": "🇺🇸",
-      "country": "us",
-      "title": "China launches customs crackdown on Nvidia AI chips",
-      "original_title": "China launches customs crackdown on Nvidia AI chips - Financial Times",
-      "url": "https://www.ft.com/content/8d5387f2-62b0-4830-b0e4-00ba0622a7c8",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7096cf2e-2932-4f94-af7e-3ee80a932620.jpg?source=next-barrier-page",
-      "source": "Financial Times",
-      "publishedAt": "2025-10-10T04:00:48Z",
-      "description": "Stringent border checks come after Beijing orders tech companies to stop ordering US processors"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Ciattarelli to sue Sherrill over opioid death claims in New Jersey gubernatorial debate, campaign says",
-      "original_title": "Ciattarelli to sue Sherrill over opioid death claims in New Jersey gubernatorial debate, campaign says - CBS News",
-      "url": "https://www.cbsnews.com/philadelphia/news/ciattarelli-to-sue-sherrill-new-jersey-governor/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/08/0986e854-63c3-4b07-852f-568524f8cd90/thumbnail/1200x630/c825c0949b45d09ca4a38b34e652a554/img-0326.jpg",
-      "source": "CBS News",
-      "publishedAt": "2025-10-10T03:34:00Z",
-      "description": "Jack Ciattarelli plans to sue his opponent, Rep. Mikie Sherrill, over claims she made during their debate Wednesday, his campaign says."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "‘Grey’s Anatomy’ Explosion Casualty Revealed: Departing Actor Speaks About Getting The News, Character’s Death Scene, Favorite Episode & More",
-      "original_title": "‘Grey’s Anatomy’ Explosion Casualty Revealed: Departing Actor Speaks About Getting The News, Character’s Death Scene, Favorite Episode & More - Deadline",
-      "url": "http://deadline.com/2025/10/greys-anatomy-natalie-morales-monica-leaving-1236575430/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/Greys-anatomy-2.jpg?w=1024",
-      "source": "Deadline",
-      "publishedAt": "2025-10-10T03:00:00Z",
-      "description": "'Grey's Anatomy' Season 22 premiere reveals a cast departure -- the sole casualty from the massive OR explosion."
+      "title": "How Trump’s envoys got Gaza deal over the finish line",
+      "original_title": "How Trump’s envoys got Gaza deal over the finish line - Politico",
+      "url": "https://www.politico.com/news/2025/10/09/trumps-envoys-gaza-deal-00601374",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbf%2F52%2Fb6b061d142a58dc2e0b291fa685f%2Fegypt-mideast-wars-gaza-us-82948.jpg",
+      "source": "Politico",
+      "publishedAt": "2025-10-10T01:59:50Z",
+      "description": "Envoys Steve Witkoff and Jared Kushner dictated the final compromises to speed the talks to completion"
     },
     {
       "flag": "🌍",
@@ -178,37 +244,15 @@
       "description": "President Donald Trump and his administration have described Portland, Oregon, as a city under siege by antifa, labeling it a war zone. However, the reality in Portland is less extreme. There have bee"
     },
     {
-      "flag": "🇬🇧",
-      "country": "gb",
-      "title": "Fossil found on UK coast is unique 'sword dragon' species",
-      "original_title": "Fossil found on UK coast is unique 'sword dragon' species - BBC",
-      "url": "https://www.bbc.com/news/articles/cdjzvzzy0mxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7eb1/live/cdd866d0-a530-11f0-b741-177e3e2c2fc7.jpg",
-      "source": "BBC News",
-      "publishedAt": "2025-10-10T00:20:07Z",
-      "description": "Scientists say the newly discovered species of marine reptile probably met a grisly end."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Letitia James pursued Trump. Then she was indicted.",
-      "original_title": "Letitia James pursued Trump. Then she was indicted. - Politico",
-      "url": "https://www.politico.com/news/2025/10/09/letitia-james-donald-trump-indicted-00601266",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F9c%2F69%2F84e7d02949e398ea27eb5cd6cce7%2Fgettyimages-2214132760.jpg",
-      "source": "Politico",
-      "publishedAt": "2025-10-09T23:53:10Z",
-      "description": "The Democratic New York attorney general made her investigation of the Republican president a centerpiece of her campaign."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
-      "original_title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting - Ars Technica",
-      "url": "https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-1152x648.jpg",
-      "source": "Ars Technica",
-      "publishedAt": "2025-10-09T22:17:09Z",
-      "description": "The committee aims to take on the entire childhood vaccine schedule."
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "Ukraine says ‘massive’ Russian attack targeted energy infrastructure",
+      "original_title": "Ukraine says ‘massive’ Russian attack targeted energy infrastructure - CNN",
+      "url": "https://www.cnn.com/2025/10/09/europe/russia-ukraine-infrastructure-attack-hnk-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239619912.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "publishedAt": "2025-10-10T00:55:00Z",
+      "description": "Russia carried out a “massive attack” on Ukraine’s energy infrastructure, top Ukrainian officials said early Friday, leaving parts of the capital Kyiv without power."
     },
     {
       "flag": "🌍",
@@ -222,15 +266,15 @@
       "description": "Pixel 10 Pro Fold features a completely redesigned hinge system, one that has no gears. It’s a gearless hinge. This is a big deal because gears can wear down over time, as well as get crud stuck up in"
     },
     {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Missiles, one after another' — Kyiv blackouts as Russia strikes Ukraine's energy infrastructure once again",
-      "original_title": "'Missiles, one after another' — Kyiv blackouts as Russia strikes Ukraine's energy infrastructure once again - The Kyiv Independent",
-      "url": "https://kyivindependent.com/potential-water-power-shortages-reported-in-kyiv-amid-massive-drone-strikes/",
-      "urlToImage": "https://assets.kyivindependent.com/content/images/2025/10/IMG_3106-1.jpg",
-      "source": "Kyivindependent.com",
-      "publishedAt": "2025-10-09T21:33:44Z",
-      "description": "Russia launched a large-scale drone and missile attack on Ukraine overnight on Oct. 10, killing a child and injuring at least 24 people in the country while leaving a part of Kyiv without electricity "
+      "flag": "🇺🇸",
+      "country": "us",
+      "title": "The mini backpacks that prove bats hunt birds like fighter jets",
+      "original_title": "The mini backpacks that prove bats hunt birds like fighter jets - The Times",
+      "url": "https://www.thetimes.com/uk/science/article/backpacks-bats-hunt-birds-jets-89jt870vc",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/%2F233c685a-10f4-4fea-874d-1600d44ea95d.jpg?crop=1600%2C900%2C0%2C0&resize=1200",
+      "source": "Thetimes.com",
+      "publishedAt": "2025-10-09T18:00:00Z",
+      "description": "Scientists analysed Europe’s biggest bats to find how they target their prey, capturing distress calls and even the sound of chewing"
     },
     {
       "flag": "🌍",
@@ -242,39 +286,6 @@
       "source": "Live Science",
       "publishedAt": "2025-10-09T15:49:02Z",
       "description": "Using observations from the James Webb Space Telescope, astrophysicists have spotted what they say is compelling evidence of a new type of cosmic object called a 'dark star.'"
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Covid Shots Are About to Be Widely Available Again",
-      "original_title": "Covid Shots Are About to Be Widely Available Again - WIRED",
-      "url": "https://www.wired.com/story/covid-shots-are-about-to-be-widely-available-again-vaccines-cdc/",
-      "urlToImage": "https://media.wired.com/photos/68e68f44251274c0216234de/191:100/w_1280,c_limit/sci-covid-vax-1234262574.jpg",
-      "source": "Wired",
-      "publishedAt": "2025-10-09T14:24:00Z",
-      "description": "The CDC no longer broadly recommends the Covid-19 vaccine, but US residents will still be able to get one if they want."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Apple Harvests Demand — And Picks This Fight With Meta, Google - Investor's Business Daily",
-      "original_title": "Apple Harvests Demand — And Picks This Fight With Meta, Google - Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-analysis/apple-stock-appl-harvests-demand-fight-meta-google/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/stock-apple-glowing-adobe.jpg",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2025-10-09T13:52:00Z",
-      "description": "Boosted by clear signs of demand, Apple targets a breakout."
-    },
-    {
-      "flag": "🌍",
-      "country": "global",
-      "title": "Simulations unveil the electrodynamic nature of black hole mergers and other spacetime collisions",
-      "original_title": "Simulations unveil the electrodynamic nature of black hole mergers and other spacetime collisions - Phys.org",
-      "url": "https://phys.org/news/2025-10-simulations-unveil-electrodynamic-nature-black.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/simulations-unveil-the.jpg",
-      "source": "Phys.Org",
-      "publishedAt": "2025-10-09T10:30:01Z",
-      "description": "Gravitational waves are energy-carrying waves produced by the acceleration or disturbance of massive objects. These waves, which were first directly observed in 2015, are known to be produced during v"
     },
     {
       "flag": "🌍",
